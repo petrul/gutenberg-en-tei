@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The calculus of logic</title>
+            <author>George Boole</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T00:32:08Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/b/BooleGeorge-TheCalculusOfLogic_2022.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>George Boole</name>
+               <date>2024-01-04T00:32:08Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The calculus of logic</head>
+         <author>George Boole</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/b/BooleGeorge-TheCalculusOfLogic_2022.odt</p>
+         <head>THE CALCULUS OF LOGIC</head>
+         <p>By</p>
+         <pb/>
+         <div type="div1">
+            <head>The calculus of logic</head>
+            <p rend="justify">GEORGE BOOLE</p>
+            <lg>
+               <l/>
+               <l/>
+            </lg>
+            <p rend="justify">
+               <hi rend="italic">Cambridge and Dublin Mathematical Journal</hi>
+               <lb/>Vol. III (1848), pp. 183-98</p>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <p rend="justify">In a work lately published[1], I have exhibited the application of a new and peculiar form of Mathematics to the expression of the operations of the mind in reasoning. In the present essay I design to offer such an account of a portion of this treatise as may furnish a correct view of the nature of the system developed. I shall endeavour to state distinctly those positions in which its characteristic distinctions consist, and shall offer a more particular illustration of some features which are less prominently displayed in the (p. 184)[2]  original work. The part of the system to which I shall confine my observations is that which treats of categorical propositions, and the positions which, under this limitation, I design to illustrate, are the following:</p>
+            <p rend="justify">(1) That the business of Logic is with the relations of classes, and with the modes in which the mind contemplates those relations.</p>
+            <p rend="justify">(2) That antecedently to our recognition of the existence of propositions, there are laws to which the conception of a class is subject,—laws which are dependent upon the constitution of the intellect, and which determine the character and form of the reasoning process.</p>
+            <p rend="justify">(3) That those laws are capable of mathematical expression, and that they thus constitute the basis of an interpretable calculus.</p>
+            <p rend="justify">(4) That those laws are, furthermore, such, that all equations which are formed in subjection to them, even though expressed under functional signs, admit of perfect solution, so that every problem in logic can be solved by reference to a general theorem.</p>
+            <p rend="justify">(5) That the forms under which propositions are actually exhibited, in accordance with the principles of this calculus, are analogous with those of a philosophical language.</p>
+            <p rend="justify">(6) That although the symbols of the calculus do not depend for their interpretation upon the idea of quantity, they nevertheless, in their particular application to syllogism, conduct us to the quantitative conditions of inference.</p>
+            <p rend="justify">It is specially of the two last of these positions that I here desire to offer illustration, they having been but partially exemplified in the work referred to. Other points will, however, be made the subjects of incidental discussion. It will be necessary to premise the following notation.</p>
+            <p rend="justify">The universe of conceivable objects is represented by 1 or unity. This I assume as the primary and subject conception. All subordinate conceptions of class are understood to be formed from it by limitation, according to the following scheme.</p>
+            <p rend="justify">Suppose that we have the conception of any group of objects consisting of s s, and others, and that , which we shall call an elective symbol, represents the mental operation of selecting from that group all the s which it contains, or of fixing the attention upon the s to the exclusion of all which are not s, the mental operation of selecting the s, and so on; then, 1 or the universe being the subject conception, we shall have</p>
+            <p rend="justify">and so on.</p>
+            <p rend="justify">In like manner we shall have</p>
+            <p rend="justify">Furthermore, from consideration of the nature of the mental operation involved, it will appear that the following laws are satisfied.</p>
+            <p rend="justify">Representing by , , any elective symbols whatever,</p>
+            <p rend="justify">From the first of these it is seen that elective symbols are distributive in their operation; from the second that they are <hi rend="italic">commutative</hi>. The third I have termed the index law; it is peculiar to elective symbols.</p>
+            <p rend="justify">The truth of these laws does not at all depend upon the nature, or the number, or the mutual relations, of the individuals included in the different classes. There may be but one individual in a class, or there may be a thousand. There may be individuals common to different classes, or the classes may be mutually exclusive. All elective symbols are distributive, and commutative, and all elective symbols satisfy the law expressed by (3).</p>
+            <p rend="justify">These laws are in fact embodied in every spoken or written language. The equivalence of the expressions "good wise man" and "wise good man," is not a mere truism, but an assertion of the law of commutation exhibited in (2). And there are similar illustrations of the other laws.</p>
+            <p rend="justify">With these laws there is connected a general axiom. We have seen that algebraic operations performed with elective symbols represent mental processes. Thus the connexion of two symbols by the sign + represents the aggregation of two classes into a single class, the connexion of two symbols as in multiplication, represents the mental operation of selecting from a class those members which belong also to another class , and so on. By such operations the conception of a class is modified. But beside this the mind has the power of perceiving relations of equality among classes. The axiom in question, then, is that <hi rend="italic">if a relation of equality is perceived between two classes, that relation remains unaffected when both subjects are equally modified by the operations above described</hi>. (A). This axiom, and not "Aristotle's dictum," is the real foundation of all reasoning, the form and character of the process being, however, determined by the three laws already stated.</p>
+            <p rend="justify">It is not only true that every elective symbol representing a class satisfies the index law (3), but it may be rigorously demonstrated that any combination of elective symbols ( ..), which satisfies the law ( ..)<hi rend="sup italic">n</hi>  = ( ..), represents an intelligible conception,—a group or class defined by a greater or less number of properties and consisting of a greater or less number of parts.</p>
+            <p rend="justify">The four categorical propositions upon which the doctrine of ordinary syllogism is founded, are</p>
+            <table rend="frame" xml:id="Table1">
+               <row>
+                  <cell>   All Ys are Xs.</cell>
+                  <cell>A,</cell>
+               </row>
+               <row>
+                  <cell>   No Ys are Xs.</cell>
+                  <cell>E,</cell>
+               </row>
+               <row>
+                  <cell>   Some Ys are Xs.</cell>
+                  <cell>I,</cell>
+               </row>
+               <row>
+                  <cell>   Some Ys are not Xs.</cell>
+                  <cell>O.</cell>
+               </row>
+            </table>
+            <p rend="justify">We shall consider these with reference to the classes among which relation is expressed.</p>
+            <p rend="justify">A. The expression All s represents the class and will therefore be expressed by , the copula are by the sign =, the indefinite term, s, is equivalent to Some s. It is a convention of language, that the word Some is expressed in the subject, but not in the predicate of a proposition. The term Some s will be expressed by , in which is an elective symbol appropriate to a class , some members of which are s, but which is in other respects arbitrary. Thus the proposition will be expressed by the equation</p>
+            <p rend="justify">E. In the proposition, No s are s, the negative particle appears to be attached to the subject instead of to the predicate to which it manifestly belongs.[3]  We do not intend to say that those things which are not- s are s, but that things which are s are not- s. Now the class not- s is expressed by 1 - ; hence the proposition No s are s, or rather All s are not- s, will be expressed by</p>
+            <p rend="justify">I. In the proposition Some s are s, or Some s are Some s, we might regard the Some in the subject and the Some in the predicate as having reference to the same arbitrary class , and so write</p>
+            <p rend="justify">but it is less of an assumption to refrain from doing this. Thus we should write</p>
+            <p rend="justify">'  referring to another arbitrary class '.</p>
+            <p rend="justify">O. Similarly, the proposition Some s are not- s, will be expressed by the equation</p>
+            <p rend="justify">It will be seen from the above that the forms under which the four categorical propositions A, E, I, O are exhibited in the notation of elective symbols are analogous with those of pure language, <hi rend="italic">i.e.</hi>  with the forms which human speech would assume, were its rules entirely constructed upon a scientific basis. In a vast majority of the propositions which can be conceived by the mind, the laws of expression have not been modified by usage, and the analogy becomes more apparent, <hi rend="italic">e.g.</hi>  the interpretation of the equation</p>
+            <p rend="justify">is, the class consists of all s which are not- s and of all s which are not-Xs.</p>
+            <p rend="justify">[1] <hi rend="italic">The Mathematical Analysis of Logic, being an Essay towards a Calculus of Deductive Reasoning</hi>. Cambridge, MacMillan; London, G. Bell.</p>
+            <p rend="justify">[2]The Mathematical Analysis of Logic</p>
+            <p rend="justify">[3]There are two ways in which the proposition, No Xs are Ys, can be understood. 1st, In the sense of All Xs are not-Y, In the sense of It is not true that any Xs are Ys, <hi rend="italic">i.e.</hi>  the proposition "Some Xs are Ys". The former of these are categorical proposition. The latter is <hi rend="italic">an assertion respecting a proposition</hi>, and its expression belongs to a distinct part of the elective system. It appears to me that it is the latter sense, which is really adopted by those who refer the negative, <hi rend="italic">not</hi>, to the copula. To refer it to the predicate is not a useless refinement, but a necessary step, in order to make the proposition truly <hi rend="italic">a relation between classes</hi>. I believe it will be found that this step is really taken in the attempts to demonstrate the Aristotelian rules of distribution.</p>
+            <p rend="justify">The transposition of the negative is a very common feature of language. Habit renders us almost insensible to it in our own language, but when in another language the same principle is differently exhibited, as in the Greek, <hi rend="italic">οὺ φημὶ</hi>  for <hi rend="italic">φημὶ οὺ</hi>, it claims attention.</p>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">General Theorems relating to Elective Functions.</hi>
+               </head>
+               <p rend="justify">We have now arrived at this step,—that we are in possession of a class of symbols , , , &amp;c. satisfying certain laws, and applicable to the rigorous expression of any categorical proposition whatever. It will be our next business to exhibit a few of the general theorems of the calculus which rest upon the basis of those laws, and these theorems we shall afterwards apply to the discussion of particular examples.</p>
+               <p rend="justify">Of the general theorems I shall only exhibit two sets: those which relate to the development of functions, and those which relate to the solution of equations.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Theorems of Development.</hi>
+                  </head>
+                  <p rend="justify">(1) If be any elective symbol, then</p>
+                  <p rend="justify">the coefficients (1), (0), which are quantitative or common algebraic functions, are called the moduli, and and 1 - the constituents.</p>
+                  <p rend="justify">(2) For a function of two elective symbols we have</p>
+                  <p rend="justify">in which (11), (10), &amp;c. are quantitative, and are called the moduli, and , (1 - ), &amp;c. the constituents.</p>
+                  <p rend="justify">(3) Functions of three symbols,</p>
+                  <p rend="justify">in which (111), (110), &amp;c. are the moduli, and , (1 - ), &amp;c. the constituents.</p>
+                  <p rend="justify">From these examples the general law of development is obvious. And I desire it to be noted that this law is a mere consequence of the primary laws which have been expressed in (1), (2), (3).</p>
+                  <p rend="justify">THEOREM. <hi rend="italic">If we have any equation</hi>  ( ..) = 0, <hi rend="italic">and fully expand the first member, then every constituent whose modulus does not vanish may be equated to</hi>  0.</p>
+                  <p rend="justify">This enables us to interpret any equation by a general rule.</p>
+                  <p rend="justify">RULE. <hi rend="italic">Bring all the terms to the first side, expand this in terms of all the elective symbols involved in it, and equate to</hi>  0 <hi rend="italic">every constituent whose modulus does not vanish.</hi>
+                  </p>
+                  <p rend="justify">For the demonstration of these and many other results, I must refer to the original work. It must be noted that on p. 66[4], <hi rend="italic">z</hi>  has been, through mistake, substituted for , and that the reference on p. 80[5]  should be to Prop. 2.</p>
+                  <p rend="justify">As an example, let us take the equation</p>
+                  <p rend="justify">Here ( ) = + 2 - 3 , whence the values of the moduli are</p>
+                  <p rend="justify">so that the expansion (9) gives</p>
+                  <p rend="justify">which is in fact only another form of (11a). We have, then, by the Rule</p>
+                  <p rend="justify">the former implies that there are no Xs which are not-Ys, the latter that there are no Ys which are not-Xs, these together expressing the full significance of the original equation.</p>
+                  <p rend="justify">We can, however, often recombine the constituents with a gain of simplicity. In the present instance, subtracting (12) from (11b), we have</p>
+                  <p rend="justify">or</p>
+                  <p rend="justify">that is, the class is identical with the class . This proposition is equivalent to the two former ones.</p>
+                  <p rend="justify">All equations are thus of equal significance which give, on expansion, the same series of constituent equations, and <hi rend="italic">all are interpretable</hi>.</p>
+                  <p rend="justify">[4]The Mathematical Analysis of Logic</p>
+                  <p rend="justify">[5]Ibid.</p>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">General Solution of Elective Equations.</hi>
+                     </head>
+                     <p rend="justify">(1) The general solution of the equation ( ) = 0, in which two elective symbols only are involved, being the one whose value is sought, is</p>
+                     <p rend="justify">The coefficients</p>
+                     <p rend="justify">are here the moduli.</p>
+                     <p rend="justify">(2) The general solution of the equation ( ) = 0, being the symbol whose value is to be determined, is</p>
+                     <p rend="justify">the coefficients of which we shall still term the moduli. The law of their formation will readily be seen, so that the general theorems which have been given for the solution of elective equations of two and three symbols, may be regarded as examples of a more general theorem applicable to all elective equations whatever. In applying these results it is to be observed, that if a modulus assume the form 0/0 it is to be replaced by an arbitrary elective symbol , and that if a modulus assume any numerical value except 0 or 1, the constituent of which it is a factor must be separately equated to 0. Although these conditions are deduced solely from the laws to which the symbols are obedient, and without any reference to interpretation, they nevertheless render the solution of every equation interpretable in logic. To such formulae also <hi rend="italic">every question upon the relations of classes may be referred</hi>. One or two very simple illustrations may suffice[6].</p>
+                     <p rend="justify">(1) Given</p>
+                     <p rend="justify">The s which are s consist of the s which are s and the s which are not- s. Required the class .</p>
+                     <p rend="justify">Here</p>
+                     <p rend="justify">and substituting in (14), we have</p>
+                     <p rend="justify">Hence the class includes all s which are not- s, an indefinite number of s which are s, and an indefinite number of individuals which are neither s nor s. The classes and '  being quite arbitrary, the indefinite remainder is equally so; it may vanish or not.[7]</p>
+                     <p rend="justify">Since 1 - represents a class, not- , and satisfies the index law</p>
+                     <p rend="justify">as is evident on trial, we may, if we choose, determine the value of this element just as we should determine that of .</p>
+                     <p rend="justify">Let us take, in illustration of this principle, the equation = , (All s are s), and seek the value of 1 - , the class not- .</p>
+                     <p rend="justify">Put 1 - = then = (1 - ), and if we write this in the form - (1 - ) = 0 and represent the first member by ( ), here taking the place of , in (14), we shall have</p>
+                     <p rend="justify">the solution will thus assume the form</p>
+                     <p rend="justify">or</p>
+                     <p rend="justify">The infinite coefficient of the second term in the second member permits us to write</p>
+                     <p rend="justify">the coefficient 0/0 being then replaced by , an arbitrary elective symbol, we have</p>
+                     <p rend="justify">or</p>
+                     <p rend="justify">We may remark upon this result that the coefficient + (1 - ) in the second member satisfies the condition</p>
+                     <p rend="justify">as is evident on squaring it. It therefore represents a <hi rend="italic">class</hi>. We may replace it by an elective symbol , we have then</p>
+                     <p rend="justify">the interpretation of which is</p>
+                     <p rend="justify">All not- s are not- s.</p>
+                     <p rend="justify">This is a known transformation in logic, and is called conversion by contraposition, or negative conversion. But it is far from exhausting the solution we have obtained. Logicians have overlooked the fact, that when we convert the proposition All s are (some) s into All not- s are (some) not- s there is a relation between the two (<hi rend="italic">somes</hi>), understood in the predicates. The equation (18) shews that whatever may be that condition which limits the s in the original proposition,—the not-Ys in the converted proposition consist of all which are subject to the same condition, and of an arbitrary remainder which are not subject to that condition. The equation (17) further shews that there are no s which are not subject to that condition.</p>
+                     <p rend="justify">We can similarly reduce the equation = (1 - ), No s are s, to the form = '(1 - ) No s are s, with a like relation between and '. If we solve the equation = All s are s, with reference to , we obtain the subsidiary relation (1 - ) = 0 No s are not- s, and similarly from the equation = (1 - ) (No s are s) we get = 0. These equations, which may also be obtained in other ways, I have employed in the original treatise. All equations whose interpretations are connected are similarly connected themselves, by solution or development.</p>
+                     <p rend="justify">[6]The author has only provided one example in this particular case.</p>
+                     <p rend="justify">[7]This conclusion may be illustrated and verified by considering an example such as the following.</p>
+                     <lg>
+                        <l>Let denote all steamers, or steam-vessels,</l>
+                        <l>  denote all steamers, or armed vessels,</l>
+                        <l>  denote all vessels of the Mediterranean.</l>
+                     </lg>
+                     <p rend="justify">Equation(<hi rend="italic">a</hi>) would then express that <hi rend="italic">armed steamers consist of the armed vessels of the Mediterranean and the steam-vessels not of the Mediterranean</hi>. From this it follows—</p>
+                     <p rend="justify">(1) That there are no armed vessels except steamers in the Mediterranean.</p>
+                     <p rend="justify">(2) That all unarmed steamers are in the Mediterranean (since the steam-vessels not of the Mediterranean are armed). Hence we infer that <hi rend="italic">the vessels of the Mediterranean consist of all unarmed steamers; any number of armed steamers; and any number of unarmed vessels without steam</hi>. This, expressed symbolically, is equation (15).</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">On Syllogism.</hi>
+                     </head>
+                     <p rend="justify">The forms of categorical propositions already deduced are</p>
+                     <table rend="frame" xml:id="Table2">
+                        <row>
+                           <cell>y = vx,</cell>
+                           <cell> All Ys are Xs,</cell>
+                        </row>
+                        <row>
+                           <cell>y = v(1 - x),</cell>
+                           <cell> No Ys are Xs,</cell>
+                        </row>
+                        <row>
+                           <cell>vy = v'x,</cell>
+                           <cell> Some Ys are Xs,</cell>
+                        </row>
+                        <row>
+                           <cell>vy = v'(1 - x),</cell>
+                           <cell> Some Ys are not-Xs,</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">whereof the two first give, by solution, 1 - = '(1 - ). All not- s are not- s, = '(1 - ), No s are s. To the above scheme, which is that of Aristotle, we might annex the four categorical propositions</p>
+                     <table rend="frame" xml:id="Table3">
+                        <row>
+                           <cell>1 - y = vx,</cell>
+                           <cell> All not-Ys are Xs,</cell>
+                        </row>
+                        <row>
+                           <cell>1 - y = v(1 - x),</cell>
+                           <cell> All not-Ys are not-Xs,</cell>
+                        </row>
+                        <row>
+                           <cell>v(1 - y) = v'x,</cell>
+                           <cell> Some not-Ys are Xs,</cell>
+                        </row>
+                        <row>
+                           <cell>v(1 - y) = v'(1 - x),</cell>
+                           <cell> Some not-Ys are not-Xs,</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">the two first of which are similarly convertible into</p>
+                     <table rend="frame" xml:id="Table4">
+                        <row>
+                           <cell>1 - x = v'y,</cell>
+                           <cell> All not-Xs are Ys,</cell>
+                        </row>
+                        <row>
+                           <cell>x = v'y,</cell>
+                           <cell> All Xs are Ys,</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell> or No not-Xs are Ys,</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">If now the two premises of any syllogism are expressed by equations of the above forms, the elimination of the common symbol will lead us to an equation expressive of the conclusion.</p>
+                     <table rend="frame" xml:id="Table5">
+                        <row>
+                           <cell>Ex. 1.</cell>
+                           <cell> All Ys are Xs,</cell>
+                           <cell> y = vx,</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell> All Zs are Ys,</cell>
+                           <cell> z = v'y,</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">the elimination of gives</p>
+                     <p rend="justify">the interpretation of which is</p>
+                     <p rend="justify">All s are s,</p>
+                     <p rend="justify">the form of the coefficient '  indicates that the predicate of the conclusion is limited by both the conditions which separately limit the predicates of the premises.</p>
+                     <table rend="frame" xml:id="Table6">
+                        <row>
+                           <cell>Ex. 2.</cell>
+                           <cell> All Ys are Xs,</cell>
+                           <cell> y = vx,</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell> All Ys are Zs,</cell>
+                           <cell> y = v'z.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The elimination of gives</p>
+                     <p rend="justify">which is interpretable into Some s are s. It is always necessary that one term of the conclusion should be interpretable by means of the equations of the premises. In the above case both are so.</p>
+                     <table rend="frame" xml:id="Table7">
+                        <row>
+                           <cell>Ex. 3.</cell>
+                           <cell> All Xs are Ys,</cell>
+                           <cell> x = vy,</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell> No Zs are Ys,</cell>
+                           <cell> z = v'(1 - y).</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Instead of directly eliminating let either equation be transformed by solution as in (19). The first gives</p>
+                     <p rend="justify">  being equivalent to + (1 - ), in which is arbitrary. Eliminating 1 - between this and the second equation of the system, we get</p>
+                     <p rend="justify">the interpretation of which is</p>
+                     <p rend="justify">No s are s.</p>
+                     <p rend="justify">Had we directly eliminated , we should have had</p>
+                     <p rend="justify">the reduced solution of which is</p>
+                     <p rend="justify">in which is an arbitrary elective symbol. This exactly agrees with the former result.</p>
+                     <p rend="justify">These examples may suffice to illustrate the employment of the method in particular instances. But its applicability to the demonstration of general theorems is here, as in other cases, a more important feature. I subjoin the results of a recent investigation of the Laws of Syllogism. While those results are characterized by great simplicity and bear, indeed, little trace of their mathematical origin, it would, I conceive, have been very difficult to arrive at them by the examination and comparison of particular cases.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">Laws of Syllogism deduced from the Elective Calculus.</hi>
+                     </head>
+                     <p rend="justify">We shall take into account all propositions which can be made out of the classes , , , and referred to any of the forms embraced in the following system,</p>
+                     <table rend="frame" xml:id="Table8">
+                        <row>
+                           <cell>A,</cell>
+                           <cell> All Xs are Zs.</cell>
+                           <cell> A',</cell>
+                           <cell> All not-Xs are Zs.</cell>
+                        </row>
+                        <row>
+                           <cell>E,</cell>
+                           <cell> No Xs are Zs.</cell>
+                           <cell> E',</cell>
+                           <cell> {No not-Xs are Zs, or</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> {(All not-Xs are not-Zs.)</cell>
+                        </row>
+                        <row>
+                           <cell>I,</cell>
+                           <cell> Some Xs are Zs.</cell>
+                           <cell> I'</cell>
+                           <cell> Some not-Xs are Zs.</cell>
+                        </row>
+                        <row>
+                           <cell>O,</cell>
+                           <cell> Some Xs are not-Zs.</cell>
+                           <cell> O',</cell>
+                           <cell> Some not-Xs are not-Zs.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">It is necessary to recapitulate that quantity (universal and particular) and quality (affirmative and negative) are understood to belong to the <hi rend="italic">terms</hi> of propositions which is indeed the correct view.[8]</p>
+                     <p rend="justify">Thus, in the proposition All s are s, the subject All s is universal-affirmative, the predicate (some) s particular-affirmative.</p>
+                     <p rend="justify">In the proposition, Some s are s, both terms are particular-affirmative.</p>
+                     <p rend="justify">The proposition No s are s would in philosophical language be written in the form All s are not- s. The subject is universal-affirmative, the predicate particular-negative.</p>
+                     <p rend="justify">In the proposition Some s are not- s, the subject is particular-affirmative, the predicate particular-negative. In the proposition All not- s are s the subject is universal-negative, the predicate particular-affirmative, and so on.</p>
+                     <p rend="justify">In a pair of premises there are four terms, viz. two subjects and two predicates; two of these terms, viz. those involving the or not- may be called the middle terms, the two others the extremes, one of these involving X or not- , the other or not- .</p>
+                     <p rend="justify">The following are then the conditions and the rules of inference.</p>
+                     <p rend="justify">Case 1st. The middle terms of like quality.</p>
+                     <p rend="justify">Condition of Inference. One middle term universal.</p>
+                     <p rend="justify">Rule. Equate the extremes.</p>
+                     <p rend="justify">Case 2nd. The middle terms of opposite qualities.</p>
+                     <p rend="justify">1st. Condition of Inference. One extreme universal.</p>
+                     <p rend="justify">Rule. Change the quantity and quality of that extreme, and equate the result to the other extreme.</p>
+                     <p rend="justify">2nd. Condition of inference. Two universal middle terms.</p>
+                     <p rend="justify">Rule. Change the quantity and quality of either extreme, and equate the result to the other extreme.</p>
+                     <p rend="justify">I add a few examples,</p>
+                     <table rend="frame" xml:id="Table9">
+                        <row>
+                           <cell>1st.</cell>
+                           <cell>   All Ys are Xs</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>   All Zs are Ys.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">This belongs to Case 1. All s is the universal middle term. The extremes equated give All s are s, the stronger term becoming the subject.</p>
+                     <p rend="justify">This belongs to Case 2, and satisfies the first condition. The middle term is particular-affirmative in the first premise, particular-negative in the second. Taking All s as the universal extreme, we have, on changing its quantity and quality, Some not- s, and this equated to the other extreme gives</p>
+                     <p rend="justify">All Xs are (some) not- s = No s are s.</p>
+                     <p rend="justify">If we take All s as the universal extreme we get</p>
+                     <p rend="justify">No Zs are Xs.</p>
+                     <table rend="frame" xml:id="Table10">
+                        <row>
+                           <cell>3rd.</cell>
+                           <cell>   All Xs are Ys.</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>   Some Zs are not-Ys.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">This also belongs to Case 2, and satisfies the first condition. The universal extreme All s becomes, some not- s, whence</p>
+                     <p rend="justify">Some Zs are not-Xs.</p>
+                     <table rend="frame" xml:id="Table11">
+                        <row>
+                           <cell>4th.</cell>
+                           <cell>   All Ys are Xs.</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>   All not-Ys are Zs.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">This belongs to Case 2, and satisfies the second condition. The extreme Some s becomes All not- s,</p>
+                     <p rend="justify">∴ All not- s are s.</p>
+                     <p rend="justify">The other extreme treated in the same way would give</p>
+                     <p rend="justify">All not- s are s,</p>
+                     <p rend="justify">which is an equivalent result.</p>
+                     <p rend="justify">If we confine ourselves to the Aristotelian premises A, E, I, O, the second condition of inference in Case 2 is not needed. The conclusion will not necessarily be confined to the Aristotelian system.</p>
+                     <p rend="justify">This belongs to Case 2, and satisfies the first condition. The result is</p>
+                     <p rend="justify">Some not- s are not- s.</p>
+                     <p rend="justify">These appear to me to be the ultimate laws of syllogistic inference. They apply to every case, and they completely abolish the distinction of figure, the necessity of conversion, the arbitrary and partial[9]  rules of distribution, &amp;c. If all logic were reducible to the syllogism these might claim to be regarded as the rules of logic. But logic, considered as the science of the relations of classes has been shewn to be of far greater extent. Syllogistic inference, in the elective system, corresponds to elimination. But this is not the highest in the order of its processes. All questions of elimination may in that system be regarded as subsidiary to the more general problem of the solution of elective equations. To this problem all questions of logic and of reasoning, without exception, may be referred. For the fuller illustrations of this principle I must however refer to the original work. The theory of hypothetical propositions, the analysis of the positive and negative elements, into which all propositions are ultimately resolvable, and other similar topics are also there discussed.</p>
+                     <p rend="justify">Undoubtedly the final aim of speculative logic is to assign the conditions which render reasoning possible, and the laws which determine its character and expression. The general axiom (A) and the laws (1), (2), (3), appear to convey the most definite solution that can at present be given to this question. When we pass to the consideration of hypothetical propositions, the same laws and the same general axiom which ought perhaps also to be regarded as a law, continue to prevail; the only difference being that the subjects of thought are no longer classes of objects, but cases of the coexistent truth or falsehood of propositions. Those relations which logicians designate by the terms conditional, disjunctive, &amp;c., are referred by Kant to distinct conditions of thought. But it is a very remarkable fact, that the expressions of such relations can be deduced the one from the other by mere analytical process. From the equation = , which expresses the <hi rend="italic">conditional</hi>  proposition, "If the proposition is true the proposition is true," we can deduce</p>
+                     <p rend="justify">which expresses the <hi rend="italic">disjunctive</hi>  proposition, "Either and are together true, or is true and is false, or they are both false," and again the equation (1 - ) = 0, which expresses a relation of coexistence, <hi rend="italic">viz.</hi>  that the truth of and the falsehood of do not coexist. The distinction in the mental regard, which has the best title to be regarded as fundamental, is, I conceive, that of the affirmative and the negative. From this we deduce the direct and the inverse in operations, the true and the false in propositions, and the opposition of qualities in their terms.</p>
+                     <p rend="justify">The view which these enquiries present of the nature of language is a very interesting one. They exhibit it not as a mere collection of signs, but as a system of expression, the elements of which are subject to the laws of the thought which they represent. That those laws are as rigorously mathematical as are the laws which govern the purely quantitative conceptions of space and time, of number and magnitude, is a conclusion which I do not hesitate to submit to the exactest scrutiny.</p>
+                     <p rend="justify">[8]When <hi rend="italic">propositions</hi>  are said to be affected with quantity and quality, the quality is really that of the <hi rend="italic">predicate</hi>, which expresses the <hi rend="italic">nature</hi>  of the assertion, and the quantity that of the <hi rend="italic">subject</hi>, which shews its extent.</p>
+                     <p rend="justify">[9]Partial, because they have reference only to the quantity of the X, even when the proposition relates to the not-X. It would be possible to construct an exact counterpart to the Aristotelian rules of syllogism, by quantifying only the not-X. The system in the text is <hi rend="italic">symmetrical</hi>  because it is complete.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">
+                        <hi rend="bold">TRANSCRIBER'S NOTES</hi>
+                     </p>
+                     <p rend="justify">The transcription of this work was made by David Wilkins from School of Mathematics Trinity College, Dublin who kindly authorized its use by Project Gutenberg.</p>
+                     <p rend="justify">Revision of this work was made by Prof. Stanley Burris from University of Waterloo.</p>
+                     <p rend="justify">Equation {11} was numbered twice by the author. They were renumbered as {11a} and {11b} respectively.</p>
+                     <p rend="justify">Footnotes [2], [3] and [5] have been added by this Transcriber for the sake of clarity in the text. The cover image was created by the Transcriber and placed in the public domain.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

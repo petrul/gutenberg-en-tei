@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Experiments on the Spoilage of Tomato Ketchup</title>
+            <author>A. W. Bitting</author>
+            <author>A. W. BITTING, INSPECTOR, BUREAU OF CHEMISTRY.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T00:11:50Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/b/BittingAW-ExperimentsOnTheSpoilageOfTomatoKetchup_2016.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>A. W. Bitting</name>
+               <date>2024-01-04T00:11:50Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Experiments on the Spoilage of Tomato Ketchup</head>
+         <author>A. W. Bitting</author>
+         <author>A. W. BITTING, INSPECTOR, BUREAU OF CHEMISTRY.</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/b/BittingAW-ExperimentsOnTheSpoilageOfTomatoKetchup_2016.odt</p>
+         <head>EXPERIMENTS ON THE SPOILAGE OF TOMATO KETCHUP.</head>
+         <p>Issued January 9, 1909.</p>
+         <p>U. S. DEPARTMENT OF AGRICULTURE,<lb/>BUREAU OF CHEMISTRY—BULLETIN No. 119.<lb/>H. W. WILEY, Chief of Bureau.</p>
+         <p>
+            <hi rend="bold">EXPERIMENTS ON THE SPOILAGE</hi>
+            <lb/>
+            <hi rend="bold">OF TOMATO KETCHUP.</hi>
+         </p>
+         <author>  BY<lb/>A. W. BITTING,<lb/>  INSPECTOR, BUREAU OF CHEMISTRY.</author>
+         <p>Shield of the United States Department of Agriculture</p>
+         <p>WASHINGTON:<lb/>GOVERNMENT PRINTING OFFICE.<lb/>1909.</p>
+         <pb/>
+         <div type="div1">
+            <head>Experiments on the Spoilage of Tomato Ketchup</head>
+            <pb/>
+            <div type="div2">
+               <head>LETTER OF TRANSMITTAL.</head>
+               <lg>
+                  <l>U. S. Department of Agriculture,</l>
+                  <l>Bureau of Chemistry,</l>
+                  <l>
+                     <hi rend="italic">Washington, D. C., July 15, 1908</hi>.</l>
+               </lg>
+               <p rend="justify">Sir: I have the honor to submit for your approval a report made by Inspector Bitting of experimental work on the spoilage of tomato ketchup, the conditions contributing thereto, methods of prevention, the action of preservatives, and the length of time that the product will keep under varying conditions of manufacture and temperature, both before and after opening. Every effort has been made to conduct the work in a practical way, and the results obtained can not fail to be of interest and profit both to the manufacturer and consumer. I recommend that this report be published as Bulletin No. 119 of the Bureau of Chemistry.</p>
+               <lg>
+                  <l>Respectfully,      H. W. Wiley,</l>
+                  <l>
+                     <hi rend="italic">Chief</hi>.</l>
+                  <l/>
+                  <l>Hon. James Wilson,</l>
+                  <l>
+                     <hi rend="italic">Secretary of Agriculture</hi>.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CONTENTS.</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell> </cell>
+                     <cell>Page.</cell>
+                  </row>
+                  <row>
+                     <cell>Introduction</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Process of manufacture</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Selection and preparation of stock</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Pulping</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Cooking and seasoning</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Evaporation and finishing</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Bottling</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Processing</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Character of products</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>First-class products</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Inferior products from “trimming stock”</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Labels</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Manufacturing experiments without the use of preservatives</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Outline of experiments</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Discussion of results</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Spoilage of ketchup after opening</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Spoilage of unopened ketchup</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Spoilage of market brands</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Sterility of ketchup</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Experiments with preservatives</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Sodium benzoate</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Salt</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Sugar</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Spices</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Water infusions</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Acetic acid extracts</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Oil extracts</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Vinegar and acetic acid</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Oil</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Study of Penicillium in ketchup</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Development</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Reproduction</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Growth in ketchup</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Temperature tests</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>Histological structure of ketchup</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>Microscopical examination of some commercial brands</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Summary</cell>
+                     <cell>35</cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ILLUSTRATIONS.</head>
+               <p rend="justify">
+                  <hi rend="bold">PLATES.</hi>
+               </p>
+               <p rend="justify"> </p>
+               <p rend="justify">Page.</p>
+               <p rend="justify">Plate I.</p>
+               <lg>
+                  <l>Penicillium.</l>
+                  <l>Fig. 1.—Conidia, normal growth and in various stages of germination, some with branching hyphæ.</l>
+                  <l>Fig. 2.—Conidiophore, showing unusually large development of conidia; from culture in moist chamber</l>
+               </lg>
+               <p rend="justify">28</p>
+               <p rend="justify">II.</p>
+               <lg>
+                  <l>Cultures from ketchup preserved with sodium benzoate.</l>
+                  <l>Fig. 1.—Conidia and hyphæ from culture in experimental ketchup containing one-sixteenth of 1 per cent of sodium benzoate.</l>
+                  <l>Fig. 2.—Conidia and hyphæ from culture in experimental ketchup containing one-tenth of 1 per cent of sodium benzoate</l>
+               </lg>
+               <p rend="justify">28</p>
+               <p rend="justify"> </p>
+               <p rend="justify">
+                  <hi rend="bold">TEXT FIGURES.</hi>
+               </p>
+               <p rend="justify">Fig. 1.</p>
+               <p rend="justify">A model receiving platform</p>
+               <p rend="justify">8</p>
+               <p rend="justify">2.</p>
+               <p rend="justify">Large receiving room showing the sorting belt</p>
+               <p rend="justify">9</p>
+               <p rend="justify">3.</p>
+               <p rend="justify">A section of a kitchen showing the copper cookers</p>
+               <p rend="justify">10</p>
+               <p rend="justify">4.</p>
+               <p rend="justify">An example of factory practice</p>
+               <p rend="justify">12</p>
+               <p rend="justify">5.</p>
+               <p rend="justify">Another factory interior</p>
+               <p rend="justify">14</p>
+               <p rend="justify">  EXPERIMENTS ON THE SPOILAGE OF TOMATO KETCHUP.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>INTRODUCTION.</head>
+               <p rend="justify">The tomato, <hi rend="italic">Lycopersicum esculentum</hi>, is supposed to be native to South or Central America. The large fruits commonly used grow only under cultivation, but the variety with small, spherical fruits, known as <hi rend="italic">L. cerasiforme</hi>, has been found on the shore of Peru and is considered by De Candolle[A] as belonging to the same species as <hi rend="italic">L. esculentum</hi>. Though grown extensively in Europe, there is nothing to indicate that it was known there before the discovery of America. The tomato was introduced into China and Japan at a comparatively recent date. De Candolle is of the opinion that the tomato was taken to Europe by the Spaniards from Peru and was later introduced into the United States by Europeans. Tomatoes were brought to Salem, Mass., by an Italian painter in 1802,[B] who is said to have had difficulty in convincing the people that they were edible. They were used in New Orleans in 1812, though as late as 1835 they were sold by the dozen in Boston. After 1840 they came into general use in the Eastern States, but it was later than this before tomatoes were used freely in the Western States, many persons having the impression that, since they belonged to the nightshade family, they must be unwholesome. The extent to which tomatoes are used at the present time shows how completely this prejudice has been overcome.</p>
+               <p rend="justify">The name <hi rend="italic">Lycopersicum</hi>  is from two Greek words, meaning a wolf, and a peach, the application of these terms not being apparent; the name of the species, <hi rend="italic">esculentum</hi>, is from the Latin, meaning eatable. The common name “tomato” is of South or Central American origin, and is believed to be the term used in an ancient American dialect to designate the plant,[C]  but its meaning is unknown. The English call the tomato “love apple,” which in French is “pomme d’amour.”</p>
+               <p rend="justify">The tomato is considered a typical berry, the ovary wall, free from the calyx, forming the fleshy pericarp, which incloses chambers filled with a clear matrix containing the seeds. The fruit measures from 1 to 5 inches in diameter, and is red, pink, or yellow when mature.</p>
+               <p rend="justify">The plant sports freely, producing many varieties, which differ mainly in the size, shape, and quality of the fruit. The varieties bearing small fruits are <hi rend="italic">L. cerasiforme</hi>  and <hi rend="italic">L. pyriforme</hi>, each bearing a two-celled fruit, the former being round, and somewhat larger than a cherry, and the latter pear-shaped. These small tomatoes are used ordinarily for preserves and pickles.</p>
+               <p rend="justify">The word “ketchup” is adopted in this bulletin as the form which ought to be given preference. The derivation of the term is not definitely known. The spelling “catchup” given in some of the leading dictionaries appears to be based on the erroneous idea that the first syllable “ketch” is a colloquial form of “catch.” Several authorities derive the word from the East Indian or Malayan “kitjap,” because “ketchup” was originally a kind of East Indian pickles. Some give the word a Chinese origin, while others assert that it comes from the Japanese. A majority of the manufacturers employ the word “catsup,” a spelling for which there does not appear to be any warrant.</p>
+               <div type="div3">
+                  <head>PROCESS OF MANUFACTURE.</head>
+                  <p rend="justify">Fig. 1.—A model receiving platform.</p>
+                  <p rend="justify">The making of tomato ketchup consists essentially in reducing tomatoes to pulp, removing the skins, seeds, hard parts, and stems, adding salt, sugar, condiments, and vinegar to suit the taste, and cooking to a proper consistency. The methods and practices of the various manufacturers differ, and the difference between the best and the poorest procedure corresponds to that between the best and the worst ketchup. No single factory has all of the best methods at every step of manufacture. Some perform certain details well and are negligent in others. In some, large amounts of money are spent on equipment to improve a particular point considered advantageous by the trade, while other details essential to the making of a good-keeping ketchup are disregarded. A statement of the best practice as observed at a number of factories, together with some facts obtained from experiments, will be given.</p>
+               </div>
+               <div type="div3">
+                  <head>SELECTION AND PREPARATION OF STOCK.</head>
+                  <p rend="justify">The tomatoes should be home-grown, of a red variety having the minimum of yellow and purple color, be picked when ripe, and delivered to the factory promptly without mashing. All tomatoes should pass over an inspection table, the rotten and otherwise unfit fruit should be discarded, and the green tomatoes should be returned to crates to ripen. The stems should be removed when the best color is desired, and the tomatoes should be thoroughly washed to remove dirt and mold. Dumping a crate of tomatoes into a hopper of dirty water and playing a gentle spray of water on part of them merely wets the skin and makes them appear bright.</p>
+                  <p rend="justify">Fig. 2.—Large receiving room showing the sorting belt.</p>
+               </div>
+               <div type="div3">
+                  <head>PULPING.</head>
+                  <p rend="justify">The clean tomatoes should be conveyed to the steaming tanks and subjected to steam heat until the skins burst and the meat softens. After a short heating the tomatoes should be run through a “cyclone” where the skins, seeds, etc., are removed and they are rubbed to a pulp. To remove very small particles and fiber, the pulp may be run through a sieving machine at once; or, if ketchup of the smoothest possible kind is to be made, this procedure should be delayed until after the cooking. The pulp is collected in a receiving vat, and only such an amount should be provided in advance as will keep the kettles full, as it is better to stop the tomatoes before going to the washer than to have the pulp stand for some hours. In common practice, however, the pulp is either sent to the cooker at once, or it is allowed to stand and partially separate. If tall casks are used for this separation the solids will rise to the top and the clear watery portion is drawn off at the bottom, or the pulp may be strained through cloth bags. The object of this separation is to secure greater concentration of the solids, retain a brighter color, and shorten the time of cooking.</p>
+               </div>
+               <div type="div3">
+                  <head>COOKING AND SEASONING.</head>
+                  <p rend="justify">Fig. 3.—A section of a kitchen showing the copper cookers.</p>
+                  <p rend="justify">The cooking may be done in copper kettles, as shown in figure 3, though these are being superseded by enamel tanks containing silver-plated coils in order to secure the brightest color. By using the latter the discoloration due to the splashing of the contents against the walls of the copper vessel is avoided, and economy of space is secured. Whole or ground spices, or acetic acid or oil extracts of the spices may be added to the pulp in such proportion as the particular brand demands. The spices most used are cloves, cinnamon, mace, and cayenne pepper; but paprika, pepper, mustard, cardamon, coriander, ginger, celery, and allspice are used by some manufacturers. When whole spices are used, it is the practice to suspend them in a cloth bag or a wire basket and to take them out after boiling. They tend to darken the color of the ketchup, a result considered undesirable by some. The ground spices are used sparingly, with the exception of cayenne pepper. The acetic acid extracts of spices are used because they are economical and give a brighter red color than is obtained with the whole spice. The oil extracts produce no discoloration, but they are the most expensive and give an objectionable flavor. Hungarian sweet paprika is now quite largely used and adds to the color as well as to the flavor. Sugar, salt, and vinegar are added in such proportion as may be desired, and in some brands onions and garlic are used.</p>
+               </div>
+               <div type="div3">
+                  <head>EVAPORATION AND FINISHING.</head>
+                  <p rend="justify">The pulp is evaporated rapidly to such consistency as the grade and price will warrant, the reduction in volume being from 40 to 60 per cent. This is accomplished in about forty-five minutes. The cooking is not continued longer than is necessary, as each minute added to the cooking darkens the finished product.</p>
+                  <p rend="justify">If the pulp has been run through the sieving machine before cooking, the batch may be drawn off into the receiving tank for bottling. If the finishing be done after cooking, the pulp is run into a receiving vat, finished as quickly as possible, and drawn into the tank for bottling. The ketchup may be kept at a high temperature—200° to 206° F.—in the receiving tank by means of a small steam coil, or it may be drawn to the bottling machine through a steam-jacketed tube. Finishing after cooking yields a slightly smoother ketchup than sieving before cooking; but it necessitates handling, reduces the temperature, and increases the chances of infection.</p>
+               </div>
+               <div type="div3">
+                  <head>BOTTLING.</head>
+                  <p rend="justify">The bottles should be thoroughly cleaned as ketchup will not keep if placed in bottles which have been merely rinsed to remove the straw; if the ketchup is not to be given an after process the containers should be sterilized. In the experimental work cork stoppers gave the best results and these should be sterilized in a paraffin bath at 250° F.</p>
+               </div>
+               <div type="div3">
+                  <head>PROCESSING.</head>
+                  <p rend="justify">An after treatment or process is given to bottled goods either in a water or steam bath, the important point being that the center of the bottle be raised to the desired degree of heat. If the ketchup is thin this can be effected quickly, but if it is thick and heavy the heat penetrates the ketchup with surprising slowness. In a thin ketchup the temperature may be raised from 140° to 190° F. in eighteen minutes or less when the surrounding heat is 195° F; but in a heavy ketchup it may take an hour or more to accomplish the same result. It is therefore very important that the ketchup be processed immediately after it is corked, before it has time to cool. The rate at which the heating is effected for different goods can be determined by sealing a thermometer in the cork and recording the readings.</p>
+                  <p rend="justify">Fig. 4.—An example of factory practice showing the top row of tanks from which pulp passes by gravity into the cookers, then into the receiver, sieving machine, and final tub ready for the bottling machine or jug filler.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CHARACTER OF PRODUCTS.</head>
+               <div type="div3">
+                  <head>FIRST-CLASS PRODUCTS.</head>
+                  <p rend="justify">The factory at which the experiments were conducted has sanitary buildings and surroundings, the floors are of concrete for flushing, and the pipes used in conducting the pulp to the kitchens are porcelain-lined to prevent discoloration from the iron and to insure cleanliness. The tubes which carry the ketchup from the kettles to the receiving tank, finishing machine, and bottler are silver-plated. Not all of these measures are necessary to make a good ketchup, but they show the care exercised in making an article of good appearance and of the finest quality.</p>
+                  <p rend="justify">The conditions under which ketchup is made and the care with which the work is done at some of the better factories is equal to that used in the manufacture of any food product. Whole selected fruit is used, cleanliness is maintained at every point, the best grades of spices, vinegar, granulated sugar, and salt are added for flavoring, and the bottles are carefully washed. The ketchup put up under such conditions will have a bright natural color, will remain good as long as the container is unbroken, and will continue in that condition for some time after opening if kept at a fairly cool temperature.</p>
+               </div>
+               <div type="div3">
+                  <head>INFERIOR PRODUCTS FROM “TRIMMING STOCK.”</head>
+                  <p rend="justify">In contrast with the strictly high-grade product is the great bulk of the ketchup found on the market. The material is not whole ripe tomatoes, but consists of the waste of the canning factory, commonly designated as “trimming stock,” including the green, moldy, broken, rotten, and generally unusable tomatoes, the skins, cores, and stems from the peeling tables, and the surplus juice from the filling machines, all of which may be allowed to stand during the day and be run through the cyclone in the evening. At the end of the season, the frosted and half-ripe fruits may be used. Part of this material can not be considered “sound fruit” as contemplated by the food and drugs act. The pulp is put up in barrels, preserved, and allowed to stand, possibly in the sun, until a sufficient quantity has accumulated for shipment. Old ketchup barrels may be used and be none too clean. As a result, it is not uncommon to see an inch or more of pulp in the bottom of a car at the end of shipment, caused by the blowing out of the barrel heads from fermentation. The sanitary condition of the factory may be poor, the handling of the goods be unclean, the spices be the refuse from the spice houses, the sugar be of the cheapest grade, and the bottles be only rinsed or be used without even that precaution. The ketchup is a concoction so heavily spiced with hot spices that the tomato flavor is lost and might as well be anything else. The color is normally dirty brown.</p>
+                  <p rend="justify">Between these two extremes are all grades, those for which whole tomatoes, unsorted, are used, those for which trimming stock is worked up promptly during the canning season, and those made from stock of unknown history. Some manufacturers work under good and some under poor sanitary conditions. There can be no doubt that with proper selection and precaution much of the by-product of the canning factory and large quantities of tomatoes which are unsuitable for canning might be used to advantage in the manufacture of ketchup; but it requires a nicety of practice not generally found at this time. The practice sometimes followed of making some ketchup from whole stock and a large quantity from refuse and using the former for advertising purposes, only serves to emphasize the fact that the goods belong to two distinct classes. One of the uses for a very considerable amount of pulp from refuse stock is the making of sauce for baked beans and other canned goods where the true character can not be observed by the consumer.</p>
+                  <p rend="justify">Fig. 5.—Another factory interior, showing large pulp tanks in the rear, cooking tanks on the right, and process tanks in front containing thousands of bottles of ketchup.</p>
+                  <p rend="justify">During the season tomatoes come in at times in larger quantities than can be made into ketchup promptly. The surplus must be worked up into pulp for storage and may be stored in barrels or in tin cans. The pulp stored in barrels will not have as good a color as that put into cans, and the ketchup made from either will not be as bright as that made from whole, fresh stock. The pulp put up in barrels is more liable to spoilage than that put up in cans. The difference in the cost of storage by the two methods is not very great, and some large concerns are using the can exclusively instead of the barrel.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LABELS.</head>
+               <p rend="justify">The labels on the ketchup bottles have been improved somewhat in the last year as regards exactness in describing the contents. Formerly, according to the labels, much of the ketchup was made from whole ripe tomatoes. The question was, What became of the enormous amount of ketchup which it was known had been made from “trimmings?” On this year’s ketchup the labels make fewer claims, generally merely stating that it is “tomato ketchup,” which is true whether made from whole tomatoes or refuse. The brand is in most cases the guaranty for good quality. It is not safe to judge the quality by the price, for, though usually good quality can not be expected unless the higher price is paid, some of the high-priced ketchup when placed under the microscope has proven to be a very inferior product.</p>
+               <p rend="justify">The wide labels on the neck of the bottle are objectionable. Some of these are 2 inches in height, and serve to cover the discolored and spoiled ketchup. As spoilage begins usually in the neck of the bottle, it is difficult to see it when the neck is wrapped with a label, and thus it might easily be overlooked until the main body of the ketchup is affected. The bottles which have the widest labels around the neck are usually the ones provided with one or two large labels on the lower part of the bottle, though some bottles have no other label but the one around the neck. As a rule, however, these are narrow, close to the stopper, and unobjectionable.</p>
+               <p rend="justify">In buying ketchup for experimental purposes it was difficult and sometimes impossible to learn its age, as often the grocer does not know it, and at other times he will not tell. It appeared, however, that often the ketchup had been on the grocer’s shelf or in the warehouse from one to four years.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MANUFACTURING EXPERIMENTS WITHOUT THE USE OF PRESERVATIVES.</head>
+               <div type="div3">
+                  <head>OUTLINE OF THE EXPERIMENTS.</head>
+                  <p rend="justify">During September, 1907, ketchup was made in experimental batches to determine whether it could be manufactured on a commercial scale without the use of preservatives. These experiments were made to determine (1) the keeping quality before opening the container and (2) the length of time the product will keep without spoilage after the bottle is opened.</p>
+                  <p rend="justify">The ketchup was made in a factory in which the conditions of manufacture and all the surroundings were sanitary; whole, ripe tomatoes, the same as used in the regular grade of canned goods, were used and the formula and process were for a mild ketchup giving the maximum of tomato flavor. Each batch consisted of 50 gallons of finished goods, from which 1 gross of pint bottles was retained for observation.</p>
+                  <p rend="justify">The term “regular ketchup” as used in these experiments means the pulp of fully ripe tomatoes, to which was added granulated sugar, 80-grain, distilled vinegar, table salt, onions, garlic, whole cinnamon, cloves, mace, and ground cayenne pepper. The pulp was cooked in a steam-jacketed copper kettle for forty minutes and reduced about 50 per cent. The finishing was done after cooking. The regular bottles are pint sizes, washed in hot water, rinsed, and then heated to a temperature of 190° F. for thirty minutes or more. The sterile bottles referred to in the experiments were placed in a steam chamber for twenty minutes at 230° F. The corks were sterilized by a bath in paraffin at about 270° F. All of the work was accomplished quickly to insure a smooth, even product with a bright, clean color. Acetic acid extracts and oil extracts of spices were used in such quantities as would give the same amount of spicing as when the whole spices were employed.</p>
+                  <p rend="justify">In all of the following experiments the ketchups discussed were made in September, 1907, and the last examination reported was made ten months later, in July, 1908:</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 1.</hi>—Regular ketchup was made, but it was reheated after finishing and bottled in sterile bottles at a temperature of 205° F. No spoilage has occurred at the end of ten months.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 2.</hi>—Regular ketchup was made, and it was bottled immediately after finishing in regular bottles at a temperature of 165° F. An after process was given at 190° F. for twenty minutes. No spoilage has occurred after ten months.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 3.</hi>—Regular ketchup was made, and was bottled in regular bottles at 165° F., and given a subsequent process at 190° F. for forty minutes. No spoilage has occurred.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 4.</hi>—Regular ketchup was made, was bottled in regular bottles at a temperature of 165° F., and given an after process at 212° F. for twenty minutes. No spoilage has occurred.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 5.</hi>—Regular ketchup was made, the same being put up in regular bottles at a temperature of 165° F. and given an after process at 212° F. for forty minutes. No spoilage has occurred.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 6.</hi>—Ketchup was made in which the acetic acid extracts took the place of whole spices, and the bottling was done at a temperature of 165° F., no after treatment being given. No spoilage has occurred.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 7.</hi>—Ketchup was made in which acetic acid extracts were used, and the bottling was done at a temperature of 165° F. in sterile bottles. No after treatment was given and no spoilage has occurred.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 8.</hi>—Ketchup was made in which the oil extracts were used instead of regular spices. The bottling was done in regular bottles at a temperature of 165° F., no after treatment being given. No spoilage has occurred.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 9.</hi>—Ketchup was made in which oil extracts were used instead of whole spices. The bottling was done at 165° F. in sterile bottles, no after treatment being given. No spoilage has occurred.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 10.</hi>—Regular ketchup was made, but the pulp was run through the sieving or finishing machine before instead of after cooking, the object being to determine the effect upon the character of the goods rather than upon the spoilage. This practice could be followed to advantage in making all except the very finest goods, and would give the same condition for bottling as in experiment No. 1.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 11.</hi>—Pulp was made in the usual manner and run into barrels while just below the boiling point. The barrels had been thoroughly washed and then steamed for twenty minutes. As soon as the pulp had cooled slightly the bung was driven in tightly and the barrel was rolled into storage. At the end of sixty days the barrels were opened and the pulp was found to be in good condition.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Experiment No. 12.</hi>—Regular ketchup was drawn into 5-gallon jugs which had been sterilized in the same manner as the bottles. These were kept for sixty days and no spoilage occurred.</p>
+               </div>
+               <div type="div3">
+                  <head>DISCUSSION OF RESULTS.</head>
+                  <p rend="justify">Twelve hundred and ninety-six bottles were shipped from Terre Haute to Lafayette, Ind., and some were reshipped in order to duplicate the conditions in trade. Some were kept in a warm temperature and in strong light, others in a comparatively cool place and in the original shipping cases, in order to duplicate the conditions in the warehouse and grocery store. There has been no spoilage after ten months other than that resulting from four or five cork leaks and neck cracks. These experiments have shown conclusively that ketchup can be put up on a commercial scale and delivered to the consumer in perfect condition without the use of a preservative.</p>
+                  <p rend="justify">It was demonstrated by the first experiment that the goods could be bottled at a high temperature without difficulty, and that subsequent treatment was unnecessary. The after treatment at 190° was tried because it had been found in small experiments that, in giving a higher temperature, the internal pressure would cause more or less breakage of bottles or loosening of corks. After treatment is practiced by some who also use a small quantity of preservative as a further precaution. This treatment is continued from two to three hours at the temperature of high pasteurization.</p>
+                  <p rend="justify">The process at 212° was given with little breakage, as the bottles used were of good quality. At and above this temperature the breakage may be reduced by either raising the temperature of the ketchup before bottling or applying pressure upon the outside while giving the process.</p>
+                  <p rend="justify">Neither the acetic acid nor the oil extracts showed any advantage over whole spices in their preservative effects, as all kept. The color was slightly improved, but the flavor was impaired, particularly when the oil extracts were used.</p>
+                  <div type="div4">
+                     <head>SPOILAGE OF KETCHUP AFTER OPENING.</head>
+                     <p rend="justify">The question of how long the ketchup should keep after opening the container in order to satisfy the ordinary requirements of consumption was also studied. A local restaurant, serving about two hundred meals and using from one-half to a gallon of ketchup daily, was supplied with the same kind of ketchup used in the experiments, as were also some families. Instructions were given to use the ketchup as they would ordinarily, with the result that none reported any loss from spoilage.</p>
+                     <p rend="justify">To determine how long the ketchup would keep after opening, 8 bottles from each of the first 9 experiments were kept in the kitchen at a temperature of about 72° F., 5 were kept in an incubator at a temperature of 95° F., 5 were kept in the laboratory at a temperature of about 67° F., and 4 were kept in an inclosed porch where the temperature ranged from 30° to 60° F. This made a total of 198 bottles. No precautions, other than those of ordinary cleanliness, were taken in opening the bottles, as it was desired to determine the keeping properties under conditions of general usage. The first set of bottles was opened November 5, immediately on being received at the laboratory, all of the ketchup having been kept at the factory until the experiment begun in September was completed. The bottles were covered loosely with a metal cap and observed daily, a record being kept of the date and character of spoilage.</p>
+                     <p rend="justify">The results showed that the differences in the time and temperature of processing had little, if any, effect in checking the spoilage; neither did the use of acetic acid or oil extracts. The most important precaution in checking the spoilage after opening seems to be to keep the ketchup cool. This is shown by the average number of days which elapsed before spoilage occurred in the sets kept under different temperature conditions. For those kept in the kitchen the average number of days was six, the minimum three, and the maximum eleven. Those in the incubator kept for an average of five days, with a minimum of two days, and a maximum of eight. Those in the laboratory had an average of eight days, the minimum being four days and the maximum twenty-two. Those kept in the porch lasted on an average twenty-seven days, a minimum of twelve days, and a maximum of fifty-eight.</p>
+                     <p rend="justify">These figures show the definite relation of temperature to spoilage under the conditions of ordinary use. In making the observations, the metal cap was removed each day, but no ketchup was poured off. The spoilage in all cases was due to mold, and usually this formed in the neck of the bottle where the ketchup had splashed, or at the junction of the ketchup with the bottle. The spoilage was recorded as soon as the slightest growth appeared. In actual use if the neck were wiped out when the ketchup had been used and a growth of mold removed on its first appearance with some of the proximate ketchup the time before spoilage occurred could be prolonged. In these experiments the attempt was made to determine how soon growth appeared under the various conditions of temperature named.</p>
+                     <p rend="justify">The unopened bottles of ketchup were kept in a basement room, the temperature of which is fairly constant, being about 70° F. This is approximately the condition in a grocery where the ketchup is kept on the shelves. Another set of samples from the run of September, 1907, was opened February 11, 1908, to determine if storing in a warm room before opening had any effect on the length of time preceding spoilage. Four bottles were taken from each of the first 9 experiments to make up each of three sets, one of which was kept in the kitchen, one in the incubator, and one in the porch, making a total of 108 bottles. The average number of days for those kept in the incubator was four, the minimum two, and the maximum six. The average number of days before spoilage in the kitchen was five, the minimum being three and the maximum nine. Those kept in the porch gave an average of twenty-three days, the minimum number being eighteen days and the maximum seventy-three days. Thus it is seen that the ketchup lasted nearly five times as long at a temperature of 30° to 60° F. as it did at 72°; and also that when ketchup is kept in a warm place before opening, spoilage occurs somewhat sooner, the average for the fresh samples opened under the same conditions being one day more with the incubator and kitchen samples and four days more with the porch samples.</p>
+                     <p rend="justify">A third set of bottles of the ketchup was opened on June 6, 1908, or two hundred and sixty-five days after manufacture. They had been kept in a basement at a temperature of about 70° F.</p>
+                     <p rend="justify">One set was placed in the incubator at a temperature of 95° F., one set in the kitchen at about 82° F., and one set in the refrigerator at 46° F. The weather was warm and the conditions favorable to the spoilage of fresh foods. The minimum time for spoilage in the incubator was two days, the maximum time four days, and the average time three and two-tenths days. The minimum time in the kitchen was two days, the maximum time six days, and the average time four and four-tenths days. The minimum time in the refrigerator was nine days, the maximum time nineteen days, and the average time thirteen and sixty-six one-hundredths days.</p>
+                     <p rend="justify">These data are grouped in the following table for easier comparison:</p>
+                     <p rend="justify">
+                        <hi rend="italic">Time of spoilage of ketchup at different temperatures after opening.</hi>
+                     </p>
+                     <p rend="justify">OPENED ON NOVEMBER 5, 1907, IMMEDIATELY UPON RECEIPT FROM FACTORY; MAXIMUM AGE, FIVE WEEKS.</p>
+                     <p rend="justify">Place of storage.</p>
+                     <p rend="justify">Temperature.</p>
+                     <p rend="justify">Lapse of time before spoilage.</p>
+                     <p rend="justify">Average.</p>
+                     <p rend="justify">Minimum.</p>
+                     <p rend="justify">Maximum.</p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="italic">° F.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Days.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Days.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Days.</hi>
+                     </p>
+                     <p rend="justify">Incubator</p>
+                     <p rend="justify">95</p>
+                     <p rend="justify">5</p>
+                     <p rend="justify">2</p>
+                     <p rend="justify">8</p>
+                     <p rend="justify">Kitchen</p>
+                     <p rend="justify">72</p>
+                     <p rend="justify">6</p>
+                     <p rend="justify">3</p>
+                     <p rend="justify">11</p>
+                     <p rend="justify">Laboratory</p>
+                     <p rend="justify">67</p>
+                     <p rend="justify">8</p>
+                     <p rend="justify">4</p>
+                     <p rend="justify">22</p>
+                     <p rend="justify">Porch</p>
+                     <p rend="justify">30-60</p>
+                     <p rend="justify">27</p>
+                     <p rend="justify">12</p>
+                     <p rend="justify">58</p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">KEPT AT 70° F. FOR ONE HUNDRED AND FIFTY DAYS BEFORE OPENING ON FEBRUARY 11.</p>
+                     <p rend="justify">Incubator</p>
+                     <p rend="justify">95</p>
+                     <p rend="justify">4</p>
+                     <p rend="justify">2</p>
+                     <p rend="justify">6</p>
+                     <p rend="justify">Kitchen</p>
+                     <p rend="justify">72</p>
+                     <p rend="justify">5</p>
+                     <p rend="justify">3</p>
+                     <p rend="justify">9</p>
+                     <p rend="justify">Porch</p>
+                     <p rend="justify">30-60</p>
+                     <p rend="justify">23</p>
+                     <p rend="justify">18</p>
+                     <p rend="justify">73</p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">KEPT AT 70° F. FOR TWO HUNDRED AND SIXTY-FIVE DAYS BEFORE OPENING ON JUNE 6.</p>
+                     <p rend="justify">Incubator</p>
+                     <p rend="justify">95</p>
+                     <p rend="justify">3.2</p>
+                     <p rend="justify">2</p>
+                     <p rend="justify">4</p>
+                     <p rend="justify">Kitchen</p>
+                     <p rend="justify">82</p>
+                     <p rend="justify">4.4</p>
+                     <p rend="justify">2</p>
+                     <p rend="justify">6</p>
+                     <p rend="justify">Refrigerator</p>
+                     <p rend="justify">46</p>
+                     <p rend="justify">13.66</p>
+                     <p rend="justify">9</p>
+                     <p rend="justify">19</p>
+                  </div>
+                  <div type="div4">
+                     <head>SPOILAGE OF UNOPENED KETCHUP.</head>
+                     <p rend="justify">Another test was made to determine whether the ketchup would spoil when kept in a warm place, but not opened. Three bottles from each experimental batch were placed in the incubator November 7, 1907, and were kept there until December 23, 1907—forty-six days—and in that time there was no sign of spoilage. They were then opened and kept in the laboratory; the average number of days before spoilage occurred is indicated in the following table:</p>
+                     <p rend="justify">
+                        <hi rend="italic">Average number of days before spoilage of ketchup after opening (kept 46 days at 95° before opening).</hi>
+                     </p>
+                     <table rend="frame" xml:id="Table2">
+                        <row role="label">
+                           <cell rend="start bold">Experiment No.</cell>
+                           <cell rend="start bold">Days before spoilage.</cell>
+                        </row>
+                        <row>
+                           <cell>1</cell>
+                           <cell>2⅔</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>4⅔</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>3⅓</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>5⅓</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>4⅓</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>4⅓</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>4⅓</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>3⅔</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">It will be observed that these samples spoiled in about the same length of time as the bottles opened in February and tested in the incubator, so that similar results were obtained by keeping unopened ketchup one and one-half months at 95° F. and keeping it five months at 70° F. From the results of the experiments it is evident that the ingredients of the ketchup in the proportions used are not antiseptic, and it is also apparent from the number of organisms found and the rapidity of their multiplication that ketchup is a good, nutritive medium. Yeasts and molds are the predominating organisms, and, as the ketchup is acid and also contains sugar, and these organisms are found on tomatoes in the field, their predominance in the ketchup is explained.</p>
+                  </div>
+                  <div type="div4">
+                     <head>SPOILAGE OF MARKET BRANDS.</head>
+                     <p rend="justify">To determine the keeping properties of the ketchup on the market, various brands were obtained from the grocery stores. In the majority of cases nothing was known of the ingredients or methods of manufacture, except what appeared on the labels. No date of manufacture was given, and in some cases the dealers did not know the age of the product.</p>
+                     <p rend="justify">There were 104 bottles of ketchup opened to find out how long they would remain in good condition. These were kept in the laboratory, though the temperature was higher than that at which ketchup should be held. Of the 104 bottles there were 66 without preservative, according to the labels, 46 of which spoiled. Of the 20 which did not spoil, 2 formed crystals of benzoic acid on the covers of glass dishes during evaporation. Of the 39 which, according to the labels, contained sodium benzoate, 15 spoiled. The bottles of unspoiled ketchup after remaining in the laboratory for about a month were placed in the incubator at 95° F. for three weeks, and were then taken out, and have been left in the laboratory since. The metal cap had been taken off frequently for observation, and the ketchup exposed, but the treatment did not cause them to spoil.</p>
+                     <p rend="justify">The average number of days after which spoilage occurred for the 46 bottles without preservative was about fifteen, the minimum number being four days, the maximum number ninety-four days. The average number of days preceding spoilage in the case of 15 bottles with preservative was twenty-four days, the minimum number being three and the maximum sixty days. The majority of these had 0.1 per cent of sodium benzoate present; the others had a smaller amount, according to the manufacturer’s label. These data are not at all conclusive and further work on material of known history will be necessary.</p>
+                  </div>
+                  <div type="div4">
+                     <head>STERILITY OF KETCHUP.</head>
+                     <p rend="justify">To determine the sterility of ketchup, cultures were made from 77 of the bottles. The method used was to wipe the bottles and cork stoppers with a damp towel and then remove the cork. The cork puller which was used grasps the neck of the bottle in such a way as to cover the opening and remove the cork without the inrush of air that occurs when the ordinary corkscrew is used. A flame was then passed over the mouth of the bottle, after which the upper layer of ketchup was poured out, so as to discard any material which might have been contaminated in handling. Tomato gelatin was used as a medium and cultures were made in petri dishes.</p>
+                     <p rend="justify">There were 17 plates on which no organisms developed, indicating that the ketchup was sterile. Of the 60 plates having organisms, 54 had molds, 22 of these having molds alone; 21 plates had yeast-like organisms, 3 plates having these only; 29 plates had bacteria, 4 having bacteria alone. Sometimes a plate would have only one form of organism, but more often there was a mixture present. Of 15 plates having only one form of organism, 3 had yeast alone, 2 bacteria alone, and 10 had mold alone. Of the 77 bottles of ketchup from which the inoculations were made, 41 were without and 36 with preservative, and of the 17 sterile ketchups, 8 contained sodium benzoate and 9 were without preservative.</p>
+                     <p rend="justify">A considerable part of the experimental ketchup proved not to be sterile. The organisms present were of the class which require oxygen for their growth and therefore they had only been arrested in their activity. No growth could take place so long as the air was excluded and therefore no spoilage could occur. When the cork was drawn, the organisms could grow and cause spoilage, and this is a much more potent factor than the entrance of germs from without. Bottling and sealing the ketchup quickly while hot so completely excludes the air that only a few colonies of yeast or mold may be found on subsequent microscopical examination. Filling at a low temperature and corking while cool allows sufficient air to remain incorporated in the ketchup and neck of the bottle to permit a considerable growth of the organisms and a product derived from good stock may thus acquire the appearance of ketchup derived from partially decayed material. A ketchup in which bubbles of air are incorporated in filling may show a growth of mold at each bubble throughout the mass. The foregoing statements apply to ketchup containing sodium benzoate as well as to the non-preservative goods of the character used in these experiments.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>EXPERIMENTS WITH PRESERVATIVES.</head>
+               <div type="div3">
+                  <head>SODIUM BENZOATE.</head>
+                  <p rend="justify">The preservative in general use in ketchup is sodium benzoate. Salicylic acid is used, but only to a limited extent. The amount of sodium benzoate used, according to the labels, varies from one-sixteenth to one-tenth of 1 per cent; but on some labels the amount is not stated. Experiments were made to determine the amount necessary to check the spoilage of ketchup.</p>
+                  <p rend="justify">Two organisms, a mold and a yeast, were selected on which to make the tests. The mold was the ordinary blue mold, Penicillium, which was present in many of the brands of ketchup and is found commonly on acid foods. It was selected on account of its prevalence and resistive power. The yeast was obtained from ketchup and was also a vigorous grower, forming a thick, wrinkled film on various media. Any effect on the growth of the yeast could be seen readily in its manner of forming the film.</p>
+                  <p rend="justify">Portions of tomato gelatin to which 0.1, 0.5, 1, and 2 per cent, respectively, of sodium benzoate were added, were first inoculated with the mold. There was no development in those containing 1 and 2 per cent; a retarded development resulted in that containing 0.5 per cent, and the growth when 0.1 per cent was used was nearly normal, showing very little difference from that in the gelatin without sodium benzoate.</p>
+                  <p rend="justify">Ketchup was next tried as a medium, but the amount of benzoate was reduced to one-sixteenth, one-twelfth, and one-tenth of 1 per cent, as it was thought that some of the other constituents of the ketchup were antiseptic to a slight degree. The growth in the ketchup was irregular, though the benzoate checked development in all. Equal amounts of benzoate were used in tomato bouillon, with practically the same results as in the ketchup. The development was checked in all, and in some plates one-sixteenth of 1 per cent seemed to be fully as efficacious as one-tenth of 1 per cent. When the mold was examined under the microscope, the filaments were found to be much swollen and distorted in shape, and filled with a coarsely granular protoplasm, containing much fat, as indicated by the blackening with osmic acid. The culture containing the mold which gave the least development seemed to show the least distortion and swelling of the filaments.</p>
+                  <p rend="justify">The results indicated that in using sodium benzoate as a preservative there is uncertainty as to results, even when using the maximum amount allowed—one-tenth of 1 per cent. They also indicated that this preservative had an injurious effect on the living matter of the mold. (See Pl. II; compare with normal growth, Pl. I.)</p>
+               </div>
+               <div type="div3">
+                  <head>SALT.</head>
+                  <p rend="justify">The effect of salt in checking development was tested by using tomato bouillon as a medium and adding 5, 10, 15, 20, 25, and 30 grams of salt, respectively, to 100 cc. These were inoculated with the mold. The 5-gram solution seemed to have no effect on development. When 10 grams were used growth appeared as soon as in the bouillon without salt, but was not so extensive. In the 15-gram solution growth was retarded four days, and most of that which did develop remained submerged, the mold growing normally on the surface. With 20 grams the growth was five days slower than the normal in starting, and after that there was only a slight development. In the 25-gram solution, the growth started at the same time as when 20 grams were employed, but remained stationary, while with the 30-gram solution, no development occurred.</p>
+                  <p rend="justify">The yeast was checked slightly by 5 grams, and very materially by the 10-gram solution, as it required two days for a thin, delicate film to form, whereas in ordinary solutions a rather thick film is formed within twenty-four hours or even in less time. There was no development in the 15-gram solution.</p>
+               </div>
+               <div type="div3">
+                  <head>SUGAR.</head>
+                  <p rend="justify">The effect of sugar was tested on both the mold and the yeast by adding it to tomato bouillon. It was supposed that a low percentage of sugar like the salt would plasmolyze the cells, and in this way check growth, but it seemed to have no effect until the amount was increased to 25 grams per 100 cc of bouillon. In this solution growth appeared as soon as with the weaker solutions, but there was a smaller amount. In the 25 to 40 gram solutions there was less development as the amount of sugar increased. In the 70 and 75 gram solutions growth was delayed one day in its appearance. In the 80, 85, and 90 gram solutions growth was delayed two days, the colonies growing submerged at first, but after a time forming on the surface. The mycelium remained very thin, but a thick layer of spores formed. From this point on the amounts were increased by 10 grams up to 200. The development became slower and less successively until 170 grams were added. In this case a small colony appeared on the surface in seven days, but seemed to grow less after that. The solutions were held, and in time crystals separated from the thick sirups. After two months dry-looking colonies developed along the edges, forming a ring, and some formed on the surface, these occurring also in the flasks containing 170, 180, 190, and 200 grams of sugar per 100 cc. The colonies were a dull greenish drab in spots, the remainder being white.</p>
+                  <p rend="justify">For the yeast the 80-gram solution of sugar was the strongest in which any development took place.</p>
+               </div>
+               <div type="div3">
+                  <head>SPICES.</head>
+                  <p rend="justify">Experiments to determine the value of the spices as antiseptics were made, using water infusions, acetic-acid extracts, and oil extracts.</p>
+                  <div type="div4">
+                     <head>WATER INFUSIONS.</head>
+                     <p rend="justify">In making the water infusions 20 grams of the whole spices, with 200 cc of water, were boiled for forty-five minutes. This is approximately the length of time that the spices are cooked in the ketchup in the factory. The liquid was then filtered and from 0.1 to 5 cc of the filtrate was used in 10 cc of tomato bouillon. The same organisms were used as in the former experiments.</p>
+                     <p rend="justify">The tests showed that cinnamon and cloves were the strongest antiseptically. These checked growth when used in small amounts, but it required 3 cc of the cinnamon and 1 cc of the cloves to inhibit the growth of the mold. Mustard, paprika, and cayenne pepper checked growth also, but 5 cc, the highest strength used, did not inhibit growth. The ginger, mace, and black pepper had no apparent effect in the quantities used.</p>
+                     <p rend="justify">The effect of the spices on the development of the yeast was somewhat different from their effect on Penicillium. The cinnamon showed the strongest action, 3 cc being effective, whereas 5 cc of the cloves was required. The cayenne pepper came next in effectiveness, and after that the black pepper. The ginger, mace, and mustard solutions had no effect in the strengths used.</p>
+                     <p rend="justify">The remainder of the spice infusions were kept in glass-stoppered bottles in the laboratory, and in a few weeks’ time there was a coating of mold formed over the surface of the mace, the mustard, and the black and cayenne peppers. The paprika had small, stunted colonies dotting the surface.</p>
+                     <p rend="justify">At the time that these experiments were made a quantity of the ground spices were placed in large petri dishes and water was added to make a heavy paste. One set of these was inoculated with the mold, and another set with the yeast, and all were kept in a warm place. No development of either organism appeared on the cinnamon, cloves, or mustard; on the others a growth first showed in three days. On a normal medium growth appears in twenty-four hours. On the mace, paprika, and cayenne pepper the Penicillium and yeast with which the pastes were inoculated were overgrown in a few days with black mold (<hi rend="italic">Rhizopus nigricans</hi>).</p>
+                  </div>
+                  <div type="div4">
+                     <head>ACETIC-ACID EXTRACTS.</head>
+                     <p rend="justify">In the manufacture of ketchup acetic-acid extracts of the spices are sometimes used instead of the whole spices, on account of their supposed antiseptic properties as well as their greater strength and convenience in handling. One minim of the standard acetic-acid extracts is equal in strength to 1 grain of the whole spices. The acid extracts obtained included allspice, celery, cloves, coriander, garlic, and black pepper.</p>
+                     <p rend="justify">In the tests 0.1, 0.2, 0.3, 0.4, 0.5, and 1 cc, respectively, of the extract was added to 10 cc of tomato bouillon. One set was inoculated with the mold and another set with the yeast. In the case of the mold, no growth occurred with the allspice and cloves; the celery checked the growth materially, there being no indication of mold until the sixth day. Normally a fairly strong growth occurs in twenty-four hours. In the solution containing 0.3 cc there was only one small colony in thirteen days, and no further development. In the solution containing the coriander, the growth in the 0.5 cc solution did not appear for three days, the 1 cc solution showing no growth. The garlic had practically the same effect as the coriander, while the black pepper was stronger, no growth appearing in the solution containing 0.5 cc.</p>
+                     <p rend="justify">The yeast was slightly stronger in resisting the effect of the extracts. No growth appeared with the allspice and cloves; 0.5 cc of the celery and 1 cc of the coriander were required to inhibit growth, and the garlic and black pepper gave similar results, a weak development occurring in the solutions containing 1 cc.</p>
+                  </div>
+                  <div type="div4">
+                     <head>OIL EXTRACTS.</head>
+                     <p rend="justify">Oil extracts of the spices were tested in the same manner as the water infusions and the acetic-acid extracts. The oils were so strong that in order to handle them easily they were mixed with equal volumes of alcohol, except that the mace, which was in the form of a paste, was mixed with two-thirds its volume of alcohol. To 10 cc of tomato bouillon were added 0.1, 0.2, 0.3, 0.4, and 0.5 cc, respectively, of the oils of cinnamon, cloves, mace, mustard, and black pepper.</p>
+                     <p rend="justify">In the case of the mold, there was no development in the solutions containing cinnamon, cloves, and mustard; in those containing mace and black pepper the development was slower than the normal, that in the black pepper being more pronounced. On the yeast the effect was similar, no development occurring in the cinnamon, cloves, and mustard, and a retarded development taking place in the mace and black pepper, that in the black pepper being the more pronounced.</p>
+                     <p rend="justify">The experiments show that some of the spices, notably allspice, cinnamon, and cloves have decided antiseptic value, but that the peppers are not as valuable as is generally supposed.</p>
+                     <p rend="justify">The oil extracts have been advocated for use in ketchup instead of the whole spices, but in quantities which would be useful antiseptically their use would be objectionable, for when present in approximately the same proportions as are the whole-spice infusions, the flavor is too strong and masks the more delicate flavor of the tomato. The acetic-acid extracts are more effective than are the water infusions, and they are not objectionable in the ketchup.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>VINEGAR AND ACETIC ACID.</head>
+                  <p rend="justify">An experiment was made to determine the antiseptic value of vinegar and acetic acid. Commercial 50-grain distilled vinegar was used. It was found that when 30 per cent of this vinegar was added to the tomato bouillon the development of mold was checked and the extent to which it was checked increased with the increased amounts of vinegar. The development in the solution containing 30 per cent of the vinegar was two days later than the normal in starting, while the solution containing 100 per cent was eleven days delayed and showed but little growth.</p>
+                  <p rend="justify">An 80 per cent solution of glacial acetic acid was used. One-half of 1 per cent added to the tomato bouillon checked growth to the same extent as 30 per cent of vinegar, and no development occurred when the quantity was increased to 2 per cent.</p>
+                  <p rend="justify">Experiments were then made in which vinegar was added to the ketchup in proportions varying from 1 part in 32 to 1 part in 8, with the result of greatly delaying the appearance of the mold as the proportion increased. With the increase in vinegar it was necessary to add sugar and slightly more spices to overcome the pungency of the acid and thus insure good flavor. The addition of the vinegar to the pulp had the effect of arresting the action of the oxidase and thus the bright color was maintained.</p>
+                  <p rend="justify">The usual custom in factory practice is to add the vinegar near the close of the cooking process otherwise a considerable portion of the acid will be driven off. This practice was followed in the experimental work, but it has since been found that continued heating in the presence of the acid has some effect upon sterilization, and therefore the increased amount of vinegar is effective not only because of the additional acid present, but also because the heating in the after process is thereby rendered more efficacious.</p>
+                  <p rend="justify">This line of experiments gives promise of practical results in producing a ketchup which will not only keep while in the bottle, but will also keep longer after it is opened. Each manufacturer must work out the quantities that could be used with his formula and still retain the character of his goods.</p>
+               </div>
+               <div type="div3">
+                  <head>OIL.</head>
+                  <p rend="justify">In ketchup manufacturing it is customary, if an agitator is not used, to put a small amount of fat in the kettle to check the ebullition during the reduction of the pulp. The amount used in this manner is not sufficient, however, to be apparent in the ketchup. Brannt[D] states that in some factories, where the trimmings are allowed to accumulate for the season, they are given liberal doses of oils and condiments when cooked, in order to disguise their defects, so that the product can be placed on the market as “fresh tomato catchup.” That the use of oils is increasing is evident from the comparison of the ketchup of the past season with that of former years.</p>
+                  <p rend="justify">When oil is used in ketchup, it is easily detected under the microscope, as it appears in the form of shining, yellow globules which blacken gradually when treated with osmic acid. Besides this, the oil comes to the surface of the ketchup, where it can be seen readily, and if considerable oil has been used a distinct layer is formed. When the ketchup has been made for some time, the oil changes so that the ketchup has a peculiar “greasy” odor, or the oil may be so changed as to give a decidedly rancid smell to the ketchup. Oil usually causes a deterioration in flavor and odor, though some of the ketchups to which it has been added do not spoil readily. Olive oil, cottonseed oil, and oleomargarine are used. That the oil is not considered one of the regular known ingredients of the ketchup is shown by the failure to declare its presence on the label.</p>
+                  <p rend="justify">To test the antiseptic value of oils in ketchup, experiments were made, using olive oil, cottonseed oil, and oleomargarine in the proportions of 1 part of oil to 1,000, 750, and 500 parts of ketchup, respectively. The ketchup was made in small quantities, 2 gallons for each experiment. After bottling, all except the check bottles were inoculated with Penicillium and kept at kitchen temperature. All spoiled, and neither the quantity nor kind of oil used had any marked effect in preventing spoilage. That the oils affected the development of the mold was evident. The mold developed first at the junction of the ketchup with the bottle forming a ring which spread gradually over the surface developing a somewhat heavy mycelium. This remained white longer than usual, spores forming very gradually, as indicated by the change in color from white to a delicate blue. At the end of three weeks only spots of color appeared on the surface and these were still blue, though in ordinary development the blue color changes to green in two or three days.</p>
+                  <p rend="justify">Another test was made, using olive oil only, and in the proportions of 1 part of oil to 500, 400, and 300 parts, respectively, of the ketchup. Reduction was made in a steam-jacketed kettle, the oil being added when the ebullition of the ketchup was the strongest, after which the boiling was continued for fifteen minutes. The ketchup was bottled, unsterilized bottles being used, then covered loosely with the metal caps.</p>
+                  <p rend="justify">The time required for the ketchup to spoil was longer than in the first set, but there was not sufficient difference nor enough uniformity in the time to indicate that the use of oil in ketchup is desirable, even if the change of flavor and odor be not taken into consideration. The average number of days before spoilage for those containing 1 part of oil to 500 parts of ketchup, was thirteen and two-thirds days; one has not yet spoiled (a period of forty-five days), while the first bottle spoiled in four days. Those having 1 part of oil to 400 parts of ketchup had an average life of nine and three-fourths days, the minimum being three days, and the maximum twenty-six days. Those having 1 part to 300 parts of ketchup on an average did not spoil for six and three-fourths days, the minimum being four days, and the maximum eleven days.</p>
+                  <p rend="justify">The failure of some of the bottles to spoil, though similar in every known respect to those which did spoil, is a feature peculiar to ketchup and is familiar to manufacturers who make careful tests before putting their product on the market. For this reason a rather large number of bottles should be used in a test in order that the results may be approximately accurate and represent general conditions.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>STUDY OF PENICILLIUM IN KETCHUP.</head>
+               <p rend="justify">Penicillium is a plant which is distributed widely and apparently is able to grow wherever organic matter is found, though flourishing best when the material contains acid. It causes loss in canneries, breweries, distilleries, etc., the only use made of it being in the manufacture of Roquefort cheese, the immature cheese being inoculated with the conidia for the effect the mold produces in the maturing process.</p>
+               <p rend="justify">Fig. 1.—Conidia, Normal Size and in Various Stages of Germination, Some with Branching Hyphæ (× 325).</p>
+               <p rend="justify">Fig. 2.—Conidiophore, Showing Unusually Large Development of Conidia, from Culture in Moist Chamber (× 325).</p>
+               <p rend="justify">PENICILLIUM.</p>
+               <p rend="justify">Fig. 1.—Conidia and Hyphæ from Culture in Experimental Ketchup Containing One-sixteenth of One Per Cent of Sodium Benzoate (X 325).</p>
+               <p rend="justify">Fig. 2.—Conidia and Hyphæ from Cultures in Experimental Ketchup Containing One-tenth of One Per Cent of Sodium Benzoate (X 325).</p>
+               <p rend="justify">CULTURES FROM KETCHUP PRESERVED WITH SODIUM BENZOATE.</p>
+               <div type="div3">
+                  <head>DEVELOPMENT.</head>
+                  <p rend="justify">In developing, the mold forms a white felt-like mass, covering the medium on which it is growing; then as development proceeds, it changes to bluish-green, and finally to a darker, duller color. The change in color is accompanied by a change in structure, the surface becoming powdery in appearance, a slight current of air being sufficient to dislodge a cloud of fine dust. This fine dust is formed of small, spherical bodies, the spores or conidia (from the Greek meaning <hi rend="italic">dust</hi>). These need no resting period, but are able to develop at once. When the conidia lodge on a moist substance they swell to a much greater size and then send out a tube from some part of their surface. The tube lengthens and septa form, dividing the tube into sections, or cells. At the same time branches are sent out, which again form other branches. The original conidium sends out a second branch shortly after the first one, and usually from the opposite side, and may even send out a third one. The formation of the septa and the subbranching goes on in all, so that in a short time the branches mat together and form a felt-like cover.</p>
+               </div>
+               <div type="div3">
+                  <head>REPRODUCTION.</head>
+                  <p rend="justify">After a shorter or longer period of development, dependent on the conditions, branches are sent perpendicularly from the substratum, and into the air. These branches cease their growth in length, sending out branches near the tip, which take the same general direction as the original branch. Each of these subbranches is called a sterigma (from the Greek word meaning <hi rend="italic">support</hi>). In vigorous development the sterigmata may form secondary branches, the whole forming a tassel-like arrangement. The tip of a sterigma enlarges, a septum forms around the enlargement, cutting it off from the sterigma, and forming a conidium. The sterigma develops to the original length and another conidium is formed, the operation being repeated many times, thus forming a chain of spores. As the other sterigmata are also forming conidia in the same manner, a series of these chains is formed close together. After the cessation of conidial development, the filament below the sterigmata is disorganized, setting free the conidia. The filament and head together are called the conidiophore (Greek, dust-bearer).</p>
+                  <p rend="justify">Penicillium forms spores sexually, but the conditions for their formation are unknown. Brefeld obtained them by growing the mold on damp bread placed between two glass plates, and excluding the air. Lindner obtained carpospores on a wort gelatin culture in a petri dish, from which the air was excluded. The writer has tried various methods for obtaining carpospores, but so far without success. Moist chambers were used with various media, excluding the air. The development of the mold is seemingly dependent on the amount of air in the chamber at the time of sealing. After the air is exhausted, the conidiophores assume fantastic forms, developing only one or a few sterigmata, and on these one or few conidia. In other cases the conidiophores are fascicled, in no cases, however, forming the conidia as luxuriantly as when air is supplied. The hyphæ become clear, much vacuolated, and develop more septa, and some of the cells become much enlarged. An enlarged cell will often contain two or three septa, thus forming cells that are not larger than disks. In cultures from which the air was excluded from the start, no development took place. In test-tube cultures sealed with paraffin after twenty-four hours, the mold developed on the surface of the gelatin, forming a felted white mass, but no conidia nor carpospores were formed.</p>
+               </div>
+               <div type="div3">
+                  <head>GROWTH IN KETCHUP.</head>
+                  <p rend="justify">The form of Penicillium which was used in the experiments was isolated from ketchup in which it grew luxuriantly. When conidia are first formed on the ketchup, they are a delicate blue in color; they then become bluish green, then green, and finally olive. The development of the color of mold growing on ketchup is practically the same as when grown in wort, tomato bouillon, pea bouillon, or gelatin made with these solutions as a basis. In ketchup containing sodium benzoate, the blue color appearing first remains for a long time, and in old cultures the mold is a dull drab, not olive, as in normal development.</p>
+                  <p rend="justify">In ordinary ketchup made without a preservative, the mold forms a heavy, wrinkled mycelium, showing a large development of conidia. In the bottles of ketchup, the mold pushes down into the ketchup, becoming entirely submerged, a clear liquid covering the mold and separating it from the ketchup. This occurred in more than one hundred bottles. No secondary mycelium formed on the surface of the liquid, a method of development which frequently occurs in ordinary media when a mass of mold is submerged.</p>
+                  <p rend="justify">An exception to this was shown in ketchup which had developed the mold in the laboratory. The bottles were then put in the refrigerator for two weeks. During this time scarcely any development took place; but after they were again placed in the laboratory, the mycelium pushed down into the ketchup and a new, very thin mycelium developed on the surface. The filaments when seen under the microscope were swollen, had irregular outlines, and a comparatively smaller number of septa, and were filled with a coarsely granular protoplasm. The ends were blunt and misshapen and the sterigmata were irregular, tending more toward a fasciculated arrangement, and forming fewer conidia. The filaments from the vinegar and acetic acid media had the same appearance as those developed on ketchup, but had a smoother outline.</p>
+               </div>
+               <div type="div3">
+                  <head>TEMPERATURE TESTS.</head>
+                  <p rend="justify">The limits for the germination of Penicillium, as given by W. J. Sykes,[E] are 2° to 43° C. (35° to 110° F.), and the most favorable temperature 22° to 26° C. (72° to 79° F.). This author states also that according to Pasteur the dry spores retained their vitality at 108° C. (226° F.), but that they were soon killed when immersed in boiling water. Klöcker[F] quotes Pasteur as saying that the conidia are killed if exposed to a temperature of 127° to 132° C. for half an hour, but that they retain life at 119° to 121° C.</p>
+                  <p rend="justify">A series of tests was made to determine the thermal death point of the moist and dry conidia of the Penicillium used in the experiments, a young, vigorous development on ketchup being used. The flasks were kept under observation for a month after the tests were made, as in many cases a development does not occur in the usual time. The high temperatures applied for longer periods of time were tried first, but both temperature and time were reduced as results from the series were obtained. Only the conditions obtaining in the final tests are given in the table. It was found that the Penicillium used did not have the high resistance supposed.</p>
+                  <p rend="justify">The tests were made in small flat-bottomed 10-cc flasks, tomato bouillon being used for the tests on moist conidia. The bouillon was used so as to have the conidia in a nutritive medium after the test was made, without transferring. The time for those at 100° C. was estimated from the time of ebullition. At the end of the specified time, the flasks were cooled promptly under running water. As the flat bottoms gave comparatively large surface, the heating and the cooling could be effected in a short time. For the tests below 100° C. a vessel of water was heated to the desired temperature, and the flasks were immersed in it and shaken constantly. The dry conidia were placed in test tubes which were immersed in boiling water for the desired time and cooled under running water, after which 10 cc of sterilized tomato bouillon was added. After determining the death point in this manner and finding it to be much lower than had been supposed, it was decided to make the test again, but using ketchup as the medium. Ten grams of ketchup were sterilized, then inoculated from a vigorous growth of mold, and tested with a set in which the tomato bouillon was used. For those below 100° C. the two flasks which were to receive the same temperature were held in the vessel of water at the same time, so that as nearly as possible the treatment would be identical. The following results were obtained:</p>
+                  <p rend="justify">
+                     <hi rend="italic">Thermal death point of moist and dry conidia of Penicillium.</hi>
+                  </p>
+                  <p rend="justify">PENICILLIUM IN 10 CC OF TOMATO BOUILLON.</p>
+                  <p rend="justify">No. of experiment.</p>
+                  <p rend="justify">Temperature.</p>
+                  <p rend="justify">Time of heating.</p>
+                  <lg>
+                     <l>Time</l>
+                     <l>before</l>
+                     <l>germination.</l>
+                  </lg>
+                  <p rend="justify">Period of observation and developments.</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">
+                     <hi rend="italic">°C.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Minutes.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Days.</hi>
+                  </p>
+                  <p rend="justify">1</p>
+                  <p rend="justify">85</p>
+                  <p rend="justify">½</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">Dark strings from spores; 9 days; no development.</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">80</p>
+                  <p rend="justify">1</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">75</p>
+                  <p rend="justify">1</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">4</p>
+                  <p rend="justify">70</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">65</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">Dark strings running from spores; 9 days; growth normal, spots on surface.</p>
+                  <p rend="justify">6</p>
+                  <p rend="justify">60</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">Do.</p>
+                  <p rend="justify">7</p>
+                  <p rend="justify">55</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">Do.</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">PENICILLIUM IN 10 CC OF KETCHUP.</p>
+                  <p rend="justify">1</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">1</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">4</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">½</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">Instant.</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">6</p>
+                  <p rend="justify">85</p>
+                  <p rend="justify">½</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">Colonies on sides; 8 days; surface covered, green.</p>
+                  <p rend="justify">7</p>
+                  <p rend="justify">80</p>
+                  <p rend="justify">1</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">Do.</p>
+                  <p rend="justify">8</p>
+                  <p rend="justify">75</p>
+                  <p rend="justify">1</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">Do.</p>
+                  <p rend="justify">9</p>
+                  <p rend="justify">70</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">8</p>
+                  <p rend="justify">Colony on surface.</p>
+                  <p rend="justify">10</p>
+                  <p rend="justify">65</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">9</p>
+                  <p rend="justify">Do.</p>
+                  <p rend="justify">11</p>
+                  <p rend="justify">60</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">Colonies on sides; 8 days; surface covered, green.</p>
+                  <p rend="justify">12</p>
+                  <p rend="justify">55</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">4</p>
+                  <p rend="justify">Do.</p>
+                  <p rend="justify">13</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">Ring around sides; 3 days; surface nearly covered.</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">DRY CONIDIA.</p>
+                  <p rend="justify">1</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">10</p>
+                  <p rend="justify">4</p>
+                  <p rend="justify">Rough appearance,like that in ketchup.</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">15</p>
+                  <p rend="justify">4</p>
+                  <p rend="justify">Do.</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">20</p>
+                  <p rend="justify">7</p>
+                  <p rend="justify">Slight growth.</p>
+                  <p rend="justify">4</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">25</p>
+                  <p rend="justify">10</p>
+                  <p rend="justify">Growth barely perceptible.</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">30</p>
+                  <p rend="justify">10</p>
+                  <p rend="justify">Do.</p>
+                  <p rend="justify">6</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">35</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">Conidia stained readily, showing they were dead.</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">YEAST.</p>
+                  <p rend="justify">1</p>
+                  <p rend="justify">55</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">Wrinkled film; liquid turbid.</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">60</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">Do.</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">65</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">Thin, smooth film; liquid clear.</p>
+                  <p rend="justify">4</p>
+                  <p rend="justify">70</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">75</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">6</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">Instant.</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">The moist heat was very effective in destroying the vitality of the conidia of Penicillium, the death point being 27° C. higher than the maximum temperature for germination as given by Sykes. The heating was more effective in destroying germs when applied to bouillon than to ketchup, no development taking place for any temperature above 65° C., even when applied for a short time.</p>
+                  <p rend="justify">In the ketchup the lower temperatures for the longer periods of time were more effective in checking the development, even though they did not destroy the vitality. In the ketchup, with the exception of Nos. 9 and 10, the colonies started invariably along the sides of the flasks. The greater access of air to those on the sides would account for this. The conidia on the sides of flasks Nos. 9 and 10 must have been destroyed, as no development took place in either case except in the center of the surface.</p>
+                  <p rend="justify">The dry conidia were destroyed at 100° C. when heated for thirty-five minutes; they did not reach a normal development in any case, even when heated for only ten minutes, many of the conidia being destroyed by this treatment. Where development failed to take place, the conidia were stained with a water solution of eosin, so as to be sure that the effect was death, and not an arrested development.</p>
+                  <p rend="justify">The results of the tests do not agree with those obtained in factory practice, where the ketchup is cooked at 100° C. for at least forty minutes and sometimes for fifty or fifty-five minutes, depending on the consistency of the pulp.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HISTOLOGICAL STRUCTURE OF KETCHUP.</head>
+               <p rend="justify">In ketchup are found parts of all the various tissues of the tomato broken into fine pieces by the action of the cyclone. Although the sieves take out the seeds, skins, and any large pieces, particles of the various tissues are present in size sufficient for identification. Among the distinctive features are the red crystalline bodies in the parenchyma, which serve to a certain extent to distinguish the parenchyma from that of other plants which might be used for adulteration, and serve also to differentiate the natural from the artificially colored ketchup. Some of the red dye used colors all protoplasm indiscriminately, even that of the fungi present, and as a colored ketchup is usually poor stuff, containing many fungi, the mold filaments, yeast cells, and bacteria receive their share of the color. Other red dye used is in the form of fine powder, which does not go into solution, but is distributed as irregular particles which are distinct from the red crystalline bodies.</p>
+               <p rend="justify">Good ketchup made from whole tomatoes has a clean appearance readily distinguishable under the microscope; but the poor ketchup has usually a superabundance of fungi present, fully developed colonies of mold, many forms of conidia, besides yeast-like cells, and different forms of bacteria. All of these may be dead, but neither preservatives nor dosage of odorous spices can disguise their presence. In some of the ketchup examined, which was put up in attractive form and labeled as being made from the whole tomatoes, and which had the appearance and odor of good ketchup, the microscope showed the presence of such quantities of fungi as to leave no doubt that the tomatoes were spoiled when cooked. It is presumable that some of the dealers placing this sort of stuff on the market do not know its condition themselves, and either buy their pulp from other factories or trust its manufacture to employees whose only care is that the ketchup shall have a bright color and shall “keep.” Some of the mould filaments and conidia are distorted in the same way as those of the Penicillium are when grown in ketchup to which sodium benzoate has been added.</p>
+               <p rend="justify">The ketchup made from sound tomatoes and manufactured in a cleanly manner has practically no fungi present. The ketchup that was used in these experiments was made at different times during the season and was of this character, no bottle examined showing mold filaments when first opened.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MICROSCOPIC EXAMINATION OF SOME COMMERCIAL BRANDS.</head>
+               <p rend="justify">In examining ketchup the color, odor, amount of discoloration, presence of foreign tissue, foreign coloring matter, oil, and fungi were determined. If no preservative was mentioned, some of the ketchup was put in petri dishes and inoculated with Penicillium to determine whether growth could take place. The following examinations are reported, as they represent some of the best known brands on the market:</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 9.</hi>—Opened September 2, 1907; age unknown; pint bottle; no preservative mentioned; not spoiled July 6 of following year. This ketchup was guaranteed to be made from fresh, ripe, tomatoes by a new process. The color is an unnatural red, has not faded, and the odor is good. The microscope showed the presence of much refuse, and large quantities of fungi, whole colonies of molds, the filaments distorted, many yeast cells, and bacteria. The red color was not confined to the red crystalline bodies, as is the case in ripe tomatoes, but the whole of the protoplasm of the cells, including the nucleus and nucleolus was red, as were also most of the mold filaments and yeast, indicating the presence of considerable artificial coloring matter. The structure indicated that the stock had been manufactured from “trimmings,” and further, that they were not fresh when used, but had fermented. There was no oil present. The “new process” is a success in keeping ketchup, as no preservative is mentioned. The price was 20 cents.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 112.</hi>—Another bottle of the same brand of ketchup; examined in April, 1908; presumably manufactured in 1907; one-twelfth of 1 per cent of sodium benzoate declared on label; a bright red; guaranteed to be from fresh ripe tomatoes and uncolored. The microscope showed no dyeing of the tissues, few fungi, and no extraneous matter. The price was 20 cents.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 17.</hi>—Opened September 28, 1907; age unknown; a pint bottle; sodium benzoate declared on supplemental label, no amount being stated; reddish brown color, badly discolored on top; greasy odor; not spoiled July 6, 1908; refuse present; large amount of oil; many fungi; the mold filaments enlarged and distorted. The price was 15 cents.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 109.</hi>—Another bottle of the same brand examined in April, 1908; presumably manufactured the preceding year; had one-tenth of 1 per cent of sodium benzoate; not spoiled July 6, 1908; reddish brown color, discolored near top; greasy odor. This was practically the same as the first bottle examined, had fewer mold filaments, but many bacteria.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 18.</hi>—Opened September 28, 1907; age unknown; pint bottle; no preservative mentioned; not spoiled July 6, 1908. A neck label stated that it is made from sound ripe tomatoes and uncolored. Color reddish brown; greasy odor; many oil globules; too many mold filaments and bacteria for sound tomatoes. Price 20 cents.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 113.</hi>—Another bottle of the same brand examined in April, 1908; said to have been manufactured in 1908; no preservative mentioned; not spoiled after standing open for seventy days; same as No. 18 in color and odor; oil and many fungi again present.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 10.</hi>—Opened September 2, 1907; age unknown; half-pint bottle; no preservative mentioned; not spoiled July 6, 1908. A neck label 2 inches in height guaranteed the highest quality; an extra label lower down on the neck stated the product to be the natural color, and made from fresh, ripe tomatoes; the regular label carried the brand, manufacturer’s name, etc. Color brown; sweetish odor; colonies of mold; distorted filaments; many bacteria; a few small oil globules. Price 25 cents.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 106.</hi>—Same brand; pint bottle; examined in April, 1908; said to be manufactured in 1907; color red, discolored near surface; 2-inch neck label in addition to regular label; no preservative mentioned; did not spoil in seventy days; oil globules; particles of red, amorphous matter; whole colonies of mold, as well as fragments of filaments; teeming with bacteria.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 77.</hi>—Different brand, but same manufacturer as Nos. 10 and 106; age unknown; pint bottle; one-twelfth of 1 per cent of sodium benzoate declared; opened December 1; placed in incubator at 95° F. for a month; not spoiled July 6; color reddish brown; greasy odor; oil globules, many mold filaments, and bacteria present. Price 20 cents.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 107.</hi>—Third brand from same manufacturer as preceding; said to be manufactured in 1907; half-pint bottle; one-twelfth of 1 per cent of benzoate of soda declared; layer of oil on surface; sweet odor; reddish-brown color. Oil globules prominent feature microscopically, whole colonies of distorted mold were present, and sample contained many different forms of bacteria. Price 10 cents.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 14.</hi>—Opened September 2, 1907; age unknown; no preservative mentioned; not spoiled July 6, 1908; half-pint bottle; color red; good odor; few bacteria; free from refuse. Price 25 cents.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 108.</hi>—Same brand as No. 14; said to be manufactured in 1907; pint bottle; one-tenth of 1 per cent of benzoate of soda declared; color red; good odor; few fungi; clean and free from refuse.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 33.</hi>—Opened October 24, 1907; age unknown; one-tenth of 1 per cent of benzoate of soda declared; spoiled November 1; pint bottle (14 ounces); sweetish odor; brown color; many molds, yeast and bacteria. Price 10 cents.</p>
+               <p rend="justify">
+                  <hi rend="italic">No. 114.</hi>—Same brand as No. 33; said to be manufactured in 1907; opened in April; not spoiled in seventy days; many molds, yeasts, and bacteria; some green tissue, and filaments of algæ. The price was 10 cents.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SUMMARY.</head>
+               <p rend="justify">1. The experiments made during the season of 1907 on the manufacture of tomato ketchup without chemical preservatives were conducted under factory conditions and upon a commercial scale. The results prove that such a ketchup can be made and delivered to the consumer in perfect condition; the product in question having already stood ten months, unopened, without showing the slightest indication of spoilage.</p>
+               <p rend="justify">2. The product is of excellent consistency, flavor, and color. The formula employed regularly in the factory where the experiment was conducted was used, but other recipes could be adapted without changing the character of special brands. In the manufacture of such a product the following precautions were observed:</p>
+               <p rend="justify">(<hi rend="italic">a</hi>) Whole, sound, ripe tomatoes and high-grade salt, sugar, vinegar, and spices were used; care and cleanliness were observed at every step of the preparation, and the preservation accomplished by heat in the following manner: The pulp was cooked in a steam kettle for about forty minutes, until the mass was reduced to about one-half its volume. Additional processing after bottling did not appear to be necessary to keep the ketchup before opening, and had no effect in these experiments in delaying spoilage after opening.</p>
+               <p rend="justify">(<hi rend="italic">b</hi>) Ketchup was bottled directly from the cooker at a temperature of 205° F. in bottles prepared in two ways: (1) Sterilized in a steam chamber at 230° F.; (2) Washed in hot water, rinsed, and heated to 190° F. in a dry heat for at least thirty minutes. Ketchup was also bottled after the usual process of sieving at 165° F. in bottles prepared in a similar manner. The corks for all bottles were sterilized in a paraffin bath at 270° F. The same ketchup which was bottled at 165° F. was also given subsequent processing at 190° F. and 212° F. for twenty and forty minutes. All have kept without spoilage.</p>
+               <p rend="justify">3. Some of the condiments have a limited antiseptic value, but can not be depended upon to prevent spoilage in the quantities used for flavoring. While sugar and vinegar can be added in such amounts as to delay the appearance of molds, and cinnamon and cloves can be depended upon to check deterioration to some extent, these condimental substances have only an incidental value for this purpose.</p>
+               <p rend="justify">4. The spoilage of ketchup after opening depends more upon the temperature of the place in which it is kept than on any variation in the manner of processing. Fresh ketchup held, after opening, at a temperature of 95° F. kept for five days on an average without any trace of mold appearing; at 72° it kept for six days; at 67° for eight days; about 46° (refrigerator), fourteen days; and at from 30° to 60° for twenty-seven days. These figures represent the time at which the first trace of spoilage occurred in the neck of the bottle—had this been removed the figures would be much increased—and by no means represent the maximum time during which the ketchup could have been used, the maximum figures, even under these conditions of observation, varying from eight to fifty-eight days. The keeping of the ketchup in warm storage at 70° for one hundred and fifty days before opening hastened the average time of spoilage after opening about one day. The advisability of using small containers, to get the best results with a first-class ketchup, is apparent.</p>
+               <p rend="justify">5. Sodium benzoate, even when used in the proportion of 0.1 per cent, is not always effective, and has an injurious effect upon the living matter of the molds, shown by the distortion and swelling of the filaments, which are filled with a coarse granular protoplasm containing much fat.</p>
+               <p rend="justify">6. Artificially colored ketchup can be detected under the microscope by the fact that certain tissues, normally colorless, are dyed red, or by the presence of fine, red, amorphous particles which do not go into solution.</p>
+               <p rend="justify">7. Ketchup made from whole ripe stock in a cleanly manner gives a clean appearance under the microscope, but few molds, yeasts, and bacteria being present. On the other hand, ketchup made from trimming stock, or from tomatoes that have been allowed to spoil, contains immense quantities of these growing organisms which may be killed in the process of manufacture, but still give proof of the character of the material used. Ketchup as ordinarily made from trimming stock should, therefore, be designated, so as to differentiate it from that made from sound fresh tomatoes, as the two products are radically different. This exactness in labeling is due no less to the manufacturer than to the consumer, as it is impossible to make the superior product in fair competition with the inferior one, other conditions being equal, unless the two are properly designated, there being naturally some difference in the price.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FOOTNOTES:</head>
+               <p rend="justify">[A] Origin of Cultivated Plants, 1890.</p>
+               <p rend="justify">[B]  Webber, H. J., Yearbook, U. S. Department of Agriculture, 1899.</p>
+               <p rend="justify">[C]  U. S. Dept. Agr., Exper. Sta. Record, 1899-1900, 11: 250.</p>
+               <p rend="justify">[D]  Brannt, W. L., A Practical Treatise on the Manufacture of Vinegar, 1900, p. 455.</p>
+               <p rend="justify">[E]  Principles and Practice of Brewing, 1907, p. 284.</p>
+               <p rend="justify">[F]  Ibid., p. 281.</p>
+               <lg>
+                  <l>Transcriber's notes:</l>
+                  <l>In the text version, italics are represented by _underscores_.</l>
+                  <l>Missing or incorrect punctuation has been repaired.</l>
+                  <l>The following corrections have been made to the text:--</l>
+               </lg>
+               <p rend="justify">p.8. A majority of the manufacturers employ word, has been changed to A majority of the manufacturers employ the word.</p>
+               <p rend="justify">p.28. one has has, the duplicate has been removed.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

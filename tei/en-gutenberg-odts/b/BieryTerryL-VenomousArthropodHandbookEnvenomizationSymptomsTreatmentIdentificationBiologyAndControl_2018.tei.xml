@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Venomous Arthropod Handbook / Envenomization Symptoms/Treatment, Identification, Biology and Control</title>
+            <author>Terry L. Biery</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T00:05:39Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/b/BieryTerryL-VenomousArthropodHandbookEnvenomizationSymptomsTreatmentIdentificationBiologyAndControl_2018.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Terry L. Biery</name>
+               <date>2024-01-04T00:05:39Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Venomous Arthropod Handbook / Envenomization Symptoms/Treatment, Identification, Biology and Control</head>
+         <author>Terry L. Biery</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/b/BieryTerryL-VenomousArthropodHandbookEnvenomizationSymptomsTreatmentIdentificationBiologyAndControl_2018.odt</p>
+         <head>VENOMOUS ARTHROPOD<lb/>HANDBOOK</head>
+         <p>
+            <hi rend="bold">Envenomization Symptoms/Treatment, Identification, Biology and Control</hi>
+         </p>
+         <p>
+            <hi rend="bold">Terry L. Biery, Captain, USAF, BSC</hi>
+         </p>
+         <p>
+            <hi rend="bold">Disease Surveillance Branch</hi>
+            <lb/>
+            <hi rend="bold">Epidemiology Division</hi>
+            <lb/>
+            <hi rend="bold">USAF School of Aerospace Medicine</hi>
+            <lb/>
+            <hi rend="bold">Aerospace Medical Division (AFSC)</hi>
+            <lb/>
+            <hi rend="bold">Brooks Air Force Base, Texas 78235</hi>
+         </p>
+         <p>For sale by the Superintendent of Documents. U.S. Government Printing Office<lb/>Washington, DC. 20402</p>
+         <p>Stock No. 008-070-00397-0/Catalog No. D 301,35: 161/43<lb/>U.S. GOVERNMENT PRINTING OFFICE: 1977 O—251-048</p>
+         <pb/>
+         <div type="div1">
+            <head>PREFACE</head>
+            <p>The purpose of this handbook is to provide Air Force medical personnel with a quick reference on the problems caused by the more important venomous arthropods found in the United States. An attempt has been made to include the latest information available in the scientific literature.</p>
+            <p>The author would like to acknowledge the valuable assistance of Mr. Orville V. Anderson, USAFSAM Photographer; Captain Robert W. Clegern, USAF, BSC, Medical Entomologist; and Lieutenant Colonel John C. Moseley, USAF, MC, Dermatologist.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>CONTENTS /x/</head>
+            <p>INTRODUCTION 1<lb/>BITING/PIERCING ARTHROPODS 4</p>
+            <p>1. Black Widow Spider (<hi rend="italic">Latrodectus mactans</hi>)  4</p>
+            <p>2. Brown Recluse Spider (<hi rend="italic">Loxosceles reclusa</hi>)  6</p>
+            <p>3. Centipedes (Class: Chilopoda)  8</p>
+            <p>4. Conenose or Kissing Bugs (<hi rend="italic">Triatoma</hi> spp.)  10</p>
+            <p>5. Wheel Bug (<hi rend="italic">Arilus cristatus</hi>)  12</p>
+            <p>STINGING ARTHROPODS  14</p>
+            <p>1. Ants (Order: Hymenoptera; Family: Formicidae)  14</p>
+            <p>2. Bees (Order: Hymenoptera; Family: Apidae)  17</p>
+            <p>3. Scorpions (Class: Arachnida; Order: Scorpionida)  20</p>
+            <p>4. Velvet Ants (Order: Hymenoptera; Family: Mutillidae)  22</p>
+            <p>5. Wasps (Order: Hymenoptera; Family: Vespidae)  24</p>
+            <p>URTICATING/VESICATING ARTHROPODS  26</p>
+            <p>1. Blister Beetles (Order: Coleoptera; Family: Meloidae)  26</p>
+            <p>2. Urticating Caterpillars  28</p>
+            <p>a. Io Moth Caterpillar (<hi rend="italic">Automeris io</hi>)  28</p>
+            <p>b. Puss Caterpillar (<hi rend="italic">Megalopyge opercularis</hi>)  30</p>
+            <p>c. Saddleback Caterpillar (<hi rend="italic">Sibine stimulea</hi>)  32</p>
+            <p>BIBLIOGRAPHY  34<lb/>APPENDIX: ARTHROPOD ENVENOMIZATION REACTIONS AND TREATMENT  39</p>
+            <p>Chart 1: Antihistamines  48</p>
+            <p>Chart 2: Treatment of Anaphylaxis—Shock  49</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>INTRODUCTION</head>
+            <p>Although most residents of the United States are aware of the pain and discomfort associated with contacting a venomous arthropod, many are not aware that these arthropods (such as ants, bees, wasps, spiders, and scorpions) are responsible for more human deaths in the United States each year than any other group of venomous animals, including snakes. In fact, a study by Parrish<hi rend="sup">15</hi> showed that venomous arthropods accounted for more than 65% of the reported human fatalities caused by venomous animals in the United States from 1950 through 1959. His findings are summarized as follows:</p>
+            <p>
+               <hi rend="italic">Venomous animal group</hi>
+            </p>
+            <p>
+               <hi rend="italic">Human fatalities (1950-59)</hi>
+            </p>
+            <p>Hymenoptera (bees, wasps, and ants)</p>
+            <p>229/460 or</p>
+            <p>49.8%</p>
+            <p>Poisonous snakes</p>
+            <p>138/460 or</p>
+            <p>30.0%</p>
+            <p>Spiders</p>
+            <p>65/460 or</p>
+            <p>14.1%</p>
+            <p>Scorpions</p>
+            <p>8/460 or</p>
+            <p>1.7%</p>
+            <p>Others</p>
+            <p>20/460 or</p>
+            <p>4.4%</p>
+            <p>It would be incorrect, however, to assume from the above information that a high percentage of arthropod envenomizations are fatal. In actuality, the opposite is true. Of the estimated millions of people envenomized by arthropods in the United States each year, about 25,000 have severe reactions; and of these, approximately 30 result in reported deaths.<hi rend="sup">19</hi>  Therefore, the high number of fatalities caused by venomous arthropods, relative to other venomous animals, can be attributed to the high incidence of arthropod envenomizations rather than the efficient killing power of their venoms. This high-incidence rate is accounted for by the tremendous abundance of venomous arthropods and their ability to live in close proximity to man.</p>
+            <p>Air Force personnel stationed in the continental United States face a greater risk of contacting a venomous arthropod than the average United States resident because: (1) a large portion of bases are located in the southern half of the United States, where venomous arthropods are most numerous; (2) many facilities (such as radar, communications, security, and missile sites) are located in remote areas where venomous arthropods are not controlled; (3) numerous Air Force training and work activities must be performed outside; and (4) many military structures (such as older wooden buildings, storage buildings, and field training facilities) provide excellent habitats for venomous arthropods. It is important, therefore, that Air Force medical facilities have current information available concerning the most important venomous arthropods in their areas.</p>
+            <p>The venomous arthropods discussed in this handbook were selected for inclusion due to the relative severity of their envenomizations and/or the high frequency of their contact with humans. It should be stressed that other arthropods found in the United States are capable of producing envenomization reactions in humans. Regardless, all venomous arthropods found in the United States can be categorized under one of the three types of envenomization methods described in this handbook: (1) biting/piercing, (2) stinging, and (3) urticating/vesicating. The biting/piercing arthropods inject a toxin through an apparatus associated with or near their mouthparts; and the stinging arthropods, through a stinger located at the posterior end of the abdomen. Urticating and vesicating arthropods are grouped together because they both release their toxins on contact. They differ in that the urticating arthropods usually release their toxin through venomous hairs; and vesicating arthropods carry a toxic substance within their system, which is released through small body openings.</p>
+            <p>To facilitate the utilization of this handbook, each venomous arthropod presentation has been organized into the following information categories:</p>
+            <p>• <hi rend="bold">Identification.</hi>  Bringing the arthropod causing an envenomization to the medical facility treating the victim is most helpful. In most cases, an identification must be made before the proper form of treatment can be determined. To assist personnel with identification, the key characteristics and representative color photographs are provided for the venomous arthropods discussed.</p>
+            <p>• <hi rend="bold">Distribution.</hi>  Most arthropod envenomizations occur during the warm plant-growing season when venomous arthropods are most numerous. Since the Southern United States has the longest growing season, venomous arthropods are abundant for a longer period of time in this region. Also, the moderate climate of the Southern States, with fewer weather extremes, permits a greater variety of venomous arthropods to survive, propagate, and produce multiple generations each year. Specific regional occurrences are indicated.</p>
+            <p>• <hi rend="bold">Biology/Behavior.</hi>  Pertinent biological information is provided to help increase the reader’s awareness and understanding of venomous arthropods. These factors are essential in developing a good avoidance and control program.</p>
+            <p>• <hi rend="bold">Avoidance/Control.</hi>  To assist in preventing envenomization accidents, several means of avoidance are listed for each venomous arthropod. Since the status of insecticide recommendations is constantly changing, few specific recommendations are included. When insecticide control is necessary, an Air Force, County Extension Service, or United States Department of Agriculture entomologist should be consulted for current recommendations. Any insecticide must be applied according to the instructions on the container label.</p>
+            <p>In addition to the information presented in the text, a table on envenomization reactions and treatment is included as an appendix. The reactions listed in this table are “typical” and do not necessarily represent the entire range of reactions which might occur.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Venomous Arthropod Handbook / Envenomization Symptoms/Treatment, Identification, Biology and Control</head>
+            <pb/>
+            <div type="div2">
+               <head>BITING/PIERCING ARTHROPODS</head>
+               <div type="div3">
+                  <head>
+                     <label>1.</label>BLACK WIDOW SPIDER<lb/>(Latrodectus mactans)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  The female black widow has a shiny black body, approximately 1.5 cm (0.6 in) long, and usually a red hourglass-shaped marking on the underside of her globose abdomen. On some individuals the distinct hourglass marking is replaced with several triangles or spots or an irregular longitudinal blotch. She has slim black legs with a span of 4 cm (1.5 in). The male is considerably smaller than the female, usually a patterned brown color, and is not a threat to man.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>
+                     <hi rend="italic">Latrodectus mactans</hi>  is found in every state except Alaska; however, most reported human fatalities have occurred in the Southeastern States.<hi rend="sup">14</hi>
+                     <hi rend="sup">, </hi>
+                     <hi rend="sup">15</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  The black widow is generally found in its irregular-shaped web near the ground. Common web sites are under stones, loose bark, or water faucets or in wood piles, rodent burrows, garages, storage buildings, outhouses, and barns. Most human envenomizations occur when the spider is inadvertently trapped against part of the body or when the web is accidentally touched.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  Frequent cleaning to remove spiders and their webs from buildings and outdoor living areas will decrease the possibility of accidental bites. Routine hose washings of potential spider habitats, such as under steps and around windows and doors, will discourage the black widow from locating in these places. When working in spider-infested areas, wear gloves and a long-sleeved shirt. If warranted, the outside or inside of a building may be sprayed with an approved insecticide. Apply the spray around windows, stairs, closets, or other spider habitats in accordance with instructions on the manufacturer’s label.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>2.</label>BROWN RECLUSE SPIDER<lb/>(Loxosceles reclusa)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  The brown recluse is a medium-sized spider with a 2- to 4-cm (0.8-1.6 in) legspan and a color range from yellow tan to dark brown. The most distinguishing characteristics are six eyes (most spiders have eight eyes) arranged in a semicircle of three pairs on top of the head, and a violin-shaped marking extending from the area of the eyes to the abdomen.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  Brown recluse spiders occur throughout an area of the Southcentral States, including Alabama, Arkansas, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Ohio, Oklahoma, Mississippi, Missouri, Tennessee, and Texas. Localized populations of this spider, probably imported from the Southcentral States, have been reported from Arizona, Wyoming, California, Florida, New Jersey, North Carolina, Pennsylvania, and Washington, D.C. Due to the mobility of the United States citizenry, specimens can be easily transported in household goods from the spider’s home range in the Southcentral United States to any other area of the country. Under favorable conditions the relocated spiders can survive for an extended period of time and possibly become established.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  Within its range, the brown recluse spider will readily establish populations inside parts of buildings which are generally dry, littered, and undisturbed for long periods of time. The spider also can be found outside in protected areas (under rocks and loose bark). Members of this species are nonaggressive and normally attempt to escape whenever they are threatened. Thus, most instances of bites occur when the spider is inadvertently trapped, such as when the victim puts on clothing in which the spider is hiding, steps on a wandering spider at night, or cleans closets or other storage areas where the spider resides.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  Any of the following actions will help prevent contact with the brown recluse spider: shake out clothing and bedding before use; eliminate collections of papers and unused boxes; thoroughly clean beneath and behind furniture; remove spiders, webs, and egg cases from living and storage areas; and properly use appropriate insecticides.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>3.</label>CENTIPEDES<lb/>(Class: Chilopoda)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  Centipedes are multisegmented elongate arthropods with a distinct head and one pair of legs, or appendages, per segment. Size is species dependent, with body length ranging from approximately 2.5 to 25 cm (1-10 in) or more. The number of legs can therefore vary from 15 to 100 pairs or more, depending upon the species.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  The range of centipedes varies with the species; however, these arthropods are most numerous in the southern half of the United States.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  Throughout the day, centipedes hide under rocks, boards, or bark and in cracks, crevices, closets, basements, and other moist, protected locations. At night, they come out of hiding to hunt for prey which usually consists of insects and other small arthropods. Centipedes inject venom through two powerful claws located on the ventral side of the body immediately behind the head. Contrary to popular belief, centipedes cannot inject venom through their numerous legs. The majority of centipedes found in the United States are small and not a threat to man. Human centipede envenomizations occur when a relatively large centipede is accidentally picked up, stepped on, or otherwise trapped against the body.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  When camping in a centipede-infested area, carefully invert and shake out sleeping bags, clothes, or other items left in contact with the ground. Always wear shoes when walking about at night, and wear leather gloves when moving rocks or trash from the ground. Usually centipedes are not sufficiently numerous in any one location to warrant chemical control.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>4.</label>CONENOSE OR KISSING BUGS<lb/>(<hi rend="italic">Triatoma</hi> spp.)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  Species of the genus <hi rend="italic">Triatoma</hi>  have the elongate (cone-shaped) head which is characteristic of the family Reduviidae. Hence, the name “conenose bugs” is often used to describe these insects. Orange and black markings are usually present where the abdomen extends laterally past the folded wings. These insects are flattened dorsally, and this trait allows them to effectively hide in small cracks and crevices. The size of mature adults varies from approximately 1 to 3 cm (0.4-1.2 in) depending upon the species.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>
+                     <hi rend="italic">Triatoma</hi>  species that attack humans are generally located in the southern half of the United States.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  Conenose bugs are nocturnal insects. They take their blood meals at night and hide in any available crack or crevice between feedings. <hi rend="italic">Triatoma</hi>, as a group, normally feed on small mammals; but in the absence of their preferred hosts, several species will readily feed on humans. They are commonly referred to as “kissing bugs” because their blood meals are occasionally taken from the area around the human lips. Some of the common sites of human attack, in order of frequency, are the hands, arms, feet, head, and trunk. This feeding pattern can be expected since kissing bugs have not been found to feed through clothing.<hi rend="sup">30</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  Since these bugs can feed undetected on a sleeping victim, it is difficult to avoid their attack in heavily infested areas. Exposure to kissing bugs can be minimized, however, by destroying underbrush, rubbish, wood rats’ nests, and any other small-animal habitat located near a residence.<hi rend="sup">27</hi>  When an infestation is detected inside a house, two or three treatments with an appropriate insecticide at 10-day intervals should provide control. To obtain the best results, thoroughly treat all windows, baseboards, walls, cracks, crevices, and bedsprings.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>5.</label>WHEEL BUG<lb/>(<hi rend="italic">Arilus cristatus</hi>)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>
+                     <hi rend="italic">Arilus cristatus</hi>  has the small narrow head characteristic of the Reduviidae family of Hemiptera (true bugs). This insect is mouse gray in color and approximately 2.5 to 4 cm (1-1.6 in) long. A cogwheel-like crest on the dorsal side of the prothorax is distinctive to this insect and accounts for its popular name, “wheel bug.”</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  Wheel bugs are generally found in the southern two-thirds of the United States.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  Wheel bugs are predacious on soft-bodied insects. Human envenomizations are usually the result of accidental contact while handling vegetation, boards, or other objects. The bug penetrates the skin with its “beak,” or proboscis, and injects a salivary fluid normally used in killing its insect prey.<hi rend="sup">31</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  The best way to prevent wheel bug contact is to be able to identify this unusual insect and avoid it. Children should be instructed not to handle it. Wearing leather gloves while working outside will prevent bites which occur when the wheel bug is accidentally picked up with vegetation or other debris. Since wheel bugs are predacious on many harmful insects and are generally considered beneficial, control is not recommended.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  Wheel bug bites are characterized by immediate intense pain which usually subsides in 3 to 6 hours. Since all reported bite reactions have been localized and self-limiting, specific treatment measures are not provided for <hi rend="italic">A. cristatus</hi>  bites. However, anaphylactic shock has resulted from the bite of other Hemiptera and should be considered a possibility with wheel bug bites.<hi rend="sup">12</hi>
+                  </p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>STINGING ARTHROPODS</head>
+               <div type="div3">
+                  <head>
+                     <label>1.</label>ANTS<lb/>(Order: Hymenoptera; Family: Formicidae)</head>
+                  <p rend="justify">Fire Ant Mound</p>
+                  <p rend="justify">Harvester Ant Mound</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  Like other Hymenoptera, females of dangerous ant species have a stinger at the posterior tip of the abdomen. Their constricted “waist” between the thorax and posterior abdomen and their elbowed antennae distinguish them from similar insects. The dangerous United States species belong to genera <hi rend="italic">Solenopsis</hi>  (fire ants) or <hi rend="italic">Pogonomyrmex</hi>  (harvester ants). The easiest way to distinguish these ants is by their mounds. Fire ants build elevated earthen mounds 8-90 cm (3-36 in) high, leaving the surrounding vegetation relatively undisturbed. In contrast, harvester ant mounds are usually flat or slightly elevated and are surrounded by a defoliated area 0.6-3 m (2-10 ft) or more in diameter. Also, harvester ants are 2 to 3 times larger than fire ants.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  The Florida harvester ant, <hi rend="italic">P. badius</hi>, distributed throughout the Southeastern States, is the only harvester ant known to occur east of the Mississippi River. West of the Mississippi, the red harvester ant (<hi rend="italic">P. barbatus</hi>), the California harvester ant (<hi rend="italic">P. californicus</hi>), and the western harvester ant (<hi rend="italic">P. occidentalis</hi>) are found in different individualized distribution areas. The two most important fire ant species were introduced into the United States from South America. The red imported fire ant (<hi rend="italic">S. invicta</hi>) was introduced about 1940 and is well established in the Southeastern States. Currently, this ant infests Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, North and South Carolina, and Texas. The black imported fire ant (<hi rend="italic">S. richteri</hi>) was introduced about 1918; its distribution is limited to an area in northeastern Mississippi and northwestern Alabama. Two less important native species, <hi rend="italic">S. geminata</hi>  (tropical or native fire ant) and <hi rend="italic">S. xyloni</hi>  (southern fire ant), occur in localized areas of a few southern states.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  Ants of the <hi rend="italic">Solenopsis</hi>  and <hi rend="italic">Pogonomyrmex</hi>  genera are diurnal soil-inhabiting insects that prefer to nest in open areas. These ants are social insects; their colonies consist of at least one reproductive queen, several males, and many nonreproductive female workers. Fire and harvester ants are particularly dangerous because workers defending their nest can inflict repeated stings, and multiple human envenomizations may occur when a victim comes in contact with a mound.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  Familiarization with the appearance of the ant mounds is necessary in order to avoid them and prevent accidental envenomizations. Since small children are often the victims of multiple stings, parents should insure that the mounds of dangerous ant species are not present in play areas. This is particularly important where the red imported fire ant occurs. Mound treatments with mirex have been effective in controlling <hi rend="italic">Solenopsis</hi>  and <hi rend="italic">Pogonomyrmex</hi>  ants. The Environmental Protection Agency limits the use of this insecticide, and it must be applied in strict accordance with EPA and product label instructions.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>2.</label>BEES<lb/>(Order: Hymenoptera; Family: Apidae)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  Two families of bees are commonly associated with human envenomization: Apidae (honey bees and bumble bees) and Halictidae (sweat bees). Only the honey bees and bumble bees are considered dangerous. Both are robust hairy insects with two pairs of membranous wings which they hold at an angular position over the body when at rest. Microscopic examination shows that bee thoracic hairs are individually “feathered.” In contrast, wasp thoracic hairs are smooth.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  Dangerous species of bees are distributed throughout the United States.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior. 1. Honey Bees.</hi>  Since these insects are not native to this continent, north of Mexico, all original honey bee colonies in the United States were imported. <hi rend="italic">Apis mellifera</hi>, the cosmopolitan bee of commerce, is responsible for most bee stings and many deaths.<hi rend="sup">10</hi>  This species is separated into several races, with the gold Italian and the black or gray Caucasian races making up the majority of the bees found in this country.<hi rend="sup">5</hi>  The aggressive Brazilian (hybrid African) bee is currently restricted to the South American continent. Honey bees are highly social insects. Their colony consists of an egg-laying queen, drones to fertilize the queen, and workers to gather food and care for the young. Honey bees can release “alarm odors” associated with the sting gland, which cause other bees in the vicinity of an odor-marked victim to attack and inflict multiple stings. Unlike other hymenopterous insects, the honey bee worker has a barbed stinger and can sting only once; to escape, the bee must leave its entire stinging apparatus attached to the skin of its victim. As important pollinators of crops, honey bees are very beneficial to man.</p>
+                  <p rend="justify">
+                     <hi rend="bold">2. Bumble Bees.</hi>  The bumble bees are considered to be the most primitive of the social bees. Their colonies lack much of the structure and highly evolved behavior of the honey bees; however, like the honey bees, the bumble bees are diurnal plant feeders and important pollinators of crops. A typical colony consists of at least one queen, several males, and numerous workers. Only young fertilized queens survive the winter to establish new colonies the next spring. The nests are normally located deep in undisturbed ground, like fence rows, and are supplied with a mixture of pollen and honey. During late summer, a colony usually contains between 100 and 500 bees. Although bumble bees are 2 to 3 times larger than honey bees, they are neither as aggressive nor as abundant as the honey bees, and therefore not as dangerous.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  The best way to avoid Hymenoptera stings is to prevent human contact with these insects. This is especially important for persons hypersensitive to bee venom. Some preventive steps are:</p>
+                  <p rend="justify">
+                     <hi rend="bold">1</hi>  Avoid outdoor activities in unfamiliar areas where stinging insects are known to occur.</p>
+                  <p rend="justify">
+                     <hi rend="bold">2</hi>  When outdoors, don’t use floral-scented cosmetic products or leave sweet beverages or foods exposed in areas where they might attract bees.</p>
+                  <p rend="justify">
+                     <hi rend="bold">3</hi>  Avoid garbage collection areas, which attract Hymenoptera.</p>
+                  <p rend="justify">
+                     <hi rend="bold">4</hi>  When outdoors, always wear shoes and, if possible, a long-sleeved shirt, long pants, or other protective clothing. Don’t wear clothing with a bright floral print or loose-fitting clothing in which stinging insects may be trapped.</p>
+                  <p rend="justify">
+                     <hi rend="bold">5</hi>  Don’t make rapid movements around stinging insects or intentionally disturb either the insects or their nests.</p>
+                  <p rend="justify">
+                     <hi rend="bold">6</hi>  Eliminate all Hymenoptera nests around inhabited areas (wild honey bee colonies may be removed by a local beekeeper). When necessary, an insecticide such as 5% carbaryl dust may be applied in a nesting area within a building to eliminate the nuisance colony.</p>
+                  <p rend="justify">
+                     <hi rend="bold">7</hi>  Educate young children on the hazards of venomous arthropods.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>3.</label>SCORPIONS<lb/>(Class: Arachnida; Order: Scorpionida)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  Scorpions are crablike in appearance, with pincers attached to their two front appendages. They also possess a five-segmented “tail” terminating in a bulbous structure with a prominent stinger. The body size of mature scorpions varies from 2 to 10 cm (0.8-4 in) or more, depending upon the species.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  Scorpions are most prevalent in warmer climates. In the United States the two most dangerous scorpion species, <hi rend="italic">Centruroides sculpturatus</hi>  and <hi rend="italic">C. gertschi</hi>, have been found only in Arizona.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  During daylight hours scorpions hide under objects or debris on the ground. At night, they come out of hiding to search for food, which consists primarily of ground-inhabiting arthropods. The prey is grasped with the pincers and stung by rapidly bringing the stinger forward directly over the head. This quick stinging motion is also used for defense, as is usually the case with human envenomizations.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  To avoid stings in scorpion-infested areas: remove accumulations of boards, rocks, and other debris; wear leather gloves to remove any item from the ground; inspect and shake out clothing or shoes before donning them; and when moving about at night, turn on lights to avoid contacting these nocturnally active arthropods. Insecticides that are commonly used for household cockroach control are also useful for controlling scorpions. Special care should be taken to treat around all baseboards thoroughly.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>4.</label>VELVET ANTS<lb/>(Order: Hymenoptera; Family: Mutillidae)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  Female velvet ants, wingless and antlike in appearance, are actually wasps that only resemble ants. The males are winged and usually larger than the females. Both male and female are covered with a velvety pubescence which is normally bright red, orange, or yellow. The female has a formidable stinger at the posterior end of her abdomen which she can use to inflict a painful envenomization. The length of a mature mutillid wasp varies from 1 to 2.5 cm (0.4-1 in). In some localities, mutillids are commonly referred to as cow killers, mule killers, or wooly ants.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  The Mutillidae is a large family with most species distributed in the southern and western parts of the United States.<hi rend="sup">2</hi>  However, one species, <hi rend="italic">Dasymutilla occidentalis</hi>, is commonly found on the sandy beaches of Lake Erie and during the summer months causes barefoot bathers much distress.<hi rend="sup">5</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  Female velvet ants are solitary, diurnal, parasitic wasps. An efficient stinging apparatus and an extremely thick exoskeleton allow the female mutillid to conspicuously, yet safely, run about in the open searching for a suitable place to lay her eggs. Most cases of human envenomization occur when the female wasp is accidentally touched while roaming about on the ground or is trapped against the body in clothing or bedding.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  The solitary and roaming nature of velvet ants makes it very difficult to predict or designate ways to avoid contacting them. In areas like the beaches of Lake Erie where mutillids are known to frequent, however, potential victims should be made aware of the velvet ant hazard and how to avoid accidental envenomization. Since mutillids are not gregarious and do not congregate in accessible places, chemical control is not feasible.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>5.</label>WASPS<lb/>(Order: Hymenoptera; Family: Vespidae)</head>
+                  <p rend="justify">Bald-Faced Hornet</p>
+                  <p rend="justify">Yellow Jacket</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  This information applies to all dangerous wasps found in the United States except the mutillids (previously discussed). Wasps are elongate insects with three distinct body parts and four wings. As with all winged forms of Hymenoptera, the front pair of wings is larger than the hind pair. Only the female wasps are equipped with a stinger at the posterior end of the abdomen. To distinguish wasps from similar-appearing bees, the specimen’s thoracic hairs should be examined microscopically to determine if they are smooth (a wasp) or feathered (a bee). In the United States, members of the paper-wasp family (Vespidae) are generally considered to be the most dangerous because of their social nesting habits, aggressive behavior, and abundance. Two representative members of the Vespidae family found in North America are the bald-faced hornet, <hi rend="italic">Vespula maculata</hi>, and a common yellow jacket, <hi rend="italic">V. pennsylvanica</hi>. Although it takes an expert to identify most wasps according to species, the paperlike nests of the vespids make their identification easy. Another important group of dangerous wasps easily distinguished by their nests are the mud daubers. These wasps usually build their mud nests in the corners of man-made structures. Besides their distinctive nests, mud daubers are identified by their dark shiny color and long narrow waist.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  Dangerous species of wasps can be found throughout the United States.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  Most vespids are social insects that feed primarily on other arthropods. These wasps build paperlike nests by masticating wood fiber into pulp. In addition to the social wasps, many types of solitary wasps are capable of envenomization; but these wasps are easy to avoid since they are neither abundant nor aggressive. Female members of the dangerous wasp species will readily attack and inject their venom if someone disturbs or annoys them. Wasp stingers do not become detached, and a single wasp can sting a victim several times before retreating. Social wasps are particularly dangerous because a disturbance of their nest may result in attack by numerous wasps.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  Avoid garbage accumulation sites, which attract wasps. To avoid wasp stings, recognizing the nests of the dangerous species in the local area, is important. If possible, remove and destroy all nests found around inhabited areas. Wasps can be controlled by treating their nests with insecticide—preferably at night, when the wasps are least active. Treat nests found above the ground with a commercial wasp spray or other insecticide recommended by an entomologist. To treat wasp nests in the ground or in houses, a 5% carbaryl dust may be used.<hi rend="sup">38</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>URTICATING/VESICATING ARTHROPODS</head>
+               <div type="div3">
+                  <head>
+                     <label>1.</label>BLISTER BEETLES<lb/>(Order: Coleoptera; Family: Meloidae)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  The Meloidae are narrow elongate beetles characterized by a “neck” (pronotum) which is distinctly narrower than its head or wings. Adult beetles range in body length from 1 to 2 cm (0.4-0.8 in) and vary considerably in their coloration.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  In general, blister beetles are found in greater numbers in the western half of the United States.<hi rend="sup">5</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  The immature stages of the blister beetle are usually predacious on other insects and are not harmful to man. Adult blister beetles release a clear amber fluid by rupture of thin membranes in the leg joints or other segmented areas of the body. The release of this fluid, which contains a vesicating agent called cantharidin, is triggered by pressure against the body of the beetle. Light pressure exerted by clothing or by brushing off a beetle is usually sufficient to cause the release of its vesicating fluid. The adult blister beetles are readily attracted to bright white light, and many cases of human exposure occur at night around such lights. Since the adults are plant feeders, some cases of human vesication occur as persons move through vegetation infested with blister beetles.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  In areas with an abundance of blister beetles, use yellow light bulbs for outdoor lighting. If a meloid beetle lands on the skin, blow it off, do not crush it. Since cantharidin is distributed throughout the beetle’s body, crushing the beetle against exposed skin would result in maximum cantharidin exposure. Dermatoses resulting from blister beetle contact are seasonal, with the greatest number of vesicating incidents in the United States occurring in July, August, and September. Chemical control usually is not recommended because of the mobility and wide distribution of blister beetles.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  This information is not included in the appendix because the envenomization reaction generally consists of a superficial linear bulla which does not require emergency treatment.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>2.</label>URTICATING CATERPILLARS</head>
+               </div>
+               <div type="div3">
+                  <head>a. IO MOTH CATERPILLAR<lb/>(<hi rend="italic">Automeris io</hi>)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  The <hi rend="italic">Automeris io</hi>  caterpillar is the larva of the Io moth, which belongs to the moth family Saturniidae. A full-grown caterpillar is about 5 to 8 cm (2-3 in) long, pale green, with lateral strips of red or maroon over white running the length of the body. Near the center of each body segment is a partial row of tubercles armed with radiating green and black spines. Many of these spines are venomous, and their tips are connected to rather large individualized poison glands.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  In the United States, the Io moth is found in the states east of the Rocky Mountains.<hi rend="sup">68</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  Io moth larvae feed on the leaves of a variety of plants, including corn and willow.<hi rend="sup">17</hi>  In most areas they produce only one annual generation, emerging as a moth in the spring or summer and overwintering as a pupa. In south Texas, however, two generations occur, with one developing in May-July and the second in October-December. Therefore, the urticating larval stages can be found anytime from early spring to late fall, depending upon the area of the country and climatic conditions. As with most urticating caterpillars, <hi rend="italic">A. io</hi>  envenomizations normally occur when the victim inadvertently contacts caterpillar-infested vegetation. At the instant the victim’s skin touches this caterpillar, the spine tips break off in the skin, thus allowing toxin to flow out of the hollow spines and onto the skin.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  Wear gloves, a long-sleeved shirt, and long pants when working in an infested area. Children should be warned not to handle caterpillars. If necessary, infested vegetation may be treated with an appropriate insecticide.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+               <div type="div3">
+                  <head>b. PUSS CATERPILLAR<lb/>(Megalopyge opercularis)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  The puss caterpillar is the larva of a lepidopterous group commonly referred to as “flannel moths.” In some parts of the United States the larva is incorrectly referred to as an “asp.” When fully mature, the larvae are near white to dark gray in color, 2 to 3 cm (0.8-1.2 in) long, and completely covered dorsolaterally with hairs that cause them to resemble elongate tufts of cotton. Some of the hairs are venomous, and when they penetrate the skin a “toxin” passes from an underlying gland through the hairs at the points of contact. The color variation of the larvae in this species is dependent upon larval age, locality, and time of year. In Texas, where this species is most abundant, the spring/summer generation of caterpillars is usually lighter in color than the fall generation.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  This species has been recorded primarily from the Southeastern States, including Alabama, Arkansas, Florida, Georgia, Louisiana, Maryland, Mississippi, Missouri, North Carolina, South Carolina, Texas, and Virginia.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  In most of the southern area of its range, the puss caterpillar is thought to have two generations per year. The first generation develops in the spring and early summer, while the second generation develops in the fall. After emerging from a cocoon and mating, the female moth lays her eggs on a suitable host plant. In a few days the eggs hatch into larvae, which develop by feeding on the leaves of a wide range of trees and shrubs. The natural enemies of the puss caterpillar usually keep its numbers under control; however, every 4 or 5 years the caterpillars become more numerous, and the number of envenomizations associated with them increases.<hi rend="sup">66</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  Always wear protective clothing such as gloves and a long-sleeved shirt when working in areas heavily infested with puss caterpillars. During periods of <hi rend="italic">M. opercularis</hi>  abundance, children should be instructed to stay away from infested trees and shrubs and not to handle caterpillars. If necessary, heavy puss caterpillar infestations may be treated with an appropriate insecticide.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>c.</label>SADDLEBACK CATERPILLAR<lb/>(<hi rend="italic">Sibine stimulea</hi>)</head>
+                  <p rend="justify">(unlabelled)</p>
+                  <p rend="justify">
+                     <hi rend="bold">Identification.</hi>  The saddleback caterpillar is easy to recognize since its brown sluglike body is covered mid-dorsally with markings that resemble a brown or purplish saddle sitting on a green and white saddle blanket. Upon close examination, stout spines can be observed along the caterpillar’s lateral body margin and on its four tubercles. Many of these spines are hairs that are connected at their bases with individual poison glands. Just prior to pupation and subsequent development into a moth, the caterpillar is 2-3 cm (0.8-1.2 in) long.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Distribution.</hi>  In general, the saddleback caterpillar in the United States is distributed southeast of a diagonal line drawn from Massachusetts through the middle of Texas.<hi rend="sup">68</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Biology/Behavior.</hi>  From May to November, <hi rend="italic">Sibine stimulea</hi>  caterpillars may be found feeding on the leaves of a large variety of trees, shrubs, and other plants. Envenomization usually occurs when the victim accidentally contacts vegetation infested with these caterpillars. At the instant the victim’s skin contacts the caterpillar, the spine tips break off, thus allowing toxin to flow out of the hollow spines and into or onto the skin.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Avoidance/Control.</hi>  When working in infested areas, wear gloves, a long-sleeved shirt, and long pants to prevent accidental envenomization. During periods of local heavy infestations, children should be instructed to avoid trees, shrubs, and other vegetation commonly infested with these caterpillars. Local entomologists may be contacted to obtain information on the most effective insecticide for saddleback caterpillar control in a given area.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Envenomization Reaction/Treatment.</hi>  (See appendix.)</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BIBLIOGRAPHY</head>
+               <div type="div3">
+                  <head>General</head>
+                  <p rend="justify">1. Barnard, J.H. Cutaneous responses to insects. JAMA 196:3 (1966).</p>
+                  <p rend="justify">2. Borror, D.J., and D.M. DeLong. An introduction to the study of insects, 2d ed. New York: Holt, Rinehart and Winston, 1964.</p>
+                  <p rend="justify">3. Dodge, N.N. Poisonous dwellers of the desert. Popular Series No. 3, Southwestern Monuments Assoc., Box 1562, Globe, Ariz., 1955.</p>
+                  <p rend="justify">4. Frazier, C.A. Diagnosis and treatment of insect bites. Clin Symp 20:75-100 (1968).</p>
+                  <p rend="justify">5. Frazier, C.A. Insect allergy: Allergic reactions to bites of insects and other arthropods. St. Louis: Warren H. Green, Inc., 1969.</p>
+                  <p rend="justify">6. Frazier, C.A. Treatment guide: Common biting and stinging insects and other arthropods. West Point, Pa.: Merck Sharp &amp; Dohme, 1972.</p>
+                  <p rend="justify">7. Frazier, C.A. Cutaneous manifestations of insect allergy. Cutis 13:1038-1047 (1974).</p>
+                  <p rend="justify">8. Horen, W.P. Insect and scorpion sting. JAMA 221:894-898 (1972)</p>
+                  <p rend="justify">9. Infections and bites: Parasites, arthropods and animals, Section 18. <hi rend="italic">In</hi>  D.J. Demis et al. (eds.). Clinical dermatology, vol. 4. Hagerstown, Md.: Harper &amp; Row, 1974.</p>
+                  <p rend="justify">10. James, M.T., and R.F. Harwood. Herm’s medical entomology, 6th ed. London: Collier-MacMillan, 1970.</p>
+                  <p rend="justify">11. Lyon, J.B. Insect bites and stings. Practitioner 200: 670-677 (1968).</p>
+                  <p rend="justify">12. Micks, D.W. Insects and other arthropods of medical importance in Texas. Tex Rep Biol Med 18:624-635 (1960)</p>
+                  <p rend="justify">13. Millikan, L.E., and R.S. Berger. Clinical and laboratory diagnosis of arthropod bites. CRC Crit Rev Clin Lab Sci 5:201-225 (1974).</p>
+                  <p rend="justify">14. Parrish, H.M. Deaths from bites and stings of venomous animals and insects in the United States. Arch Intern Med 104:198-207 (1959).</p>
+                  <p rend="justify">15. Parrish, H.M. Analysis of 460 fatalities from venomous animals in the United States. Am J Med Sci 245:129-141 (1963).</p>
+                  <p rend="justify">16. Perlman, F. Insects as allergen injectants: Severe reactions to bites and stings of arthropods. Calif Med 96:1-10 (1962).</p>
+                  <p rend="justify">17. Riley, W.A., and O.A. Johannsen. Medical entomology, 2d ed. New York: McGraw-Hill, 1938.</p>
+                  <p rend="justify">18. Russell, F.E. Injuries by venomous animals. Am J Nurs 66:1322-1326 (1966).</p>
+                  <p rend="justify">19. Scott, H.G. Envenomization. DHEW CDC Publ No. (HSM) 72-8121, 1972.</p>
+               </div>
+               <div type="div3">
+                  <head>Blister Beetles</head>
+                  <p rend="justify">20. Lehmann, C.F., et al. Blister beetle dermatosis. Arch Dermatol 71:36-38 (1955).</p>
+                  <p rend="justify">21. Rosin, R.D. Cantharides intoxication. Br Med J 4:33 (1967)</p>
+               </div>
+               <div type="div3">
+                  <head>Centipedes</head>
+                  <p rend="justify">22. Cloudsley-Thompson, J.L. Spiders, scorpions, centipedes and mites. New York: Pergamon, 1958.</p>
+                  <p rend="justify">23. Pineda, E.V. A fatal case of centipede bite. J Philipp Med Assoc 3:59-61 (1923).</p>
+                  <p rend="justify">24. Remington, C.L. The bite and habits of a giant centipede (<hi rend="italic">Scolopendra subspinipes</hi>) in the Philippine Islands. Am J Trop Med 30:453-455 (1950).</p>
+               </div>
+               <div type="div3">
+                  <head>Hemiptera</head>
+                  <p rend="justify">25. Hall, M.C. Lesions due to the bite of the wheel-bug, <hi rend="italic">Arilus cristatus</hi> (Hemiptera, Reduviidae). Arch Intern Med 33:513-515 (1924).</p>
+                  <p rend="justify">26. Marks, M.B. Stinging insects: Allergy implications. Pediatr Clin North Am 16:177-191 (1969).</p>
+                  <p rend="justify">27. Nichols, N., and T.W. Green. Allergic reactions to “kissing bug” bites. Calif Med 98:267-268 (1963).</p>
+                  <p rend="justify">28. Parsons, D.J. Bedbug bite anaphylaxis misinterpreted as coronary occlusion. Ohio Med J 51:669 (1955).</p>
+                  <p rend="justify">29. Readio, P.A. Studies on the biology of the Reduviidae of America north of Mexico. Univ Kans Sci Bull 17:5 (1927).</p>
+                  <p rend="justify">30. Shields, T.L., and E.N. Walsh. “Kissing bug” bite. Arch Dermatol 74:14-21 (1956).</p>
+                  <p rend="justify">31. Smith, F.D., et al. Insect bite by <hi rend="italic">Arilus cristatus</hi>, a North American Reduviid. Arch Dermatol 77:324-330 (1958).</p>
+                  <p rend="justify">32. Wray, D.L. Two cases of Hemiptera biting humans (Hemiptera, Reduviidae). Entomol News 82:228 (1971).</p>
+               </div>
+               <div type="div3">
+                  <head>Hymenoptera</head>
+                  <p rend="justify">33. Barnard, J.H. Studies of 400 hymenoptera sting deaths in the United States. J Allergy Clin Dermatol 52:259-264 (1973).</p>
+                  <p rend="justify">34. Barr, S.E. Allergy to hymenoptera stings. JAMA 228:718-720 (1974).</p>
+                  <p rend="justify">35. Busse, W., et al. Protection following honeybee venom immunotherapy in a case of beesting anaphylaxis. (Abstract) J Allergy Clin Immunol 53:104 (1974).</p>
+                  <p rend="justify">36. Busse, W.S., et al. Immunotherapy in bee-sting anaphylaxis: Use of honeybee venom. JAMA 231:1154-1156 (1975).</p>
+                  <p rend="justify">37. Charavejasarn, C.C., et al. Stinging insect hypersensitivity. II. Studies of bee venom antigenicity. (Abstract) J Allergy Clin Immunol 53:104 (1974).</p>
+                  <p rend="justify">38. Controlling wasps. U.S. Department of Agriculture, Home and Garden Bull No. 122, 1972.</p>
+                  <p rend="justify">39. Favorite, F.G. The imported fire ant. Public Health Rep 73:445-448 (1958).</p>
+                  <p rend="justify">40. Insect-sting allergy: Questionnaire study of 2,606 cases. JAMA 193:109-114 (1965).</p>
+                  <p rend="justify">41. Lichtenstein, L.M., et al. Treatment of honeybee anaphylactic sensitivity with honeybee venom: A case report. (Abstract) J Allergy Clin Immunol 53:104-105 (1974).</p>
+                  <p rend="justify">42. Majeski, J.A., et al. Acute systemic anaphylaxis associated with an ant sting. South Med J 67:365-366 (1974).</p>
+                  <p rend="justify">43. McCormick, W.F. Fatal anaphylactic reactions to wasp stings. Am J Clin Pathol 39:485-491 (1963).</p>
+                  <p rend="justify">44. McLean, J.A. Management of insect sting reactions. Mod Treat 5:814-824 (1968).</p>
+                  <p rend="justify">45. Morse, R.A., et al. Protective measures against stinging insects. NY State J Med 59:1546-1548 (1959).</p>
+                  <p rend="justify">46. Reisman, R.E. Stinging insect allergy—treatment failures. J Allergy Clin Immunol 52:257-258 (1973).</p>
+                  <p rend="justify">47. Spencer, J.T. Treatment of yellow jacket stings. JAMA 206:649 (1968).</p>
+                  <p rend="justify">48. Torsney, P.J. Treatment failure: Insect desensitization. J Allergy Clin Dermatol 52:303-306 (1973).</p>
+                  <p rend="justify">49. Valentine, M.D., et al. Blocking antibody to bee venom: Induction by venom and not by whole body extracts. (Abstract) J Allergy Clin Immunol 53:105 (1974).</p>
+               </div>
+               <div type="div3">
+                  <head>Scorpions</head>
+                  <p rend="justify">50. Masco, H.L. Scorpion bite treatment with chlorpromazine. JAMA 212:2122 (1970).</p>
+                  <p rend="justify">51. Stahnke, H.L. Scorpions. Tempe, Ariz.: Arizona State College Bookstore, 1949.</p>
+                  <p rend="justify">52. Vachon, M. The biology of scorpions. Endeavor April:80-89 (1953).</p>
+               </div>
+               <div type="div3">
+                  <head>Spiders</head>
+                  <p rend="justify">53. Anderson, P.C. What’s new in loxoscelism? Mo Med 70:711, 712, 718 (1973).</p>
+                  <p rend="justify">54. Atkins, J.A., et al. Probable cause of necrotic spider bite in the Midwest. Science 126:73 (1957).</p>
+                  <p rend="justify">55. Auer, A.I., and F.B. Hershey. Surgery for necrotic bites of the brown spider. Arch Surg 108:612-618 (1974).</p>
+                  <p rend="justify">56. Cheng, A.K. USAF School of Aerospace Medicine, San Antonio, Tex. Personal communication, 1974.</p>
+                  <p rend="justify">57. Gladney, W.J. Controlling the brown recluse spider. U.S. Department of Agriculture Leaflet No. 556, 1972.</p>
+                  <p rend="justify">58. Hammon, P.J., and W.H. Newton. The brown recluse and the black widow spiders. Texas A&amp;M Univ, Fact Sheet L-623 (1970).</p>
+                  <p rend="justify">59. Hershey, R.B., and C.E. Aulenbacher. Surgical treatment of brown spider bites. Ann Surg 170:300-308 (1969)</p>
+                  <p rend="justify">60. Horen, W.P. Arachnidism. Clin Med (Aug):41-43 (1966)</p>
+                  <p rend="justify">61. Russell, F. E., et al. Bites of spiders and other arthropods, Section 16, pp. 865-867. <hi rend="italic">In</hi>  H.F. Conn (ed.). Current therapy. Philadelphia: W.B. Saunders, 1974.</p>
+                  <p rend="justify">62. Taylor, E.H., and W.F. Denney. Hemolysis, renal failure and sudden death, presumed secondary to bite of brown recluse spider. South Med J 59:1209-1211 (1966).</p>
+                  <p rend="justify">63. The brown recluse. Public Health Service Publ No. 2062, 1970.</p>
+               </div>
+               <div type="div3">
+                  <head>Urticating Caterpillars</head>
+                  <p rend="justify">64. Daly, J.A., and B.L. Derrick. Puss caterpillar sting in Arkansas. South Med J 68:893-894 (1975).</p>
+                  <p rend="justify">65. Kendall, R.O. San Antonio, Tex. Personal communication, 1975.</p>
+                  <p rend="justify">66. McGovern, J.P., et al. <hi rend="italic">Megalopyge opercularis</hi>: Observations of its life history, natural history of its sting in man, and report of an epidemic. JAMA 175: 121-124 (1961).</p>
+                  <p rend="justify">67. Micks, D.S. Clinical effects of the sting of the “puss caterpillar” (<hi rend="italic">Megalopyge opercularis</hi>  S. &amp; A.) on man. Tex Rep Biol Med 10:399-405 (1952).</p>
+                  <p rend="justify">68. Mitchell, R.T., and H.S. Zim. Butterflies and moths. New York: Golden Press, 1964.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>APPENDIX: ARTHROPOD ENVENOMIZATION REACTIONS AND TREATMENT</head>
+               <p rend="justify">The material presented in this appendix was prepared by Lt Col John C. Moseley, USAF, MC, Dermatologist, Wilford Hall USAF Medical Center, Lackland AFB, Texas.</p>
+               <div type="div3">
+                  <head>BLACK WIDOW SPIDER</head>
+                  <div type="div4">
+                     <head>REACTIONS</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">IMMEDIATE:</hi> Pinprick sensation from the bite</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL:</hi>  Dull numbing pain; two red puncture marks at bite site. Pain peaks at 1-3 hours and persists 12-48 hours</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">REGIONAL:</hi>
+                     </p>
+                     <p rend="justify">1. Severe muscular pain and spasm</p>
+                     <p rend="justify">2. Rigid boardlike abdomen</p>
+                     <p rend="justify">3. Tightness in chest and pain on inspiration</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">GENERAL:</hi>
+                     </p>
+                     <p rend="justify">1. Rigidity and spasm of all large muscle groups; excruciating abdominal pain</p>
+                     <p rend="justify">2. Convulsions, paralysis</p>
+                     <p rend="justify">3. Shock</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">DEATHS:</hi>  4-5% of untreated cases due to neurotoxic effect of the venom</p>
+                  </div>
+                  <div type="div4">
+                     <head>TREATMENT</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL FIRST AID:</hi> Ineffective and unnecessary</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>
+                     </p>
+                     <p rend="justify">1. Antivenin—1 vial IM (carefully follow package insert instructions) after testing for horse-serum sensitivity</p>
+                     <p rend="justify">2. Calcium gluconate—10 ml of 10% solution given IV immediately and prn to control muscle pain</p>
+                     <p rend="justify">3. Muscle relaxants—Give continuously over 8-16-hr period to relieve intensity of muscle spasm and pain</p>
+                     <p rend="justify">4. Treat for shock as necessary (Chart 2)</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>BROWN RECLUSE SPIDER</head>
+                  <div type="div4">
+                     <head>REACTIONS</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">IMMEDIATE:</hi> Very little pain, if any</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL:</hi>
+                     </p>
+                     <p rend="justify">1. 2-8 Hours—Mild to severe pain with redness and vesiculation at bite site, followed by ischemia</p>
+                     <p rend="justify">2. 3-4 Days—Star-shaped firm area of deep-purple color with necrosis</p>
+                     <p rend="justify">3. 7-14 Days—Central area of depression and ulceration</p>
+                     <p rend="justify">4. 21 Days—Healing and scar formation. May not heal sufficiently and may require skin grafting</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>
+                     </p>
+                     <p rend="justify">1. Fever, chills, nausea, vomiting, weakness, joint pain</p>
+                     <p rend="justify">2. Morbilliform or petechial generalized eruption</p>
+                     <p rend="justify">3. Occasionally serious hematological disturbances—hemolytic anemia, thrombocytopenia</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">DEATHS:</hi>  Reported; usually in children, due to renal failure and hematological abnormalities.</p>
+                  </div>
+                  <div type="div4">
+                     <head>TREATMENT</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL FIRST AID:</hi> None effective or necessary</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL:</hi>  Within 4 hours of the bite, locally excise bite site</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>
+                     </p>
+                     <p rend="justify">1. Systemic corticosteroids is the treatment of choice and must be administered immediately—methylprednisolone (Depo-Medrol) 80 mg IM, followed by prednisone 60 mg a day for 3 days and gradually tapered over a 10-14-day course of therapy</p>
+                     <p rend="justify">2. Heparin therapy may reduce the disseminated intravascular coagulation phenomenon</p>
+                     <p rend="justify">3. Analgesics for pain</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>CENTIPEDES</head>
+                  <div type="div4">
+                     <head>REACTIONS</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">IMMEDIATE:</hi> Pain, often intense</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL:</hi>  1-4 hours—A two-puncture wound at the site with redness, swelling, and a burning aching pain that subsides in 4-5 hours</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">REGIONAL:</hi>  Rare—Purpura of an entire limb</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">ANAPHYLAXIS AND DEATH:</hi>  None reported in the United States</p>
+                  </div>
+                  <div type="div4">
+                     <head>TREATMENT</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL FIRST AID:</hi>
+                     </p>
+                     <p rend="justify">1. Wash with soap and water</p>
+                     <p rend="justify">2. Apply ammonia in 10% solution</p>
+                     <p rend="justify">3. Apply cool wet dressings of a saturated magnesium sulfate solution</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>  Analgesics for pain</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>TRUE BUGS (KISSING BUGS)</head>
+                  <div type="div4">
+                     <head>REACTIONS</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">IMMEDIATE:</hi> Usually no sensation, occasionally mild pain</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL:</hi>  (Four distinct reactions depending on degree of sensitivity):</p>
+                     <p rend="justify">1. Papule with a central punctum</p>
+                     <p rend="justify">2. Small vesicles grouped around bite site with swelling and little redness</p>
+                     <p rend="justify">3. Giant urticarial lesion with central punctum and surrounding brawny edema</p>
+                     <p rend="justify">4. Hemorrhagic nodular-to-bullous lesions on hands and feet—the characteristic “kissing bug bites”</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">ANAPHYLACTIC SHOCK:</hi>  Rare, but reported</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">DEATHS:</hi>  None reported</p>
+                  </div>
+                  <div type="div4">
+                     <head>TREATMENT</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL FIRST AID:</hi> Wash with soap and water</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>  Oral antihistamines (Chart 1)</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>ANTS</head>
+                  <div type="div4">
+                     <head>REACTIONS</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">IMMEDIATE:</hi> Fierce burning pain lasting minutes</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL:</hi>  (Fire Ants)</p>
+                     <p rend="justify">Minutes—Wheal formation</p>
+                     <p rend="justify">2-4 Hours—Clear fluid-filled vesicles</p>
+                     <p rend="justify">8-10 Hours—Cloudy fluid-filled vesicles</p>
+                     <p rend="justify">12-24 Hours—Umbilicated pustules on a red base, with pain and tenderness</p>
+                     <p rend="justify">3-8 Days—Lesions resolve; may leave scars</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>  Due to allergic sensitization; severity and speed of onset related to degree of sensitivity. May see wheezing, urticaria, abdominal cramps, generalized edema, nausea, vomiting, dizziness, confusion, shock</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">ANAPHYLAXIS AND DEATH:</hi>  Rare, but reported</p>
+                  </div>
+                  <div type="div4">
+                     <head>TREATMENT</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL FIRST AID:</hi>
+                     </p>
+                     <p rend="justify">1. Wash sites with soap and water</p>
+                     <p rend="justify">2. Apply ice packs or cold compresses</p>
+                     <p rend="justify">3. Apply baking soda and water paste</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>
+                     </p>
+                     <p rend="justify">1. Epinephrine (1:1,000) subcutaneous injection (0.2-0.5 ml in adults and 0.1-0.3 in children). Repeat in 5-10 min if necessary</p>
+                     <p rend="justify">2. Antihistamine (Benadryl, 50 mg IM)—Adult</p>
+                     <p rend="justify">3. Oral antihistamines (Chart 1)</p>
+                     <p rend="justify">4. Treat for shock as necessary (Chart 2)</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>BEES AND WASPS</head>
+                  <div type="div4">
+                     <head>REACTIONS</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">IMMEDIATE:</hi> Pain</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL:</hi>  Within 1-4 hours—Appearance and subsidence of wheal and red flare; may see intense local swelling in region of sting</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>
+                     </p>
+                     <p rend="justify">1. Mild reaction—Generalized urticaria, itching, malaise, anxiety</p>
+                     <p rend="justify">2. Moderate reaction—Any of the above plus generalized edema, tightness in the chest, wheezing, abdominal pain, nausea, vomiting, dizziness</p>
+                     <p rend="justify">3. Severe reaction—Any of the above plus labored breathing, difficulty in swallowing, hoarseness or thickened speech, marked weakness, confusion, feeling of impending disaster</p>
+                     <p rend="justify">4. Shock—Cyanosis, fall in BP, collapse, incontinence, unconsciousness</p>
+                     <p rend="justify">5. Delayed serum-sickness-like reaction (10-14 days after sting)—Fever, lymphadenopathy, malaise, headache, urticaria, polyarthritis</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">ANAPHYLAXIS AND SUDDEN DEATH:</hi>  Many cases reported, usually in adults</p>
+                  </div>
+                  <div type="div4">
+                     <head>TREATMENT</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL FIRST AID:</hi>
+                     </p>
+                     <p rend="justify">1. Remove bee stinger from sting site by gently scraping with fingernail or blade to prevent further venom injection from attached venom sac</p>
+                     <p rend="justify">2. Wash site with soap and water</p>
+                     <p rend="justify">3. Apply ice packs or ammonia in 10% solution</p>
+                     <p rend="justify">4. Apply baking soda and water paste</p>
+                     <p rend="justify">5. Elevate and rest involved limb</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>
+                     </p>
+                     <p rend="justify">1. Epinephrine (1:1,000) subcutaneous injection (0.2-0.5 ml in adults and 0.1-0.3 ml in children). Repeat in 5-10 min if necessary</p>
+                     <p rend="justify">2. Analgesics (ASA, Tylenol) for pain</p>
+                     <p rend="justify">3. Antihistamines (Chart 1)—Useful only for urticarial and pruritic reactions</p>
+                     <p rend="justify">4. Treat for shock as necessary (Chart 2)</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">LONG-TERM MANAGEMENT:</hi>  (for hypersensitive patients)</p>
+                     <p rend="justify">1. Medic-alert tag or bracelet</p>
+                     <p rend="justify">2. Emergency treatment kit and instructions for use</p>
+                     <p rend="justify">3. Program for desensitization</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCORPIONS</head>
+                  <div type="div4">
+                     <head>REACTIONS</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">IMMEDIATE:</hi> Severe sharp pain</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL:</hi>
+                     </p>
+                     <p rend="justify">1. Dangerous neurotoxic species—Pins-and-needles sensation with no local swelling or discoloration (found in Arizona only)</p>
+                     <p rend="justify">2. Comparatively harmless species (not neurotoxic)—Local swelling and discoloration at sting site</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC</hi>  (neurotoxic species only—within 1-3 hours):</p>
+                     <p rend="justify">1. Hypoesthesia and numbness or drowsiness</p>
+                     <p rend="justify">2. Itching of nose and throat</p>
+                     <p rend="justify">3. Impaired speech and tightness of jaw muscles</p>
+                     <p rend="justify">4. Restlessness and muscle twitching</p>
+                     <p rend="justify">5. Muscle spasms with pain, nausea, vomiting, incontinence, convulsions</p>
+                     <p rend="justify">6. Respiratory and/or circulatory distress</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">ANAPHYLAXIS:</hi>  Rare, but reported with non-neurotoxic species</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">DEATHS:</hi>  Occasional; due to neurotoxic species</p>
+                  </div>
+                  <div type="div4">
+                     <head>TREATMENT</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL FIRST AID:</hi>
+                     </p>
+                     <p>1. Apply ice packs<lb/>2. Apply tourniquet if possible and as near sting site as possible. Loosen briefly every 10-15 minutes</p>
+                     <p>WARNING: Do <hi rend="italic">not</hi>  use morphine or opiates since they increase toxic effects</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>
+                     </p>
+                     <p rend="justify">1. Specific antivenin available for many dangerous species; administered early, may be lifesaving</p>
+                     <p rend="justify">2. Calcium gluconate—10 ml of 10% solution IV immediately and prn to control muscle pain</p>
+                     <p rend="justify">3. Phenobarbital—30-60 mg orally for sedation and control of convulsions</p>
+                     <p rend="justify">4. Treat for shock as necessary (Chart 1)</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>URTICATING CATERPILLARS</head>
+                  <div type="div4">
+                     <head>REACTIONS</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">IMMEDIATE:</hi> Severe burning pain</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL:</hi>
+                     </p>
+                     <p rend="justify">1. Numbness and swelling of area inflicted with severe radiating pain</p>
+                     <p rend="justify">2. Possible double row of parallel red punctuate marks forming a gridlike tract along the path of the caterpillar</p>
+                     <p rend="justify">3. Swelling of regional lymph nodes</p>
+                     <p rend="justify">4. Late foreign-body reaction to unremoved spines</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>
+                     </p>
+                     <p rend="justify">1. Nausea, vomiting, fever</p>
+                     <p rend="justify">2. Headaches</p>
+                     <p rend="justify">3. Shock and convulsions (rare)</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">DEATHS:</hi>  None reported</p>
+                  </div>
+                  <div type="div4">
+                     <head>TREATMENT</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">LOCAL FIRST AID:</hi>
+                     </p>
+                     <p rend="justify">1. Repeated stripping using adhesive or cellophane tape to remove spines</p>
+                     <p rend="justify">2. Apply ice packs</p>
+                     <p rend="justify">3. Apply baking soda and water paste</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">SYSTEMIC:</hi>
+                     </p>
+                     <p rend="justify">1. For severe pain give meperidine hydrochloride (Demerol, 50-100 mg PO or IM), morphine sulfate (0.25 subcutaneous), codeine phosphate (0.5 g PO)</p>
+                     <p rend="justify">NOTE: Aspirin is generally not effective</p>
+                     <p rend="justify">2. Shock (Chart 2)</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>CHART 1<lb/>ANTIHISTAMINES</head>
+                  <p rend="justify">GROUP</p>
+                  <p rend="justify">TRADE NAME</p>
+                  <p rend="justify">AVERAGE ORAL BASE</p>
+                  <p rend="justify">SEDATION</p>
+                  <p rend="justify">   </p>
+                  <p rend="justify">GENERIC NAMES</p>
+                  <p rend="justify">ADULT</p>
+                  <p rend="justify">CHILD</p>
+                  <p rend="justify">Ethanolamines</p>
+                  <p rend="justify">diphenhydramine•HCl</p>
+                  <p rend="justify">Benadryl</p>
+                  <p rend="justify">50 mg q 4-6h</p>
+                  <p rend="justify">25 mg q 4-6h</p>
+                  <p rend="justify">++++</p>
+                  <p rend="justify">diphenhydramine theophyllinate</p>
+                  <p rend="justify">Dramamine</p>
+                  <p rend="justify">50 mg q 4h</p>
+                  <p rend="justify">25 mg q 4h</p>
+                  <p rend="justify">++++</p>
+                  <p rend="justify">Ethylenediamine</p>
+                  <p rend="justify">tripelennamine</p>
+                  <p rend="justify">Pyribenzamine</p>
+                  <p rend="justify">50 mg q 4-6h</p>
+                  <p rend="justify">25 mg q 4-6h</p>
+                  <p rend="justify">+++</p>
+                  <p rend="justify">Alkylamines</p>
+                  <p rend="justify">chlorpheniramine maleate</p>
+                  <p rend="justify">Chlor-Trimeton</p>
+                  <p rend="justify">4 mg q 6h</p>
+                  <p rend="justify">2 mg q 6h</p>
+                  <p rend="justify">++</p>
+                  <p rend="justify">brompheniramine maleate</p>
+                  <p rend="justify">Dimetane</p>
+                  <p rend="justify">8 mg q 6h</p>
+                  <p rend="justify">4 mg q 6h</p>
+                  <p rend="justify">+</p>
+                  <p rend="justify">triprolidine•HCl</p>
+                  <p rend="justify">Actidil</p>
+                  <p rend="justify">2.5 mg q 8h</p>
+                  <p rend="justify">1.25 mg q 8h</p>
+                  <p rend="justify">++</p>
+                  <p rend="justify">Cyclizines</p>
+                  <p rend="justify">hydroxyzine•HCl</p>
+                  <p rend="justify">Atarax</p>
+                  <p rend="justify">25-100 mg q 6h</p>
+                  <p rend="justify">10-25 mg q 6h</p>
+                  <p rend="justify">+</p>
+                  <p rend="justify">Miscellaneous</p>
+                  <p rend="justify">cyproheptadine•HCl</p>
+                  <p rend="justify">Periactin</p>
+                  <p rend="justify">4 mg q 6h</p>
+                  <p rend="justify">2 mg q 6h</p>
+                  <p rend="justify">+++</p>
+                  <p rend="justify">promethazine</p>
+                  <p rend="justify">Phenergan</p>
+                  <p rend="justify">25-50 mg q 6-8h</p>
+                  <p rend="justify">12.5-25 mg q 6-8h</p>
+                  <p rend="justify">++++</p>
+               </div>
+               <div type="div3">
+                  <head>Chart 2<lb/>Treatment of Anaphylaxis—Shock</head>
+                  <p rend="justify">IMMEDIATE TREATMENT</p>
+                  <p rend="justify">MILD REACTION TREATMENT</p>
+                  <p rend="justify">SEVERE REACTION TREATMENT</p>
+                  <p rend="justify">REACTION: Conjunctivitis, Rhinitis, Urticaria, Pruritus, Erythema</p>
+                  <p rend="justify">Epinephrine•HCl 0.3 ml (1:1,000) IM<lb/>Diphenhydramine•HCl 50 mg PO</p>
+                  <p rend="justify">Diphenhydramine•HCl 50 mg PO q 6h</p>
+                  <p rend="justify">REACTION: Laryngeal edema</p>
+                  <p rend="justify">Epinephrine•HCl 0.3 ml (1:1,000) IM<lb/>Diphenhydramine•HCl 50 mg IV</p>
+                  <p rend="justify">Diphenhydramine•HCl 50 mg q 6h IM or PO<lb/>Ephedrine sulfate 25 mg q 6h</p>
+                  <lg>
+                     <l>Oxygen</l>
+                     <l>Diphenhydramine•HCl 50 mg q 6h</l>
+                     <l>Ephedrine sulfate 25 mg q 6h</l>
+                     <l>Monitor blood gases</l>
+                     <l>Hydrocortisone</l>
+                     <l>Tracheostomy</l>
+                  </lg>
+                  <p rend="justify">REACTION: Bronchospasm</p>
+                  <p rend="justify">Epinephrine•HCl 0.3 ml (1:1,000) IM<lb/>Diphenhydramine•HCl 50 mg IV</p>
+                  <p rend="justify">Epinephrine•HCl 0.3 ml (1:1,000) IM<lb/>Aminophylline 250 mg IV over 10-min period of time</p>
+                  <lg>
+                     <l>Oxygen</l>
+                     <l>Aminophylline 500 mg IV q 6h</l>
+                     <l>Hydrocortisone</l>
+                     <l>IV fluids</l>
+                     <l>Monitor blood gases</l>
+                     <l>Observe for respiratory failure</l>
+                  </lg>
+                  <p rend="justify">REACTION: Hypotension</p>
+                  <p rend="justify">Epinephrine•HCl 0.3 ml (1:1,000) IM<lb/>Diphenhydramine•HCl 50 mg IV</p>
+                  <p rend="justify">Metaraminol bitartrate, 100 mg in 1,000 ml 5% dextrose in water</p>
+                  <lg>
+                     <l>Oxygen</l>
+                     <l>Metaraminol bitartrate IV</l>
+                     <l>IV fluids</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Transcriber’s Notes</head>
+               <list rend="bulleted">
+                  <item>Retained publication information from the printed edition: this eBook is public-domain in the country of publication.</item>
+                  <item>Corrected a few palpable typos.</item>
+                  <item>Generated a spine image from elements of the cover image.</item>
+                  <item>Reformatted several charts for better text flow on narrow screens.</item>
+                  <item>In the text versions only, text in italics is delimited by _underscores_.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

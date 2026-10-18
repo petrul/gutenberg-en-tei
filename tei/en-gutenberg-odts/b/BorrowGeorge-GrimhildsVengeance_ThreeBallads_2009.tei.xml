@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Grimhild's Vengeance: Three Ballads</title>
+            <author>George Borrow</author>
+            <author>GEORGE BORROW</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T00:33:28Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/b/BorrowGeorge-GrimhildsVengeance_ThreeBallads_2009.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>George Borrow</name>
+               <date>2024-01-04T00:33:28Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Grimhild's Vengeance: Three Ballads</head>
+         <author>George Borrow</author>
+         <author>GEORGE BORROW</author>
+         <p>EDMUND GOSSE, C.B.</p>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/b/BorrowGeorge-GrimhildsVengeance_ThreeBallads_2009.odt</p>
+         <p>Transcribed from the 1913 Thomas J. Wise pamphlet by David Price, email ccx074@pglaf.org.  Many thanks to Norfolk and Norwich Millennium Library, UK, for kindly supplying the images from which this transcription was made.</p>
+         <head>GRIMHILD’S VENGEANCE<lb/>three ballads</head>
+         <author>by<lb/>GEORGE BORROW</author>
+         <p>Edited<lb/>
+            <hi rend="italic">with an introduction</hi>
+            <lb/>by<lb/>EDMUND GOSSE, C.B.</p>
+         <p>London:<lb/>printed for private circulation<lb/>1913</p>
+         <p>
+            <hi rend="italic">Copyright in the United States of America</hi>
+            <lb/>
+            <hi rend="italic">by Houghton</hi>, <hi rend="italic">Mifflin &amp; Co. for Clement Shorter</hi>.</p>
+         <pb/>
+         <div type="div1">
+            <head>INTRODUCTION<lb/>
+               <hi rend="italic">Borrow and the Kjæmpeviser</hi>.</head>
+            <p>The modern poetical literature of Denmark opens with a collection of epical and lyrical poems from the Middle Ages, which are loosely connected under the title of <hi rend="italic">Kjæmpeviser</hi> or Heroic Ballads.  Of these the latest scholarship recognises nearly 500, but in the time of Borrow the number did not much exceed 200.  These ballads deal with half-historic events, which are so completely masked by fantastic, supernatural and incoherent imagery that their positive relation to history can rarely be discovered.  Nevertheless, they throw a very valuable light upon the manners of mediaeval society in Scandinavia, and they are often of high poetical beauty.  No conjecture can be formed as to the authors of these ballads, and even the centuries in which they were composed are uncertain.  Grimm believed them to be <hi rend="italic">uralt</hi>, and attributed them to the 5th and 6th centuries.  But on linguistic grounds, this extreme antiquity cannot be maintained.  It is now supposed that they were composed at various times between 1300 and 1500, and that in their present form they bear the stamp of the period when they were first collected by the Danish antiquaries of the sixteenth century.</p>
+            <p>The circumstances in which this famous collection of folk-songs came into public notice were of a romantic nature.  Sophia, Queen of Denmark, when sailing across the Sound in the year 1586, was driven by stress of weather to take shelter in the little island-harbour of Hveen, where the famous observatory stood, close by the house of the astronomer, Tycho Brahe.  It so happened that at that very time Brahe was entertaining as a guest the most eminent Danish man of letters of that age, Anders Sörensen Vedel (1542–1616).  Vedel, whose labours were encyclopædic, was engaged in preserving all the monuments of Danish mediaeval history and learning which he could discover in the monasteries and libraries of Denmark.  He had been much encouraged in this work by the Monk of Roeskilde, Peder Olufsen, who on his death-bed, about 1570, had placed in Vedel’s hands all the MSS. which he had collected.  Queen Sophia, cloistered in the Ouranienborg with her antiquary and her astronomer, and waiting for the tempest to moderate, desired to be amused with stories of her national history.  Vedel ventured to read to her some of the legendary poems which still lingered among the people, and she was so enchanted with them, that she commanded him, when he returned to the mainland, to make a collection of these ballads and publish them.</p>
+            <p>Accordingly, in 1591, Vedel issued from the private printing-press in his house called Liljeborg at Ribe in Jutland, a selection of 100 mediaeval ballads, under the title of <hi rend="italic">Et Hundred udvalgte danske Viser</hi>.  This volume is one of the landmarks of Scandinavian, and indeed of European, literary history.  Vedel made another collection, this time of ancient love-ballads, which he called <hi rend="italic">Tragica</hi>; it was not published until 1657, long after his death.  But the volume of 1591 is the fountain-head of all that has since been written about the Heroic Ballads of the North, and it is impossible to overrate the services of Vedel in preserving what was even then ready to disappear.  It seems, moreover, that he was careful of the text, and later scholarship has come more and more to place confidence in his transcripts.</p>
+            <p>This was, unfortunately, not the case with the next pioneer in the same field, although he deserves great credit also.  Peter Petersen Syv (1631–1702) was a very able philologist, who was also a minor poet of ambition.  In 1695 he reprinted and edited Vedel’s text, adding 100 more <hi rend="italic">kjæmpeviser</hi>  which had been unknown to Vedel.  But his work was not so well done; Syv was something of a pedant, and unfortunately either too critical or not critical enough.  He ventured to correct the irregularities of the ballads, and not seldom has spoiled them.  He bore the proud title of Philologer Royal of Denmark, and he was above all things else a grammarian.  But he added to our store of Ballads.  No one, during the eighteenth century, advanced on the labours of Vedel and Syv, and their treasuries of beautiful anonymous poetry seem to have attracted no attention in the rest of Europe.</p>
+            <p>But in the first decade of the nineteenth century, in consequence of what we call the Romantic Revival, poets and scholars in many countries turned simultaneously to the treasure-house of Danish balladry.  Jamieson’s work, to which I shall presently return, dates from 1806; about the same time Herder translated one or two <hi rend="italic">kjæmpeviser</hi>  in his <hi rend="italic">Stimmen der Völker</hi>, and in 1809 Wilhelm Carl Grimm started his full translation, under the title of <hi rend="italic">Altdänische Heldenlieder</hi>, <hi rend="italic">Balladen and Märchen</hi>, which appeared in 1811.  But it appears that Grimm had heard and perhaps even seen the proofs of a Danish edition of the very highest importance, the <hi rend="italic">Udvalgte Danske Viser fra Middlealderen</hi>, the first volume of which was brought out by Abrahamson, Nyerup and Rahbek in 1812. [9]  Abrahamson dropped out, but the work was completed by the others, the fifth and last volume appearing in 1814.</p>
+            <p>Borrow’s relation to these texts must now be considered, and it offers some difficulty.  In 1826 he published a volume of verse entitled <hi rend="italic">Romantic Ballads translated from the Danish</hi>, and in the preface he uses these words:—“I expect shortly to lay before the public a complete translation of the Kiæmpé Viser, made by me some years ago.”  It is necessary to bear in mind that there are these two collections of Borrow’s translations from the <hi rend="italic">kjæmpeviser</hi>, the second of which, as we shall see, he did not contrive to publish.</p>
+            <p>No doubt, he was anxious to emphasise the novelty and rarity of his literary adventures.  But his attitude to Jamieson is very strange.  As early as 1806 Robert Jamieson (1780–1844) had published a volume of <hi rend="italic">Popular Ballads</hi>, in which he had translated several of the <hi rend="italic">kjæmpeviser</hi>  and had pointed out their value in relation to the ancient Scottish poems of a similar kind.  Sir Walter Scott paid much flattering attention to Jamieson’s work, which also attracted a good deal of notice in Denmark and Germany, and inspired the <hi rend="italic">Drei altschottische Lieder</hi>  of G. D. Gräter (1813).  It is scarcely possible that Borrow was not aware of all this, yet he never mentions the name of Jamieson, and in 1826 he spoke boldly of himself as breaking into “unknown and untrodden paths.”  It is not impossible that Sir Walter Scott’s patronage of Jamieson had something to do with the ungenerous petulance of Borrow’s references to the great novelist in <hi rend="italic">Lavengro</hi>.</p>
+            <p>But Borrow’s attitude to the contemporary scholars of Denmark is still more surprising.  Without saying so in exact words, he gives us to understand that he translated all the <hi rend="italic">kjæmpeviser</hi>  from the original edition of Vedel.  It would be rash to say that Borrow was not acquainted with the <hi rend="italic">Danske Viser</hi>  of 1591, for he does, in one place, quote, whether at first-hand or not, from Vedel’s preface.  But it requires great faith to accept his own account of his approach to the poems.  In <hi rend="italic">Lavengro</hi>, at a point which Knapp has dated 1820, Borrow tells with brilliant picturesqueness how he purchased, by permitting the wife of an elderly yeoman to kiss his cheek, “a strange and uncouth-looking volume” which had formed part of the kit of some red-haired fishermen who were wrecked on the Norfolk coast:—</p>
+            <p>It was not very large, but instead of the usual covering was bound in wood, and was compassed with strong iron clasps.  It was a printed book, but the pages were not of paper, but vellum, and the characters were black, and resembled those generally termed Gothic. . . .  And now I had in my possession a Danish book, which, from its appearance, might be supposed to have belonged to the very old Danes indeed: but how was I to turn it to any account?  I had the book it is true, but I did not understand the language, and how was I to overcome that difficulty?  Hardly by poring over the book; yet I did pore over the book again, but with all my poring I could not understand it; and then I became angry, and I bit my lips till the blood came; and I occasionally tore a handful from my hair and flung it upon the floor, but that did not mend the matter, for still I did not understand the book, which however I began to see was written in rhyme. . . .  For the book was a book of ballads, about the deeds of knights and champions, and men of huge stature. . . . collected by one Anders Vedel.</p>
+            <p>This story of a vellum copy of the rare edition of 1591 thrown up on the shore of Norfolk with a common sailor’s effects is told in Borrow’s best style.  But how far is it true?  Whether it is entirely or only partly romance, the inference that Borrow translated the <hi rend="italic">kjæmpeviser</hi>  by the light of nature from this “Gothic” text must be abandoned.  He may or may not have handled a copy of Vedel, but he made his translations, as internal evidence amply proves, from the five volumes of Abrahamson, Nyerup and Rahbek, published between 1812 and 1814.  This was a cheap and highly accessible edition, and was in the hands of the booksellers complete at least six years before Borrow began to read Danish.  He accepted the text of these scholars and their arrangement; he translated their notes word for word,—and gave them out as his own; his volume of 1826 and the privately printed later ballads are wholly founded upon Abrahamson, Nyerup and Rahbek, and yet, so far as I can discover, he never mentions their names in any part of his writings.  He professed that the public should believe his knowledge to be wholly derived from a mysterious black-letter volume washed up on the sands of his native county, and read by him with agonies of labour by the pure light of divination.</p>
+            <p>In January, 1830, a prospectus was put forth in which “<hi rend="italic">The Songs of Scandinavia</hi>, <hi rend="italic">translated by Dr. Bowring and Mr. Borrow</hi>” was offered to subscribers at the price of a guinea.  This was an attempt on the part of Borrow, languidly assented to by Bowring, to give publicity to some 70 <hi rend="italic">kjæmpeviser</hi>  which the former had translated since the publication of his <hi rend="italic">Romantic Ballads</hi>  of 1826.  “I am terribly afraid,” writes Borrow, “of being forestalled in the Kæmpe Viser by some of those Scotch blackguards,” a hit, no doubt, at Jamieson.  He was working hard at his translations, and he was further stimulated by meeting in London with the Danish theologian and poetical student, Nikolai Frederik Severin Grundtvig, who had done much to popularise the <hi rend="italic">kjæmpeviser</hi>  in his native country.  But Bowring proved a broken reed, and Borrow suffered once again one of those disappointments which so naturally embittered him.  It was not until 1874, however, some seven years before his death, that he finally gave up all hope.  The MSS. of his translations of the <hi rend="italic">kjæmpeviser</hi>  passed into the hands of Mrs. MacOubrey.</p>
+            <p>The ballad of <hi rend="italic">Grimhild’s Vengeance</hi>  (<hi rend="italic">Grimhilds Hevn</hi>) is given in three versions by Abrahamson, Nyerup and Rahbek.  Borrow has closely followed the editors of 1812 and has translated each of the versions.  He added a number of notes, the MS. of which is mutilated, but not so much so as to prevent us from observing that these are translated word for word from the appendix of Abrahamson, Nyerup and Rahbek, but, so far as can be discerned from the fragmentary and mutilated Manuscripts at our disposal, without a sign of acknowledgment.</p>
+            <p>Edmund Gosse.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Grimhild's Vengeance: Three Ballads</head>
+            <pb/>
+            <div type="div2">
+               <head>GRIMHILD’S VENGEANCE<lb/>
+                  <hi rend="italic">Song the First</hi>
+               </head>
+               <lg>
+                  <l>It was the proud Dame Grimhild</l>
+                  <l>   Prepares the mead and beer,</l>
+                  <l>And unto her the valiant knights</l>
+                  <l>   She bids from far and near.</l>
+               </lg>
+               <lg>
+                  <l>She bade them come and not delay</l>
+                  <l>   To tournament and strife;</l>
+                  <l>It was the Hero Hogen</l>
+                  <l>   Who lost his youthful life.</l>
+               </lg>
+               <lg>
+                  <l>It was the Hero Hogen</l>
+                  <l>   Along the shore went he,</l>
+                  <l>And there he found upon the sand</l>
+                  <l>   The maiden of the sea.</l>
+               </lg>
+               <lg>
+                  <l>“Now hail, thou maiden of the sea,</l>
+                  <l>   Of wisdom thou art rife;</l>
+                  <l>Say, if I go to Hvenild’s land,</l>
+                  <l>   Can I retain my life?”</l>
+               </lg>
+               <lg>
+                  <l>“Of castles hast thou plenty, knight,</l>
+                  <l>   And store of gold so red,</l>
+                  <l>If thou shouldst go to Hvenild’s land</l>
+                  <l>   Thou wilt be smitten dead.”</l>
+               </lg>
+               <lg>
+                  <l>It was the Hero Hogen,</l>
+                  <l>   He straight drew forth his blade,</l>
+                  <l>And he struck off at a single blow</l>
+                  <l>   The head of the ocean-maid.</l>
+               </lg>
+               <lg>
+                  <l>Then out amid the Sound he cast</l>
+                  <l>   The head all dropping gore;</l>
+                  <l>The body rolled down after it,</l>
+                  <l>   In the deep they joined once more.</l>
+               </lg>
+               <lg>
+                  <l>It was the Hero Hogen,</l>
+                  <l>   He further wandered on,</l>
+                  <l>Until the Ferry-carl he spied</l>
+                  <l>   The ocean beach upon.</l>
+               </lg>
+               <lg>
+                  <l>“Now list to me, good Ferry-carl,</l>
+                  <l>   Convey me o’er the Sound,</l>
+                  <l>And I’ll give thee my good gold ring,</l>
+                  <l>   It weighs full fifteen pound.”</l>
+               </lg>
+               <lg>
+                  <l>“I will not take thee o’er the Sound</l>
+                  <l>   For all thy gold so red,</l>
+                  <l>If thou dost go to Hvenild’s land</l>
+                  <l>   Thou wilt be smitten dead.”</l>
+               </lg>
+               <lg>
+                  <l>It was the Hero Hogen</l>
+                  <l>   His faulchion round did whirl,</l>
+                  <l>And he struck off at a single blow</l>
+                  <l>   The head of the Ferry-carl.</l>
+               </lg>
+               <lg>
+                  <l>He gave the gold ring off his arm</l>
+                  <l>   Unto the dead man’s wife:</l>
+                  <l>“Take that as an atoning gift</l>
+                  <l>   For the Ferryman’s young life.”</l>
+               </lg>
+               <lg>
+                  <l>Sir Gunter and Sir Gernot [17]</l>
+                  <l>   The vessel pushed from shore;</l>
+                  <l>So wrathful was the weather then,</l>
+                  <l>   So wild the waters’ roar.</l>
+               </lg>
+               <lg>
+                  <l>So furious then the weather was,</l>
+                  <l>   So wild the waters grew,</l>
+                  <l>Asunder soon in Hogen’s hand</l>
+                  <l>   The oar of iron flew.</l>
+               </lg>
+               <lg>
+                  <l>The iron oar asunder flew</l>
+                  <l>   In Hero Hogen’s hand,</l>
+                  <l>Then with their broad and gilded shields</l>
+                  <l>   The heroes steered to land.</l>
+               </lg>
+               <lg>
+                  <l>They ’gan to scour their faulchions</l>
+                  <l>   When they to land had won;</l>
+                  <l>And there so proud a Damsel stood,</l>
+                  <l>   And their employ looked on.</l>
+               </lg>
+               <lg>
+                  <l>O she was slender at the waist,</l>
+                  <l>   And just of proper height;</l>
+                  <l>Swelling was her white bosom,</l>
+                  <l>   And maidenlike her gait.</l>
+               </lg>
+               <lg>
+                  <l>They went away to Nörborough,</l>
+                  <l>   Where the gate was wont to stand:</l>
+                  <l>“O where is now the porter</l>
+                  <l>   Who here should be at hand?”</l>
+               </lg>
+               <lg>
+                  <l>“O here am I the porter,</l>
+                  <l>   To watch and ward I wait;</l>
+                  <l>Did I but know whence ye were come</l>
+                  <l>   I’d bear your message straight.”</l>
+               </lg>
+               <lg>
+                  <l>“O’er many a league of land and sea</l>
+                  <l>   We hither have repaired;</l>
+                  <l>Dame Grimhild is our sister,</l>
+                  <l>   The truth is now declared.”</l>
+               </lg>
+               <lg>
+                  <l>In then went the porter,</l>
+                  <l>   His stand by the board he took;</l>
+                  <l>Quoth he: “Before our portal wait</l>
+                  <l>   Two knights of noble look.</l>
+               </lg>
+               <lg>
+                  <l>“Two men of birth illustrious</l>
+                  <l>   Now wait before our gate;</l>
+                  <l>The one he bears a fiddle,</l>
+                  <l>   And a gilded helm his mate.”</l>
+               </lg>
+               <lg>
+                  <l>“O he no fiddle bears, I trow,</l>
+                  <l>   For any noble’s pay;</l>
+                  <l>And whencesoever they are come</l>
+                  <l>   A prince’s sons are they.”</l>
+               </lg>
+               <lg>
+                  <l>It was the proud Dame Grimhild drew</l>
+                  <l>   Her mantle o’er her head;</l>
+                  <l>She hurried to the castle hall,</l>
+                  <l>   And in her brothers bade.</l>
+               </lg>
+               <lg>
+                  <l>“O will ye go to bower now</l>
+                  <l>   And drink the mead and wine?</l>
+                  <l>Or will ye sleep in beds of silk</l>
+                  <l>   With two fair maids of mine?”</l>
+               </lg>
+               <lg>
+                  <l>It was the proud Dame Grimhild drew</l>
+                  <l>   Her mantle o’er her head,</l>
+                  <l>And into the stone chamber</l>
+                  <l>   To her warriors all she sped.</l>
+               </lg>
+               <lg>
+                  <l>“Here sit ye all my valiant men</l>
+                  <l>   And drink the mead and wine;</l>
+                  <l>Now who will Hero Hogen slay,</l>
+                  <l>   Though he be brother mine?</l>
+               </lg>
+               <lg>
+                  <l>“Whoe’er will do the doughty deed</l>
+                  <l>   Of striking Hogen dead,</l>
+                  <l>Shall master of my castles be,</l>
+                  <l>   And of my gold so red.”</l>
+               </lg>
+               <lg>
+                  <l>Then answered her a warrior,</l>
+                  <l>   A baron of that land:</l>
+                  <l>“O I will earn the prize this day,</l>
+                  <l>   Forsooth with this good hand.</l>
+               </lg>
+               <lg>
+                  <l>“O I will do the doughty deed,</l>
+                  <l>   Strike Hero Hogen dead;</l>
+                  <l>Then I will o’er thy castles rule,</l>
+                  <l>   And o’er thy gold so red.”</l>
+               </lg>
+               <lg>
+                  <l>Then answered Folker Spillemand,</l>
+                  <l>   With mighty iron spear:</l>
+                  <l>“I’ll set my mark upon thee, knave,</l>
+                  <l>   Before thou scap’st from here.”</l>
+               </lg>
+               <lg>
+                  <l>And at the first blow he has laid</l>
+                  <l>   Full fifteen warriors low:</l>
+                  <l>“Ha bravely, Folker Spillemand,</l>
+                  <l>   You touch your fiddle bow!”</l>
+               </lg>
+               <lg>
+                  <l>He smote to death the warriors,</l>
+                  <l>   A bridge of them he made;</l>
+                  <l>And broad and long I ween it was,</l>
+                  <l>   Full rough with them he play’d.</l>
+               </lg>
+               <lg>
+                  <l>Above were laid the oxen hides,</l>
+                  <l>   Below the pease so small;</l>
+                  <l>That trick has vanquished Hogen,</l>
+                  <l>   He fell down first of all.</l>
+               </lg>
+               <lg>
+                  <l>It was the Hero Hogen</l>
+                  <l>   Would have bounded up with speed:</l>
+                  <l>“No, no, desist, my brother,</l>
+                  <l>   Thou know’st what was agreed.</l>
+               </lg>
+               <lg>
+                  <l>“No, no, desist, my brother,</l>
+                  <l>   Prove true to what you swore,</l>
+                  <l>If ever you should fall to earth</l>
+                  <l>   You’d never rise up more.”</l>
+               </lg>
+               <lg>
+                  <l>So brave was Hero Hogen</l>
+                  <l>   To his word he true was found;</l>
+                  <l>Upon his two knees stood he then,</l>
+                  <l>   And got his mortal wound.</l>
+               </lg>
+               <lg>
+                  <l>But still three warriors slaughtered he,</l>
+                  <l>   They were not of the least,</l>
+                  <l>Towards Hammeren went he then to find</l>
+                  <l>   His father’s treasure-chest.</l>
+               </lg>
+               <lg>
+                  <l>Fortune was yet to him so kind,</l>
+                  <l>   The damsel proud he won;</l>
+                  <l>And she was haughty Hvenild,</l>
+                  <l>   He begot with her a son.</l>
+               </lg>
+               <lg>
+                  <l>That gallant son, hight Ranke,</l>
+                  <l>   Avenged his father well;</l>
+                  <l>Grimhild entombed by Niflung’s gold</l>
+                  <l>   Of hunger-pain did yell.</l>
+               </lg>
+               <lg>
+                  <l>Then soon from out the land to Bern</l>
+                  <l>   In Lombardy he strayed;</l>
+                  <l>And there ’mongst Danish men he was,</l>
+                  <l>   And prowess high displayed.</l>
+               </lg>
+               <lg>
+                  <l>His mother she remained at home,</l>
+                  <l>   From her got Hveen its name</l>
+                  <l>’Mongst knights and warriors through the world,</l>
+                  <l>   So widely goes its fame.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>GRIMHILD’S VENGEANCE<lb/>
+                  <hi rend="italic">Song the Second</hi>
+               </head>
+               <lg>
+                  <l>It was the proud Dame Grimhild</l>
+                  <l>   The wine with spices blends;</l>
+                  <l>And unto many a hero free</l>
+                  <l>   She messengers outsends.</l>
+               </lg>
+               <lg>
+                  <l>“Go bid them come to battle,</l>
+                  <l>   Go bid them come to strife;</l>
+                  <l>I reckon many a hero free</l>
+                  <l>   Shall lose his youthful life.”</l>
+               </lg>
+               <lg>
+                  <l>’Twas Hero Hogen’s mother</l>
+                  <l>   She has dreamt a wondrous dream,</l>
+                  <l>That the stately courser tumbled</l>
+                  <l>   As they rode him o’er the stream.</l>
+               </lg>
+               <lg>
+                  <l>“That dream, dear son, a meaning has,</l>
+                  <l>   I rede thee cautious be;</l>
+                  <l>Beware thee of thy sister,</l>
+                  <l>   She deals in treachery.”</l>
+               </lg>
+               <lg>
+                  <l>It was the Hero Hogen</l>
+                  <l>   He rode along the strand:</l>
+                  <l>The mermaid there he found at play</l>
+                  <l>   Upon the yellow sand.</l>
+               </lg>
+               <lg>
+                  <l>“Now tell me, pretty mermaid,</l>
+                  <l>   The future thou dost know,</l>
+                  <l>Shall I the prize in Hvenland win,</l>
+                  <l>   And warriors overthrow?”</l>
+               </lg>
+               <lg>
+                  <l>“Now listen, Hero Hogen,</l>
+                  <l>   Thou art of kemps the flower,</l>
+                  <l>Enough of land thou dost possess,</l>
+                  <l>   Enough of fame and power.</l>
+               </lg>
+               <lg>
+                  <l>“And thou both gold and silver hast,</l>
+                  <l>   And castles fair to see,</l>
+                  <l>If thou dost go to Hvenland,</l>
+                  <l>   For thy best it will not be.</l>
+               </lg>
+               <lg>
+                  <l>“Goods and dominion hast thou, knight,</l>
+                  <l>   And store of gold so red,</l>
+                  <l>If thou dost go to Hven this year</l>
+                  <l>   Thou wilt be smitten dead.”</l>
+               </lg>
+               <lg>
+                  <l>It was the Hero Hogen, he</l>
+                  <l>   Grew wrathful at her speech;</l>
+                  <l>He strook the wretched mermaid</l>
+                  <l>   That she fell dead on the beach.</l>
+               </lg>
+               <lg>
+                  <l>“There do thou lie and rest thee now,</l>
+                  <l>   Thou foul and wicked fay;</l>
+                  <l>I know well how to guard me</l>
+                  <l>   And my enemies to slay.”</l>
+               </lg>
+               <lg>
+                  <l>There rode up to the portal</l>
+                  <l>   Of Dame Grimhilda’s home,</l>
+                  <l>Two men of noble bearing,</l>
+                  <l>   Their steeds were all in foam.</l>
+               </lg>
+               <lg>
+                  <l>The blow they gave the portal</l>
+                  <l>   Rang all the castle through:</l>
+                  <l>“O where art thou the porter,</l>
+                  <l>   Why dost thou not undo?”</l>
+               </lg>
+               <lg>
+                  <l>Then up and spoke the porter,</l>
+                  <l>   So ready to deceive:</l>
+                  <l>“I dare admit no stranger, Sirs,</l>
+                  <l>   Without my Lady’s leave.”</l>
+               </lg>
+               <lg>
+                  <l>He hied him to Dame Grimhild,</l>
+                  <l>   To her he said in haste:</l>
+                  <l>“Two knights before our castle wait,</l>
+                  <l>   Admittance they request.”</l>
+               </lg>
+               <lg>
+                  <l>“O that is Folker Spillemand,”</l>
+                  <l>   Dame Grimhild she did say;</l>
+                  <l>“And that is Hero Hogen,</l>
+                  <l>   My brothers both are they.”</l>
+               </lg>
+               <lg>
+                  <l>Down went dames and maidens then</l>
+                  <l>   To see the twain alight;</l>
+                  <l>They all were slender in the waist,</l>
+                  <l>   And just of proper height.</l>
+               </lg>
+               <lg>
+                  <l>It was the proud Dame Grimhild</l>
+                  <l>   Herself in scarlet clad;</l>
+                  <l>Then out she hastened to the court,</l>
+                  <l>   The heroes in she bade.</l>
+               </lg>
+               <lg>
+                  <l>“’Tis custom of our castle none</l>
+                  <l>   A faulchion shall unsheath,</l>
+                  <l>I cannot bear the sight of one</l>
+                  <l>   Since good King Sigfred’s death.”</l>
+               </lg>
+               <lg>
+                  <l>“’Twas I that slew King Sigfred</l>
+                  <l>   E’en with my own right hand,</l>
+                  <l>’Twas I that slew King Ottelin</l>
+                  <l>   And him could few withstand.</l>
+               </lg>
+               <lg>
+                  <l>“’Twas then I lost my acton good,</l>
+                  <l>   And trusty courser grey,</l>
+                  <l>In yonder ice-cold winters</l>
+                  <l>   When besieging Troy we lay.”</l>
+               </lg>
+               <lg>
+                  <l>Then up the hall she led them</l>
+                  <l>   To a hundred of her train;</l>
+                  <l>With naked faulchions brandished, they</l>
+                  <l>   Confront the heroes twain.</l>
+               </lg>
+               <lg>
+                  <l>“If any knight among ye be</l>
+                  <l>   Who eat here of my bread,</l>
+                  <l>Will dare to slay my brother,</l>
+                  <l>   I will give him gold so red.”</l>
+               </lg>
+               <lg>
+                  <l>When heard that Folker Spillemand</l>
+                  <l>   He would no longer wait;</l>
+                  <l>His sword from out the sheath he drew,</l>
+                  <l>   Down shivered fell the gate.</l>
+               </lg>
+               <lg>
+                  <l>When he had bared the mighty blade</l>
+                  <l>   He felt at heart so light;</l>
+                  <l>He slew full fifteen warriors</l>
+                  <l>   With blows of manly might.</l>
+               </lg>
+               <lg>
+                  <l>“Ha, Ha,” said Folker Spillemand,</l>
+                  <l>   “Right goes my fiddle now”—</l>
+                  <l>And then the Hero Hogen slew</l>
+                  <l>   Full twenty blow by blow.</l>
+               </lg>
+               <lg>
+                  <l>It was the proud Dame Grimhild</l>
+                  <l>   With wrath well nigh was wode:</l>
+                  <l>“Much better had ye stayed at home</l>
+                  <l>   Than come to our abode.</l>
+               </lg>
+               <lg>
+                  <l>“Here will a hundred widows be</l>
+                  <l>   ’Ere ye this fight have done.”</l>
+                  <l>Then answered Hero Hogen:</l>
+                  <l>   “’Twas by thyself begun.”</l>
+               </lg>
+               <lg>
+                  <l>It was the Hero Hogen,</l>
+                  <l>   His helmet lifted he:</l>
+                  <l>“All under my cuirass of steel</l>
+                  <l>   I burn so furiously.</l>
+               </lg>
+               <lg>
+                  <l>“I’m weary, weary to the heart,</l>
+                  <l>   And weak in verity;</l>
+                  <l>O would to God in heaven is</l>
+                  <l>   A horn of wine had I.”</l>
+               </lg>
+               <lg>
+                  <l>He lifted up his vizor,</l>
+                  <l>   Of human blood a draught</l>
+                  <l>He took—“<hi rend="italic">In nomine Domini</hi>”</l>
+                  <l>   The Hero Hogen quaffed.</l>
+               </lg>
+               <lg>
+                  <l>See, there the knights of Grimhild</l>
+                  <l>   Lie slaughtered every one;</l>
+                  <l>And that has Hero Hogen,</l>
+                  <l>   And valiant Folker done.</l>
+               </lg>
+               <lg>
+                  <l>“God bless thee, Folker Spillemand,</l>
+                  <l>   Who here a corse dost lie,</l>
+                  <l>Full well and without treachery</l>
+                  <l>   Thy faulchion thou didst ply.</l>
+               </lg>
+               <lg>
+                  <l>“Full four and twenty fell for one,</l>
+                  <l>   Their death from him they found;</l>
+                  <l>He slew them like a warrior,</l>
+                  <l>   Ere sank he on the ground.</l>
+               </lg>
+               <lg>
+                  <l>“Ah, brother, by my heart beloved,</l>
+                  <l>   Thy coming cost me dear;</l>
+                  <l>How woeful is my destiny</l>
+                  <l>   That I should lose thee here.</l>
+               </lg>
+               <lg>
+                  <l>“And if to me is granted</l>
+                  <l>   To live another day,</l>
+                  <l>My sister this shall expiate,</l>
+                  <l>   I her will burn or slay.”</l>
+               </lg>
+               <lg>
+                  <l>The evil fate’s o’ertaken her.</l>
+                  <l>   She’s paid for all her ill;</l>
+                  <l>King Hogen’s son caused Grimhild</l>
+                  <l>   To starve within the hill.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>GRIMHILD’S VENGEANCE<lb/>
+                  <hi rend="italic">Song the Third</hi>
+               </head>
+               <lg>
+                  <l>O, where will ye find kempions</l>
+                  <l>   So bold and strong of hand,</l>
+                  <l>As Hogen and his brother dear,</l>
+                  <l>   Sir Folker Spillemand?</l>
+               </lg>
+               <lg>
+                  <l>Forward stepped she, Bodild,</l>
+                  <l>   Hero Hogen’s mother, crying:</l>
+                  <l>“Methought the gallant coursers all</l>
+                  <l>   Were either dead or dying.</l>
+               </lg>
+               <lg>
+                  <l>“And I possess full wit enow</l>
+                  <l>   That vision to explain;</l>
+                  <l>If to the Hvenish land ye go</l>
+                  <l>   There’ll many a man be slain.”</l>
+               </lg>
+               <lg>
+                  <l>Out rode the valiant brothers where</l>
+                  <l>   The river rolled its tide,</l>
+                  <l>There they the Mermaid found asleep</l>
+                  <l>   Beneath a green hill’s side.</l>
+               </lg>
+               <lg>
+                  <l>“Awake, awake, thou Mermaiden,</l>
+                  <l>   Thou creature wondrous fair;</l>
+                  <l>Say, will my life in danger be</l>
+                  <l>   If I to Hven repair?”</l>
+               </lg>
+               <lg>
+                  <l>“O turn thee, Hero Hogen, back,</l>
+                  <l>   Thou art a knight so bold,</l>
+                  <l>Thou dost in thy own land possess</l>
+                  <l>   Full many a tower and hold.</l>
+               </lg>
+               <lg>
+                  <l>“Return, return to thine own land,</l>
+                  <l>   Seek not the warrior joust,</l>
+                  <l>If thou dost to thy sister go</l>
+                  <l>   Thy young life it will cost.”</l>
+               </lg>
+               <lg>
+                  <l>It was the Hero Hogen then</l>
+                  <l>   His sword he straight drew out;</l>
+                  <l>It was the wretched Mermaiden</l>
+                  <l>   From whom the head he smote.</l>
+               </lg>
+               <lg>
+                  <l>“By thee I now am prophesied,</l>
+                  <l>   And dead thou liest there;</l>
+                  <l>I to the land of Hven will go,</l>
+                  <l>   Soon as the wind is fair.”</l>
+               </lg>
+               <lg>
+                  <l>Then forward went the heroes two,</l>
+                  <l>   They found the ferry-house:</l>
+                  <l>“Arise, arise, good ferryman,</l>
+                  <l>   And come here out to us.</l>
+               </lg>
+               <lg>
+                  <l>“Now listen what I say to thee,</l>
+                  <l>   Convey us o’er the Sound,</l>
+                  <l>And I will give thee this gold ring,</l>
+                  <l>   It weighs full fifteen pound.”</l>
+               </lg>
+               <lg>
+                  <l>“Thy bright gold ring keep thou thyself,</l>
+                  <l>   I it will not possess,</l>
+                  <l>I never to the town should come</l>
+                  <l>   But ’twould bring me distress.</l>
+               </lg>
+               <lg>
+                  <l>“I never should seek the town but I</l>
+                  <l>   Should therefore sure be chidden;</l>
+                  <l>I shall not bear thee o’er to-day,</l>
+                  <l>   My Lady’s me forbidden.”</l>
+               </lg>
+               <lg>
+                  <l>And Hero Hogen grew so wroth,</l>
+                  <l>   So wroth grew he in mood;</l>
+                  <l>The ferryman’s head hewed he off,</l>
+                  <l>   So widely reeked the blood.</l>
+               </lg>
+               <lg>
+                  <l>Then straight the bloody head he cast</l>
+                  <l>   Mid Öresund’s swift water;</l>
+                  <l>And, bidding them meet in the deep,</l>
+                  <l>   He cast the body after.</l>
+               </lg>
+               <lg>
+                  <l>Sir Gunter and Sir Gernot, they</l>
+                  <l>   Their vessel steered from land;</l>
+                  <l>But when they reached the middle Sound</l>
+                  <l>   The tempest was at hand.</l>
+               </lg>
+               <lg>
+                  <l>O then the oars asunder snapped</l>
+                  <l>   In Folker’s hardy hand;</l>
+                  <l>Here Hogen guided with his shield</l>
+                  <l>   The ship with toil to land.</l>
+               </lg>
+               <lg>
+                  <l>Then cast they out their anchors,</l>
+                  <l>   All on the yellow sand;</l>
+                  <l>It was the Hero Hogen,</l>
+                  <l>   He stepped the first to land.</l>
+               </lg>
+               <lg>
+                  <l>The others they did not delay,</l>
+                  <l>   But each as he could best</l>
+                  <l>Arrayed himself right manfully,</l>
+                  <l>   And Folker ’bove the rest.</l>
+               </lg>
+               <lg>
+                  <l>Abroad the warden standing was,</l>
+                  <l>   He on the rampart strode:</l>
+                  <l>“O, there are come our country to,</l>
+                  <l>   Two Athelings so proud.</l>
+               </lg>
+               <lg>
+                  <l>“O kemps are come our country to,</l>
+                  <l>   And men so bold to see;</l>
+                  <l>They all yclad in iron are,</l>
+                  <l>   Their steeds come springing free.</l>
+               </lg>
+               <lg>
+                  <l>“The one he bears a hawk in flight,</l>
+                  <l>   Gold on his buckler gleams;</l>
+                  <l>The other bears a fiddle, and</l>
+                  <l>   A prince’s son he seems.”</l>
+               </lg>
+               <lg>
+                  <l>Out came she, Dame Grimhild,</l>
+                  <l>   She so fair to speak was able:</l>
+                  <l>“He does not bear a fiddle</l>
+                  <l>   For he serves a noble’s table.</l>
+               </lg>
+               <lg>
+                  <l>“But they two gallant warriors are,</l>
+                  <l>   Two sprouts of Dukely tree;</l>
+                  <l>To know them I have cause enough,</l>
+                  <l>   They brothers are to me.”</l>
+               </lg>
+               <lg>
+                  <l>It was the Count Sir Gunselin,</l>
+                  <l>   His warriors he bespake:</l>
+                  <l>“O, hither Hero Hogen comes,</l>
+                  <l>   A fray with him we’ll make.</l>
+               </lg>
+               <lg>
+                  <l>“O, we will fight with them to-day,</l>
+                  <l>   And we will slay them all;</l>
+                  <l>Then his red gold and forest green</l>
+                  <l>   Shall in our power fall.”</l>
+               </lg>
+               <lg>
+                  <l>Then just within the portal</l>
+                  <l>   Hero Hogen answer made:</l>
+                  <l>“With you I’ll blythely hazard that,</l>
+                  <l>   If ye be not afraid.”</l>
+               </lg>
+               <lg>
+                  <l>Out then went the heroes all,</l>
+                  <l>   So sorely fast they hied;</l>
+                  <l>Then unto old as well as young</l>
+                  <l>   Such evil did betide.</l>
+               </lg>
+               <lg>
+                  <l>In hand of Folker Spillemand</l>
+                  <l>   The sword asunder flew;</l>
+                  <l>He seized a big steel spear, above</l>
+                  <l>   The door that met his view.</l>
+               </lg>
+               <lg>
+                  <l>And seven such gallant warriors</l>
+                  <l>   He slew at the first blow:</l>
+                  <l>“In Drotten’s holy name,” he said,</l>
+                  <l>   “My fiddle be known now.</l>
+               </lg>
+               <lg>
+                  <l>“Now merrily my fiddle goes,</l>
+                  <l>   Ye dance and spring around;</l>
+                  <l>I sweat with strong exertion</l>
+                  <l>   In my acton narrow bound.”</l>
+               </lg>
+               <lg>
+                  <l>It was the Count Sir Gunselin,</l>
+                  <l>   At Grimhild’s feet he kneeled:</l>
+                  <l>“O part us from those hardy knights,</l>
+                  <l>   Or help against them yield.”</l>
+               </lg>
+               <lg>
+                  <l>“Fight on, fight on, my good men all,</l>
+                  <l>   On whom I bread bestow;</l>
+                  <l>From fighting ye must not desist</l>
+                  <l>   Till Folker lyeth low.”</l>
+               </lg>
+               <lg>
+                  <l>“Now hear thou, Sister Grimhild,</l>
+                  <l>   I am gored with many a wound;</l>
+                  <l>Thou ne’er to me wert true or good,</l>
+                  <l>   And that I now have found.</l>
+               </lg>
+               <lg>
+                  <l>“Now I’ve not closed an eye, an eye</l>
+                  <l>   For days and nights full seven;</l>
+                  <l>I’ll avenge my murder certainly</l>
+                  <l>   Ere life from me is riven.</l>
+               </lg>
+               <lg>
+                  <l>“Gone is my sword so trusty,</l>
+                  <l>   And my good steel spear’s in twain;</l>
+                  <l>But all my care I would forget</l>
+                  <l>   Could I a weapon gain.”</l>
+               </lg>
+               <lg>
+                  <l>Then answered him young Hubba Yern,</l>
+                  <l>   He stood by him so near:</l>
+                  <l>“I’ll lend to thee the gallant sword,</l>
+                  <l>   My brother loved so dear.</l>
+               </lg>
+               <lg>
+                  <l>“Methink thou art a hero bold,</l>
+                  <l>   And mighty strong beside;</l>
+                  <l>And that maybe in verity</l>
+                  <l>   On thy fiddle bow espied.”</l>
+               </lg>
+               <lg>
+                  <l>“Ah, thanks to thee, young Hubba Yern!</l>
+                  <l>   A true kemp thee I call;</l>
+                  <l>I’ll serve thee faithful in return,</l>
+                  <l>   So shall my brothers all.”</l>
+               </lg>
+               <lg>
+                  <l>Then hewed he, Folker Spillemand,</l>
+                  <l>   ’Twas heard up to the sky;</l>
+                  <l>He’d rather perish like a man</l>
+                  <l>   Than basely quit and fly.</l>
+               </lg>
+               <p rend="justify">* * * * *</p>
+               <lg>
+                  <l>London:</l>
+                  <l>Printed for THOMAS J. WISE, Hampstead, N.W.</l>
+                  <l>
+                     <hi rend="italic">Edition limited to Thirty Copies</hi>.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Footnotes:</head>
+               <p rend="justify">[9]  The question of priority is rather obscure, but it appears, from a letter written by Grimm in February, 1813, in reply to the critics of his work, that his translation was begun in 1801, when he was not aware of the work undertaken by Abrahamson, Nyerup and Rahbek, but that before his book was published, Nyerup communicated to him some of the results of the investigations of the three Danish editors.  Grimm seems to have worked upon an edition of Syv published in Copenhagen in 1787, which accounts for the corrupt state of some of Grimm’s text.  A good deal of unpleasant controversy was awakened on the subject, but all this has now long slumbered under the dust of a century.</p>
+               <p rend="justify">[17]  Squires in attendance upon Hogen.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
