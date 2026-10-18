@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Southern Cross fairy tale</title>
+            <author>Kate McCosh Clark</author>
+            <author>KATE McCOSH CLARK</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T02:16:53Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/c/ClarkKateMccosh-ASouthernCrossFairyTale_2023.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Kate McCosh Clark</name>
+               <date>2024-01-04T02:16:53Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>A Southern Cross fairy tale</head>
+         <author>Kate McCosh Clark</author>
+         <author>KATE McCOSH CLARK</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/c/ClarkKateMccosh-ASouthernCrossFairyTale_2023.odt</p>
+         <head>A Southern Cross Fairy Tale</head>
+         <p>A<lb/>SOUTHERN CROSS<lb/>FAIRY TALE</p>
+         <author>BY<lb/>KATE McCOSH CLARK</author>
+         <subtitle>
+            <hi rend="italic">WITH ILLUSTRATIONS BY R. ATKINSON AND THE AUTHOR</hi>
+         </subtitle>
+         <p>LONDON<lb/>SAMPSON LOW, MARSTON, SEALE &amp; RIVINGTON<lb/>
+            <hi rend="italic">Limited</hi>
+            <lb/>St. Dunstan’s House<lb/>Fetter Lane, Fleet Street, E.C.<lb/>1891<lb/>[<hi rend="italic">All rights reserved</hi>]</p>
+         <p>LONDON:<lb/>PRINTED BY GILBERT AND RIVINGTON, LIMITED,<lb/>ST. JOHN’S HOUSE, CLERKENWELL ROAD.</p>
+         <p>TO<lb/>MY GODCHILD KITTY<lb/>AND TO MY<lb/>LITTLE NEPHEWS AND NIECES.</p>
+         <pb/>
+         <div type="div1">
+            <head>PREFACE.</head>
+            <p>The scenes of Christmas tales read by English-speaking children have been for the most part naturally laid amid winter, snow, and leafless landscape. The Yule-log and the holly-berry have been time-honoured “properties.” But there are, growing up under the Southern Cross, generations of children, with English speech and English hearts, to whom the Yule-log at Christmas is unmeaning and the snow unknown.</p>
+            <p>The little story which follows is written for such children as these, and also for those in the older land who have any desire to know what Christmas is like among their kin on the other side of the world.</p>
+            <p>While seeking to amuse, it is intended to convey pleasant information. New Zealand is a land full of natural wonders and natural beauty; its vegetation and its fauna are every way remarkable. In the following pages the allusions to these wonders and beauties, however playfully introduced, are intended to be truthful. The colours and habits of plants and animals are in sober reality just what they are made to appear in fairy-land. The illustrations are from nature, and will, it is hoped, bear out the text. For the loan of certain birds and clear descriptive notes upon them, I am deeply indebted to Mr. A. Reischek, F.L.S., the well-known naturalist. The kind interest of Professor Thomas, M.A., F.L.S., F.G.S., and the valuable notes given by him upon the Terraces, Geysers, &amp;c., also lay me under much obligation.</p>
+            <p>K. C.</p>
+            <p>Auckland, <hi rend="italic">July, 1889</hi>.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>A Southern Cross fairy tale</head>
+            <pb/>
+            <div type="div2">
+               <head>“THE CHILDREN’S HOUR.”</head>
+               <lg>
+                  <l>The cawing rooks fly to their nests;</l>
+                  <l>Again the song-birds hush their lay;</l>
+                  <l>O’er all the world a stillness rests,</l>
+                  <l>And twilight shadows dance and play.</l>
+                  <l>The book is closed, hands folded o’er,</l>
+                  <l>The work, that rests the while, undone;</l>
+                  <l>See! glad young faces at the door,</l>
+                  <l>And hark! the peals of mirth and fun.</l>
+                  <l>Yes, ’tis the children’s hour,</l>
+                  <l>To waiting arms they run.</l>
+                  <l>The little faces vie to press</l>
+                  <l>Warm kisses on our willing lips,</l>
+                  <l>While loving prayers, unspoken, bless</l>
+                  <l>The sunny heads, and finger tips</l>
+                  <l>Pass gently o’er the cheek’s soft bloom—</l>
+                  <l>That seems as stolen from the rose;</l>
+                  <l>Then merry voices fill the room,</l>
+                  <l>As round the fire-lit hearth we close,</l>
+                  <l>For ’tis the children’s hour,</l>
+                  <l>Which nought but brightness knows.</l>
+                  <l>“Play with us, play!” Ah, yes, young hearts,</l>
+                  <l>Well that your voices coax, and make</l>
+                  <l>Us for awhile forget the smarts</l>
+                  <l>Of striving day for your brief sake.</l>
+                  <l>“Sing with us, sing!” and youthful notes</l>
+                  <l>Rise shrill in some time-hallowed strain.</l>
+                  <l>Discord—sweet discord round us floats,</l>
+                  <l>And ageing hearts grow young again—</l>
+                  <l>It is the children’s hour,</l>
+                  <l>That knows nor care nor pain.</l>
+                  <l>“Now tell us stories, mother, dear!”</l>
+                  <l>How sweet the old and matchless word!</l>
+                  <l>Sweeter than aught that else we hear</l>
+                  <l>From children’s lips. What memories stirr’d</l>
+                  <l>By that loved name rush o’er the soul!</l>
+                  <l>For sheltering arms we once more yearn</l>
+                  <l>Now folded ’neath the grassy knoll.</l>
+                  <l>Would that the children’s hour</l>
+                  <l>For her, too, could return.</l>
+                  <l>“Come, children, nestle close to me</l>
+                  <l>And question with your lips and eyes,</l>
+                  <l>For, as ye listen, I would see</l>
+                  <l>The starting flush and sweet surprise</l>
+                  <l>At tales of brownie and of fay</l>
+                  <l>That hide within your favourite glen,</l>
+                  <l>And ’neath the moonlight’s flickering ray</l>
+                  <l>Bring fairy gifts to slumbering men.”</l>
+                  <l>Sweet lore of children’s hour,</l>
+                  <l>Why need we further ken?</l>
+               </lg>
+               <lg>
+                  <l>Ah! little ones, ye hold us fast</l>
+                  <l>And thoughts of you like joy-bells chime</l>
+                  <l>Around our lives, and link the past</l>
+                  <l>And present in one long sweet rhyme.</l>
+                  <l>And slumbering echoes wake anew,</l>
+                  <l>For purity glows in your eyes,</l>
+                  <l>And truth from out them shines so true</l>
+                  <l>That from our hearts all falseness flies.</l>
+                  <l>It is the children’s hour</l>
+                  <l>When purest thoughts arise.</l>
+                  <l>The years roll by and leave their taint</l>
+                  <l>Of sin upon us, and the weight</l>
+                  <l>Of self-wrought grief, until we faint</l>
+                  <l>Beneath the burden grown so great.</l>
+                  <l>Fretted by sight of others’ pain,</l>
+                  <l>The voiceless suffering of the weak;</l>
+                  <l>“Wherefore?” we cry, but all in vain,</l>
+                  <l>No answering oracle doth speak.</l>
+                  <l>And in the children’s hour</l>
+                  <l>We fain for peace would seek.</l>
+                  <l>Far off like some grand snowy height</l>
+                  <l>That gleams anon through driving mist,</l>
+                  <l>Some great End flashes on our sight;</l>
+                  <l>And on that peak the sun hath kissed,</l>
+                  <l>Could we but stand, thence gazing back</l>
+                  <l>Perchance Heaven’s echoes we might hear,</l>
+                  <l>Perchance Heaven’s light upon our track</l>
+                  <l>Might show the good of every tear,</l>
+                  <l>And in the children’s hour</l>
+                  <l>Life’s riddles read more clear.</l>
+                  <l>Speak to our hearts, each bright young heart,</l>
+                  <l>Perfect in love and faith, and bid</l>
+                  <l>Us know that e’en as petals part</l>
+                  <l>To breathe the fragrance ’neath them hid,</l>
+                  <l>So do ye breathe around life’s hours</l>
+                  <l>The sweetness nought can steal away,</l>
+                  <l>The sweetness of our cherished flowers.</l>
+                  <l>Then ope bright blooms upon our way,</l>
+                  <l>And make the children’s hour</l>
+                  <l>With beauty crown each day.</l>
+                  <l>Play on, ye little ones, play on,</l>
+                  <l>And cheer us with your guileless mirth;</l>
+                  <l>Too soon your careless days are gone</l>
+                  <l>And later years see sorrow’s birth.</l>
+                  <l>We love your bright eyes’ merry glance,</l>
+                  <l>We love your voices’ gleesome ring;</l>
+                  <l>To trip with you th’ unrhythm’d dance</l>
+                  <l>Again doth childlike rapture bring.</l>
+                  <l>It is the children’s hour,</l>
+                  <l>Sing on, ye children, sing.</l>
+                  <l>Ye cradle our lost dreams anew,</l>
+                  <l>Ye make love’s echoes ceaseless sound,</l>
+                  <l>And, if for some the stretching yew</l>
+                  <l>O’erguards a tiny daisied mound,</l>
+                  <l>They have but laid their treasures where</l>
+                  <l>God’s angels tread with sacred feet;</l>
+                  <l>They have but Heavenward sent a prayer</l>
+                  <l>That, lisped before the mercy-seat,</l>
+                  <l>In God’s own children’s hour</l>
+                  <l>Shall win an answer sweet.</l>
+               </lg>
+               <p rend="justify">K. C.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LIST OF ILLUSTRATIONS.</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell> </cell>
+                     <cell>PAGE</cell>
+                  </row>
+                  <row>
+                     <cell>Bell-Bird</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>“It is Christmas Eve! and the long soft shadows of a summer night are quickly falling on the garden, fields, and meadows”</cell>
+                     <cell>
+                        <hi rend="italic">To face</hi> 3</cell>
+                  </row>
+                  <row>
+                     <cell>“Take that,” said Santa Claus; “it will give you light in the darkest places”</cell>
+                     <cell>
+                        <hi rend="italic">To face</hi> 6</cell>
+                  </row>
+                  <row>
+                     <cell>“We’re sorry we’re so big,” said Hal</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Kiwi</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Parson-Bird or Tui</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Pied Fantail</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Brown Owl or More-pork</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Crow</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Tuataras</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Vegetable Caterpillar</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Robins</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Maori Hen</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>White Heron</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>“They are only Maories; and see, they are more frightened of us than you are of them”</cell>
+                     <cell>
+                        <hi rend="italic">To face</hi> 26</cell>
+                  </row>
+                  <row>
+                     <cell>On the top of the geyser were shot out a troop of laughing gnomes</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>“Run to the hill!” cried Red Cap</cell>
+                     <cell>
+                        <hi rend="italic">To face</hi> 38</cell>
+                  </row>
+                  <row>
+                     <cell>Kea</cell>
+                     <cell>47</cell>
+                  </row>
+                  <row>
+                     <cell>“You must have been dreaming, Hal!”</cell>
+                     <cell>
+                        <hi rend="italic">To face</hi> 51</cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A SOUTHERN CROSS FAIRY TALE.</head>
+               <p rend="justify">Bell-Bird.</p>
+               <p rend="justify">It is Christmas Eve! and the long soft shadows of a summer night are quickly falling on the garden, fields, and meadows of a New Zealand home. The feathery edge of the forest-clad hills behind the house stands out dark against the yellow light still lingering in the west; undulating grassy slopes creep down to where the graceful tree-ferns form a billowy mass of light and shade near the deep, dark creek, that divides the fields. The murmuring of the stream, in hidden depths below, rises like a lullaby, while countless shrill crickets sing their merry carols amid the trees. No sound of joyous bells is borne upon the air, as on the English Christmas Eves of pleasant memory, only the Bell-bird’s[1]  chimes from the bush, and the distant cow-bell’s tinkle mid the shadowy Manuka clumps, where sentinel cabbage-palms[2]  up-raise their helmeted heads erect and stern. Fair is that house built up by English hands in the New World; fair, not with the slowly gathered beauty of centuries gone by, the clinging ivy and the gaily painted lichens on the stones, but with the quick rich growth of the southern lands. The quaint low wooden gables are wreathed with creepers of many a shade and hue, and over the broad verandah and open casement doors, the scarlet passion-flowers gleam like burning stars amid their masses of glossy leaves, and the green egg-shaped fruit of its more modest cousin hang in rich profusion on the trellised arbour near by, the scene of many a childish frolic and out-door tea-party. Sweet scents arise from the nooks of the garden which is left half wild, where many an English flower carefully tended, tells of hearts in which still cling fond memories of a childhood’s home afar. Through the sombre pines that edge the spreading lawn, are seen the last long silvery streaks, quivering on the distant sea; overhead the busy starlings flit to and fro, or, perching on some tapering branch, give forth their short-lived song, while, now and again, the harsh call of the brown owl pierces the deepening shades. But suddenly is heard the sound of merry voices, and two little children run down the winding path leading to the house, then stop near to a rose-bed rich in bloom.</p>
+               <p rend="justify">“It’s Christmas Eve, you know, little Cis,” said Hal, a merry strong-limbed, dark-eyed boy between nine and ten years old, to his little sister who stood near.</p>
+               <p rend="justify">She was a quaint little maid of seven in whose wavy golden hair one might well think the summer sunbeams lingered; her large blue eyes, dark lashed, in her solemn moments looked like clear deep wells, but could dance with light and laughter at a tale of fun. Hers was a sweet child-nature “so easily moved to smiles or tears,” so full of sympathy was her loving little heart.</p>
+               <p rend="justify">“It is Christmas Eve, you know, little Cis, and we must get some nice flowers to give mother to-morrow morning, mustn’t we?”</p>
+               <p rend="justify">“Yes, Hal, and I want to find a lot of dear little red rose-buds,—oh! here’s one, and here’s another, I’m so glad!”</p>
+               <p rend="justify">“Why <hi rend="italic">red</hi>  ones, Cis?”</p>
+               <p rend="justify">“’Cos mother likes red ones, I know; she told me about the prickly tree with red berries on it, which she used to gather bunches of at Christmas time when she was a little girl like me,—I expect she gave some to her mother, and I wonder if she pricked her fingers as I do mine—never mind, I am not going to cry, Hal, because it’s for mother. Do the thorns hurt you, Hal?”</p>
+               <p rend="justify">“Yes, Cis, but I am a boy you know, and boys don’t cry; I am getting white rose-buds, because in mother’s tales about Christmas, there is always a lot of white snow. I wonder why God does not send us any snow here!”</p>
+               <p rend="justify">“Perhaps He will one day if we are naughty, for it kills all the pretty flowers,” replied Cis.</p>
+               <p rend="justify">“No, it doesn’t kill them all, Cis, it only covers them up; besides, it’s rare fun to make snow-balls, they say.”</p>
+               <p rend="justify">“Children, children!” calls a voice from the open door, “it is nearly bed-time.”</p>
+               <p rend="justify">“Yes, coming, mother dear,” and the two bunches of flowers were quickly hidden beneath the little coat and pinafore, while the children ran round to a side door and gave them into the nurse’s charge to put in water, and in a safe hiding place until the morning.</p>
+               <p rend="justify">“Put them under our beds, Nursie, no one will see them there,” shouted Hal, as he rushed off with his sister to their mother for the good-night chat.</p>
+               <p rend="justify">“It is Christmas Eve! and the long soft shadows of a summer night are quickly falling on the garden, fields and meadows.”</p>
+               <p rend="justify">Page 3.</p>
+               <p rend="justify">In the well-known cosy room sat a slender figure in black, in a low wicker chair, and little Cis was already on her lap, her shining head nestled close in, her sweet face pressed to her mother’s, which if older and sadder, was not less sweet. Hal, taking his favourite stool, sat down close to her knee, and giving her hand a hasty boyish kiss, said: “Don’t send us to bed just yet, mother dear, ’tis Christmas Eve, you know.”</p>
+               <p rend="justify">“Ah, yes! Christmas Eve,” she echoed, and her trembling voice told of the mingled memories that thronged her heart,—memories of past joys and sudden sorrow. Her thoughts flew to that time, “only a year ago,” when there came the hurried summons for her husband to a sick relative in a distant land—the hasty departure on the voyage,—and then the blank of a terrible silence,—and later, the tidings that she should see him no more till “the sea gives up her dead,”—and, laying her hand on Hal’s dark head, she pressed her fatherless little ones closer to her.</p>
+               <p rend="justify">“Tell us a story, mother dear,” broke in Hal’s voice.</p>
+               <p rend="justify">“Suppose you tell me one for a change, dear,” she replied.</p>
+               <p rend="justify">“I don’t think I can, mother, but I’ll try,” said Hal’s determined tones, “it will be very hard, but you’ll help me, little Cis, when I stick, won’t you? Shall it be a real story or a made up one?”</p>
+               <p rend="justify">“Oh! a real one, Hal, it won’t be so hard,” said little Cis.</p>
+               <p rend="justify">“All right,” replied Hal, “just wait a moment whilst I think,” and the boy’s face took an earnest, thoughtful expression not often seen on it, for he was a light-hearted laddie full of the joy of a happy, careless childhood.</p>
+               <p rend="justify">“We had three baby guinea-pigs this morning,” began he musingly, “but, I suppose I couldn’t make a tale out of that,—and the little white bantam was drowned in the duck-pond, and Cis and I put it in a box with flowers and buried it under the apple-tree, but, I suppose that wouldn’t do either;—and the parrot bit my fingers dreadfully, and I—no, I didn’t cry, I only howled. Oh! mother, you tell a tale, I can’t.”</p>
+               <p rend="justify">Then a minute’s silence followed, broken only by the purring of Hal’s favourite, the black cat “Smut,” who was rubbing against his master’s leg, where the kneeless stocking told of the day’s exploits.</p>
+               <p rend="justify">Darker grew the shadows in the long low room; the clock ticked on its monotonous “Gone by! gone by!” the faint whisper of the evening breeze through the pines came in at the window; the last rays died in the west, and once again the evening star looked out from the darkening sky upon the mother, and the child within her arms—a picture that in all its varied phases is as beauteous in our great to-day, as at that Christmas-time at Bethlehem in ages past. And little Cis, watching the shining star, raised her head from her mother’s shoulder, and said in a hushed voice:</p>
+               <p rend="justify">“Do you think the angels will come to-night, mother dear?”</p>
+               <p rend="justify">“Angels! why, little one?” she replied.</p>
+               <p rend="justify">“Because there’s the star, mother, and I think it must be the one you told me about, that came when the angels sang, because it’s, oh! so beautiful! I should like them to come to-night; perhaps dear father will send them. Do you think if we sat ever so still they <hi rend="italic">would</hi>  fly down near us? You know, when I sit down under the big trees up the hills for a long time, the little birds fly down and close up their wings and come and look at me, and angels have wings, haven’t they, mother dear? and so perhaps they will come.”</p>
+               <p rend="justify">“Oh!” cried Hal, “if they can fly about like that, Cis, I shouldn’t like it to-night, for there are a lot of Christmas-plums ripe on the tree in the orchard, and if they come near I expect they would want them,—I should. But I didn’t take any to-day, mother; we are saving them for to-morrow as you told us to do; I only sat down under the tree and picked up any that fell down. You know you told us not to run about when it was very hot, so I thought if I was good and sat still, God would make some plums drop down. But, I say, mother, what sort of hat does God wear?”</p>
+               <p rend="justify">“Hat, my boy! what do you mean?”</p>
+               <p rend="justify">“Why, mother, you said I must keep my hat on these hot days or I’d get sunstroke, and I’m sure it must be dreadfully hot for God up in the sky; there are no trees there to sit under.”</p>
+               <p rend="justify">What merry laughter from little Cis followed Hal’s remark, but his mother said quietly, “Hush, my boy, we must not speak lightly of Him whose ways are not as ours.” Hal’s merry face became thoughtful, and the children were silent for a few moments; then the favourite tales were won from mother by many a caress,—tales, of which the words fell on the children’s ears like the pleasant dropping of summer rain, bringing forth sweet flowers of thought, may be in later years to bear a precious fruit. Then came the patter of little feet up the stairs, and merry chatter, as the stockings were hung up ready for Santa Claus; and then, when mother came, there were murmurs of sleepy voices, as the two little white-robed figures knelt with folded hands on their curtained beds, and lay down with the last words of their childish prayer on their rosy lips—</p>
+               <p rend="justify">“In the Kingdom of Thy Grace,</p>
+               <p rend="justify">Give a little child a place.”</p>
+               <p rend="justify">“A place!” Aye, would that many an older child of earth could claim such a place as His little ones have! Then, with mother’s last “tuck up” and good-night kiss, and one last look to make sure that the stockings were all right, silence fell on the little restless tongues, and closed the sleepy eyes.</p>
+               <p rend="justify">It was midnight, but no Christmas waits disturbed the stillness round the quiet house. The southern cross gleamed clear and bright in the dark blue heavens, and the moon sailed high, silvering the feathery clouds that here and there floated across the star-lit depths, as though some angels passing by had left stray pinions there. The distant ocean had waked from its evening dreams with a thousand twinkling smiles; the tree-ferns trembled beneath the moonbeams’ soft caress; but, brighter than all others were the rays that, creeping through the window to the white curtained beds, kissed so lovingly the sweet faces lying there, lingering round the tumbled curls of little Cis, and on the dimpled arm thrown over her head, and crowning Hal’s dark hair with a soft halo.</p>
+               <p rend="justify">“Take that,” said Santa Claus: “it will give you light in the darkest places.”</p>
+               <p rend="justify">Page 6.</p>
+               <p rend="justify">Then a clear voice broke the stillness of that summer night, making the children stir in their slumbers ... then, once again the silvery voice rang forth, “Wake up, little ones!”</p>
+               <p rend="justify">And, starting up, Cis and Hal rubbed their eyes, and wonderingly gazed around.</p>
+               <p rend="justify">And there, where the moonbeams fell upon the floor, stood a lad with a smiling face, and on his head was a crown of twinkling stars, and beneath the stars these words shone, “I bring good gifts to all.” A robe of deepest blue hung down in soft shimmering folds near to his feet; and in his hand was a wand, on the tip of which shone the evening star.</p>
+               <p rend="justify">Then Hal, without fear, though in a dreamy voice, asked, “Please are you a fairy, little man?”</p>
+               <p rend="justify">And Cis in a low voice added, “It’s the Angel of the Stars!”</p>
+               <p rend="justify">“No, little ones,” said he, “I am neither a fairy nor an angel; I am only Santa Claus.”</p>
+               <p rend="justify">“Why, I thought Santa Claus was an old man,” said Hal.</p>
+               <p rend="justify">“So I am, in the Old World,” replied he, “but here, in the New World, I am young like it.”</p>
+               <p rend="justify">“But,” exclaimed Hal, “where are your reindeer, and where’s the sleigh with all the good things in it I always thought you brought? Because it won’t be fair if you don’t give us anything. It’s Christmas Eve, you know, and we have put our stockings ready for you.”</p>
+               <p rend="justify">“I have left my reindeer and the snow and frost in the Old World,” said Santa Claus; “but never fear, I have not forgotten you and little Cis; my wand, with the star of Love on it, is better than my sleigh full of presents. But come along, little ones; dress quickly, for I am going to take you where many wonderful things are waiting to be seen by bright young eyes.”</p>
+               <p rend="justify">“All right; I am ready,” cheerily replied Hal.</p>
+               <p rend="justify">But little Cis said, “I don’t know, Hal; what will mother say! Mayn’t I go and tell her, Mr. Santa Claus?”</p>
+               <p rend="justify">“No need, little Cis; she knew I was coming to you to-night.”</p>
+               <p rend="justify">“Yes, it’s all right,” said Hal eagerly, “come, dress quickly, Cis, we shall see lots of wonderful things, and bring some back to mother too.”</p>
+               <p rend="justify">So the children dressed, and, led by their guide, went hand in hand with light steps down the stairs and out into the moonlit world.</p>
+               <p rend="justify">How beautiful it looked! The drooping grasses shone with drops of dew; the tall white lilies gleamed fair as the driven snow; a white-tailed rabbit skipped across their path and then peered with bright eyes at them from high bracken; a solitary night-bird chirped out its sleepy notes; but as the children, led by Santa Claus, came near to the creek, the voice of the stream sang out cheerily. A mossy trunk lay across the waters, and Santa Claus stepped lightly along it, followed by Hal, who held the hand of little Cis tightly in his, and, guiding her, went across the slippery bridge.</p>
+               <p rend="justify">“It <hi rend="italic">is</hi>  dark down here,” murmured Cis, as they stepped on the bank where high fern-trees and thick bushes shaded the gully.</p>
+               <p rend="justify">Turning round, Santa Claus placed in Hal’s hand the wand whereon so brightly shone the star of Love. “Take that,” he said, “it will give you light in the darkest places;” and, as the light from the star fell around, the black waters danced and gleamed, and the dark mosses shone.</p>
+               <p rend="justify">“Please do stop a little while, here, Mr. Santa Claus,” begged Hal, “I want so much to have a look at that big carp I saw the other day in the pool,” and, as he spoke, the fish, his gold and silver scales glittering in the light, came near, and amid the rippling of the waters the children heard a little voice singing:—</p>
+               <lg>
+                  <l>The Song of the Carp.</l>
+               </lg>
+               <lg>
+                  <l>“Here in the cool waters</l>
+                  <l>Who will catch me now?</l>
+                  <l>Come, ye children, twine ye</l>
+                  <l>Green weeds round your brow.</l>
+                  <l>“Play ye while the shallows</l>
+                  <l>Sunny are and bright,</l>
+                  <l>Sing ye while the still depths</l>
+                  <l>Dance with sparkling light.</l>
+                  <l>“Little streams flow onward,</l>
+                  <l>On by moor and lea.</l>
+                  <l>Singing ever brightly,</l>
+                  <l>Gay their life and free.</l>
+               </lg>
+               <lg>
+                  <l>“When they join the river</l>
+                  <l>Silenced is their song,</l>
+                  <l>Slow and dark the current,</l>
+                  <l>Rough the way and long.</l>
+                  <l>“In the mighty ocean</l>
+                  <l>All are lost at last,</l>
+                  <l>All the play-time over!</l>
+                  <l>All the singing past!</l>
+                  <l>“So play ye while the shallows</l>
+                  <l>Sunny are and bright,</l>
+                  <l>And sing ye while the still depths</l>
+                  <l>Dance with sparkling light.”</l>
+               </lg>
+               <p rend="justify">“Can’t we catch him, Mr. Santa Claus?” shouted Hal, “I should like that fellow, for he talks like a book!”</p>
+               <p rend="justify">But the fish only waved his tail and glided down the stream.</p>
+               <p rend="justify">Then their guide beckoned them forwards, and Cis, wondering, asked, “Did you make the fish speak, Mr. Santa Claus?”</p>
+               <p rend="justify">“Yes, little Cis,” answered he, “and the gift I bring you and Hal this night, is the gift that makes you know and understand Nature’s many voices.”</p>
+               <p rend="justify">“Does any one else know them?” asked Hal.</p>
+               <p rend="justify">“Yes, children, to some pure and simple souls the gift is given through life to interpret them to man; and sometimes to the aged and the weak it is granted to find strength anew, in flowery woods and birds’ and insects’ song;—to you, ye little ones, Nature shall to-night speak out in clearest voices, to echo in your hearts perchance in years to come.”</p>
+               <p rend="justify">“I hope he isn’t going to preach,” whispered Hal to his sister, “I shan’t like him half so much if he does.” Then he added aloud, “I don’t quite understand you, Mr. Santa Claus, but never mind, I don’t understand the sermons our old clergyman preaches; mother says it is good to try and listen, but I think they forget about the little children in church!”</p>
+               <p rend="justify">“Perhaps the preacher does not know we are there, Hal, we are so little, you know,” added Cis in an apologetic tone, “and there is a long way between us and the pulpit.”</p>
+               <p rend="justify">“Perhaps so,” said Hal absently, for he was wondering if he could put his Star of Love over the pulpit on Christmas Day; it would make a bright light, and perhaps the preacher would remember them then,—and he added aloud, “But if he did remember us, Cis, I expect he’d be cross if we didn’t sit <hi rend="italic">quite</hi>  still, as I heard him say one day we ought.”</p>
+               <p rend="justify">“I suppose it is such a long time since he was a little child, that he forgets how hard it is,” said little Cis.</p>
+               <p rend="justify">But by this time they had got out of the thickest part of the bush, and were walking along a little winding path near a precipice. On the upper side was a bank from which dainty ferns hung their graceful fronds, and beneath them, on the moss, the tiny lamps of myriad glow-worms shone like specks of fire. As the children stopped to gaze, they heard the glow-worms singing:—</p>
+               <lg>
+                  <l>“Children of the earth are we,</l>
+                  <l>Small and brown and ill to see;</l>
+                  <l>But we can make our lamps at night</l>
+                  <l>In dreary places show their light.</l>
+                  <l>Travellers oft might miss the way,</l>
+                  <l>Warned we not their footsteps back,</l>
+                  <l>When upon the narrow track</l>
+                  <l>Near the precipice they stray.</l>
+                  <l>Children of the earth are we,</l>
+                  <l>Small and brown and ill to see;</l>
+                  <l>Still our tiny lamps we trim;</l>
+                  <l>Children, let not yours grow dim!”</l>
+               </lg>
+               <p rend="justify">“We have got no lamps, you stupid little glow-worms,” said Hal, “unless you call this Star of Love that we carry a lamp. But couldn’t you sing something more lively to us?” he added. Then the glow-worms brightened up and sang to a merry tune:—</p>
+               <lg>
+                  <l>“Oh! stay, ye children, stay,</l>
+                  <l>And listen to our song,</l>
+                  <l>For childhood’s hour is short,</l>
+                  <l>And manhood’s day is long.</l>
+                  <l>Come, see our fairy haunts,</l>
+                  <l>And we will light the way;</l>
+                  <l>Come, join the merry dance,</l>
+                  <l>And dance till break of day.”</l>
+               </lg>
+               <p rend="justify">“Please may we go to the dance, Mr. Santa Claus?” begged Hal; their guide nodded assent, and they watched the glow-worms form into a long line, two and two, and creep between two high moss-grown rocks.</p>
+               <p rend="justify">“It’s all very well to say ‘come,’” remarked Hal, “but how are we to get through that place, I should like to know?”</p>
+               <p rend="justify">“Hold Love’s wand high overhead,” answered Santa Claus, “and much that is difficult will be made easy.”</p>
+               <p rend="justify">“Oh, dear! he has begun preaching again,” cried Hal, but he held the star over his own and his sister’s head, and, pushing some overhanging brambles aside, they found that they could easily go where the glow-worms led.</p>
+               <p rend="justify">On, on went the long procession of shining lights, and the little voices were heard, now faint, now clear:—</p>
+               <lg>
+                  <l>“Come, see the fairy haunts.</l>
+                  <l>And we will light the way;</l>
+                  <l>Come, join the merry dance,</l>
+                  <l>And dance till break of day.”</l>
+               </lg>
+               <p rend="justify">“We’re sorry we’re so big,” said Hal.</p>
+               <p rend="justify">And soon what a sight met the eyes of the children! In an open space surrounded by high trees, on a bright ring of green grass, a number of little fairies were dancing, their tiny twinkling feet scarcely seeming to touch the lightly bending blades. And what merry music! a band of locusts with their shining wings beat tunes upon the brown tree-trunks; big night-moths hummed their low songs, and drowsy beetles droned fitfully, while from the trees o’erhead the bell-birds rang their clear high notes. It was a gala night, and birds and insects had come to join in the dance.</p>
+               <p rend="justify">On a branch near by sat a small brown owl, round-eyed and solemn, beating with a raupo stem the time, which no one tried to keep. “Too fast, stop them!” cried he, in his harsh, cold voice; but no one took any notice except the Tui in a bush, who repeated his words;—and the music played, and the dancers danced as madly as before.</p>
+               <p rend="justify">Kiwi.</p>
+               <p rend="justify">Then, out from the dark wood there came a motley throng; bright golden-eyed green lizards, their long tails waving like shining river-weeds; sleek-coated rats, and solemn Maori hens; fat caterpillars waddling through the grass, and snorting kiwis[3]  following close behind; while sombre-coloured crows and starlings tripped on in pairs.</p>
+               <p rend="justify">Now, by the laws of fairy-land, no bird could feed upon insects so long as the night revels were kept up; nevertheless the caterpillars did not feel quite comfortable, for many a sly poke they got to “hurry up” from the kiwis’ long bills, with which these birds gave disappointed snaps, as they saw such tempting morsels near by.</p>
+               <p rend="justify">Then came whole families of green parrakeets, proudly holding up their red-crested heads, and chattering all the scandal of the forest; black-feathered Tuis[4]  with their white neckties cleanly washed; tiny Fantails,[5]  their fans spread out, for the night was warm: and Robins too, were there, some in dark grey garb, and some in black with yellow and white breast-fronts newly smoothed;—and as the fresh comers appeared, the music struck up with renewed vigour, and the glow-worms, nodding, made their lamps burn brighter still.</p>
+               <p rend="justify">Parson-bird or Tui.</p>
+               <p rend="justify">All were soon joining in the dance,—fairies, birds and insects, and Hal and Cis, seeing Santa Claus sit down under a tree-fern, joined too.</p>
+               <p rend="justify">“We’re sorry we are so big,” said Hal, “but Cis and I will try and not knock any of you over. Would you mind tucking your tail up under your arm?” he said to a young lady lizard near whom he was dancing in a waltz. “Allow me to help you;” and help he did, for the tail came off in his hand! “I beg your pardon,” said Hall.</p>
+               <p rend="justify">Pied Fantail.</p>
+               <p rend="justify">“Don’t mention it, tails always grow quickly, you know,” replied the lizard with a laugh, as she skipped gaily on.</p>
+               <p rend="justify">“Please, Mr. Kiwi, would you oblige me by dancing on two legs instead of three,” asked little Cis, for the Kiwi was her partner, and was using his bill as a support, and often pricked her toes.</p>
+               <p rend="justify">“You don’t know what you are talking about,” said he in a huff, “it’s my bill! but perhaps you don’t know what a bill is!”</p>
+               <p rend="justify">Brown Owl or More-pork.</p>
+               <p rend="justify">“I’ve only heard mother say that no one likes long bills,” said little Cis.</p>
+               <p rend="justify">At this the Kiwi snorted contemptuously, and left her, and the brown owl,[6]  seeing something was wrong, thought it must be the music, and shouted out, “Too fast! stop them!” but no one took any heed, for he was only an old croaker, and could not be expected to keep pace with the young people. So he dropped his raupo-stem, and sulked on the bough. Soon afterwards the band stopped, and some strange flute-like notes were heard in the distance.</p>
+               <p rend="justify">The Tui called out excitedly, “Make haste! take your places if you want to see the Gavotte, here comes the great dancer of the evening!” and all the birds and fairies hurried to get good places on the branches near by, while caterpillars and lizards stood up on their tails. Then out from the thick underwood came two crows,[7]  proudly strutting side by side; the male bird took his place upon a straight leafless branch, well in sight of all the expectant throng, while the female bird sat down on a fallen mossy bough, where she could see her mate.</p>
+               <p rend="justify">Crow.</p>
+               <p rend="justify">Then he began the Gavotte, and what a lively performance it was! up and down, up and down the branch, springing, pirouetting, tail and wings out-spread, with many a fanciful step and flourish, danced the crow right merrily to his own sweet gurgling music. Truly he was a mate worthy of the little wife he had won by his dancing at pairing time; she was sitting near, watching, and when the dance was ended he looked down at her proudly, while the on-lookers applauded.</p>
+               <p rend="justify">“Capital! capital!” shouted little Cis and Hal, clapping, and the Tui overhead echoed their words.</p>
+               <p rend="justify">“How nice to have a husband who can dance and sing so well!” said one of the parrakeets.</p>
+               <p rend="justify">“Yes,” said the lady crow, “it is nice, of course, but there are other things to be considered in choosing a husband; still he is a good one on the whole, though sometimes I should like to join in the whistling and dancing, too. Let us have a dance all together now!” she added, and the owl, having got over his fit of the sulks, asked for his raupo stem to be handed to him again, and started the music afresh.</p>
+               <p rend="justify">The crow, offended by his wife’s remarks, chose another partner for a while, but Cis, watching, saw that he soon went back to her, and a little later on the pair slipped away into the wood together, so she supposed they had made up their tiff.</p>
+               <p rend="justify">Then the dancers took a rest, for they were all rather tired.</p>
+               <p rend="justify">“Oh, look!” said the grey robin, who was still sitting on the bush near Cis, “there are the Tuataras; what a wonder it is for them to come and see us. How do you do?” called out the bird, at the same time nodding his head condescendingly to two large stone-coloured lizards with a row of white spines down their backs, who glided into the open space, and, lying down on some stones, watched the scene with solemn bright eyes.</p>
+               <p rend="justify">“They did not answer you!” said Cis, “do they never speak?”</p>
+               <p rend="justify">“Not often to us,” replied the bird, “they are too proud of their old family to talk to ordinary dwellers in the forest; those two must have come a long way to visit us to-night, for, some years ago, the Tuataras said they did not like the fast ways of the inhabitants of this part of the country, and they all retired to an island off the coast, where their only companions are the mutton-birds who live in holes in the ground;—and, I think, it is so mean of the lizards, they share the mutton-birds’ holes, and then often feed upon their young ones.”</p>
+               <p rend="justify">“Do not the Tuataras[8]  get any food themselves?” asked Cis.</p>
+               <p rend="justify">“Yes, at night,” replied the robin, “they only go out then; <hi rend="italic">I</hi>  think there must be something wrong when people always do things in the dark, do not you?”</p>
+               <p rend="justify">“I do not know,” said Cis, “perhaps they have reasons we do not understand.”</p>
+               <p rend="justify">“My mother was told by a learned man that the Tuataras have <hi rend="italic">three</hi>  eyes,” continued the bird.</p>
+               <p rend="justify">“If so, they can see more than other people, and that is why they look so wise,” said little Cis.</p>
+               <p rend="justify">“Perhaps so,” replied the bird, “but none of us have ever seen the third eye, and it is funny where it can be.”</p>
+               <p rend="justify">“If you looked carefully you would find it on the top of our heads,” said the mellow voice of a Tuatara who had evidently been listening; “our ancestors were great star-gazers, but we have given up that sort of nonsense, we find it quite enough to attend to things on the earth, so we all agreed to shut one eye; it is best to do so sometimes,” added the lizard musingly.</p>
+               <p rend="justify">Tuataras.</p>
+               <p rend="justify">“Indeed!” said the robin, and he put his head on one side and looked very unbelieving.</p>
+               <p rend="justify">Just then two cockroaches, more curious than the rest, ran up the stones near where the lizards sat, who, suddenly turning their heads, seized and swallowed them.</p>
+               <p rend="justify">How indignant all the birds and insects were at this transgression of the laws of fairy-land, and loud cries arose from all sides of “Shame! shame!”</p>
+               <p rend="justify">“Peck out their eyes!” cried the Kiwi, who had, however, been thinking he should like a meal himself.</p>
+               <p rend="justify">“Off with their tails!” croaked a bright green frog.</p>
+               <p rend="justify">“Off with their tails!” repeated the Tui in a shrill voice.</p>
+               <p rend="justify">But the Tuataras, hearing the noise, glided down from the stones into the fern; Hal and the birds went after them, but the lizards were soon lost to sight in a hole.</p>
+               <p rend="justify">“We shall have to give it up,” said Hal, “we could not get them out of that hole except by digging; let us go back to the others:” so they returned, and Hal, sitting down by Santa Claus, said, “This is all great fun,—I wonder when they will begin dancing again, I never enjoyed a dance so much before.”</p>
+               <p rend="justify">A stout caterpillar,[9]  who sat near, and was troubled with asthma, overhearing this, put in his word. “It is only because you are young that it all seems so good; wait till you are old and stout like me, and you won’t be so mad at dancing!”</p>
+               <p rend="justify">“But you will be a lovely butterfly by-and-by,” added little Cis.</p>
+               <p rend="justify">Vegetable Caterpillar.</p>
+               <p rend="justify">“Not I!” said the caterpillar, “I would not be anything so flighty.”</p>
+               <p rend="justify">“What are you going to do, then?”</p>
+               <p rend="justify">“I mean to retire to some quiet spot on the earth,” said the caterpillar, “and be of some use in the world. I have heard that some of my brothers who have buried themselves grew after a while into plants which are much sought for and valued, and I intend to try it too, I admire variety, for what is the good of being one of the common herd, I should like to know?” and the caterpillar stopped, panting, for it was a long speech for him with his short breath.</p>
+               <p rend="justify">“I should do what other caterpillars do, if I were you,” said little Cis thoughtfully, “for I’ve heard that the hearts of those caterpillars you speak of, get harder and harder, till, when the plant grows from them, they turn into wood, too, and die.”</p>
+               <p rend="justify">“May be! may be! but I don’t care what people say,” replied he in impatient husky tones, as he turned away and began to dig in the earth under a big rata-tree as quickly as he could.</p>
+               <p rend="justify">“Too fast, stop him!” shouted the brown owl.</p>
+               <p rend="justify">“Hold your tongue!” cried the caterpillar, “what do you know about it? Who asked you to preach?”</p>
+               <p rend="justify">“Oh! don’t quarrel!” said the gentle voice of little Cis; “let me give you a little more light, Mr. Caterpillar, if you <hi rend="italic">will</hi>  bury yourself,” and she ran and picked up Hal’s wand, and threw the light of Love’s Star on the old grubber. The owl above only blinked, and said in surly tones that he knew he was right, and he wished people wouldn’t try to throw light on his eyes.</p>
+               <p rend="justify">Little Cis, being left by her partner, sat down on a mossy bank, and was watching the rest, when she heard some twittering notes near, and looking down saw two little birds close to her feet, one all grey, one grey with a yellow breast, their bright eyes twinkling, their little tails wagging.</p>
+               <p rend="justify">“We thought you looked lonely,” said the grey bird, “so we have come to talk to you.”</p>
+               <p rend="justify">“What are your names, little birds?” said Cis.</p>
+               <p rend="justify">“We are robins,”[10]  said they.</p>
+               <p rend="justify">“Robins, are you?” replied little Cis, “why, mother used to tell me that robins had red breasts.”</p>
+               <p rend="justify">“Oh! so I’ve heard it said they have on the other side of the world,” replied the grey bird, who seemed to be the greater talker of the two, “but we don’t care for so much red, as everything else here is so bright, our family only go in for quiet colours; it’s more ladylike. What do you think of our ball?” he added, and then continued, “I don’t care much for dancing myself; I like afternoon-teas better. I am very fond of company, and one hears all the news of the country-side at a tea-party; it is much more sociable too.”</p>
+               <p rend="justify">“Perhaps so,” said little Cis in a doubtful voice, for she had only been to dolls’ tea-parties, and no one talked there.</p>
+               <p rend="justify">“Yes,” went on the grey robin, “there are three charming parrakeets, who live in a wood near by, and they sometimes give afternoon teas, and, really, it is as good as reading a newspaper to hear all the tales told of the neighbours.”</p>
+               <p rend="justify">“Kind tales?” asked Cis.</p>
+               <p rend="justify">“Well, I don’t exactly know,” said the grey robin, “but that doesn’t matter; the parrakeets[11]  say the great thing is to have something to talk about.”</p>
+               <p rend="justify">Robins.</p>
+               <p rend="justify">“Don’t say that,” put in the yellow-breasted robin, “the old owl tells us never to repeat an unkind thing; it is only the busy-bodies of the Tui family who do that, and they often whistle the tales they hear so badly, that you’d scarcely know them to be the same.”</p>
+               <p rend="justify">“Perhaps they can’t help it, you know,” remarked little Cis; “it is not every one who has a good ear; and, besides, Tuis talk so much, that they can’t have much time to think about what they say. I don’t expect they mean to alter things. Mother told me never to tell any but good tales of Hal, but it is difficult sometimes when he teases me,” and little Cis sighed.</p>
+               <p rend="justify">“I think this is a very nice ball with you to talk to,” said the grey robin; “do you mind if we stay near you?”</p>
+               <p rend="justify">“Oh, no, I shall like it,” replied Cis; so the robins perched on a bush close by, and with their heads on one side eyed the dancers (who had started afresh), and they now and again added their sweet low notes to the music.</p>
+               <p rend="justify">“We don’t sing much,” said they, “but we like to do our best to make things lively.”</p>
+               <p rend="justify">Maori hen.</p>
+               <p rend="justify">Just then, such a scuffling was heard in the long grass, that Cis jumped up to see what was the matter, and there were two Maori hens[12]  fighting over some bright buttons, tied together with string, which Hal had thrown down. They were jumping round and round each other in the maddest excitement, heads and short tails bobbing, and wings flapping. The brown owl cried, “Too fast, stop them!” but the music and the noise drowned his voice. At last the fatter of the two hens stopped a minute to get breath, and the other, seizing its opportunity, gave an extra tug, and carried off the buttons under the bushes. The fat hen ran after as fast as possible, calling out, “Stop thief! stop thief!” then they both disappeared in the bushes.</p>
+               <p rend="justify">Little Cis thought she heard a parrot on a tree overhead call out something about “The pot calling the kettle black,” but as she did not see any signs of cooking near, she thought she must be mistaken.</p>
+               <p rend="justify">Meanwhile, Hal had been gossiping with the birds and insects, and hearing many tales of fun and frolic in the greenwood, and many too of hair-breadth escapes from hard-hearted hunters and cruel boys.</p>
+               <p rend="justify">“Do you know I am uncommonly hungry,” said Hal, coming up to where Santa Claus was watching. Hal had a little fairy with lovely gauze wings perched on each of his shoulders, and he added, “And these little friends of mine are thirsty too, and all the flowers are shut up, so they can’t get any dew; it really is too bad for them to close so early.”</p>
+               <p rend="justify">At a nod from Santa Claus the birds flew off, and quickly returned with numberless fruits and berries; huge mushroom-tables sprang up rapidly, and soon were bending with the weight of the good things. Blue-bells held out their cups of sparkling dew to all, and the Tui and the Bell-bird revelled in honey, pure and golden, which the small wild-bees brought.</p>
+               <p rend="justify">The fairies lightly perched on toadstools and the blades of grass, and were gallantly waited upon by long-legged spiders, whilst the birds vied with each other in paying attentions to little Cis.</p>
+               <p rend="justify">Long and merry was the feast, only the Kiwi sat grumpily by, and, eyeing some curled-up earthworms, sniffed and said that there was nothing for him to eat. But alas! old Time stays not his flight, even in the brightest hours, and Santa Claus, pointing to the moon sinking low in the sky, the happy revel ceased, and good-byes were said. The fairies winged their flight to hide in the flowers’ sweet hearts; the insects sought their secret haunts in rugged bark and crannied soil; the birds flew off to their leafy homes, except the Kiwi, and he could not, having no wings, poor fellow! so he scuttled quickly about, hunting around for food, but alas! the earthworms and grubs had already hidden in the mossy soil, or beneath the dead leaves.</p>
+               <p rend="justify">“Gone! gone!” snorted the disappointed bird, hungry and cross, “and hard work I shall have to dig them out.”</p>
+               <p rend="justify">“Too fast, stop them!” excitedly shrieked the brown owl, who was watching some caterpillars waddling off as quickly as they could.</p>
+               <p rend="justify">White Heron.</p>
+               <p rend="justify">“What is the good of saying that?” asked the Tui, “I shan’t imitate you anymore. It is not likely the caterpillars, if they heard you, would stop to be eaten to please you. I’m off to the bush, near the stream,” continued the Tui, “where the white heron[13]  is bringing up her aristocratic family in her nest in the tree-fern, I shall get some conversation worth listening to with her, for she’s a lady of education, and does not mix with every one!” and the Tui flew off.</p>
+               <p rend="justify">“I say, old fellow,” called out Hal to the owl, “that was rather hard on you. I’d change my tune if I were you, I think.”</p>
+               <p rend="justify">The owl put his brown head on one side, looked very wise for a moment, then shouted out at the top of his shrill voice, “More pork! more pork!”</p>
+               <p rend="justify">“I’m afraid I can’t oblige you,” laughed Hal, “but if you’ll go farther into the bush you might tackle a few wild pigs if you like.”</p>
+               <p rend="justify">“I expect he means ‘more mice,’” said little Cis; “perhaps he’s getting old, poor thing!”</p>
+               <p rend="justify">But the owl shouted out “More pork! more pork!” and does so to this day.</p>
+               <p rend="justify">“Come, children,” said Santa Claus, “I have more wonderful things to show you before the sun rises;” and he led them out of the forest and up a hill, from the brow of which they looked on a plain broken by deep gullies and bounded afar by dark mountain ranges. Scattered trees loomed vast and unreal in the misty light, and the children walked on silently, almost wishing they were at home again, but yet curious to know what else Santa Claus had to show them. Suddenly a miserable little cur ran out of the bushes, barking, and amidst the manuka and cabbage-trees they saw a raupo whare. Grotesque heads carved upon the gable and on the corner posts of the low roof grinned hideously at Hal and Cis, and they were very startled when some dark figures, wrapped in loose mats, ran out hastily, looking big and weird in the dim and uncertain light.</p>
+               <p rend="justify">“They are not giants, are they?” whispered little Cis in a timid tone.</p>
+               <p rend="justify">“No, no,” replied Hal, “they are only Maories; and see, they are more frightened of us than you are of them.”</p>
+               <p rend="justify">The Maories, indeed, on seeing Santa Claus, his starry crown shining like a halo round his head, and Hal, whose face was lighted up by the Star of Love which he carried, were terrified, and uttering loud cries of “Aue! Aue!” they rushed back into their hut.</p>
+               <p rend="justify">“They are only Maories; and see, they are more frightened of us than you are of them.”</p>
+               <p rend="justify">Page 26.</p>
+               <p rend="justify">“Why do they run away from us?” asked Cis.</p>
+               <p rend="justify">“They, no doubt, thought we were spirits,” answered Santa Claus; “Maories are very much afraid of their dead grandfathers and grandmothers,” added he, laughing.</p>
+               <p rend="justify">“I wonder why that is,” said Hal, “I should have thought they would be glad to see the people again who are kind and good, as grandfathers and grandmothers always are.”</p>
+               <p rend="justify">By this time they had gone some little distance past the whare, and at the bottom of the hill they came to a narrow valley,[14]  the sides of which were clad with a luxuriant growth of feathery manuka, so white with its numberless small blossoms, that in the faint light that comes before the summer dawn, the valley looked as though a snowstorm had passed over it. From hidden places amongst the shrubs, thick curling steam arose, now hiding the trees and bushes, and even veiling the faint stars above for a few seconds, then melting into thin air, leaving a warm dripping moisture on everything around. Mysterious hissing noises filled the air, and ever and anon the earth shook as though with fear.</p>
+               <p rend="justify">The wondering, half-frightened children, tightly clasping each other’s hands, followed Santa Claus along the steep, zig-zag path that led down to the bottom of the valley; then, feeling the ground warm beneath her feet, little Cis said, “I am so frightened, Mr. Santa Claus, please may we go back?”</p>
+               <p rend="justify">“Yes, I think we <hi rend="italic">ought</hi>  to go back,” added Hal, “for it must be getting near breakfast-time now.”</p>
+               <p rend="justify">“Do not be afraid, children, I will take care of you,” replied Santa Claus, “and I have such wonderful things to show you.”</p>
+               <p rend="justify">Reassured by his kind voice, the children followed, keeping close together; Hal, with one arm round Cis, and with the other holding the Star of Love high above their heads, as they followed the path to the bottom of the valley. There they saw a stream rippling along; clear as crystal were its waters, and its banks covered with drooping ferns and tender mosses. Little Cis, stooping to gather some of the ferns, dipped her hand into a pool of water near by, and cried out, “Why, Hal, it’s quite hot!”</p>
+               <p rend="justify">Yes, hot it was, and the steam itself still hotter, while amid the bushes, countless merry little springs bubbled up, boiling, from basins of yellow and pink stone.</p>
+               <p rend="justify">“Why, it smells exactly like lucifer matches,—do they make them here, Mr. Santa Claus?” asked Hal, looking at the bright yellow sulphur on the ground.</p>
+               <p rend="justify">“No,” laughed Santa Claus, “but I think they might.”</p>
+               <p rend="justify">“I shall bring our cook here,” went on Hal, “she needn’t have a fire at all to cook our meals or to wash our clothes.” And he looked down into the clear steaming pool close by, edged with crumbling, many-coloured soil, and around, and even within which, delicate ferns were growing.</p>
+               <p rend="justify">But Santa Claus’ starry crown was already shining faint on the pathway ahead, and the children tripped on lightly after him.</p>
+               <p rend="justify">What lovely fairy glens they saw at each turn of the little path, carpeted with soft, bright green, and overhung with tender foliage, and Cis wished it were midnight that she might see the fairies dance. What fairy ball-rooms, too, with floors of pale pink marble, and pretty streamlets of warm water trickling near, for tired feet to paddle in!</p>
+               <p rend="justify">But Santa Claus had stopped, and the children hurried up to his side, and there, in the midst of the thick bushes, they saw a small lake of clearest blue, and to its edge sloped down a gleaming floor of white, and the trees that drooped near to the water’s edge shone white, as though a hoar-frost had silvered each trunk and tiny twig.</p>
+               <p rend="justify">“Oh! how lovely!” cried little Cis. “Is this like the snow in England, Mr. Santa Claus?”</p>
+               <p rend="justify">“Not quite,” he answered, “though it is as beautiful. But listen, little ones!”</p>
+               <p rend="justify">And as he spoke a chorus of voices was heard, faint, as though from the bowels of the earth, and then a low rumbling noise was followed by a mighty burst of steam from a hole a little way off, and on the top of it were shot out a troop of laughing gnomes.</p>
+               <p rend="justify">On the top of the geyser were shot out a troop of laughing gnomes.</p>
+               <p rend="justify">What funny little fellows they looked, with their long yellow legs, short bodies, and merry round faces beneath their yellow hats of all shapes and sizes. With many wild antics and strange capers they danced round the blue lake, singing:—</p>
+               <lg>
+                  <l>“Ha, ha! ha, ha! how jolly is life,</l>
+                  <l>We know no care, we know no strife;</l>
+                  <l>We dance, we sing, and merrily play</l>
+                  <l>The long night through; and then by day</l>
+                  <l>We work, we delve in the ground below,</l>
+                  <l>And make Earth’s fountains merrily flow.</l>
+                  <l>We feed the fires, till the cold streams boil;</l>
+                  <l>We spare no trouble, we spare no toil,</l>
+                  <l>We make the dark pools bubble and hiss,</l>
+                  <l>Till the waters leap up the trees to kiss,</l>
+                  <l>With a roar, and a whirr, and a rush so high,</l>
+                  <l>That the bright drops sparkle and dance in the sky,</l>
+                  <l>Then fall with a soft tra la la! tra la la!</l>
+                  <l>And we laugh as they fall, ha, ha! ha, ha!”</l>
+               </lg>
+               <p rend="justify">Then all the little gnomes, headed by Red Cap, their leader, jumped with merry shouts and laughter into the clear warm pool near by.</p>
+               <p rend="justify">The children watched them for awhile, then Cis wandered off, picking up bits of petrified ferns and sticks out of a hot bubbling pool, and choice pieces of yellow sulphur, which, when broken off the steaming ground, showed myriads of sparkling crystals, and kind Santa Claus packed all her treasures in soft moss in a bag which he carried on his back.</p>
+               <p rend="justify">Meanwhile, Hal envied the merry bathers, and as they called out to him to “come, too,” he quickly threw off his clothes and jumped into the little lake.</p>
+               <p rend="justify">How glorious it was! The hot bubbling waters, the clear crystal depths, and the sides and floor of the bath yielding to the touch, as though padded with velvet! Was ever such a bath enjoyed before? Shouting and singing, the little gnomes seized Hal and popped him over the edge of the basin, and plump he fell into a stream of cold water on the other side. What a big breath he pulled at first, and then, how delicious the glow and the dive into the clear depths! What a good swim Hal had up the cold stream, racing the little gnomes who spluttered and splashed after him! Then back they all went into the blue lake, revelling in the tingling warmth. Again, out of that into another bath close by, where countless crystal bubbles rose from the soft sandy floor, playing round the bathers like the dancing bubbles of sparkling wine.</p>
+               <p rend="justify">But Hal heard Santa Claus calling to him to make haste, and he reluctantly jumped out, and flinging on his clothes, shouted to the gnomes, “I’ll come here for my Saturday-night tub, if you don’t mind; it’s awfully jolly.”</p>
+               <p rend="justify">“All right,” answered the gnomes, running after Hal, who by this time had joined Cis and Santa Claus.</p>
+               <p rend="justify">“Won’t you all come and have breakfast with us?” asked Red Cap.</p>
+               <p rend="justify">“Well, I am rather hungry, and I expect Cis is, too. But what have you got for breakfast, Mr. Red Cap?”</p>
+               <p rend="justify">“Porridge, to be sure. Didn’t you know we were hard-working Scotch boys? Who else would work as hard, or get as much out of the earth as we do?” answered a gnome in a huffed tone.</p>
+               <p rend="justify">“I don’t know, I’m sure; but please don’t be offended,” replied Hal, “we’ll eat some porridge with pleasure.—or <hi rend="italic">try</hi>  to,” he added in a low voice, for he did not care for porridge at home.</p>
+               <p rend="justify">Red Cap led the way to where in the earth was the porridge-pot—a large hole full of boiling cream-coloured porridge, that hissed, and bubbled, and looked tempting enough. Cis and Hal, following the example of their guide, dipped sticks into it, and tasted the smooth paste, and what grimaces they both made, which they tried not to let Red Cap see! For the porridge was anything but pleasant, being like a mixture of rotten eggs and alum.</p>
+               <p rend="justify">“Isn’t it good?” asked Red Cap, smacking his lips over it.</p>
+               <p rend="justify">“Well,” said Cis, who wished to be polite, “it certainly is well boiled, and it is not at all lumpy, but—isn’t it ra—ther—earthy?”</p>
+               <p rend="justify">Then, seeing the gnome’s disappointed face, she added, “But never mind, we’re trying to enjoy it; but I expect you have to be brought up to it, Mr. Red Cap, really to like it.”</p>
+               <p rend="justify">“We’ll come for our next picnic here, and bring some tea for you,” said Hal, trying to make friends with Red Cap, “and perhaps you’ll boil the kettle for us—no, I mean, give us the water already boiled. I’m afraid it will smell and taste of rotten eggs, but that can’t be helped,” added Hal, in a low voice, to little Cis, sniffing the sulphurous fumes rising from the boiling cauldrons on all sides.</p>
+               <p rend="justify">Santa Claus and the children now walked on, and Cis and Hal, getting accustomed to the strange scenes around, began to feel quite brave.</p>
+               <p rend="justify">“There are not many birds here, Mr. Santa Claus,” said Cis, for they had only seen a few blight-birds flitting about; only the two little robins had come part of the way with her into the valley, then they had twittered their good-bye, and Cis missed her little feathered friends.</p>
+               <p rend="justify">“See,” replied Santa Claus, and there amid the feathery manuka was an open space covered with layers of creamy-coloured stone, and in the centre was what looked like a huge bird’s nest,[15]  formed of large white stems and branches crossed and recrossed, and pieces of petrified moss between. Each little twig was heavily laden with drops, apparently frozen, some thick as milk, some clear as crystal, while round and overhead the bushes too were white as snow.</p>
+               <p rend="justify">“How beautiful!” cried Hal.</p>
+               <p rend="justify">“But where is the bird, Mr. Santa Claus?” asked little Cis, “and what a big one it must be to make that nest!”</p>
+               <p rend="justify">“Wait a little, and if you do not see the bird you shall hear him sing,” laughed Santa Claus.</p>
+               <p rend="justify">The children stood silently waiting. Soon a low rumbling was heard below their feet, followed by hissing and bubbling noises that grew nearer and nearer, then died away, to begin again, louder, nearer than before, and making Cis creep up close to her brother and Santa Claus. Awe-struck, the children watched, and soon from the middle of the nest they saw bubbling waters that came and went in fitful gushes, as though battling against some unseen power below,—then roaring, fighting, boiling, a mighty column shot up high into the air above their heads, and clouds of steam rolled around, hiding for a little while the trees, and even the children, in a misty veil.[16]  How beautiful the clear drops of the mighty fountain looked, as the water’s rose and fell, shining like dancing diamonds in the dawning light! Then out from their holes came the gnomes, singing again their merry song.</p>
+               <lg>
+                  <l>The Merry Song of the Gnomes.</l>
+               </lg>
+               <lg>
+                  <l>We feed the fires till the cold streams boil,</l>
+                  <l>We spare no trouble we spare no toil:</l>
+                  <l>We make the dark pools bubble and hiss</l>
+                  <l>Till the waters leap up the trees to kiss,</l>
+                  <l>With a roar, and a whirr and a rush so high</l>
+                  <l>That the bright drops sparkle and dance in the sky</l>
+                  <l>Then fall with a soft tra la la la! tra la la la!</l>
+                  <l>And we laugh as they fall. Ha ha! ha ha!</l>
+               </lg>
+               <p rend="justify">Then they danced around the roaring geyser, till the waters fell lower and lower, and amid sobs and sighs died away in the deep dark hole, and all was still and silent as before in the mysterious bird’s nest.</p>
+               <p rend="justify">Without waiting to hear the children’s wondering remarks, Santa Claus took them by the hand, and they seemed to pass quickly over a large tract of country, until they came to a creek, which they soon saw from its steaming sides was hot, and which ran into a lake lying quiet and peaceful;—only the pukekos[17]  rose now and again, screeching from the reedy shallows. Pushing their way through thick scrub, and walking with great care between bubbling cauldrons and deep holes from which steam belched forth with a mighty roar and thud, Hal found it difficult to carry the Star of Love safely, and asked Santa Claus what he should do with it.</p>
+               <p rend="justify">“Hold it high overhead, and then stop for a minute and watch,” replied Santa Claus, and, doing as he was bid, Hal was astonished to see the Star float away into the pale grey sky, becoming fainter and fainter, till it disappeared in the misty dawn.</p>
+               <p rend="justify">“You have carried it so long with care,” said Santa Claus, “that by day, though unseen, it will ever shine to guide you, and at night, though passing clouds may sometimes hide it, if you look for it, you will soon find it again.”</p>
+               <p rend="justify">“I shall look for it, Mr. Santa Claus,” said little Cis; “I often see the stars shining in at my window when I am in bed, and I shall ask God not to let the angels forget to light that beautiful one for me to see.”</p>
+               <p rend="justify">As little Cis finished speaking, their old friend Red Cap appeared on the path before them.</p>
+               <p rend="justify">“Where did you come from?” cried Hal, “we left you at the bird’s nest.”</p>
+               <p rend="justify">“Yes,” answered Red Cap, “but we gnomes do not follow the paths you mortals tread, but have many and hidden passages under the earth, and many underground streams by which we pass quickly from south to north. So, here I am, you see, and now I am going to show you the realm of the King and Queen of the Gnomes.”</p>
+               <p rend="justify">“That <hi rend="italic">will</hi>  be jolly!” cried Hal.</p>
+               <p rend="justify">“Will it take very long, Mr. Red Cap?” asked Cis. “I have been thinking of mother, and she will want me back soon, I am sure.” And the child’s face grew thoughtful, and her large eyes looked sad and wistful.</p>
+               <p rend="justify">“You shall be back for breakfast on Christmas morning, I promise you, little Cis,” said Santa Claus; “Mother will not expect you before then. I am going to leave you a little while with Red Cap now, for I have some other children expecting me before the sun is up; but I will meet you after you have seen where the King and Queen of the Gnomes live.”</p>
+               <p rend="justify">“You will not forget us, Mr. Santa Claus, will you?” asked Cis, “because we could never get home without you.”</p>
+               <p rend="justify">“No fear of that, little one, I never fail the children who believe in me,” and so saying he disappeared from their sight. Hal called out,—</p>
+               <p rend="justify">“Good-bye, old fellow, I hope you’ll make haste back,” and then, taking Cis’s hand, for he thought she was a little timid, he followed Red Cap until they came to the end of the thick bushes. “Look,” said Red Cap, “this is the dwelling place of our King and Queen.” Beautiful indeed was the sight that met their gaze; from the edge of the lake, tier upon tier of milky white terraces[18]  sloped upwards to a great height, and over them fell a glistening veil of water which filled the air with its rippling song as it sought the placid lake below.</p>
+               <p rend="justify">“Oh! let us paddle,” said Hal to Cis, and no sooner was it said than done, and how delightful was the soft, warm water trickling over their feet!</p>
+               <p rend="justify">The children then followed as Red Cap led the way from tier to tier, looking into the numberless marble baths of all shapes and sizes that they passed, filled with coloured waters, clear and inviting, pale blue and green—the sides of the baths edged with fantastic wreaths and carved alabaster fringe, from the countless points of which overflowing drops fell with a soft musical sound.</p>
+               <p rend="justify">How dazzling was the milky white floor as they stepped upwards and looked down on the stretching terraces gemmed with their glistening pools! Truly it was wonderland! A fit dwelling-place for the King and Queen; a fit scene for the midnight revels of Gnomes and Fays! Hal and Cis found many a little petrified treasure as they lingered here and there,—twigs and bits of moss and fern, and even insects white and glistening as the terrace itself.</p>
+               <p rend="justify">“Oh! see, Mr. Red Cap,” called out little Cis, picking up what looked like a perfect white dragonfly, “what has happened to the poor dragonfly!” and she held it in her hand tenderly.</p>
+               <p rend="justify">“That is the way the gnomes punish any insect that comes near where our King and Queen live,” answered Red Cap; “the singing waters lure them in, and then turn them to stone itself.”</p>
+               <p rend="justify">“Poor things,” said little Cis, “how hard-hearted the pretty waters must be, and they look so soft and nice.”</p>
+               <p rend="justify">“That is often the way with things,” remarked Red Cap; “at least so I’ve heard it said.”</p>
+               <p rend="justify">As they came near the topmost tier of baths, the water became hotter and hotter, and there, in a gorge of the hill side, with the feathery manuka to its very edge, was a huge cauldron of opal-coloured steaming water.</p>
+               <p rend="justify">Side by side, with timid steps, the children went close to the edge, and, looking down, saw what Red Cap told them was the entrance to the King’s palace.</p>
+               <p rend="justify">Clusters of white pillars rose in stately grandeur, surrounded with carved wreaths of leaves and flowers, looking as if formed of frozen snow in the blue waters; forests of ferns hung their delicate stone fronds in the shadowy depths; quaint shaped mushrooms and coral-like bushes grew here and there ’mid heavily fringed leaves of many a strange shape.</p>
+               <p rend="justify">“Oh! may we go down there?” asked Hal.</p>
+               <p rend="justify">“No,” replied Red Cap, “it would be death to mortals to go there; even fairies cannot enter; but they are allowed to bathe in the pools, or to dance with the gnomes on moonlight nights, when our King and Queen hold their court. Only the gnomes can enter the palace halls below the pool, and many strange sights and sounds are there, and it is hard work there for the gnomes, I can tell you. See,” went on Red Cap, “the King and Queen are away just now, and the gnomes are busy cleaning out the palace, and soon they will make the big fountain play, and fill the terrace baths afresh.”</p>
+               <p rend="justify">“Where have the King and Queen gone?” asked Hal, “and shan’t we see them?”</p>
+               <p rend="justify">“I think not to-night,” said Red Cap, “for they have gone to their summer palace over there,” and he pointed to the other side of the lake, where the children saw another terraced realm even more beautiful than the one they were on, being of a pale pink colour, like the tender flush of a warm sunset upon beds of snow, and over all the falling waters danced and gleamed.</p>
+               <p rend="justify">“Are there as beautiful bathing places over there too?” asked Hal.</p>
+               <p rend="justify">“Yes,” said Red Cap, “and there is a large bath with soft downy sides and floor in which mortals sometimes bathe. But they are seldom allowed to see into the depths of the huge cauldron at the top of this pink terrace, for, by the order of the King, soft clouds of steam cover it, which are rarely lifted. Some favoured ones who have looked into the boiling depths say the forests and beauteous flowery forms there are even more wonderful than those you see here at the entrance of the Winter Palace.”</p>
+               <p rend="justify">“Oh! look!” cried Hal excitedly to Cis just as Red Cap ceased speaking; then, out of numberless small caves in the blue cauldron at their feet jumped hundreds of little black gnomes, having thick coats made out of sulphur cakes, and on their heads milky white helmets. Up from the blue waters they sprang, capering with wild delight round the edges of the cauldron and the numberless basins of the white terraces below, shouting, laughing, and then bursting ever and anon into wild chorus.</p>
+               <lg>
+                  <l>“’Tis done! ’tis done! our labour is o’er,</l>
+                  <l>We’ve cleaned each hall, and polished each floor.</l>
+                  <l>We’ve made the matches, and lighted the fires</l>
+                  <l>The engines to start as our King desires;</l>
+                  <l>List to the hammers that thump and bang,</l>
+                  <l>To the piston’s thud and the anvil’s clang.</l>
+                  <l>Hurrah! hurrah! for the rumble and rush,</l>
+                  <l>The boiling pools that bubble and gush,</l>
+                  <l>Then upwards burst, and the steam clouds rise</l>
+                  <l>To join their brethren that float in the skies.</l>
+                  <l>Now the fountains play o’er the palace halls,</l>
+                  <l>And the rainbow-arch o’er the portal falls,</l>
+                  <l>Hark to the din! and hark to the roar!</l>
+                  <l>’Tis done, ’tis done; our labour is o’er.”</l>
+               </lg>
+               <p rend="justify">And the children and Red Cap saw the water in the big cauldron begin to bubble at the bottom, and then rise rapidly higher and higher.</p>
+               <p rend="justify">“Run to the hill!” cried Red Cap.</p>
+               <p rend="justify">Hal and Cis needed no second bidding, but ran down the terrace and then climbed up the hill-side as quickly as they could with their bare feet, and from the midst of the bushes watched the big geyser shoot up into the sky with a terrific roar.</p>
+               <p rend="justify">Soon the cauldron overflowed in tossing wavelets that swept downwards from terrace to terrace, filling to overflowing the countless baths on the way, and forming one beautiful sparkling cascade—in many parts blue as the sky overhead—from the top to the lake below, which was itself blue as a summer sky.</p>
+               <p rend="justify">The gnomes, perching on the bushes and flax clumps round, nodded their heads approvingly, and sang:—</p>
+               <lg>
+                  <l>“The cascade falls o’er each marble lip,</l>
+                  <l>Where at night the fairies merrily trip,</l>
+                  <l>As the rippling waters rise and fall,</l>
+                  <l>We join their dance on a gleaming wall,</l>
+                  <l>Or climbing high on the moon’s bright rays,</l>
+                  <l>We sing till the sun on the terrace plays,</l>
+                  <l>Then hide again in our holes and caves,</l>
+                  <l>Where our tired feet the water laves,</l>
+                  <l>And we watch poor mortals come and go,</l>
+                  <l>They see not the fun we have below.</l>
+                  <l>Oh! what tricks we play! They know not why</l>
+                  <l>The geysers gush, and the steam-clouds fly:</l>
+                  <l>As they hear us chuckle and laugh, ha! ha!</l>
+                  <l>They say, ’tis the water’s song, tra la la!</l>
+                  <l>Hurrah! for the fun in our hidden homes,</l>
+                  <l>Hurrah! for the life of the merry gnomes!”</l>
+               </lg>
+               <lg>
+                  <l>“Run to the hill!” cried Red Cap.</l>
+               </lg>
+               <p rend="justify">And down the funny little fellows jumped and rushed laughing into the delicately fringed caves beneath the marble baths.</p>
+               <p rend="justify">“What jolly little boys they are,” said Hal, “and what a good time they seem to be having!”</p>
+               <p rend="justify">“Yes,” replied Red Cap, “they all <hi rend="italic">seem</hi>  happy; but I am sorry to say there are a lot of discontented ones below, and I should not wonder if they strike one day; and if so, the passages will get clogged, and there will be a grand blow up, and I don’t know what will happen to our King and Queen and their beautiful fairy realms,”[19]  and Red Cap heaved a deep sigh. “But we must go now,” added he.</p>
+               <p rend="justify">The children ran down to where they had left their shoes and stockings, and putting them on, followed their guide to the creek.</p>
+               <p rend="justify">There in the reeds, close to the bank, they found a canoe; it had pointed ends, and was hollowed out of a large tree trunk, and the bottom was covered with the small leafy twigs of the manuka.</p>
+               <p rend="justify">“Get in, children,” said Red Cap.</p>
+               <p rend="justify">“There are no seats,” said little Cis.</p>
+               <p rend="justify">“Never mind,” answered Red Cap; “sit quite still on the bottom, and hold tightly to the sides.”</p>
+               <p rend="justify">So Hal helped Cis in carefully, for it seemed as if very little would upset the canoe, and Red Cap, taking up a paddle, pushed out into the stream.</p>
+               <p rend="justify">Then, how quickly they floated along on the rapidly running water; how delightful was the swift motion without any effort, making the children feel giddy as some swift eddy hurried them round the turns of the stream. On, on past the reedy banks, over deep pools and weedy shallows, faster and faster, Red Cap steering here and there with a touch of the paddle.</p>
+               <p rend="justify">At last they came to the end of the rapids, and Red Cap steered the canoe to a little curve in the banks, and Cis and Hal jumped out.</p>
+               <p rend="justify">“It was splendid,” cried Hal, “to come all that way so quickly, without any trouble, wasn’t it, Cis?”</p>
+               <p rend="justify">“Yes,” replied Cis, hesitating a little; “but it rather took my breath away, and I was afraid we might be upset.”</p>
+               <p rend="justify">“Oh! it was safe enough,” said Hal with an air of superior wisdom, “as long as you sat still; but I suppose it is difficult for girls to do that. Where now, Mr. Red Cap?” he added.</p>
+               <p rend="justify">“I must leave you now, children; but here is Santa Claus waiting for you.”</p>
+               <p rend="justify">And there indeed they saw their old friend sitting on a bank.</p>
+               <p rend="justify">The children rushed to him, for they were delighted to see him again; then, turning, they bid Red Cap good-bye, and thanked him heartily for all his kindness to them, Hal adding, “I shall tell other children of the wonderful things you have shown us, Mr. Red Cap, that I shall, for I had often read of fairy-land, but I had never been to it before, and I think it is a jolly place.”</p>
+               <p rend="justify">And with another good-bye, Red Cap vanished from their sight.</p>
+               <p rend="justify">“So you have enjoyed yourselves, children? I am glad of that,” said Santa Claus. “And now, is there anything more you would like to see before you go home?”</p>
+               <p rend="justify">“Yes,” cried Hal, “I <hi rend="italic">should</hi>  like to see some real snow, the snow mother tells us of. Can we, please?”</p>
+               <p rend="justify">Cis added her entreaty to Hal’s, and Santa Claus said he would take them where they could see some.</p>
+               <p rend="justify">The morning had come, but the sun only now and again shone through the gray clouds that floated low.</p>
+               <p rend="justify">“Come,” said Santa Claus; and taking a hand of each, he led them up to where a large, soft cloud rested on the hill-side, and he bade the children sit down with him on it.</p>
+               <p rend="justify">Up, up floated the billowy mass into the sky, and glided away to the south. How smoothly they went along, wafted by the morning breezes! and Cis and Hal, seated on their soft cushions, gazed dreamily down on the country that sped away so quickly beneath them.</p>
+               <p rend="justify">“How small the big mountains look!” cried Hal; “and the towns and villages look like toy ones.”</p>
+               <p rend="justify">And then they passed over big streams, and a wide strait, that looked like a silver streak in the far depths. Away, away they floated; the sky was now clearer, and off the hills, and out of the valleys the mists were rolling, their silvery edges gleaming in the fitful sunlight.</p>
+               <p rend="justify">“Look! we are going over some big ponds now,” said little Cis.</p>
+               <p rend="justify">“Ponds!” exclaimed Santa Claus, “those are large lakes, see how they spread out like sheets of silver water!”</p>
+               <p rend="justify">The cloud was by this time passing over one of the largest lakes, and very beautiful looked the soft shining waters surrounded by mountains, on the tops of which the clouds still rested. Then the cloud floated to the far end of the lake, and glided down a narrow valley in which the milky blue waters of a glacier-stream rushed and roared, though no sound reached the children, who could only see its fighting wavelets.</p>
+               <p rend="justify">On they went, watching the clouds roll from the tree-clad depths and rocky heights, till at last they uttered cries of joy and wonder.</p>
+               <p rend="justify">There, in front of them, the mighty snow-crowned hills pierced the grey clouds, catching the rosy rays of the now rapidly-rising sun. Vast ice-fields stretched far and wide, their rifts blue as the breaks in the sky above, their jagged peaks gleaming with a thousand diamond lights; and how soft and inviting looked the beds of snow in the hollows!</p>
+               <p rend="justify">“The snow! The snow at last!” cried Hal and Cis, as they saw the hills and their gleaming sides and peaks; “oh! do let us get down, Mr. Santa Claus.”</p>
+               <p rend="justify">“Wait,” he replied; and the cloud glided close to a gorge in one of the mountains, where a mighty foaming torrent[20]  rushed down the rocky steeps to the valley beneath, the silver streaks thousands of feet overhead showing where the waters ran out from the glacier fields.</p>
+               <p rend="justify">When the cloud stopped, the children jumped off and rushed to the edge of the waterfall, and, holding on to the trees at the side, were about to stoop down for a drink, when Santa Claus cried out, “Do not try to drink there, children, you will be swept away by the rushing waters. Come with me, and I will show you where you can get a draught of clear still water.”</p>
+               <p rend="justify">Hal and Cis turned reluctantly, and Santa Claus took them where, in a dry water-course, amid big boulders, they saw clusters of the pure white flowers of the mountain-lily,[21]  and their guide, pointing to these, said, “See there, if you are thirsty.”</p>
+               <p rend="justify">“The flowers are very beautiful, Mr. Santa Claus,” said Cis, “but it is <hi rend="italic">water</hi>  we want, and I am <hi rend="italic">so</hi>  thirsty.”</p>
+               <p rend="justify">“Look again,” replied Santa Claus.</p>
+               <p rend="justify">There, below the flowers, were large cup-shaped leaves full of clear cold water; Cis and Hal darted forward to gather them and drink, when the leaves seemed to be shaken as if with the wind, but there was not wind enough for that, and, stooping down, they saw two little fat dwarfs holding the stems and shaking with laughter.</p>
+               <p rend="justify">What ugly little fellows they were! Hal thought at first they were green frogs, for they were dressed in tight-fitting green coats, their big mouths reached from ear to ear, and their hands and feet were webbed.</p>
+               <p rend="justify">“Hulloa!” cried Hal, “who are you?”</p>
+               <p rend="justify">Instead of answering, they only laughed and choked, and choked and laughed.</p>
+               <p rend="justify">“You seem to have got bad colds,” said little Cis.</p>
+               <p rend="justify">“Perhaps, when you have done, you will tell us what you are laughing at?” continued Hal, in aggrieved tones.</p>
+               <p rend="justify">Still they laughed and choked.</p>
+               <p rend="justify">“I wish I were at home; my mother would give you some ipecacuanha wine, for I think you have got the croup,” said little Cis, in a troubled voice.</p>
+               <p rend="justify">At this the dwarfs opened their mouths wider than before, and, at last, in low croaking voices began a duet:—</p>
+               <p rend="justify">“My name it is Gup!”</p>
+               <p rend="justify">“My name it is Joke!”</p>
+               <p rend="justify">“We’ve got such bad colds (together)</p>
+               <p rend="justify">We can only croak.</p>
+               <p rend="justify">“We are both so fat, (together)</p>
+               <p rend="justify">And we can’t tell why,</p>
+               <p rend="justify">Unless it’s because</p>
+               <p rend="justify">We live near the sky.”</p>
+               <p rend="justify">“So close to the clouds</p>
+               <p rend="justify">There’s no need to climb,”</p>
+               <p rend="justify">Said Joke, “so all day</p>
+               <p rend="justify">I sit here and rhyme.</p>
+               <p rend="justify">“I feed upon flies,</p>
+               <p rend="justify">And grumble and grunt,</p>
+               <p rend="justify">Or for nice fat snails</p>
+               <p rend="justify">Al night-time I hunt.”</p>
+               <p rend="justify">“Be quiet,” cried Gup.</p>
+               <p rend="justify">“That I won’t,” said Joke;</p>
+               <p rend="justify">“Your voice is just like</p>
+               <p rend="justify">A pig’s in a poke!”</p>
+               <p rend="justify">“And little care I</p>
+               <p rend="justify">If it is,” said Gup;</p>
+               <p rend="justify">“I’m tired to death</p>
+               <p rend="justify">Of holding this cup.”</p>
+               <p rend="justify">“I like to be fat,</p>
+               <p rend="justify">I hate to drink dew,</p>
+               <p rend="justify">It’s a weak cold draught</p>
+               <p rend="justify">That nourishes few.</p>
+               <p rend="justify">“Great poets, they say,</p>
+               <p rend="justify">Must live near the skies!”</p>
+               <p rend="justify">“That’s me!” cried out Joke;</p>
+               <p rend="justify">“I’m ever so wise!</p>
+               <p rend="justify">“I know no grammar,</p>
+               <p rend="justify">I read no books,</p>
+               <p rend="justify">I have but studied</p>
+               <p rend="justify">Dame Nature’s looks.</p>
+               <p rend="justify">“A poet to gain</p>
+               <p rend="justify">The top of the tree,</p>
+               <p rend="justify">Has to use long words,</p>
+               <p rend="justify">And drone like a bee.”</p>
+               <p rend="justify">So we both make rhymes,</p>
+               <p rend="justify">And chuckle and grin</p>
+               <p rend="justify">At the people who listen,</p>
+               <p rend="justify">And cry, “What a sin</p>
+               <p rend="justify">“‘These two clever boys</p>
+               <p rend="justify">Should not be extolled!’”</p>
+               <p rend="justify">“Stop! stop!” cried out Joke,</p>
+               <p rend="justify">“Where has the grub rolled?”</p>
+               <p rend="justify">“What are you looking for?” asked the children.</p>
+               <p rend="justify">“We are looking for our dinner,” replied the dwarfs, who, during the latter part of their singing, had been hunting under the leaves and down the slippery slope for a big fat grub which they had carefully stowed away for a meal, but which had disappeared.</p>
+               <p rend="justify">“I’d rolled him all up</p>
+               <p rend="justify">just under this cup!”</p>
+               <p rend="justify">With a grunt cried out Gup.</p>
+               <p rend="justify">“Yes! grunt and croak,</p>
+               <p rend="justify">You pig in a poke;</p>
+               <p rend="justify">You’re to blame,” cried Joke.</p>
+               <p rend="justify">“I’ve told you full oft</p>
+               <p rend="justify">Not to gaze up aloft—</p>
+               <p rend="justify">That grub was <hi rend="italic">so</hi>  soft!</p>
+               <p rend="justify">He was such a prize!</p>
+               <p rend="justify">A sight for sore eyes</p>
+               <p rend="justify">When made into pies!”</p>
+               <p rend="justify">And Joke heaved big sighs.</p>
+               <p rend="justify">“Oh, dear! oh, dear!” said little Cis, “pray don’t quarrel over a grub.”</p>
+               <p rend="justify">“Quarrel, indeed!” cried a voice out of the bushes; “they’re always quarrelling!”</p>
+               <p rend="justify">It was a plump Maori hen who thus spoke, and she added, “If they’d leave off making rhymes, and attend to the business of every-day life, it would be far better. While they sat looking up at the skies, the grub rolled down, and I caught him and ate him, for it was a pity he should be wasted. In fact,” added the hen, with a satisfied nod, “as a rule, they find the grubs, and I eat them!”</p>
+               <p rend="justify">At this, the dwarfs got so puffed out with anger, that the children were afraid they would burst, they rolled their eyes round and round, in search of something to throw at the Maori hen, but she ran away into the bushes beyond their reach.</p>
+               <p rend="justify">“I should be glad if you’d give us a drink out of those green cups of yours,” said Hal; “and couldn’t you make some better poetry? if so, we’d like to hear it very much.”</p>
+               <p rend="justify">The dwarfs then handed the children each a mountain-lily leaf full of cool dew, saying:—</p>
+               <lg>
+                  <l>“To you we hold the fairy cup,</l>
+                  <l>And bid you drink of sparkling dew,</l>
+                  <l>The stars have gone, the sun is up,</l>
+                  <l>Soon must we hide from mortal view.</l>
+                  <l>But ere we say good-bye, we bid</l>
+                  <l>Ye upward, ever upward go;</l>
+                  <l>Look to the Star that shines above,</l>
+                  <l>Though oft you cull the flowers below.</l>
+                  <l>’Tis Christmas morn, the Bell-bird’s chimes</l>
+                  <l>Rise from the distant woods; o’er hills</l>
+                  <l>Where rabbits skip, there softly rings</l>
+                  <l>The music of a thousand rills.</l>
+                  <l>A merry Christmas! then we sing;</l>
+                  <l>A merry time for one and all!</l>
+                  <l>Let not the poor pass by your gates,</l>
+                  <l>Let from your hands the good gifts fall.</l>
+                  <l>We merry dwarfs have but one gift,</l>
+                  <l>To thirsty souls we hold it up,</l>
+                  <l>And bid them drink refreshing dew</l>
+                  <l>From out our cool green fairy cup.</l>
+                  <l>But ere we say good-bye we bid</l>
+                  <l>Ye upwards, ever upwards go;</l>
+                  <l>Look to the Star that shines above,</l>
+                  <l>E’en though you cull the flowers below.”</l>
+                  <l>“I wonder if they mean our Star of Love,” said little Cis.</l>
+               </lg>
+               <lg>
+                  <l>“Perhaps so,” said Hal, “though I don’t see it anywhere just now.”</l>
+               </lg>
+               <p rend="justify">Hal stooped down to where the little dwarfs were hiding themselves under the leaves, but somehow they and the big stalks seemed to get all mixed up, and he then could see nothing but the stalks, and began to think he must have dreamt all the rest.</p>
+               <p rend="justify">Just then a Maori hen, with an inquisitive air, came out of the fern, and Hal, seeing it, cried out,—</p>
+               <p rend="justify">“By-the-bye, old thief, where are those buttons of mine you stole?”</p>
+               <p rend="justify">“I don’t know,” replied the hen. Indignant mutterings were uttered by some other hens gathering round:—</p>
+               <p rend="justify">“<hi rend="italic">We</hi>  never stole any buttons, it must have been some country cousin of ours; we never think of stealing anything,” protested the crowd indignantly.</p>
+               <p rend="justify">“Well, you see,” replied Hal, “all your family have got a bad name; but there may be some honest ones amongst you.”</p>
+               <p rend="justify">But the offended hens did not wait to hear more, and scuttled off into the bushes.</p>
+               <p rend="justify">The children, seeing that Santa Claus was beckoning to them to go on, tried to get up the slope quickly; but how slippery the stretches of snow-grass were! they often stumbled, and had to hold on tightly to the silvery tufts to keep from falling backwards into the awful depths. Many a time did Hal help little Cis, for he still had the wand in his hand, and used it as a stick to lean upon.</p>
+               <p rend="justify">“We shall soon get to the snow now,” said Santa Claus, waiting for the children, and pointing above them, where the eternal peaks were shining.</p>
+               <p rend="justify">“What is that?” cried Hal, as he heard a loud thundering, as of a huge mass falling from some great height, waking the echoes far and near.</p>
+               <p rend="justify">“You will know soon,” answered Santa Claus; and helping the children up the last steep ledges, they came in sight of the vast fields of snow and ice.</p>
+               <p rend="justify">Proceeding in single file along the narrow path under his guidance, he at length placed them on a spot whence they could safely watch the avalanches thundering from the heights, down the rugged mountain side to the valley below, and how wonderful it was to see the huge masses of ice falling, sliding, dashing from ledge to ledge! Then from the clear sky above them they heard a voice calling, “Ke-a, ke-a. Come up, come up.”</p>
+               <p rend="justify">Kea.</p>
+               <p rend="justify">“What is that?” asked little Cis, who had not spoken, but, sitting close to Hal, had been watching the wonderful scene.</p>
+               <p rend="justify">“I do not know,” said Hal, “but it looks like a big mountain parrot that I’ve seen pictures of in our new book on New Zealand birds.”</p>
+               <p rend="justify">“Is that what it is, Mr. Santa Claus?”</p>
+               <p rend="justify">“Yes, Hal, and it is a cruel bird,[22]  for it will fasten its claws into the back of any sheep that has wandered away from its companions or is floundering in the snow, and then, digging its sharp beak through the flesh, it feeds upon the fat part it likes best. The poor sheep, driven frantic by the pain, rushes on and on, till it sinks down exhausted to die; and then the Kea, having got the dainty bit it wanted, leaves its prey, and goes off to seek a fresh victim.”</p>
+               <p rend="justify">“How cruel!” said little Cis, her eyes filling with tears.</p>
+               <p rend="justify">“But come, children,” said Santa Claus, “I must take you near the snow,” and he led them to where the snow lay white and pure.</p>
+               <p rend="justify">The children rushed to fill their hands with it, and shouted for joy.</p>
+               <p rend="justify">“How cold it is!” cried Hal.</p>
+               <p rend="justify">“How beautifully white and soft!” said little Cis.</p>
+               <p rend="justify">And the children began to pelt each other, their merry laughter ringing on the clear air.</p>
+               <p rend="justify">“Let’s have a shy at Santa Claus,” whispered Hal to his sister; and, making a big snow-ball, their eyes sparkling with fun, they threw it suddenly at their guide, who was sitting on a rock near by.</p>
+               <p rend="justify">But how astonished they were, when the snow-ball hit him, to see it gradually spread out and cover him.</p>
+               <p rend="justify">“Good-bye, children! Good-bye! good-bye!” said Santa Claus in a low muffled voice; and then, all that was left of their kind guide was a heap of snow.</p>
+               <p rend="justify">“Oh! what have we done!” cried Cis, as she looked round and round for Santa Claus.</p>
+               <p rend="justify">She thought the heap of snow was something like him in shape, but then it was <hi rend="italic">only</hi>  a heap of snow, and poor Cis sat down and cried.</p>
+               <p rend="justify">Hal tried to look brave, but felt inclined to cry too, when he remembered how far they were from home.</p>
+               <p rend="justify">“How shall we get down the mountain? How shall we get back to mother?” moaned Cis, and the tears ran down her cheeks afresh.</p>
+               <p rend="justify">Then from out the snow-heap sprang hundreds of little long-legged sprites, with high pointed ice-caps on their heads, and wearing coats of sparkling snow, the icicle-fringe of which jingled merrily.</p>
+               <p rend="justify">What round, rosy faces they had! What twinkling blue eyes! In their hands they carried frost lances or little crystal spades, which they flourished in the air as they sprang up from the snow, making flashes of light in the sun.</p>
+               <p rend="justify">“Who are you?” cried Hal.</p>
+               <p rend="justify">“Are you the children of Santa Claus?” asked little Cis, “and if so, can you tell us where he has gone, please?”</p>
+               <p rend="justify">“We are his servants,” shouted they, “and he has sent us to help you; for he has started on his journey to the Old World, where the children will soon be looking for him.”</p>
+               <p rend="justify">“Oh! is that where he has gone!” said little Cis with a relieved air, glad to find they had not killed him; “and will you help us to go home? because I think it must be Christmas morning, and mother will be expecting us;” and little Cis thought she could hear the Bell-bird’s chimes, as she had heard it many a time in the early morning.</p>
+               <p rend="justify">“Yes, we will help you,” answered the sprites.</p>
+               <p rend="justify">Just then they heard the bird circling over their heads, again crying, “Ke-a! Ke-a! Come up! come up!” and Hal, helping little Cis, and planting his stick firmly, step by step, in the snow, followed the sprites, who tripped lightly on, looking like points of dancing light.</p>
+               <p rend="justify">At last, after hard climbing, they reached the ice-clad side of the highest peak. How beautiful the prospect in the bright sunlight! The clouds all gone; nothing but the clear blue sky above and around. All was still, save when the avalanches thundered down from the heights. The children stood and watched the huge masses of ice as they slid down, now here, now there from the shining peaks, to fall like powdered snow into the foaming glacier stream in the dim depths below.</p>
+               <p rend="justify">Meanwhile the little sprites were hard at work digging, cutting, shaping a huge block of ice.</p>
+               <p rend="justify">“What are you making?” asked Hal. “Can we help?”</p>
+               <p rend="justify">“Yes, if you like,” said the sprites, and they gave him and Cis two little spades. The children were soon quite hot, working as the sprites bade them, loosening and shaping the huge block of ice; while every now and then they would all stop, and pelt each other with the powdered ice, and the sprites sang:—</p>
+               <lg>
+                  <l>“Pelt us, pelt us, we don’t care,</l>
+                  <l>We love the snow so crisp and fair;</l>
+                  <l>We will shape and we will dig,</l>
+                  <l>Till a chariot white and big</l>
+                  <l>We have cut, for those who’d fain</l>
+                  <l>Hasten to their home again.</l>
+                  <l>Slide and slip, and slip and slide,</l>
+                  <l>Thunderous roll, and mighty crash!</l>
+                  <l>In the chariot come and ride,</l>
+                  <l>Down into the depths to dash.</l>
+                  <l>Mystic trip for those who roam;</l>
+                  <l>One wild rush: Hurrah for home!”</l>
+               </lg>
+               <p rend="justify">Tempting indeed looked the chariot; bright and sparkling were its wheels of ice, and some of the sprites had decked it with starry edelweiss gathered on the slopes below, and with handfuls of the red snow-lichen.</p>
+               <p rend="justify">“Let’s get in, Cis!” cried Hal.</p>
+               <p rend="justify">“Is it quite safe?” asked Cis of the sprites.</p>
+               <p rend="justify">“Quite, quite,” answered they; “Santa Claus told us to make it for you.”</p>
+               <p rend="justify">Taking hold of little Cis, the foremost sprite helped her to get in, and Hal jumped quickly in by her side.</p>
+               <p rend="justify">Throwing down their spades, the laughing sprites rushed to the chariot wheels, ready to push them round, whilst others pelted the children with snow-lichen, shouting at the top of their shrill voices:—</p>
+               <lg>
+                  <l>“Slide and slip, and slip and slide,</l>
+                  <l>Thunderous roll and mighty crash!</l>
+                  <l>In the chariot those who ride,</l>
+                  <l>Down into the depths shall dash.</l>
+                  <l>Mystic trip for those who roam;</l>
+                  <l>One wild rush: Hurrah for home!”</l>
+               </lg>
+               <p rend="justify">Then the wheels began to turn, and Hal threw his arm round Cis, who was holding on to him, and looking with a little white face into the depths below.</p>
+               <p rend="justify">“You must have been dreaming, Hal!”</p>
+               <p rend="justify">But the wheels turned faster and faster, as the chariot dashed down the glassy slope. Hal looked at the sky above, where the Kea was still crying, “Come up! come up!” and he thought he saw the Star of Love shining faint and far; and then—— Hal remembered no more; and, with the words of the sprites ringing in his ears,—</p>
+               <p rend="justify">“Slide and slip, and slip and slide,”</p>
+               <p rend="justify">he—awoke,—to find he had tumbled out of bed, and that it was Christmas morn indeed. And there was little Cis, sitting up in her bed, and there were the stockings with their bulging sides; and Hal rubbed his eyes and wondered if he were awake or dreaming. But he and Cis hastened to dive into their stockings, to see what Santa Claus had put into them, and, what treasures they found!</p>
+               <p rend="justify">For Cis there was a big doll, dressed like an angel, and fairy-like small ones, and beautiful furniture for her doll’s house, and a book with pictures of all kinds of birds and insects.</p>
+               <p rend="justify">And in Hal’s, what treasures for his collection! Rare birds’ eggs in little glass-covered boxes, precious bits of many-coloured ores; and from the Terraces, about which his mother had often told him, were specimens of white encrusted sticks and delicate ferns. How he longed to put them in his cabinet with his other treasures!</p>
+               <p rend="justify">But when Hal talked to Cis about Santa Claus and their night’s travels, she laughed and said,—</p>
+               <p rend="justify">“You must have been dreaming, Hal, or perhaps the treasures in the stockings whispered it all in your ear,” which Hal indignantly denied.</p>
+               <p rend="justify">“For I know it was real,” he said.</p>
+               <p rend="justify">But the Bell-birds were singing their Christmas chime in the bush, and the morning sun was gilding the tree-ferns and the waves, and their mother’s voice was calling, “A happy Christmas, children! a happy Christmas!”</p>
+               <p rend="justify">And whose was that other voice that called out the words too?</p>
+               <p rend="justify">“Father! father!” cried the little ones eagerly, tearfully, as they rushed into the outstretched arms of their mother and <hi rend="italic">father</hi>  too!</p>
+               <p rend="justify">Yes, it was a happy Christmas morn, indeed, for the sea had brought its <hi rend="italic">living</hi>  to their home. And as the children sat that evening in the little low room, their father told them of the shipwreck, of his life on an island with one other, carried like himself to its shores, and of their joy when a passing vessel sighted them and brought them home at last.</p>
+               <p rend="justify">When the Southern Cross again shone down from the sky on the father and mother and happy children, Hal told them his tale of all he had seen the night before.</p>
+               <p rend="justify">Although little Cis declared it was not so, Hal would never believe but that Cis and he had been with Santa Claus to see all the wonders of the Southern Cross Fairy-land.</p>
+               <p rend="justify">FINIS.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>NOTES.</head>
+               <p rend="justify">[1] Bell-bird. Korimako. (<hi rend="italic">Anthornis melanura.</hi>)—A honey eater, the size of a sparrow; plumage dark green. It inhabits the outskirts of the forest. At daybreak the Bell-birds collect together in a favourite tree, especially on the Pohutukawa, or Christmas-tree, so called because it is in blossom at Christmas time, every little branch being then decorated with a tuft of crimson flowers, the cups of which are full of honey. One bird acts as conductor, making a snap with his bill, which is the signal to the others to begin the music, when at once a beautiful sound, like distant chimes, is heard; all the birds listen to the conductor, and stop or begin at his command. During the daytime they do not sing in chorus, but before retiring to rest they again gather together and with sweet music show their joy in life.—A. Reischek, F.L.S.</p>
+               <p rend="justify">[2]  The Cabbage-tree (<hi rend="italic">Cordyline australis</hi>) is a characteristic feature in New Zealand landscapes. It receives its name from the arrangement of its leaves in tufts or heads at the ends of the branches. The tree may reach forty feet in height, and the tufts of stiff and sword-shaped leaves at the ends of the not very numerous branches gives it a peculiarly picturesque appearance. It is a member of the Lily order, and bears in the spring, feathery masses of small, white and sweet-scented flowers.—A. P. W. Thomas, M.A., F.L.S., F.G.S.</p>
+               <p rend="justify">[3]  Kiwi. (<hi rend="italic">Apteryx mantelli.</hi>)—A bird about the size of a common fowl, with a long bill; it cannot fly, as the wings are extremely small and hidden amongst the plumage, being only 2½ inches long. The plumage of the Northern Kiwi is brown, and that of the South Island grey, the feathers are very much like hair, and when walking it steadies itself with its long bill. In summer it inhabits dense and secluded gullies, and in winter the spurs of the forest-covered hills. During the day the Kiwis sleep in burrows, under roots, or in hollow trees. As soon as the sun sets the shrill call of the male, and the croaking answer of the female, is heard, and it is amusing to see these creatures on a moonlight night, coming into the open spaces, and challenging any of their rivals who may dare to intrude into their favourite haunts. The challenge being answered, each bird makes a grunt of defiance, then the two rush together, and the fight begins. They strike forward with their strong legs at each other, and often roll over and over from the hard blows given. They are the most unsociable of all the New Zealand birds.—A. R.</p>
+               <p rend="justify">[4]  Parson-bird. Tui. (<hi rend="italic">Prosthemadera novæ Zealandiæ.</hi>)—A honey bird, the size of a blackbird; plumage black, with steel-blue and green shimmer, and two white tufts of soft curly feathers under its throat, suggestive of white bands, hence the name, Parson-bird. It imitates nearly every bird, and talks to perfection when in captivity and if taught. It alters its note according to the four seasons. In September, when the Kowhai is covered with bright yellow flowers, it is a remarkable sight to see the Tuis climbing among the blossoms, and sucking the honey from them, their dark plumage forming a beautiful contrast to the mass of brilliant golden flowers.—A. R.</p>
+               <p rend="justify">[5]  Pied Fantail. Piwakawaka (<hi rend="italic">Rhipidura flabellifera.</hi>)—A small fly-catcher; plumage greyish brown. While busily engaged catching mosquitos or sand flies, these birds steer with their fan-shaped tails, making fantastic evolutions in the air. When a fantail has spied out with its big black eyes the hiding place of the owl, in the daytime it will call its mates together and show them the spot where their enemy dwells, and then all the birds dart at the owl, and fly round and round, annoying it in every possible manner until they chase it away.—A. R.</p>
+               <p rend="justify">[6]  The little Brown Owl, or Morepork. Ruru. (<hi rend="italic">Athene novæ Zealandiæ.</hi>)—The size and plumage is the same as that of the European Stone Owl. As soon as darkness covers the land, the Moreporks appear silently swooping through the air, or darting suddenly after insects. Woe to any small bird which happens to chirp in its dreams, or to any rat which is taking a walk abroad, they will be sure to be detected by the bright yellow eyes of these nocturnal wanderers. On one occasion I saw one of these owls dart down on a large rat, fly with it high into the air, then let it drop, and, again darting down upon it, it repeated the operation till the rat was dead. The bird then proceeded most systematically to skin its prey, and, after feasting on the flesh, flew to the nearest tree, where it gave a few contented calls of “Morepork,” and then sat like an image, with its piercing eyes gazing on the ground in search of other prey.—A. R.</p>
+               <p rend="justify">[7]  North Island Crow. Kokako. (<hi rend="italic">Glaucopis wilsoni.</hi>)—A bird about the size of a jay; plumage of a slaty-grey. In the North Island it has blue wattles, in the South, orange with blue. This bird inhabits the secluded slopes of mountains, hopping swiftly through the forest, or hiding itself and peering through the boughs. Its note is melodious, and similar to that of a flute, and in the pairing season the male dances up and down on a branch, with his tail and wings out-spread, making at the same time a gurgling noise to attract the female bird’s attention, who sits near by, looking on in quiet admiration.—A. R.</p>
+               <p rend="justify">[8]  The Tuatara (<hi rend="italic">Splenodon punebatum</hi>) is one of the peculiar animals of New Zealand. It is a lizard-like animal, rather less than two feet in length. It was formerly found on the mainland, but is now confined to a few of the outlying islands which are seldom visited. It has no near relative amongst existing lizards, and its nearest allies are certain fossil saurians of a remote geological period (<hi rend="italic">Lianic</hi>). A. P. W. T.</p>
+               <p rend="justify">Vegetable Caterpillar.</p>
+               <p rend="justify">[9]  A caterpillar found in the New Zealand forest, which, when it buries itself in the ground previous to its change into the perfect winged form, is attacked by a kind of fungus.</p>
+               <p rend="justify">The fungus spreads through the substance of the caterpillar, upon which it lives; it then sends up a stem from the neck of its victim, and this stem appears above ground, growing to the length of some eight or ten inches. From its slightly thickened end, spores are shed.</p>
+               <p rend="justify">The caterpillar becomes hard and dry, and its skin being filled with the wood-like substance of the fungus, its natural shape is preserved.—A. P. W. T.</p>
+               <p rend="justify">[10]  Grey Robin. Toutouwai. (<hi rend="italic">Petrœca longipes.</hi>)—A bird very much like the Robin Red-breast. The plumage is grey, with a yellowish-white breast. Robins are very tame birds, and can easily be made pets; they will often come into a tent. When I was camping in the forest, a pair came into my hut, ate off my plate, drank and bathed in my tin mug, sat on my dog’s back, and, when I did not get up by daybreak, actually pulled my beard and sat on my blanket. They often followed me on my expeditions for miles, and were so jealous that they would not let any other robins come near my camp.—A. R.</p>
+               <p rend="justify">Tomtit, or Black Robin. (<hi rend="italic">Petrœca macrocephala.</hi>)—A bird of the size of a titmouse; plumage black, with yellow and white on the breast. On the Little Barrier Island, off the coast of the Auckland province, a pair came to my camp every morning to get a little porridge or a few crumbs. If I did not feed them at once they would come to the entrance of my tent, and whistling, ask for food. One morning, to my delight, they brought a family of three pretty little birds covered with yellow speckles. As soon as I gave them oatmeal they fed their young with it. They stayed with me till I broke up my camp.—A. R.</p>
+               <p rend="justify">[11]  Parrakeet. Kakariki. (<hi rend="italic">Platycercus novæ Zealandiæ.</hi>)—A small green parrot, red on the top of the head. The parakeets climb about in large flocks on the tops of the trees, feeding on seeds and berries. They are most amiable towards each other, chattering the whole day, feeding and kissing.—A. R.</p>
+               <p rend="justify">[12]  Maori Hen. Weka. (<hi rend="italic">Ocydromus earli.</hi>)—A bird rather smaller than a common hen; plumage brown. It is the most inquisitive, cunning, and mischievous of all the New Zealand birds. During the day it hides in burrows or in thick scrub, from which, however, it emerges as soon as it hears any unusual noise; it then hides behind a log, stone, or tree-root, whence it watches all proceedings, calling to its mate with a booming noise. Any small, bright article, such as a knife, watch, or bunch of keys laid aside, the Maori hen will at once pick up and carry off with delight to its hiding place. When near a farm-house, this bird, as soon as it hears a domestic hen cackle, will watch its opportunity to run to the place and carry off the egg she has laid, to eat it at leisure. In the forest the Maori hens watch the birds building their nests in order to steal their eggs. If a young bird or a rat is not sufficiently on the alert, it will be seized at once and devoured, or should a lizard or a grub cross their path, or a fish come too near the shore, they seldom escape the eye of these vigilant birds. When chased by a dog the Maori hen will run into its hole and slip out by another opening, and, screened perhaps by a bush or fern, will watch the dog digging for it.—A. R.</p>
+               <p rend="justify">[13]  White Heron. Kotuku. (<hi rend="italic">Ardea alba.</hi>)—There is a Maori saying, that the Kotuku, or White Heron, is like a great chief, seen only once in a lifetime. These birds inhabit the rivers on the west coast of the South Island, proudly stepping up and down the shore, or standing knee deep in the water, with neck drawn in and head bent downwards to be ready to make a dart should any fish venture too near. In November the White Herons leave the rivers and congregate at one of the old breeding-places on the shores of secluded inland lakes, where they sit about on the crowns of tree-ferns or branches of trees near their nests; if any enemy approaches, the birds begin in chorus a strange croaking noise. It is a beautiful sight to see the long-legged, snow-white creatures sitting amongst the green foliage, the whole picture clearly reflected in the dark still water.—A. R.</p>
+               <p rend="justify">[14]  Wairakei Valley.—K. C.</p>
+               <p rend="justify">[15]  The Eagle’s Nest Geyser.—K. C.</p>
+               <p rend="justify">[16]  The hot-springs and geysers of New Zealand are chiefly found over a broad belt of country stretching from the great volcanic mountains near the centre of the North Island, in a north-easterly direction to the Bay of Plenty. Hot-springs occur in tens of thousands over this area, showing every variety; the water of some is only pleasantly warm, so that they serve as natural baths, others are at a boiling temperature; the geysers are boiling springs which act intermittently, now throwing up a column of water fountain-like into the air, now sinking to rest for a longer or shorter time.—A. P. W. T.</p>
+               <p rend="justify">[17]  Swamp Hen. Pukeko. (<hi rend="italic">Porphyrio melanotus.</hi>)—About the size of a fowl: plumage of a black and blue colour, with a red bill and long red legs. These birds inhabit swamps, or the shallow shores of lakes, where they stalk about with tails erect, their white undercoverts showing out conspicuously from the dark plumage. Where they are often disturbed, a few are always on the watch, whilst others feed, and on the approach of danger the watchers give a note of alarm and all disappear in the swamp. When plentiful near a cultivation they are destructive to crops of grain, as they eat the young shoots.—A. R.</p>
+               <p rend="justify">The Terraces.</p>
+               <p rend="justify">[18]  The White and Pink Terraces were situated on the shores of Lake Rotomahana, a warm lake, as its name indicates (from Roto, lake, and mahana, warm). The lake was surrounded by hills, and it was on the sides of these hills, sloping down to the lake, that the Terraces had been formed. At the top of the White Terrace was a hollow in the hill-side, and in the centre of this was a great geyser. The water rising in the geyser overflowed its basin, and streaming down the sloping ground into the lake, cooled, and deposited a white incrustation of silica. On the opposite side of the lake was a similar terrace, known as the Pink Terrace, which, owing to the presence of a little iron oxide, was of a delicate shade of pink. Thus, in the course of unknown ages had been built up the wonderful Terraces of Rotomahana, structures which for purity of colour and beauty of sculpturing were unrivalled in the world. The White Terrace covered an area of about four acres, the Pink Terrace was a little smaller.</p>
+               <p rend="justify">[19]  The heat of the geysers and hot-springs around Rotomahana was doubtless derived from the volcanic fires which slumbered beneath the Tarawera Mountain, standing at a distance of some miles. This mountain was an old volcano, but its true nature was hardly recognized. On June 10th, 1886, the old volcano awoke to new life, and a violent paroxysmal eruption rent the mountain asunder, the chasm extending beyond its foot and through Rotomahana. The ground around the lake and beneath its waters to the depth of 500 feet was blown into the air, and the beauty of the terraces was lost to the world for ever.—A. P. W. T.</p>
+               <p rend="justify">[20]  Lennox Falls. Mt. Earnslaw.—K. C.</p>
+               <p rend="justify">[21]  The Mountain Lily (<hi rend="italic">Ranunculus Lyallii</hi>) of the South Island is a large and handsome buttercup, perhaps the most beautiful of its kind. Its numerous flowers are four inches across, the petals being of a pure waxy-white; the leaves are very large, round, and somewhat cup-shaped. Its favourite spot is by the side of some mountain stream.—A. P. W. T.</p>
+               <p rend="justify">[22]  The Mountain-parrot. Kea. (<hi rend="italic">Nestor notabilis</hi>)—A dull green parrot which inhabits the alpine mountains of New Zealand. It is found sitting about the rocks and snow-grass, or seen circling high in the air, where one can hear its call, which is like that of the European Stone Eagle. When the sheep died upon the hills or vast runs, the blowflies would deposit their larvæ in the bodies. After a while the Keas hovering over would see the maggots moving, alight on the sheep, and feed upon the insects, getting pieces of fat and meat with them. In this manner the birds found it was an easier way of procuring food than by seeking berries and seeds, or searching for grubs, and so it became a habit for them to attack even living sheep.—A. R.</p>
+               <p rend="justify">PRINTED BY GILBERT AND RIVINGTON, LIMITED, ST JOHN’S HOUSE, CLERKENWELL ROAD, E.C.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
