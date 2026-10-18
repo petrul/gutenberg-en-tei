@@ -1,0 +1,2874 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plantation Echoes: A Collection of Original Negro Dialect Poems</title>
+            <author>Elliott Blaine Henderson</author>
+            <author>E. B. HENDERSON</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T07:05:01Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/h/HendersonElliottBlaine-PlantationEchoes_ACollectionOfOriginalNegroDialectPoems_2021.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Elliott Blaine Henderson</name>
+               <date>2024-01-04T07:05:01Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Plantation Echoes: A Collection of Original Negro Dialect Poems</head>
+         <author>Elliott Blaine Henderson</author>
+         <author>E. B. HENDERSON</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/h/HendersonElliottBlaine-PlantationEchoes_ACollectionOfOriginalNegroDialectPoems_2021.odt</p>
+         <p>Transcriber’s Note: Henderson’s writing captures African American dialect of his time, but the poems contain slang words and racial stereotypes that the modern reader is likely to find offensive.</p>
+         <head>Plantation Echoes</head>
+         <p>A COLLECTION <hi rend="italic">of</hi>  ORIGINAL<lb/>NEGRO DIALECT POEMS</p>
+         <author>
+            <hi rend="italic">By</hi>
+            <lb/>Elliott Blaine Henderson</author>
+         <p>Columbus, Ohio<lb/>PRESS OF F. J. HEER<lb/>1904</p>
+         <p>Entered According to Act of Congress<lb/>in the year 1904</p>
+         <author>BY E. B. HENDERSON</author>
+         <p>In the office of the Librarian of Congress<lb/>at Washington.</p>
+         <pb/>
+         <div type="div1">
+            <head>Dedication</head>
+            <p>THIS BOOK IS RESPECTFULLY<lb/>DEDICATED TO</p>
+            <p>MESSERS.</p>
+            <p>HOWARD BURBA<lb/>L. WALTER HARRISON<lb/>PROF. L. M. LAYTON<lb/>T. J. McCORMICK<lb/>OSMAN C. HOOPER</p>
+            <p>Literary Editor of the Columbus Dispatch,<lb/>Columbus, Ohio.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>INTRODUCTION</head>
+            <p>The music of the American negro, the fresh and spontaneous expression of a good and care-free heart, has long been one of the most pleasing features of American life. It is human nature in its first vocal garb—original and unique, often humorous and always true to the sentiment of the singer. If there ever was an illustration of the close relationship between language and thought, it is this.</p>
+            <p>What is true of the melodies of the negro as developed in the simple existence on the plantation is also true of that other form of singing, verse-making. Among the negroes there have sprung up a number of exponents of the wisdom, wit and humor of the race. They have caught the spirit of others—the humble philosophers of their kind—and they have employed the dialect to reproduce the thought in all its quaintness and originality. One of the most notable of these exponents or interpreters is an Ohio negro, Paul Lawrence Dunbar, who has taken high rank among the poets of the day. Another is Elliott Blaine Henderson, also a son of Ohio, whose first volume of verse is herewith presented.</p>
+            <p>In much that Mr. Henderson here presents, there is the rush of expression and the jingle of words that are so characteristic of the negro. There is also humor and there is sentiment, and always that other quality which makes verse in these days readable—good cheer.</p>
+            <p>He who correctly interprets the spirit of his race serves a good cause, and it is believed that Mr. Henderson will be found to have succeeded in his undertaking to make his people better and more widely understood.</p>
+            <p>E. G. Burkham,<lb/>
+               <hi rend="italic">Editor of the Columbus Dispatch, Columbus, Ohio</hi>.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>CONTENTS /x/</head>
+            <table rend="frame" xml:id="Table1">
+               <row>
+                  <cell>When the Moon Hangs Low</cell>
+                  <cell>9</cell>
+               </row>
+               <row>
+                  <cell>Seems Dey’s No Place</cell>
+                  <cell>10</cell>
+               </row>
+               <row>
+                  <cell>Good Bye, Honey, Good Bye</cell>
+                  <cell>12</cell>
+               </row>
+               <row>
+                  <cell>Whut We Gwine To Do</cell>
+                  <cell>14</cell>
+               </row>
+               <row>
+                  <cell>Kaze I kno’ I Kain’t Stop</cell>
+                  <cell>16</cell>
+               </row>
+               <row>
+                  <cell>Dahky Whut Yo’ Doin?</cell>
+                  <cell>18</cell>
+               </row>
+               <row>
+                  <cell>When De Fiah Am Kindlin’ Hot</cell>
+                  <cell>20</cell>
+               </row>
+               <row>
+                  <cell>Lammentation</cell>
+                  <cell>22</cell>
+               </row>
+               <row>
+                  <cell>When De Summah’s Dun Cum</cell>
+                  <cell>23</cell>
+               </row>
+               <row>
+                  <cell>The Coon’s Serenade</cell>
+                  <cell>24</cell>
+               </row>
+               <row>
+                  <cell>Blissful Anticipations</cell>
+                  <cell>25</cell>
+               </row>
+               <row>
+                  <cell>Pawson Johnson At Dinner</cell>
+                  <cell>27</cell>
+               </row>
+               <row>
+                  <cell>Go ’Way, Mah Honey</cell>
+                  <cell>28</cell>
+               </row>
+               <row>
+                  <cell>Brer Possum Declines</cell>
+                  <cell>30</cell>
+               </row>
+               <row>
+                  <cell>I Hain’t Foolin’ Honey</cell>
+                  <cell>31</cell>
+               </row>
+               <row>
+                  <cell>Sleep—</cell>
+                  <cell>33</cell>
+               </row>
+               <row>
+                  <cell>A Profuse Encomium</cell>
+                  <cell>34</cell>
+               </row>
+               <row>
+                  <cell>Peepin’ Th’ew De Husk</cell>
+                  <cell>35</cell>
+               </row>
+               <row>
+                  <cell>Axin’ Coon Cum Obeah</cell>
+                  <cell>38</cell>
+               </row>
+               <row>
+                  <cell>Hustle—</cell>
+                  <cell>38</cell>
+               </row>
+               <row>
+                  <cell>Go Sleep</cell>
+                  <cell>40</cell>
+               </row>
+               <row>
+                  <cell>Kase De Sun Am Sinkin’</cell>
+                  <cell>41</cell>
+               </row>
+               <row>
+                  <cell>Soft Falls The Night</cell>
+                  <cell>43</cell>
+               </row>
+               <row>
+                  <cell>Git On Board, Chillun</cell>
+                  <cell>44</cell>
+               </row>
+               <row>
+                  <cell>Uncle Ned An’ De Mockin’ Bird</cell>
+                  <cell>46</cell>
+               </row>
+               <row>
+                  <cell>Po’ Li’l’ Rastus</cell>
+                  <cell>48</cell>
+               </row>
+               <row>
+                  <cell>Sambo’s Rain Philosophy</cell>
+                  <cell>50</cell>
+               </row>
+               <row>
+                  <cell>Jes’ Keep Er Lookin’ Up</cell>
+                  <cell>51</cell>
+               </row>
+               <row>
+                  <cell>Wished I’d Rode Mah Hoss</cell>
+                  <cell>53</cell>
+               </row>
+               <row>
+                  <cell>Eggs! Eggs!! Eggs!!!</cell>
+                  <cell>54</cell>
+               </row>
+               <row>
+                  <cell>It Am De Possum Time</cell>
+                  <cell>55</cell>
+               </row>
+               <row>
+                  <cell>Stick To Your Race</cell>
+                  <cell>57</cell>
+               </row>
+               <row>
+                  <cell>Memorial Day</cell>
+                  <cell>58</cell>
+               </row>
+               <row>
+                  <cell>Trussy’s Visit</cell>
+                  <cell>60</cell>
+               </row>
+               <row>
+                  <cell>Is Yo’ Lonesum, Honey?</cell>
+                  <cell>64</cell>
+               </row>
+               <row>
+                  <cell>Larn To He’p Yo’se’f</cell>
+                  <cell>64</cell>
+               </row>
+               <row>
+                  <cell>Courtin’ O’ De Phone</cell>
+                  <cell>66</cell>
+               </row>
+               <row>
+                  <cell>Lonesum Valley Christmas Tree</cell>
+                  <cell>68</cell>
+               </row>
+               <row>
+                  <cell>Yes, Wees Got Er Flag</cell>
+                  <cell>72</cell>
+               </row>
+               <row>
+                  <cell>Hi, Mistah Dahky</cell>
+                  <cell>75</cell>
+               </row>
+               <row>
+                  <cell>Dey’s Er Col’ Wave Breshin’ Nigh</cell>
+                  <cell>77</cell>
+               </row>
+               <row>
+                  <cell>Force Of Words</cell>
+                  <cell>79</cell>
+               </row>
+               <row>
+                  <cell>I Tol’ Yo’ So</cell>
+                  <cell>80</cell>
+               </row>
+               <row>
+                  <cell>The Passing Of Night</cell>
+                  <cell>82</cell>
+               </row>
+               <row>
+                  <cell>A Tale O’ Woe</cell>
+                  <cell>83</cell>
+               </row>
+               <row>
+                  <cell>Lullaby</cell>
+                  <cell>84</cell>
+               </row>
+               <row>
+                  <cell>The Exstacy of Uncle Joe</cell>
+                  <cell>85</cell>
+               </row>
+               <row>
+                  <cell>Keep Er Goin’</cell>
+                  <cell>87</cell>
+               </row>
+               <row>
+                  <cell>Climin’ Up De Hill</cell>
+                  <cell>88</cell>
+               </row>
+               <row>
+                  <cell>Sistah Ruffle</cell>
+                  <cell>90</cell>
+               </row>
+               <row>
+                  <cell>The Gallant Blacks of San Juan Hill</cell>
+                  <cell>93</cell>
+               </row>
+            </table>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Plantation Echoes: A Collection of Original Negro Dialect Poems</head>
+            <pb/>
+            <div type="div2">
+               <head>WHEN THE MOON HANGS LOW.</head>
+               <p rend="justify">A straying chicken</p>
+               <p rend="justify">Lost from home</p>
+               <p rend="justify">Bewildered, finds</p>
+               <p rend="justify">Itself a-roam.</p>
+               <p rend="justify">And innocently</p>
+               <p rend="justify">Stalks the ground,</p>
+               <p rend="justify">Not dreaming</p>
+               <p rend="justify">That a coon’s around.</p>
+               <p rend="justify">As evening’s shadows</p>
+               <p rend="justify">Gently fall,</p>
+               <p rend="justify">The chicken, lonesome,</p>
+               <p rend="justify">Gives a call.</p>
+               <p rend="justify">A coon steals out</p>
+               <p rend="justify">Soft in the night,</p>
+               <p rend="justify">To catch him</p>
+               <p rend="justify">For his appetite.</p>
+               <p rend="justify">The night is still!</p>
+               <p rend="justify">The moon is low!</p>
+               <p rend="justify">Not e’en a zephyr</p>
+               <p rend="justify">Seems to blow.</p>
+               <p rend="justify">The coon with sack</p>
+               <p rend="justify">Clutched in his hand,</p>
+               <p rend="justify">Moves silently</p>
+               <p rend="justify">Across the land.</p>
+               <p rend="justify">The chicken gives</p>
+               <p rend="justify">Another squawk!</p>
+               <p rend="justify">The coon has got her</p>
+               <p rend="justify">Like a hawk.</p>
+               <p rend="justify">The moon now breaks</p>
+               <p rend="justify">Forth into light,</p>
+               <p rend="justify">The coon and chicken’s</p>
+               <p rend="justify">Out of sight.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SEEMS DEY’S NO PLACE.</head>
+               <lg>
+                  <l>Well er coon kin go to kollege</l>
+                  <l>Git his head chucked full o’ knowledge,</l>
+                  <l>Till he knows ez much ez Solomon de wise.</l>
+                  <l>He kin study an’ summize,</l>
+                  <l>Count de stars up in de skies,</l>
+                  <l>Seems dey’s no place</l>
+                  <l>Fo’ de eddeekayted coon.</l>
+                  <l>Tawk erbout yo’ eddeekayshun</l>
+                  <l>Gittin’ in de cullahd nayshun,</l>
+                  <l>Gittin’ “lighten” in de head an’ sich ez dat,</l>
+                  <l>Yo’ kin larn sah, till yo’ hat</l>
+                  <l>On yo’ head woan’ fit exzac’,</l>
+                  <l>Seems dey’s no place</l>
+                  <l>Fo’ de eddeekayted coon.</l>
+                  <l>Eddeekayshun am all right</l>
+                  <l>Ef er coon kin git er sight</l>
+                  <l>’Stead o’ makin’ bread an’ buttah by de hoe,</l>
+                  <l>He kood entah any do’</l>
+               </lg>
+               <lg>
+                  <l>Whah he’s qualified to go.</l>
+                  <l>Seems dey’s no place</l>
+                  <l>Fo’ de eddeekayted coon.</l>
+                  <l>He doan’ allus want to hoe,</l>
+                  <l>He wood like er little sho,</l>
+                  <l>Fo’ to git er little sweetness out o’ life;</l>
+                  <l>He has had er worl’ o’ strife,</l>
+                  <l>Allus struck by trouble’s knife.</l>
+                  <l>Seems dey’s no place</l>
+                  <l>Fo’ de eddeekayted coon.</l>
+                  <l>All de coons kin cut dey pranks</l>
+                  <l>Fo’ to git into de banks,</l>
+                  <l>Wid de white fo’ks fo’ to handle wid dey cash</l>
+                  <l>Dat wood sorter spile de hash,</l>
+                  <l>Make er fraycus an’ er clash.</l>
+                  <l>Seems dey’s no place</l>
+                  <l>Fo’ de eddeekayted coon.</l>
+                  <l>All de coons kin go to Yale,</l>
+                  <l>Larn Greek, Latin, by de bale,</l>
+                  <l>Larn to numbah all de hyahs up in dey head;</l>
+                  <l>Dey may read dis thing wid dread,</l>
+                  <l>Nufin’ else kin dey be said.</l>
+                  <l>Seems dey’s no place</l>
+                  <l>Fo’ de eddeekayted coon.</l>
+                  <l>Ez I saunter ’roun’ de town,</l>
+                  <l>An’ I skim mah eyes eroun’,</l>
+                  <l>Whah de white fo’ks am in business ebbry where,</l>
+                  <l>Yo’ kain’t find er coon in dare</l>
+               </lg>
+               <lg>
+                  <l>Wid de white fo’ks sellin’ ware.</l>
+                  <l>Seems dey’s no place</l>
+                  <l>Fo’ de eddeekayted coon.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>GOOD BYE, HONEY—GOOD BYE.</head>
+               <lg>
+                  <l>Gwine to leeb dis dear ol’ place,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>Time’s er flyin’, I mus’ make has’e,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>Hate to go, but I kain’t say no,</l>
+                  <l>It gives mah hea’t er pang o’ woe,</l>
+                  <l>Yo’ all’s mah fren’, not one’s mah foe,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>Sistah Jane, an’ uncle Joe?</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>I hope we’ll see us all sum mo’,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>We’s gittin’ ol’, we’s gittin’ gray,</l>
+                  <l>Ah days am dun’ fo’ makin’ hay,</l>
+                  <l>Ah steps cum slo’ we’s wastin’ ’way,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>We’s had good times on dis ol’ place,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>We’s frollic’d in de possum chase,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>We’s picked de cotton, hoed de co’n,</l>
+                  <l>We’s picked de berries spite o’ thorns,</l>
+                  <l>We’s wocked at night, we’s wocked at morn,</l>
+                  <l>Good bye, honey; good bye!</l>
+               </lg>
+               <lg>
+                  <l>Hain’t dat Miss Linndy, obeah dah?</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>Sho’ it am; well, I declah!</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>Cum an’ shake de ol’ man’s han’,</l>
+                  <l>Gwine to leeb ol’ massa’s lan’</l>
+                  <l>’Deed, Miss Linndy, yo’ look gran’,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>Rastus? little Rastus, chile,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>Look ee dah, jes’ see him smile,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>Jes’ ez natshul ez his paw,</l>
+                  <l>De bes’ chile dat I ebbah saw,</l>
+                  <l>Got de mannahs ub his maw,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>Whah is Massa, is he ’roun’?</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>’Pears’ I koch his footstep soun’,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>I ’fess it’s hard to leeb him now,</l>
+                  <l>To say good bye, I doan’ kno’ how,</l>
+                  <l>I’ll shake his han’, jes’ make er bow,</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>Mockin’ bird up in de tree?</l>
+                  <l>Good bye, honey; good bye!</l>
+                  <l>Yo’s sung er manny day to me.</l>
+                  <l>Good bye, honey; good bye!</l>
+               </lg>
+               <lg>
+                  <l>Er manny day dis hea’t o’ mine</l>
+                  <l>Yo’s cheered it wid yo’ song divine,</l>
+                  <l>An’ made de sunlight brighter shine,</l>
+                  <l>Good bye, honey; good bye!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>WHAT WE GWINE TO DO?</head>
+               <lg>
+                  <l>Well, de way de thing am lookin’</l>
+                  <l>To ol’ Hezzeekyah Yoon,</l>
+                  <l>Dis kentry’s gittin’ wussah</l>
+                  <l>Fo’ de po’ and he’pless coon.</l>
+                  <l>Dey lynch him on de lef’,</l>
+                  <l>An’ dey lynch him on de right,</l>
+                  <l>Dey cum an’ git er niggah</l>
+                  <l>In de day an’ in de night.</l>
+                  <l>Whut we gwine to do?</l>
+                  <l>Hain’t dey no whah in de lan’?</l>
+                  <l>Hain’t dey fo’ de niggah</l>
+                  <l>Not er kin’ an’ he’pin’ han’?</l>
+                  <l>Oh de niggah’s got er moighty</l>
+                  <l>Tuff an’ thorny road to tread—</l>
+                  <l>Dey’s bullets, clubs an’ razzahs</l>
+                  <l>Allus flyin’ at his head.</l>
+                  <l>It’s er mer’kul all de niggahs</l>
+                  <l>Haben’ suffer’d dat same fate.</l>
+                  <l>De string up to de lamp-pos’</l>
+                  <l>An’ de string up to de gate.</l>
+               </lg>
+               <lg>
+                  <l>When de signul’s gibbun</l>
+                  <l>Fo’ to rally ’roun’ de flag,</l>
+                  <l>Nebbah fo’ er minute</l>
+                  <l>Am er niggah seed to lagg.</l>
+                  <l>De niggah hain’t rebelyus</l>
+                  <l>Though he doan’ git all things jus’;</l>
+                  <l>He’s loyal to his kentry,</l>
+                  <l>Nebbah habs betrayed his trus’.</l>
+                  <l>He allus takes de bitters</l>
+                  <l>’Zactly lak he does de sweet,</l>
+                  <l>He goes right on light hea’ted,</l>
+                  <l>Wid er tew step to his feet.</l>
+                  <l>Whut we gwine to do?</l>
+                  <l>Hain’t dey no whah in de lan’?</l>
+                  <l>Hain’t dey fo’ de niggah</l>
+                  <l>Not er kin’ an’ he’pin’ han’?</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>KAZE I KNO’ I KAIN’T STOP.</head>
+               <lg>
+                  <l>Summah breezes blowin’,</l>
+                  <l>An’ de sun am roas’in’ hot!</l>
+                  <l>Jes’ right am de meadows</l>
+                  <l>Fo’ to take ’em fo’ er cot!</l>
+                  <l>Grasses sof’ an’ downy,</l>
+                  <l>Am jes’ like er feddah bed!</l>
+                  <l>Hain’t er spot dat am mo’ ’vitin’</l>
+                  <l>Fo’ er niggah lay his head!</l>
+               </lg>
+               <lg>
+                  <l>Ah tell yo’ whut’s de mattah,</l>
+                  <l>Sah, de feebah’s mountain high.</l>
+                  <l>When ah ’fleck ub ah kun’dishyun</l>
+                  <l>Makes dis niggah sot an’ cry.</l>
+                  <l>To hyeah de fo’ks er tawkin’</l>
+                  <l>How de niggah’s got to fare,</l>
+                  <l>Dey mob, dey burn an’ lynch him,</l>
+                  <l>An’ dey skin him lak er hare.</l>
+                  <l>It’s true dey’s lots er niggahs</l>
+                  <l>Dat am wurfluss to de co’,</l>
+                  <l>De debbul wooden’ hab ’em</l>
+                  <l>Even inside ub his do’.</l>
+                  <l>But de Lawd in heaven knows</l>
+                  <l>Dat all de niggahs hain’t dat way,</l>
+                  <l>Dey’s lots dat’s good an’ hones’</l>
+                  <l>An’ dey nebbah goes estray.</l>
+                  <l>De niggah hain’t to blame—</l>
+                  <l>To cum hyeah he diden’ kyeah.</l>
+                  <l>De white fo’ks, why dey made him,</l>
+                  <l>Why dey fotch’d him obeah hyeah.</l>
+                  <l>An’ now to knock his head off</l>
+                  <l>Kaze he’s tryin’ to git erlong,</l>
+                  <l>Accawdin’ to my Bible,</l>
+                  <l>Why de whole thing ub it’s wrong.</l>
+                  <l>De niggah loves dis kentry—</l>
+                  <l>Ebbry time he’ll put up fight.</l>
+                  <l>Fo’ it wheddah it am</l>
+                  <l>In de wrong ah in de right.</l>
+               </lg>
+               <lg>
+                  <l>But er niggah, kain’t stop!</l>
+                  <l>Mus’ keep hoein’ at de crop!</l>
+                  <l>Out de weeds mus’ keep er pullin’</l>
+                  <l>Till he’s ready, mos’ to drop!</l>
+                  <l>White man take it easy,</l>
+                  <l>Am er livin’ lak er king!</l>
+                  <l>Free ez am de buzzahd,</l>
+                  <l>Doesn’t hab to do er thing!</l>
+                  <l>Niggah’d lak to togg up</l>
+                  <l>In his Sunday meetin’ dress,</l>
+                  <l>An’ jes’ lak de white man,</l>
+                  <l>Sot, an’ lay back, take his res’.</l>
+                  <l>But er niggah, kain’t stop!</l>
+                  <l>Mus’ keep hoein’ at de crop!</l>
+                  <l>Out de weeds mus’ keep er pullin’</l>
+                  <l>Till he’s ready, mos’ to drop!</l>
+                  <l>Sumtimes git to ’fleckin’</l>
+                  <l>Scratch dis head whah it doan’ itch!</l>
+                  <l>Axin’ why de Lawd, sah,</l>
+                  <l>Diden’ make dis niggah rich!</l>
+                  <l>But dey hain’t no use to kick,</l>
+                  <l>But jes’ keep er josslin’ ’long.</l>
+                  <l>Now an’ den I keeps er whis’lin’</l>
+                  <l>An’ er hummin’ at mah song.</l>
+                  <l>Kaze I kno’ I kain’t stop!</l>
+                  <l>Mus’ keep hoein’ out de crop!</l>
+                  <l>Out de weeds mus’ keep er pullin’</l>
+                  <l>Till Ise’s ready, mos’ to drop!</l>
+               </lg>
+               <lg>
+                  <l>Now an’ den I sortah</l>
+                  <l>Git er ticklin’ in mah heel!</l>
+                  <l>Fo’ to go to dancin’</l>
+                  <l>At de ol’ Verginny reel!</l>
+                  <l>Soople ez a skeedah!</l>
+                  <l>Dance de jig fum night till morn,</l>
+                  <l>Nebbah stop er minute, bruddah,</l>
+                  <l>Fo’ an’ ache er fo’ er co’n!</l>
+                  <l>But er niggah, kain’t stop!</l>
+                  <l>Mus’ keep hoein’ at de crop!</l>
+                  <l>Out de weeds mus’ keep er pullin’</l>
+                  <l>Till he’s ready, mos’ to drop!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>DAHKY, WHUT YO’ DUN?</head>
+               <lg>
+                  <l>Oh, but how er dollah</l>
+                  <l>Is er moighty fren’,</l>
+                  <l>In de dead o’ wintah,</l>
+                  <l>Ef yo’ idle den.</l>
+                  <l>Winds dey may be howlin’,</l>
+                  <l>Whizzin’ th’ew de trees!</l>
+                  <l>Needen’ worry, dahky,</l>
+                  <l>Yo’ hain’ gwine to freez!</l>
+                  <l>Summah is er flyin’,</l>
+                  <l>Breezes gittin’ cool!</l>
+                  <l>Beddah be er layin’</l>
+                  <l>In yo’ wintah fuel!</l>
+               </lg>
+               <lg>
+                  <l>Leaves begin to fallin’,</l>
+                  <l>Harvestin’ is dun,</l>
+                  <l>Birds am now er troopin’</l>
+                  <l>Soufward wid de sun.</l>
+                  <l>Hoein’ time is obeah,</l>
+                  <l>Dahky take yo’ res’!</l>
+                  <l>Th’ow off wockin’ hahness,</l>
+                  <l>Don yo’ Sunday bes’!</l>
+                  <l>Fiddles an’ de banjos—</l>
+                  <l>Git ’em all in tune,</l>
+                  <l>’Nipulate de ditties</l>
+                  <l>Gibbs de soul er boon!</l>
+                  <l>In de spring an’ summah,</l>
+                  <l>Dahky whut yo’ dun?</l>
+                  <l>Ridin’ on de skershuns,</l>
+                  <l>Habin’ lots o’ fun?</l>
+                  <l>Dancin’ wid de ladies,</l>
+                  <l>Spen’in’ all yo’ got?</l>
+                  <l>Thinkin’ kaze it’s summah,</l>
+                  <l>’Twill be allus hot?</l>
+                  <l>Yo’ de kine cum</l>
+                  <l>Knockin’ on de cabin do’,</l>
+                  <l>Fo’ to get er sistance,</l>
+                  <l>Tell ’er tale o’ wo’.</l>
+                  <l>Den’s de time to sho’ yo’</l>
+                  <l>We’s no easy thing,</l>
+                  <l>’Videin’ fo’ yo’ stummucks</l>
+                  <l>Wid ah hoe earnin’.</l>
+               </lg>
+               <lg>
+                  <l>Whut yo’ needs er lesson</l>
+                  <l>In de ’speerence school.</l>
+                  <l>Git de realizayshun</l>
+                  <l>Whah yo’ bin er fool.</l>
+                  <l>Den yo’ll git de idea,</l>
+                  <l>Dollah is yo’ fren’,</l>
+                  <l>Larn to be mo’ kyahful</l>
+                  <l>How yo’ money spen’.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>WHEN DE FIAH AM KINDLIN’ HOT.</head>
+               <lg>
+                  <l>When de sno’ it am er fallin,’</l>
+                  <l>Winds er whizzin’ down de lanes,</l>
+                  <l>An’ de fros’ it am er freezin’</l>
+                  <l>Fo’ yo’ eyes erpun de panes,</l>
+                  <l>Whut am beddah den er neslin’</l>
+                  <l>’Roun’ er fiah dat’s roas’in’ hot?</l>
+                  <l>Fo’ er pickahninny dahky</l>
+                  <l>Hain’t er mo’ enchantin’ spot.</l>
+                  <l>When de breezes am er moanin’</l>
+                  <l>An’ de sun am sinkin’ lo’,</l>
+                  <l>An’ de gloomy clouds an’ shaddahs</l>
+                  <l>Geddah ’roun’ erbout yo’ do’;</l>
+                  <l>When yo’ hyeah de co’n er poppin’,</l>
+                  <l>See de cidah all er foam,</l>
+                  <l>In yo’ soul de joy an’ gladness</l>
+                  <l>Seems eroun’ erbout to roam.</l>
+               </lg>
+               <lg>
+                  <l>An’ yo’ granny am er hummin’,</l>
+                  <l>Cat er purrin’ on de rug,</l>
+                  <l>An’ yo’ git er sniff de burbun</l>
+                  <l>Dat am steamin’ fum de jug—</l>
+                  <l>Umph! de berry ’maggahnayshun</l>
+                  <l>Makes er puson think it’s real.</l>
+                  <l>It am glory! Hesh yo’ mouf, sah,</l>
+                  <l>Doan’ yo’ ax me how yo’ feel.</l>
+                  <l>All yo’ troubles an’ yo’ burdens</l>
+                  <l>Seems to take de swif’es flight!</l>
+                  <l>’Pears yo’ berry soul am lif’ed</l>
+                  <l>To de blissful mountain heights!</l>
+                  <l>Whah de lan’s erflo’ wid honey,</l>
+                  <l>Streets an’ alleys paved wid gol’,</l>
+                  <l>An’ de simphonnies o’ heaben’s</l>
+                  <l>Got er sweetnes’ kaint be tol’.</l>
+                  <l>Yo’ kin sing de song o’ Moses,</l>
+                  <l>Shout yo’se’f clah to de sky!</l>
+                  <l>Pickahninny’s den in cloveah,</l>
+                  <l>No time den to weep an’ sigh.</l>
+                  <l>Let de sno’ keep on er fallin’,</l>
+                  <l>Let de breezes whizz an’ moan,</l>
+                  <l>Longs er pickahninny’s neslin’</l>
+                  <l>’Roun’ er hot fiah ub his own.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LAMENTATION.</head>
+               <lg>
+                  <l>When de rent cums due</l>
+                  <l>An’ yo’ haben got er dollah,</l>
+                  <l>An’ yo’ hab to hunt</l>
+                  <l>Fo’ er nuddah place to wollah,</l>
+                  <l>De wintah’s dun cum,</l>
+                  <l>An’ de coal pile’s sinkin’,</l>
+                  <l>Dey’s nufin’ in de cupboard</l>
+                  <l>An’ yo’ stummuck am er tinkin’,</l>
+                  <l>How yo’ head wool geddahs!</l>
+                  <l>How yo’ hunt an’ scratch!</l>
+                  <l>Fo’ to skibbah up er dollah</l>
+                  <l>Beats de ol’ Sam Patch!</l>
+                  <l>When yo’ sot an’ ’fleck,</l>
+                  <l>Seems befo’ yo’ keeps er bobbin’</l>
+                  <l>De possum an’ de coon,</l>
+                  <l>An’ de peach an’ apple cobblin’.</l>
+                  <l>Yo’ dream bout summah,</l>
+                  <l>Wid de joocy wattah millun,</l>
+                  <l>Dat yo’ sotin’ in de middle</l>
+                  <l>An’ yo’ stummuck jes’ er fillin’,</l>
+                  <l>How yo’ mouf does wattah!</l>
+                  <l>How yo’ stummuck jes’ jump!</l>
+                  <l>An’ yo’ eyes am all er twinkle</l>
+                  <l>An’ yo’ hump! hump! hump!</l>
+                  <l>When de night cums on</l>
+                  <l>An’ dey hain’t er nuf de kibbah,</l>
+               </lg>
+               <lg>
+                  <l>While yo’ bunk an’ snooz</l>
+                  <l>Fo’ to keep yo’ fum de shibbah,</l>
+                  <l>De coal’s dun sinkin’</l>
+                  <l>Till it am no mo’,</l>
+                  <l>De weddah am at zero,</l>
+                  <l>De worl am kibbahd in de sno’,</l>
+                  <l>How yo’ head wool geddahs!</l>
+                  <l>How yo’ hunt an’ scratch</l>
+                  <l>Fo’ to skibbah up er dollah</l>
+                  <l>Beats de ol’ Sam Patch!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>WHEN DE SUMMAH’S DUN CUM.</head>
+               <lg>
+                  <l>When de wintah’s dun gone</l>
+                  <l>An’ de summah’s dun cum,</l>
+                  <l>An’ de birds begin dey wahble</l>
+                  <l>An’ de bees begin dey hum,</l>
+                  <l>An’ de hills, de fields, de meadows</l>
+                  <l>Wid de verdure all am green,</l>
+                  <l>An’ de heaben’s panorama</l>
+                  <l>Am er mos’ enchantin’ scene,</l>
+                  <l>Den er niggah kin sing!</l>
+                  <l>Den er niggah kin hum!</l>
+                  <l>Kaze de wintah’s dun gone,</l>
+                  <l>An’ de summah’s dun cum!</l>
+                  <l>When de vines am climin’,</l>
+                  <l>Spreadin’ beauty on de run,</l>
+                  <l>An’ de cullahs o’ de lan’scape</l>
+                  <l>An’ de sky dey blen’ ez one,</l>
+               </lg>
+               <lg>
+                  <l>An’ de flowahs ez dey’s buddin’</l>
+                  <l>An’ er blossom’ an’ er bloom,</l>
+                  <l>An’ de breezes fan dey petals</l>
+                  <l>Koch dey sweetes’ smellin’ ’fume,</l>
+                  <l>How yo’ soul inspahs!</l>
+                  <l>How yo’ hea’t does tickle!</l>
+                  <l>Den er niggah am happy</l>
+                  <l>Ef he haben’ got er nickel!</l>
+                  <l>When de craps am wavin’</l>
+                  <l>An’ de tassel’s on de co’n,</l>
+                  <l>An’ de apples am er drapin’</l>
+                  <l>An’ de sweepahtayters born,</l>
+                  <l>An’ de cabbage am er headin’,</l>
+                  <l>Swellin’ lak dey got de mumps,</l>
+                  <l>An’ de passnups am er peepin’</l>
+                  <l>Winkin’ at yo’ hine de stumps,</l>
+                  <l>How er niggah kin whis’le!</l>
+                  <l>How his soul does ’joice!</l>
+                  <l>’Kaze it’s time fo’ de millun</l>
+                  <l>An’ it’s time fo’ de squash!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE COON’S SERENADE.</head>
+               <lg>
+                  <l>In de lonesum ub de night</l>
+                  <l>When de moon’s er shinin’ bright,</l>
+                  <l>Coon er sotin’ on er stump</l>
+                  <l>Picks de banjo, plinkertee plump!</l>
+               </lg>
+               <lg>
+                  <l>Sof’ly floats de mournful ’frain</l>
+                  <l>’Cross de dewy, grassy main—</l>
+                  <l>Plinktee! plinktee! plinkertee plump!</l>
+                  <l>Picks de coon erpun de stump!</l>
+                  <l>Ebbry win’ an’ ebbry breeze,</l>
+                  <l>Ebbry twig erpun de trees,</l>
+                  <l>Echoes wid de plinkertee plump!</l>
+                  <l>Ub de coon erpun de stump!</l>
+                  <l>Plinktee! plinktee! plinkertee plump!</l>
+                  <l>Picks de coon erpun de stump!</l>
+                  <l>Ez de night glides slo’ly on,</l>
+                  <l>An’ de moon slips down fo’ dawn,</l>
+                  <l>An’ de veil draps fum de skies,</l>
+                  <l>An’ de worl’ opens its eyes,</l>
+                  <l>Dies erway de plinkertee plump!</l>
+                  <l>Ub de coon erpun de stump!</l>
+                  <l>Plinktee! plinktee! plinkertee plump!</l>
+                  <l>Stops de coon erpun de stump</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BLISSFUL ANTICIPATIONS.</head>
+               <lg>
+                  <l>Jes’ gimme summah all de time,</l>
+                  <l>An’ lemme take it easy.</l>
+                  <l>Jes’ lay back in de cloveah beds</l>
+                  <l>An’ dream whah it am breezy.</l>
+                  <l>I doan kyeah fo’ no robe ner crown</l>
+                  <l>Ez long ez I kin wollah ’roun’</l>
+                  <l>An’ nebbah hab to hoe de grown’.</l>
+                  <l>Ha! ha! yo’ thinks Ise lazy!</l>
+               </lg>
+               <lg>
+                  <l>I’d spawk an’ court Miss Lissy Jane—</l>
+                  <l>Umph! but I’d cut er spluttah!</l>
+                  <l>I’d tell her dis, I’d tell her dat,</l>
+                  <l>Fus’ one thing den er nuddah.</l>
+                  <l>We’d ramble whah de wild flow’rs bloom</l>
+                  <l>Dat fill de air wid sweet scent ’fume</l>
+                  <l>Whah dey’s no clouds an’ dey’s no gloom!</l>
+                  <l>We’d sot de worl’ to fiuttah!</l>
+                  <l>I’d git mah banjo fum de wall</l>
+                  <l>An’ now an’ den go plinkin’!</l>
+                  <l>I’d make de dahky’s heels jes’ itch</l>
+                  <l>To dance ez fas’ es winkin’!</l>
+                  <l>I’d make her sing, I’d make her moan,</l>
+                  <l>I’d sen’ er tone to Gabriel’s throne,</l>
+                  <l>I’d play dem tricks befo’ unknown,</l>
+                  <l>I’d sot de fo’ks to thinkin’!</l>
+                  <l>I kno’ yo’ thinks dis dahky slo’</l>
+                  <l>An’ tawkin’ jes’ fo’ blowin’!</l>
+                  <l>An’ buildin’ castles in de air,</l>
+                  <l>An’ debbilment er sowin’.</l>
+                  <l>It’s jes, prezaxly lak I say,</l>
+                  <l>Jes’ shows Ise ol’ an’ shows Ise gray.</l>
+                  <l>Befo’ de Lawd! it’s almos’ day!</l>
+                  <l>To bed! de chicken’s crowin’!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PAWSON JOHNSON AT DINNER.</head>
+               <lg>
+                  <l>He’p you’se’f, mah bruddah,</l>
+                  <l>Jes’ make yo’se’f at home!</l>
+                  <l>’Kaze yo’ am no stranger</l>
+                  <l>To Siss Wiggle Sloam.</l>
+                  <l>Go ’head on dat chicken,</l>
+                  <l>’Kase it tissen skace!</l>
+                  <l>“Doan’ yo’ worry, sistah,</l>
+                  <l>I is in no has’e!</l>
+                  <l>“Lan’ sakes, Sistah Wiggle,</l>
+                  <l>You’ treat me lak er king!</l>
+                  <l>Ha! ha! ’skooze me, sistah,</l>
+                  <l>One mo’ chicken wing!</l>
+                  <l>Tote me few dem waffles,</l>
+                  <l>Chittlins good an’ hot!</l>
+                  <l>Ebbah thing ise eatin’</l>
+                  <l>Trabbles to de spot!</l>
+                  <l>Lawd Gawd! Sistah Wiggle,</l>
+                  <l>I jes’ seed dat possum!</l>
+                  <l>Hiden’ an’ er grinin’</l>
+                  <l>’Hine dat sunflow’r blossom!</l>
+                  <l>’Fo’ I’d let dat possum</l>
+                  <l>Git out o’ mah sight,</l>
+                  <l>Th’ow erside mah Gospel,</l>
+                  <l>To de las’ I’d fight!</l>
+                  <l>Bruddah, kain’t yo’ sortah</l>
+                  <l>Gibb er little toas’?</l>
+               </lg>
+               <lg>
+                  <l>’Deed I kain’t, Gawd knows it,</l>
+                  <l>Whah dey’s possum roas’!</l>
+                  <l>Feed de lambs, mah Sistah,</l>
+                  <l>Whut de good book say!</l>
+                  <l>Yo’s fulfillin’ Scripshah</l>
+                  <l>Treatin’ me dis way!”</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>GO ’WAY, MAH HONEY.</head>
+               <p rend="justify">Gitin’ sortah ’ristercratic</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Sistah Jane, de ol’ roommatic!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Th’ow’d erway her dress o’ mattin’!</p>
+               <p rend="justify">Wearin’ silk an’ wearin’ satin’!</p>
+               <p rend="justify">Right in style, de lates’ patte’n!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Wearin’ hoops, an’ got er bustle!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">When she passed, Lawd, how dey rustle!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Umph! she stepped lak Queen o’ Sheeba.</p>
+               <p rend="justify">Clah out dressed ol’ Sistah Feeba,</p>
+               <p rend="justify">Hel’ her trail lak dat Miss Neeba!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">High heel shoes, she’s wearin’, too!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Look to me dey’s numbah two!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Paten’ leddah wid er buckle!</p>
+               <p rend="justify">Hot stuff, reglah honey suckle!</p>
+               <p rend="justify">When she pass’d, oh how fo’ks chuckle!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Doan’ yo’ kno’ she had on powdah!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">White fo’ks kooden’ looked mo’ loudah!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Had her hyah smoothed down wid tallow!</p>
+               <p rend="justify">Bangs in front was short and shallow!</p>
+               <p rend="justify">Gibb her face er p’culiar pallow!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Umph! she tried to tawk so proppah!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Spoke dem wurds dat was er whoppah!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">See her primp her mouf and tickle!</p>
+               <p rend="justify">Made her look so pow’ful fickle!</p>
+               <p rend="justify">Bet she diden’ hab er nickel!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Scan’lous ’bout sum cullahd people!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Mattahs not how ol’ an’ feeble!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+               <p rend="justify">Git on sum new bibb an’ tuckah!</p>
+               <p rend="justify">Dey’ll out step sah! ol’ Dan Tuckah!</p>
+               <p rend="justify">Doan’ kyah ef dey’s er co’n shuckah!</p>
+               <p rend="justify">Go ’way, mah honey!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BRER POSSUM DECLINES.</head>
+               <lg>
+                  <l>Way in de tree</l>
+                  <l>Sots ol’ Bruddah Possum!</l>
+                  <l>Hey, dah; I see yo’</l>
+                  <l>Bruddah Possum, hine de blossom!</l>
+                  <l>Yo’ needn’ ac’ so timid,</l>
+                  <l>Ner yo’ needen’ ac’ so shy,</l>
+                  <l>Dey’s beddah, closeah frenship</l>
+                  <l>Fo’ er possum, closeah nigh!</l>
+                  <l>Hey, dah, Bruddah Possum,</l>
+                  <l>Yo’ ac’in’ moighty ’trary;</l>
+                  <l>Saunter down er minute!</l>
+                  <l>Now, yo’ needen’ hab no worry,</l>
+                  <l>Ner pusnul tooberayshuns.</l>
+                  <l>An’ de sich, de lak er dat!</l>
+                  <l>Cum down, yo’ needen’ boddah</l>
+                  <l>What de bawkin’ dogs er at!</l>
+                  <l>Look hyeah, Bruddah Possum,</l>
+                  <l>Bleeb yo’ feelin’ kine o’ skeery!</l>
+                  <l>Gittin’ tiad er coaxin’,</l>
+                  <l>Makes me feel er little dreary!</l>
+                  <l>Doan’ lak so much beggin’,</l>
+                  <l>Ner I doan’ lak so much pleadin’,</l>
+                  <l>’Speshly to mah mine,</l>
+                  <l>When dey’s not er bit o’ needin’.</l>
+                  <l>Hey, dah, Bruddah Possum,</l>
+                  <l>Yo’ jes’ lak ol’ Bruddah Satan!</l>
+               </lg>
+               <lg>
+                  <l>Think de odds er gin yo’,</l>
+                  <l>An’ yo’ keep er fellah waitin’.</l>
+                  <l>Well, it doesn’t mattah,</l>
+                  <l>Ef yo’ ’sist on me er climein’,</l>
+                  <l>Hol’ yo’ bref er minute!</l>
+                  <l>’Kase hyeah cums up</l>
+                  <l>Bruddah Highmen!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>I HAIN’T FOOLIN’ HONEY.</head>
+               <p rend="justify">Seed yo’ wid yo’ gal las’ night!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">Had yo’ arms eroun’ her tight!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">Umph! whut made yo’ squeeze her so?</p>
+               <p rend="justify">Jes’ bekaze yo’ am her beau?</p>
+               <p rend="justify">I’d bin her I’d let yo’ go!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">Seed yo’ try to steal er kiss!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">An’ she slapp’d yo’ wid her fis’!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">Po’ gal kooden’ hardly speak!</p>
+               <p rend="justify">Shocked to def wid all yo’ cheek!</p>
+               <p rend="justify">Go way, Gumbo, yo’s er sneak!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">Yallah, too, hain’t she Gumbo?</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">Reason dat yo’ love her so!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">Ef she had de wooly hyah,</p>
+               <p rend="justify">Face ez black ez ol’ pine tah!</p>
+               <p rend="justify">Court her? bet yo’ wooden’, dah!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">Gwine to marry her, Gumbo?</p>
+               <p rend="justify">Stop yo’ foolin’, honey!</p>
+               <p rend="justify">What dat? say yo’ doesn’t kno’?</p>
+               <p rend="justify">Stop yo’ foolin’, honey!</p>
+               <p rend="justify">Ax’d her fo’ her hea’t an’ han’?</p>
+               <p rend="justify">Bet yo’ habben’ got de san’!</p>
+               <p rend="justify">’Fess up, Gumbo, umph! mah lan’!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">Bet she hain’t stuck on yo’ ’tall!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">Does she kiss yo’ when yo’ call?</p>
+               <p rend="justify">Stop yo’ foolin’, honey!</p>
+               <p rend="justify">Lan’ sakes, Gumbo, yo’ woan’ do!</p>
+               <p rend="justify">Go ’way; no, I woan’ kiss yo’!</p>
+               <p rend="justify">Git yo’ big foots off mah shoe!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">I doan’ kiss no rusty coon!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+               <p rend="justify">Who, yo’ be mah chaperoon?</p>
+               <p rend="justify">Hain’t you foolin’, honey?</p>
+               <p rend="justify">Pick mah comp’ny, whut I do!</p>
+               <p rend="justify">Lawd sakes, knows I doan’ want yo’!</p>
+               <p rend="justify">Good day, home Ise long go due!</p>
+               <p rend="justify">I hain’t foolin’, honey!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SLEEP.</head>
+               <p rend="justify">Sleep!</p>
+               <p rend="justify">Cums de solemn night,</p>
+               <p rend="justify">An’ de day’s tuck flight!</p>
+               <p rend="justify">Not er bird ner coon</p>
+               <p rend="justify">Am er whis-lin’ choon.</p>
+               <p rend="justify">Sleep!</p>
+               <p rend="justify">Sleep!</p>
+               <p rend="justify">Slo’ de hours slip ’long</p>
+               <p rend="justify">To de brooklet’s song,</p>
+               <p rend="justify">In de sof deep hush</p>
+               <p rend="justify">Cums de star’s sweet blush.</p>
+               <p rend="justify">Sleep!</p>
+               <p rend="justify">Sleep!</p>
+               <p rend="justify">In er lonesum tone</p>
+               <p rend="justify">Ez he creep erlone,</p>
+               <p rend="justify">Cums de cricket call</p>
+               <p rend="justify">Fum de vine clad wall.</p>
+               <p rend="justify">Sleep!</p>
+               <p rend="justify">Sleep!</p>
+               <p rend="justify">Up de hillside steep</p>
+               <p rend="justify">Now de moon take creep!</p>
+               <p rend="justify">Th’ew de cab’n loft, gleam</p>
+               <p rend="justify">On er coon in dream.</p>
+               <p rend="justify">Sleep!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A PROFUSE ENCOMIUM.</head>
+               <lg>
+                  <l>Lookin’ nice to-night, Miss Liza,</l>
+                  <l>Yo’s out dressed ’em all to-night.</l>
+                  <l>Wid dat ah so frusterkaytun</l>
+                  <l>Yo’ so dazzlin’ in de light!</l>
+                  <l>Please doan’ ’strew mah wurds fo flattah</l>
+                  <l>Spoken incandessenly,</l>
+                  <l>But! wid mutuallistic frankness</l>
+                  <l>’Cep ’em fabbrykayshenly.</l>
+                  <l>“Thank you, Mistah Johnsin’,</l>
+                  <l>Do yo’ think I look so fine?</l>
+                  <l>’Deed sah, Mistah Johnsin’,</l>
+                  <l>Yo’ so asterroshus kine.</l>
+                  <l>Woan’ yo’ sot beside me</l>
+                  <l>An’ conversykate er while,</l>
+                  <l>Please doan’ hab no skooples</l>
+                  <l>Kaze Ize togged up in dis style.”</l>
+                  <l>“Yo’s suppassed yo’se’f, Miss Liza,</l>
+                  <l>Quiv-vah-kay-shah-ently gran’,</l>
+                  <l>An’ yo’ grace dis runkshus ’kayshun</l>
+                  <l>Lak one fum de glory lan’.</l>
+                  <l>Ef yo’ hab no interjeckshuns</l>
+               </lg>
+               <lg>
+                  <l>Kaze sech ’joicin’ frollerkayshun</l>
+                  <l>Gibbs fellerisher-tish-shus glee.”</l>
+                  <l>“’Skyoose me, Mistah Johnsin’,</l>
+                  <l>I doan’ kyah to mingel late,</l>
+                  <l>I wood raddah be specktay-shus</l>
+                  <l>Sotin’ hyeah wid Mistah Gate.</l>
+                  <l>Not dat I doan’ d’ sah yo’ tenshun</l>
+                  <l>An’ doan’ preeshee-ate yo’ ’’ques’,</l>
+                  <l>I prefer tran-quil-ler-kayshun</l>
+                  <l>Sotin’ lookin’ at de res’.”</l>
+                  <l>“’Cep’ mah ’pology, Miss Liza,</l>
+                  <l>Fo’ mah troo-ser-tay-shus ’ques’.</l>
+                  <l>I jes ax’d yo’ fo’ politeness,</l>
+                  <l>Tho’t yo’d lak to jine de res’.”</l>
+                  <l>“’Tain’t er bit o’ trooshun,</l>
+                  <l>Mistah Johnsin’, not at tall!</l>
+                  <l>I may grant yo’ axin’</l>
+                  <l>When we ’ten’ sum uddah ball.”</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PEEPIN’ TH’EW DE HUSK.</head>
+               <lg>
+                  <l>Dahky, doan’ worry,</l>
+                  <l>Kaze de wintah’s dun gone!</l>
+                  <l>Craps am all er sproutin’</l>
+                  <l>Soon we’ll hab de sugah co’n!</l>
+                  <l>Den we’ll roas’ an’ stew it</l>
+                  <l>An’ we’ll fry it in de pan,</l>
+                  <l>Th’ow de buttah on it</l>
+                  <l>Nufin’ fineah in de lan’!</l>
+               </lg>
+               <lg>
+                  <l>Hain’t er gwine to worry,</l>
+                  <l>Needah make er bit o’ fuss!</l>
+                  <l>Kaze de sugah co’n</l>
+                  <l>Will soon be peepin’ th’ew de huss!</l>
+                  <l>See de wattah milluns</l>
+                  <l>How dey’s cumin’ on de vine!</l>
+                  <l>Lawd er mussy, chillun,</l>
+                  <l>Puts yo’ teef erpun de grine!</l>
+                  <l>Mussen’ think er bout ’em,</l>
+                  <l>Gits mah stummuck all er jump!</l>
+                  <l>Hea’t er fas’ah beatin’</l>
+                  <l>An’ er thumpin’! thump! thump!</l>
+                  <l>Hain’t er gwine to worry,</l>
+                  <l>Needah make er bit o’ fuss!</l>
+                  <l>Kaze de sugah co’n</l>
+                  <l>Will soon be peepin’ th’ew de huss!</l>
+                  <l>When de wattah milluns</l>
+                  <l>Git kervellopd on de vine,</l>
+                  <l>Winkin’, peepin’ at yo’,</l>
+                  <l>How er dahky’s eyes shine!</l>
+                  <l>An’ yo’ buss’ ’em open</l>
+                  <l>An’ yo’ see de blushin’ red,</l>
+                  <l>Haben’ got er minute</l>
+                  <l>Fo’ de bressins to be said!</l>
+                  <l>Hain’t er gwine to worry,</l>
+                  <l>Needah make er bit o’ fuss!</l>
+                  <l>Kaze de sugah co’n</l>
+                  <l>Will soon be peepin’ th’ew de huss!</l>
+               </lg>
+               <lg>
+                  <l>Sun ’er creepin’ higher,</l>
+                  <l>Am ’er gittin’ pow’ful hot!</l>
+                  <l>Hoein’ an’ er weedin’</l>
+                  <l>Am er dahky’s tufes’ lot!</l>
+                  <l>To de hoe er stickin’</l>
+                  <l>Till yo’ back jes’ ache an’ ache,</l>
+                  <l>Sun er pohin’ on yo’</l>
+                  <l>Makes er dahky nahly bake!</l>
+                  <l>Hain’t er gwine to worry,</l>
+                  <l>Needah make er bit o’ fuss!</l>
+                  <l>Kaze de sugah co’n</l>
+                  <l>Will soon be peepin’ th’ew de huss!</l>
+                  <l>Mo’ yo’ keeps er hoein’</l>
+                  <l>Fas’ah seems to gro’ de grass!</l>
+                  <l>Dahky gits to thinkin’</l>
+                  <l>Hoein’ time will ebbah las’!</l>
+                  <l>Weedin’ an’ er hoein’</l>
+                  <l>Ef er dahky was to stop,</l>
+                  <l>Sho’ ez am de gospel</l>
+                  <l>Wooden’ git er bit o’ crop!</l>
+                  <l>Hain’t er gwine to worry,</l>
+                  <l>Needah make er bit o’ fuss!</l>
+                  <l>Kaze de sugah co’n</l>
+                  <l>Will soon be peepin’ th’ew de huss!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>AXIN’, COON? CUM OBEAH.</head>
+               <lg>
+                  <l>Meadows lak er feddah bed,</l>
+                  <l>Sproutin’ cloveah white an’ red,</l>
+                  <l>Sof’ ez pillahs to de tread,</l>
+                  <l>Axin’, coon? Cum obeah!</l>
+                  <l>Milluns loafin’ in de grass,</l>
+                  <l>Flirtin’ when er coon cum pass,</l>
+                  <l>When er look he dat way cas’,</l>
+                  <l>Axin’, coon? Cum obeah!</l>
+                  <l>Cabbage loafin’ ’roun’ de stump,</l>
+                  <l>Lookin’ sassy fat an’ plump,</l>
+                  <l>Swellin’ up all in er bump,</l>
+                  <l>Axin’, coon? Cum obeah!</l>
+                  <l>Coon er wockin’ at de co’n,</l>
+                  <l>Doh dat’s all fo’ what he’s born,</l>
+                  <l>Wockin, night and’ wockin’ morn,</l>
+                  <l>Hain’t got time cum obeah!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HUSTLE.</head>
+               <p rend="justify">Doan’ lag an’ fool</p>
+               <p rend="justify">Erlong de way—</p>
+               <p rend="justify">Hus’el!</p>
+               <p rend="justify">Doan’ ’spec’ to do</p>
+               <p rend="justify">All in er day—</p>
+               <p rend="justify">Hus’el!</p>
+               <p rend="justify">Things will cum</p>
+               <p rend="justify">Out by an’ by,</p>
+               <p rend="justify">Musen’ stop</p>
+               <p rend="justify">To stew an’ sigh.</p>
+               <p rend="justify">Den’s when success</p>
+               <p rend="justify">May be nigh—</p>
+               <p rend="justify">Hus’el!</p>
+               <p rend="justify">Take no time</p>
+               <p rend="justify">Fo’ lookin’ back—</p>
+               <p rend="justify">Hus’el!</p>
+               <p rend="justify">T’ see whose cumin’</p>
+               <p rend="justify">On de track—</p>
+               <p rend="justify">Hus’el!</p>
+               <p rend="justify">Ebbry time</p>
+               <p rend="justify">Yo’s losin’ groun’,</p>
+               <p rend="justify">Time yo’ take</p>
+               <p rend="justify">Fo’ gawkin ’roun’.</p>
+               <p rend="justify">Ef yo’ ’spec’</p>
+               <p rend="justify">To git er crown—</p>
+               <p rend="justify">Hus’el!</p>
+               <p rend="justify">Ef yo’ ’spec’</p>
+               <p rend="justify">Er good co’n crop—</p>
+               <p rend="justify">Hus’el!</p>
+               <p rend="justify">Nebah git it</p>
+               <p rend="justify">Ef yo’ stop—</p>
+               <p rend="justify">Hus’el!</p>
+               <p rend="justify">Ef yo’ ’spec’</p>
+               <p rend="justify">De corn to gro’</p>
+               <p rend="justify">Full co’n stawks</p>
+               <p rend="justify">In ebbry ro’,</p>
+               <p rend="justify">Doan’ be skaid</p>
+               <p rend="justify">To use de hoe—</p>
+               <p rend="justify">Hus’el!</p>
+               <p rend="justify">Take no time</p>
+               <p rend="justify">To argufy—</p>
+               <p rend="justify">Hus’el!</p>
+               <p rend="justify">T’ make sum fellah</p>
+               <p rend="justify">Out er lie—</p>
+               <p rend="justify">Hus’el!</p>
+               <p rend="justify">Ha’f de time</p>
+               <p rend="justify">Yo’s losin’ win’,</p>
+               <p rend="justify">Same time doin’</p>
+               <p rend="justify">Er little sin.</p>
+               <p rend="justify">Aftah all</p>
+               <p rend="justify">Yo’ nuffin in—</p>
+               <p rend="justify">Hus’el!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>GO SLEEP.</head>
+               <p rend="justify">Go sleep, li’l’ pickahninny!</p>
+               <p rend="justify">Go sleep!</p>
+               <p rend="justify">De boogahman koch yo’</p>
+               <p rend="justify">Ef yo’ peep!</p>
+               <p rend="justify">Go sleep!</p>
+               <p rend="justify">He prowlin’ ’roun’</p>
+               <p rend="justify">Sof’ ez er cat—</p>
+               <p rend="justify">He kno’ whah</p>
+               <p rend="justify">Li’l’ pickahninny’s at—</p>
+               <p rend="justify">Go sleep!</p>
+               <p rend="justify">Go sleep, li’l’ pickahninny!</p>
+               <p rend="justify">Go sleep!</p>
+               <p rend="justify">Still ez er mouse</p>
+               <p rend="justify">When creepin’ keep—</p>
+               <p rend="justify">Go sleep!</p>
+               <p rend="justify">De boogahman</p>
+               <p rend="justify">Am moighty peert!</p>
+               <p rend="justify">He sly ol’ fox</p>
+               <p rend="justify">Dat’s on de ’lert!</p>
+               <p rend="justify">Go sleep!</p>
+               <p rend="justify">Go sleep, li’l’ pickahninny!</p>
+               <p rend="justify">Go sleep!</p>
+               <p rend="justify">I hyeah de boogahman</p>
+               <p rend="justify">Creep, creep creep!</p>
+               <p rend="justify">Go sleep!</p>
+               <p rend="justify">He kotch er hol’</p>
+               <p rend="justify">An’ shake de do’—</p>
+               <p rend="justify">An’ ope his mouf</p>
+               <p rend="justify">An’ said wo’, wo’!</p>
+               <p rend="justify">Go sleep!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>KAZE DE SUN AM SINKIN’.</head>
+               <lg>
+                  <l>Droopy, droopy, am de flow’rs,</l>
+                  <l>Petals closed an’ shrinkin’,</l>
+                  <l>Gone er sleepin’ an’ er doze—</l>
+                  <l>Kaze de sun am sinkin’!</l>
+                  <l>All de day er lookin’ gran’</l>
+                  <l>An’ er ’fumein’ up de lan’,</l>
+               </lg>
+               <lg>
+                  <l>Baskin’ now in slumbah’s stran’—</l>
+                  <l>Kaze de sun am sinkin’!</l>
+                  <l>Droopy, droopy, am de flow’rs,</l>
+                  <l>Petals closed an’ shrinkin’</l>
+                  <l>Peepahs shet an’ fas’ ersleep,</l>
+                  <l>Kaze de sun am sinkin’!</l>
+                  <l>Crystal brooklet glidin’ ’long</l>
+                  <l>Chants to dem er cradle song,</l>
+                  <l>Res’ an’ slumbah, weary throng—</l>
+                  <l>Kaze de sun am sinkin’!</l>
+                  <l>Droopy, droopy am de flow’rs,</l>
+                  <l>Petals closed an’ shrinkin’,</l>
+                  <l>Lull’d ersleep in fairy realm,</l>
+                  <l>Kaze de sun am sinkin’!</l>
+                  <l>All dey tinsels tints an’ hue</l>
+                  <l>Dat attracts de bees an’ woo,</l>
+                  <l>Closed dey now am all to view—</l>
+                  <l>Kaze de sun am sinkin’!</l>
+                  <l>Droopy, droopy, am de flow’rs,</l>
+                  <l>Petals closed an’ shrinkin’!</l>
+                  <l>Soon will wake wid birds an’ bees,</l>
+                  <l>When de sun’s dun sinkin’!</l>
+                  <l>When de sunlight mounts to view,</l>
+                  <l>At de tech o’ mornin’s dew</l>
+                  <l>Once mo’ will dey ope to view—</l>
+                  <l>Kaze de sun’s dun sinkin’!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SOFT FALLS THE NIGHT.</head>
+               <p rend="justify">This Poem is dedicated to Miss Anna Hall Smith.</p>
+               <p rend="justify">Soft falls the night—</p>
+               <p rend="justify">And chases ’way</p>
+               <p rend="justify">The slowly dying</p>
+               <p rend="justify">Summer day.</p>
+               <p rend="justify">The sun from his</p>
+               <p rend="justify">Ethereal height,</p>
+               <p rend="justify">Is curtained by</p>
+               <p rend="justify">The shades of night.</p>
+               <p rend="justify">Soft falls the night—</p>
+               <p rend="justify">The birds that tune</p>
+               <p rend="justify">Their song with nature</p>
+               <p rend="justify">In commune</p>
+               <p rend="justify">Now hush their lays</p>
+               <p rend="justify">Seek silent rest,</p>
+               <p rend="justify">Within their downy</p>
+               <p rend="justify">Leafy nests.</p>
+               <p rend="justify">Soft falls the night—</p>
+               <p rend="justify">Sweet peace divine</p>
+               <p rend="justify">In each heart comes</p>
+               <p rend="justify">To be enshrined,</p>
+               <p rend="justify">While angels pause</p>
+               <p rend="justify">On earth to show’r</p>
+               <p rend="justify">The blessings of</p>
+               <p rend="justify">The sovereign pow’r.</p>
+               <p rend="justify">Soft falls the night—</p>
+               <p rend="justify">A peaceful sleep</p>
+               <p rend="justify">O’er earthly mortals</p>
+               <p rend="justify">Doth now creep.</p>
+               <p rend="justify">They rest now from</p>
+               <p rend="justify">Their day’s pursuit—</p>
+               <p rend="justify">The world is still,</p>
+               <p rend="justify">The world is mute.</p>
+               <p rend="justify">Soft falls the night—</p>
+               <p rend="justify">The verdure green</p>
+               <p rend="justify">Now glistens with</p>
+               <p rend="justify">A dewy sheen.</p>
+               <p rend="justify">The flowers droop,</p>
+               <p rend="justify">Their petals close,</p>
+               <p rend="justify">They dream away</p>
+               <p rend="justify">In sweet repose.</p>
+               <p rend="justify">Soft fades the night—</p>
+               <p rend="justify">Lo! breaks the dawn,</p>
+               <p rend="justify">And nature ’wakens</p>
+               <p rend="justify">With the morn,</p>
+               <p rend="justify">Exultingly</p>
+               <p rend="justify">Sends up her lays,</p>
+               <p rend="justify">Her symphonies,</p>
+               <p rend="justify">To God in praise.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>GIT ON BOARD, CHILLUN.</head>
+               <p rend="justify">De Gospel train am er scootin’ down de rail!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">Fas’ah den er ship wid er ruddah an’ er sail!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">De Lawd in heaben am de steam an’ de pow’r!</p>
+               <p rend="justify">He run dat train forty millun miles an’ hour!</p>
+               <p rend="justify">Jes’ es stroke ub de throttle</p>
+               <p rend="justify">Sends her clah to heaben’s tow’r!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">No sinnah tribe kin ebbah ride on dat train!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">De debil ner his imps ef day’s cut loose fum dey chain!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">None but de lams ub de good Lawd’s fol’</p>
+               <p rend="justify">Kin ride dat train to de streets o’ gol’,</p>
+               <p rend="justify">Wid de ’liggun lak an’ ocean obeahflowin’ in yo’ soul!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">She’s jes’ lak lightnin’ an’ de quibbah o’ de eye!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">Ez she’s puffin’ an’ er steamin’ in er trabblin’ to de sky!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">She’s limited, too, an’ she goes clah th’ew!</p>
+               <p rend="justify">She’s got no time fo’ to fool wid yo’!</p>
+               <p rend="justify">Yo’ mus’ git on board, when de time cums, doo!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">Dat train hain’t skeddul fo’ de secun’ time.</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">Fo’ to cum an’ fotch yo’ to de heabenly clime!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">She goes straight on an’ she doan’ tarn back!</p>
+               <p rend="justify">When she once git start why she hain’t gwine to slack!</p>
+               <p rend="justify">Till she runs in heab’n on de right side track!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">De debil ner his imps kaint wreck dat ol’ train!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">Ez she’s dashin’ an’ er steamin’ o’er de mountains an’ de plain!</p>
+               <p rend="justify">Git on board, chillun!</p>
+               <p rend="justify">She sticks to de rail lak de hyah on yo’ back!</p>
+               <p rend="justify">An’ she nebbah was known fo’ to jump fum de track!</p>
+               <p rend="justify">Kaze de Lawd’s at de throttle an’ he sho’ got de knac’!</p>
+               <p rend="justify">Git on board, chillun!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>UNCLE NED AN’ DE MOCKIN’ BIRD.</head>
+               <p rend="justify">Bruddah Mocking Bird,</p>
+               <p rend="justify">Yo’s moighty lazy.</p>
+               <p rend="justify">Yo’ doan’ do nufin’</p>
+               <p rend="justify">But sing dat song,</p>
+               <p rend="justify">Till de daylight’s gone</p>
+               <p rend="justify">An’ de night cum ’long.</p>
+               <p rend="justify">Er coon has got to hoe an’ hoe,</p>
+               <p rend="justify">Till de sinkin’ sun</p>
+               <p rend="justify">Tells de day to go.</p>
+               <p rend="justify">Lawd, but yo’ sing</p>
+               <p rend="justify">So pow’ful sweet!</p>
+               <p rend="justify">Perched up dah,</p>
+               <p rend="justify">In yo’ leafy seat.</p>
+               <p rend="justify">Is yo’ lonesum?</p>
+               <p rend="justify">Does yo’ hea’t feel sad?</p>
+               <p rend="justify">’Pears to me</p>
+               <p rend="justify">Dat yo’ soul feels glad.</p>
+               <p rend="justify">Ez Ise wockin’ hard,</p>
+               <p rend="justify">Sweet ez de cloveah</p>
+               <p rend="justify">Yo’ song</p>
+               <p rend="justify">Floats obeah,</p>
+               <p rend="justify">Way in de co’nfield</p>
+               <p rend="justify">Whah de medlark sings,</p>
+               <p rend="justify">Up in de bough</p>
+               <p rend="justify">Ub de tree it clings.</p>
+               <p rend="justify">Yo’ nebah wock</p>
+               <p rend="justify">But yo’ bread is sho’,</p>
+               <p rend="justify">Out in de yahd;</p>
+               <p rend="justify">’Fo’ ebbry do’,</p>
+               <p rend="justify">Sum kine han’</p>
+               <p rend="justify">Th’ows de little crum!</p>
+               <p rend="justify">Kaze dey kno’ fo’ sho’</p>
+               <p rend="justify">Dat yo’ boun’ to cum.</p>
+               <p rend="justify">De good Samaritan</p>
+               <p rend="justify">Part dey play.</p>
+               <p rend="justify">Let yo’ go ’way?</p>
+               <p rend="justify">Hungry? No!</p>
+               <p rend="justify">Dey nebah wood,</p>
+               <lg>
+                  <l>Kase de Lawd wood say</l>
+                  <l>Dat dey wasn’t good.</l>
+                  <l>I kinedah lak</l>
+                  <l>To hyeah yo’ sing,</l>
+                  <l>Ef yo’ is too lazy</l>
+                  <l>To flop yo’ wing,</l>
+                  <l>Sing on,</l>
+                  <l>Fill de worl’ wid song.</l>
+                  <l>I mus’ be gittin’</l>
+                  <l>Mah wock er long.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PO’ LI’L’ RASTUS.</head>
+               <p rend="justify">Little Rastus feelin’ blue—</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Out o’ sorts an’ gloomy, too!</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Broke his little hobby hoss.</p>
+               <p rend="justify">Makes de little fellah cross.</p>
+               <p rend="justify">Doan’ cry, honey, ’tain’ much loss.</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">He jes’ wo’ out, rompin’ ’roun’,</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Git up, honey, fum de groun’.</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Look ee dah, dun spiled yo’ dress,</p>
+               <p rend="justify">An’ it am yo’ Sunday bes’,</p>
+               <p rend="justify">Now hain’t yo’ er poody mess!</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Whut dat stickin’ on yo’ han’?</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Yo’ bin in de ’lasses can.</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Whut dat whut de Bible say</p>
+               <p rend="justify">’Bout de chile dat steal dat ’way?</p>
+               <p rend="justify">He’ll go whah de bad man stay!</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Dat ol’ bad man am er sight.</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Cum er sneakin’ ’roun’ at night.</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Cum an’ koch yo’ when yo’ sleep,</p>
+               <p rend="justify">Den he take er great big leap!</p>
+               <p rend="justify">Down er hol’ dat’s way down deep!</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Cum hyeah, little wooly head.</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Gwine to tuck yo’ way to bed.</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+               <p rend="justify">Look ee dah, de day dun gone!</p>
+               <p rend="justify">Shaddahs streamin’ th’ew de co’n,</p>
+               <p rend="justify">Sleep until de sunlight dawn!</p>
+               <p rend="justify">Po’ li’l’ Rastus!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SAMBO’S RAIN PHILOSOPHY.</head>
+               <lg>
+                  <l>Whut’s de use o’ raisin’</l>
+                  <l>’Bout de weddah, cain?</l>
+                  <l>Kase dey’s wid de sunshine</l>
+                  <l>Mixed in clouds an’ rain;</l>
+                  <l>Jes’ ez well be lafin’,</l>
+                  <l>’Joicin’ in yo’ soul.</l>
+                  <l>Frettin’ an’ er stewin’</l>
+                  <l>Makes yo’ gray an’ ol’.</l>
+                  <l>Mussen’ ’spec’ to allus</l>
+                  <l>Git things jes’ yo’ way.</l>
+                  <l>Keep yo’ eye kock’d open</l>
+                  <l>On er beddah day.</l>
+                  <l>Learn to ’cep’ de weddah</l>
+                  <l>Ez de Lawd control,</l>
+                  <l>In time will be shinin’</l>
+                  <l>Sunshine bright an’ gold.</l>
+                  <l>Lawd am boun’ to sen’ de</l>
+                  <l>Changes now an’ den,</l>
+                  <l>Kaze He knows whut’s beddah</l>
+                  <l>Fo’ yo’ in de en’.</l>
+                  <l>Fus’ He sends de sunshine,</l>
+                  <l>Nex’ He sends de rain,</l>
+                  <l>To gibb life an’ viggah</l>
+                  <l>To de gol’en grain.</l>
+                  <l>It’s de rainy weddah,</l>
+                  <l>Buds de flowahs out,</l>
+               </lg>
+               <lg>
+                  <l>Makes de wattahmilluns</l>
+                  <l>An’ de ’tayters sprout;</l>
+                  <l>It’s de rainy weddah</l>
+                  <l>Makes de fahmahs shout;</l>
+                  <l>Drives erway de famine,</l>
+                  <l>Drives erway de drout.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>JES’ KEEP ER LOOKIN’ UP.</head>
+               <lg>
+                  <l>Ef yo’ fren’s dey all fo’sake yo’,</l>
+                  <l>Think yo’ gwine flat to de wall,</l>
+                  <l>Salt an’ peppah nebbah’ll save yo’</l>
+                  <l>Fum an ebbah las’in’ fall.</l>
+                  <l>Ef yo’ got de right stuff in yo’,</l>
+                  <l>You’ll keep allus lookin’ up,</l>
+                  <l>’Membrin’ sum de worl’s bes’ jewels</l>
+                  <l>Drunk fum dis same bittah cup!</l>
+                  <l>Ef yo’ habben’ got er dollah,</l>
+                  <l>An’ no place to lay yo’ head,</l>
+                  <l>An’ de meadows an’ de co’n fields</l>
+                  <l>Only places fo’ yo’ bed;</l>
+                  <l>Ef de fo’ks am cuttin’ capeahs</l>
+                  <l>’Fo’ yo’ puttin’ on dey airs,</l>
+                  <l>Wid dey silks an’ wid dey satins,</l>
+                  <l>An’ all uddah kine o’ wares.</l>
+                  <l>Ef yo’ got de right stuff in yo’,</l>
+                  <l>Yo’ll keep allus lookin up,</l>
+               </lg>
+               <lg>
+                  <l>’Membrin’ sum de worl’s bes’ jewels</l>
+                  <l>Drunk fum dis same bittah cup!</l>
+                  <l>Dey may tramp erpun yo’ feelin’s,</l>
+                  <l>Dey may kick yo’ on de co’n,</l>
+                  <l>An’ may tarn dey nose up at yo’</l>
+                  <l>Ez dey pass yo’ in dey scorn;</l>
+                  <l>Smiles dey nebbah may hab fo’ yo’,</l>
+                  <l>Bes’ yo’ll git will be er frown,</l>
+                  <l>An’ sum wurds mos’ harshly spoken,</l>
+                  <l>Kaze dey think dat yo’ is down.</l>
+                  <l>Ef yo’ got de right stuff in yo’,</l>
+                  <l>Yo’ll keep allus lookin’ up,</l>
+                  <l>’Membrin’ sum de worl’s bes’ jewels</l>
+                  <l>Drunk fum dis same bittah cup!</l>
+                  <l>Ef fo’ bread yo’ ax er bruddah,</l>
+                  <l>An’ instead yo’ git er stone,</l>
+                  <l>An’ yo’ ax fo’ consullayshun,</l>
+                  <l>An’ yo’ bahly git er groan,</l>
+                  <l>An’ sum knock yo’ off yo’ shins,</l>
+                  <l>An’ think yo’ nebah gwine to rise,</l>
+                  <l>Swah to God dey nebbah dun it,</l>
+                  <l>Meekly tell all kine o’ lies;</l>
+                  <l>Let ’em go on hykerflootin’,</l>
+                  <l>Ebbry dog sho’ habs his day;</l>
+                  <l>Dey am uddah months, mah bruddah,</l>
+                  <l>Jes’ es pleasant, ez am May.</l>
+                  <l>Ef yo’ got de right stuff in yo’,</l>
+                  <l>Yo’ll keep allus lookin’ up,</l>
+               </lg>
+               <lg>
+                  <l>’Membrin’ sum de worl’s bes’ jewels</l>
+                  <l>Drunk fum dis same bittah cup!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>WISHED I’D RODE MAH HOSS.</head>
+               <p rend="justify">Rode on dat ah ’lectric kyah!</p>
+               <p rend="justify">Wished I’d rode mah hoss!</p>
+               <p rend="justify">No musstake it raised mah hyah!</p>
+               <p rend="justify">Oddah bin er long!</p>
+               <p rend="justify">Nebbah seed sech runnin’ son!</p>
+               <p rend="justify">Swo’ we’s flyin’ to de sun!</p>
+               <p rend="justify">Tho’t dis dahky’s days was dun!</p>
+               <p rend="justify">Wished I’d rode mah hoss!</p>
+               <p rend="justify">Gee! dat thing did split de ah!</p>
+               <p rend="justify">Wished I’d rode mah hoss!</p>
+               <p rend="justify">Nuffin’ wid it kin compah!</p>
+               <p rend="justify">Oddah bin er long!</p>
+               <p rend="justify">Ebbry thing wuz blurred in sight!</p>
+               <p rend="justify">Dus’ flew higher den er kite!</p>
+               <p rend="justify">Kooden’ tell de lef’ fum right!</p>
+               <p rend="justify">Wished I’d rode mah hoss!</p>
+               <p rend="justify">When she struck eroun’ de kyerve,</p>
+               <p rend="justify">Wished I’d rode mah hoss!</p>
+               <p rend="justify">It unstrung mah ebbry nerve!</p>
+               <p rend="justify">Oh, but I did squirm!</p>
+               <p rend="justify">Oh, she kyahd us down de line!</p>
+               <p rend="justify">No hobo kood stuck behine!</p>
+               <p rend="justify">Ef he had he’d gone stone bline!</p>
+               <p rend="justify">Wished I’d rode mah hoss!</p>
+               <p rend="justify">Now an’ den she sortah reel!</p>
+               <p rend="justify">Wished I’d rode mah hoss!</p>
+               <p rend="justify">Stirred me up fum head to heel!</p>
+               <p rend="justify">Lawd but I did quake!</p>
+               <p rend="justify">Tawk erbout er pow’ful prah!</p>
+               <p rend="justify">I sho’ made one den an’ dah!</p>
+               <p rend="justify">Strain was mo’ den I kood bah!</p>
+               <p rend="justify">Wished I’d rode mah hoss!</p>
+               <p rend="justify">Once I hyeahd er moighty crack!</p>
+               <p rend="justify">Wished I’d rode mah hoss!</p>
+               <p rend="justify">Tho’t she’s gwine to leeb de track,</p>
+               <p rend="justify">Oddah seed me, Chile!</p>
+               <p rend="justify">I felt mos’ prekareyus, son!</p>
+               <p rend="justify">I hain’t tawkin’ jes’ fo’ fun!</p>
+               <p rend="justify">Tho’t dis dahky’s days was dun,</p>
+               <p rend="justify">Wished I’d rode mah hoss!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>EGGS! EGGS!! EGGS!!!</head>
+               <p rend="justify">When I ’fleck o’ Eastah cum,</p>
+               <p rend="justify">Eggs! eggs!! eggs!!!</p>
+               <p rend="justify">Gits mah whol’ soul all er hum.</p>
+               <p rend="justify">Eggs! eggs!! eggs!!!</p>
+               <p rend="justify">When de chickens flopp dey wings,</p>
+               <p rend="justify">Roostah cro’, de pullets sings,</p>
+               <p rend="justify">Gib me ’bove all uddah things—</p>
+               <p rend="justify">Eggs! eggs!! eggs!!!</p>
+               <p rend="justify">When de little chicks er creep,</p>
+               <p rend="justify">Eggs! eggs!! eggs!!!</p>
+               <p rend="justify">Run kerfrolic peep! peep! peep!!</p>
+               <p rend="justify">Eggs! eggs!! eggs!!!</p>
+               <p rend="justify">Appetite gits sort impressed,</p>
+               <p rend="justify">Wood go good, roas’ chicken breas’,</p>
+               <p rend="justify">Still goes beddah, nebahless.</p>
+               <p rend="justify">Eggs! eggs!! eggs!!!</p>
+               <p rend="justify">When eroun’ de ol’ fiah place</p>
+               <p rend="justify">Eggs! eggs!! eggs!!!</p>
+               <p rend="justify">Eggs look yo’ squah in de face,</p>
+               <p rend="justify">Eggs! eggs!! eggs!!!</p>
+               <p rend="justify">Git ’em fryin’ in de pan,</p>
+               <p rend="justify">Soun’ lak music o’ de ban’,</p>
+               <p rend="justify">Chillun? Whee! But hain’t dey gran’.</p>
+               <p rend="justify">Eggs! eggs!! eggs!!!</p>
+               <p rend="justify">Eat ’em poach ’er eat ’em bile,</p>
+               <p rend="justify">Eggs! eggs!! eggs!!!</p>
+               <p rend="justify">Make yo’ hit yo’ granny, chile.</p>
+               <p rend="justify">Eggs! eggs!! eggs!!!</p>
+               <lg>
+                  <l>When yo’ eat ’em scramble, son,</l>
+                  <l>Feel dat yo’ kood lif er ton,</l>
+                  <l>Er brack bar yo’ kood out run.</l>
+                  <l>Eggs! eggs!! eggs!!!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>IT AM DE POSSUM TIME.</head>
+               <p rend="justify">Weddah gittin’ chilly,</p>
+               <p rend="justify">Fros’ er fallin’ on de vine!</p>
+               <p rend="justify">Leaves er tarnin’ yallah,</p>
+               <p rend="justify">Now de possum time is fine!</p>
+               <p rend="justify">Hickahnuts er fallin’,</p>
+               <p rend="justify">Wid er thud, thud, thudd!</p>
+               <p rend="justify">Poppin’ an’ er crackin’</p>
+               <p rend="justify">An’ er bus’in out de bud!</p>
+               <p rend="justify">It am de possum time!</p>
+               <p rend="justify">Yes, it am de possum time!</p>
+               <lg>
+                  <l>It am de time er niggah</l>
+                  <l>Fo’ de coon to go to clime!</l>
+                  <l>Crickets all er hollah</l>
+                  <l>Tell er niggah it’s de fall!</l>
+                  <l>Ripenin’ am de ’simmons</l>
+                  <l>Fo’ de great an’ fo’ de small!</l>
+                  <l>Niggah jes’ er waitin’</l>
+                  <l>Fo’ de fallin’ o’ de sno’,</l>
+                  <l>Fo’ to chase de rabbit</l>
+                  <l>Ez he’s wingin’ on de go!</l>
+                  <l>It am de possum time!</l>
+                  <l>Yes, it am de possum time!</l>
+                  <l>It am de time er niggah</l>
+                  <l>Fo’ de coon to go to clime!</l>
+                  <l>When de sun’s dun sinkin’</l>
+                  <l>Cums de shinin’ o’ de moon,</l>
+                  <l>Niggah’ll take de wahpaf</l>
+                  <l>Fo’ to go to tree de coon!</l>
+                  <l>Wid de dogs er bahkin’</l>
+                  <l>All er chasein’, all er romp!</l>
+                  <l>Sniffin’ at de grasses</l>
+                  <l>An’ er scratchin’ at de stump!</l>
+               </lg>
+               <lg>
+                  <l>It am de possum time!</l>
+                  <l>Yes, it am de possum time!</l>
+                  <l>It am de time er niggah</l>
+                  <l>Fo’ de coon to go to clime!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>STICK TO YOUR RACE!</head>
+               <lg>
+                  <l>Umph! how some cullahd fo’ks wan’ to be white.</l>
+                  <l>Bekaze dey am brack dey doan’ nebah seem right.</l>
+                  <l>Dey’s shame ub dey cullah; dey’s shame ub dey race;</l>
+                  <l>Dat’s why dey wood lak to be white in de face.</l>
+                  <l>Bekaze dey kain’t bleech out, O, how dey deplore,</l>
+                  <l>Fo’ to be cullahd to dem’s sech er bore.</l>
+                  <l>To think de Lawd sent dem all into dis lan’</l>
+                  <l>Wif hyah dat am kinky an’ faces dat’s tan.</l>
+                  <l>Fus’ to de lef an’ den nex’ to de right,</l>
+                  <l>Dey look to see if dey am sumfin’ in sight</l>
+                  <l>To make dem bleech white, gib dem cheeks ub de rose</l>
+                  <l>An’ sumfin’ to gib dem a high Roman noze.</l>
+                  <l>Dey’s kickin’ an fussin’ an’ raisin turmoil</l>
+                  <l>Bekaze dey kain’t git hol’ de right kine ub oil</l>
+                  <l>To take way de kinky effect dey kaint bah,</l>
+                  <l>An’ make it jes’ lak de white folk’s auburn hyah.</l>
+                  <l>Dey use mutton sooit an’ tallow, an’ lard,</l>
+                  <l>Oh Lward er Mussy! but don’t dey try hard!</l>
+                  <l>To make it look wabey an’ glossy an’ slick.</l>
+                  <l>Den paht in de middle dey am right to de quick.</l>
+               </lg>
+               <lg>
+                  <l>Ef dey hain’t no hope, why dey go git a wig.</l>
+                  <l>It mus’ be made fum white fok’s hyah, too, by jig.</l>
+                  <l>Umph; who; Miss Sukie? why she wooden’ dah</l>
+                  <l>To wah a wig made fum a coon’s nappy hyah.</l>
+                  <l>Whut’s de use er kickin’</l>
+                  <l>Bekaze o’ sech rot?</l>
+                  <l>Bekaze yo’ kain’t bleech,</l>
+                  <l>An’ turn white on de spot!</l>
+                  <l>Ef yo’ hyah’s kinky,</l>
+                  <l>Yo’s brack ez de tar,</l>
+                  <l>Thank de good Lawd</l>
+                  <l>Dat yo’s jes’ lak yo’ are.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MEMORIAL DAY.</head>
+               <lg>
+                  <l>To sound of muffled drums to-day,</l>
+                  <l>With slow and solemn tread;</l>
+                  <l>The soldiers march with banners draped</l>
+                  <l>Where dwell heroic dead.</l>
+                  <l>The blue, the gray of this fair realm</l>
+                  <l>Assemble o’er this land,</l>
+                  <l>Recount the deeds of valiant men</l>
+                  <l>As one vast mourning band.</l>
+                  <l>The rich, the poor, the high, the low,</l>
+                  <l>Observe this sacred day.</l>
+                  <l>For all alike in days gone by</l>
+                  <l>Have laid some friend away.</l>
+               </lg>
+               <lg>
+                  <l>For death the mighty reaper comes</l>
+                  <l>To rich as well as poor.</l>
+                  <l>Unwelcome guest though he may be,</l>
+                  <l>He comes to every door.</l>
+                  <l>To deck the graves of dear loved ones</l>
+                  <l>Beneath luxuriant bow’rs,</l>
+                  <l>Countless willing loving hands</l>
+                  <l>Pluck nature’s tender flow’rs.</l>
+                  <l>The tokens of a reverent love</l>
+                  <l>For friends of that blest vale,</l>
+                  <l>A love the ravages of time</l>
+                  <l>Can never change nor pale.</l>
+                  <l>This day recalls much of the past—</l>
+                  <l>The nation’s bloody wars,</l>
+                  <l>The sacrifice of noble lives—</l>
+                  <l>To make dominant the stripes and stars.</l>
+                  <l>In philosophic narrative,</l>
+                  <l>In eulogy and praise,</l>
+                  <l>In honor of heroic dead</l>
+                  <l>The speaker’s voice doth raise.</l>
+                  <l>And for the country’s honor fought</l>
+                  <l>The black man once a slave.</l>
+                  <l>Encouched within the history’s folds</l>
+                  <l>The statement, “he was brave!”</l>
+                  <l>Within the marching ranks to-day</l>
+                  <l>Are remnants of the freed</l>
+                  <l>Who fought and bled upon the field</l>
+                  <l>When ’twas the country’s need.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TRUSSY’S VISIT.</head>
+               <p rend="justify">Bress mah life! why, dis hain’t Trussey?</p>
+               <p rend="justify">Go ’way Chile! whut dat yo’ say?</p>
+               <p rend="justify">Yo’ hain’t fiddlin’ Peedah’s sonny—</p>
+               <p rend="justify">Who’d er tho’t it, any way!</p>
+               <p rend="justify">Ax me ef I knowed yo’ daddy—</p>
+               <p rend="justify">Knowed each uddah yeahs ergo.</p>
+               <p rend="justify">Me an’ him hab bof togeddah,</p>
+               <p rend="justify">Hoed er many ’taytah ro’.</p>
+               <p rend="justify">Res’ yo’ duddin’s! take de sofa,</p>
+               <p rend="justify">Make yo’se’f jes’ lak yo’ home.</p>
+               <p rend="justify">’Cep’ mos’ free mah hooskerpalty,</p>
+               <p rend="justify">Plenty time eroun’ to roam.</p>
+               <p rend="justify">See, hyeah, Dina, am dem chittlins</p>
+               <p rend="justify">An’ dem hog feet th’ew er bile?</p>
+               <p rend="justify">Who yo’ think we got fo’ dinnah?</p>
+               <p rend="justify">Ol’ fren’ Fiddlin’ Peedah’s chile!</p>
+               <p rend="justify">Well, sah, I hain’t seed yo’ daddy</p>
+               <p rend="justify">Since dat fight at Possum Trot.</p>
+               <p rend="justify">Dog mah socks, we bof togeddah,</p>
+               <p rend="justify">Whoop’d de debbil on de spot!</p>
+               <p rend="justify">Still er libbin’ down in Guinea?</p>
+               <p rend="justify">Why, dat’s my ol’ rompin’ groun’.</p>
+               <p rend="justify">Hain’t er spot, ner nook, ner crebbice</p>
+               <p rend="justify">Dat I doan’ know ’bout dat town.</p>
+               <p rend="justify">Ready, Dinah? Bress de Lawd! umph!</p>
+               <p rend="justify">Mah ol’ lady am er sight.</p>
+               <p rend="justify">Kin she cook? Whut? Doan’ yo’ staht me!</p>
+               <p rend="justify">She kin sho’ put things up right!</p>
+               <p rend="justify">Walk out, Trussy; go pertaykin’</p>
+               <p rend="justify">Ub de bes’ de ol’ man’s got!</p>
+               <p rend="justify">Kose tain’t much, but prob’ly sumfin’s</p>
+               <p rend="justify">Dah will kinedah tech de spot!</p>
+               <p rend="justify">Go ’head, say de bressins, Trussy,</p>
+               <p rend="justify">Fo’ de Lawd sakes cut ’em short.</p>
+               <p rend="justify">Lemme pos’ yo’ fo’ yo’ staht in,</p>
+               <p rend="justify">Doan’ yo’ preach an’ try to e’ort—</p>
+               <p rend="justify">“Make us thankful, Heab’nly Faddah,</p>
+               <p rend="justify">Fo’ dis hyeah pussipyus spread;</p>
+               <p rend="justify">Hyeah deez few mos’ feeble ’spreshyuns</p>
+               <p rend="justify">Dat yo’ umble sahvunt shed.</p>
+               <p rend="justify">“Gibb us wid ah daily bread, sah!</p>
+               <p rend="justify">Chicken, an’ all sech ez dat!</p>
+               <p rend="justify">Th’ow in now an’ den er possum,</p>
+               <p rend="justify">Coon wid plenty lean an’ fat!</p>
+               <p rend="justify">“Po’ dy bressins on dis family—</p>
+               <p rend="justify">Put mo’ chickens on dey roos’;</p>
+               <p rend="justify">Things git skace, dey needs er he’pin’,</p>
+               <p rend="justify">Len’ er ban’, gibb ’em er boos’.”</p>
+               <p rend="justify">Jump in, Trussy; git to business!</p>
+               <p rend="justify">Ebbry fellah fo’ himse’f.</p>
+               <p rend="justify">Whut’s hyeah fo’ us on dis table’s</p>
+               <p rend="justify">Nuf to take er possum’s bref.</p>
+               <p rend="justify">Ha! ha! Trussy, dem ol’ hog feet</p>
+               <p rend="justify">Sots dis ol’ soul all er chune!</p>
+               <p rend="justify">Ha! ha! Dina? look at Trussy</p>
+               <p rend="justify">Kock dat lef’ eye at dat coon!</p>
+               <p rend="justify">Yo’ hain’t full kin to yo’ daddy</p>
+               <p rend="justify">Ef yo’ doesn’t lak de coon;</p>
+               <p rend="justify">Possum, chicken, sweepahtaytahs.</p>
+               <p rend="justify">An’ de sumpshus musherroon.</p>
+               <p rend="justify">Tell us ’bout ol’ Tootsy Tadpole.</p>
+               <p rend="justify">Slipshod Beebe, Feeby Scott!</p>
+               <p rend="justify">Susan Rhinehole. Sukie Slowup,</p>
+               <p rend="justify">Husky Botts, de res’ de lot.</p>
+               <p rend="justify">Does I ’membah Slimmy Twostep?</p>
+               <p rend="justify">Who? dat dah ol’ onry cuss?</p>
+               <p rend="justify">Usetah hug de stove when happy,</p>
+               <p rend="justify">In church raised all kine o’ fuss?</p>
+               <p rend="justify">Gibb him mo’ coon dumplin’s, Dina!</p>
+               <p rend="justify">Sakes! he’s jes’ fell into eat.</p>
+               <p rend="justify">Tote him few dem frizzlin’ passnups,</p>
+               <p rend="justify">Lecktrifies yo’ to yo’ feet!</p>
+               <p rend="justify">Whah’s ol’ Susan Peecock, Trussy?</p>
+               <p rend="justify">Is de debbil got her yet?</p>
+               <p rend="justify">Sakes o’ lie! she’s got mo’ husban’s</p>
+               <p rend="justify">Den yo’s fingers got, I’ll bet!</p>
+               <p rend="justify">Cum on wid dem pig tails, Dina!</p>
+               <p rend="justify">Doan’ be primpin’ in de glass!</p>
+               <p rend="justify">Mussen’ make de ol’ man wait so,</p>
+               <p rend="justify">Yo’ look poody nuf to pass.</p>
+               <p rend="justify">Bress de Lawd! whee! glory! glory!</p>
+               <p rend="justify">No joke, dem am sizzlin’ hot!</p>
+               <p rend="justify">Lissen at de res’ dem fellahs</p>
+               <p rend="justify">Prayin’ an’ singin’ in de pot!</p>
+               <p rend="justify">Go ’way, Fido! see hyeah, Dina!</p>
+               <p rend="justify">Kick dat debbil out de do’!</p>
+               <lg>
+                  <l>Ebbry time he sniffs dem chittlins</l>
+                  <l>He’s er hangin’ ’roun’ hyeah, sho’.</l>
+                  <l>See hyeah, chile! yo’ hain’t th’ew eatin’,</l>
+                  <l>Rake mo’ dumplin’s on yo’ plate!</l>
+                  <l>Go dem flapp jacks, sum dat grabey,</l>
+                  <l>Eat ’long in de mopein’ gait.</l>
+                  <l>Pass de ol’ man few dem biskits;</l>
+                  <l>B’lieve I’ll take sum poke chops, too!</l>
+                  <l>Little mo’ dat drap down coffee,</l>
+                  <l>Nuddah dose dat bullyun stew.</l>
+                  <l>Go on in de pollah, Trussy,</l>
+                  <l>Ef yo’ got ernuf to eat.</l>
+                  <l>I’ll be th’ew in jes’ er minute,</l>
+                  <l>Den we’ll go an’ thrash sum wheat.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>IS YO’ LONESUM, HONEY?</head>
+               <lg>
+                  <l>Ez de twilight fall,</l>
+                  <l>An’ de koo-koo call,</l>
+                  <l>An’ yo’ doan’ hyeah ’tall</l>
+                  <l>Dis hyeah coon’s foot fall,</l>
+                  <l>Is yo’ lonesum, Honey?</l>
+                  <l>Ez de moon creep high,</l>
+                  <l>In de starlit sky,</l>
+                  <l>An’ yo’ sot an’ sigh,</l>
+                  <l>Kaze I doan’ cum nigh,</l>
+                  <l>Is yo’ lonesum, Honey?</l>
+                  <l>Ez de night creep on,</l>
+                  <l>Till de sun brings dawn,</l>
+                  <l>Ez yo’ wake an’ yawn</l>
+                  <l>In de cool ob de morn,</l>
+                  <l>Still, yo’ lonesum, honey?</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LARN TO HE’P YO’SE’F.</head>
+               <p rend="justify">Bruddah Dahky, ef yo’d win,</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Mussen’ stop fo’ knocks on shin,</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Stop yo’ whinin’, try an’ try,</p>
+               <p rend="justify">Take no time to weep an’ sigh.</p>
+               <p rend="justify">Dah’s whahin’ yo’ success lie.</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Yo’ mus’ fus’ prove yo’s er man.</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Try’n to ’skewt sum noble plan,</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Oh, de white fo’ks knows yo’s brave,</p>
+               <p rend="justify">Fo’ dis freedom lan’ to save,</p>
+               <p rend="justify">Dat yo’ fit on lan’ an’ wave.</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">All de white fo’ks hain’t yo’ foe.</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Dey will gibb yo’ plenty, sho’.</p>
+               <p rend="justify">Ef yo’ he’p yo’se’f.</p>
+               <p rend="justify">All er long dey’s bin mos’ kine,</p>
+               <p rend="justify">He’p’d yo’ ’long er many line,</p>
+               <p rend="justify">Is to all dis yo’ stone bline?</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Dah’s Abe Linkum, Phillips, too,</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Bet yo’ life dey fit fo’ yo’.</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Thousands mo’ dat I kood name,</p>
+               <p rend="justify">’Mong dem, men o’ nashnul fame,</p>
+               <p rend="justify">Fo’ yo’ dahky dun de same.</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Sum de white fo’ks moighty mean,</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Likewise sum de brack fo’ks seem</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Ebbry race got p’culiar way,</p>
+               <p rend="justify">Guess it all goes in de play;</p>
+               <p rend="justify">Live in hopes dey’ll change sum day.</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <p rend="justify">Yo’ kin shout an’ yo’ kin sing.</p>
+               <p rend="justify">Larn to he’p yo’se’f.</p>
+               <lg>
+                  <l>Think yo’s ’neef de mahstah’s wing.</l>
+                  <l>Larn to he’p yo’se’f.</l>
+                  <l>But yo’ll nebah git er crown</l>
+                  <l>Ef yo’ sot an’ fool eroun’,</l>
+                  <l>Dis am Gospul true an’ soun’.</l>
+                  <l>Larn to he’p yo’se’f.</l>
+                  <l>Dahky, stop dat little song—</l>
+                  <l>Larn to he’p yo’se’f.</l>
+                  <l>Gimme Jesus, take worl’ ’long,</l>
+                  <l>Larn to he’p yo’se’f.</l>
+                  <l>T ry to grip sum o’ dis lan’,</l>
+                  <l>Den yo’ll feel mo’ lak er man;</l>
+                  <l>Yo’ am boun’ to git sum san’,</l>
+                  <l>Ef yo’ he’p yo’se’f.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>COURTIN’ O’ DE PHONE.</head>
+               <lg>
+                  <l>Jingahling! jingahling!</l>
+                  <l>When er sotin’ lone,</l>
+                  <l>Yo’ kin call yo’ honey—</l>
+                  <l>Go to courtin’ o’ de phone.</l>
+               </lg>
+               <lg>
+                  <l>Drives erway de shaddahs,</l>
+                  <l>Makes yo’ quit yo’ fret an’ stew,</l>
+                  <l>Fills yo’ soul wid sunshine,</l>
+                  <l>Opens up yo’ hea’t ernew.</l>
+                  <l>Jingahling! jingahling!</l>
+                  <l>Dis yo’, Liza Jane?</l>
+                  <l>“Yes, dis am yo’ honey,”</l>
+                  <l>Cums de sweet an’ sof’en ’frain.</l>
+                  <l>Den yo’ go to pohin’</l>
+                  <l>In her ear de words o’ love:</l>
+                  <l>Tickles her to def,</l>
+                  <l>An’ makes her think she am er dove.</l>
+                  <l>Jingahling! jingahling!</l>
+                  <l>When yo’ hyeah her say:</l>
+                  <l>“Honey, when yo’ gone it’s</l>
+                  <l>Allus night an’ nebbah day,”</l>
+                  <l>’Pears dat while dey’s fallin’</l>
+                  <l>In yo’ ear, dat lovin’ tone,</l>
+                  <l>Yo’ kin see yo’ honey</l>
+                  <l>Standin’ dah befo’ de phone.</l>
+                  <l>Jingahling! jingahling!</l>
+                  <l>Sweetah grows de tone.</l>
+                  <l>Makes er niggah neerly</l>
+                  <l>Ram his head clah th’ew de phone.</l>
+                  <l>Kaze dem sugah wurds</l>
+                  <l>Dey sho’ly make yo’ hea’t inspah—</l>
+                  <l>’Lecktrifies yo’ spirit,</l>
+                  <l>Sots yo’ whol’ soul all er fiah!</l>
+               </lg>
+               <lg>
+                  <l>Jingahling! jingahling!</l>
+                  <l>When de day is dun,</l>
+                  <l>You no mo’ kin see de</l>
+                  <l>Blazin’, dazzlin’, sinkin’ sun,</l>
+                  <l>How yo’ lub to ’membah</l>
+                  <l>’Bout yo’ courtin’ o’ de phone,</l>
+                  <l>Ez yo’ muse an’ pondah</l>
+                  <l>In yo’ cabin all er lone!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LONESUM VALLEY CHRISTMUS TREE.</head>
+               <lg>
+                  <l>Bes’ ub all de Chrismus ’tainmunts</l>
+                  <l>Dat I axshly ebbah seed,</l>
+                  <l>Was de one at Lonesum Valley</l>
+                  <l>At de church ub Pawsun Weed.</l>
+                  <l>All de ol’ fo’ks an’ de chillun</l>
+                  <l>Dress purraded out dat night,</l>
+                  <l>To de graid big Chrismus ’tainmun’</l>
+                  <l>Fo’ to git dey Chrismus mite.</l>
+                  <l>When dey’s geddahd in dat chapel,</l>
+                  <l>Bruddah.—? Dey was thick ez hops,</l>
+                  <l>When de chillun seed de candy,</l>
+                  <l>Smack’d dey moufs an’ lick’d dey chops.</l>
+                  <l>Dey was He, He, an’ er lafin’</l>
+                  <l>An’ er clappin’ o’ dey han’s,</l>
+                  <l>An’ dey jaws jes’ kep’ er crackin’,</l>
+                  <l>Lak de chittlins in de pans.</l>
+               </lg>
+               <lg>
+                  <l>An’ de ol’ fo’ks tell yo’ honey,</l>
+                  <l>Sah I bleeb dey was de wuss.</l>
+                  <l>Dey’s so ankshus fo’ dey ’freshmun’s</l>
+                  <l>Dey’s mos’ reddy fo’ to bus’.</l>
+                  <l>Preechah Weed wid dat dah swallow</l>
+                  <l>Tail an’ ves’ ub his cut low,</l>
+                  <l>Jes’ had all de flouncin’ sistahs</l>
+                  <l>Leggin’ fo’ to be his boh.</l>
+                  <l>Bruddah Hookey he puzzided;</l>
+                  <l>Felt so big he thowt he’s king;</l>
+                  <l>Tuck er ball bat, rapp’d fo’ ordah,</l>
+                  <l>Said, let’s cleah ah th’oats an’ sing.</l>
+                  <l>Well, he tuck his pussnel meedah,</l>
+                  <l>Gib de linin’ ub de hymn,</l>
+                  <l>An’ dey sing’d de “Weepin’ Moses”</l>
+                  <l>An’ dey sing’d it too, by Jim!</l>
+                  <l>At de klooshun ub dat ditty,</l>
+                  <l>Deekun Jaspah put up prah,</l>
+                  <l>Th’ow’d his haid clah to de ceilin’</l>
+                  <l>Dough he seed de Gates er jah.</l>
+                  <l>Dis hain’t true, I’ll eat de ’possum,</l>
+                  <l>Sech er prah yo’ nebbah hyea’d;</l>
+                  <l>Scratch’d his haid an’ weep’d an’ hollahd</l>
+                  <l>Tell his eyes lak blud was red.</l>
+                  <l>Oh, he’s moanin’ and er tonein’</l>
+                  <l>An’ er kotchen’ ub his bref—</l>
+               </lg>
+               <lg>
+                  <l>Spit erpun his han’s an’ rubb’d em—</l>
+                  <l>Pound de bench fum right to lef’.</l>
+                  <l>Las’ he ’klooded an’ de sistahs</l>
+                  <l>Staht to sing plantashun coon.</l>
+                  <l>Bruddah Hookey diden’ lak it;</l>
+                  <l>Tol’ ’em dey was mos’ too soon.</l>
+                  <l>But de mos’ fun ub de evenin’</l>
+                  <l>Was when gibbin’ presen’s out.</l>
+                  <l>Yo’d er crack’d yo’ sides er lafin’</l>
+                  <l>Tell yo’d got er hol’ de gout.</l>
+                  <l>On de tree dey was er chicken;</l>
+                  <l>Wasn’t laybeld wid er name.</l>
+                  <l>When de dahkies hyeahd erbout it</l>
+                  <l>Ebbry one put up er claim.</l>
+                  <l>Bruddah Gyahdnah spied de chicken</l>
+                  <l>Floppin’ ’neef de Chrismus tree;</l>
+                  <l>Made er home run wid er hollah;</l>
+                  <l>“Dat dah chicken am fo’ me!”</l>
+                  <l>Well, sah, when he hollah’d chicken</l>
+                  <l>’Twas de same ez holl’rin fiah,</l>
+                  <l>Fo’ dat chicken was er stampeed</l>
+                  <l>In de church an’ in de quah.</l>
+                  <l>Sum de sistahs dat had room’ticks</l>
+                  <l>An’ de aches fo’ yeahs an’ yeahs,</l>
+                  <l>Fo’ dat chicken was er scramblin’</l>
+                  <l>An’ a fallin’ obeah cheers.</l>
+               </lg>
+               <lg>
+                  <l>Preechah Weed he got so ’cited</l>
+                  <l>Dat he run clah out his coat,</l>
+                  <l>Fell ergin de stobe kerwollup!</l>
+                  <l>Butt his haid an’ swo’ by note.</l>
+                  <l>But he jump’d up in er jiffy,</l>
+                  <l>Feelin’ lak he was befo’,</l>
+                  <l>Gibb er ban’ spring fo’ dat chicken,</l>
+                  <l>But by Jinks he’s mos’ too slo’.</l>
+                  <l>’Dough he hit he’s haid er stunnah,</l>
+                  <l>Diden’ eben make er dent,</l>
+                  <l>Kaze, he’s so much lak de debbil,</l>
+                  <l>Haid was hard ez adament.</l>
+                  <l>All de time de res’ was skufflin’</l>
+                  <l>An’ er kickin’ right an’ lef’,</l>
+                  <l>Got so bunkshus an’ bumbastic</l>
+                  <l>Dey kood hahdly ’tain deyse’f.</l>
+                  <l>Loudah! Loudah! Got de janglin’</l>
+                  <l>Mo’ an’ mo’ dey ring’d dey bluf’,</l>
+                  <l>Wuss de grabbin’ fo’ de chicken</l>
+                  <l>Den’s when dey got at it ruf.</l>
+                  <l>Sum done pullin’ out dey razzahs</l>
+                  <l>An’ er kyahvin’ fo’ de koh.</l>
+                  <l>All de sistahs got to axin’</l>
+                  <l>Lawd sake leeb us out de doh!</l>
+                  <l>Fin’ly Bruddah Moses wid er</l>
+                  <l>Kinedah p’culiar kine er trick,</l>
+               </lg>
+               <lg>
+                  <l>Kotch’d de poultry, made er bee-line,</l>
+                  <l>Cut er reg’lah dubble quick.</l>
+                  <l>Den sum swo’ day had bin kunjud,</l>
+                  <l>Uddahs ’clahd dey’d bin hoo-dood,</l>
+                  <l>Lef’ de ch’ch er swahin’ vengeance</l>
+                  <l>In de wusses’ kine er mood.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>YES, WEES GOT ER FLAG.</head>
+               <p rend="justify">Ise hyeahd while in mah ramblin’s</p>
+               <p rend="justify">Dat ah mos’ subnoxshus choon,</p>
+               <p rend="justify">Dat ebry bressed nayshun’s</p>
+               <p rend="justify">Got er flag excep’ de coon.</p>
+               <p rend="justify">I hyeah de white fo’ks sing it,</p>
+               <p rend="justify">An’ I hyeah de niggahs, too—</p>
+               <p rend="justify">De way de niggahs sing it</p>
+               <p rend="justify">Seems dey ’cep’ de thing fo’ true.</p>
+               <p rend="justify">Yes wees got er flag!</p>
+               <p rend="justify">It’s de red! de white! de blue!</p>
+               <p rend="justify">It’s de only one to which</p>
+               <p rend="justify">De niggahs should be true!</p>
+               <p rend="justify">It sut’ly am mos’ ’gustin’</p>
+               <p rend="justify">Way de niggahs sing de thing.</p>
+               <p rend="justify">Dey clap dey ban’s an’ hollah</p>
+               <p rend="justify">Sot de kentry all er ring.</p>
+               <p rend="justify">I doesn’t blame de white fo’ks</p>
+               <p rend="justify">Ha’f ez much I do de coon</p>
+               <p rend="justify">Fo’ singin’ an’ er whis’lin’</p>
+               <p rend="justify">Sech er “singyooaytin’” chune.</p>
+               <p rend="justify">Yes wees got er flag!</p>
+               <p rend="justify">It’s de red! de white! de blue!</p>
+               <p rend="justify">It’s de only one to which</p>
+               <p rend="justify">De niggahs should be true!</p>
+               <p rend="justify">De little pickahninnies</p>
+               <p rend="justify">Why dey sing dat meetah, too!</p>
+               <p rend="justify">Dey clap dey han’s an’ hollah,</p>
+               <p rend="justify">’Zackly lak de ol’ fo’ks do—</p>
+               <p rend="justify">An’ when I hyeah dem sing it</p>
+               <p rend="justify">Ez dey dance an’ joobah pat—</p>
+               <p rend="justify">I feels lak walzin’ to ’em</p>
+               <p rend="justify">An’ jes’ knock’n dem out dey hat.</p>
+               <p rend="justify">Yes wees got er flag!</p>
+               <p rend="justify">It’s de red! de white! de blue!</p>
+               <p rend="justify">It’s de only one to which</p>
+               <p rend="justify">De niggahs should be true!</p>
+               <p rend="justify">De blood ub ah ol’ foddahs</p>
+               <p rend="justify">Ah er cry in’ fum de groun’.</p>
+               <p rend="justify">Lissun! chillun, lissun!</p>
+               <p rend="justify">Doan’ yo’ hyeah de doleful soun’?</p>
+               <p rend="justify">Ergin’ sech kine ub ’spreshuns</p>
+               <p rend="justify">An’ er gin sech kine ub choons,</p>
+               <p rend="justify">“Dat ebry race an’ nayshun’s</p>
+               <p rend="justify">Got er flag excep’ de coon.”</p>
+               <p rend="justify">Yes wees got er flag!</p>
+               <p rend="justify">It’s de red! de white! de blue!</p>
+               <p rend="justify">It’s de only one to which</p>
+               <p rend="justify">De niggahs should be true!</p>
+               <p rend="justify">Dey fo’git when Bruddah Linkkum</p>
+               <p rend="justify">Gibb er call in sixty-one.</p>
+               <p rend="justify">Fo’ fo’ks to jine de army</p>
+               <p rend="justify">Ebry niggah grabb’d his gun!</p>
+               <p rend="justify">He lef his little cabin</p>
+               <p rend="justify">While de ole fo’ks stood in tears.</p>
+               <p rend="justify">To fight fo’ dis hyeah kentry</p>
+               <p rend="justify">Ez true faithful volunteers.</p>
+               <p rend="justify">Yes wees got er flag!</p>
+               <p rend="justify">It’s de red! de white! de blue!</p>
+               <p rend="justify">It’s de only one to which</p>
+               <p rend="justify">De niggahs should be true!</p>
+               <p rend="justify">Doh de po’ ol’ niggah</p>
+               <p rend="justify">Doesn’t allus git his rights.</p>
+               <p rend="justify">Fo’ his loyal kindness</p>
+               <p rend="justify">Lots er kicks an’ lots ub smites.</p>
+               <p rend="justify">Yet ’twas ’neef dat banner</p>
+               <p rend="justify">Ha’f er millun niggahs fought.</p>
+               <p rend="justify">He’p’d to win de vict’rys</p>
+               <p rend="justify">Dat dis mighty kentry wrought.</p>
+               <p rend="justify">Yes wees got er flag!</p>
+               <p rend="justify">It’s de red! de white! de blue!</p>
+               <lg>
+                  <l>It’s de only one to which</l>
+                  <l>De niggahs should be true!</l>
+                  <l>Let all ub de niggahs</l>
+                  <l>Teach dey chillun all to love.</l>
+                  <l>Dat ol’ starry banner</l>
+                  <l>Dat am floatin’ up er ’bove.</l>
+               </lg>
+               <lg>
+                  <l>Spite ub all ah trubble</l>
+                  <l>Things dat makes ah progress lagg,</l>
+                  <l>’Membah dat Ol’ Glory</l>
+                  <l>Am ah bannah, am ah flag!</l>
+                  <l>Yes wees got er flag!</l>
+                  <l>It’s de red! de white! de blue!</l>
+                  <l>It’s de only one to which</l>
+                  <l>De niggahs should be true!</l>
+                  <l>Lissun! chillun, lissun!</l>
+                  <l>When dis niggah’s in his grave,</l>
+                  <l>Let dat dah ol’ banner</l>
+                  <l>O’er dis niggah ebbah wave.</l>
+                  <l>’Kaze dat dah ol’ banner</l>
+                  <l>Undah which ah foddahs fought,</l>
+                  <l>Am de only banner</l>
+                  <l>Fo’ to love dat I was taught.</l>
+                  <l>Yes wees got er flag!</l>
+                  <l>It’s de red! de white! de blue!</l>
+                  <l>It’s de only one to which</l>
+                  <l>De niggahs should be true!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HI, MISTAH DAHKY.</head>
+               <lg>
+                  <l>Hi, mistah dahky!</l>
+                  <l>De hoein’ time’s er cumin’—</l>
+                  <l>Loafin’s nearly obeah</l>
+                  <l>Fo’ er fiddlin’ an’ er drummin’,</l>
+               </lg>
+               <lg>
+                  <l>Dancin’ wid de ladies</l>
+                  <l>An’ er steppin’ lak er racer,</l>
+                  <l>Drinkin’ Tom an’ Jerry</l>
+                  <l>An’ sum burbon fo’ er bracer.</l>
+                  <l>Hi, mistah dahky!</l>
+                  <l>Bin er ’joicin’ all de wintah?</l>
+                  <l>Spawkin’ wid de ladies</l>
+                  <l>An’ er cuttin’ quite er splintah?</l>
+                  <l>Dressed up lak er peacock</l>
+                  <l>Hyah all pawted in de middle,</l>
+                  <l>Shakein’ lak er wilier</l>
+                  <l>Jes’ er prancin’ to de fiddle?</l>
+                  <l>Hi, mistah dahky!</l>
+                  <l>See de sun er gittin higher?</l>
+                  <l>Pohin’ down de heatin’</l>
+                  <l>Lak er Sodom an’ Gomire.</l>
+                  <l>Showers am er fallin’</l>
+                  <l>An’ de gawden craps er sproutin.</l>
+                  <l>Hi, mistah dahky!</l>
+                  <l>In yo’ soul is yo’ er doubtin’?</l>
+                  <l>Hi, mistah dahky!</l>
+                  <l>Mo’ den singin’ an’ er prayin’,</l>
+                  <l>De Mastah am requirin’</l>
+                  <l>In dis worrul while yo’s er stayin’,</l>
+                  <l>Spendin’ all yo’ time</l>
+                  <l>Shoutin’, knockin’ down de benches,</l>
+                  <l>Beddah take mo’ time fo’</l>
+                  <l>Hoein’, fixin’ up yo’ fences.</l>
+               </lg>
+               <lg>
+                  <l>Hi, mistah dahky!</l>
+                  <l>Am de meadows lookin’ temptin’?</l>
+                  <l>Lak er bed er feddahs</l>
+                  <l>Make yo’ dream lak Israel kemptin’?</l>
+                  <l>Sympathizin’ wid yo’</l>
+                  <l>But de fo’ks is dun er sowin’.</l>
+                  <l>Hi, mistah dahky!</l>
+                  <l>Now de nex’ thing am de hoein’.</l>
+                  <l>Hi, mistah dahky!</l>
+                  <l>In yo’ soul will yo’ be singin’</l>
+                  <l>When yo’ see de millins</l>
+                  <l>On de runnin’ vines er clingin’?</l>
+                  <l>Sugah co’n er tasslin’</l>
+                  <l>An’ de punkins tarnin’ yallah,</l>
+                  <l>Seasonin’ an’ er sweetenin’</l>
+                  <l>Gittin’ meely, gittin’ mellah.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>DEY’S ER COL’ WAVE BRESHIN’ NIGH.</head>
+               <lg>
+                  <l>Trees dey leaves er sheddin’,</l>
+                  <l>An’ de grasses tarnin’ brown.</l>
+                  <l>Summah days is obeah,</l>
+                  <l>An’ de wintah’s cumin’ roun’</l>
+                  <l>Lonely quail er callin’,</l>
+                  <l>Wid er weary lonely sigh,</l>
+                  <l>Sno’ will soon be fallin’,</l>
+                  <l>Soon er fallin’ fum de sky.</l>
+               </lg>
+               <lg>
+                  <l>Coolsum is de weddah,</l>
+                  <l>Dey’s er col’ wave breshin’ nigh.</l>
+                  <l>Look out fo’ de wintah,</l>
+                  <l>Kaze it’s cumin’ by an’ by.</l>
+                  <l>Lissun at de wailin’,</l>
+                  <l>An’ jes’ lissun at de moan,</l>
+                  <l>Lissun at de sighin’</l>
+                  <l>Tell yo’ dat’s de wintah’s tone.</l>
+                  <l>Craps dun quit er sproutin’,</l>
+                  <l>Not er millun’s on de vine.</l>
+                  <l>Haint er watah seedin’,</l>
+                  <l>Not er portion ub er rhine.</l>
+                  <l>Long time fo’ to wait</l>
+                  <l>Until de wintah leaves dis clime,</l>
+                  <l>Summah cums er totein’</l>
+                  <l>’Roun’ de sweet ol’ millun time.</l>
+                  <l>Hain’t no use er kickin’</l>
+                  <l>Kaze de Lawd is got control,</l>
+                  <l>Makin’ ub de weddah</l>
+                  <l>Eedah hot ah eedah col’.</l>
+                  <l>Nebbah ax er pussun,</l>
+                  <l>Nebbah no whah on de spot,</l>
+                  <l>Wheddah dey would lak to</l>
+                  <l>Hab de weddah col’ er hot.</l>
+                  <l>So jes’ well keep joggin’</l>
+                  <l>’Long er happy sort er way,</l>
+                  <l>Crackin’ jokes er whislin’</l>
+                  <l>Till de wintah goes estray.</l>
+               </lg>
+               <lg>
+                  <l>Weddah doesn’t suit yo’,</l>
+                  <l>Jes’ well make yo’se’f content.</l>
+                  <l>Larn to’cep’ de weddah</l>
+                  <l>Any sort er way it’s sent.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FORCE OF WORDS.</head>
+               <p rend="justify">Chicken stew</p>
+               <p rend="justify">Was all I said.</p>
+               <p rend="justify">Made dat coon</p>
+               <p rend="justify">Hop out o’ bed,</p>
+               <p rend="justify">Butt his head</p>
+               <p rend="justify">Ergin de wall</p>
+               <p rend="justify">Kooden’ stan’</p>
+               <p rend="justify">De thing at all.</p>
+               <p rend="justify">Jes’ dat menshun,</p>
+               <p rend="justify">Jes’ dat talk,</p>
+               <p rend="justify">Made dat coon’s</p>
+               <p rend="justify">Eyes white ez chawk.</p>
+               <p rend="justify">Looked eroun’</p>
+               <p rend="justify">An’ licked his chops</p>
+               <p rend="justify">Ez doh he hyeahd</p>
+               <p rend="justify">Dey wings flopp! flopp!</p>
+               <p rend="justify">Well, dem wurds,</p>
+               <p rend="justify">Dey struck dat coon</p>
+               <p rend="justify">Lak er ’lectric</p>
+               <p rend="justify">Shock in June!</p>
+               <p rend="justify">Kooden’ sleep</p>
+               <p rend="justify">No mo’ dat night,</p>
+               <p rend="justify">Rolled an’ tossed</p>
+               <p rend="justify">Until daylight.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>I TOL’ YO’ SO.</head>
+               <p rend="justify">Playin’ out dah</p>
+               <p rend="justify">Wid dat white trash’,</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+               <p rend="justify">Dat yo’ back</p>
+               <p rend="justify">Wood git er lash;</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+               <p rend="justify">Pay no ’tenshun</p>
+               <p rend="justify">Whut I say,</p>
+               <p rend="justify">Allus got</p>
+               <p rend="justify">Sum uddah way,</p>
+               <p rend="justify">Wished yo’ haddah,</p>
+               <p rend="justify">P’haps, sum day.</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+               <p rend="justify">Yo’ de wusses’</p>
+               <p rend="justify">Chile in town,</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+               <p rend="justify">Foll’rin’ all</p>
+               <p rend="justify">De white trash ’roun’</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+               <p rend="justify">Aftah Peedah,</p>
+               <p rend="justify">John and Paul,</p>
+               <p rend="justify">Fus’ thing fightin’</p>
+               <p rend="justify">Wid ’em all;</p>
+               <p rend="justify">Den de niggah’s</p>
+               <p rend="justify">Fus’ to fall.</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+               <p rend="justify">Licked de ’lasses</p>
+               <p rend="justify">Off yo’ bread,</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+               <p rend="justify">Den dey knocked</p>
+               <p rend="justify">Yo’ in de head.</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+               <p rend="justify">Called yo’ niggah</p>
+               <p rend="justify">Sich ez dat</p>
+               <p rend="justify">Said yo’ hyah</p>
+               <p rend="justify">Wuz lak er mat.</p>
+               <p rend="justify">Umph! Dem white fo’ks</p>
+               <p rend="justify">Made yo’ scat.</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+               <p rend="justify">Umph! Dey skaid</p>
+               <p rend="justify">Yo’ mos’ to def.</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+               <p rend="justify">Look ee dah,</p>
+               <p rend="justify">Yo’ out o’ bref.</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+               <p rend="justify">Run so fas’</p>
+               <p rend="justify">Dun los’ yo’ hat,</p>
+               <p rend="justify">Got no idea</p>
+               <p rend="justify">Whah it’s at;</p>
+               <p rend="justify">Gwine to whoop</p>
+               <p rend="justify">Yo’ good fo’ dat.</p>
+               <p rend="justify">I tol’ yo’ so.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE PASSING OF NIGHT.</head>
+               <p rend="justify">De moon’s dun sneaked</p>
+               <p rend="justify">Clah out er sight,</p>
+               <p rend="justify">De stars dun quit</p>
+               <p rend="justify">Dey peepin’;</p>
+               <p rend="justify">De shaddahs dun gone</p>
+               <p rend="justify">Stole erway,</p>
+               <p rend="justify">De world’s dun quit</p>
+               <p rend="justify">It’s sleepin’.</p>
+               <p rend="justify">De hours dey’s slowly</p>
+               <p rend="justify">Creeped erlong</p>
+               <p rend="justify">Until de world’s in light</p>
+               <p rend="justify">An’ song;</p>
+               <p rend="justify">De sun smiles on</p>
+               <p rend="justify">Creation’s throng—</p>
+               <p rend="justify">Er cross de worl’</p>
+               <p rend="justify">Goes sweeping.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A TALE O’ WOE.</head>
+               <lg>
+                  <l>Manny am de battle</l>
+                  <l>Dahky’s got to fight.</l>
+                  <l>Ebbry tarn he’s makin’</l>
+                  <l>Trouble’s dah in sight.</l>
+                  <l>Ef he’s got de ’liggun</l>
+                  <l>Puffec’ to de spot,</l>
+                  <l>Hard to keep fum cussin’</l>
+                  <l>Losin’ all he’s got.</l>
+                  <l>White fo’ks got de money,</l>
+                  <l>White fo’ks got de lan’,</l>
+                  <l>Doan’ wan’ a po’ dahky</l>
+                  <l>Hab er place to stan’.</l>
+                  <l>Ef dey miss er chicken</l>
+                  <l>Ef dey miss er goose,</l>
+                  <l>Fus’ thing grab er dahky</l>
+                  <l>Fo’ de calerboose.</l>
+                  <l>Long ez he’s er hoein’,</l>
+                  <l>Diggin’ in de san’,</l>
+                  <l>Bress yo’ soul, say, mistah,</l>
+                  <l>He am jes’ de man.</l>
+                  <l>Let him git de money</l>
+                  <l>Cumin’ mos’ too fas’,</l>
+                  <l>White fo’ks git to skeemin’,</l>
+                  <l>Say it mussen’ las’.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LULLABY.</head>
+               <lg>
+                  <l>Pickahninny, Pickahninny,</l>
+                  <l>Close yo’ little eyes.</l>
+                  <l>Evenin’ am er ’proachin’,</l>
+                  <l>Tells yo’ sleep an’ quit yo’ cries,</l>
+                  <l>Mammy’s gwine to keep</l>
+                  <l>All o’ de boogahman erway—</l>
+                  <l>Gyahd her little pickahninny</l>
+                  <l>Till de cumin’ day.</l>
+                  <l>Pickahninny, pickahninny,</l>
+                  <l>Sleep an’ take yo’ res;</l>
+                  <l>Sleep wid all de cumfort</l>
+                  <l>Ub de birdies in dey nes’.</l>
+                  <l>When de sun’s dun sinkin’,</l>
+                  <l>In de eas’ begin to rise,</l>
+                  <l>Mammy’s little pickahninny</l>
+                  <l>Den kin ope’ its eyes.</l>
+                  <l>Pickahninny, pickahninny,</l>
+                  <l>Mammy’s little love,</l>
+                  <l>May de gyahdin’ angels</l>
+                  <l>Hubbah ’roun’ de fum erbove.</l>
+                  <l>Wid dey sof’en sweeten whispahs</l>
+                  <l>Keep de lull’d er sleep,</l>
+                  <l>While de weary lonely hours</l>
+                  <l>Slowly onward creep.</l>
+               </lg>
+               <lg>
+                  <l>Pickahninny, pickahninny,</l>
+                  <l>Keep er fas’ er sleep,</l>
+                  <l>While de weary, lonely hours</l>
+                  <l>Slowly onward creep.</l>
+                  <l>Day will soon be breakin’,</l>
+                  <l>Sun er creepin’ ’cross de skies,</l>
+                  <l>Mammy’s little pickahninny</l>
+                  <l>Den kin ope it’s eyes.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE ECSTASY OF UNCLE JOE.</head>
+               <p rend="justify">Feel lak shoutin’ hallelooyah,</p>
+               <p rend="justify">Habben’ got an’ ache ner pain.</p>
+               <p rend="justify">Los’ dat kahnsahn roomertism,</p>
+               <p rend="justify">No mo’ hobblin’ wid dat cane.</p>
+               <p rend="justify">Things look lak de Eden Gawden,</p>
+               <p rend="justify">Hardly bleeb dis am mah se’f.</p>
+               <p rend="justify">Dis am bliss in ebbry ’ticklah,</p>
+               <p rend="justify">Tickles mah ol’ soul to def.</p>
+               <p rend="justify">Dat snake oil sho’ did de bizzness,</p>
+               <p rend="justify">Geddah wid dem herbs an’ roots.</p>
+               <p rend="justify">Bress de Lawd! umph! grayshus Mahstah!</p>
+               <p rend="justify">Hardly stay in mah ol’ boots!</p>
+               <lg>
+                  <l>Go ’way, chillun, let yo’ daddy</l>
+                  <l>Hab de place all to hisse’f.</l>
+                  <l>Kaze de ol’ man’s jollyfyin’</l>
+                  <l>An’ he’s drawin’ bran’ new bref.</l>
+               </lg>
+               <lg>
+                  <l>Dis ol’ frame am no mo’ shaky,</l>
+                  <l>Doh I is mos’ eighty-eight.</l>
+                  <l>Dem ol’ jints am jes’ ez soople’s</l>
+                  <l>When Ise in mah youthful state.</l>
+                  <l>Feel lak lay’n erside mah ’liggun,</l>
+                  <l>Once mo’ dance de buck an’ wing.</l>
+                  <l>Is dah ’mong yo’ doubtin’ Thomas,</l>
+                  <l>Think dat I kaint do dat thing?</l>
+                  <l>Oh, I ustah cut it, chillun,</l>
+                  <l>When ol’ fiddlin’ Peet was ’roun’.</l>
+                  <l>Had all o’ de white an’ brac’ fo’ks</l>
+                  <l>Beat, dat lived er bout de town.</l>
+                  <l>An’ yo bet he was er fiddlah,</l>
+                  <l>Make yo’ dance yo’se’f leg bowl.</l>
+                  <l>Played de sweetes’ kine o’ ditties</l>
+                  <l>Dat jes’ ’joiced yo’ berry soul.</l>
+                  <l>Look hyeah, Rastus! drap dat fiddle,</l>
+                  <l>Doan’ yo’ sot dat thing er chune.</l>
+                  <l>Ef yo’ do, in spite mah ’liggun,</l>
+                  <l>Make out me er dancin’ coon.</l>
+                  <l>See, de debbil’s allus skeemin’</l>
+                  <l>Fo’ to make de Chris’shuns sin.</l>
+                  <l>Usein’ chillun in his bizzness,</l>
+                  <l>Dat’s de way he takes to win.</l>
+               </lg>
+               <lg>
+                  <l>Now, he put it in li’l Rastus</l>
+                  <l>Fo’ to git dat fiddle down.</l>
+                  <l>Tho’t I kooden’ r’sist tem’tayshun</l>
+                  <l>Fo’ to dance at its ol’ soun’.</l>
+                  <l>Not dis time, oh, no! Brer Satan,</l>
+                  <l>Kin yo’ make out me er clown.</l>
+                  <l>Git me dancin, lose mah ’liggun</l>
+                  <l>On de las’ day lose mah crown.</l>
+                  <l>Guess I beddah git de Bible,</l>
+                  <l>Read de Mahstah’s bressed Wurd.</l>
+                  <l>Leeb deez hyeah mischebus raskuls,</l>
+                  <l>Kaze dey’s sum de debil’s herd.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>KEEP ER GOIN’.</head>
+               <p rend="justify">Yo’ dat’s in de race o’ life,</p>
+               <p rend="justify">Keep er goin’!</p>
+               <p rend="justify">Nebah stop fo’ little strife,</p>
+               <p rend="justify">Keep er goin’!</p>
+               <p rend="justify">Sum one kick yo’ on de co’n,</p>
+               <p rend="justify">Nuddah prick yo’ wid er thorn,</p>
+               <p rend="justify">Toot loudah on yo’ horn,</p>
+               <p rend="justify">Keep er goin’!</p>
+               <p rend="justify">Ef yo’ sortah lose de track,</p>
+               <p rend="justify">Keep er goin’!</p>
+               <p rend="justify">Doan’ tarn fool an’ saunter back,</p>
+               <p rend="justify">Keep er goin’!</p>
+               <p rend="justify">Take no time to ax an’ ’quire,</p>
+               <p rend="justify">Keep er headin’ fo’ de wire.</p>
+               <p rend="justify">Push out in de mud an’ mire.</p>
+               <p rend="justify">Keep er goin’!</p>
+               <p rend="justify">Ef de road leads ’roun’ an’ ’roun’,</p>
+               <p rend="justify">Keep er goin’!</p>
+               <p rend="justify">Sumtimes up an’ sumtimes down,</p>
+               <p rend="justify">Keep er goin’!</p>
+               <p rend="justify">Ef yo’ fall an’ crack yo’ shin,</p>
+               <p rend="justify">Git up, koch yo’ secun’ win’.</p>
+               <p rend="justify">Spruce up, try de thing ergin.</p>
+               <p rend="justify">Keep er goin’!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CLIMIN’ UP DE HILL.</head>
+               <lg>
+                  <l>Fo’ to climb de hill o’ fame,</l>
+                  <l>Bet it takes er lot o’ tussel.</l>
+                  <l>It takes er lot er scratchin’</l>
+                  <l>An’ it takes er lot er hus’le.</l>
+                  <l>It’s now an’ den er slip,</l>
+                  <l>An’ it’s now an’ den er stumble.</l>
+                  <l>Ef yo’ ’spec’ to reach de summit</l>
+                  <l>Yo’ mus’ keep on meek an’ humble.</l>
+                  <l>Ez yo’ climin’ up de hill,</l>
+                  <l>Yo’ will git er lot er clubbin’,</l>
+                  <l>Yo’ll git er lot er knockin’,</l>
+                  <l>An’ yo’ll git er lot er drubbin’!</l>
+               </lg>
+               <lg>
+                  <l>Now an’ den yo’ll mope,</l>
+                  <l>Den ergin yo’ll be er creepin’.</l>
+                  <l>Yo’ll git so tiad an’ weary,</l>
+                  <l>Wan’ to res’ an’ go to sleepin’.</l>
+                  <l>Ez yo’ climin’ fo’ de prize,</l>
+                  <l>Yo’ mus’ do er lot o’ scramble,</l>
+                  <l>Yo’ll run into de briars,</l>
+                  <l>An’ yo’ll strike er lot o’ bramble.</l>
+                  <l>Yo’ll fine er lot o’ thorns</l>
+                  <l>’Stead er findin’ lots o’ roses.</l>
+                  <l>Keep er headin’ fo’ de summit,</l>
+                  <l>Dah is whah success reposes.</l>
+                  <l>Yo’ mussen’ spec’ er crown</l>
+                  <l>Fus’ widdout sum tribyoolayshun,</l>
+                  <l>Kaze dat’s de rule o’ ordah</l>
+                  <l>Fo’ de white an’ brackes’ nation.</l>
+                  <l>Yo’ kno’ it’s sumtimes up,</l>
+                  <l>Den ergin it’s in de valley,</l>
+                  <l>Den ergin yo’ go er scootin’</l>
+                  <l>Towards de goal yo’ go er sally.</l>
+                  <l>Yo’ run on fo’ er spell,</l>
+                  <l>Den ergin yo’ git to slippin’,</l>
+                  <l>Yo’ now an’ den’ll reel,</l>
+                  <l>Git to trippin’ an’ er tippin’,</l>
+                  <l>But lak de ship o’ Zion,</l>
+                  <l>When de waves it am er dashin’</l>
+                  <l>Yo’ ride right th’ew de storm,</l>
+                  <l>In de harbor cum er splashin’.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SISTAH RUFFLE.</head>
+               <lg>
+                  <l>No use tawkin,’ sistah Ruffle</l>
+                  <l>Am a gittin’ out de kinks;</l>
+                  <l>Gittin’ up to date in fashun,</l>
+                  <l>She out-dresses sistah Jinks;</l>
+                  <l>Got a bran new dress o’ satin,</l>
+                  <l>Wid a hot stuff ruffl’d skirt;</l>
+                  <l>Way she’s lookin’ ebry dahky</l>
+                  <l>At her grinn’d an’ tried to flirt.</l>
+                  <l>An’ she’s gone an’ got a mobeel</l>
+                  <l>Cumin’ down klah to her feet;</l>
+                  <l>One dem silks trimm’d in white kawdin,’</l>
+                  <l>It’s a stunnah, kain’t be beet;</l>
+                  <l>An’ her hat, oh goodness grashus!</l>
+                  <l>Lak a flowah bed o’ bloom;</l>
+                  <l>An’ she fewmigate de breezes,</l>
+                  <l>Wid de sweetes’ kine o’ ’fewme.</l>
+                  <l>Oh, yo’ know ol’ sistah Ruffle,</l>
+                  <l>Ustah wash erbout de town;</l>
+                  <l>Had a husbahn dat was leg-bowl,</l>
+                  <l>Jes’ as ugly as a clown;</l>
+                  <l>Yes de ol’ gal we’ de goggles,</l>
+                  <l>Hobblin’ ’roun’ wid roomotick,</l>
+                  <l>Diden’ hab ’em on dat ’kayshun,</l>
+                  <l>She was flouncin’ double quick.</l>
+                  <l>Doan’ yo’ know, she am bawlhaided,</l>
+                  <l>But dat dey she we’ er wig;</l>
+               </lg>
+               <lg>
+                  <l>Dog mah cats ef yo’ kood tell it,</l>
+                  <l>Ef yo’ could I’d dance’d a jig;</l>
+                  <l>Twasn’t made fum hyah dat’s kinky,</l>
+                  <l>But fum dat call’d awbun hyah;</l>
+                  <l>Looks so poody slick, an’ wabey,</l>
+                  <l>Kine yo’ see de white fo’ks wah.</l>
+                  <l>Had it done an’ roll’d in ribbon,</l>
+                  <l>On de pompydoro style;</l>
+                  <l>Had deez great big whut yo’ call ’em?</l>
+                  <l>Hyahpins yais yo’ right mah chile;</l>
+                  <l>At de sides she lef’ it bushy</l>
+                  <l>Fo’ to kibbah up her yeahs;</l>
+                  <l>Kose she seed de white fo’ks do it</l>
+                  <l>Fo’ de las’ free o’ fo’ yeahs.</l>
+                  <l>Yais, she had on glasses, go ’way!</l>
+                  <l>Dem dat habs de gol’en rim</l>
+                  <l>An’ a chain wuz fas’en to ’em,</l>
+                  <l>Cumin’ down beneef her chin;</l>
+                  <l>An’ her bowkey, go’ way honey!</l>
+                  <l>It wahs flowahs o’ all kine,</l>
+                  <l>Oh, it look’d mos’ loud an’ spickyus,</l>
+                  <l>Wish’d de lawd it had bin mine.</l>
+                  <l>Oddah seed her when she pass’d us,</l>
+                  <l>Thow’d her head clah to de cloud;</l>
+                  <l>Switch’d her se’f an’ kooden’ see us,</l>
+                  <l>Kaze she’s togg’d up mos’ to loud;</l>
+                  <l>Now an’ den shed’ gib us, honey,</l>
+                  <l>Whut yo’ call de cake wa’k gran’,</l>
+               </lg>
+               <lg>
+                  <l>An’ her big feet cut no figgah;</l>
+                  <l>Was’ she right? she beet de ban’.</l>
+                  <l>When she’d pass sto’ windahs, honey,</l>
+                  <l>She’d size up her se’f an’ smile;</l>
+                  <l>Twis’ her-se’f an’ lif her trailah,</l>
+                  <l>Cose she tho’wt she’s poody, chile;</l>
+                  <l>Why, I know’d dat dah ol’ dahky</l>
+                  <l>When she haden’ braid to eat;</l>
+                  <l>When it cum to shoes an’ sockin’s,</l>
+                  <l>Dey was stranjahs to her feet.</l>
+                  <l>Now she needn’t be o’ spreadin’</l>
+                  <l>On befo’ me any ahs,</l>
+                  <l>Kaze de Lawd in heaben knows it,</l>
+                  <l>Dat I ’bout her doesn’t kyahs;</l>
+                  <l>She jes’ lately got a penshun,</l>
+                  <l>An’ it’s sortah swell’d her haid,</l>
+                  <l>It’s a wondah diden’ bus’ it,</l>
+                  <l>An’ de dahky isn’t daid.</l>
+                  <l>Doan’ yo’ ’membah when she usetah</l>
+                  <l>Wah dat bumzeen yallah dress?</l>
+                  <l>Whah she’s gwine to git de nex’ one,</l>
+                  <l>Kep’ her allus on de guess;</l>
+                  <l>Whut I say a ’bout sum dahkies,</l>
+                  <l>Ef dey git a rag er to,</l>
+                  <l>’Speshly dems po’ as Jobe’s tukehy,</l>
+                  <l>Dey’ll wa’k obah me an’ yo’.</l>
+                  <l>I jes’ feed dem kine o’ dahkies,</l>
+                  <l>Wid er big long hanel spoon;</l>
+               </lg>
+               <lg>
+                  <l>Bet dey needen’ take dis sistah,</l>
+                  <l>Fo’ er hankshef haided coon;</l>
+                  <l>Kaze it’s bawn in all ah kin fo’ks,</l>
+                  <l>To be stylish an’ be proud,</l>
+                  <l>Nebbah habs dis lady, honey,</l>
+                  <l>To sech dahkies ebah bow’d.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE GALLANT BLACKS OF SAN JUAN HILL.</head>
+               <lg>
+                  <l>Without a tremor or a pause,</l>
+                  <l>Enlisted for their country’s cause,</l>
+                  <l>’Mid shout and song the gallant boys</l>
+                  <l>Charge up the hill of San Juan.</l>
+                  <l>Like war-scarred veterans of old,</l>
+                  <l>Made with patriot ardor bold,</l>
+                  <l>Press they forward towards the goal,</l>
+                  <l>Not a soldier falters.</l>
+                  <l>Blood and carnage everywhere,</l>
+                  <l>Detonations rend the air,</l>
+                  <l>Not for once do they despair,</l>
+                  <l>But press on to conquer.</l>
+                  <l>See them charge with matchless splendor</l>
+                  <l>Heart to heart each one’s defender,</l>
+                  <l>All praise for the part they render,</l>
+                  <l>For them is the victory.</l>
+               </lg>
+               <lg>
+                  <l>See the starry emblem high;</l>
+                  <l>This they’ll keep or all will die.</l>
+                  <l>Forward! Is their battle cry,</l>
+                  <l>See them still advancing.</l>
+                  <l>Hell of fire ’tis their’s to greet,</l>
+                  <l>Comrades falling at their feet.</l>
+                  <l>Still for them to fight ’tis sweet,</l>
+                  <l>See them still advancing!</l>
+                  <l>See the foe’s ranks try to rally,</l>
+                  <l>Thank God! They’ve made their last tally.</l>
+                  <l>Ne’er again will they forth sally,</l>
+                  <l>Lost their hopes forever!</l>
+                  <l>Another charge! They reach the summit,</l>
+                  <l>And the prize at last they’ve won it,</l>
+                  <l>Fighting ev’ry inch they’ve done it,</l>
+                  <l>Vic’try on their banner.</l>
+                  <l>Columbia, thou hast won the day,</l>
+                  <l>Tribute on the altar lay.</l>
+                  <l>Plaudits to those brave boys pay,</l>
+                  <l>They thy brave defenders.</l>
+                  <l>Heaven swing thy gates a-wide,</l>
+                  <l>Forever in thy walls abide,</l>
+                  <l>Let those who so nobly died,</l>
+                  <l>Be this, their reward.</l>
+               </lg>
+               <lg>
+                  <l>In the starry firmament,</l>
+                  <l>Thou bright gem of government,</l>
+                  <l>Brightest in the firmament,</l>
+                  <l>Still thy encircling light.</l>
+                  <l>As a beacon and a sign,</l>
+                  <l>To oppressed men ever shine,</l>
+                  <l>Till on this terrestrial ball,</l>
+                  <l>God shall end the reign of all.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
