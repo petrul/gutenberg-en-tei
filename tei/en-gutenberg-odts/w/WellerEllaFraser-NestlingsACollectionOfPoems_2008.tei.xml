@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nestlings / A Collection of Poems</title>
+            <author>Ella Fraser Weller</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-05T08:55:29Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/w/WellerEllaFraser-NestlingsACollectionOfPoems_2008.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Ella Fraser Weller</name>
+               <date>2024-01-05T08:55:29Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Nestlings / A Collection of Poems</head>
+         <author>Ella Fraser Weller</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/w/WellerEllaFraser-NestlingsACollectionOfPoems_2008.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>NESTLINGS</head>
+            <pb/>
+            <div type="div2">
+               <head>A COLLECTION OF POEMS</head>
+               <div type="div3">
+                  <head>BY</head>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ELLA FRASER WELLER</head>
+               <div type="div3">
+                  <head>ILLUSTRATED BY</head>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>K. A. FRASER</head>
+               <lg>
+                  <l>FROM PICTURES OF CHILDREN IN THE AUTHOR'S</l>
+                  <l>IMMEDIATE CIRCLE OF FRIENDS</l>
+                  <l/>
+                  <l>SAN FRANCISCO</l>
+                  <l>CALIFORNIAN PUBLISHING CO.</l>
+                  <l>1892</l>
+                  <l>Copyright, 1892, by Ella Fraser Weller</l>
+               </lg>
+               <div type="div3">
+                  <head>LOVINGLY DEDICATED<lb/>
+                     <lb/>TO THE CHILDREN WHOSE FACES<lb/>
+                     <lb/>ARE<lb/>
+                     <lb/>PICTURED WITHIN</head>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>INTRODUCTORY</head>
+               <p rend="justify">These selections have come of occasions. They were not meant for the public eye. The thought of a possible book had given them greater unity, and the vision of a possible critic had probably modified their form. The mother-love for children called for them and they came; there is a conspiracy of mother-loves and the fugitive poems became a book.</p>
+               <p rend="justify">The accompanying illustrations are shadows of real faces and may be readily duplicated in any limited circle.</p>
+               <p rend="justify">"Nestlings" may serve as an album for some innocent faces, and perpetuate some possibly helpful sentiment.</p>
+               <p rend="justify">S. H. WELLER</p>
+               <p rend="justify">
+                  <hi rend="italic">Los Angeles, California</hi>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>List of Illustrations</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell rend="end">
+                        <lb/>1<lb/>2<lb/>3<lb/>4<lb/>5<lb/>6<lb/>7</cell>
+                     <cell>
+                        <lb/>Arthur<lb/>Edith<lb/>Harold M.<lb/>Lester<lb/>Alfred<lb/>Kennth<lb/>Elliot</cell>
+                     <cell>}</cell>
+                     <cell>
+                        <hi rend="bold">Frontispiece</hi>
+                     </cell>
+                  </row>
+               </table>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell> </cell>
+                     <cell>Cornelia</cell>
+                     <cell rend="end">
+                        <hi rend="bold">Front Cover</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell rend="end">Between pages</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>Author and Child</cell>
+                     <cell rend="end">
+                        <hi rend="bold">1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>Audrey</cell>
+                     <cell rend="end">
+                        <hi rend="bold">5 and 6</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>Carl</cell>
+                     <cell rend="end">
+                        <hi rend="bold">11 and 12</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>Ethelwin</cell>
+                     <cell rend="end">
+                        <hi rend="bold">15 and 16</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>Mother and Babe</cell>
+                     <cell rend="end">
+                        <hi rend="bold">20 and 21</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>Harold and Earl</cell>
+                     <cell rend="end">
+                        <hi rend="bold">25 and 26</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>Helen</cell>
+                     <cell rend="end">
+                        <hi rend="bold">30 and 31</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>Harold W.</cell>
+                     <cell rend="end">
+                        <hi rend="bold">34 and 35</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>Edith</cell>
+                     <cell rend="end">
+                        <hi rend="bold">39 and 40</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>Warren and Albert</cell>
+                     <cell rend="end">
+                        <hi rend="bold">44 and 45</hi>
+                     </cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Contents</head>
+               <table rend="frame" xml:id="Table3">
+                  <row>
+                     <cell> </cell>
+                     <cell rend="end">PAGE</cell>
+                  </row>
+                  <row>
+                     <cell>My Baby's Feet</cell>
+                     <cell rend="end">
+                        <hi rend="bold">1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Two Little Seeds</cell>
+                     <cell rend="end">
+                        <hi rend="bold">3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Edith</cell>
+                     <cell rend="end">
+                        <hi rend="bold">6</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Theft</cell>
+                     <cell rend="end">
+                        <hi rend="bold">8</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Who's Afraid</cell>
+                     <cell rend="end">
+                        <hi rend="bold">12</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lullaby</cell>
+                     <cell rend="end">
+                        <hi rend="bold">14</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Two of Them</cell>
+                     <cell rend="end">
+                        <hi rend="bold">15</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In the Meadow</cell>
+                     <cell rend="end">
+                        <hi rend="bold">16</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Beatrice</cell>
+                     <cell rend="end">
+                        <hi rend="bold">19</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>My Boy</cell>
+                     <cell rend="end">
+                        <hi rend="bold">21</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Fairy's Motto</cell>
+                     <cell rend="end">
+                        <hi rend="bold">23</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Reverie</cell>
+                     <cell rend="end">
+                        <hi rend="bold">26</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>My Choice</cell>
+                     <cell rend="end">
+                        <hi rend="bold">28</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Elliott</cell>
+                     <cell rend="end">
+                        <hi rend="bold">30</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Three Little Kittens</cell>
+                     <cell rend="end">
+                        <hi rend="bold">31</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>What is the Use of Trying</cell>
+                     <cell rend="end">
+                        <hi rend="bold">33</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Only Five</cell>
+                     <cell rend="end">
+                        <hi rend="bold">35</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Unreconciled</cell>
+                     <cell rend="end">
+                        <hi rend="bold">37</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Naughty Dolly</cell>
+                     <cell rend="end">
+                        <hi rend="bold">40</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Mabel's Lesson</cell>
+                     <cell rend="end">
+                        <hi rend="bold">41</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Baby Kathleen</cell>
+                     <cell rend="end">
+                        <hi rend="bold">43</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Two Boys</cell>
+                     <cell rend="end">
+                        <hi rend="bold">45</hi>
+                     </cell>
+                  </row>
+               </table>
+               <lg>
+                  <l/>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>"As I came o'er the distant hills</l>
+                  <l>I heard a nestling sing:</l>
+                  <l>'Oh, pleasant are the primrose buds</l>
+                  <l>In the perfumed breath of spring!</l>
+                  <l>And pleasant are the mossy banks</l>
+                  <l>Beneath the birchen bowers—</l>
+                  <l>But a home wherein no children play</l>
+                  <l>Is a garden shorn of flowers.'"</l>
+               </lg>
+               <p rend="justify">"MY BABY'S FEET"</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>My Baby's Feet</head>
+               <lg>
+                  <l>Within my palm, like roseleaves, dainty, sweet,</l>
+                  <l>I fold with tenderest love two little feet—</l>
+                  <l>Two little feet, twin flow'rets come to bring</l>
+                  <l>To mother's heart the first sweet breath of spring.</l>
+                  <l>Wearied with play, at last they lie at rest,</l>
+                  <l>One satin sole against its fair mate pressed.</l>
+                  <l>Dear little feet, fain would this hand 'ere shield</l>
+                  <l>Thy tender flesh from thorns which lie concealed</l>
+                  <l>Along the path which, stretching through the years,</l>
+                  <l>Leads on to God, through joy and silent tears,</l>
+                  <l>Oh, would that I could pluck from thy dear way</l>
+                  <l>Whate'er might tempt these little feet to stray,</l>
+                  <l>What though my hands be torn by thorn and stone,</l>
+                  <l>Thy joy, for all my pain would soon atone;</l>
+                  <l>If but thy mother planned thy life for thee,</l>
+                  <l>No other path so bright as thine should be.</l>
+                  <l>But what am I, that I my love should count</l>
+                  <l>Greater than that of Him, who is love's fount—</l>
+                  <l>Who sent from heaven, these dainty baby feet</l>
+                  <l>To make thy mother's life and love complete?</l>
+                  <l>What truer hand than His could mark thy path?</l>
+                  <l>What greater love than God, thy Father, hath?</l>
+                  <l>What greater wisdom shields thee from all strife?</l>
+                  <l>What greater mercy grants eternal life?</l>
+                  <l>When shadows come, and clouds obscure thy way</l>
+                  <l>He knows that darkness only heralds day.</l>
+                  <l>If bruised thy flesh, though mother's heart may bleed,</l>
+                  <l>He, in His mercy, knows thy greatest need.</l>
+                  <l>Then, little feet, though mother's prayers may rise,</l>
+                  <l>In love and trust, that never doubt implies</l>
+                  <l>That God, thy steps may lead in ways aright,</l>
+                  <l>And keep thy soul from sin's unholy blight,</l>
+                  <l>I'll leave thy future in His hands alone,</l>
+                  <l>And know, at last, He'll bring thee safely home.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>Two Little Seeds<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>Two little seeds sank deep in the earth,</l>
+                  <l>Down through the narrow darkening way,</l>
+                  <l>Side by side in a slow descent,</l>
+                  <l>Away from the light, on an April day.</l>
+                  <l>Two little seeds—you scarce could tell</l>
+                  <l>One from the other—both brown and round,</l>
+                  <l>Planted, that day by the self-same hand</l>
+                  <l>In the mellow depths of the self same ground.</l>
+                  <l>Nestling together they chattered thus,</l>
+                  <l>As close in their cozy nest they lay:</l>
+                  <l>"What are we here for down in the dark</l>
+                  <l>Hidden so deep from the light of day?"</l>
+                  <l>"What are we here for? I, for one,"</l>
+                  <l>Said the first little seed, in a gruesome tone,</l>
+                  <l>"Shall just go to sleep, and sleep right on,</l>
+                  <l>Close by the side of this round smooth stone.</l>
+                  <l>I shall not stir, but I'll sweetly sleep,</l>
+                  <l>Until old Mother Earth must surely see</l>
+                  <l>That here, in the damp of the chilly ground,</l>
+                  <l>Is never the place for the like of me."</l>
+                  <l>Proud and idle, it went to sleep,</l>
+                  <l>And it slept right on, though the warm rain fell,</l>
+                  <l>And Nature found, when she came to look,</l>
+                  <l>Nothing at all but an empty shell.</l>
+                  <l>The other seed mused—"It cannot be right</l>
+                  <l>Thus in the earth to so idly lie,</l>
+                  <l>This life of ours will wasted be</l>
+                  <l>And soon in this gloom, unused, must die.</l>
+                  <l>
+                     <hi rend="italic">I</hi> shall not sleep—from this narrow shell</l>
+                  <l>I'll find my way, and out of this night</l>
+                  <l>I shall reach right up, until day by day</l>
+                  <l>I nearer and nearer approach the light.</l>
+                  <l>Already I feel the welcome heat</l>
+                  <l>Warming the loam that around me lies,</l>
+                  <l>Already I see in my sweetest dreams</l>
+                  <l>The genial sun and the azure skies.</l>
+                  <l>Oh! slumber then in your slothful ease,</l>
+                  <l>By your foolish fancies alone deceived,</l>
+                  <l>While the grandest victories Earth e'er knew</l>
+                  <l>Are only waiting to be achieved."</l>
+                  <l>So out from his shell the wee seed burst,</l>
+                  <l>And stretched to the full of its graceful length,</l>
+                  <l>While the light and warmth of the Summer sun</l>
+                  <l>Added each day to its beauty and strength.</l>
+                  <l>Its slender fingers of tender green</l>
+                  <l>Catches the trellis here and there,</l>
+                  <l>Higher and higher reaching up,</l>
+                  <l>Branching out in the Summer air.</l>
+                  <l>Oh, fair are the blossoms it bears for all,</l>
+                  <l>And fragrant the breath of its golden bells;</l>
+                  <l>Glad is the music they ring for you,</l>
+                  <l>From the perfumed depths where the dewdrop dwells.</l>
+                  <l>They wake you out of your sluggish sleep—</l>
+                  <l>Their voices are ringing—Arise! Arise!</l>
+                  <l>God gave you your life to use for Him,</l>
+                  <l>And can you the gift of a King despise?</l>
+                  <l>Your strength will waste if it is not used,</l>
+                  <l>The life He has lent He will ask again,</l>
+                  <l>Can you bring but the empty shell to Him,</l>
+                  <l>And tell Him His gift has been in vain?</l>
+               </lg>
+               <p rend="justify">"EDITH"</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Edith</head>
+               <lg>
+                  <l>One flower within my garden grows—</l>
+                  <l>My friend's is crowded,</l>
+                  <l>But mine is rarer than the rose,</l>
+                  <l>My skies unclouded.</l>
+                  <l>I shield it when the north winds blow</l>
+                  <l>So harsh across it,</l>
+                  <l>I cannot let them kiss it so,</l>
+                  <l>And rudely toss it.</l>
+                  <l/>
+                  <l>So beautiful it is and frail,</l>
+                  <l>I almost dread</l>
+                  <l>The butterflies that soar and sail</l>
+                  <l>So near its bed.</l>
+                  <l>I envy not the wealth of flowers</l>
+                  <l>Across the way;</l>
+                  <l>My radiant flower exhales perfume</l>
+                  <l>For me each day.</l>
+                  <l/>
+                  <l>My gratitude to Heaven for this,</l>
+                  <l>My one late flower;</l>
+                  <l>And such a sense of rapturous bliss</l>
+                  <l>Ascends each hour.</l>
+                  <l>Dear Heaven, still a gift bestow</l>
+                  <l>And grant to me</l>
+                  <l>The grace to train my flower to grow</l>
+                  <l>For Heaven and Thee.</l>
+                  <l/>
+                  <l>And yet, because I love it so</l>
+                  <l>My heart will fail,</l>
+                  <l>When life's rude tempests 'gin to blow</l>
+                  <l>My blossom frail.</l>
+                  <l>Help me to shield it from the rain—</l>
+                  <l>From winter's blast—</l>
+                  <l>And I will give it back again</l>
+                  <l>To Thee at last.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>The Theft<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>A crow flew down from a tall oak tree,</l>
+                  <l>Just as important as he could be;</l>
+                  <l>For a Congress of birds was to meet that day,</l>
+                  <l>And he had determined to have his say.</l>
+                  <l>He plumed his feathers and looked severe,</l>
+                  <l>As the birds flew in from far and near.</l>
+                  <l>A Mocking Bird sat on a limb near by,</l>
+                  <l>With a desperate look in his round, dark eye;</l>
+                  <l>He was the culprit—a thief he had been,</l>
+                  <l>The Thrush and the Blackbird had "run him in."</l>
+                  <l>He had stolen the nest of the little brown Wren</l>
+                  <l>From the tangled depth of a shady glen.</l>
+                  <l>The Hawk was the Judge, and sat in state,</l>
+                  <l>Ready to seal the prisoner's fate.</l>
+                  <l>"A thief is worse," said the Bobolink,</l>
+                  <l>"Than anything else on earth, I think."</l>
+                  <l>But—"Order in Court"—rang close to his ear,</l>
+                  <l>Robin, the Sheriff, was standing near.</l>
+                  <l>Then the Crow began in his deep sub-bass,</l>
+                  <l>And his pompous manner to plead the case.</l>
+                  <l>He spoke of the prisoner's youth at first,</l>
+                  <l>But a murmur of scorn from the audience burst,</l>
+                  <l>So he changed his tactics and said: "I hear</l>
+                  <l>Of late the prisoner has acted queer.</l>
+                  <l>In fact, I can make it to you quite plain</l>
+                  <l>That most of his ancestors were insane.</l>
+                  <l>Young as he is, and with such a taint,</l>
+                  <l>'Tis folly to make against him complaint."</l>
+                  <l>He talked till the Mocking Bird felt secure,</l>
+                  <l>Feeling acquittal was coming sure.</l>
+                  <l>Then the Owl rose up, and his blinking eyes,</l>
+                  <l>Droll and uncanny, looked wondrous wise:</l>
+                  <l>"Tu whit, tu whoo! You will find it vain</l>
+                  <l>To plead that the prisoner's now insane;</l>
+                  <l>Insane, did you say? Oh, well, perhaps—</l>
+                  <l>But there is a prison for all such chaps,</l>
+                  <l>The Mocking Bird's record has always been</l>
+                  <l>Soiled and blotted by many a sin.</l>
+                  <l>If this were the first of his insane tricks—</l>
+                  <l>But the family trait to the fellow sticks.</l>
+                  <l>Only last week—but you all have heard—</l>
+                  <l>How he broke up the home of the Humming Bird.</l>
+                  <l>Stealing and hiding the theft by a lie</l>
+                  <l>Is the poorest rule for a bird to try.</l>
+                  <l>We have borne with him for many a year,</l>
+                  <l>But now we must act. Have I made it clear?"</l>
+                  <l>And he loudly read from the law a clause,</l>
+                  <l>Then flew to his perch, amid loud applause.</l>
+                  <l>The charge to the jury was something fine,</l>
+                  <l>Pathos and power in every line.</l>
+                  <l>They were out but a moment, then entered again,</l>
+                  <l>Nor had the eloquent charge been vain;</l>
+                  <l>For the verdict "Guilty," rang out clear,</l>
+                  <l>Filling the pris'ner with abject fear.</l>
+                  <l>Then the Judge rose up, and shaking his head,</l>
+                  <l>Solemnly, thus the sentence read:</l>
+                  <l>"Let every bird from yon prisoner's breast,</l>
+                  <l>A feather pluck for the Wren's new nest."</l>
+                  <l>Scarce had they heard the words pronounced</l>
+                  <l>Ere they all in a mob on the culprit pounced,</l>
+                  <l>Each plucking a feather, he flew to the glen</l>
+                  <l>Eager to comfort the poor little Wren.</l>
+                  <l>The Mocking Bird shivered with cold and pain,</l>
+                  <l>"Oh! never," he cried, "will I steal again,</l>
+                  <l>And I'll try, oh! I'll try to do what is right,</l>
+                  <l>Nor ever be found in such a sad plight."</l>
+                  <l>The dear, gentle Dove, who had lingered behind,</l>
+                  <l>Came close to the prisoner, loving and kind,</l>
+                  <l>And she whispered so low, "Come home to my nest;</l>
+                  <l>I'll care for you tenderly, give you my best.</l>
+                  <l>I know you are sorry, I know you will try,</l>
+                  <l>So come, let us home to my warm nest fly."</l>
+                  <l>So nursed by the Dove, one fair summer day,</l>
+                  <l>He kissed her and blessed her, and then flew away.</l>
+                  <l>But whether he truly became a good bird</l>
+                  <l>I'm sure I can't say, as I never have heard.</l>
+                  <l>But I know on his record there'll ever remain,</l>
+                  <l>Though the act be repented, its dark, ugly stain;</l>
+                  <l>And he'll find o'er and o'er such tricks do not pay,</l>
+                  <l>For punishment comes, and oft comes to stay.</l>
+                  <l>No matter how small is the act that we do,</l>
+                  <l>This thing, little children, you'll find always true:</l>
+                  <l>That somehow or some way it does come about,</l>
+                  <l>The wrong that we do will soon find us out,</l>
+                  <l>And we're filled with such sorrow and in such a plight,</l>
+                  <l>We see very clearly, "'Tis best to do right."</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Who's Afraid</head>
+               <lg>
+                  <l>Run, little man, or old Jack Frost</l>
+                  <l>Will catch you ere you know it,</l>
+                  <l>I am sure you are half afraid of him,</l>
+                  <l>Though your manner does not show it.</l>
+                  <l/>
+                  <l>With your soft warm cap and your overcoat,</l>
+                  <l>You think you can safely meet him.</l>
+                  <l>The harsh old fellow will have to look sharp,</l>
+                  <l>Or the coy little man will cheat him.</l>
+                  <l/>
+                  <l>See how bravely he faces the piercing wind,</l>
+                  <l>Not afraid of the cold is he,</l>
+                  <l>And the roses bloom on his rounded cheek,</l>
+                  <l>As he romps in his boyish glee.</l>
+                  <l/>
+                  <l>Heigh-ho, little man, if you meet the storms,</l>
+                  <l>That blow o'er the hills of life,</l>
+                  <l>With half the courage you show to-day,</l>
+                  <l>You are sure to win in the strife.</l>
+                  <l/>
+                  <l>Then go, little man, and never you fear</l>
+                  <l>But look the world in the face,</l>
+                  <l>And you'll find on the heights of life, my boy,</l>
+                  <l>That world will make you a place.</l>
+                  <l/>
+                  <l>'Tis only the brave that fortune finds,</l>
+                  <l>'Tis only the good who win;</l>
+                  <l>The sluggards' bulwarks are tumbled down,</l>
+                  <l>And he falls in the gutters of sin.</l>
+                  <l/>
+                  <l>So up, little man, and never say fail,</l>
+                  <l>Though frosts of adversity fall;</l>
+                  <l>With courage your armor, and hope for a sword,</l>
+                  <l>There is naught your heart can appall.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>Lullaby<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>Slumber sweet, noddlekins,</l>
+                  <l>Nurse is full of prickly pins,</l>
+                  <l>Mamma's full of kisses sweet</l>
+                  <l>For dimpled hands and rosy feet.</l>
+                  <l/>
+                  <l>Slumber comes—close your eyes,</l>
+                  <l>Angels watch you from the skies,</l>
+                  <l>Little dreams come drifting down</l>
+                  <l>To veil those roguish eyes of brown.</l>
+                  <l/>
+                  <l>Nestling close on Mamma's arm,</l>
+                  <l>You are safe from every harm.</l>
+                  <l>Close I clasp you—all my joy,</l>
+                  <l>Centers in you—darling boy.</l>
+                  <l/>
+                  <l>Now your eyelid fringes meet,</l>
+                  <l>Kissed by slumbers, soft and sweet.</l>
+                  <l>Who can wonder, angels keep</l>
+                  <l>Tender watch when babies sleep?</l>
+                  <l/>
+                  <l>For I'm sure no lovelier sight</l>
+                  <l>Ever graces realms of light,</l>
+                  <l>They are golden links of love</l>
+                  <l>Binding earth to Heaven above.</l>
+                  <l/>
+                  <l>Sleep, my baby, sleep and rest,</l>
+                  <l>Nestled close on Mother's breast;</l>
+                  <l>Harm can never reach you here,</l>
+                  <l>God and Mother guard you, dear.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>Two of Them<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>Where is the little boy Tommy?</l>
+                  <l>Not in the parlor with hammer and tacks,</l>
+                  <l>Not in the kitchen with sharp little axe,</l>
+                  <l>Not on the lawn where patient old Bose</l>
+                  <l>Lies half asleep with a fly on his nose;</l>
+                  <l>Not in the garden planting his seeds,</l>
+                  <l>Pulling up flowers as often as weeds,</l>
+                  <l>No little Tommy.</l>
+                  <l/>
+                  <l>Nor in the barn do I see his short legs,</l>
+                  <l>Climbing the ladder to hunt for the eggs;</l>
+                  <l>Nor yet in the meadow where cowslips are yellow,</l>
+                  <l>Half hid by the grass, do I see the wee fellow,</l>
+                  <l>I am sure he was here but a moment ago—</l>
+                  <l>I wonder why boys are gotten up so!</l>
+                  <l>Queer little Tommy.</l>
+                  <l/>
+                  <l>Oh! down in the orchard where apples are green</l>
+                  <l>A moment ago Master Tommy was seen—</l>
+                  <l>High in the top of a gnarled old tree</l>
+                  <l>Stuffing his pockets, and hiding from me;</l>
+                  <l>Playing me tricks, for he knows full well</l>
+                  <l>That his mamma's away, and that I won't tell.</l>
+                  <l>I won't tell, and you wonder why?</l>
+                  <l>Well, Tommy's a boy—and so was I.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>In the Meadow</head>
+               <lg>
+                  <l>I heard the grasses talking, talking,</l>
+                  <l>Down in the meadow, one summer day,</l>
+                  <l>The prettiest things I heard them whisper,</l>
+                  <l>Nodding their heads in a quaint wise way.</l>
+                  <l/>
+                  <l>Whether they knew that I was listening,</l>
+                  <l>And would tell to you their story sweet,</l>
+                  <l>I know not; but surely they would not chide me;</l>
+                  <l>For the gossiping winds their words repeat.</l>
+                  <l/>
+                  <l>They told how they loved the golden sunshine;</l>
+                  <l>How once in the gloom of a strange long night</l>
+                  <l>They feared they were lost, until angel fingers</l>
+                  <l>Touched them with life, and they found the light.</l>
+                  <l/>
+                  <l>And how the tints of emerald landscape</l>
+                  <l>Were caught from the sunlight on cloud and sky;</l>
+                  <l>How dewdrops, gems from the crystal fountains,</l>
+                  <l>Were showered o'er earth from realms on high.</l>
+                  <l/>
+                  <l>I heard them say, how the cowslips yellow</l>
+                  <l>Were bits of the sun, dropped here and there</l>
+                  <l>How the lilies pure, with their snow white petals,</l>
+                  <l>Were down from the wings of angels fair.</l>
+                  <l/>
+                  <l>And the blue-eyed violets, shy and tender,</l>
+                  <l>With breath from the censer of heaven sent,</l>
+                  <l>Were bits of the sky, by the summer borrowed,</l>
+                  <l>And just for the season to Flora lent.</l>
+                  <l/>
+                  <l>They told how the daisies and buttercups yellow,</l>
+                  <l>Marked where the feet of the swift hours trod;</l>
+                  <l>When fickle they fled from the pussy-willow,</l>
+                  <l>To the newer love of the golden rod.</l>
+                  <l/>
+                  <l>How the bolder touches of gorgeous color</l>
+                  <l>From the crimson glory of sunset came,</l>
+                  <l>And touching with blood the swaying poppies,</l>
+                  <l>Set hill and valley and field aflame.</l>
+                  <l/>
+                  <l>Oh, they told me things that set me thinking,</l>
+                  <l>Thoughts that never were mine before;</l>
+                  <l>And the love of Christ for his wayward children</l>
+                  <l>Filled me with wonder more and more.</l>
+                  <l/>
+                  <l>How even the flowers and grasses know Him,</l>
+                  <l>How He loves and cares for their needs alway,</l>
+                  <l>That they take no thought for the coming morrow,</l>
+                  <l>But live and trust in the bright to-day.</l>
+                  <l/>
+                  <l>And may not we, who are Christ's own Children,</l>
+                  <l>Blotting the present with anxious tears,</l>
+                  <l>Live our joy, and leave to His mercy</l>
+                  <l>The shadowy doubts of future years?</l>
+                  <l/>
+                  <l>The somber gloom of the distant mountain</l>
+                  <l>Reveals no path that our feet may tread,</l>
+                  <l>But at its foot upwinding ever</l>
+                  <l>It stretches out like a silver thread.</l>
+                  <l/>
+                  <l>Down in the meadows, among the grasses,</l>
+                  <l>My pillow of daisies and violets blue,</l>
+                  <l>The sweetest stories of all the summer</l>
+                  <l>I hear, and come and whisper to you.</l>
+                  <l/>
+                  <l>I may not tell you all they told me.</l>
+                  <l>Go press your ear to the fragrant sod—</l>
+                  <l>The pulse that beats in Nature's bosom</l>
+                  <l>Throbs in the heart of Nature's God.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>Beatrice<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>Dimpled hands and dimpled cheeks,</l>
+                  <l>Dimpled chin beguiling;</l>
+                  <l>Rows of gleaming, pearly teeth,</l>
+                  <l>Rosy lips a smiling.</l>
+                  <l/>
+                  <l>Rings of dark and shining hair,</l>
+                  <l>Around a white brow clinging;</l>
+                  <l>Hazel eyes where gladness shines,</l>
+                  <l>And sets the heart to singing.</l>
+                  <l/>
+                  <l>Dainty feet with dimpled toes,</l>
+                  <l>Little hands caressing;</l>
+                  <l>Gurgling laugh and lisping tongue</l>
+                  <l>Helplessness confessing.</l>
+                  <l/>
+                  <l>Roguish glances, sidelong, sweet,</l>
+                  <l>What is Baby doing?</l>
+                  <l>Face half hidden in my breast,</l>
+                  <l>All my kisses wooing.</l>
+                  <l/>
+                  <l>Softly, softly slumber comes,</l>
+                  <l>See her eyes are closing;</l>
+                  <l>Cupid, shorn of bow and wings,</l>
+                  <l>In my arms reposing.</l>
+                  <l/>
+                  <l>Blessed home where baby comes,</l>
+                  <l>What a void without her;</l>
+                  <l>Joy and love and sunshine bright,</l>
+                  <l>Lingers all about her.</l>
+                  <l/>
+                  <l>Not a shadow comes to me,</l>
+                  <l>But at once 'tis lifted,</l>
+                  <l>Just because this Baby sweet,</l>
+                  <l>Down from Heaven drifted.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>My Boy</head>
+               <lg>
+                  <l>Oh, where did you come from, baby mine,</l>
+                  <l>With your face like a cherub's sweet?</l>
+                  <l>Did the angels scatter with flowers, the path</l>
+                  <l>That was pressed by your little feet?</l>
+                  <l>Or, did you fly from the realms of love?</l>
+                  <l>On your shoulders methinks I see</l>
+                  <l>In the crumpled roseleaf dimples there,</l>
+                  <l>The place where the wings should be.</l>
+                  <l>The angels were loth to leave you, my child,</l>
+                  <l>I know they were filled with fear,</l>
+                  <l>I almost fancy I hear their wings</l>
+                  <l>Hovering somewhere near.</l>
+                  <l>Oh, they need not doubt that your mother's heart</l>
+                  <l>Holds less of love than their own,</l>
+                  <l>And though I may lack of their wisdom my pet,</l>
+                  <l>My love for the lack shall atone.</l>
+                  <l>Oh, gift of the angels—Gift of God,</l>
+                  <l>What a trust for a mortal to hold!</l>
+                  <l>A boy to guide in the paths of right,</l>
+                  <l>A soul for Heaven to mold.</l>
+                  <l>My darling, I fain would shelter you here,</l>
+                  <l>Close, close on my own fond breast,</l>
+                  <l>For my heart shrinks back from the terrors of life</l>
+                  <l>When my bird flies out of the nest.</l>
+                  <l>If only Christ gave me the power, my boy,</l>
+                  <l>To suffer and toil in your stead,</l>
+                  <l>I'd pluck every thorn from your path in life</l>
+                  <l>And toss you its roses instead.</l>
+                  <l>And the selfish love of your mother, boy,</l>
+                  <l>Would rob you of life's best boon,</l>
+                  <l>And drown the chorus of angel choirs,</l>
+                  <l>By setting the world attune.</l>
+                  <l>So I'll send back the tears of a mother's love,</l>
+                  <l>I will crush out a mother's fear,</l>
+                  <l>And push you with tender, trembling hands</l>
+                  <l>Out into Life's highway, dear.</l>
+                  <l>Yet strongly armored by truth, my boy,</l>
+                  <l>And shod by your mother's prayer,</l>
+                  <l>I'll know that your Heavenly Father's love</l>
+                  <l>O'ershadows you everywhere.</l>
+                  <l>And that sometime, after life's battle is o'er</l>
+                  <l>In the land of our promised rest—</l>
+                  <l>I shall meet you, my baby, to part never more,</l>
+                  <l>And hold you once more on my breast.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>The Fairy's Motto<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>A family of Fairies lived under the ground,</l>
+                  <l>And search as they might no place co'd be found,</l>
+                  <l>Where a home they could make, a snug little nest,</l>
+                  <l>A refuge from harm when by foes they were pressed.</l>
+                  <l>Day in, and day out they skurried about,</l>
+                  <l>Putting fish worms, and beetles, and such like to rout.</l>
+                  <l>At length one, the most energetic of all,</l>
+                  <l>Found something quite large and round like a ball,</l>
+                  <l>So calling the family, with pickaxe and spades</l>
+                  <l>They soon in the wonder an opening made.</l>
+                  <l>And what do you think they found it to be?</l>
+                  <l>A turnip so large it might have been three.</l>
+                  <l>So they hollowed it out as fast as they could,</l>
+                  <l>Not pausing a moment for rest or for food.</l>
+                  <l>A part of the contents they hurled from the door,</l>
+                  <l>And trampled the rest to thicken the floor,</l>
+                  <l>And ere through the holes the sun 'gan to peep,</l>
+                  <l>The turnip was empty, the Fairies asleep.</l>
+                  <l>The gardener on passing his turnip bed saw,</l>
+                  <l>'Midst the flourishing green a queer looking flaw:</l>
+                  <l>"Why, how can this be? I'm sure yester-e'en,</l>
+                  <l>That turnip, as any, was thrifty and green.</l>
+                  <l>There may be a grub at its root, or perhaps,</l>
+                  <l>A bug at its top, they are meddlesome chaps;</l>
+                  <l>I'll wait until morning, the heat of the sun</l>
+                  <l>May have proven too much for a delicate one."</l>
+                  <l>In the meantime the Fairies waked up by his words,</l>
+                  <l>Laughed and chuckled together as happy as birds.</l>
+                  <l>"Before he comes round, we'll have finished and done,</l>
+                  <l>And he'll find that his turnip is not worth a bun.</l>
+                  <l>He will leave it and we will hold revelry high,</l>
+                  <l>For that some may have life, why, something must die."</l>
+                  <l>So they cut a small hole through the top, for a door,</l>
+                  <l>The tiniest roots from the outside they tore,</l>
+                  <l>And made them a ladder, so firm and so fair</l>
+                  <l>It answered their purpose and served as a stair.</l>
+                  <l>A cabbage leaf carpet, a bedstead so neat</l>
+                  <l>They made in a minute, just out of a beet,</l>
+                  <l>A table and chairs were made out of roots,</l>
+                  <l>Supported in style by asparagus shoots.</l>
+                  <l>Lace curtains of spider webs, hung o'er the doors,</l>
+                  <l>And bumble bee skins were the rugs on the floors,</l>
+                  <l>Their dishes were all from the button weed made,</l>
+                  <l>Their knives and their forks from the tiny grass blade,</l>
+                  <l>Corn silk for their cushions, thistledown for a bed,</l>
+                  <l>"Our home will be royal," they boastingly said.</l>
+                  <l>They caught a black cricket and hollowed him out,</l>
+                  <l>For a crib the sweet baby must have, without doubt,</l>
+                  <l>And the cricket, his life, ought gladly to give,</l>
+                  <l>For "something must die, that others may live."</l>
+                  <l>But why should I tell you the wonderful way</l>
+                  <l>They furnished and finished their house the next day?</l>
+                  <l>They sent invitations to their four hundred friends—</l>
+                  <l>"At Home—after sunset until the night ends."</l>
+                  <l>But plans that are made for ends of our own,</l>
+                  <l>May steal our sweet plums and leave us the stone.</l>
+                  <l>Next day as the gardener walked down through the rows</l>
+                  <l>Pressing down the soft earth here and there with his toes,</l>
+                  <l>He found that the turnip looked worse than before—</l>
+                  <l>And grimly he smiled, for he saw the top door,</l>
+                  <l>That the Fairies forgot in their hurry last night</l>
+                  <l>To close with the curtains, and fasten down tight,</l>
+                  <l>So stooping, he gathered the leaves dry and dead,</l>
+                  <l>Gave a vigorous pull, and away o'er his head</l>
+                  <l>He sent it a-flying—Poor Fairies, good-bye—</l>
+                  <l>"That something may live, you know, something must die."</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A Reverie</head>
+               <lg>
+                  <l>Standing to-night beside their little bed,</l>
+                  <l>All richly hung with tapestry and lace,</l>
+                  <l>I look half sadly down upon my treasures there,</l>
+                  <l>My boys, so full of innocence and grace,</l>
+                  <l>My little lambs, safe folded for the night,</l>
+                  <l>Caught by the god of slumber unaware.</l>
+                  <l>The sturdy lad's soft cheek close pressed</l>
+                  <l>Against his baby brother's, soft and fair;</l>
+                  <l>The smile is still upon the boy's red mouth.</l>
+                  <l>On baby's face the roguish dimples lie;</l>
+                  <l>The curls of brown, the shining rings of gold,</l>
+                  <l>Like sun and shadow tremble as I sigh—</l>
+                  <l>Sigh that so much of innocence and grace</l>
+                  <l>So soon must leave a mother's tender care—</l>
+                  <l>So soon the hurrying years crowd on apace,</l>
+                  <l>And bring to each of toil and pain his share.</l>
+                  <l>To-day, when poisoned breath from lips profane,</l>
+                  <l>Blown harshly from the busy street below,</l>
+                  <l>Entered my safe retreat, and brought</l>
+                  <l>Quick to my side the lad, his cheeks aglow,</l>
+                  <l>His hazel eyes with wonder wide met mine;</l>
+                  <l>I could not speak—I stooped and kissed his hand.</l>
+                  <l>The shadow passed, my heart leaped up in joy—</l>
+                  <l>The words—the sin—he did not understand.</l>
+                  <l>But ere the cloud had left his childish face</l>
+                  <l>Upon my heart this deeper shadow lay:</l>
+                  <l>I cannot always keep my darlings safe;</l>
+                  <l>They'll leave the shelter of the fold some day.</l>
+                  <l>Strong-willed, strong-hearted, loving boys—</l>
+                  <l>Harmonious souls by angels set attune—</l>
+                  <l>Oh, may my fingers touch the keys aright!</l>
+                  <l>I ask of Heaven than this no greater boon;</l>
+                  <l>No greater boon than wisdom from on high</l>
+                  <l>To strengthen them against the snares of sin;</l>
+                  <l>To teach them how to live and how to die,</l>
+                  <l>To hear their Master bid them "Enter in!"</l>
+                  <l>So, with my good-night kiss upon your lips</l>
+                  <l>I'll banish all the shadows from my heart,</l>
+                  <l>And know He'll send His blessed sunshine in,</l>
+                  <l>If only you and I will do <hi rend="italic">our</hi> part.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>My Choice<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>I'm only a boy, but before me lie</l>
+                  <l>Life's paths untrod, and a sunny sky</l>
+                  <l>Bends o'er the paths, and smiles on me.</l>
+                  <l>And under its blue serene, I see</l>
+                  <l>Two ways stretch out, one, narrow and straight;</l>
+                  <l>The other, broad, and an open gate</l>
+                  <l>Beckons me on, and smiling and sweet</l>
+                  <l>Are the Heavens fair, and down at my feet</l>
+                  <l>Fair flowers bloom, and the grasses nod</l>
+                  <l>On the level slope of the emerald sod.</l>
+                  <l>In the bosky dells my eyes discern</l>
+                  <l>The feathery flakes of the filmy fern,</l>
+                  <l>The birds' low song in the shadows deep</l>
+                  <l>Lull my fancies to dreamful sleep.</l>
+                  <l>The sun-flecked slopes and the open gate</l>
+                  <l>Seem for my eager feet to wait.</l>
+                  <l>But the narrow way, though rough and steep,</l>
+                  <l>Has a charm for me, and my senses leap</l>
+                  <l>As I view the heights that seem to rise</l>
+                  <l>From the lowly earth, to the sunlit skies.</l>
+                  <l>Though rough and steep, and with danger fraught,</l>
+                  <l>Though the glorious heights with my life be bought—</l>
+                  <l>I'll turn from the broad road leading down,</l>
+                  <l>And seek the heights and the laurel crown.</l>
+                  <l>From the blood-stained prints of my thorn-pierced feet,</l>
+                  <l>Spring wonderful flowers, whose fragrance sweet,</l>
+                  <l>Borne on the breath of the balmy air,</l>
+                  <l>Charms my heart and dispels my care.</l>
+                  <l>The beetling crags that block my way,</l>
+                  <l>The storm cloud's gloom, where the lightnings play,</l>
+                  <l>But give me strength for each new emprise,</l>
+                  <l>And joys my soul as I slowly rise;</l>
+                  <l>For snares and cliffs, to a boy like me</l>
+                  <l>Should only incentives to action be.</l>
+                  <l>I'm bound to rise—If I earnestly try</l>
+                  <l>I know I can reach the hilltops high.</l>
+                  <l>But I have no time to loiter and play,</l>
+                  <l>On the tempting slopes of the downward way,</l>
+                  <l>But must follow the path, by good men trod,</l>
+                  <l>To rise to the heights of life and God.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>Elliott<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>Dear little cherub, from isles of the blest,</l>
+                  <l>What is your destiny? What is your quest?</l>
+                  <l>Have you been watching us with your bright eyes</l>
+                  <l>Till you thought you would come as a cunning surprise?</l>
+                  <l>Did you see that this house lacked a baby so sweet</l>
+                  <l>To widen the circle and make it complete?</l>
+                  <l>Did you see from your perch in the realms up above</l>
+                  <l>The sweet mother-heart overflowing with love?</l>
+                  <l>You thought it so precious, you flew to her breast,</l>
+                  <l>You sought it and found it, and found, too, your rest—</l>
+                  <l>Your refuge from sorrow; your fortress so strong,</l>
+                  <l>May you rest in it, dwell in it, cherish it long.</l>
+                  <l>You are welcome as dewdrops when parched are the flowers;</l>
+                  <l>You will brighten the days till they shrink into hours.</l>
+                  <l>May heaven watch over you, fill you with joy,</l>
+                  <l>And bless the whole circle, in you, little boy.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Three Little Kittens</head>
+               <lg>
+                  <l>Three little kittens, black, white and gray,</l>
+                  <l>Went out in the garden one morning to play.</l>
+                  <l>Said the white one, "I want to play hide and go seek,</l>
+                  <l>'Tis long since we played it, much more than a week."</l>
+                  <l>"All right," said the gray, "I'm ready for fun,"</l>
+                  <l>And he started away with a hop and a run.</l>
+                  <l>"Just wait," said the black with an ominous growl,</l>
+                  <l>His face wrinkled up in the crookedest scowl.</l>
+                  <l>"It's an old-fashioned game—I shan't play at that,</l>
+                  <l>It is not becoming a stylish young cat;</l>
+                  <l>I'll sport with the leaves or I'll play in the sun,</l>
+                  <l>But it's tiresome, unpleasant and foolish to run."</l>
+                  <l>The others agreed in a good-natured way,</l>
+                  <l>And the three little kittens began then to play;</l>
+                  <l>The dead leaves went flying to right and to left,</l>
+                  <l>All three, for a time seemed of senses bereft;</l>
+                  <l>But something went wrong—"I say that's not fair,"</l>
+                  <l>The black kitten cried—"and to play I don't care"—</l>
+                  <l>The gray and the white coaxed him hard for awhile,</l>
+                  <l>But nothing would cause him to speak or to smile,</l>
+                  <l>So they left him alone and hied them away—</l>
+                  <l>"Hide and seek" 'mongst the roses and lilacs to play.</l>
+                  <l>He heard their gay laughter and sullener grew—</l>
+                  <l>The sun was too hot—the skies were too blue,</l>
+                  <l>The grass, he was certain, was damp where he lay,</l>
+                  <l>All things had conspired to annoy him that day,</l>
+                  <l>He could bear neither sunshine, the mirth that he heard,</l>
+                  <l>The hum of the bees, nor the chirp of a bird.</l>
+                  <l>How silly they seemed—it made him so cross—</l>
+                  <l>The pleasures of life were nothing but dross,</l>
+                  <l>So he hastened away in a fit of despair;</l>
+                  <l>All things were against him and "nothing was fair."</l>
+                  <l>And now, little people, does any one know</l>
+                  <l>A child who is cross, and always acts so?</l>
+                  <l>Who cries with a pout—"I say I shan't play,</l>
+                  <l>Unless you do everything just as I say."</l>
+                  <l>If beaten at games, he says "It's not fair"—</l>
+                  <l>And takes of good things far more than his share.</l>
+                  <l>If you know such a child, I'm sure you will find</l>
+                  <l>He is sour and unhappy, because he's unkind;</l>
+                  <l>To be happy, be gentle, good tempered and sweet</l>
+                  <l>To playmates and elders and all whom you meet.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>What is the Use of Trying?<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>"What is the use of trying?</l>
+                  <l>I never can learn to fly,</l>
+                  <l>See how the lark goes floating</l>
+                  <l>Up to the sunlit sky;</l>
+                  <l>He never failed as I have,</l>
+                  <l>See how he flies at ease,</l>
+                  <l>Light as a down of thistle</l>
+                  <l>Tossed on the tremulous breeze.</l>
+                  <l>I have been foolishly trying,</l>
+                  <l>Thinking I, too, might rise,</l>
+                  <l>I'll stay down here in the hedges,</l>
+                  <l>And leave to the lark the skies."</l>
+                  <l>So he stayed in the crowded hedges,</l>
+                  <l>And lived through the summer long,</l>
+                  <l>Only a common sparrow—</l>
+                  <l>One of a common throng.</l>
+                  <l>"What is the use of trying?</l>
+                  <l>Pouring o'er book and slate,</l>
+                  <l>I fail, and shall keep on failing,</l>
+                  <l>For men are created great.</l>
+                  <l>'Tis folly to think that study</l>
+                  <l>For so many hours a day</l>
+                  <l>Is going to make out of boys and girls,</l>
+                  <l>Wise women and men alway.</l>
+                  <l>So what is the use of trying?</l>
+                  <l>A common lot shall be mine;</l>
+                  <l>Why muddle my brain with study?</l>
+                  <l>I never was meant to shine;"</l>
+                  <l>So away in the closet cupboard</l>
+                  <l>The books kept gathering dust,</l>
+                  <l>And the mind they were meant to nourish</l>
+                  <l>Was buried and lost in rust.</l>
+                  <l>So the hedges go gathering sparrows,</l>
+                  <l>And the larks still mount to the sky,</l>
+                  <l>And out from the crowded byways</l>
+                  <l>Few souls gain the mountains high.</l>
+                  <l>Have courage and keep on trying,</l>
+                  <l>Though a sparrow, a lark cannot be,</l>
+                  <l>The highways that lead to the Pisgahs</l>
+                  <l>Are open to you and to me.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Only Five</head>
+               <lg>
+                  <l>I've had a birthday party—</l>
+                  <l>Of course I'm only five—</l>
+                  <l>But I had the jolliest time</l>
+                  <l>Of any boy alive.</l>
+                  <l>I got some little chickens,</l>
+                  <l>The roosters cannot crow;</l>
+                  <l>But on my mamma's table</l>
+                  <l>I stand them in a row.</l>
+                  <l/>
+                  <l>I got the funniest bank—</l>
+                  <l>A man, all mouth and eyes,</l>
+                  <l>He swallows every penny,</l>
+                  <l>And every dime he spies;</l>
+                  <l>My mamma set a dinner</l>
+                  <l>For Ollie and for me.</l>
+                  <l>'Twas just a <hi rend="italic">little</hi> party,</l>
+                  <l>One little girl, you see.</l>
+                  <l/>
+                  <l>We had the nicest oranges,</l>
+                  <l>And nuts, and apples red,</l>
+                  <l>And just the tiniest custard pie,</l>
+                  <l>Plum cake and snow white bread.</l>
+                  <l>We ate up all we wanted,</l>
+                  <l>Mamma sat by and smiled,</l>
+                  <l>And kissed my curls and dimples,</l>
+                  <l>And called me "precious child."</l>
+                  <l/>
+                  <l>And when the day was over,</l>
+                  <l>And I was snug in bed,</l>
+                  <l>She found the <hi rend="italic">prettiest</hi> book I have,</l>
+                  <l>And lots of stories read;</l>
+                  <l>And then—I can't remember,</l>
+                  <l>My head was in a mix;</l>
+                  <l>For when the sand-man found me,</l>
+                  <l>I dreamed that I was six.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>Unreconciled<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>Hid away in the corner I found it,</l>
+                  <l>A little shoe worn out and old;</l>
+                  <l>But dearer to me in my sorrow</l>
+                  <l>Than all earth's treasures of gold.</l>
+                  <l>Scarcely lost to the foot's soft imprint,</l>
+                  <l>I can fancy its warmth still there</l>
+                  <l>As I press it close, close to my bosom</l>
+                  <l>And sob in my hopeless despair.</l>
+                  <l>My arms are so useless and empty,</l>
+                  <l>My heart is so hungry and sore,</l>
+                  <l>My dear little golden-haired baby,</l>
+                  <l>Will lie on my breast, nevermore.</l>
+                  <l>Nevermore, will I feel the soft pressure</l>
+                  <l>Of his rosy lips pressed against mine,</l>
+                  <l>Nevermore will his arms warm and tender</l>
+                  <l>My neck with caresses entwine.</l>
+                  <l>You mock when you say God has ta'en him</l>
+                  <l>Away from the sorrows of earth,</l>
+                  <l>What love could shelter and shield him,</l>
+                  <l>Like the love that had given him birth?</l>
+                  <l>Will it heal the mad longing to fold him</l>
+                  <l>Once more to my grief-stricken heart,</l>
+                  <l>To tell me I'll meet him in Heaven</l>
+                  <l>Nevermore from my darling to part?</l>
+                  <l>Your words are well meant, I can feel it,</l>
+                  <l>But the wound is too deep and too fresh,</l>
+                  <l>I cannot deal now with the spirit,</l>
+                  <l>Oh! God give him back in the flesh.</l>
+                  <l>Let me see him again as I saw him,</l>
+                  <l>So winsome, so rosy, so bright,</l>
+                  <l>His baby face dimpled and roguish,</l>
+                  <l>His blue eyes with laughter alight,</l>
+                  <l>Let me feel in my mad desolation,</l>
+                  <l>His heart throbbing close to my own,</l>
+                  <l>Does God pity me in my sorrow?</l>
+                  <l>Does he care for my heartbroken moan?</l>
+                  <l>Had he need of my darling in Heaven</l>
+                  <l>That the life of my life he has ta'en?</l>
+                  <l>Do not try, while my poor heart is breaking</l>
+                  <l>The mystery of death to explain,</l>
+                  <l>Let me sit by myself in the shadow,</l>
+                  <l>Let me kiss as I will the worn shoe;</l>
+                  <l>For I'm chilled by the breath of the angel</l>
+                  <l>That over my hearthstone flew.</l>
+                  <l>Let me weep as I will, and the teardrops</l>
+                  <l>May wash from my dim eyes away</l>
+                  <l>The shadows that hide in their garments,</l>
+                  <l>The light and the glory of day.</l>
+                  <l>Perhaps, as you say, Christ is tender,</l>
+                  <l>And he'll shelter my lamb in his breast,</l>
+                  <l>But your sympathy hurts me, I cannot—</l>
+                  <l>I will not say yet—"It is best."</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>The Naughty Dolly</head>
+               <lg>
+                  <l>"Oh, Dolly! How can you be naughty?</l>
+                  <l>You've been naughty the whole day through;</l>
+                  <l>You spoiled your white dress in the gutter,</l>
+                  <l>And stuck up my pictures with glue;</l>
+                  <l>And when in a corner I put you,</l>
+                  <l>And plead with you so to be good,</l>
+                  <l>You stared in my face with a simper,</l>
+                  <l>And acted so saucy and rude.</l>
+                  <l>I have tried so hard to be patient—</l>
+                  <l>For I'm sorry to punish you so;</l>
+                  <l>And I love you, my poor naughty Dolly,</l>
+                  <l>Much more than you ever can know.</l>
+                  <l>I hope you will think the day over;</l>
+                  <l>I am going to bed now—good-night.</l>
+                  <l>Be a good little Dolly to-morrow,</l>
+                  <l>And try all the day to do right."</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>Mabel's Lesson<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>Mabel stood by the garden gate</l>
+                  <l>Swinging her hat in a careless way;</l>
+                  <l>A frown on her face, a pout on her lip;</l>
+                  <l>For naughty had Mabel been that day.</l>
+                  <l/>
+                  <l>A pert brown Thrush on a bough o'er head</l>
+                  <l>Fluttered his wings and carolled his song.</l>
+                  <l>Happy as ever a bird could be,</l>
+                  <l>Singing and working all day long.</l>
+                  <l/>
+                  <l>Mabel had risen late that morn;</l>
+                  <l>The breakfast was over, and everything cold;</l>
+                  <l>Mamma was busy and Harry was ill,</l>
+                  <l>And Bridget did nothing at all but scold.</l>
+                  <l/>
+                  <l>Long ere the light, the Thrush had been out,</l>
+                  <l>Catching his breakfast as best he could;</l>
+                  <l>Working and singing with right good will—</l>
+                  <l>Never was bird in a merrier mood.</l>
+                  <l/>
+                  <l>Mabel had started the day all wrong,</l>
+                  <l>Had hurriedly dressed and forgotten to pray;</l>
+                  <l>The bird sang on and she heard his song,</l>
+                  <l>And the wonderful things he seemed to say.</l>
+                  <l/>
+                  <l>"I waked," he sang, "as one by one</l>
+                  <l>The stars slipped out of the purple night,</l>
+                  <l>Ere the slender fingers of infant dawn</l>
+                  <l>Could catch the thread of their faint pure light.</l>
+                  <l/>
+                  <l>I bathed in the brook that sings near by,</l>
+                  <l>And borne on the breath of the opening day,</l>
+                  <l>Joyously up to the brightening sky,</l>
+                  <l>I sent to my Maker a grateful lay.</l>
+                  <l/>
+                  <l>And so I go on and I build my nest,</l>
+                  <l>Happy and busy as bird can be;</l>
+                  <l>For I know though the winds blow cold and chill,</l>
+                  <l>My Heavenly Father guardeth me."</l>
+                  <l/>
+                  <l>Mabel looked up with a penitent face,</l>
+                  <l>The bird had flown, but the lesson stayed,</l>
+                  <l>And Mabel went in from the garden gate</l>
+                  <l>A better, and wiser, and happier maid.</l>
+                  <l/>
+                  <l>For bright, or dark is this life of ours,</l>
+                  <l>Just as we make it, children dear—</l>
+                  <l>With naughty deeds come the chilling showers</l>
+                  <l>While the skies of the good are bright and clear.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <lb/>Baby Kathleen<lb/>
+                  <lb/>
+               </head>
+               <lg>
+                  <l>Into my life, out of Paradise,</l>
+                  <l>She came like a bird, and the low-hung skies</l>
+                  <l>With the muttered threats of their tempest cloud,</l>
+                  <l>That had covered my life with its dismal shroud</l>
+                  <l>Vanished like dew, when the new day springs</l>
+                  <l>From her rosy couch, and unfolds her wings.</l>
+                  <l>Unfolds her wings for her airy flight</l>
+                  <l>From the mist hung dawn to the purple night,</l>
+                  <l>She hovered so near I could almost reach—</l>
+                  <l>My trembling heart was o'erfull for speech,</l>
+                  <l>When joy! oh! joy, on my throbbing breast</l>
+                  <l>She folded her wings for a moment to rest,</l>
+                  <l>For a moment the gates of pearl were ajar</l>
+                  <l>All earth was alight with the radiant star,</l>
+                  <l>That shone o'er Bethlehem's manger low,</l>
+                  <l>On that wonderful night of the long ago.</l>
+                  <l>But I recked for naught of the glowing skies,</l>
+                  <l>While the lovelight shone from her starry eyes;</l>
+                  <l>But my beautiful song bird, blithe and free</l>
+                  <l>With her plumage white was too fair for me,</l>
+                  <l>Adown through the shining gates there came</l>
+                  <l>Voices of angels, calling her name.</l>
+                  <l>I had felt the thrill that her presence brought,</l>
+                  <l>I had learned the lesson her love had taught,</l>
+                  <l>She came, and my life was a garden fair,</l>
+                  <l>She fled, and that life was a desert bare,</l>
+                  <l>But my beautiful bird I will find once more</l>
+                  <l>When I wing my flight to the far off shore,</l>
+                  <l>And Heaven, Ah! Heaven will be so bright</l>
+                  <l>When I find my bird with her plumage white,</l>
+                  <l>When I look once more in her starry eyes,</l>
+                  <l>I shall know I have entered Paradise.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Two Boys</head>
+               <lg>
+                  <l>Two boys beside my knee</l>
+                  <l>With eyes so dark and deep;</l>
+                  <l>Two snow-white souls, the God of Love</l>
+                  <l>Has given to me to keep.</l>
+                  <l>My cup of joy o'er-ran</l>
+                  <l>That Summer's day,</l>
+                  <l>I knew they were my own—</l>
+                  <l>My own alway.</l>
+                  <l>My fair twin boys—Ah! me,</l>
+                  <l>I look for you</l>
+                  <l>Out o'er life's trodden paths,</l>
+                  <l>And turn anew</l>
+                  <l>To Him, who never yet</l>
+                  <l>Has failed to hear</l>
+                  <l>A mother's prayer for those</l>
+                  <l>She holds so dear.</l>
+                  <l>Oh! eyes so dark and sweet,</l>
+                  <l>May Heaven's light</l>
+                  <l>Shine o'er the paths you tread</l>
+                  <l>And make them bright.</l>
+                  <l>You could not go astray—</l>
+                  <l>For all along</l>
+                  <l>A wall of prayer, I build</l>
+                  <l>So high and strong,</l>
+                  <l>The tempters cannot scale</l>
+                  <l>Its dizzy height,</l>
+                  <l>And lead my darlings out,</l>
+                  <l>To endless night.</l>
+                  <l>These dimpled baby hands</l>
+                  <l>God gave to you</l>
+                  <l>Through rock-ribbed hills of life</l>
+                  <l>Their way to hew.</l>
+                  <l>Nor would I, though I might</l>
+                  <l>Save you the test;</l>
+                  <l>For well I know, beyond</l>
+                  <l>Lies Heaven and rest.</l>
+                  <l>This kiss, a pledge I give</l>
+                  <l>To live for you;</l>
+                  <l>And know full well, that God</l>
+                  <l>The rest will do.</l>
+               </lg>
+               <div type="div3">
+                  <head>
+                     <lb/>
+                     <lb/>FROM THE PRESS OF</head>
+                  <lg>
+                     <l>The San Francisco Printing Co.</l>
+                     <l>411 MARKET ST</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
