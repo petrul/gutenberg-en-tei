@@ -1,0 +1,2367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions on Modern American Bridge Building</title>
+            <author>G. B. N. Tower</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T20:54:45Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/t/TowerGBN-InstructionsOnModernAmericanBridgeBuilding_2005.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>G. B. N. Tower</name>
+               <date>2024-01-04T20:54:45Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Instructions on Modern American Bridge Building</head>
+         <author>G. B. N. Tower</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/t/TowerGBN-InstructionsOnModernAmericanBridgeBuilding_2005.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>Instructions on Modern American Bridge Building</head>
+            <pb/>
+            <div type="div2">
+               <head>INSTRUCTIONS</head>
+               <div type="div3">
+                  <head>ON</head>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MODERN AMERICAN</head>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BRIDGE BUILDING.</head>
+               <div type="div3">
+                  <head>WITH</head>
+               </div>
+               <div type="div3">
+                  <head>PRACTICAL APPLICATIONS AND EXAMPLES,</head>
+               </div>
+               <div type="div3">
+                  <head>ESTIMATES OF QUANTITIES, AND<lb/>VALUABLE TABLES.</head>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Illustrated by four Plates and Thirty figures.</hi>
+                  </head>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BY G.B.N. TOWER,</head>
+               <p rend="justify">CIVIL AND MECHANICAL ENGINEER,</p>
+               <p rend="justify">
+                  <hi rend="italic">Formerly Chief Engineer U.S. Navy, and late Chandler Instructor in Civil</hi>
+                  <lb/>
+                  <hi rend="italic">Engineering at Dartmouth College.</hi>
+               </p>
+               <p rend="justify">BOSTON:</p>
+               <p rend="justify">A. WILLIAMS &amp; COMPANY,</p>
+               <p rend="justify">135 WASHINGTON STREET.</p>
+               <p rend="justify">1874.</p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify">Entered according to act of Congress, in the year 1874, by</p>
+               <p rend="justify">A. WILLIAMS &amp; CO.,</p>
+               <p rend="justify">in the office of the Librarian of Congress, at Washington, D.C.</p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify">PREFACE.</p>
+               <p rend="justify">This little treatise was written for the purpose of supplying a want felt by the author while giving instruction upon the subject. It was intended for an aid to the young Engineer, and is not to be considered as a complete substitute for the more elaborate works on the subject.</p>
+               <p rend="justify">The first portion of this work mentions the various strains to which beams are subjected, and gives the formulæ used in determining the amount of those strains, together with a few examples to illustrate their application, and also the method of calculating a simple truss.</p>
+               <p rend="justify">The second portion names and explains the various members of a Bridge Truss, and, by means of examples, shows the method of calculating the strains upon the various timbers, bolts, etc., as well as their proper dimensions; and gives, in addition, several useful tables.</p>
+               <p rend="justify">The explanatory plates, which are referred to freely throughout the work, are believed to be amply sufficient for the purpose intended.</p>
+               <p rend="justify">So much has been written on this subject that it is next to impossible to be wholly original, and no claim of that nature is preferred. It is simply an arrangement of ideas, gleaned from the various works of standard authorities, and modified by the author's practice, embodied in book form.</p>
+               <p rend="justify">To give a correct list of all the books consulted would be simply impossible;—but it is well to state that the Hand-book of Railroad Construction, by Prof. G.L. Vose, under whom the author served as an Engineer, has been used as authority in many cases where there has been a difference of opinions among other authors. Some parts have been quoted entirely; but due credit has been given, it is believed, wherever such is the case.</p>
+               <p rend="justify">It is not claimed that this little work covers the whole ground, but it is intended to describe, and explain thoroughly, three or four of the more prominent styles of Truss, leaving the other forms of Wooden Bridges to a subsequent volume.</p>
+               <p rend="justify">Abutments and Piers, as well as Box and Arch Culverts, belonging more properly to masonry, will be treated of hereafter under that head.</p>
+               <p rend="justify">Iron Bridges form a distinct class, and may be mentioned separately at some future period.</p>
+               <p rend="justify">If this small volume should lead the student of Engineering to examine carefully the best Bridges of modern practice, and study the larger scientific works on this art, the author will feel satisfied that his efforts have not been entirely in vain.</p>
+               <p rend="justify">
+                  <hi rend="italic">Cambridge, February 23, 1874.</hi>
+               </p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify">TOWER'S</p>
+               <p rend="justify">Modern American Bridge Building.</p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify">BRIDGE BUILDING.</p>
+               <p rend="justify">The simplest bridge that can be built, is a single beam, or stick of timber, spanning the opening between the abutments—but this is only of very limited application—(only for spans of 20 feet and less) owing to the rapid increase in sectional dimensions which is required as the span becomes greater.</p>
+               <p rend="justify">Next comes the single beam supported by an inclined piece from each abutment meeting each other at the middle point of the under side of the beam—or, another arrangement, of two braces footing securely on the beam and meeting at a point above the middle point of the beam, which is suspended from the apex of the triangle formed by them, by means of an iron rod—These arrangements may be used up to 50 feet. For any span beyond 50 feet, modifications of this arrangement are used which will be described hereafter. Now let us investigate shortly the different strains that the various parts of a bridge have to bear—and the strength of the materials used. The theory of strains in bridge trusses is merely that of the Composition and Resolution of Forces. The various strains, to which the materials of a bridge are subjected—are compression, extension and detrusion.</p>
+               <p rend="justify">Wood and Iron are the materials more generally employed in bridge construction—and in this pamphlet we shall take the following as the working strength of the materials—per square inch of section.</p>
+               <table rend="frame" xml:id="Table1">
+                  <row role="label">
+                     <cell rend="start bold"> </cell>
+                     <cell rend="end">Tension.</cell>
+                     <cell rend="end">Compression.</cell>
+                     <cell rend="end">Detrusion.</cell>
+                  </row>
+                  <row>
+                     <cell>Wood,</cell>
+                     <cell rend="end">2000  </cell>
+                     <cell rend="end">1000  </cell>
+                     <cell rend="end">150  </cell>
+                  </row>
+                  <row>
+                     <cell>Wro't Iron,</cell>
+                     <cell rend="end">15000  </cell>
+                     <cell rend="end">11000  </cell>
+                     <cell rend="end"> </cell>
+                  </row>
+                  <row>
+                     <cell>Cast Iron,</cell>
+                     <cell rend="end">4500  </cell>
+                     <cell rend="end">25000  </cell>
+                     <cell rend="end"> </cell>
+                  </row>
+               </table>
+               <p rend="justify"> </p>
+               <p rend="justify">Tension. If a weight of 2000 lbs. were hung to the lowest end of a vertical beam, so that the line of action of the weight and axis of the beam formed one and the same straight line—the tension on the beam would be 2000 lbs. But, if the beam were inclined, and the force acted in a vertical direction, then the strain would be increased in the ratio of the increase of the diagonal of inclination over the vertical;—suppose the beam is 20 ft. long and inclined at an angle of 45°—and let 2000 lbs., as before, be suspended from its lower end. Now the diagonal being 20,—the vertical will be 14.014 ft.—and the strain will be found as follows,—</p>
+               <p rend="justify">14.014 : 20 :: 2000 : 2854—lbs.<lb/>
+               </p>
+               <p rend="justify">The greater the angle of inclination from the horizontal, the less the strain from a given load—and when the beam is vertical the weight causes the least strain.<lb/> </p>
+               <p rend="justify">Compression. If we load a vertical post with a weight of 2000 lbs., the strain of compression exerted upon the post will be 2000 lbs. Now, if we incline the post—the strain will be increased, as we have shown above under the head of tension, and in like manner, dependent upon the inclination.</p>
+               <p rend="justify">But when wood, iron, or any other material is used for a pillar or strut, it has not only to resist a crushing force, but also a force tending to bend or bulge it laterally.</p>
+               <p rend="justify">A post of circular section with a length of 7 or 8 diameters will not bulge with any force applied longitudinally, but will split. But if the length exceeds this limit—it will be destroyed by an action similar to that of a transverse strain.</p>
+               <p rend="justify">A cast iron column of thirty diameters in length, is fractured by bending; when the length is less than this ratio—by bending and splitting off of wedge shaped pieces. But by casting the column hollow, and swelling it in the middle, its strength is greatly increased.</p>
+               <p rend="justify">Barlow's formula for finding the weight that can be sustained by any beam, acting as a pillar or strut, before bending, is:—</p>
+               <p rend="justify">Equation: WL^2/80E = bd^3, whence Equation: W=bd^3 x 80E/L^2</p>
+               <p rend="justify">now, having the weight given, and assuming the dimensions of the cross-section—we shall have</p>
+               <p rend="justify">Equation: d=(cube root of)(WL^2/80 EB) and Equation: b=WL^2/80 Ed^3</p>
+               <p rend="justify">in the above formulæ,</p>
+               <lg>
+                  <l>W = weight in pounds.</l>
+                  <l>L = length in feet.</l>
+                  <l>E = a constant.</l>
+                  <l>b = breadth in inches.</l>
+                  <l>d = depth in inches.</l>
+                  <l> </l>
+               </lg>
+               <p rend="justify">Transverse Strains. The strain caused by any weight, applied transversely, to a beam supported at both ends, is directly as the breadth, and square of the depth, and inversely as the length. It causes the beam to be depressed towards the middle of its length, forming a curve, concave to the horizontal and below it. In assuming this form—the fibres of the upper part of the beam are compressed, and those of the lower part are extended—consequently there must be some line situated between the upper and lower surfaces of the beam where the fibers are subjected to neither of these two forces, this line is called the <hi rend="italic">neutral axis</hi>.</p>
+               <p rend="justify">These two strains of compression and extension must be equal in amount—and upon the relative strength of the material to resist these strains, as well as its form and position, the situation of this axis depends. If wood resists a compression of 1000 lbs. per square inch of section, and a tension of 2000 lbs. the axis will be twice as far from the top as from the bottom in a rectangular beam.</p>
+               <p rend="justify">The following table by Mr. G.L. Vose gives, with sufficient accuracy for practice, the relative resisting powers of wood, wrought, and cast iron, with the corresponding positions of the axis.</p>
+               <table rend="frame" xml:id="Table2">
+                  <row role="label">
+                     <cell rend="start bold">Material.</cell>
+                     <cell rend="center">Resistance to<lb/>Extension.</cell>
+                     <cell rend="center">Resistance to<lb/>Compression.</cell>
+                     <cell rend="center">Ratio.</cell>
+                     <cell rend="center">Dist. of axis from top<lb/>in frac's of the depth.</cell>
+                  </row>
+                  <row>
+                     <cell>Wrought Iron,</cell>
+                     <cell rend="center">90</cell>
+                     <cell rend="center">66</cell>
+                     <cell rend="center">90 / 66</cell>
+                     <cell rend="center">90 / 156, or 0.58</cell>
+                  </row>
+                  <row>
+                     <cell>Cast Iron,</cell>
+                     <cell rend="center">20</cell>
+                     <cell rend="center">111</cell>
+                     <cell rend="center">20 / 111</cell>
+                     <cell rend="center">20 / 131, or 0.15.</cell>
+                  </row>
+                  <row>
+                     <cell>Wood,</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">1</cell>
+                     <cell rend="center">2 / 1</cell>
+                     <cell rend="center">2 / 3, or 0.66.</cell>
+                  </row>
+               </table>
+               <p rend="justify"> </p>
+               <p rend="justify">Thus we see that the resistance of a beam to a cross strain, as well as to tension and compression, is affected by the incompressibility and inextensibility of the material.</p>
+               <p rend="justify">The formula for the dimensions of any beam to support a strain transversely is</p>
+               <p rend="justify">Equation; S=4bd^2/l</p>
+               <lg>
+                  <l>S = the ultimate strength in lbs.</l>
+                  <l>b = the breadth in inches.</l>
+                  <l>d = the depth in inches.</l>
+                  <l>l = the length in inches.</l>
+                  <l/>
+               </lg>
+               <p rend="justify">Detrusion. Detrusion is the crushing against some fixed point, such as obtains where a brace abuts against a chord, or where a bridge rests on a bolster; and the shearing of pins, bolts and rivets, also comes under this head.<lb/> </p>
+               <p rend="justify">General Abstract. The resistance to the above mentioned strains varies as the the area of the cross section; so that by doubling the area we double the strength. Any material will bear a much greater strain for a short time than for a long one. The working strength of materials, or the weight which does not injure them enough to render them unsafe, is a mooted point, and varies, according to the authority, from 1-3 to 1-10 of the ultimate strength. The ratio of the ultimate strength to the working strength is called the <hi rend="italic">factor of safety</hi>.</p>
+               <p rend="justify">The following is a table of ultimate and working strengths of materials, and factors of safety:</p>
+               <p rend="justify">Weight</p>
+               <p rend="justify">Materials.</p>
+               <p rend="justify">Ult. Ext.</p>
+               <p rend="justify">Ult. Comp.</p>
+               <p rend="justify">Working Strengths.</p>
+               <p rend="justify">Factor of Safety.</p>
+               <p rend="justify">in lbs.</p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify">Exten.</p>
+               <p rend="justify">Comp.</p>
+               <p rend="justify">Tension</p>
+               <p rend="justify">Comp.</p>
+               <p rend="justify">30</p>
+               <p rend="justify">Wood.</p>
+               <p rend="justify">14,000</p>
+               <p rend="justify">7,000</p>
+               <p rend="justify">2,000</p>
+               <p rend="justify">1,000</p>
+               <p rend="justify">7</p>
+               <p rend="justify">7</p>
+               <p rend="justify">480</p>
+               <p rend="justify">Wro't Iron.</p>
+               <p rend="justify">60,000</p>
+               <p rend="justify">64,000</p>
+               <p rend="justify">15,000</p>
+               <p rend="justify">12,000</p>
+               <p rend="justify">4</p>
+               <p rend="justify">5.33</p>
+               <p rend="justify">450</p>
+               <p rend="justify">Cast Iron.</p>
+               <p rend="justify">18,000</p>
+               <p rend="justify">100,000</p>
+               <p rend="justify">4,500</p>
+               <p rend="justify">25,000</p>
+               <p rend="justify">4</p>
+               <p rend="justify">4</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Lateral Adhesion. Lateral adhesion is the resistance offered by the fibres to sliding past each other in the direction of the grain, as when a brace is notched into a chord, or tie beam, at its foot, it is prevented by the lateral adhesion of the fibres from crowding off the piece, to the depth of the notch, against which it toes. Barlow's experiments give the lateral adhesion of fir as 600 lbs. per square inch, and the factor of safety employed varies in practice from 4 to 6, giving a working strength of from 150 to 100 lbs. per square inch.</p>
+               <p rend="justify">TABLE OF COMPRESSIVE RESISTANCE OF TIMBER.</p>
+               <table rend="frame" xml:id="Table3">
+                  <row>
+                     <cell rend="center">Length given<lb/>in Diameters.</cell>
+                     <cell rend="center">Safety Weig't<lb/>in Pounds.</cell>
+                     <cell rend="center">Length given<lb/>in Diameters.</cell>
+                     <cell rend="center">Safety Weig't<lb/>in Pounds.</cell>
+                     <cell rend="center">Length given<lb/>in Diameters.</cell>
+                     <cell rend="center">Safety Weig't<lb/>in Pounds.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">6</cell>
+                     <cell rend="center">1000</cell>
+                     <cell rend="center">24</cell>
+                     <cell rend="center">440</cell>
+                     <cell rend="center">42</cell>
+                     <cell rend="center">203</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">8</cell>
+                     <cell rend="center">960</cell>
+                     <cell rend="center">26</cell>
+                     <cell rend="center">394</cell>
+                     <cell rend="center">44</cell>
+                     <cell rend="center">185</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">10</cell>
+                     <cell rend="center">910</cell>
+                     <cell rend="center">28</cell>
+                     <cell rend="center">358</cell>
+                     <cell rend="center">46</cell>
+                     <cell rend="center">169</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">860</cell>
+                     <cell rend="center">30</cell>
+                     <cell rend="center">328</cell>
+                     <cell rend="center">48</cell>
+                     <cell rend="center">155</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">14</cell>
+                     <cell rend="center">810</cell>
+                     <cell rend="center">32</cell>
+                     <cell rend="center">299</cell>
+                     <cell rend="center">50</cell>
+                     <cell rend="center">143</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">16</cell>
+                     <cell rend="center">760</cell>
+                     <cell rend="center">34</cell>
+                     <cell rend="center">276</cell>
+                     <cell rend="center">52</cell>
+                     <cell rend="center">132</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">18</cell>
+                     <cell rend="center">710</cell>
+                     <cell rend="center">36</cell>
+                     <cell rend="center">258</cell>
+                     <cell rend="center">54</cell>
+                     <cell rend="center">122</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">20</cell>
+                     <cell rend="center">660</cell>
+                     <cell rend="center">38</cell>
+                     <cell rend="center">239</cell>
+                     <cell rend="center">56</cell>
+                     <cell rend="center">114</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">22</cell>
+                     <cell rend="center">570</cell>
+                     <cell rend="center">40</cell>
+                     <cell rend="center">224</cell>
+                     <cell rend="center">58</cell>
+                     <cell rend="center">106</cell>
+                  </row>
+                  <row>
+                     <cell rend="center"> </cell>
+                     <cell rend="center"> </cell>
+                     <cell rend="center"> </cell>
+                     <cell rend="center"> </cell>
+                     <cell rend="center">60</cell>
+                     <cell rend="center">99</cell>
+                  </row>
+               </table>
+               <p rend="justify"> </p>
+               <p rend="justify">In tensional strains, the length of the beam does not affect the strength; but in the beams submitted to compression, the length is a most important element, and in the table given above, the safety strains to which beams may be subjected, without crushing or bending, has been given for lengths, varying from 6 to 60 diameters.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">PRACTICAL RULES.</p>
+               <p rend="justify">Tensional Strain.</p>
+               <lg>
+                  <l>Let T = whole tensional strain.</l>
+                  <l>  "   S = strength per square inch.</l>
+                  <l>  "   a = sectional area in inches.</l>
+                  <l>Then we have T = Sa.</l>
+               </lg>
+               <p rend="justify">Now to find the necessary sectional area for resisting any strain, we have the following general formula:</p>
+               <p rend="justify">a = T ÷ S<lb/>
+               </p>
+               <p rend="justify">or, by substituting the working strenths for the various materials in the formula, we have for wood,</p>
+               <p rend="justify">a = T ÷ 2000</p>
+               <p rend="justify">Wrought Iron,</p>
+               <p rend="justify">a = T ÷ 1500</p>
+               <p rend="justify">Cast Iron,</p>
+               <p rend="justify">a = T ÷ 4500</p>
+               <p rend="justify">But, in practice, cast iron is seldom used except to resist compression.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Strains of Compression. Allowing the same letters to denote the same things as above, we have for</p>
+               <p rend="justify">Wood,</p>
+               <p rend="justify">a = T ÷1000</p>
+               <p rend="justify">Wrought Iron,</p>
+               <p rend="justify">a = T ÷ 12000</p>
+               <p rend="justify">Cast Iron,</p>
+               <p rend="justify">a = T ÷ 25000</p>
+               <p rend="justify">As this pamphlet has to do with wooden bridges only, nothing will be said of the proper relative dimensions of cast-iron columns to sustain the strains to which they may be subjected, but a table of the strength of columns will be found further on.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Transverse Strains.</p>
+               <lg>
+                  <l>Let W = breaking weight in lbs.</l>
+                  <l>  "   s = constant in table.</l>
+                  <l>  "   b = breadth in inches.</l>
+                  <l>  "   d = depth in inches.</l>
+                  <l>  "   L = length in inches.</l>
+               </lg>
+               <p rend="justify">Then, for the power of a beam to resist a transverse strain, we shall have,</p>
+               <p rend="justify">Equation: W = 4sbd^2/L</p>
+               <p rend="justify">This formula has been derived from experiments made by the most reliable authorities.</p>
+               <p rend="justify">The constant, 1250, adopted for wood in the following formula, is an average constant, derived from the table, of those woods more commonly used.</p>
+               <p rend="justify">Now to reduce the formula to the most convenient shape for use, we substitute the value of s, and we have</p>
+               <p rend="justify">Equation: W = 4 x 1250bd^2/L</p>
+               <p rend="justify">or</p>
+               <p rend="justify">Equation: W = 5000bd^2/L</p>
+               <p rend="justify">But, to reduce the load to the proper working strain, we must divide this equivalent by 4, the factor of safety, and we shall have</p>
+               <p rend="justify">Equation: W = 5000 bd^2/4L .</p>
+               <p rend="justify">Let us apply the formula—</p>
+               <lg>
+                  <l>Case I. Given a span of 14 feet,</l>
+                  <l>a breadth of 8 inches,</l>
+                  <l>a depth of 14 inches.</l>
+               </lg>
+               <p rend="justify">Required the safe load.</p>
+               <p rend="justify">The formula Equation: W = 5000 bd^2/4L becomes, by substitution,</p>
+               <p rend="justify">Equation: W = 5000 x 8 x 196 / 4 x 168 = 11,666 lbs.</p>
+               <p rend="justify"> </p>
+               <lg>
+                  <l>Case II. Given the safety load 18000 lbs.,</l>
+                  <l>the breadth 9 inches,</l>
+                  <l>the length 14 feet.</l>
+               </lg>
+               <p rend="justify">Required the depth.</p>
+               <p rend="justify">From the above formula we have</p>
+               <p rend="justify">Equation: d = (sqrt)(w x 4L / 5000 b)</p>
+               <p rend="justify">substituting</p>
+               <p rend="justify">Equation: d = (sqrt)(18000 x 168 x 4 / 5000 x 9) = (sqrt)268.8 = 16 inches nearly.</p>
+               <p rend="justify"> </p>
+               <lg>
+                  <l>Case III. Given the safety load 22,400 lbs.,</l>
+                  <l>the depth 18 inches,</l>
+                  <l>the length 14 feet.</l>
+               </lg>
+               <p rend="justify">Required the breadth.</p>
+               <p rend="justify">Deriving b from the foregoing, we have,</p>
+               <p rend="justify">Equation: B = w x 4L / 5000 x d^2</p>
+               <p rend="justify">substituting</p>
+               <p rend="justify">Equation: B = 22400 x 4 x 168 / 5000 x 324 = 9.3 inches nearly.<lb/>
+               </p>
+               <p rend="justify">For a cast iron beam or girder—Mr. Hodgkinson from numerous carefully conducted experiments that, by arranging the material in the form of an inverted T—thus creating a small top flange as well as the larger bottom one, the resistance was increased, per unit of section, over that of a rectangular beam, in the ratio of 40 to 23.</p>
+               <p rend="justify">In this beam the areas of the top and bottom flanges are inversely proportional to the power of the iron to resist compression and extension. Mr. Hodgkinson's formula for the dimensions of his girder, is</p>
+               <p rend="justify">Equation: W = 26 ad / L</p>
+               <p rend="justify">The factor of safety being 6 for cast iron beams—the formula for the working load will be,</p>
+               <p rend="justify">Equation: W = 26 ad / 6 L</p>
+               <p rend="justify">and, to find area of lower flange, we shall have</p>
+               <p rend="justify">Equation: a= 6 WL / 26 d</p>
+               <p rend="justify">The general proportions of his girders are as follows:</p>
+               <lg>
+                  <l>Length, 16</l>
+                  <l>Height, 1</l>
+                  <l>Area Top Flange, 1.0</l>
+                  <l>Area Bottom Flange, 6.1</l>
+                  <l>In the above formula for cast iron beams,</l>
+                  <l>  W = weight in tons.</l>
+                  <l>  a = area in square inches of bottom flange.</l>
+                  <l>  d = depth in inches.</l>
+                  <l>  h = length in inches.</l>
+               </lg>
+               <p rend="justify">The web uniting the two flanges must be made solid—as any opening, by causing irregularity in cooling, would seriously affect the strength of the beam.</p>
+               <p rend="justify">
+                  <hi rend="italic">Example.</hi>—Required the dimensions of a Hodgkinson girder—for a span of 60 feet—with a load of 10 tons in the centre.</p>
+               <p rend="justify">Equation: a = 6 x 10 x 60 x 12 / (26 x (60 x 12) / 16) = 37 inches nearly.</p>
+               <p rend="justify">and the area of the top flange will be,</p>
+               <p rend="justify">37 ÷ 6 = 6.16 inches—</p>
+               <p rend="justify">so that our dimensions will be as follows:</p>
+               <lg>
+                  <l>Length, 30 feet.</l>
+                  <l>Depth, 45 inches.</l>
+                  <l>Area Top Flange, 6.16 inches.</l>
+                  <l>Area Bottom Flange, 37 inches.</l>
+               </lg>
+               <p rend="justify"> </p>
+               <p rend="justify">Plate 1</p>
+               <p rend="justify"> </p>
+               <p rend="justify">The thickness of web is usually a little greater at the bottom than at the top, and varies from 1/14 to 1/24 of the depth of the girder. The bottom rib is usually made from six to eight times as wide as it is thick, and the top rib from three to six times as wide as thick, so that, in the example above given, we could have as dimensions for the parts</p>
+               <lg>
+                  <l>Top Flange, 4¼ X 1½ inches nearly.</l>
+                  <l>Bottom Flange, 6 X 2½ inches nearly.</l>
+                  <l>Web, 1½ inches thick.</l>
+               </lg>
+               <p rend="justify">The simplest bridge, consisting of a single stick, to span openings of 20 feet and under, is calculated according to the formula</p>
+               <p rend="justify">Equation: d = (sqrt)4 WL / 5000 b</p>
+               <p rend="justify">
+                  <hi rend="italic">Example.</hi>—The depth of a beam, of 12 feet span and 12 feet wide, to support a load of 22400 lbs. will be</p>
+               <p rend="justify">Equation: d = (sqrt)4 WL / 5000 b = (sqrt) 4 x 22400 x 12 / 500 x 12 = (sqrt)215.04 = 15 in. nearly.</p>
+               <p rend="justify">The following Table was calculated by the above rule—and the dimensions altered according to the actual practice of the writer.</p>
+               <table rend="frame" xml:id="Table4">
+                  <row role="label">
+                     <cell rend="center">Span.</cell>
+                     <cell rend="center">Breadth.</cell>
+                     <cell rend="center">Depth.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">10</cell>
+                     <cell rend="center">12</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">6</cell>
+                     <cell rend="center">10</cell>
+                     <cell rend="center">12</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">8</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">12</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">10</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">13</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">15</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">16</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">18</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">18</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">20</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">20</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">22</cell>
+                  </row>
+               </table>
+               <p rend="justify"> <lb/>These dimensions will give ample strength and stiffness. Fig. 1, Plate I. gives an illustration of this kind of bridge—in which a, a, are the bolsters or wall plates, shown in section, to which the bridge beams are notched and bolted. Fig. 1, A, Plate I, shows the method of diagonally bracing these beams by planks, dimensions of which in general use are 6 to 8 by 2 to 3 inches. The track should rest on ties, about 6 inches by 8 or 10 inches—the same bolt confining the ends of the ties and diagonal braces when practicable. These ties should be notched on the string pieces 2 or 3 inches—without cutting the stringers. Below is a table giving general dimensions, in inches, of the several parts of a bridge of this description.</p>
+               <table rend="frame" xml:id="Table5">
+                  <row role="label">
+                     <cell rend="center">Span.</cell>
+                     <cell rend="center">Bolsters.</cell>
+                     <cell rend="center">Ties.</cell>
+                     <cell rend="center">Ties.</cell>
+                     <cell rend="center">Braces.</cell>
+                     <cell rend="center">Diameter of Bolts.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">12 x 12</cell>
+                     <cell rend="center">10 x 12</cell>
+                     <cell rend="center">6 x 8</cell>
+                     <cell rend="center">2 x 8</cell>
+                     <cell rend="center">1 inch.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">10</cell>
+                     <cell rend="center">12 x 12</cell>
+                     <cell rend="center">12 x 13</cell>
+                     <cell rend="center">6 x 8</cell>
+                     <cell rend="center">2 x 8</cell>
+                     <cell rend="center">1  "</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">16</cell>
+                     <cell rend="center">14 x 14</cell>
+                     <cell rend="center">12 x 18</cell>
+                     <cell rend="center">6 x 8</cell>
+                     <cell rend="center">2 x 8</cell>
+                     <cell rend="center">1  "</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">20</cell>
+                     <cell rend="center">14 x 14</cell>
+                     <cell rend="center">12 x 22</cell>
+                     <cell rend="center">6 x 8</cell>
+                     <cell rend="center">2 x 8</cell>
+                     <cell rend="center">1  "</cell>
+                  </row>
+               </table>
+               <p rend="justify"> <lb/>Each bolt must have a washer under the head, and also under the nut. For a span of from 15 to 30 feet, we can use the combination shown in Plate II, Fig. 3. The piece A F must have the same dimensions as a simple string piece of a length A B—so that it may not yield between B and either of the points A or D. The two braces DF and EF must be stiff enough to support the load coming upon them. Suppose the weight on a pair of drivers of a Locomotive to be 10 tons, then each side must bear 5 tons, and each brace 2½ tons = 2½ x 2240 = 5600 lbs.</p>
+               <p rend="justify">Now, to allow for sudden or extra strains, call 8000 lbs. the strain to be supported by each brace, and, accordingly, 8 square inches of sectional area would be sufficient for compression only; but, as the brace is inclined, the strain is increased. Let the vertical distance from A to D be 10 ft., and, calling the span 30 ft.—A B will be 15 ft.—from whence D F must be 18 ft., then we shall have the proportion</p>
+               <p rend="justify">10:18::8000:14400 lbs.<lb/>
+               </p>
+               <p rend="justify">which would require an area of about 15 square inches of section to resist compression, or a piece 3x5 inches. Now, as this stick is more than 6 or 8 diameters in length, it will yield by bending—and consequently its area must be increased. The load, which a piece of wood acting as a post or strut will safely sustain, is found by the formula already given.</p>
+               <p rend="justify">Equation: W = 2240 bd^3 / L^2</p>
+               <p rend="justify">Now substituting 3 for b, and 5 for d, we have</p>
+               <p rend="justify">Equation: W = 2240 x 3 x 125 / 324 = 840000 / 324 = 2592 lbs.</p>
+               <p rend="justify">which is not enough. Using 6 for b and 8 for d, we have</p>
+               <p rend="justify">Equation: W = 2240 x 6 x 512 / 324 = 21238 lbs.</p>
+               <p rend="justify">which is something larger than is actually required, but it is no harm to have an excess of strength. Now in many cases this arrangement would be objectionable, as not affording sufficient head room on account of the braces—and we can as well use the form of structure given in Pl. I. Fig. 3, since it is evidently immaterial whether the point B be supported on F or suspended from it, provided we can prevent motion in the feet of the braces, which is done by notching them into the stringer at that point. This of course creates a tensional strain along the stringer, which is found as follows:—Representing the applied weight by FB, Pl. II, Fig. 2, draw BD parallel to FC, also DH parallel to AC—DH is the tension. This is the graphical construction, and is near enough for practice. Geometrically we have the two similar triangles AFB and DFH, whence</p>
+               <p rend="justify">AF: DF:: AB: DH</p>
+               <p rend="justify">and Equation: DH = DF x AB / AF</p>
+               <p rend="justify">This style of structure may be used up to 50 feet, but it is not employed for spans exceeding 30 feet in length. It is very customary to make the braces in pairs so as to use smaller scantling, and gain in lateral stiffness—the two pieces forming one brace by being properly blocked and bolted together. Below is given a table of dimensions for the various parts of this style of structure:</p>
+               <p rend="justify">Span.</p>
+               <p rend="justify">Rise.</p>
+               <p rend="justify">Bolster.</p>
+               <p rend="justify">Stringer.</p>
+               <p rend="justify">Braces.</p>
+               <p rend="justify">Rod.</p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify">No.</p>
+               <p rend="justify">Size.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">15</p>
+               <p rend="justify">6</p>
+               <p rend="justify">12 x 12</p>
+               <p rend="justify">12 x 12</p>
+               <p rend="justify">2</p>
+               <p rend="justify">5 x 6</p>
+               <p rend="justify">1⅛</p>
+               <p rend="justify">20</p>
+               <p rend="justify">7</p>
+               <p rend="justify">14 x 14</p>
+               <p rend="justify">12 x 13</p>
+               <p rend="justify">2</p>
+               <p rend="justify">5 x 8</p>
+               <p rend="justify">1⅜</p>
+               <p rend="justify">25</p>
+               <p rend="justify">8</p>
+               <p rend="justify">14 x 14</p>
+               <p rend="justify">12 x 15</p>
+               <p rend="justify">2</p>
+               <p rend="justify">6 x 8</p>
+               <p rend="justify">1½</p>
+               <p rend="justify">30</p>
+               <p rend="justify">10</p>
+               <p rend="justify">14 x 14</p>
+               <p rend="justify">12 x 18</p>
+               <p rend="justify">2</p>
+               <p rend="justify">6 x 9</p>
+               <p rend="justify">1⅝</p>
+               <p rend="justify"> <lb/>Single Beams under each rail firmly braced laterally, and trussed by an iron rod, (or preferably by two iron rods,) and a post on the under side of the beam. The deflection of the rod is usually taken at 1/8 of the span. Pl. II., Fig. 1, represents this style of trussing a beam—which is generally used for spans of from 15 to 30 ft. Below is a table of dimensions for this truss with single and double rods; if double rods are used only half the given section will be necessary for each one of the pair.</p>
+               <table rend="frame" xml:id="Table6">
+                  <row role="label">
+                     <cell rend="center">Span.<lb/>Feet.</cell>
+                     <cell rend="center">Rise.<lb/>In Feet.</cell>
+                     <cell rend="center">Stringer.<lb/> </cell>
+                     <cell rend="center">Post.<lb/> </cell>
+                     <cell rend="center">Rod.<lb/>(single.)</cell>
+                     <cell rend="center">Rods.<lb/>(double.)</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">15</cell>
+                     <cell rend="center">1⅞</cell>
+                     <cell rend="center">12 x 12</cell>
+                     <cell rend="center">6 x 8</cell>
+                     <cell rend="center">2⅛ diam.</cell>
+                     <cell rend="center">or 1½ diam.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">20</cell>
+                     <cell rend="center">2½</cell>
+                     <cell rend="center">12 x 14</cell>
+                     <cell rend="center">7 x 8</cell>
+                     <cell rend="center">2½  "</cell>
+                     <cell rend="center">1¾  "</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">25</cell>
+                     <cell rend="center">3⅛</cell>
+                     <cell rend="center">12 x 16</cell>
+                     <cell rend="center">8 x 8</cell>
+                     <cell rend="center">2¾  "</cell>
+                     <cell rend="center">2    "</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">30</cell>
+                     <cell rend="center">3¾</cell>
+                     <cell rend="center">13 x 18</cell>
+                     <cell rend="center">9 x 9</cell>
+                     <cell rend="center">3    "</cell>
+                     <cell rend="center">2⅛  "</cell>
+                  </row>
+               </table>
+               <p rend="justify"> <lb/>It is as well to tenon the post into the beam, and also strap it firmly with iron plates—and the end should be shod with iron to form a saddle for the rods to bear upon.</p>
+               <p rend="justify">Now if we should make a bridge, on the plan of Fig. 3, Pl. I., 75 or 100 feet, or perhaps more, in length, the braces AF and FC, would not only be very long but very large and heavy, and one chief requisite in a good bridge is, to have all the beams so proportioned that they will resist all the strains acting upon them, without being unnecessarily large. It now becomes necessary to have a different arrangement of the parts of the truss in order to obtain increased length of span.</p>
+               <p rend="justify">Suppose we have a span, of 40 feet, as represented in Fig 2, Pl. I. Now instead of running the braces from AC until they meet in a point, as before we stop them at a, and c, and place the straining beam, ac, between them to prevent those points from approaching, suspend the points B and D from them, and start the braces Bb and Db—and, if the truss were longer, would continue on in the same manner as far as needful.</p>
+               <p rend="justify">To prevent the truss from altering its form, as shown by the dotted lines A'bC', and AEC, by any passing load, we insert the counter braces marked R.</p>
+               <p rend="justify">The braces Aa and Cc, must support all of tho weight of the bridge and its load within the parallelogram BacD—and the next set of braces, Bb and Db, sustain that part of the load which comes over the centre of the bridge. Consequently the braces must increase in size from the centre towards the abutments. The rods resist the same pressure in amount as their braces—but being vertical, do not need the increase, given to the braces on account of their inclination—but increase simply with the strain upon them, from the centre to the ends of the truss.</p>
+               <p rend="justify">There are many forms of small bridges differing from those enumerated, in various minor details, but sufficient has been said to give the reader a fair idea of the strains upon the different parts, and how to arrange and proportion the materials to resist them.</p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify">PRACTICAL RULES AND EXAMPLES IN WOODEN BRIDGE BUILDING.</p>
+               <p rend="justify">In any case that may arise, we must determine approximately the gross weight of the bridge and its load—as a basis, and then we can proceed as follows—in case of a Howe, Pratt, or Arch Brace Truss.<lb/> </p>
+               <p rend="justify">To find the dimensions of the Lower Chord.</p>
+               <p rend="justify">The tension at the centre of the Lower Chord is found by <hi rend="italic">dividing the product of the weight of the whole bridge and load by the span</hi>, by eight times the height—or letting T=tension in lbs., W=weight of bridge and load in lbs., S=span in feet, and h=rise or height—we have Equation: T = W x S / 8h—. In this case we have taken the rise at ⅛ of the span, which is evidently the best ratio between those dimensions, as it equalizes the vertical and horizontal forces. As to the proportions of the <hi rend="italic">bays</hi>  or <hi rend="italic">panels</hi>, (or that portion of the truss bounded by two adjacent verticals, as struts or ties, and the chords,) the ratio of the rise (or the vertical distance between the centre lines of the two chords,) and the length on the chord should be such, that the diagonal truss members may make an angle of about 50° with the chords; as the size of the timbers is increased by decreasing the angle, and, if the angle is increased, there are more timbers required.</p>
+               <p rend="justify">Mr. G.L. Vose, in his admirable work on R.R. Construction, observes very truly that "The braces, at the end of a long span, may be nearer the vertical than those near the centre, as they have more work to do. If the end panel be made twice as high as long, and the centre panel square, the intermediates varying as their distance from the end, a good architectural effect is produced."</p>
+               <p rend="justify">Now it is necessary for us to have some data from which to determine the approximate weight of the bridge, and also its load. These can be found by comparing weights of bridges in common use, as obtained from reports. In a small bridge of short span, the weight of the structure itself may be entirely neglected, because of the very small proportion the strains caused by it bear to those due to the load;—but, in long spans, the weight becomes a very important element in the calculations for strength and safety—inasmuch as it may exceed the weight of the load.</p>
+               <p rend="justify">In all Bridges of 120 ft. span, about ⅓ of a ton, per foot run, will be the weight of each truss for a single track, including floor timbers—transverse bracing, &amp;c. If the bridge were loaded with Locomotives only, the greatest load would be, on the whole bridge—160 tons = 1.33 tons per ft. run of the bridge or .666 tons per ft. run of each truss. Now if we make the rise of the bridge 15 ft., and divide the span into 12 panels of 10 ft. each, we shall have for total weight of bridge and load 240 tons, or for a single truss 10 tons to each panel.</p>
+               <p rend="justify">Lower Chords. Now to find the tension on the Lower Chords, Equation: T = W x S / 8h and supplying values, we have Equation: T = 240 x 120 / 8 x 15 = 240 tons, or 537600 lbs., for the two Lower Chords, and ½ of this, or 268800 lbs. for one chord. The Tensional Strength of timber for safety may be taken at 2000 lbs. per square inch of section, and hence the area of timber required to sustain the above strain will be 268800 ÷ 2000 = 134.4 sq. inches. But this chord has also to sustain the transverse strains arising from the weights passing over it, and, as in the case of a Locomotive, the weight of 20 tons on 2 pair of drivers, (or 10 tons for one truss,) may be concentrated on the middle point of a panel—the chord must be so proportioned as to safely bear, as a horizontal beam, this weight. Suppose we take three sticks of 8" x 12", to form the chord (the greater dimension being the depth,) we shall have 3 x 8" x 12" = 288 square inches area of section, and</p>
+               <table rend="frame" xml:id="Table7">
+                  <row>
+                     <cell>allowing</cell>
+                     <cell>for</cell>
+                     <cell>splicing</cell>
+                     <cell>72</cell>
+                     <cell>square</cell>
+                     <cell>inches,</cell>
+                  </row>
+                  <row>
+                     <cell>"</cell>
+                     <cell>"</cell>
+                     <cell>foot blocks,</cell>
+                     <cell>24</cell>
+                     <cell>"</cell>
+                     <cell>"</cell>
+                  </row>
+                  <row>
+                     <cell>"</cell>
+                     <cell>"</cell>
+                     <cell>bolts,</cell>
+                     <cell>24</cell>
+                     <cell>"</cell>
+                     <cell>"</cell>
+                  </row>
+                  <row>
+                     <cell>"</cell>
+                     <cell>"</cell>
+                     <cell>washers,</cell>
+                     <cell>8</cell>
+                     <cell>"</cell>
+                     <cell>"</cell>
+                  </row>
+               </table>
+               <p rend="justify">we shall have after deducting allowances (288-128) 160 square inches area, giving an excess over 134.4, the area demanded, sufficient to cover allowances for any accidental strain.<lb/> </p>
+               <p rend="justify">Upper Chords. The upper chords are compressed as forcibly as the lower ones suffer tension—owing to the action and reaction of the diagonals. In this case the compression is 268800 lbs., and as 1 square inch of section will safely bear 1000 lbs., we have for the area required, 268800 ÷ 1000 = 268.8 square inches,—three pieces 8" x 11" will give 264 square inches and this area will require no reduction, as the whole chord presses together when properly framed and is not weakened by splicing. So far, the calculations made would apply to either of the three Bridges mentioned, as well as to a Warren Truss. But now, to obtain the dimensions of the web members, so called, of the Truss, it is necessary to decide upon the specific variety. The form of Bridge in more general use in the United States is called the Howe Truss, from its inventor, and in spans of 150 feet, and under, is very reliable; for spans exceeding 150 ft. it should be strengthened either by Arch Braces or by the addition of Arches, as the heavy strains from the weight of bridge and load bearing on the feet of the braces near the abutments, tend to cripple and distort the truss by sagging, although the Baltimore Bridge Co. have built a Wooden Howe Bridge of two Trusses of 300 ft. span, 30 ft. rise, and 26 ft. wide, without any arch, but it has a wrought iron lower chord, and is only proportioned for a moving load of 1000 lbs. per ft. run. [Vide Vose on R.R. construction.]</p>
+               <p rend="justify">In order to ensure uniformity in strength in the chords—but one joint should be allowed in a panel—and that should come at the centre of the panel length—but in long spans this cannot always be done.<lb/> </p>
+               <p rend="justify">Web Members. We will now proceed to calculate the web members of a Howe Truss of the foregoing dimensions, when subjected to the strains above mentioned.<lb/> </p>
+               <p rend="justify">Braces. The end braces must evidently support the whole weight of the bridge and load, which for one end of one truss will be 134400 lbs., and as these braces are in pairs,—67200 lbs. will be the strain vertically on the stick—but as this stick is a diagonal—whose vertical is 15 ft., and horizontal 10 ft., we shall have for its length 18 ft. in round numbers, whence the strain along the diagonal will be found from the proportion 15 : 18 :: 67200 : 80640 lbs., whence we have an area of 80 inches required for compression, or a stick of 8" x 10". Now, to ascertain if this is stiff enough for flexure, we will substitute these values in the equation Equation: W = 2240 bd^3 / L^2 , and we have Equation: W = 2240 x 8 x 1000 / 324 , or reducing, W = 55308 lbs. Now, these proportions will give ample strength for both flexure and compression, for if we block the two sticks composing the end brace together, and firmly connect them by bolts, we shall have a built beam of 24" x 10"—whence Equation: W = 2240 x 24 x 1000 / 324 = 165925 lbs., and as 134400 lbs. was all that the conditions demand, we really have an excess of strength. The next set of braces supports the weight of the rectangle included between the upper ends of the braces and the two chords, and the dimensions of the sticks are calculated in the same manner. We find, as we approach the centre of the bridge, that the strains on the braces become less, and consequently their scantling should be reduced, but in ordinary practice this is seldom done.<lb/> </p>
+               <p rend="justify">Rods. The next thing is to ascertain the dimensions of the various tie rods. It is evident that the same weight comes upon the first set of rods, as on the first set of braces—which will give for the rods at one end of one truss, 134400 lbs.; and as there are two of these rods, each will sustain a strain of 67200 lbs.—and, at 15,000 lbs. per square inch, will have an area of 4.48 sq. inches, and, by Vose's Tables, must have a diameter of 2½ inches. The sizes of the rods in each set will decrease towards the centre of the bridge as the weight becomes less.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Plate II</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Counterbraces. Now, as to the necessity of Counterbracing, there are various opinions. The object of it is to stiffen the truss and check vibrations. If a load be placed over any panel point, it causes that portion of the truss to sink, and produces an elevation of the corresponding panel point at the other end of the truss—thus producing a distortion, which change of form is resisted by proper counterbraces. The strain to which this timber is subjected is caused by the moving load on one panel only—and requires only scantling of the size of the middle braces. These counterbraces should not be pinned or bolted to the braces where the cross—as their action is thereby entirely altered—but it is well to so confine them as to prevent vertical or lateral motion.<lb/> </p>
+               <p rend="justify">Shoes. Formerly it was the custom to foot the braces and counters on hard wood blocks on one side of the chord, the vertical rods passing through and screwing against a block on the other side—thus the whole strain tended to crush the chord across its fibres. This is now remedied by the use of cast iron blocks, bearing on one side of the chord, but having tubes extending through to the other side, where the washer plate for the bolts fits firmly on their ends, forming a complete protection, as all the crushing strain is received on the block itself.<lb/> </p>
+               <p rend="justify">Width. It now becomes necessary to determine upon the width between the two trusses. For a single track bridge for a railroad, 14 ft. is the usual width adopted, and for a highway bridge, from 12 to 16 ft. When a double track is required, three trusses are usually employed, with a width for each roadway of 14 ft. for railroads.<lb/> </p>
+               <p rend="justify">Bolsters. Large timbers 12 x 12, or thereabouts, are laid on the bridge seats of the abutments to support the ends of the trusses, one of these should be directly under each of the extreme panel points. A panel point is the intersection of the centre line of a brace produced, with the centre line of a chord. The rise of a truss is the vertical distance between the centre lines of the upper and lower chords.<lb/> </p>
+               <p rend="justify">Camber. Were a bridge to be framed with its chords perfectly horizontal, it would be found to fall below the horizontal line on being placed in its proper position, owing to the closing up of the joints in the upper parts of the structure, and opening of joints in the lower parts, as well as to the compression of the parts. To obviate this defect, it is usual to curve the chords slightly in a vertical direction, by elongating the upper chord, so that the bays or panels are no longer rectangular but of a trapezoidal form—and, as a consequence, the inclined web members are slightly lengthened, and the verticals become radii of the curve. The amount of deviation from a horizontal line is called the Camber.</p>
+               <p rend="justify">A table of Cambers for different spans will be found further on, as also a table of multipliers, by which to multiply the camber in order to find the elongation of the upper chord. Part of the Camber table is taken from Trautwine's Engineer's Pocket-Book, (which should be the inseparable companion of every engineer,) and part was calculated for this pamphlet, according to Trautwine's rules. The table of multipliers is Trautwine's.<lb/> </p>
+               <p rend="justify">Diagonal Bracing. In order to stiffen a bridge, it should have the two Trusses braced together at the Lower Chords always, at the Upper Chords when practicable—and in case of a deck bridge, where the roadway is supported on the upper chords, it is as well to have rods for vertical diagonal braces, their planes being perpendicular to the axis of the bridge. The more usual form is similar to the web members of the Howe Truss—the rods from ¾" to 1" in diameter, and the braces of 6" x 7" scantling, footed on wooden blocks, usually. It is more usual to have the tie rods of the horizontal diagonal bracing, and the braces themselves, meet in a point about midway of a Truss panel on the centre line, nearly, of the chord. This will generally give a half panel of diagonal bracing near each end of the truss—and it is very usual to have the diagonals foot at their intersection there against a cross timber interposed between the trusses, while the tie rod prevents any spreading.<lb/> </p>
+               <p rend="justify">Floor Timbers. The general dimensions of the transverse floor beams, when about 3 feet apart, from centre to centre, are 8" x 14", the largest dimension being the depth. The stringers should be notched to the floor beams about 1" or 2", and should be about 10" or 12" x 14". The cross ties should be 18" to 24" apart, from centre to centre, and be 3½" x 6".</p>
+               <p rend="justify">Large, heavy bridges require no fastening to connect them with their seats, but light bridges should be fastened, as the spring on the sudden removal of a load, (as when the last car of a train has passed,) may move it from its proper position.<lb/> </p>
+               <p rend="justify">Splices. As the upper and lower chords have to be made in several lengths, securely fastened to each other, and, in order to weaken the built beam as little as possible, it is necessary to adopt some form of splicing whereby the greatest amount of tensional strength may be retained in the chord with the least amount of cutting, and yet have a secure joint. Such a splice is shown in Pl. II, Fig. 4, and below is a table from Vose's Hand-book, giving reliable dimensions.</p>
+               <table rend="frame" xml:id="Table8">
+                  <row role="label">
+                     <cell rend="center">Span.<lb/>Feet.</cell>
+                     <cell rend="center">AC<lb/>Feet.</cell>
+                     <cell rend="center">BB<lb/>Inches.</cell>
+                     <cell rend="center">CD<lb/>Feet.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">50</cell>
+                     <cell rend="center">1.00</cell>
+                     <cell rend="center">1½</cell>
+                     <cell rend="center">1.50</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">100</cell>
+                     <cell rend="center">1.25</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2.00</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">150</cell>
+                     <cell rend="center">1.75</cell>
+                     <cell rend="center">2½</cell>
+                     <cell rend="center">2.25</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">200</cell>
+                     <cell rend="center">2.00</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">2.75</cell>
+                  </row>
+               </table>
+               <p rend="justify">This manner of splicing requires the back of the splice block to be let into the chord stick, against which it lies, about ¾ of an inch. To show how the various Engineers differ, as to their estimates of the sizes of the several parts of bridges, I subjoin two Tables—one by Prof. G.L. Vose, a well known Engineer, and one by Jno. C. Trautwine, an Engineer of note also—and I would premise that a bridge built according to either would be amply strong.</p>
+               <p rend="justify">TABLE FOR DIMENSIONING A HOWE TRUSS BRIDGE.<lb/>G.L. VOSE.</p>
+               <table rend="frame" xml:id="Table9">
+                  <row role="label">
+                     <cell rend="center">Span.</cell>
+                     <cell rend="center">Rise.</cell>
+                     <cell rend="center">Panel.</cell>
+                     <cell rend="center">Chords.</cell>
+                     <cell rend="center">End<lb/>Braces.</cell>
+                     <cell rend="center">Centre<lb/>Braces.</cell>
+                     <cell rend="center">End<lb/>Rods.</cell>
+                     <cell rend="center">Centre<lb/>Rods.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">50</cell>
+                     <cell rend="center">10</cell>
+                     <cell rend="center">7</cell>
+                     <cell rend="center">2—8 x 10</cell>
+                     <cell rend="center">7 x 7</cell>
+                     <cell rend="center">5 x 5</cell>
+                     <cell rend="center">1—1⅛</cell>
+                     <cell rend="center">2—1</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">75</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">9</cell>
+                     <cell rend="center">2—8 x 10</cell>
+                     <cell rend="center">8 x 8</cell>
+                     <cell rend="center">5 x 5</cell>
+                     <cell rend="center">2—1½</cell>
+                     <cell rend="center">2—1</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">100</cell>
+                     <cell rend="center">15</cell>
+                     <cell rend="center">11</cell>
+                     <cell rend="center">2—8 x 10</cell>
+                     <cell rend="center">8 x 9</cell>
+                     <cell rend="center">6 x 6</cell>
+                     <cell rend="center">2—1¾</cell>
+                     <cell rend="center">2—1</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">150</cell>
+                     <cell rend="center">20</cell>
+                     <cell rend="center">13</cell>
+                     <cell rend="center">4—8 x 12</cell>
+                     <cell rend="center">10 x 10</cell>
+                     <cell rend="center">6 x 7</cell>
+                     <cell rend="center">3—2</cell>
+                     <cell rend="center">3—1</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">200</cell>
+                     <cell rend="center">25</cell>
+                     <cell rend="center">15</cell>
+                     <cell rend="center">4—8 x 16</cell>
+                     <cell rend="center">12 x 12</cell>
+                     <cell rend="center">7 x 7</cell>
+                     <cell rend="center">5—2</cell>
+                     <cell rend="center">5—1</cell>
+                  </row>
+               </table>
+               <lg>
+                  <l> </l>
+                  <l>TABLE FOR DIMENSIONING A HOWE TRUSS BRIDGE.</l>
+                  <l>JNO. C. TRAUTWINE, C.E.</l>
+               </lg>
+               <p rend="justify"> </p>
+               <p rend="justify">An Upper Chord.</p>
+               <p rend="justify">A Lower Chord.</p>
+               <p rend="justify">An End Brace.</p>
+               <p rend="justify">A Centre Brace.</p>
+               <p rend="justify">Counter.</p>
+               <p rend="justify">End Rod.</p>
+               <p rend="justify">Centre Rod.</p>
+               <p rend="justify">Clear Span in feet.</p>
+               <p rend="justify">Rise in feet.</p>
+               <p rend="justify">No. of panels.</p>
+               <p rend="justify">No. pieces.</p>
+               <p rend="justify">Size.</p>
+               <p rend="justify">No. pieces.</p>
+               <p rend="justify">Size.</p>
+               <p rend="justify">No. pieces.</p>
+               <p rend="justify">Size.</p>
+               <p rend="justify">No. pieces.</p>
+               <p rend="justify">Size.</p>
+               <p rend="justify">No. pieces.</p>
+               <p rend="justify">Size.</p>
+               <p rend="justify">No. rods.</p>
+               <p rend="justify">Size.</p>
+               <p rend="justify">No. rods.</p>
+               <p rend="justify">Size.</p>
+               <p rend="justify">25</p>
+               <p rend="justify">6</p>
+               <p rend="justify">8</p>
+               <p rend="justify">3</p>
+               <p rend="justify">4 x 5</p>
+               <p rend="justify">3</p>
+               <p rend="justify">4 x 10</p>
+               <p rend="justify">2</p>
+               <p rend="justify">4 x 6</p>
+               <p rend="justify">2</p>
+               <p rend="justify">5 x 5</p>
+               <p rend="justify">1</p>
+               <p rend="justify">4 x 5</p>
+               <p rend="justify">2</p>
+               <p rend="justify">1-5/16</p>
+               <p rend="justify">2</p>
+               <p rend="justify">⅞</p>
+               <p rend="justify">50</p>
+               <p rend="justify">9</p>
+               <p rend="justify">9</p>
+               <p rend="justify">3</p>
+               <p rend="justify">6 x 7</p>
+               <p rend="justify">3</p>
+               <p rend="justify">6 x 10</p>
+               <p rend="justify">2</p>
+               <p rend="justify">6 x 7</p>
+               <p rend="justify">2</p>
+               <p rend="justify">5 x 6</p>
+               <p rend="justify">1</p>
+               <p rend="justify">5 x 6</p>
+               <p rend="justify">2</p>
+               <p rend="justify">1⅝ </p>
+               <p rend="justify">2</p>
+               <p rend="justify">1-1/16</p>
+               <p rend="justify">75</p>
+               <p rend="justify">12</p>
+               <p rend="justify">10</p>
+               <p rend="justify">3</p>
+               <p rend="justify">6 x 9</p>
+               <p rend="justify">3</p>
+               <p rend="justify">6 x 11</p>
+               <p rend="justify">2</p>
+               <p rend="justify">6 x 8</p>
+               <p rend="justify">2</p>
+               <p rend="justify">6 x 6</p>
+               <p rend="justify">1</p>
+               <p rend="justify">6 x 6</p>
+               <p rend="justify">2</p>
+               <p rend="justify">1⅞</p>
+               <p rend="justify">2</p>
+               <p rend="justify">1-3/16</p>
+               <p rend="justify">100</p>
+               <p rend="justify">15</p>
+               <p rend="justify">11</p>
+               <p rend="justify">3</p>
+               <p rend="justify">6 x 10</p>
+               <p rend="justify">3</p>
+               <p rend="justify">6 x 12</p>
+               <p rend="justify">2</p>
+               <p rend="justify">8 x 9</p>
+               <p rend="justify">2</p>
+               <p rend="justify">6 x 8</p>
+               <p rend="justify">1</p>
+               <p rend="justify">6 x 8</p>
+               <p rend="justify">2</p>
+               <p rend="justify">2-3/16</p>
+               <p rend="justify">2</p>
+               <p rend="justify">1-5/16</p>
+               <p rend="justify">125</p>
+               <p rend="justify">18</p>
+               <p rend="justify">12</p>
+               <p rend="justify">4</p>
+               <p rend="justify">6 x 10</p>
+               <p rend="justify">4</p>
+               <p rend="justify">6 x 13</p>
+               <p rend="justify">2</p>
+               <p rend="justify">8 x 10</p>
+               <p rend="justify">2</p>
+               <p rend="justify">6 x 9</p>
+               <p rend="justify">1</p>
+               <p rend="justify">6 x 9</p>
+               <p rend="justify">2</p>
+               <p rend="justify">2⅝</p>
+               <p rend="justify">2</p>
+               <p rend="justify">1⅜</p>
+               <p rend="justify">150</p>
+               <p rend="justify">21</p>
+               <p rend="justify">13</p>
+               <p rend="justify">4</p>
+               <p rend="justify">8 x 10</p>
+               <p rend="justify">4</p>
+               <p rend="justify">8 x 14</p>
+               <p rend="justify">3</p>
+               <p rend="justify">9 x 10</p>
+               <p rend="justify">3</p>
+               <p rend="justify">6 x 9</p>
+               <p rend="justify">2</p>
+               <p rend="justify">6 x 9</p>
+               <p rend="justify">3</p>
+               <p rend="justify">2⅜</p>
+               <p rend="justify">3</p>
+               <p rend="justify">1-3/16</p>
+               <p rend="justify">175</p>
+               <p rend="justify">24</p>
+               <p rend="justify">14</p>
+               <p rend="justify">4</p>
+               <p rend="justify">10 x 12</p>
+               <p rend="justify">4</p>
+               <p rend="justify">10 x 15</p>
+               <p rend="justify">3</p>
+               <p rend="justify">9 x 11</p>
+               <p rend="justify">3</p>
+               <p rend="justify">8 x 8</p>
+               <p rend="justify">2</p>
+               <p rend="justify">8 x 8</p>
+               <p rend="justify">3</p>
+               <p rend="justify">2⅝</p>
+               <p rend="justify">3</p>
+               <p rend="justify">1¼</p>
+               <p rend="justify">200</p>
+               <p rend="justify">27</p>
+               <p rend="justify">15</p>
+               <p rend="justify">4</p>
+               <p rend="justify">12 x 12</p>
+               <p rend="justify">4</p>
+               <p rend="justify">12 x 16</p>
+               <p rend="justify">3</p>
+               <p rend="justify">9 x 12</p>
+               <p rend="justify">3</p>
+               <p rend="justify">8 x 10</p>
+               <p rend="justify">2</p>
+               <p rend="justify">8 x 10</p>
+               <p rend="justify">3</p>
+               <p rend="justify">2⅞</p>
+               <p rend="justify">3</p>
+               <p rend="justify">1⅜</p>
+               <p rend="justify"> <lb/>Both of these tables were calculated for a single Railroad track, and would answer equally well for a double Highway Bridge. In the bridge according to Trautwine's Table, each lower chord is supposed to have a piece of plank, half as thick as one of the chord pieces, and as long as three panels, firmly bolted on each of its sides, in the middle of its length.</p>
+               <p rend="justify">PRATT'S BRIDGE.</p>
+               <p rend="justify">This is opposite in arrangement of parts to a Howe Bridge, as the diagonals are rods, and sustain tension, and the verticals are posts, and suffer compression:</p>
+               <table rend="frame" xml:id="Table10">
+                  <row>
+                     <cell>
+                        <hi rend="italic">Example.</hi>—</cell>
+                     <cell>Span</cell>
+                     <cell>= 100 feet.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Rise</cell>
+                     <cell>= 12   "</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Panel</cell>
+                     <cell>= 10   "</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Weight per lineal ft.</cell>
+                     <cell>= 3000 lbs.</cell>
+                  </row>
+               </table>
+               <p rend="justify">The tension on the lower, or compression on the upper chord, will be 300000 X 100 / 96 = 333333 lbs. The dimensions of the chord and splicing would be found in the same manner as for a Howe Truss.<lb/> </p>
+               <p rend="justify">Suspension Rods. Fig. 1, Pl. III., represents an elevation of a Pratt Bridge. Now, it is evident that the first sets of rods must support the weight of the whole bridge and its load, which we have found to be 300000 lbs. Each truss will have to sustain 150,000 lbs., and each end set of rods 75,000 lbs. Now, if there are two rods in each set,—each rod will have to bear a strain of 37500 lbs., and this will have an increase due to its inclination, so that the strain on it must be found by the following proportion:</p>
+               <p rend="justify">Height : diagonal :: W : W' or<lb/>12 : 15.8 :: 37500 : 49375 lbs.</p>
+               <p rend="justify">Referring to the Table for bolts, we find that 2⅛ gives a strength a little in excess, and will be the proper size. The next set of rods bear the weight of the whole load, less that due to the two end panels, and so on. Fig. 2, Pl. III, shows the manner of applying the rods. The bevel block should be so fitted to the chord that it will not have a crushing action.<lb/> </p>
+               <p rend="justify">Counters. Top and bottom chords are always used in this bridge, and consequently the counter rods have only to sustain the movable load on one panel. The weight of the moving load cannot be more than 2000 lbs. per lineal foot which, for a panel of 10 ft., gives 20000 lbs., or 10,000 lbs. for each set, and if we have two rods in a set, the strain on each rod will be 5000 lbs., increasing this for inclination, we shall have,</p>
+               <p rend="justify">12 : 15.8 :: 5000 : 6585 lbs.,<lb/>
+               </p>
+               <p rend="justify">requiring a rod of ¾ of an inch diameter. The posts in this bridge correspond to the braces of the Howe Truss, but being vertical, are not so large.</p>
+               <p rend="justify">Subjoined are two Tables, one by Prof. G.L. Vose, and one by Mr. Trautwine, giving principal dimensions for bridges of different spans of the Pratt type of Truss.</p>
+               <p rend="justify">TABLE OF DIMENSIONS OF A PRATT TRUSS.<lb/>PROF. G. L. VOSE.</p>
+               <table rend="frame" xml:id="Table11">
+                  <row role="label">
+                     <cell rend="center">Span.</cell>
+                     <cell rend="center">Rise.</cell>
+                     <cell rend="center">Chords.</cell>
+                     <cell rend="center">End<lb/>Post.</cell>
+                     <cell rend="center">Centre<lb/>Post.</cell>
+                     <cell rend="center">End<lb/>Rod.</cell>
+                     <cell rend="center">Centre<lb/>Rod.</cell>
+                     <cell rend="center">Counter<lb/>Rod.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">50</cell>
+                     <cell rend="center">10</cell>
+                     <cell rend="center">2—8 x 10</cell>
+                     <cell rend="center">5 x 5</cell>
+                     <cell rend="center">4 x 4</cell>
+                     <cell rend="center">2—1⅜</cell>
+                     <cell rend="center">2—1</cell>
+                     <cell rend="center">1—1½</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">75</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">2—8 x 10</cell>
+                     <cell rend="center">6 x 6</cell>
+                     <cell rend="center">5 x 5</cell>
+                     <cell rend="center">2—1⅝</cell>
+                     <cell rend="center">2—1</cell>
+                     <cell rend="center">1—1½</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">100</cell>
+                     <cell rend="center">15</cell>
+                     <cell rend="center">3—8 x 10</cell>
+                     <cell rend="center">7 x 7</cell>
+                     <cell rend="center">6 x 6</cell>
+                     <cell rend="center">2—1¾</cell>
+                     <cell rend="center">2—1</cell>
+                     <cell rend="center">2—1⅛</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">125</cell>
+                     <cell rend="center">18</cell>
+                     <cell rend="center">3—8 x 10</cell>
+                     <cell rend="center">8 x 8</cell>
+                     <cell rend="center">6 x 6</cell>
+                     <cell rend="center">3—1⅞</cell>
+                     <cell rend="center">3—1</cell>
+                     <cell rend="center">2—1⅜</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">150</cell>
+                     <cell rend="center">21</cell>
+                     <cell rend="center">4—8 x 12</cell>
+                     <cell rend="center">9 x 9</cell>
+                     <cell rend="center">6 x 6</cell>
+                     <cell rend="center">3—2⅛</cell>
+                     <cell rend="center">3—1</cell>
+                     <cell rend="center">3—1⅛</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">200</cell>
+                     <cell rend="center">24</cell>
+                     <cell rend="center">4—8 x 16</cell>
+                     <cell rend="center">10 x 10</cell>
+                     <cell rend="center">6 x 6</cell>
+                     <cell rend="center">5—1⅞</cell>
+                     <cell rend="center">5—1</cell>
+                     <cell rend="center">3—1⅛</cell>
+                  </row>
+               </table>
+               <p rend="justify"> <lb/>TABLE OF DIMENSIONS OF A PRATT'S TRUSS.</p>
+               <table rend="frame" xml:id="Table12">
+                  <row>
+                     <cell rend="center">Clear Span in feet.</cell>
+                     <cell rend="center">25</cell>
+                     <cell rend="center">50</cell>
+                     <cell rend="center">75</cell>
+                     <cell rend="center">100</cell>
+                     <cell rend="center">125</cell>
+                     <cell rend="center">150</cell>
+                     <cell rend="center">175</cell>
+                     <cell rend="center">200</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">Rise in feet</cell>
+                     <cell rend="center">6</cell>
+                     <cell rend="center">9</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">15</cell>
+                     <cell rend="center">18</cell>
+                     <cell rend="center">21</cell>
+                     <cell rend="center">24</cell>
+                     <cell rend="center">27</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">No. of Panels.</cell>
+                     <cell rend="center">8</cell>
+                     <cell rend="center">9</cell>
+                     <cell rend="center">10</cell>
+                     <cell rend="center">11</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">13</cell>
+                     <cell rend="center">14</cell>
+                     <cell rend="center">15</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">Upper Chord.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  No. Pieces.</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  Size.</cell>
+                     <cell rend="center">4 x 5</cell>
+                     <cell rend="center">6 x 7</cell>
+                     <cell rend="center">6 x 9</cell>
+                     <cell rend="center">6 x 10</cell>
+                     <cell rend="center">6 x 10</cell>
+                     <cell rend="center">8 x 10</cell>
+                     <cell rend="center">10 x 12</cell>
+                     <cell rend="center">12 x 12</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">Lower Chord.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  No. of Pieces.</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  Size.</cell>
+                     <cell rend="center">4 x 10</cell>
+                     <cell rend="center">6 x 10</cell>
+                     <cell rend="center">6 x 11</cell>
+                     <cell rend="center">6 x 12</cell>
+                     <cell rend="center">6 x 13</cell>
+                     <cell rend="center">8 x 14</cell>
+                     <cell rend="center">10 x 15</cell>
+                     <cell rend="center">12 x 16</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">Main Brace Rods.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  No. Ctr.</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  Size. Ctr.</cell>
+                     <cell rend="center">1</cell>
+                     <cell rend="center">1-3/16</cell>
+                     <cell rend="center">1-5/16</cell>
+                     <cell rend="center">1-7/16</cell>
+                     <cell rend="center">1½</cell>
+                     <cell rend="center">1-5/16</cell>
+                     <cell rend="center">1⅜</cell>
+                     <cell rend="center">1½</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  No. End.</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  Size. End.</cell>
+                     <cell rend="center">1⅜</cell>
+                     <cell rend="center">1⅞</cell>
+                     <cell rend="center">2⅛</cell>
+                     <cell rend="center">2½</cell>
+                     <cell rend="center">2⅞</cell>
+                     <cell rend="center">2½</cell>
+                     <cell rend="center">2¾</cell>
+                     <cell rend="center">3⅛</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">Counter Rods.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  Number.</cell>
+                     <cell rend="center">1</cell>
+                     <cell rend="center">1</cell>
+                     <cell rend="center">1</cell>
+                     <cell rend="center">1</cell>
+                     <cell rend="center">1</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  Size.</cell>
+                     <cell rend="center">1-7/16</cell>
+                     <cell rend="center">1⅝</cell>
+                     <cell rend="center">1⅞</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">2⅛</cell>
+                     <cell rend="center">1⅝</cell>
+                     <cell rend="center">1-11/16</cell>
+                     <cell rend="center">1-13/16</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">Posts.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  No. End.</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  Size. End.</cell>
+                     <cell rend="center">4 x 5</cell>
+                     <cell rend="center">6 x 6</cell>
+                     <cell rend="center">6 x 7</cell>
+                     <cell rend="center">6 x 9</cell>
+                     <cell rend="center">6 x 9</cell>
+                     <cell rend="center">8 x 8</cell>
+                     <cell rend="center">10 x 10</cell>
+                     <cell rend="center">12 x 10</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  No. Ctr.</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                     <cell rend="center">4</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">  Size. Ctr.</cell>
+                     <cell rend="center">4 x 4</cell>
+                     <cell rend="center">6 x 5</cell>
+                     <cell rend="center">6 x 5</cell>
+                     <cell rend="center">6 x 7</cell>
+                     <cell rend="center">6 x 7</cell>
+                     <cell rend="center">8 x 7</cell>
+                     <cell rend="center">10 x 8</cell>
+                     <cell rend="center">10 x 8</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <lb/>This table is partly given in Trautwine's Engineer's Pocket Book, and partly made up from directions therein given.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">TABLE OF DIMENSIONS FOR SMALL SINGLE TRACK PRATT TRUSSES.</p>
+               <table rend="frame" xml:id="Table13">
+                  <row>
+                     <cell rend="center">Clear<lb/>Span,<lb/>Ft.</cell>
+                     <cell rend="center">Chords each,<lb/>Ins.</cell>
+                     <cell rend="center">Centre<lb/>Post,<lb/>Ins.</cell>
+                     <cell rend="center">End Posts,<lb/>Ins.</cell>
+                     <cell rend="center">At centre<lb/>of truss,<lb/>Diam. of<lb/>Rods.</cell>
+                     <cell rend="center">At end<lb/>of truss,<lb/>Diam. of<lb/>Rods.</cell>
+                     <cell rend="center">Centre<lb/>Counter,<lb/>Diameter,<lb/>Ins.</cell>
+                     <cell rend="center">End Counter,<lb/>Diameter,<lb/>Ins.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">30</cell>
+                     <cell rend="center">9 x 11</cell>
+                     <cell rend="center">4 x 9</cell>
+                     <cell rend="center">7 x 9</cell>
+                     <cell rend="center">1</cell>
+                     <cell rend="center">1⅝</cell>
+                     <cell rend="center">1⅜</cell>
+                     <cell rend="center">1</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">40</cell>
+                     <cell rend="center">10 x 12</cell>
+                     <cell rend="center">4 x 10</cell>
+                     <cell rend="center">8 x 10</cell>
+                     <cell rend="center">1⅛</cell>
+                     <cell rend="center">1⅞</cell>
+                     <cell rend="center">1⅝</cell>
+                     <cell rend="center">1</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">50</cell>
+                     <cell rend="center">10 x 14</cell>
+                     <cell rend="center">5 x 10</cell>
+                     <cell rend="center">9 x 10</cell>
+                     <cell rend="center">1¼</cell>
+                     <cell rend="center">2⅛</cell>
+                     <cell rend="center">1¾</cell>
+                     <cell rend="center">1</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">60</cell>
+                     <cell rend="center">12 x 15</cell>
+                     <cell rend="center">5 x 12</cell>
+                     <cell rend="center">9 x 12</cell>
+                     <cell rend="center">1⅜</cell>
+                     <cell rend="center">2⅜</cell>
+                     <cell rend="center">2</cell>
+                     <cell rend="center">1</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">70</cell>
+                     <cell rend="center">12 x 17</cell>
+                     <cell rend="center">6 x 12</cell>
+                     <cell rend="center">11 x 12</cell>
+                     <cell rend="center">1½</cell>
+                     <cell rend="center">2½</cell>
+                     <cell rend="center">2⅛</cell>
+                     <cell rend="center">1</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <lb/>This bridge possesses an advantage over the Howe Truss, for the panel diagonals can be tightened up by screws, so that every part of the truss can be forced to perform its work. In Howe's bridge the adjustments must be made by wedging the braces and counters.</p>
+               <p rend="justify">Below are given the dimensions of a Howe bridge on the Vermont Central R.R., at South Royalton, (single track, deck.)</p>
+               <table rend="frame" xml:id="Table14">
+                  <row>
+                     <cell>Span.</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>Rise.</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>No. of Panels.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Upper Chord.</cell>
+                     <cell>4—6½ x 13</cell>
+                  </row>
+                  <row>
+                     <cell>Lower Chord.</cell>
+                     <cell>4—6½ x 13</cell>
+                  </row>
+                  <row>
+                     <cell>Braces.</cell>
+                     <cell>2—8 x 9</cell>
+                  </row>
+                  <row>
+                     <cell>Counters.</cell>
+                     <cell>1—8 x 9</cell>
+                  </row>
+                  <row>
+                     <cell>Rods.</cell>
+                     <cell>3—1¼"</cell>
+                  </row>
+                  <row>
+                     <cell>Transverse Bracing.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>   Braces.</cell>
+                     <cell>6 x 8</cell>
+                  </row>
+                  <row>
+                     <cell>   Rods.</cell>
+                     <cell>⅞</cell>
+                  </row>
+               </table>
+               <p rend="justify"> <lb/>The bridge over the White River, on the Passumpsic R.R., is a Howe Truss, strengthened by an arch. The verticals are of wood, and the diagonals foot on steps formed by enlarging the ends of the verticals. The counters are in two lengths, and are adjusted by wedges at the points where they intersect the braces. The bridge is in two spans, and has a double track, and consequently three trusses. There are two timber arches to each truss, and the truss is supported on them by connecting them to the verticals by short cross pieces notched into the posts, and resting on the upper surface of the arches. It is a very stiff bridge, and similar to the one at Bellows Falls, both having their axis oblique to the channel of the stream they cross. The timbers could hardly be procured now, except at great expense.</p>
+               <table rend="frame" xml:id="Table15">
+                  <row>
+                     <cell rend="center">Span.</cell>
+                     <cell rend="center">No. of<lb/>Panels.</cell>
+                     <cell rend="center">Rods.</cell>
+                     <cell rend="center">Upper Chord.</cell>
+                     <cell rend="center">Lower Chord.</cell>
+                     <cell rend="center">Braces.</cell>
+                     <cell rend="center">Counters.</cell>
+                     <cell rend="center">Uprights.</cell>
+                     <cell rend="center">Arches.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">182</cell>
+                     <cell rend="center">14</cell>
+                     <cell rend="center">21</cell>
+                     <cell rend="center">2—8 x 16,<lb/>1—5 x 16</cell>
+                     <cell rend="center">2—8 x 17,<lb/>2—4 x 17,<lb/>1—5 x 17</cell>
+                     <cell rend="center">1—21 x 8</cell>
+                     <cell rend="center">1—8 x 10</cell>
+                     <cell rend="center">21 x 11</cell>
+                     <cell rend="center">2—8 x 9</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <lb/>Diagonals 6 x 8, Rods ⅞. Floor timbers suspended both from arches and truss, 9 x 13; stringers 10 x 14.</p>
+               <p rend="justify">In the Cheshire Bridge, the braces are only 20 x 8, and the span is only 175 feet, the number of Panels being 14, as in the W.R. Bridge—the other dimensions are the same. Below are given the dimensions of a Howe Truss of 108 ft. span, weight to be borne on upper chord.</p>
+               <table rend="frame" xml:id="Table16">
+                  <row>
+                     <cell rend="center">Rise<lb/>Ft.</cell>
+                     <cell rend="center">Camber<lb/>Ins.</cell>
+                     <cell rend="center">No. of<lb/>Panels.</cell>
+                     <cell rend="center">Upper Chord<lb/>Ins.</cell>
+                     <cell rend="center">Lower Chord<lb/>Ins.</cell>
+                     <cell rend="center">Braces<lb/>Ins.</cell>
+                     <cell rend="center">Counters<lb/>Ins.</cell>
+                     <cell rend="center">E Rods<lb/>Ins.</cell>
+                     <cell rend="center">Floor Timbers<lb/>Ins.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">13½</cell>
+                     <cell rend="center">3</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">8—3 x 12</cell>
+                     <cell rend="center">8—3x12</cell>
+                     <cell rend="center">2—8 x 10</cell>
+                     <cell rend="center">1—7 x 10</cell>
+                     <cell rend="center">2—2⅛</cell>
+                     <cell rend="center">9 x 16</cell>
+                  </row>
+               </table>
+               <p rend="justify"> </p>
+               <p rend="justify">As plank is used for the chords, the pieces must be bolted thoroughly with ⅝ bolts.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Plate III</p>
+               <p rend="justify"> </p>
+               <p rend="justify">A form of bridge that has been used to some extent on the Baltimore and Ohio Railroad, by Mr. Latrobe, is the Arch Brace Truss. In this form of Truss the braces lead directly from the abutments to the head of each vertical; thus the load is transferred at once to the abutments, without passing through a series of web members. The counterbracing is effected by means of a light lattice,—and is applied to both sides of the chords, and the intersections of the diagonals are fastened while the bridge is strained by a load—thus preventing recoil—so that the effect of a moving load is to lighten the strain on the lattice—without otherwise affecting the Truss. There are two models of this style of bridge, to my knowledge; one built by Prof. G.L. Vose, on a scale of ½ an inch to the foot, and representing a span of 150 feet, which supported 2,500 lbs. at the centre, and a movable load of 150 lbs., proving itself to be strong and rigid enough for any thing. The other, on a scale of 1 inch to the foot, and representing a span of 76 feet, was built by the Class of '73, of the Thayer Engineering School, under the writer's direction, and though bearing very heavy weights, has never been thoroughly tested—it has, however, been subjected to the sudden shock of 1040 lbs. falling 20 inches, without injury, several times. Subjoined are the dimensions of the models mentioned.</p>
+               <p rend="justify">DIMENSIONS OF A MODEL OF AN ARCH BRACE TRUSS.<lb/>G.L. VOSE.</p>
+               <table rend="frame" xml:id="Table17">
+                  <row>
+                     <cell>Length,    </cell>
+                     <cell>7 feet.</cell>
+                  </row>
+                  <row>
+                     <cell>Height,</cell>
+                     <cell>1 foot.</cell>
+                  </row>
+                  <row>
+                     <cell>Width,</cell>
+                     <cell>1 foot.</cell>
+                  </row>
+                  <row>
+                     <cell>Chords,</cell>
+                     <cell>4—¼ x ½ inch.</cell>
+                  </row>
+                  <row>
+                     <cell>Braces</cell>
+                     <cell>4—¼ x 1/3  "</cell>
+                  </row>
+                  <row>
+                     <cell>Lattice,</cell>
+                     <cell>¼ x 1/16     "</cell>
+                  </row>
+               </table>
+               <p rend="justify">This represented a span of 150 ft, a rise of 20 feet, and a panel of 15 ft. Weight, per running foot of bridge and load, was taken at 3000 lbs.</p>
+               <p rend="justify">The method of calculating the dimensions of this truss, from the foregoing data, is as follows. The half number of panels is 5, and the lengths of the corresponding diagonals (neglecting fractions) are</p>
+               <p rend="justify">Formula = {sqrt)(15^2 + 30^2) = 25 feet.</p>
+               <p rend="justify">Formula = {sqrt)(15^2 + 45^2) = 37   "  </p>
+               <p rend="justify">Formula = {sqrt)(15^2 + 60^2) = 49   "  </p>
+               <p rend="justify">Formula = {sqrt)(15^2 + 60^2) = 64   "  </p>
+               <p rend="justify">Formula = {sqrt)(15^2 + 60^2) = 78   "  </p>
+               <p rend="justify">The weight upon each set of braces is that due to one panel, or 3000 x 15 = 45000 lbs., half of this, or 22500 lbs., is the weight for one truss only—and, as there is a brace under each of the 4 chord sticks, we divide by 4, and have 5625 lbs. per stick of the brace;—now, correcting for inclination, we shall have</p>
+               <lg>
+                  <l>20 : 25 :: 5625 :   7031 lbs.</l>
+                  <l>20 : 37 :: 5625 : 10406 lbs.</l>
+                  <l>20 : 49 :: 5625 : 13781 lbs.</l>
+                  <l>20 : 64 :: 5625 : 18000 lbs.</l>
+                  <l>20 : 78 :: 5625 : 21937 lbs.</l>
+               </lg>
+               <p rend="justify">The weights fouud show the compressional strains on the several braces;—and, were the pieces to be proportioned for compression only, their scantling would be quite small—but on account of their elasticity, they require larger dimensions.</p>
+               <p rend="justify">These braces should not be fastened to the verticals,—but should be confined both laterally and vertically, where they pass them. The length of beam, for which we have to guard agains flexure, is the length between verticals in any panel.</p>
+               <lg>
+                  <l>In panel No. 1, it will be 25 feet,</l>
+                  <l>      "    "     2,    "   "   18   "</l>
+                  <l>      "    "     3,    "   "   17   "</l>
+                  <l>      "    "     4,    "   "   16   "</l>
+                  <l>      "    "     5,    "   "   16   "</l>
+               </lg>
+               <p rend="justify">Now, using the formula</p>
+               <p rend="justify">Equation: 2240 bd^3 / L^2 = W</p>
+               <p rend="justify">we shall have, in round numbers, the following dimensions:</p>
+               <lg>
+                  <l>For the 1st panel, 25 feet long, 8 x 10</l>
+                  <l>      "     2d     "   37   "     "     8 x 10</l>
+                  <l>      "     3d     "   49   "     "     8 x 10</l>
+                  <l>      "     4th    "   64   "     "     8 x 10</l>
+                  <l>      "     5th    "   78   "     "     8 x 10</l>
+               </lg>
+               <p rend="justify">For the lattice work, a double course on each side of each truss, in long spans; and a single course, in shorter spans, of 3 x 6, or 2 x 9 plank, bolted at intersections, is sufficient.</p>
+               <p rend="justify">GENERAL TABLE OF DIMENSIONS FOR ARCH<lb/>BRACE TRUSS. G.L. VOSE.</p>
+               <table rend="frame" xml:id="Table18">
+                  <row>
+                     <cell rend="center">Span.</cell>
+                     <cell rend="center">Rise.</cell>
+                     <cell rend="center">Chords.</cell>
+                     <cell rend="center">Ties.</cell>
+                     <cell rend="center">Braces.</cell>
+                     <cell rend="center">Lattice.</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">50</cell>
+                     <cell rend="center">10</cell>
+                     <cell rend="center">2—8 x 10</cell>
+                     <cell rend="center">1—8 x 10</cell>
+                     <cell rend="center">2—6 x 6</cell>
+                     <cell rend="center"> </cell>
+                  </row>
+                  <row>
+                     <cell rend="center">75</cell>
+                     <cell rend="center">12</cell>
+                     <cell rend="center">2—8 x 10</cell>
+                     <cell rend="center">1—8 x 10</cell>
+                     <cell rend="center">2—6 x 6</cell>
+                     <cell rend="center">2 x 9</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">100</cell>
+                     <cell rend="center">15</cell>
+                     <cell rend="center">3—8 x 10</cell>
+                     <cell rend="center">2—8 x 10</cell>
+                     <cell rend="center">3—6 x 6</cell>
+                     <cell rend="center">or</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">150</cell>
+                     <cell rend="center">20</cell>
+                     <cell rend="center">4—8 x l2</cell>
+                     <cell rend="center">3—8 x 10</cell>
+                     <cell rend="center">4—6 x 8</cell>
+                     <cell rend="center">3 x 6</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">200</cell>
+                     <cell rend="center">25</cell>
+                     <cell rend="center">4—8 x 16</cell>
+                     <cell rend="center">3—8 x 10</cell>
+                     <cell rend="center">4—6 x 9</cell>
+                     <cell rend="center"> </cell>
+                  </row>
+               </table>
+               <p rend="justify"> </p>
+               <p rend="justify">The arch braces must all foot on an iron thrust block, of which a view is given in Fig. 4, Pl. III; and the centre of pressure of the braces must be directly over a bolster, to prevent crippling.</p>
+               <p rend="justify">The several sticks forming a brace must be blocked together at intervals, and when they are spliced,—a butt joint should be used—and it should come in the centre of a panel. Below are given the dimensions of the Thayer Engineering School model.</p>
+               <table rend="frame" xml:id="Table19">
+                  <row>
+                     <cell>Height Ins. </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>No. Panels</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Chords Ins. </cell>
+                     <cell>2—1 x ½</cell>
+                  </row>
+                  <row>
+                     <cell>Posts Ins.</cell>
+                     <cell>1—2/3 x 5/6</cell>
+                  </row>
+                  <row>
+                     <cell>Braces Ins. </cell>
+                     <cell>2—½ x ½</cell>
+                  </row>
+                  <row>
+                     <cell>Lattice Ins. </cell>
+                     <cell>¼ x ½</cell>
+                  </row>
+                  <row>
+                     <cell>Width Ins.</cell>
+                     <cell>13</cell>
+                  </row>
+               </table>
+               <p rend="justify"> </p>
+               <p rend="justify">There are several other forms of Bridge, the most notable among which are the Whipple, McCallum's, Post's, Towne's, Haupt's, and Burr's. But enough has been said to give the student an idea of the general arrangement of the different parts of a Truss, arid to enable him to determine the strains to which the various members are subjected. Nothing will be said in regard to Wooden Arches, as our space is too limited.<lb/> </p>
+               <p rend="justify">Pile Bridging. A bridge of this description is useful in crossing marshes, or in shallow water. Fig. 5, Pl. III, gives a good example of this kind of bridge, under 20 feet in height. If on a curve, there must be extra bracing on the convex side.<lb/> </p>
+               <p rend="justify">Trestle Work. This is a combination of posts, caps, and braces; and is used for both temporary and permanent works. Plate IV, Figs. 1, 2, 3 and 4, give some of the best varieties in use. Figs. 1 and 2, may be used up to 15 feet in height; Fig. 4, up to 20 feet; and Fig. 3, to 30 ft. The distance apart of the various bents should not exceed 10 or 12 ft., unless bracing is introduced between them, and the bents should always be raised above the ground a few feet on a solid masonry foundation. Want of space forbids any mention of abutments and piers, which really come more properly under the head of masonry.</p>
+               <p rend="justify">Iron Bridging is gradually working its way into favor, and will probably eventually supersede wooden trusses;—but in many cases wood is the only material at hand—and therefore some knowledge of Wooden Bridging is desirable. It is intended to follow this pamphlet with a portfolio of sheets containing working drawings of several kinds of Wooden Bridges, taken from actual measurements of some of the best specimens of the different styles of Truss in use.</p>
+               <p rend="justify">PRACTICAL NOTES.</p>
+               <p rend="justify">When putting a truss together in its proper position, on the abutments, 'false works' must first be erected to support the parts until they are so joined together as to forma complete self-sustaining truss. The bottom chords are first laid as level as possible on the false works, then the top chords are raised on temporary supports, sustained by those of the lower chord, and are placed a few inches higher at first than their proper position, in order that the web members may be slipped into place. When this is done the top chords are gradually lowered into place. The screws are then gradually tightened, (beginning at the centre and working towards both ends,) to bring the surfaces of the joints into proper contact, and by this method, the camber forms itself, and lifts the lower chords clear of the false works, leaving the truss resting only upon its proper supports. The subjoined Table will be found useful in estimating the strains on a truss when proportioning a bridge for any moving load.</p>
+               <div type="div3">
+                  <head>Table of weights per running foot of a bridge, (either of wood or iron,) including weights of floor, lateral bracing, &amp;c., complete, for a single track.</head>
+                  <p rend="justify">Clear<lb/>Span.</p>
+                  <p rend="justify">Weight of Bridge.</p>
+                  <p rend="justify">Clear<lb/>Span.</p>
+                  <p rend="justify">Weight of Bridge.</p>
+                  <p rend="justify">Clear<lb/>Span.</p>
+                  <p rend="justify">Weight of Bridge.</p>
+                  <p rend="justify">Clear<lb/>Span.</p>
+                  <p rend="justify">Weight of Bridge.</p>
+                  <p rend="justify">Tons.</p>
+                  <p rend="justify">lbs.</p>
+                  <p rend="justify">Tons.</p>
+                  <p rend="justify">lbs.</p>
+                  <p rend="justify">Tons.</p>
+                  <p rend="justify">lbs.</p>
+                  <p rend="justify">Tons.</p>
+                  <p rend="justify">lbs.</p>
+                  <p rend="justify">25</p>
+                  <p rend="justify">.266</p>
+                  <p rend="justify">596</p>
+                  <p rend="justify">70</p>
+                  <p rend="justify">.404</p>
+                  <p rend="justify">905</p>
+                  <p rend="justify">140</p>
+                  <p rend="justify">.614</p>
+                  <p rend="justify">1375</p>
+                  <p rend="justify">200</p>
+                  <p rend="justify">.792</p>
+                  <p rend="justify">1774</p>
+                  <p rend="justify">30</p>
+                  <p rend="justify">.281</p>
+                  <p rend="justify">629</p>
+                  <p rend="justify">80</p>
+                  <p rend="justify">.434</p>
+                  <p rend="justify">972</p>
+                  <p rend="justify">150</p>
+                  <p rend="justify">.643</p>
+                  <p rend="justify">1440</p>
+                  <p rend="justify">225</p>
+                  <p rend="justify">.867</p>
+                  <p rend="justify">1942</p>
+                  <p rend="justify">40</p>
+                  <p rend="justify">.313</p>
+                  <p rend="justify">701</p>
+                  <p rend="justify">90</p>
+                  <p rend="justify">.464</p>
+                  <p rend="justify">1039</p>
+                  <p rend="justify">160</p>
+                  <p rend="justify">.673</p>
+                  <p rend="justify">1507</p>
+                  <p rend="justify">250</p>
+                  <p rend="justify">.940</p>
+                  <p rend="justify">2105</p>
+                  <p rend="justify">50</p>
+                  <p rend="justify">.343</p>
+                  <p rend="justify">768</p>
+                  <p rend="justify">100</p>
+                  <p rend="justify">.494</p>
+                  <p rend="justify">1106</p>
+                  <p rend="justify">170</p>
+                  <p rend="justify">.703</p>
+                  <p rend="justify">1575</p>
+                  <p rend="justify">275</p>
+                  <p rend="justify">1.013</p>
+                  <p rend="justify">2269</p>
+                  <p rend="justify">60</p>
+                  <p rend="justify">.374</p>
+                  <p rend="justify">838</p>
+                  <p rend="justify">120</p>
+                  <p rend="justify">.554</p>
+                  <p rend="justify">1241</p>
+                  <p rend="justify">180</p>
+                  <p rend="justify">.733</p>
+                  <p rend="justify">1642</p>
+                  <p rend="justify">300</p>
+                  <p rend="justify">1.087</p>
+                  <p rend="justify">2435</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">The weight of a single track railway bridge may be taken as equal to that of a double track highway bridge,—and the trusses that will be large enough for one will be large enough for the other.</p>
+                  <p rend="justify">The greatest load that a highway bridge can be subjected to is 120 lbs. to the square foot of surface.</p>
+                  <p rend="justify">TABLE OF CAMBERS FOR BRIDGE TRUSSES.</p>
+                  <table rend="frame" xml:id="Table20">
+                     <row>
+                        <cell rend="center">Span.<lb/>feet.</cell>
+                        <cell rend="center">Camber.<lb/>Inches.</cell>
+                        <cell rend="center">Span.<lb/>Feet.</cell>
+                        <cell rend="center">Camber.<lb/>Inches.</cell>
+                        <cell rend="center">Span.<lb/>Feet.</cell>
+                        <cell rend="center">Camber.<lb/>Inches.</cell>
+                        <cell rend="center">Span.<lb/>Feet.</cell>
+                        <cell rend="center">Camber.<lb/>Inches.</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">25</cell>
+                        <cell rend="center">0.8</cell>
+                        <cell rend="center">75</cell>
+                        <cell rend="center">2.5</cell>
+                        <cell rend="center">175</cell>
+                        <cell rend="center">5.8</cell>
+                        <cell rend="center">275</cell>
+                        <cell rend="center">9.2</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">30</cell>
+                        <cell rend="center">1.0</cell>
+                        <cell rend="center">100</cell>
+                        <cell rend="center">3.3</cell>
+                        <cell rend="center">200</cell>
+                        <cell rend="center">6.7</cell>
+                        <cell rend="center">300</cell>
+                        <cell rend="center">10.0</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">50</cell>
+                        <cell rend="center">1.7</cell>
+                        <cell rend="center">120</cell>
+                        <cell rend="center">4.0</cell>
+                        <cell rend="center">225</cell>
+                        <cell rend="center">7.5</cell>
+                        <cell rend="center">325</cell>
+                        <cell rend="center">10.8</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">60</cell>
+                        <cell rend="center">2.0</cell>
+                        <cell rend="center">150</cell>
+                        <cell rend="center">5.0</cell>
+                        <cell rend="center">250</cell>
+                        <cell rend="center">8.3</cell>
+                        <cell rend="center">350</cell>
+                        <cell rend="center">11.7</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> <lb/>TRAUTWINE'S TABLE FOR FINDING INCREASE IN LENGTH OF UPPER CHORD BEYOND THE LOWER CHORD ON ACCOUNT OF THE CAMBER.</p>
+                  <table rend="frame" xml:id="Table21">
+                     <row>
+                        <cell rend="center">Depth of Truss.</cell>
+                        <cell rend="center">Multiply Camber by</cell>
+                        <cell rend="center">Depth of Truss.</cell>
+                        <cell rend="center">Multiply Camber by</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1-4 span</cell>
+                        <cell rend="center">2.00</cell>
+                        <cell rend="center">1-12 span</cell>
+                        <cell rend="center">.666</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1-5   "</cell>
+                        <cell rend="center">1.60</cell>
+                        <cell rend="center">1-13   "</cell>
+                        <cell rend="center">.614</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1-6   "</cell>
+                        <cell rend="center">1.33</cell>
+                        <cell rend="center">1-14   "</cell>
+                        <cell rend="center">.571</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1-7   "</cell>
+                        <cell rend="center">1.15</cell>
+                        <cell rend="center">1-15   "</cell>
+                        <cell rend="center">.533</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1-8   "</cell>
+                        <cell rend="center">1.00</cell>
+                        <cell rend="center">1-16   "</cell>
+                        <cell rend="center">.500</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1-9   "</cell>
+                        <cell rend="center">.888</cell>
+                        <cell rend="center">1-17   "</cell>
+                        <cell rend="center">.470</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1-10   "</cell>
+                        <cell rend="center">.800</cell>
+                        <cell rend="center">1-18   "</cell>
+                        <cell rend="center">.444</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1-11   "</cell>
+                        <cell rend="center">.727</cell>
+                        <cell rend="center">1-20   "</cell>
+                        <cell rend="center">.400</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> <lb/>TABLE OF AMERICAN WOODS.</p>
+                  <p rend="justify">Kind.</p>
+                  <p rend="justify">Weight per<lb/>cubic foot</p>
+                  <p rend="justify">Resistance in lbs.<lb/>per square inch.</p>
+                  <p rend="justify">Value of s.</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">in pounds.</p>
+                  <p rend="justify">Extension</p>
+                  <p rend="justify">Compression.</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">White Pine.</p>
+                  <p rend="justify">26</p>
+                  <p rend="justify">12,000</p>
+                  <p rend="justify">6000</p>
+                  <p rend="justify">1229</p>
+                  <p rend="justify">Yellow Pine.</p>
+                  <p rend="justify">31</p>
+                  <p rend="justify">12,000</p>
+                  <p rend="justify">6000</p>
+                  <p rend="justify">1185</p>
+                  <p rend="justify">Pitch Pine.</p>
+                  <p rend="justify">46</p>
+                  <p rend="justify">12,000</p>
+                  <p rend="justify">6000</p>
+                  <p rend="justify">1727</p>
+                  <p rend="justify">Red Pine.</p>
+                  <p rend="justify">35</p>
+                  <p rend="justify">12,000</p>
+                  <p rend="justify">6000</p>
+                  <p rend="justify">1527</p>
+                  <p rend="justify">Virginia Pine.</p>
+                  <p rend="justify">37</p>
+                  <p rend="justify">12,000</p>
+                  <p rend="justify">6000</p>
+                  <p rend="justify">1456</p>
+                  <p rend="justify">Spruce.</p>
+                  <p rend="justify">48</p>
+                  <p rend="justify">12,000</p>
+                  <p rend="justify">6000</p>
+                  <p rend="justify">1036</p>
+                  <p rend="justify">Tamarack.</p>
+                  <p rend="justify">26</p>
+                  <p rend="justify">12,000</p>
+                  <p rend="justify">6000</p>
+                  <p rend="justify">907</p>
+                  <p rend="justify">Canada Balsam.</p>
+                  <p rend="justify">34</p>
+                  <p rend="justify">12,000</p>
+                  <p rend="justify">6000</p>
+                  <p rend="justify">1123</p>
+                  <p rend="justify">White Oak.</p>
+                  <p rend="justify">48</p>
+                  <p rend="justify">15,000</p>
+                  <p rend="justify">7500</p>
+                  <p rend="justify">1743</p>
+                  <p rend="justify">Red Oak.</p>
+                  <p rend="justify">41</p>
+                  <p rend="justify">15,000</p>
+                  <p rend="justify">7600</p>
+                  <p rend="justify">1687</p>
+                  <p rend="justify">Birch.</p>
+                  <p rend="justify">44</p>
+                  <p rend="justify">15,000</p>
+                  <p rend="justify">7000</p>
+                  <p rend="justify">1928</p>
+                  <p rend="justify">Ash.</p>
+                  <p rend="justify">38</p>
+                  <p rend="justify">16,000</p>
+                  <p rend="justify">8100</p>
+                  <p rend="justify">1795</p>
+                  <p rend="justify">Hickory.</p>
+                  <p rend="justify">51</p>
+                  <p rend="justify">15,000</p>
+                  <p rend="justify">7200</p>
+                  <p rend="justify">2129</p>
+                  <p rend="justify">Elm.</p>
+                  <p rend="justify">45</p>
+                  <p rend="justify">16,000</p>
+                  <p rend="justify">8011</p>
+                  <p rend="justify">1970</p>
+                  <p rend="justify"> <lb/>The above table is compiled from a much fuller one in Vose's Treatise on R.R. Construction.</p>
+                  <p rend="justify"> <lb/>TABLE OF BOLTS AND NUTS CALCULATED FOR A WORKING STRAIN OF 15,000 LBS. PER SQUARE INCH OF SECTION.</p>
+                  <table rend="frame" xml:id="Table22">
+                     <row>
+                        <cell rend="center">Diameter.<lb/>Inches.</cell>
+                        <cell rend="center">Area. Sq.<lb/>inches.</cell>
+                        <cell rend="center">Strength in<lb/>Pounds</cell>
+                        <cell rend="center">Weight<lb/>per Foot.</cell>
+                        <cell rend="center">Square<lb/>nut.</cell>
+                        <cell rend="center">Thick's<lb/>of nut.</cell>
+                        <cell rend="center">No. thr's.<lb/>per inch.</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">½</cell>
+                        <cell rend="center">.19635</cell>
+                        <cell rend="center">2940</cell>
+                        <cell rend="center">0.66</cell>
+                        <cell rend="center">1¼ in</cell>
+                        <cell rend="center">¾ in</cell>
+                        <cell rend="center">12</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">⅝</cell>
+                        <cell rend="center">.30680</cell>
+                        <cell rend="center">4602</cell>
+                        <cell rend="center">1.03</cell>
+                        <cell rend="center">1⅜</cell>
+                        <cell rend="center">¾</cell>
+                        <cell rend="center">10</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">¾</cell>
+                        <cell rend="center">.44179</cell>
+                        <cell rend="center">6630</cell>
+                        <cell rend="center">1.49</cell>
+                        <cell rend="center">1½</cell>
+                        <cell rend="center">⅞</cell>
+                        <cell rend="center">10</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">⅞</cell>
+                        <cell rend="center">.60132</cell>
+                        <cell rend="center">9019</cell>
+                        <cell rend="center">2.03</cell>
+                        <cell rend="center">1¾</cell>
+                        <cell rend="center">1</cell>
+                        <cell rend="center">9</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1</cell>
+                        <cell rend="center">.78540</cell>
+                        <cell rend="center">11775</cell>
+                        <cell rend="center">2.65</cell>
+                        <cell rend="center">2</cell>
+                        <cell rend="center">1</cell>
+                        <cell rend="center">8</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1⅛</cell>
+                        <cell rend="center">.99402</cell>
+                        <cell rend="center">14910</cell>
+                        <cell rend="center">3.36</cell>
+                        <cell rend="center">2</cell>
+                        <cell rend="center">1⅛</cell>
+                        <cell rend="center">7</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1¼</cell>
+                        <cell rend="center">1.2272</cell>
+                        <cell rend="center">18405</cell>
+                        <cell rend="center">4.17</cell>
+                        <cell rend="center">2¼</cell>
+                        <cell rend="center">1¼</cell>
+                        <cell rend="center">7</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1⅜</cell>
+                        <cell rend="center">1.4849</cell>
+                        <cell rend="center">22260</cell>
+                        <cell rend="center">5.02</cell>
+                        <cell rend="center">2½</cell>
+                        <cell rend="center">1⅜</cell>
+                        <cell rend="center">6</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1½</cell>
+                        <cell rend="center">1.7671</cell>
+                        <cell rend="center">25505</cell>
+                        <cell rend="center">5.97</cell>
+                        <cell rend="center">2¾</cell>
+                        <cell rend="center">1½</cell>
+                        <cell rend="center">6</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1⅝</cell>
+                        <cell rend="center">2.0739</cell>
+                        <cell rend="center">31095</cell>
+                        <cell rend="center">7.01</cell>
+                        <cell rend="center">2⅞</cell>
+                        <cell rend="center">1⅝</cell>
+                        <cell rend="center">5</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1¾</cell>
+                        <cell rend="center">2.4053</cell>
+                        <cell rend="center">36075</cell>
+                        <cell rend="center">8.13</cell>
+                        <cell rend="center">3</cell>
+                        <cell rend="center">1¾</cell>
+                        <cell rend="center">5</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">1⅞</cell>
+                        <cell rend="center">2.7612</cell>
+                        <cell rend="center">41415</cell>
+                        <cell rend="center">9.33</cell>
+                        <cell rend="center">3¼</cell>
+                        <cell rend="center">1⅞</cell>
+                        <cell rend="center">4½</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">2</cell>
+                        <cell rend="center">3.1416</cell>
+                        <cell rend="center">47130</cell>
+                        <cell rend="center">10.62</cell>
+                        <cell rend="center">3½</cell>
+                        <cell rend="center">2</cell>
+                        <cell rend="center">4½</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">2⅛</cell>
+                        <cell rend="center">3.5166</cell>
+                        <cell rend="center">53190</cell>
+                        <cell rend="center">12.00</cell>
+                        <cell rend="center">3¾</cell>
+                        <cell rend="center">2⅛</cell>
+                        <cell rend="center">4</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">2¼</cell>
+                        <cell rend="center">3.9761</cell>
+                        <cell rend="center">59640</cell>
+                        <cell rend="center">13.40</cell>
+                        <cell rend="center">4</cell>
+                        <cell rend="center">2¼</cell>
+                        <cell rend="center">4</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">2⅜</cell>
+                        <cell rend="center">4.4301</cell>
+                        <cell rend="center">66450</cell>
+                        <cell rend="center">15.00</cell>
+                        <cell rend="center">4⅛</cell>
+                        <cell rend="center">2⅜</cell>
+                        <cell rend="center">4</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">2½</cell>
+                        <cell rend="center">4.9087</cell>
+                        <cell rend="center">73620</cell>
+                        <cell rend="center">16.70</cell>
+                        <cell rend="center">4¼</cell>
+                        <cell rend="center">2½</cell>
+                        <cell rend="center">3½</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">2⅝</cell>
+                        <cell rend="center">5.4119</cell>
+                        <cell rend="center">81178</cell>
+                        <cell rend="center">18.20</cell>
+                        <cell rend="center">4½</cell>
+                        <cell rend="center">2⅝</cell>
+                        <cell rend="center">3½</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">2¾</cell>
+                        <cell rend="center">5.9396</cell>
+                        <cell rend="center">89094</cell>
+                        <cell rend="center">20.00</cell>
+                        <cell rend="center">4¾</cell>
+                        <cell rend="center">2¾</cell>
+                        <cell rend="center">3½</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">2⅞</cell>
+                        <cell rend="center">6.4918</cell>
+                        <cell rend="center">97377</cell>
+                        <cell rend="center">21.90</cell>
+                        <cell rend="center">5</cell>
+                        <cell rend="center">2⅞</cell>
+                        <cell rend="center">3</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">3</cell>
+                        <cell rend="center">7.0686</cell>
+                        <cell rend="center">106029</cell>
+                        <cell rend="center">23.80</cell>
+                        <cell rend="center">5¼</cell>
+                        <cell rend="center">3</cell>
+                        <cell rend="center">3</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">3¼</cell>
+                        <cell rend="center">8.2958</cell>
+                        <cell rend="center">124437</cell>
+                        <cell rend="center">27.90</cell>
+                        <cell rend="center">5¾</cell>
+                        <cell rend="center">3¼</cell>
+                        <cell rend="center">3</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">3½</cell>
+                        <cell rend="center">9.6211</cell>
+                        <cell rend="center">144316</cell>
+                        <cell rend="center">32.40</cell>
+                        <cell rend="center">6</cell>
+                        <cell rend="center">3½</cell>
+                        <cell rend="center">2½</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> <lb/>TABLE OF SAFE WORKING LOAD IN LBS., FOR HOLLOW CAST-IRON COLUMNS.</p>
+                  <p rend="justify">[<hi rend="italic">G.L. Vose.</hi>]</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">Outside Diameter</p>
+                  <p rend="justify">Length or height in Feet</p>
+                  <p rend="justify">Metal Thickness</p>
+                  <p rend="justify">in inches.</p>
+                  <p rend="justify">6</p>
+                  <p rend="justify">8</p>
+                  <p rend="justify">10</p>
+                  <p rend="justify">12</p>
+                  <p rend="justify">15</p>
+                  <p rend="justify">18</p>
+                  <p rend="justify">20</p>
+                  <p rend="justify">in inches.</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">16000</p>
+                  <p rend="justify">14000</p>
+                  <p rend="justify">13000</p>
+                  <p rend="justify">11000</p>
+                  <p rend="justify">9000</p>
+                  <p rend="justify">7000</p>
+                  <p rend="justify">6000</p>
+                  <p rend="justify">⅜</p>
+                  <p rend="justify">4</p>
+                  <p rend="justify">30000</p>
+                  <p rend="justify">29000</p>
+                  <p rend="justify">26000</p>
+                  <p rend="justify">24000</p>
+                  <p rend="justify">22000</p>
+                  <p rend="justify">18000</p>
+                  <p rend="justify">16000</p>
+                  <p rend="justify">½</p>
+                  <p rend="justify">5</p>
+                  <p rend="justify">50000</p>
+                  <p rend="justify">37000</p>
+                  <p rend="justify">45000</p>
+                  <p rend="justify">42000</p>
+                  <p rend="justify">39000</p>
+                  <p rend="justify">37000</p>
+                  <p rend="justify">31000</p>
+                  <p rend="justify">⅝</p>
+                  <p rend="justify">6</p>
+                  <p rend="justify">59000</p>
+                  <p rend="justify">57000</p>
+                  <p rend="justify">55000</p>
+                  <p rend="justify">52000</p>
+                  <p rend="justify">49000</p>
+                  <p rend="justify">44000</p>
+                  <p rend="justify">41000</p>
+                  <p rend="justify">¾</p>
+                  <p rend="justify">7</p>
+                  <p rend="justify">101000</p>
+                  <p rend="justify">99000</p>
+                  <p rend="justify">96000</p>
+                  <p rend="justify">92000</p>
+                  <p rend="justify">88000</p>
+                  <p rend="justify">81000</p>
+                  <p rend="justify">76000</p>
+                  <p rend="justify">13/16</p>
+                  <p rend="justify">8</p>
+                  <p rend="justify">131000</p>
+                  <p rend="justify">129000</p>
+                  <p rend="justify">126000</p>
+                  <p rend="justify">122000</p>
+                  <p rend="justify">118000</p>
+                  <p rend="justify">109000</p>
+                  <p rend="justify">105000</p>
+                  <p rend="justify">⅞</p>
+                  <p rend="justify">9</p>
+                  <p rend="justify">169000</p>
+                  <p rend="justify">167000</p>
+                  <p rend="justify">164000</p>
+                  <p rend="justify">160000</p>
+                  <p rend="justify">156000</p>
+                  <p rend="justify">146000</p>
+                  <p rend="justify">141000</p>
+                  <p rend="justify">1</p>
+                  <p rend="justify">10</p>
+                  <p rend="justify">210000</p>
+                  <p rend="justify">200000</p>
+                  <p rend="justify">200000</p>
+                  <p rend="justify">200000</p>
+                  <p rend="justify">190000</p>
+                  <p rend="justify">180000</p>
+                  <p rend="justify">180000</p>
+                  <p rend="justify">1⅛</p>
+                  <p rend="justify">11</p>
+                  <p rend="justify">250000</p>
+                  <p rend="justify">250000</p>
+                  <p rend="justify">240000</p>
+                  <p rend="justify">240000</p>
+                  <p rend="justify">240000</p>
+                  <p rend="justify">230000</p>
+                  <p rend="justify">220000</p>
+                  <p rend="justify">1¼</p>
+                  <p rend="justify">12</p>
+                  <p rend="justify">300000</p>
+                  <p rend="justify">300000</p>
+                  <p rend="justify">290000</p>
+                  <p rend="justify">290000</p>
+                  <p rend="justify">290000</p>
+                  <p rend="justify">270000</p>
+                  <p rend="justify">270000</p>
+                  <p rend="justify">1½</p>
+                  <p rend="justify">14</p>
+                  <p rend="justify">450000</p>
+                  <p rend="justify">430000</p>
+                  <p rend="justify">410000</p>
+                  <p rend="justify">380000</p>
+                  <p rend="justify">370000</p>
+                  <p rend="justify">350000</p>
+                  <p rend="justify">330000</p>
+                  <p rend="justify">1¾</p>
+                  <p rend="justify">16</p>
+                  <p rend="justify">520000</p>
+                  <p rend="justify">500000</p>
+                  <p rend="justify">480000</p>
+                  <p rend="justify">460000</p>
+                  <p rend="justify">440000</p>
+                  <p rend="justify">420000</p>
+                  <p rend="justify">400000</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">18</p>
+                  <p rend="justify">650000</p>
+                  <p rend="justify">630000</p>
+                  <p rend="justify">610000</p>
+                  <p rend="justify">590000</p>
+                  <p rend="justify">560000</p>
+                  <p rend="justify">520000</p>
+                  <p rend="justify">470000</p>
+                  <p rend="justify">2½</p>
+                  <p rend="justify">20</p>
+                  <p rend="justify">800000</p>
+                  <p rend="justify">760000</p>
+                  <p rend="justify">740000</p>
+                  <p rend="justify">690009</p>
+                  <p rend="justify">650000</p>
+                  <p rend="justify">590000</p>
+                  <p rend="justify">540000</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">Plate IV</p>
+                  <p rend="justify"> </p>
+                  <lg>
+                     <l>TRANSCRIBER'S NOTES:</l>
+                     <l/>
+                     <l>DISCLAIMER: This document should NOT be used to engineer any bridge projects!</l>
+                     <l>It is possible that there are further errors in the information that were not caught.</l>
+                     <l/>
+                     <l>The page numbers listed below are project page numbers.</l>
+                     <l>(The original book used Roman numerals to number the pages.)</l>
+                     <l/>
+                     <l>Note that the book uses the "long" ton equal to 2,240 pounds.</l>
+                     <l/>
+                     <l>CORRECTIONS MADE:</l>
+                     <l>1. Page 8 - the formula for "d" must use a cube root, which is how it is shown here,</l>
+                     <l>     but the '3' to indicate a cube root is not found in the original document.</l>
+                     <l>2. Page 8 - typo in word 'sectien' - changed to 'section'.</l>
+                     <l>3. Page 10 - Value for working comp. strength of cast iron in the table had a typo (25,v00).</l>
+                     <l>     Since other values use round numbers, it is assumed the value should be 25,000.</l>
+                     <l>4. Page 10 - Two other typos. Changed 'the the' to 'the', and in table heading, original</l>
+                     <l>     word was 'detrution', changed to correct spelling of 'detrusion'.</l>
+                     <l>5. Page 12 - changed 'woooden' to 'wooden'.</l>
+                     <l>6. Page 13 - Example II - In the calculations, the intermediate value in the book was</l>
+                     <l>     printed as the square root of 67.2. The left part is correct, but reduces to the square root</l>
+                     <l>     of 268.8, and that is ~16.395. So I have corrected the intermediate value.</l>
+                     <l>7. Page 13 - Because the original page scan cut off the text on the right edge, I have</l>
+                     <l>     made assumptions on what text was missing. Because the scans came from an</l>
+                     <l>     outside source, I could not get the missing information, which was the words at the</l>
+                     <l>     end of Example II, and words in the last paragraph of the page.</l>
+                     <l>8. Page 14 - Three typos found: 'dimensiens' for 'dimensions', 'betng' for 'being',</l>
+                     <l>     and 'ars' for 'are'.</l>
+                     <l>9. Page 17 - a value in a formula was printed as 6000, but in the context of the other</l>
+                     <l>     information, particularly the example immediately following, the value was believed</l>
+                     <l>     to be incorrect, and was changed to 5000.</l>
+                     <l>10. Page 23 - The value of 388 sq. inches at the top of the page in the book is incorrect;</l>
+                     <l>     3 x 8 x 12 = 288, so has been corrected.</l>
+                     <l>11. Page 24 - Rods section, numerical value appeared to be 15.000 in book, but from</l>
+                     <l>     context, must be 15,000 instead.</l>
+                     <l>12. Page 28 - Typos: changed 'Trautwine's Edgineer's Pocket-Bood' to Trautwine's</l>
+                     <l>     Engineer's Pocket-Book'; corrected  'af' to 'as', 'bracas' to 'braces'.</l>
+                     <l>13. Page 30 - Apparent typo in the table at the bottom of page.  Value for Center Brace</l>
+                     <l>     size for 200' span was shown as '8 x 1', believed from context of table to be '8 x 10'.</l>
+                     <l>14. Page 33 - table of dimensions of a Pratt Truss, last column, row starting with 150,</l>
+                     <l>     the original says 8--1-1/8, this is believed to be, and has been changed to, 3--1-1/8.</l>
+                     <l>15. Page 37 - The five formulas with square roots were incorrectly printed in the book,</l>
+                     <l>     multiplying the terms inside the square root instead of adding them, which is obviously</l>
+                     <l>     incorrect per the Pythagorean theorem of right triangles.</l>
+                     <l>16. Page 38: The fifth ratio in the group of five near the top of the page must start with 20,</l>
+                     <l>     not 10 as in the book</l>
+                     <l>17. Page 38 - The equation for W as printed on this page is not consistent with that</l>
+                     <l>     found on pages 18 to 24, so has been corrected from 'bd^2' to 'bd^3'.</l>
+                     <l>18. Page 39 - arch brace truss table heading typo - changed 'FOE' to 'FOR'.</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
