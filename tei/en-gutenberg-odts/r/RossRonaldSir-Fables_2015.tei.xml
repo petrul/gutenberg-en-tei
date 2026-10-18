@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fables</title>
+            <author>Sir Ronald Ross</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T19:56:11Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/r/RossRonaldSir-Fables_2015.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Sir Ronald Ross</name>
+               <date>2024-01-04T19:56:11Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Fables</head>
+         <author>Sir Ronald Ross</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/r/RossRonaldSir-Fables_2015.odt</p>
+         <p>E-text prepared by David T. Jones, Mardi Desjardins, Neanderthal,<lb/>and the Online Distributed Proofreading Team<lb/>(<ptr target="http://www.pgdp.net"/>)<lb/>from page images generously made available by<lb/>Internet Archive<lb/>(<ptr target="https://archive.org"/>)</p>
+         <table rend="frame" xml:id="Table1">
+            <row>
+               <cell>Note:</cell>
+               <cell>Images of the original pages are available through Internet Archive. See <ptr target="https://archive.org/details/fablesronaldross00rossrich"/>
+               </cell>
+            </row>
+         </table>
+         <p>Title page</p>
+         <pb/>
+         <div type="div1">
+            <head>
+               <hi rend="italic">FABLES</hi>
+            </head>
+            <p rend="justify"> </p>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>
+                  <hi rend="italic">BY</hi>
+                  <lb/>
+                  <hi rend="italic">RONALD ROSS</hi>
+               </head>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell role="label">
+                        <hi rend="italic">OF WHICH COPIES TO THE NUMBER OF TWO HUNDRED AND</hi>
+                        <lb/>
+                        <hi rend="italic">FIFTY ARE NOW PRIVATELY PRINTED AT THE UNIVERSITY</hi>
+                        <lb/>
+                        <hi rend="italic">PRESS OF LIVERPOOL, ANNO DOMINI MCMVII, AND ARE</hi>
+                        <lb/>
+                        <hi rend="italic">TO BE HAD OF THE AUTHOR AT THE UNIVERSITY AND</hi>
+                        <lb/>
+                        <hi rend="italic">OF HENRY YOUNG AND SONS OF SOUTH CASTLE STREET,</hi>
+                        <lb/>
+                        <hi rend="italic">LIVERPOOL, FOR TWO SHILLINGS AND SIX PENCE.</hi>
+                        <lb/>
+                     </cell>
+                  </row>
+               </table>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Entered at Stationers’ Hall</hi>
+                  </head>
+                  <lg>
+                     <l>
+                        <hi rend="italic">For my Children</hi>
+                     </l>
+                     <l>  .   .   .   .   .   .   .   .</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">These Fables were written in India</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">between the years 1880 and 1890</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">CONTENTS</hi>
+               </head>
+               <table rend="frame" xml:id="Table3">
+                  <row>
+                     <cell>
+                        <hi rend="italic">AN EXPOSTULATION WITH TRUTH</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">ARIEL AND THE HIPPOPOTAMUS</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE FROG, THE FAIRY, AND THE MOON</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE TROLL AND THE MOUNTAIN</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE TOAD AND THE FAYS</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE PARSON AND THE ANGEL</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">PUCK AND THE CROCODILE</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE VIRTUOUS GOAT</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE TRUTH OF TRUTH</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE MAN, THE LION, AND THE FLY</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">ORPHEUS AND THE BUSY ONES</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE POET AND THE PENMAN</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE PITEOUS EWE</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE CONTEST OF BIRDS</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">ALASTOR</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">OCEAN AND THE ROCK</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">DEATH AND LOVE</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">CALYPSO TO ULYSSES</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE STAR AND THE SUN</hi>
+                        <lb/>
+                        <lb/>
+                        <hi rend="italic">THE POET’S RETIREMENT</hi>
+                        <lb/>
+                     </cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">An Expostulation with Truth</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Uttered by the Well Meaning Poet</hi>
+                  </head>
+                  <lg>
+                     <l>Altho’ you live aloft so far,</l>
+                     <l>Transcendent Goddess, in your star,</l>
+                     <l>Pray, try to see us as we are.</l>
+                  </lg>
+                  <lg>
+                     <l>Consider—and be more forgiving—</l>
+                     <l>  Life is not reasoning but believing,</l>
+                     <l>  And we must work to get our living.</l>
+                  </lg>
+                  <lg>
+                     <l>Expound with logic most exact</l>
+                     <l>  And rightly marshal every fact—</l>
+                     <l>  D’you think we thank you for your act?</l>
+                  </lg>
+                  <lg>
+                     <l>D’you think we’ve nothing else to do</l>
+                     <l>  But to distinguish false from true?—</l>
+                     <l>  We’re lawyers, doctors, parsons too.</l>
+                  </lg>
+                  <lg>
+                     <l>But for our little fond delusions</l>
+                     <l>  We’d never come to our conclusions,</l>
+                     <l>  And then—just think of the confusions!</l>
+                  </lg>
+                  <lg>
+                     <l>You pain us when you contradict.</l>
+                     <l>  Your presence would the less afflict</l>
+                     <l>  If you were not so very strict.</l>
+                  </lg>
+                  <lg>
+                     <l>Dear Lady, take this sober view,</l>
+                     <l>  It matters little what is true—</l>
+                     <l>  The world is not the place for you.</l>
+                  </lg>
+                  <lg>
+                     <l>I rede you therefore, go away;</l>
+                     <l>  Or, if you really mean to stay,</l>
+                     <l>  Let’s hear your views another day.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Ariel and the Hippopotamus</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Dedicated to Rural Magnates</hi>
+                  </head>
+                  <lg>
+                     <l>Fine Ariel, serf to Prospero,</l>
+                     <l>Sped on the Great Meridian</l>
+                     <l>For jetty pearls from Andaman</l>
+                     <l>To make a chaplet to declare</l>
+                     <l>The beauty of Miranda’s hair,</l>
+                     <l>When at the desert African,</l>
+                     <l>Out of his master’s ken, and slow,</l>
+                     <l>Lag’d on his errand, loth to go:</l>
+                     <l>For sweltering Sol with leaden beam</l>
+                     <l>Made stagnant all the windy stream</l>
+                     <l>And suck’d from earth a stifling steam.</l>
+                     <l>There idling still, the lazy Sprite</l>
+                     <l>Beheld below, beneath his flight,</l>
+                     <l>The Lord of Rivers, blackly bright,</l>
+                     <l>Who, planted in a marshy bed,</l>
+                     <l>On mighty rushes munching fed</l>
+                     <l>And sigh’d for more the more he sped.</l>
+                     <l>‘Good day, my lord; I hope you’re well,’</l>
+                     <l>Quoth then the jocund Ariel.</l>
+                     <l>‘Why, thank’ee, Sir, sound as a bell;</l>
+                     <l>Save I’d complain, did I but choose,</l>
+                     <l>My appetite’s so poor I lose</l>
+                     <l>Half this fine fodder. What’s the news?’</l>
+                     <l>‘Great Sir, the news I brought away</l>
+                     <l>Is not so good, I’m sad to say—</l>
+                     <l>Jove has the gout again to-day.’</l>
+                     <l>‘Why,’ said the Hippopotamus,</l>
+                     <l>‘That ain’t no call to make a fuss;</l>
+                     <l>I’ve had the same and am no wuss.’</l>
+                     <l>‘’Tis said that Cytherea, queen</l>
+                     <l>Of beauty, weds to-day at e’en</l>
+                     <l>The sooty Vulcan hump’d and mean.’</l>
+                     <l>‘There,’ said the Hippopotamus,</l>
+                     <l>‘That party I will not discuss.</l>
+                     <l>She might have me and do no wuss.’</l>
+                     <l>‘Apollo, lord of lay and lyre,</l>
+                     <l>Hath seated now his Heavenly Choir</l>
+                     <l>Upon Parnassus’ starry spire.’</l>
+                     <l>‘Foh!’ said the Hippopotamus,</l>
+                     <l>‘For that I do not care a cuss,</l>
+                     <l>And they may sing until they bus’!’</l>
+                     <l>‘Jove, sad for Io, hath aver’d</l>
+                     <l>No sound of laughter shall be heard</l>
+                     <l>One year in Heav’n, nor witty word.’</l>
+                     <l>‘Ah!’ said the Hippopotamus,</l>
+                     <l>‘That there don’t suit the likes of us.</l>
+                     <l>I vow I won’t be muzzled thus.’</l>
+                     <l>‘Farewell, Sir,’ quoth the lissom Sprite;</l>
+                     <l>‘Behoves me tear me from your sight.</l>
+                     <l>I must about the world ere night.’</l>
+                     <l>‘Farewell, young friend,’ responded he;</l>
+                     <l>‘The work I have to do you see.</l>
+                     <l>But if you hear the Thund’rer sigh</l>
+                     <l>For counsel, Mars for an ally,</l>
+                     <l>Dian for love, I think that I—</l>
+                     <l>I pray you say a word for me.’</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Frog, the Fairy, and the Moon</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Dedicated to Lovers</hi>
+                  </head>
+                  <lg>
+                     <l>The Frog that loved the Changing Star</l>
+                     <l>Was worship’d by a Fairy,</l>
+                     <l>Who made for him a waistcoat trim</l>
+                     <l>Of silk and satin, soft and airy,</l>
+                     <l>Button’d with eyes of fireflies</l>
+                     <l>In manner military.</l>
+                     <l>And more to move his languid love</l>
+                     <l>A crimson cap she made him,</l>
+                     <l>According to many, plumed with antennae</l>
+                     <l>Of moths that rob the flowers’ honey;</l>
+                     <l>And with her kisses, lovers’ money,</l>
+                     <l>For that she gave she paid him.</l>
+                     <l>She fed him too, till he was blue,</l>
+                     <l>With endearing terms on caddis worms;</l>
+                     <l>And caught for him the wriggling germs</l>
+                     <l>Of midges; and with tender pats</l>
+                     <l>She wiled and woo’d him while he chew’d ’em:</l>
+                     <l>Till he said, ‘Bother! I love another.</l>
+                     <l>I love the Star I see afar,</l>
+                     <l>That changeth oft her fires so soft</l>
+                     <l>From blue to red and red to blue;</l>
+                     <l>And that is why I love not you.</l>
+                     <l>Therefore I pray you take away</l>
+                     <l>Your tedious arm, which does me harm</l>
+                     <l>Because it makes me feel too warm.</l>
+                     <l>But give to me my new guitar</l>
+                     <l>That I may sing to yonder Star.’</l>
+                     <l>With that he gaped and guggled so</l>
+                     <l>The Fairy into fits did go;</l>
+                     <l>And he bounded near and bounded far,</l>
+                     <l>Strumming the strings of his guitar,</l>
+                     <l>And tried to reach the Changing Star.</l>
+                     <l>And all the while with his splay feet</l>
+                     <l>Kept time unto the music meet.</l>
+                     <l>With hat and waistcoat on he sprang,</l>
+                     <l>And as he bounded still he sang.</l>
+                     <l>And this the Saga says is why</l>
+                     <l>The Frog he always jumps so high;</l>
+                     <l>For, though the Star is very far,</l>
+                     <l>To reach it he must ever try,</l>
+                     <l>Until it’s time for him to die.</l>
+                  </lg>
+                  <lg>
+                     <l>As for the foolish Fay, ’tis wist,</l>
+                     <l>  She wept herself into a mist,</l>
+                     <l>  Which wanders where the Clouds are strewn</l>
+                     <l>  About the deathbed of the Moon,</l>
+                     <l>  When with wan lips, in sudden swoon</l>
+                     <l>  (Because her unkind lord, the Sun,</l>
+                     <l>  Will ever from her loveless run),</l>
+                     <l>  She cries amid her Starry Maids:</l>
+                     <l>  ‘Ah me, alas, my beauty fades!’—</l>
+                     <l>  And so sinks down into the Shades.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Troll and the Mountain</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Dedicated to the Great</hi>
+                  </head>
+                  <lg>
+                     <l>Said the Troll to the Mountain, ‘Old fellow, how goes it?’</l>
+                     <l>The Mountain responded, ‘My answer—suppose it.’</l>
+                     <l>Said the Troll, ‘Dear old friend, you are grumpy to-day.’</l>
+                     <l>Said the Mountain, ‘I think you had best run away.’</l>
+                     <l>The Troll said, ‘You suffer, old boss, from the blues.’</l>
+                     <l>The Mountain retorted, ‘I may if I choose.’</l>
+                     <l>‘Ah, that,’ cried the Troll, ‘is effect of the liver.’</l>
+                     <l>‘Take care,’ quoth the Hill, ‘or I’ll give you the shiver.’</l>
+                     <l>‘By my cap and its feather,’ the Spirit replies,</l>
+                     <l>‘You’ll be getting too portly without exercise.’</l>
+                     <l>‘You pert little fly,’ said the Rock in a rage,</l>
+                     <l>‘I will teach you to chaff at a hill of my age.’</l>
+                     <l>So he jump’d up to punish the impudent Fay,</l>
+                     <l>Who wisely retorted by running away;</l>
+                     <l>Until the old Mountain broke right down the middle,</l>
+                     <l>When back he came nimbly and played on the fiddle.</l>
+                     <l>My Advice to all Mountains that make such a stir, it’s</l>
+                     <l>‘Don’t get in a passion with pert little spirits.’</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Toad and the Fays</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Dedicated to Philosophers</hi>
+                  </head>
+                  <lg>
+                     <l>There sat a Toad upon a lawn</l>
+                     <l>Lost in a dream of fancy;</l>
+                     <l>His right foot in a Rose was set,</l>
+                     <l>His left upon a Violet,</l>
+                     <l>His paunch upon a Pansy.</l>
+                     <l>Some merry Elfins passing by</l>
+                     <l>At sight of him were sore affrighted,</l>
+                     <l>And would have fled; until he said,</l>
+                     <l>‘My little dears, if you knew why</l>
+                     <l>I look to heaven thus and sigh,</l>
+                     <l>I think that you would be delighted.</l>
+                     <l>The Stars rise up and fall, the Stars</l>
+                     <l>Do shine in pools and stilly places,</l>
+                     <l>The Lilies blink on sandy bars,</l>
+                     <l>The Midges move in flickering mazes;</l>
+                     <l>But I profoundly pore upon,</l>
+                     <l>And reason, think, and cogitate,</l>
+                     <l>And marvel, muse, and meditate,</l>
+                     <l>Why had the ancient Mastodon</l>
+                     <l>So few sad hairs upon his pate?’</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Parson and the Angel</hi>
+               </head>
+               <lg>
+                  <l>Thus spake the Preacher. All aver’d</l>
+                  <l>A saintlier man was never heard.</l>
+                  <l>But no one knew that o’er his head</l>
+                  <l>An Angel wrote the things he said,</l>
+                  <l>And these not only, but as well</l>
+                  <l>The things he thought but did not tell;</l>
+                  <l>And thus the double discourse fell.</l>
+                  <l>‘Beloved Brethren, never do</l>
+                  <l>What makes your (neighbour) censure you;</l>
+                  <l>That is, conceive yourself as good</l>
+                  <l>(And so impress the neighbourhood).</l>
+                  <l>Make you yourself a law to self</l>
+                  <l>And so you will (enjoy yourself).</l>
+                  <l>For the best way to ’scape the devil</l>
+                  <l>Is to (protest you are not evil).</l>
+                  <l>For virtue lies in this, I take it,</l>
+                  <l>To drink the physic (but not shake it);</l>
+                  <l>To gulp it dutifully down</l>
+                  <l>(But leave the bitter dregs alone).</l>
+                  <l>Desire not aught of any man</l>
+                  <l>(But take your due); so that you can</l>
+                  <l>(Quite safely unto others do</l>
+                  <l>As you wish they should unto you);</l>
+                  <l>And thus’—so summed the portly Priest—</l>
+                  <l>‘Be chosen for the Wedding Feast</l>
+                  <l>(As City Councillor at least).’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Puck and the Crocodile</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Dedicated to the Godly</hi>
+                  </head>
+                  <lg>
+                     <l>Puck, wandering on the banks of Nile,</l>
+                     <l>Beheld one day a Crocodile,</l>
+                     <l>That with heart-wringing sighs and sobs,</l>
+                     <l>With groans and cries and throes and throbs,</l>
+                     <l>Made moan, until his rushing tears</l>
+                     <l>Ran down the wrinkles of the sand.</l>
+                     <l>‘What ails thee, Monster?’ made demand</l>
+                     <l>The Sprite, ‘and why these million tears?’</l>
+                     <l>‘I weep, I shriek,’ the other cries,</l>
+                     <l>‘To see the World’s iniquities.’</l>
+                     <l>‘And I with you,’ the Elf replies.</l>
+                     <l>‘The World,’ resumed the Crocodile,</l>
+                     <l>‘Is full of Cruelty and Guile.’</l>
+                     <l>‘Except for you,’ Puck said, ‘it’s vile.’</l>
+                     <l>‘Honour and Chivalry are dead;</l>
+                     <l>The Soul of Pity vanished.’</l>
+                     <l>‘Save in yourself, Sir,’ Robin said.</l>
+                     <l>‘How are the Righteous much abhor’d,</l>
+                     <l>And silent still the Godly Word!’</l>
+                     <l>‘Not while you live,’ the Sprite aver’d.</l>
+                     <l>‘My friend, I thank you,’ said the Beast;</l>
+                     <l>‘I think you sympathise at least.</l>
+                     <l>The world is evil—pray beware—</l>
+                     <l>How fat you are, I do declare!</l>
+                     <l>God grant us all some day remission—</l>
+                     <l>I vow you’re in a fine condition.</l>
+                     <l>I think that all—I must say that</l>
+                     <l>For a fairy you are very fat.</l>
+                     <l>What unctuous food—excuse me, friend—</l>
+                     <l>You fays must find in fairy land.</l>
+                     <l>As I was saying, all is not—</l>
+                     <l>Fie, what a toothache I have got!</l>
+                     <l>See here, this molar. Pray look nearer,</l>
+                     <l>And you shall see the bad place clearer.</l>
+                     <l>Nay if you could but just creep in</l>
+                     <l>And say which tooth the mischief’s in—’</l>
+                     <l>‘No thank you, friend,’ our Puck replied;</l>
+                     <l>‘I’ll keep upon the outer side.</l>
+                     <l>With many large soul’d folk I’ve met</l>
+                     <l>I’ve found the stomach’s larger yet;</l>
+                     <l>And when the Righteous talk of Sin</l>
+                     <l>Look to your pockets or your skin.’</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Virtuous Goat</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Dedicated to Teachers</hi>
+                  </head>
+                  <lg>
+                     <l>Upon a mountain lived of old</l>
+                     <l>(So says the Saga that is wise)</l>
+                     <l>An ancient Goat of portly size,</l>
+                     <l>Well known for virtues manifold,</l>
+                     <l>Who once to take the evening air</l>
+                     <l>Reposed upon a meadow there,</l>
+                     <l>With Wife and Children in a row;</l>
+                     <l>And thus endeavour’d to bestow</l>
+                     <l>On them (and all of us) advice</l>
+                     <l>To make our conduct more precise</l>
+                     <l>And lead at last to paradise.</l>
+                     <l>‘My dears be Good. All else forgot</l>
+                     <l>Yours shall be still a happy lot.</l>
+                     <l>Enough the Rule. Do not enquire</l>
+                     <l>The How and Why of things—or higher.</l>
+                     <l>Be Virtuous, and neglect the Schools;</l>
+                     <l>For Wisdom was but made for fools.</l>
+                     <l>Scorn still the shallow Mind that pries</l>
+                     <l>In science, art, philosophies;</l>
+                     <l>Essays the future to forecast,</l>
+                     <l>Forsooth, by study of the past;</l>
+                     <l>Maintains the laws should be (what treason!)</l>
+                     <l>Compounded by the use of reason;</l>
+                     <l>And will advise e’en men of note</l>
+                     <l>To govern well by thinking o’t;</l>
+                     <l>Avers when honest people chatter</l>
+                     <l>That he knows best who knows the matter;</l>
+                     <l>And even go so far as state</l>
+                     <l>Goats can by thinking mend their fate.</l>
+                     <l>So hold this saw before your eyes,</l>
+                     <l>Be Good and let who will be wise.’</l>
+                  </lg>
+                  <lg>
+                     <l>Alas, with his own virtue blind,</l>
+                     <l>  He fail’d to mark the Wolf behind;</l>
+                     <l>  Who, as he seized and bore him off,</l>
+                     <l>  Distress’d him with this bitter scoff—</l>
+                     <l>  ‘With your high views I sympathise;</l>
+                     <l>  But better also to be Wise.’</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The truth of Truth</hi>
+               </head>
+               <lg>
+                  <l>Within a vast and gloomy Fane</l>
+                  <l>There hung a Curtain to the floor,</l>
+                  <l>Which fill’d with terror those who came</l>
+                  <l>To wonder there or to adore;</l>
+               </lg>
+               <lg>
+                  <l>For, as the Priest had often said,</l>
+                  <l>  Within the chamber dwelt in sooth</l>
+                  <l>  A breathing Horror, half divine,</l>
+                  <l>  Half demon, and whose name was Truth.</l>
+               </lg>
+               <lg>
+                  <l>And none there were so doughty bold</l>
+                  <l>  As durst to lift the tapestry;</l>
+                  <l>  For it was death, he said, to peer</l>
+                  <l>  Upon the awful Mystery;</l>
+               </lg>
+               <lg>
+                  <l>Until one day—oh dreadful hour—</l>
+                  <l>  Up jump’d a foolish hardy Youth,</l>
+                  <l>  Who cried, ‘I care not if I die,</l>
+                  <l>  But I will have the truth of Truth.’</l>
+               </lg>
+               <lg>
+                  <l>There came a Crowd to see the deed—</l>
+                  <l>  To hear him shriek within and fall;</l>
+                  <l>  But they were much astonish’d when</l>
+                  <l>  He found—why Nothing there at all;</l>
+               </lg>
+               <lg>
+                  <l>Except indeed upon the floor</l>
+                  <l>  (Ill fortune take the prying sinner!)</l>
+                  <l>  A Pasty and a Pot of Beer</l>
+                  <l>  Which the poor Priest had got for dinner.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Man, the Lion, and the Fly</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Dedicated to Reformers</hi>
+                  </head>
+                  <lg>
+                     <l>There was a Man to wisdom dead</l>
+                     <l>Who took a mad thought in his head—</l>
+                     <l>‘A second Hercles I,’ he said.</l>
+                     <l>‘Behold,’ he cried, ‘I will go forth</l>
+                     <l>From east to west, from south to north,</l>
+                     <l>And with this knotted bludgeon bash</l>
+                     <l>The Things that Sting, and those that Gnash</l>
+                     <l>Blood-dripping teeth, and Giants glum</l>
+                     <l>So mighty that with finger and thumb</l>
+                     <l>They pick and eat chance passengers.</l>
+                     <l>And I will slay each thing that stirs</l>
+                     <l>To grief of man and dole of beast,</l>
+                     <l>Until the world from wrong released</l>
+                     <l>Pronounce me Emperor at least.’</l>
+                  </lg>
+                  <lg>
+                     <l>But as he spoke, upon the way</l>
+                     <l>  A casual Lion chanced to stray,</l>
+                     <l>  Just as on any other day;</l>
+                     <l>  And he, to measure of his thought</l>
+                     <l>  In ready deed inferior nought,</l>
+                     <l>  Sprang at him furious, and they fought.</l>
+                  </lg>
+                  <lg>
+                     <l>Three hours they fought, until the sun</l>
+                     <l>  Ymounted in the vault begun</l>
+                     <l>  To make them wish that they had done.</l>
+                     <l>  ‘Friend,’ quoth the Lion, ‘or why foe</l>
+                     <l>  Upon my word I do not know—</l>
+                     <l>  If we fight more we melt, I trow.’</l>
+                     <l>  ‘A little grace,’ the Man replied,</l>
+                     <l>  Wiping his brow, ‘is not denied;</l>
+                     <l>  You’ll have but little when you’ve died.’</l>
+                  </lg>
+                  <lg>
+                     <l>So each beneath a tree disposed</l>
+                     <l>  Took ease. The languid Lion dozed.</l>
+                     <l>  The Man, who should have done likewise</l>
+                     <l>  (So says the Saga that is wise),</l>
+                     <l>  Was waked each time he sued repose</l>
+                     <l>  By a great Fly upon his nose.</l>
+                     <l>  First in the one ear then in t’other</l>
+                     <l>  The winged monster buzz’d with bother;</l>
+                     <l>  The twitching tender nostrils tried,</l>
+                     <l>  The corners of the lips beside;</l>
+                     <l>  From lip to eyelid leapt with fuss,</l>
+                     <l>  Like old dame in an omnibus;</l>
+                     <l>  Delighted vastly to have met</l>
+                     <l>  So great a store of unctuous sweat.</l>
+                     <l>  At last to desperation driven</l>
+                     <l>  The Man accursed the Fly to Heaven,</l>
+                     <l>  And with his bludgeon great assay’d</l>
+                     <l>  To stay the small annoying raid.</l>
+                     <l>  Wielding to right and left he smote;</l>
+                     <l>  But still the nimble Fly, remote,</l>
+                     <l>  Laughed at his anger and enjoy’d</l>
+                     <l>  Fresh perspiration.</l>
+                     <l>  Thus annoy’d,</l>
+                     <l>  His bludgeon broken on the tree,</l>
+                     <l>  A helpless, weary wight was he.</l>
+                     <l>  The Lion rose, refresh’d, with glee;</l>
+                     <l>  ‘I’m ready now,’ he said, ‘my man,</l>
+                     <l>  To end the work the Fly began.’</l>
+                     <l>  And this (the Chronicler explains)</l>
+                     <l>  Is why the Lion still remains.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Orpheus and the Busy Ones</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Dedicated to the Public</hi>
+                  </head>
+                  <lg>
+                     <l>Orpheus, the Stygian current cross’d,</l>
+                     <l>When Hell stood still to hear him sing,</l>
+                     <l>Torn from Eurydice twice lost</l>
+                     <l>(Almost by music saved e’er lost)</l>
+                     <l>Over the world went wandering.</l>
+                     <l>One day, sate on a mountain slope,</l>
+                     <l>Weary and sick for want of hope,</l>
+                     <l>(Or rather, shall we term it, dead,</l>
+                     <l>Since life is gone when hope is sped),</l>
+                     <l>He twang’d his lyre; till song sublime</l>
+                     <l>Out of the ashes of his prime</l>
+                     <l>And fire of grief like Phoenix sprang;</l>
+                     <l>And all the startled hillside rang.</l>
+                     <l>Aroused, the dew-engrossed Flowers</l>
+                     <l>Turn’d to him all their maiden eyes;</l>
+                     <l>And from the sweet forgotten bowers</l>
+                     <l>Flew forth a thousand Butterflies.</l>
+                     <l>The Trees forgot their roots. Beneath,</l>
+                     <l>The noisy Crickets of the heath</l>
+                     <l>Rub’d each his forehead with amaze</l>
+                     <l>To hear one sing such heavenly lays.</l>
+                     <l>Under her stone the lumpy Toad</l>
+                     <l>Peer’d forth; even the solid sod</l>
+                     <l>Grew peopled with emerging Worms—</l>
+                     <l>Such power hath Music on all forms.</l>
+                     <l>Above, the pinched Pard amort</l>
+                     <l>(She had three cublings in a den)</l>
+                     <l>Forgot her hunger, and in short</l>
+                     <l>Reposed herself to listen then,</l>
+                     <l>Upon her furry paws her chin;</l>
+                     <l>And from her vantage watch’d the Poet,</l>
+                     <l>Delighted, but enraged to know it,</l>
+                     <l>While all her spotted sleek of skin</l>
+                     <l>Heaved with the pleasure she took in.</l>
+                     <l>Not only this, but shall I say ’t,</l>
+                     <l>The very Hills began debate</l>
+                     <l>Whether, to hear the singing clearer,</l>
+                     <l>They should not move a little nearer.</l>
+                  </lg>
+                  <lg>
+                     <l>Only, the Bard, to these strange ways</l>
+                     <l>  Accustom’d, noted with amaze</l>
+                     <l>  A herd of Hogs that near him fed,</l>
+                     <l>  Which might for all he sang be dead.</l>
+                     <l>  He ceased his song and tried the scale</l>
+                     <l>  To find out where his voice might fail;</l>
+                     <l>  His lyre divine descanted soon</l>
+                     <l>  To see the strings were all in tune;</l>
+                     <l>  Till satisfied that these were right,</l>
+                     <l>  And at those Hogs astonish’d quite</l>
+                     <l>  That they not to his conquering lyre,</l>
+                     <l>  Which all things else did so admire,</l>
+                     <l>  Gave heed, but routed in the rye</l>
+                     <l>  As tho’ he had not been close by,</l>
+                     <l>  He ask’d of them the reason why.</l>
+                     <l>  ‘Good friend,’ a Bacon old replied,</l>
+                     <l>  ‘We have too much to do beside;</l>
+                     <l>  The roots are many, the field is wide.</l>
+                     <l>  Should we neglect this plenteousness</l>
+                     <l>  We should be wrong, you must confess—</l>
+                     <l>  The gods some day might give us less.</l>
+                     <l>  Our girth is great; the fodder free;</l>
+                     <l>  This field of food must finished be.</l>
+                     <l>  That time is short you’ll not deny.</l>
+                     <l>  We eat but little ere we die.’</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Poet and the Penman</hi>
+               </head>
+               <lg>
+                  <l>All night had browsed the Pinion’d Steed</l>
+                  <l>Upon that lush and level mead</l>
+                  <l>That swathes Parnassos’ feet;</l>
+                  <l>Till, when the pranksome Morning Star</l>
+                  <l>To van of Day’s slow-driven car</l>
+                  <l>Came piping past the eastern bar,</l>
+                  <l>A Poet him did greet.</l>
+               </lg>
+               <lg>
+                  <l>‘Your back, my Pegasos,’ he cried,</l>
+                  <l>  ‘Shall win me to the tiers espied</l>
+                  <l>  Of yonder shelfed hill,</l>
+                  <l>  Where all the Great are, I opine,</l>
+                  <l>  And on the last proud peak divine</l>
+                  <l>  Apollo and the Earnest Nine</l>
+                  <l>  At songs symphonic still.’</l>
+               </lg>
+               <lg>
+                  <l>Tomes had the Poet, rolls and wraps,</l>
+                  <l>  Pens at his ears, and scribbled scraps,</l>
+                  <l>  And so essay’d the mounting—</l>
+                  <l>  ‘Stand still, O Steed, and I will climb,</l>
+                  <l>  Tho’ weighted here with pounds of rhyme,</l>
+                  <l>  If you will only give me time,</l>
+                  <l>  Who’d been on stirrups counting.’</l>
+               </lg>
+               <lg>
+                  <l>The Steed stood still; the thing was done;</l>
+                  <l>  He slided, slip’d and shuffled on,</l>
+                  <l>  And stay’d to pen his deeds:</l>
+                  <l>  When now the Monster’s patience wears;</l>
+                  <l>  He lowers his head, his haunches rears;</l>
+                  <l>  And flying past the Stallion’s ears</l>
+                  <l>  The Poet measures weeds.</l>
+               </lg>
+               <lg>
+                  <l>Three times attempting, three times foil’d,</l>
+                  <l>  The Bard beheld his breeches soil’d;</l>
+                  <l>  And on his knees the mashed green</l>
+                  <l>  Gave an arch proof of what had been;</l>
+                  <l>  And winds like gamboling babes unseen</l>
+                  <l>  Made all his errant sheets revolve.</l>
+                  <l>  For now the Morning ’gan to solve</l>
+                  <l>  The long-strewn sands of heav’nly cloud;</l>
+                  <l>  And that fair Mountain noble brow’d,</l>
+                  <l>  In snowy silv’ry laces dight</l>
+                  <l>  Shone like a bride, against the night</l>
+                  <l>  Unveil’d, with many-pointed light.</l>
+                  <l>  And lo half seen thro’ level mist</l>
+                  <l>  A Critic rode with saucy wrist,</l>
+                  <l>  Plump, smug and smooth and portly, dress’d</l>
+                  <l>  In corduroys and velvet vest;</l>
+                  <l>  Who clip’d at ease an ambling cob</l>
+                  <l>  With dappled nose and ears alob;</l>
+                  <l>  While all around a barking brood</l>
+                  <l>  Of puppies nuzzled in the rood.</l>
+                  <l>  ‘He who to climb has climbing blood</l>
+                  <l>  Must fear no fall in marish mud;</l>
+                  <l>  And he who phantoms fain would ride</l>
+                  <l>  May sometimes sit the ground,’ he cried.</l>
+               </lg>
+               <lg>
+                  <l>At this his thighs the Poet slam’d</l>
+                  <l>  And papers in his pocket ram’d;</l>
+                  <l>  ‘Be off,’ he said, ‘or else be damn’d.’</l>
+                  <l>  ‘You lose your time,’ resumed the Man,</l>
+                  <l>  Whose oozing eyes with mirth o’erran;</l>
+                  <l>  ‘You waste your time about that Brute</l>
+                  <l>  Whom, if ’twere mine, egad I’d shoot,</l>
+                  <l>  So gaunt and gall’d a hack is he.</l>
+                  <l>  But take example now from me,</l>
+                  <l>  Who riding in this airy plight</l>
+                  <l>  For breakfast get an appetite;</l>
+                  <l>  And sitting here (I am so sly)</l>
+                  <l>  With this my pocket-sextant I</l>
+                  <l>  Take altitude of those on high.’</l>
+                  <l>  ‘Pedant avaunt!’ the Poet cries,</l>
+                  <l>  And mounting shoots towards the skies</l>
+                  <l>  An angry palm—‘Come not anear!</l>
+                  <l>  I, as toward the marineer</l>
+                  <l>  The welcome star from beacon’d brows</l>
+                  <l>  Of headland, when the Northern blows</l>
+                  <l>  His scurrilous spitting spray in air</l>
+                  <l>  And lobbing billows blotch the Bear,</l>
+                  <l>  Appears, so shall appear and shine</l>
+                  <l>  Thro’ streaming rain and hissing brine</l>
+                  <l>  To cheer the coming better blood;</l>
+                  <l>  And shall be fire when thou art mud!’</l>
+               </lg>
+               <lg>
+                  <l>‘Blind is the goose that play’d the geier</l>
+                  <l>  And tried to see the white sun nigher!—</l>
+                  <l>  He flapping lies; so shall you lie</l>
+                  <l>  And grovel as you think to fly!’</l>
+                  <l>  The other cries; whose Nag amazed,</l>
+                  <l>  Viewing the winged Stallion, gazed,</l>
+                  <l>  Shook out her tail and with a snort,</l>
+                  <l>  Approaching in plebeian sort,</l>
+                  <l>  Paw’d archly at him. He with scorn</l>
+                  <l>  And having too long mildly borne,</l>
+                  <l>  Rear’d, spread his wings, and buck’d and neigh’d.</l>
+                  <l>  She with the monstrous tone affray’d</l>
+                  <l>  Shot forth her rider like a ball;</l>
+                  <l>  Who in the mid-air, ere his fall,</l>
+                  <l>  The like-projected Poet met.</l>
+               </lg>
+               <lg>
+                  <l>As when two Suns in furious set</l>
+                  <l>  Together dash with whirl and wind,</l>
+                  <l>  Their shrieking planets drawn behind;</l>
+                  <l>  Or two great Blacks with blinding rage,</l>
+                  <l>  Each dragging his black wife, engage,</l>
+                  <l>  And clash their pates upon the green</l>
+                  <l>  (The fleas being heard to crack between),</l>
+                  <l>  The Critic so and Bard pell mell</l>
+                  <l>  Fighting concuss’d and fighting fell;</l>
+                  <l>  And puppies tug’d their tatters.</l>
+                  <l>  Bruises for breakfast got the one;</l>
+                  <l>  Black eyes the other, and of Fame none.</l>
+                  <l>  They fought it out, and when they’d done</l>
+                  <l>  Went home as rough as ratters.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Piteous Ewe</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Dedicated to Kings</hi>
+                  </head>
+                  <lg>
+                     <l>King Lion yawning at his gates</l>
+                     <l>On deep-empiled mosses, when</l>
+                     <l>The sunset gilt the underwood,</l>
+                     <l>Awaking claw’d in idle mood</l>
+                     <l>The frighten’d dead leaves of his den,</l>
+                     <l>Content; when lo (the Rune relates)</l>
+                     <l>A tiny piercing note was heard.</l>
+                     <l>It was the Mouse (the Rune aver’d)</l>
+                     <l>Who saved the Sov’reign’s honour when</l>
+                     <l>The hunters mesh’d him in the glen.</l>
+                     <l>For that admitted now to cheep</l>
+                     <l>Before the Audience half asleep,</l>
+                     <l>She introduced a weeping Sheep.</l>
+                  </lg>
+                  <lg>
+                     <l>‘Sire,’ said the Mouse, ‘with much ado</l>
+                     <l>  Thro’ wicked guards I bring to you</l>
+                     <l>  This much wrong’d creature to implore</l>
+                     <l>  Justice against the evil doer.’</l>
+                     <l>  At this, no rhetorician,</l>
+                     <l>  The shiv’ring Mutton then began</l>
+                     <l>  Of how three lovely Lambkins lost</l>
+                     <l>  The Wolf had taken to his den,</l>
+                     <l>  Deep-delved in a dreadful glen—</l>
+                     <l>  And ah! to her the bitter cost!</l>
+                     <l>  One from her side when day was dead</l>
+                     <l>  The monster stole. Another took</l>
+                     <l>  At gambol in the glassing brook.</l>
+                     <l>  The third, the Mother’s last delight,</l>
+                     <l>  When now the many-lamped Night</l>
+                     <l>  No more, with mystic moon aloft,</l>
+                     <l>  Gave shudd’ring shadows to the flowers</l>
+                     <l>  And stars of wan irradiance soft</l>
+                     <l>  To every dewdrop; but the hours</l>
+                     <l>  Of Dawn and Daybreak, Sister Hours,</l>
+                     <l>  Twin Lovelinesses, lit the world,</l>
+                     <l>  And the confident buds unfurl’d,</l>
+                     <l>  He seized with mangling tushes, till</l>
+                     <l>  The innocent flower-eyes of the wood,</l>
+                     <l>  That wont with early dew to fill,</l>
+                     <l>  Grew piteous-wet with tears of blood;</l>
+                     <l>  The mother helpless. So he rush’d</l>
+                     <l>  With shaggy flanks, and snarling gnash’d</l>
+                     <l>  The gripping teeth that gleam’d between</l>
+                     <l>  His cruel red lips scarcely seen,</l>
+                     <l>  While springing branches clash’d behind,</l>
+                     <l>  And left her weeping to the wind.</l>
+                  </lg>
+                  <lg>
+                     <l>‘Ho!’ roar’d the Monarch, ‘call the Court!</l>
+                     <l>  With this black ruffian I’ll be short.</l>
+                     <l>  How often have I giv’n command</l>
+                     <l>  The young shall not be taken’—and</l>
+                     <l>  His thunder rang across the land,</l>
+                     <l>  Until the forest flowers for fear</l>
+                     <l>  Shut up their petals not to hear.</l>
+                  </lg>
+                  <lg>
+                     <l>Then his gay Herald, the Macaw,</l>
+                     <l>  Screams out the hest from hill to haugh,</l>
+                     <l>  And from a thousand delled dens</l>
+                     <l>  Run forth his frighten’d denizens,</l>
+                     <l>  To share the Council, or to know</l>
+                     <l>  What makes the Monarch bellow so.</l>
+                     <l>  And, as they gather, to and fro</l>
+                     <l>  He paces, and his red eyes flash</l>
+                     <l>  Enough to turn them all to ash.</l>
+                     <l>  Arranged before him in a row</l>
+                     <l>  They take their places, high and low.</l>
+                     <l>  The Wicked Wolf between his guards,</l>
+                     <l>  Two grave and stalwart Leopards,</l>
+                     <l>  Stands tip-toe, snarling, and repeating</l>
+                     <l>  It was not he who did the eating;</l>
+                     <l>  And, with his tail between his legs,</l>
+                     <l>  For justice, justice only, begs.</l>
+                     <l>  ‘You or another,’ roar’d the King,</l>
+                     <l>  ‘I’ll find the one who did the thing—</l>
+                     <l>  But first, Sir Premier, please reply</l>
+                     <l>  (A Constitutional Monarch I)</l>
+                     <l>  Why do you let my people die?’</l>
+                     <l>  At this, with deference, said the Bear,</l>
+                     <l>  ’Twas not his fault—he was not there.</l>
+                     <l>  Still lab’ring in affairs of state</l>
+                     <l>  To make the kingdom good and great</l>
+                     <l>  (Altho’ the wicked Opposition</l>
+                     <l>  Did ever thwart him in his mission),</l>
+                     <l>  A sleepless eye he always cast</l>
+                     <l>  Upon the future and the past</l>
+                     <l>  To frustrate—hard for anyone—</l>
+                     <l>  What the Last Government had done.</l>
+                     <l>  At present he’d in contemplation</l>
+                     <l>  Some mighty measures for the nation—</l>
+                     <l>  To bring the Butterflies to terms</l>
+                     <l>  By giving franchise to the Worms;</l>
+                     <l>  To teach the Gnats to carry logs;</l>
+                     <l>  To give self-government to Hogs</l>
+                     <l>  Because they had resolved to shirk,</l>
+                     <l>  With noble Scorn, ignoble Work;</l>
+                     <l>  To succour Wildcats, and to keep</l>
+                     <l>  The Wolves secure against the Sheep.</l>
+                     <l>  And here he thought he smelt a plot:</l>
+                     <l>  This trivial matter, was it not</l>
+                     <l>  A little juggle to discredit</l>
+                     <l>  This last great measure?—There, he’d said it.</l>
+                     <l>  But still his heart bled at the woe</l>
+                     <l>  Occasion’d by his Party’s foe.</l>
+                  </lg>
+                  <lg>
+                     <l>At this the Tiger shriek’d with rage</l>
+                     <l>  (The while his Secret’ry the Fox,</l>
+                     <l>  Took papers from his office box),</l>
+                     <l>  ‘Unhappy land! accursed age!’</l>
+                     <l>  He cried, ‘You seek to murder me</l>
+                     <l>  With weight of brute Majority;</l>
+                     <l>  And me not only, but the cause</l>
+                     <l>  Of Pity, Justice, and the Laws!</l>
+                     <l>  Take back the charges you impute;</l>
+                     <l>  It is not me but you who do’t.</l>
+                     <l>  When we controll’d the Sov’reign’s land</l>
+                     <l>  The sun was bright, the breeze was bland.</l>
+                     <l>  The roving Heifer, free from care,</l>
+                     <l>  Scarce needed sniff th’ untainted air</l>
+                     <l>  For danger, and the young Gazelle</l>
+                     <l>  Drank heedless at the hidden well;</l>
+                     <l>  And even I with happy smile</l>
+                     <l>  Would lay me down to slumber, while</l>
+                     <l>  The careless Lambkins gambol’d round,</l>
+                     <l>  And Peace and Plenty blest the ground!</l>
+                  </lg>
+                  <lg>
+                     <l>With this fine eloquence inflamed</l>
+                     <l>  The rival factions loudly named</l>
+                     <l>  Each other Brute, and (it is said)</l>
+                     <l>  Would soon have killed each other dead:</l>
+                     <l>  But now the Boar with growl and grunt</l>
+                     <l>  And bristling juba leapt to front.</l>
+                     <l>  ‘Accursed both!’ he cried. ‘What, what!</l>
+                     <l>  Think you, ye fools, we know you not?</l>
+                     <l>  Each canting, lying partisan,</l>
+                     <l>  Who prates of Mercy and the Law</l>
+                     <l>  With merciless and murd’rous maw,</l>
+                     <l>  Will always eat us when he can—</l>
+                     <l>  Us, who with boon and bloodless toil</l>
+                     <l>  Seek but the acorns for our spoil—</l>
+                     <l>  Were not our eyes and tushes bright</l>
+                     <l>  To quell such bandits of the night.</l>
+                     <l>  Why, e’en the Monarch—’</l>
+                     <l>  Here a roar</l>
+                     <l>  From all the Council check’d the Boar;</l>
+                     <l>  And soon the King with pensive mien</l>
+                     <l>  Said, ‘This is not the way, I ween</l>
+                     <l>  To reach the truth—more difficult</l>
+                     <l>  Than we supposed. Let us consult</l>
+                     <l>  Our learned Judge, Lord Elephant.’</l>
+                  </lg>
+                  <lg>
+                     <l>So he advances, complaisant</l>
+                     <l>  With rocky brow, and at his ear</l>
+                     <l>  A pen as long as any spear;</l>
+                     <l>  Small eyes that saw behind the Truth</l>
+                     <l>  Convenience; and, as if to soothe</l>
+                     <l>  Dissention, with a swaying motion</l>
+                     <l>  From side to side. ‘Sire, I’ve a notion,’</l>
+                     <l>  He said, ‘there is no case at all.</l>
+                     <l>  The plaintiff can no witness call,</l>
+                     <l>  And hers the only evidence,</l>
+                     <l>  Which, rightly sifted, has no sense.</l>
+                     <l>  For in the night she says he took</l>
+                     <l>  Her first, her second in the brook.</l>
+                     <l>  How could she see him in the dark?</l>
+                     <l>  And for the second, pray you mark,</l>
+                     <l>  Perhaps it was more likely drown’d.</l>
+                     <l>  As for the third, when she look’d round,</l>
+                     <l>  He’d gone: how did she know him then?</l>
+                     <l>  This is of fancy, not of ken.</l>
+                     <l>  Moreover, in th’ alternative,</l>
+                     <l>  Sir Wolf can plead he could not live</l>
+                     <l>  Because the din the lambkins made</l>
+                     <l>  About him slumb’ring in the shade.</l>
+                     <l>  As for the much-bereaved Dame,</l>
+                     <l>  With whom I deeply sympathise—</l>
+                     <l>  Such sorrow wets my foolish eyes—</l>
+                     <l>  I fear she may be thought to blame</l>
+                     <l>  Because she troubled Majesty</l>
+                     <l>  Before she had instructed me</l>
+                     <l>  (Of course I ridicule the fee);</l>
+                     <l>  And I should be prepared, in short,</l>
+                     <l>  To hear it argued in the Court</l>
+                     <l>  Whether she did not bring the charge</l>
+                     <l>  In order merely to discharge</l>
+                     <l>  An ancient grudge against her foe—’</l>
+                     <l>  ‘Enough! and let the prisoner go!’</l>
+                     <l>  The Sov’reign said. ‘And as for you,</l>
+                     <l>  Dishonest and malignant Ewe,</l>
+                     <l>  We do not order you to death</l>
+                     <l>  (Whate’er your conduct meriteth)</l>
+                     <l>  Only because it pleaseth us</l>
+                     <l>  To show we are magnanimous.’</l>
+                     <l>  (He was indeed much praised for that,</l>
+                     <l>  And more because the Sheep was fat).</l>
+                     <l>  ‘Break up the Court. Enough of worry,</l>
+                     <l>  It’s time to dine, so let’s be merry.’</l>
+                  </lg>
+                  <lg>
+                     <l>With that they shifted in a hurry;</l>
+                     <l>  But in the scramble no one knew</l>
+                     <l>  (So says the Saga that is true)</l>
+                     <l>  What happen’d to the Piteous Ewe.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Contest of Birds</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Dedicated to all the Excellent</hi>
+                  </head>
+                  <lg>
+                     <l>The Eagle which at Jove’s right hand</l>
+                     <l>Was wont to take imperial stand,</l>
+                     <l>Proud of his perch, and with fond beak</l>
+                     <l>The Thund’rer’s fondling finger tweak,</l>
+                     <l>Or blinking in sage thought t’ assume</l>
+                     <l>Half sov’reignty and weigh the doom,</l>
+                     <l>Was sick; for the World he sigh’d,</l>
+                     <l>His Mountains and his Forests wide;</l>
+                     <l>So true it is, not Jove’s right hand</l>
+                     <l>Is worth to us our Native Land,</l>
+                     <l>And that the Little we have not</l>
+                     <l>Can make the Much we have forgot.</l>
+                  </lg>
+                  <lg>
+                     <l>Therefore to earth with arching vans,</l>
+                     <l>  Released a while, the sky he spans</l>
+                     <l>  In flight; sinks thro’ the tempest; takes</l>
+                     <l>  The feather-fretting aid of wind;</l>
+                     <l>  And now, new born with pleasure, breaks</l>
+                     <l>  Upon a beauteous Vale confined.</l>
+                  </lg>
+                  <lg>
+                     <l>Now it is said that on that day</l>
+                     <l>  All Birds that are had ceased their play,</l>
+                     <l>  And question’d, each with heat and brawl,</l>
+                     <l>  Which was the noblest of them all:</l>
+                     <l>  Who when they saw the Eagle stand</l>
+                     <l>  Amidst them (now unused to stand</l>
+                     <l>  Upon the dull, flat, level earth)</l>
+                     <l>  Burst into loud contemptuous mirth.</l>
+                     <l>  ‘It seems,’ exclaimed a civil Crow,</l>
+                     <l>  ‘You come here, friend, quite apropos.</l>
+                     <l>  For we discuss’d the noblest here,</l>
+                     <l>  And you are truly the most queer.</l>
+                     <l>  Your wings and tail, excuse me friend,</l>
+                     <l>  Seem too long for your other end.</l>
+                     <l>  Pray change your—if I may suggest—</l>
+                     <l>  Your tailor and be better dress’d.</l>
+                     <l>  Look at myself how neat I go,</l>
+                     <l>  And in the latest fashion too.’</l>
+                     <l>  ‘Or were your plumes, my friend, more bright</l>
+                     <l>  We could excuse your homely plight,’</l>
+                     <l>  The Peacock said: ‘pray just admire</l>
+                     <l>  My plumes of azure, gold and fire.</l>
+                     <l>  My dames about me ever move</l>
+                     <l>  In wonder, and confess their love.</l>
+                     <l>  Whene’er I show myself,’ said he,</l>
+                     <l>  ‘The Gods look down from Heaven to see.’</l>
+                     <l>  ‘Base virtues of the body!’ cried</l>
+                     <l>  The Parrot. ‘Is the soul denied?</l>
+                     <l>  Know friend that beauteous words are worth</l>
+                     <l>  More than these qualities of earth.</l>
+                     <l>  How wise I am admire, and know</l>
+                     <l>  It is by study I am so.</l>
+                     <l>  Still lost in contemplation I</l>
+                     <l>  Quite understand the earth and sky;</l>
+                     <l>  Can talk of wonders without end,</l>
+                     <l>  More e’en than I can comprehend;</l>
+                     <l>  Or say the wisest words, I ween,</l>
+                     <l>  Although I don’t know what they mean.’</l>
+                     <l>  ‘Pshaw!’ said the Vulture, ‘fair or wise,</l>
+                     <l>  You shall some day become my prize.</l>
+                     <l>  Your merits shall be mine, ’od shake ’em,</l>
+                     <l>  Whenever I may choose to take ’em;</l>
+                     <l>  And when I have digested you</l>
+                     <l>  Your virtues shall become mine too.</l>
+                     <l>  As for our friend the new arrival,</l>
+                     <l>  If he contend to be my rival,</l>
+                     <l>  Let’s fight it out in heaven’s name!’</l>
+                     <l>  ‘What base arbitrement! for shame!’</l>
+                     <l>  Exclaimed the mincing Nightingale.</l>
+                     <l>  ‘If he aspire let him prevail</l>
+                     <l>  Against me in the test of song</l>
+                     <l>  Where he who triumphs is most strong.’</l>
+                     <l>  ‘Beware of pride,’ the Dodo said;</l>
+                     <l>  ‘I see that all of you are led</l>
+                     <l>  Astray by arrogance. For me,</l>
+                     <l>  I glory in humility.</l>
+                     <l>  I am so humble I confess</l>
+                     <l>  My utter wicked worthlessness.</l>
+                     <l>  I say with tears’—and here he blows</l>
+                     <l>  The part that should have been his nose—</l>
+                     <l>  ‘I say with tears I dote upon</l>
+                     <l>  Being beaten, bruised and trampled on.</l>
+                     <l>  I love to be reminded still</l>
+                     <l>  Of all my faults and treated ill.</l>
+                     <l>  So ’tis, I think, confess’d by all</l>
+                     <l>  My virtue’s not equivocal.’</l>
+                     <l>  ‘To me,’ the lofty Stork aver’d,</l>
+                     <l>  ‘This seems a most plebeian bird.</l>
+                     <l>  With nails so long and legs so short,</l>
+                     <l>  He cannot be of noble sort;</l>
+                     <l>  Tho’ in his nose, I must confess,</l>
+                     <l>  I see some sign of gentleness.</l>
+                     <l>  I cannot really stoop so far</l>
+                     <l>  (Whom all the Frogs and Mice in war</l>
+                     <l>  Already have confess’d their king)</l>
+                     <l>  As rival this uncrowned thing.</l>
+                     <l>  My subjects would at once repine</l>
+                     <l>  Nor let me eat ’em, I opine,</l>
+                     <l>  As all contented subjects should,</l>
+                     <l>  Did I disgrace my royal blood.’</l>
+                  </lg>
+                  <lg>
+                     <l>Which heard, the fiery Eagle’s eyes</l>
+                     <l>  With noble anger and surprise</l>
+                     <l>  Flash’d out. ‘Still dear what is most cheap</l>
+                     <l>  Ye little woodland creatures keep,’</l>
+                     <l>  He cried; and flung aloft his head,</l>
+                     <l>  Gazed up to heaven, his pinions spread</l>
+                     <l>  (The wind of which made timorous stir</l>
+                     <l>  Among the things that round him were)</l>
+                     <l>  And leaping on the air begun</l>
+                     <l>  Ascent, and vanish’d in the sun.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Alastor</hi>
+               </head>
+               <lg>
+                  <l>’Tis said that a noble Youth of old</l>
+                  <l>Was to his native village lost</l>
+                  <l>And to his home and aged sire;</l>
+                  <l>For he had wander’d (it is told)</l>
+                  <l>Where, pinnacled in eternal Frost,</l>
+                  <l>Apollo leads his awful Choir.</l>
+               </lg>
+               <lg>
+                  <l>Awful, for nought of human warms</l>
+                  <l>  The agony of Their Song sublime,</l>
+                  <l>  Which like the breath of Ice is given,</l>
+                  <l>  Ascending in vapour from all forms,</l>
+                  <l>  Where Gods in clear alternate chime</l>
+                  <l>  Reveal Their mystery-thoughts to Heaven.</l>
+               </lg>
+               <lg>
+                  <l>Nor in those regions of windless Cold</l>
+                  <l>  Is fiery the Sun tho’ fierce in light;</l>
+                  <l>  But frozen-pale the numbed Moon</l>
+                  <l>  Wanders along the ridges that fold</l>
+                  <l>  Enormous Peaks, what time the Night</l>
+                  <l>  Rivals with all her stars the Noon.</l>
+               </lg>
+               <lg>
+                  <l>For there, not dimly as here, the Stars,</l>
+                  <l>  But globed and azure and crimson tinct,</l>
+                  <l>  Climb up the windless wastes of Snow,</l>
+                  <l>  Gold-footed, or thro’ the long-drawn bars</l>
+                  <l>  Of mountain Mist with eyes unblink’d</l>
+                  <l>  And scorn, gaze down on the world below;</l>
+               </lg>
+               <lg>
+                  <l>Or high on the topmost Peak and end</l>
+                  <l>  Of ranges stand with sudden blaze,</l>
+                  <l>  Like Angels born in spontaneous birth;</l>
+                  <l>  Or wrap themselves in flame and descend</l>
+                  <l>  Between black foreheads of Rock in haze,</l>
+                  <l>  Slowly like grieved gods to earth.</l>
+               </lg>
+               <lg>
+                  <l>And there for ever the patient Wind</l>
+                  <l>  Rakes up the crystals of dry Snow,</l>
+                  <l>  And mourns for ever her work undone;</l>
+                  <l>  And there for ever, like Titans blind</l>
+                  <l>  Their countenance lifting to Heaven’s glow,</l>
+                  <l>  The sightless Mountains yearn for the Sun.</l>
+               </lg>
+               <lg>
+                  <l>There nightly the numbed Eagle quells</l>
+                  <l>  (Full-feathered to his feet of horn)</l>
+                  <l>  His swooning eye, his eyrie won,</l>
+                  <l>  And slumbers, frozen by frosty spells</l>
+                  <l>  Fast to the pinnacle; but at Morn</l>
+                  <l>  Unfettered, leaps toward the Sun.</l>
+               </lg>
+               <lg>
+                  <l>He heard, he saw. Not to the air</l>
+                  <l>  Dared breathe a breath; but with his sight</l>
+                  <l>  Wreak’d on Immortals mortal wrong,</l>
+                  <l>  And dared to see them as they were—</l>
+                  <l>  The black Peaks blacken’d in Their light,</l>
+                  <l>  The white Stars flashing with Their song.</l>
+               </lg>
+               <lg>
+                  <l>So fled. But when revealing Morn</l>
+                  <l>  Show’d him descended, Giant grown,</l>
+                  <l>  Men ant-like, petty, mean and weak,</l>
+                  <l>  He rush’d returning. Then in scorn</l>
+                  <l>  Th’ Immortals smote him to a Stone</l>
+                  <l>  That aches for ever on the Peak.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Ocean and the Rock</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi rend="italic">The Rock.</hi>       Cease, O rude and raging Sea,</l>
+                  <l>Thus to waste thy war on me.</l>
+                  <l>Hast thou not enough assail’d</l>
+                  <l>All these ages, Fool, and fail’d?</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">The Ocean.</hi>       Gaunt and ghastly Skeleton,</l>
+                  <l>  Remnant of a time that’s gone,</l>
+                  <l>  Tott’ring in thy last decay</l>
+                  <l>  Durst thou still to darken day?</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">The Rock.</hi>        Empty Brawler brawl no more;</l>
+                  <l>  Cease to waste thy watery war</l>
+                  <l>  On my bastion’d Bases broad,</l>
+                  <l>  Sanctified by Time and God.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">The Ocean.</hi>       Thou that beëst but to be,</l>
+                  <l>  Scornest thou my Energy?</l>
+                  <l>  Not much longer lasts the strife.</l>
+                  <l>  I am Labour, I am Life.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">The Rock.</hi>        Roar then, roar, and vent thy Surge;</l>
+                  <l>  Thou not now shalt drone my dirge.</l>
+                  <l>  Dost imagine to dismay</l>
+                  <l>  This my iron breast with Spray?</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">The Ocean.</hi>       Relic of primaeval slime,</l>
+                  <l>  I shall whelm thee in my time.</l>
+                  <l>  Changeless thou dost ever die;</l>
+                  <l>  Changing but immortal, I.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Death and Love</hi>
+               </head>
+               <lg>
+                  <l>Death, pacing between a ghastly Moon</l>
+                  <l>Dying low down on the western Hills</l>
+                  <l>And the Star, bright usher of the Morn,</l>
+                  <l>The clear Dawn cryophor,</l>
+               </lg>
+               <lg>
+                  <l>Trod frosty footprints in the dew</l>
+                  <l>  Upon a ridge; and beholding there</l>
+                  <l>  A lovely Lady lain below</l>
+                  <l>  His tingling Arrow sped—</l>
+               </lg>
+               <lg>
+                  <l>A Barb with a burning icicle tip’d,</l>
+                  <l>  Torn from the frore beard of the Northern Star</l>
+                  <l>  That stares on the shuddering pyramids</l>
+                  <l>  Of crumbling Arctic ice.</l>
+               </lg>
+               <lg>
+                  <l>With his Arrow he smote her and cried,</l>
+                  <l>  ‘Come not here!</l>
+                  <l>  Not here will I bear thee. This is My world—</l>
+                  <l>  The world of Death where Beauty dies,</l>
+                  <l>  And I, I Death am god.’</l>
+               </lg>
+               <lg>
+                  <l>She sobbing arose, and sobbing sank;</l>
+                  <l>  And would have perish’d, but Love that way</l>
+                  <l>  Fell like a flame, and supported her</l>
+                  <l>  And warm’d her dying hands;</l>
+               </lg>
+               <lg>
+                  <l>And said to him, ‘Fool, the touch of thy barb</l>
+                  <l>  Is poison that I can poison with Love;</l>
+                  <l>  For as thou art Death unto all the world,</l>
+                  <l>  Even so am I Death to thee.’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Calypso to Ulysses</hi>
+               </head>
+               <lg>
+                  <l>’ ’’’ ’’’ ’’’</l>
+                  <l>’ ’’’ ’’’ ’’</l>
+               </lg>
+               <lg>
+                  <l>Go, go from me sorrowful Wanderer—</l>
+                  <l>  Go, go from me, tho’ no Man dearer</l>
+                  <l>  Than thou art. The Stars will revisit me,</l>
+                  <l>  And Thou not forget me O Ocean.</l>
+               </lg>
+               <lg>
+                  <l>Alone here, alone in my Solitude</l>
+                  <l>  I’ll sit by the Ocean for ever,</l>
+                  <l>  And mourn for the Hero so lost to me—</l>
+                  <l>  So loved by me, Lost, and no omen.</l>
+               </lg>
+               <lg>
+                  <l>Monotonous Waters shall sing to me;</l>
+                  <l>  Shall sigh to me, sing of my Hero.</l>
+                  <l>  Immortal like me is my Misery,</l>
+                  <l>  And when will my Sorrow grow older.</l>
+               </lg>
+               <lg>
+                  <l>Immortal like me is my Love for thee;</l>
+                  <l>  But mortal like thee, alas, thine is.</l>
+                  <l>  I have no enchantment to quicken thee,</l>
+                  <l>  Nor thou to console me with Death.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Star and the Sun</hi>
+               </head>
+               <lg>
+                  <l>In Darkness and pacing the thunder-beat Shore</l>
+                  <l>By many Waves,</l>
+                  <l>No sound being near to me there but the hoarse</l>
+                  <l>Cicala’s cry,</l>
+                  <l>While that unseen Sword, the Zodiacal Light,</l>
+                  <l>Falchion of Dawn,</l>
+                  <l>Made clear all the Orient and wanner the Silvery Stars,</l>
+               </lg>
+               <lg>
+                  <l>I heard the fine flute of the Fast Fading Fire,</l>
+                  <l>  The Morning Star,</l>
+                  <l>  Pipe thus to the Glimmering Glories of Night,</l>
+                  <l>  And sing, ‘O World,</l>
+                  <l>  If I even leave thee then Who can remain?’</l>
+                  <l>  But from the Deep</l>
+                  <l>  The Thundering Sun upsprang, and replied, ‘Even I.’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Poet’s Retirement</hi>
+               </head>
+               <lg>
+                  <l>Down from that blithe Idalian Hill</l>
+                  <l>Where Violets drink of dew their fill,</l>
+                  <l>And wading thro’ wet eastern Flowers</l>
+                  <l>With wash’d feet Eos and the Hours</l>
+                  <l>Come laughing down, I laughing came.</l>
+               </lg>
+               <lg>
+                  <l>The Morn had now her threads of flame</l>
+                  <l>  Inlaid to Earth’s green tapestries,</l>
+                  <l>  Gold-inwoven; and to their knees</l>
+                  <l>  In chilly baths of thridding rills</l>
+                  <l>  At tremble stood luce Daffodils;</l>
+                  <l>  When lo I mark’d toward me move</l>
+                  <l>  Those Maidens Three whom poets love.</l>
+                  <l>  ‘O whither away, rash Youth,’ they cried,</l>
+                  <l>  ‘Singing thro’ daffodils dost thou stride?’</l>
+                  <l>  ‘Ladies, I wander for a while’—</l>
+                  <l>  And here I duck’d and doff’d in style—</l>
+                  <l>  ‘I wander by Bourn, I wander by Byre,</l>
+                  <l>  By Cape and Cote and Castle Spire,</l>
+                  <l>  And sometime stick in puddled Mire;</l>
+                  <l>  Or where the shrieking moon-drawn Tides</l>
+                  <l>  Drench dripping jags on Mountain sides;</l>
+                  <l>  Or twanging strings sound gay reprieve</l>
+                  <l>  To smoky Villages at eve,</l>
+                  <l>  The while toward their wattled home</l>
+                  <l>  The baaing Sheep do go, I roam,</l>
+                  <l>  And when the paddock’d Ass careers</l>
+                  <l>  Mirthful, with high prick’d tail and ears.</l>
+                  <l>  And I have left behind me there</l>
+                  <l>  My Hippocrate teaching the air;</l>
+                  <l>  And Learning prim; and Venus too</l>
+                  <l>  Now whipping Cupid with her shoe.’</l>
+                  <l>  Then, of those slipper’d Maidens, She</l>
+                  <l>  Robed in flush rose red answer’d me,</l>
+                  <l>  Who brightly gazing with mild look</l>
+                  <l>  Held still a finger-parted book.</l>
+                  <l>  ‘Come then,’ she cried, ‘with me and dwell</l>
+                  <l>  In my Valley of Asphodel,</l>
+                  <l>  Which is a land of laughing rills</l>
+                  <l>  And hung about with dazzling hills,</l>
+                  <l>  Where oft the Swain with garter’d legs</l>
+                  <l>  Piping for love in music begs</l>
+                  <l>  Nor Thisbe turns her petulant ear.</l>
+                  <l>  There large-eyed Plato thou may’st here</l>
+                  <l>  Persuade, or, if not idly awed,</l>
+                  <l>  Masters a Master’s theme applaud.</l>
+                  <l>  Or if the Thunder more invite</l>
+                  <l>  Than silver-threaded rain’s delight</l>
+                  <l>  And sloping seats of knolled moss,</l>
+                  <l>  Come where some thwarted Torrent toss</l>
+                  <l>  Thro’ his black gorges, mad to break</l>
+                  <l>  The shining levels of the Lake.</l>
+                  <l>  Or, if engross’d with human Fate,</l>
+                  <l>  On ranged boards mark Love and Hate</l>
+                  <l>  Egg on to midnight-living crime,</l>
+                  <l>  And glaring Horrors of dead time</l>
+                  <l>  Creep in behind. Or, restive still,</l>
+                  <l>  Unlock’d from Hell soar Heaven’s hill</l>
+                  <l>  Thro’ sun-outstaring Cherubim.’</l>
+               </lg>
+               <lg>
+                  <l>‘Not so,’ cried one, a Virgin slim,</l>
+                  <l>  Plumed, wrap’d and robed in such gold-green</l>
+                  <l>  As thro’ woods sunset-dazed is seen,</l>
+                  <l>  Who half upon her dinted breast</l>
+                  <l>  Apollo sculpt in little press’d.</l>
+                  <l>  ‘Come to my House of all delights,</l>
+                  <l>  Whose marble Stairs with merged flights</l>
+                  <l>  Are shallow’d in the viewless Lake;</l>
+                  <l>  Whose overpeering Turrets take</l>
+                  <l>  The peep of Dawn, or flashing turn</l>
+                  <l>  To Eve departing golden scorn.</l>
+                  <l>  There fairy-fluted pillars soar</l>
+                  <l>  To cloudy Roofs of limned lore,</l>
+                  <l>  And Walls are window’d with rare scapes</l>
+                  <l>  And rich designs: of blazon’d Capes</l>
+                  <l>  Pawing the sunset-burnish’d flood;</l>
+                  <l>  Of rib-railed reaches of Solitude;</l>
+                  <l>  Of rounded World and globed Skies,</l>
+                  <l>  And Stars between, and faint Moonrise;</l>
+                  <l>  Of black Tarns set mid mountain peaks</l>
+                  <l>  And spouting silver-foamed leaks;</l>
+                  <l>  Of Gods reclined, and Maids who move,</l>
+                  <l>  Unlidding lustrous eyes of love;</l>
+                  <l>  Of War; of Wisdom with a skull.</l>
+                  <l>  And in the high aisles Fountains full</l>
+                  <l>  Disperse a stream of coolness there</l>
+                  <l>  For frosted fern and maidenhair,</l>
+                  <l>  And sculptured beauty hold the way.</l>
+                  <l>  So thither go with me to-day.’</l>
+               </lg>
+               <lg>
+                  <l>Then She who all in purple dight,</l>
+                  <l>  Brow-starr’d with orbed ruby light,</l>
+                  <l>  Lifted from under rich deep locks</l>
+                  <l>  Looks wrapt on Heaven, to earthly shocks</l>
+                  <l>  Descending, thus replied: ‘Not these</l>
+                  <l>  Flat hapless lands of Towers and Trees</l>
+                  <l>  May past the morn your spirit please.</l>
+                  <l>  But to some cold Crag, doffing drifts,</l>
+                  <l>  His cleared brow that Heavenward lifts,</l>
+                  <l>  And turns beneath the mistless Stars,</l>
+                  <l>  Come. There no dew distilled mars</l>
+                  <l>  The many hued Sidereal blaze,</l>
+                  <l>  And mooned Venus in white rage</l>
+                  <l>  Stares down the Dawn. Come; for that Glow</l>
+                  <l>  There solves to unpolluted flow</l>
+                  <l>  The crumbling crystals of the Snow;</l>
+                  <l>  And windworn Cataracts wavering plunge</l>
+                  <l>  To lightless pine-valleys. Come, O come!</l>
+                  <l>  Lest those faint Harmonies be unheard</l>
+                  <l>  Which, as from silver and gold strings stir’d</l>
+                  <l>  By the light fingers of the Wind,</l>
+                  <l>  Run from the poised orbs swiftly spin’d.’</l>
+                  <l>  She ceased, and with her finger tip</l>
+                  <l>  Made sound the lyre upon her hip,</l>
+                  <l>  And would have sung; but I replied,</l>
+                  <l>  ‘To be unchosen is descried;</l>
+                  <l>  And we shall be made mad in Heaven</l>
+                  <l>  By need of choice of good things given.</l>
+                  <l>  I love all Three so passing well</l>
+                  <l>  Which I love best I cannot tell.</l>
+                  <l>  Alas!’—I cried, but checked the word,</l>
+                  <l>  For close behind a footstep heard</l>
+                  <l>  Compel’d me turn; when lo that Maid,</l>
+                  <l>  Dress’d in black velvet, who bewray’d</l>
+                  <l>  Plump Popes and Pastors once to fear,</l>
+                  <l>  Came up and took me by the ear.</l>
+                  <l>  ‘Is this the way,’ she cried, ‘you waste</l>
+                  <l>  Time should be spent in huddling haste</l>
+                  <l>  To harry Ignorance to her den,</l>
+                  <l>  Or pink fat Folly with the pen?</l>
+                  <l>  Small unobserved things to use,</l>
+                  <l>  Each with its little mite of news,</l>
+                  <l>  To build that sheer hypothesis</l>
+                  <l>  Whose base on righteous Reason is,</l>
+                  <l>  Whose point among the Stars. For shame!</l>
+                  <l>  Enough the seeming-serious game.</l>
+                  <l>  But search the Depths; and for thy meed,</l>
+                  <l>  A place among the men indeed.’</l>
+               </lg>
+               <div type="div3">
+                  <head>PRINTED BY<lb/>C. TINLING AND CO., LIMITED,<lb/>53 VICTORIA STREET, LIVERPOOL<lb/>
+                  </head>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

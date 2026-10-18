@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Review of Algebra</title>
+            <author>Romeyn Henry Rivenburg</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T19:40:55Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/r/RivenburgRomeynHenry-AReviewOfAlgebra_2012.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Romeyn Henry Rivenburg</name>
+               <date>2024-01-04T19:40:55Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>A Review of Algebra</head>
+         <author>Romeyn Henry Rivenburg</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/r/RivenburgRomeynHenry-AReviewOfAlgebra_2012.odt</p>
+         <head>A REVIEW OF ALGEBRA</head>
+         <subtitle>BY</subtitle>
+         <pb/>
+         <div type="div1">
+            <head>A Review of Algebra</head>
+            <pb/>
+            <div type="div2">
+               <head>ROMEYN HENRY RIVENBURG, A.M.</head>
+               <p rend="justify">HEAD OF THE DEPARTMENT OF MATHEMATICS<lb/>THE PEDDIE INSTITUTE, HIGHTSTOWN, N.J.</p>
+               <p rend="justify">American Book Company Logo</p>
+               <p rend="justify">AMERICAN BOOK COMPANY<lb/>NEW YORK     CINCINNATI     CHICAGO</p>
+               <p rend="justify">Copyright, 1914,<lb/>By ROMEYN H. RIVENBURG.</p>
+               <p rend="justify">Copyright, 1914, in Great Britain.</p>
+               <p rend="justify">A REVIEW OF ALGEBRA.</p>
+               <p rend="justify">E. P. 6</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PREFACE</head>
+               <p rend="justify">In most high schools the course in Elementary Algebra is finished by the end of the second year. By the senior year, most students have forgotten many of the principles, and a thorough review is necessary in order to prepare college candidates for the entrance examinations and for effective work in the freshman year in college. Recognizing this need, many schools are devoting at least two periods a week for part of the senior year to a review of algebra.</p>
+               <p rend="justify">For such a review the regular textbook is inadequate. From an embarrassment of riches the teacher finds it laborious to select the proper examples, while the student wastes time in searching for scattered assignments. The object of this book is to conserve the time and effort of both teacher and student, by providing a thorough and effective review that can readily be completed, if need be, in two periods a week for a half year.</p>
+               <p rend="justify">Each student is expected to use his regular textbook in algebra for reference, as he would use a dictionary,—to recall a definition, a rule, or a process that he has forgotten. He should be encouraged to <hi rend="italic">think</hi>  his way out wherever possible, however, and to refer to the textbook only when <hi rend="italic">forced</hi>  to do so as a last resort.</p>
+               <p rend="justify">  The definitions given in the General Outline should be reviewed as occasion arises for their use. The whole Outline can be profitably employed for rapid class reviews, by covering the part of the Outline that indicates the answer, the method, the example, or the formula, as the case may be.</p>
+               <p rend="justify">The whole scheme of the book is ordinarily to have a page of problems represent a day's work. This, of course, does not apply to the Outlines or the few pages of theory, which can be covered more rapidly. By this plan, making only a part of the omissions indicated in the next paragraph, the essentials of the algebra can be readily covered, if need be, in from thirty to thirty-two lessons, thus leaving time for tests, even if only eighteen weeks, of two periods each, are allotted to the course.</p>
+               <p rend="justify">If a brief course is desired, the Miscellaneous Examples (pp. 31 to 35, 50 to 52), many of the problems at the end of the book, and the College Entrance Examinations may be omitted without marring the continuity or the comprehensiveness of the review.</p>
+               <p rend="justify"> ROMEYN H. RIVENBURG.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CONTENTS</head>
+               <list rend="bulleted">
+                  <item>  PAGES</item>
+                  <item>Outline of Elementary and Intermediate Algebra 7-13</item>
+                  <item>Order of Operations, Evaluation, Parentheses 14</item>
+                  <item>Special Rules of Multiplication and Division 15</item>
+                  <item>Cases in Factoring 16, 17</item>
+                  <item>Factoring 18</item>
+                  <item>Highest Common Factor and Lowest Common Multiple 19</item>
+                  <item>Fractions 20</item>
+                  <item>Complex Fractions and Fractional Equations 21, 22</item>
+                  <item>Simultaneous Equations and Involution 23, 24</item>
+                  <item>Square Root 25</item>
+                  <item>Theory of Exponents 26-28</item>
+                  <item>Radicals 29, 30</item>
+                  <item>Miscellaneous Examples, Algebra to Quadratics 31-35</item>
+                  <item>Quadratic Equations 36, 37</item>
+                  <item>The Theory of Quadratic Equations 38-41</item>
+                  <item>Outline of Simultaneous Quadratics 42, 43</item>
+                  <item>Simultaneous Quadratics 44</item>
+                  <item>Ratio and Proportion 45, 46</item>
+                  <item>Arithmetical Progression 47</item>
+                  <item>Geometrical Progression 48</item>
+                  <item>The Binomial Theorem 49</item>
+                  <item>Miscellaneous Examples, Quadratics and Beyond 50-52</item>
+                  <item>Problems—Linear Equations, Simultaneous Equations,<lb/>Problems—Quadratic Equations, Simultaneous Quadratics 53-57</item>
+                  <item>College Entrance Examinations 58-80</item>
+               </list>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>OUTLINE OF ELEMENTARY AND INTERMEDIATE ALGEBRA</head>
+               <p rend="justify">
+                  <hi rend="bold">Important Definitions</hi>
+               </p>
+               <p rend="justify">Factors; coefficient; exponent; power; base; term; algebraic sum; similar terms; degree; homogeneous expression; linear equation; root of an equation; root of an expression; identity; conditional equation; prime quantity; highest common factor (H. C. F.); lowest common multiple (L. C. M.); involution; evolution; imaginary number; real number; rational; similar radicals; binomial surd; pure quadratic equation; affected quadratic equation; equation in the quadratic form; simultaneous linear equations; simultaneous quadratic equations; discriminant; symmetrical expression; ratio; proportion; fourth proportional; third proportional; mean proportional; arithmetic progression; geometric progression; </p>
+               <p rend="justify">
+                  <hi rend="bold">Special Rules for Multiplication and Division</hi>
+               </p>
+               <p rend="justify">1. Square of the sum of two quantities.</p>
+               <p rend="justify">2. Square of the difference of two quantities.</p>
+               <p rend="justify">3. Product of the sum and difference of two quantities.</p>
+               <p rend="justify">4. Product of two binomials having a common term.</p>
+               <p rend="justify">  5. Product of two binomials whose corresponding terms are similar.</p>
+               <p rend="justify">6. Square of a polynomial.</p>
+               <p rend="justify">7. Sum of two cubes.</p>
+               <p rend="justify">8. Difference of two cubes.</p>
+               <p rend="justify">9. Sum or difference of two like powers.</p>
+               <p rend="justify">
+                  <hi rend="bold">Cases in Factoring</hi>
+               </p>
+               <p rend="justify">1. Common monomial factor.</p>
+               <p rend="justify">2. Trinomial that is a perfect square.</p>
+               <p rend="justify">3. The difference of two squares.</p>
+               <p rend="justify">(a) Two terms.</p>
+               <p rend="justify">(b) Four terms.</p>
+               <p rend="justify">(c) Six terms.</p>
+               <p rend="justify">(d) Incomplete square.</p>
+               <p rend="justify">4. Trinomial of the form </p>
+               <p rend="justify">5. Trinomial of the form </p>
+               <p rend="justify">6. Sum or difference of</p>
+               <list rend="bulleted">
+                  <item>two cubes. See "Special Rules," 7 and 8.</item>
+                  <item>two like powers. See "Special Rules," 9.</item>
+               </list>
+               <p rend="justify">7. Common polynomial factor. Grouping.</p>
+               <p rend="justify">8. Factor Theorem.</p>
+               <p rend="justify">
+                  <hi rend="bold">H. C. F. and L. C. M.</hi>
+               </p>
+               <p rend="justify">H. C. F. </p>
+               <p rend="justify">L. C. M. </p>
+               <p rend="justify">
+                  <hi rend="bold">Fractions</hi>
+               </p>
+               <p rend="justify">Reduction to lowest terms.</p>
+               <p rend="justify">Reduction of a mixed number to an improper fraction.</p>
+               <p rend="justify">Reduction of an improper fraction to a mixed number.</p>
+               <p rend="justify">Addition and subtraction of fractions.</p>
+               <p rend="justify">Multiplication and division of fractions.</p>
+               <lg>
+                  <l>Law of signs in division, changing signs of factors, etc.</l>
+                  <l>Complex fractions.</l>
+                  <l>
+                     <hi rend="bold">Simultaneous Equations</hi>
+                  </l>
+                  <l>Solved by</l>
+               </lg>
+               <list rend="bulleted">
+                  <item>addition or subtraction.</item>
+                  <item>substitution.</item>
+                  <item>comparison.</item>
+               </list>
+               <p rend="justify">Graphical representation.</p>
+               <p rend="justify">
+                  <hi rend="bold">Involution</hi>
+               </p>
+               <p rend="justify">Law of signs.</p>
+               <p rend="justify">Binomial theorem laws.</p>
+               <p rend="justify">Expansion of</p>
+               <list rend="bulleted">
+                  <item>monomials and fractions.</item>
+                  <item>binomials.</item>
+                  <item>trinomials.</item>
+               </list>
+               <p rend="justify">
+                  <hi rend="bold">Evolution</hi>
+               </p>
+               <p rend="justify">Law of signs.</p>
+               <p rend="justify">Evolution of monomials and fractions.</p>
+               <p rend="justify">Square root of algebraic expressions.</p>
+               <p rend="justify">Square root of arithmetical numbers.</p>
+               <p rend="justify">Optional</p>
+               <list rend="bulleted">
+                  <item>Cube root of algebraic expressions.</item>
+                  <item>Cube root of arithmetical numbers.</item>
+               </list>
+               <p rend="justify">
+                  <hi rend="bold">Theory of Exponents</hi>
+               </p>
+               <p rend="justify">Proofs: </p>
+               <p rend="justify">Meaning of</p>
+               <list rend="bulleted">
+                  <item>fractional exponent.</item>
+                  <item>zero exponent.</item>
+                  <item>negative exponent.</item>
+               </list>
+               <p rend="justify">Four rules</p>
+               <list rend="bulleted">
+                  <item>To multiply quantities having the same base, add exponents.</item>
+                  <item>To divide quantities having the same base, subtract exponents.</item>
+                  <item>To raise to a power, multiply exponents.</item>
+                  <item>To extract a root, divide the exponent of the power by the index of the root.</item>
+               </list>
+               <p rend="justify">
+                  <hi rend="bold">Radicals</hi>
+               </p>
+               <p rend="justify">Radical in its simplest form.</p>
+               <p rend="justify">Transformation of radicals</p>
+               <list rend="bulleted">
+                  <item>Fraction under the radical sign.</item>
+                  <item>Reduction to an entire surd.</item>
+                  <item>Changing to surds of different order.</item>
+                  <item>Reduction to simplest form.</item>
+               </list>
+               <p rend="justify">Addition and subtraction of radicals.</p>
+               <p rend="justify">  Multiplication and division of radicals</p>
+               <p rend="justify">Rationalization</p>
+               <list rend="bulleted">
+                  <item>Monomial denominator.</item>
+                  <item>Binomial denominator.</item>
+                  <item>Trinomial denominator.</item>
+               </list>
+               <p rend="justify">Square root of a binomial surd.</p>
+               <p rend="justify">Radical equations. <hi rend="italic">Always</hi>  check results to avoid extraneous roots.</p>
+               <p rend="justify">
+                  <hi rend="bold">Quadratic Equations</hi>
+               </p>
+               <p rend="justify">Pure. </p>
+               <p rend="justify">Affected. </p>
+               <p rend="justify">Methods of solving</p>
+               <list rend="bulleted">
+                  <item>Completing the square.</item>
+                  <item>Formula. Developed from </item>
+                  <item>Factoring.</item>
+               </list>
+               <p rend="justify">Equations in the quadratic form.</p>
+               <p rend="justify">Properties of quadratics</p>
+               <list rend="bulleted">
+                  <item>
+                     <lb/>
+                     <lb/>
+                     <lb/>
+                  </item>
+                  <item>Then </item>
+                  <item>Discriminant, and its discussion.</item>
+                  <item>Nature or character of the roots.</item>
+               </list>
+               <p rend="justify">
+                  <hi rend="bold">Simultaneous Quadratics</hi>
+               </p>
+               <p rend="justify">Case I.</p>
+               <p rend="justify">One equation linear.</p>
+               <p rend="justify">The other quadratic.</p>
+               <p rend="justify">Case II.</p>
+               <p rend="justify">Both equations homogeneous and of the second degree.</p>
+               <p rend="justify">Case III.</p>
+               <p rend="justify">Any two of the quantities etc., given.</p>
+               <p rend="justify">Case IV.</p>
+               <p rend="justify">Both equations symmetrical or symmetrical except for sign. Usually one equation of high degree, the other of the first degree.</p>
+               <lg>
+                  <l>Case V. Special Devices</l>
+                  <l>I. Solve for a compound unknown, like etc., first.</l>
+               </lg>
+               <lg>
+                  <l>II. Divide the equations, member by member.</l>
+               </lg>
+               <lg>
+                  <l>III. Eliminate the quadratic terms.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="bold">Ratio and Proportion</hi>
+                  </l>
+                  <l>Proportionals</l>
+               </lg>
+               <list rend="bulleted">
+                  <item>mean,</item>
+                  <item>third,</item>
+                  <item>fourth.</item>
+               </list>
+               <p rend="justify">Theorems</p>
+               <list rend="numbered">
+                  <item>Product of means equals product of extremes.</item>
+                  <item>If the product of two numbers equals the product of two other numbers, either pair, etc.</item>
+                  <item>Alternation.</item>
+                  <item>Inversion.</item>
+                  <item>Composition.</item>
+                  <item>Division.</item>
+                  <item>Composition and division.</item>
+                  <item>In a series of equal ratios, the sum of the antecedents is to the sum of the consequents as any antecedent, etc.</item>
+               </list>
+               <p rend="justify">Special method of proving four quantities in proportion. Let etc.</p>
+               <p rend="justify">
+                  <hi rend="bold">Progressions</hi>
+               </p>
+               <p rend="justify">Development of formulas.</p>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell/>
+                     <cell/>
+                  </row>
+               </table>
+               <p rend="justify">Insertion of means</p>
+               <list rend="bulleted">
+                  <item>Arithmetical.</item>
+                  <item>Geometrical.</item>
+               </list>
+               <p rend="justify">
+                  <hi rend="bold">Binomial Theorem</hi>
+               </p>
+               <p rend="justify">Review of binomial theorem laws. See Involution.</p>
+               <p rend="justify">Expansion of </p>
+               <p rend="justify">Finding any term by</p>
+               <list rend="bulleted">
+                  <item>key number method.</item>
+                  <item>or term method.</item>
+               </list>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A REVIEW OF ALGEBRA</head>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ORDER OF OPERATIONS, EVALUATION, PARENTHESES</head>
+               <p rend="justify">Order of operations:</p>
+               <p rend="justify">First of all, raising to a power and extracting a root.</p>
+               <p rend="justify">Next, multiplication and division.</p>
+               <p rend="justify">Last of all, addition and subtraction.</p>
+               <p rend="justify">Find the value of:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">Evaluate:</p>
+               <p rend="justify">4. if </p>
+               <p rend="justify">5. if </p>
+               <p rend="justify">6. if </p>
+               <p rend="justify">7. if (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">Simplify:</p>
+               <p rend="justify">8. </p>
+               <p rend="justify">9. </p>
+               <p rend="justify">10. </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SPECIAL RULES OF MULTIPLICATION AND DIVISION</head>
+               <p rend="justify">Give results by inspection:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. </p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. </p>
+               <p rend="justify">7. </p>
+               <p rend="justify">8. </p>
+               <p rend="justify">9. </p>
+               <p rend="justify">10. </p>
+               <p rend="justify">11. </p>
+               <p rend="justify">12. </p>
+               <p rend="justify">13. </p>
+               <p rend="justify">14. </p>
+               <p rend="justify">15. </p>
+               <p rend="justify">16. </p>
+               <p rend="justify">17. </p>
+               <p rend="justify">18. </p>
+               <p rend="justify">19. </p>
+               <p rend="justify">20. </p>
+               <p rend="justify">21. </p>
+               <p rend="justify">22. </p>
+               <p rend="justify">23. </p>
+               <p rend="justify">
+                  <hi rend="bold">References:</hi>  The chapter on Special Rules of Multiplication and Division in any algebra.</p>
+               <p rend="justify">
+                  <hi rend="bold">References:</hi>  Special Rules of Multiplication and Division in the Outline in the front of the book.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CASES IN FACTORING</head>
+               <p rend="justify">The number of terms in an expression usually gives the clue to the possible cases under which it may come. By applying the <hi rend="italic">test</hi> for each and eliminating the <hi rend="italic">possible</hi> cases one by one, the right case is readily found. Hence, the number of terms in the expression and a ready and accurate knowledge of the Cases in Factoring are the real keys to success in this vitally important part of algebra.</p>
+               <p rend="justify">Case I. A common monomial factor. Applies to any number of terms.</p>
+               <p rend="justify">Case II. A trinomial that is a perfect square. Three terms.</p>
+               <p rend="justify">Case III. The difference of two squares.</p>
+               <p rend="justify">
+                  <hi rend="italic">A.</hi>  Two terms.</p>
+               <p rend="justify">
+                  <hi rend="italic">B.</hi>  Four terms.</p>
+               <p rend="justify">
+                  <hi rend="italic">C.</hi>  Six terms.</p>
+               <p rend="justify">
+                  <hi rend="italic">D.</hi>  An incomplete square. Three terms, and 4th powers or multiples of 4.</p>
+               <p rend="justify">Case IV. A trinomial of the form Three terms.</p>
+               <p rend="justify">Case V. A trinomial of the form Three terms.</p>
+               <p rend="justify">Case VI.</p>
+               <p rend="justify">
+                  <hi rend="italic">A.</hi>  The sum or difference of two cubes. Two terms.</p>
+               <lg>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">B.</hi>  The sum or difference of two like powers. Two terms.</p>
+               <lg>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify">Case VII. A common polynomial factor. Any <hi rend="italic">composite</hi>  number of terms.</p>
+               <p rend="justify">Case VIII. The Factor Theorem. Any number of terms.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FACTORING</head>
+               <p rend="justify">Review the <hi rend="italic">Cases in Factoring</hi> (see Outline on preceding pages) and write out the prime factors of the following:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. </p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. (Five factors.)</p>
+               <p rend="justify">7. </p>
+               <p rend="justify">8. </p>
+               <p rend="justify">9. </p>
+               <p rend="justify">10. </p>
+               <p rend="justify">11. </p>
+               <p rend="justify">12. </p>
+               <p rend="justify">13. </p>
+               <p rend="justify">14. </p>
+               <p rend="justify">15. </p>
+               <p rend="justify">16. </p>
+               <p rend="justify">17. </p>
+               <p rend="justify">18. </p>
+               <p rend="justify">19. </p>
+               <p rend="justify">20. </p>
+               <p rend="justify">21. </p>
+               <p rend="justify">22. </p>
+               <p rend="justify">23. </p>
+               <p rend="justify">24. </p>
+               <p rend="justify">25. </p>
+               <p rend="justify">26. (<hi rend="italic">M. I. T.</hi>)</p>
+               <p rend="justify">27. (<hi rend="italic">Princeton.</hi>)</p>
+               <p rend="justify">28. (<hi rend="italic">M. I. T.</hi>)</p>
+               <p rend="justify">Solve by factoring:</p>
+               <p rend="justify">29. </p>
+               <p rend="justify">30. </p>
+               <p rend="justify">31. </p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Factoring in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HIGHEST COMMON FACTOR AND LOWEST COMMON MULTIPLE</head>
+               <p rend="justify">Define H. C. F. and L. C. M.</p>
+               <p rend="justify">Find by factoring the H. C. F. and L. C. M.:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. (<hi rend="italic">Harvard.</hi>)</p>
+               <p rend="justify">3. (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">4. (<hi rend="italic">Cornell.</hi>)</p>
+               <p rend="justify">5. (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">6. (<hi rend="italic">Harvard.</hi>)</p>
+               <p rend="justify">7. (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">8. </p>
+               <p rend="justify">Pick out the H. C. F. and the L. C. M. of the following:</p>
+               <p rend="justify">9. </p>
+               <p rend="justify">10. </p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on H. C. F. and L. C. M. in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FRACTIONS</head>
+               <p rend="justify">Define: fraction, terms of a fraction, reciprocal of a number.</p>
+               <p rend="justify">Look up <hi rend="italic">the law of signs</hi>  as it applies to fractions. Except for this, fractions in algebra are treated exactly the same as they are in arithmetic.</p>
+               <p rend="justify">1. Reduce to lowest terms:</p>
+               <p rend="justify">1. (<hi rend="italic">a</hi>)</p>
+               <p rend="justify">1. (<hi rend="italic">b</hi>)</p>
+               <p rend="justify">1. (<hi rend="italic">c</hi>) (<hi rend="italic">M. I. T.</hi>)</p>
+               <p rend="justify">2. Reduce to a mixed expression:</p>
+               <p rend="justify">2. (<hi rend="italic">a</hi>)</p>
+               <p rend="justify">2. (<hi rend="italic">b</hi>)</p>
+               <p rend="justify">3. Reduce to an improper fraction:</p>
+               <p rend="justify">3. (<hi rend="italic">a</hi>)</p>
+               <p rend="justify">3. (<hi rend="italic">b</hi>) qt.;</p>
+               <p rend="justify">3. (<hi rend="italic">c</hi>)</p>
+               <p rend="justify">Add:</p>
+               <p rend="justify">4. </p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. </p>
+               <p rend="justify">Multiply:</p>
+               <p rend="justify">7. </p>
+               <p rend="justify">8. </p>
+               <p rend="justify">Divide:</p>
+               <p rend="justify">9. </p>
+               <p rend="justify">10. (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">11. (<hi rend="italic">Sheffield.</hi>)</p>
+               <p rend="justify">Simplify:</p>
+               <p rend="justify">12. </p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Fractions in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>COMPLEX FRACTIONS AND FRACTIONAL EQUATIONS</head>
+               <p rend="justify">Define a complex fraction.</p>
+               <p rend="justify">Simplify:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. (<hi rend="italic">Harvard.</hi>)</p>
+               <p rend="justify">5. If what is the value of ? (<hi rend="italic">Univ. of Penn.</hi>)</p>
+               <p rend="justify">6. Simplify the expression (<hi rend="italic">Cornell.</hi>)</p>
+               <p rend="justify">7. Simplify </p>
+               <p rend="justify">8. Solve </p>
+               <p rend="justify">9. Solve </p>
+               <p rend="justify">10. How much water must be added to 80 pounds of a 5 per cent salt solution to obtain a 4 per cent solution? (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  See Complex Fractions, and the first part of the chapter on Fractional Equations in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FRACTIONAL EQUATIONS</head>
+               <p rend="justify">1. Solve for each letter in turn </p>
+               <p rend="justify">2. Solve and check:</p>
+               <p rend="justify">3. Solve and check:</p>
+               <p rend="justify">4. Solve (after looking up the special <hi rend="italic">short</hi>  method):</p>
+               <p rend="justify">5. Solve by the special <hi rend="italic">short</hi>  method:</p>
+               <p rend="justify">6. At what time between 8 and 9 o'clock are the hands of a watch (<hi rend="italic">a</hi>) opposite each other? (<hi rend="italic">b</hi>) at right angles? (<hi rend="italic">c</hi>) together?</p>
+               <p rend="justify">Work out (<hi rend="italic">a</hi>) and state the equations for (<hi rend="italic">b</hi>) and (<hi rend="italic">c</hi>).</p>
+               <p rend="justify">7. The formula for converting a temperature of <hi rend="italic">F</hi>  degrees Fahrenheit into its equivalent temperature of <hi rend="italic">C</hi>  degrees Centigrade is Express <hi rend="italic">F</hi>  in terms of <hi rend="italic">C</hi>, and compute <hi rend="italic">F</hi>  for the values and (<hi rend="italic">College Entrance Exam. Board.</hi>)</p>
+               <p rend="justify">8. What is the price of eggs when 2 less for 24 cents raises the price 2 cents a dozen? (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">9. Solve </p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The Chapter on Fractional Equations in any algebra. Note particularly the special <hi rend="italic">short</hi>  methods, usually given about the middle of the chapter.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SIMULTANEOUS EQUATIONS</head>
+               <p rend="justify">Note. Up to this point each topic presented has reviewed to some extent the preceding topics. For example, factoring reviews the special rules of multiplication and division; H. C. F. and L. C. M. review factoring; addition and subtraction of fractions and fractional equations review H. C. F. and L. C. M., etc. From this point on, however, the interdependence is not so marked, and miscellaneous examples illustrating the work already covered will be given very frequently in order to keep the whole subject fresh in mind.</p>
+               <p rend="justify">1. Solve by three methods—addition and subtraction, substitution, and comparison:</p>
+               <p rend="justify">Solve and check:</p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. One half of A's marbles exceeds one half of B's and C's together by 2; twice B's marbles falls short of A's and C's together by 16; if C had four more marbles, he would have one fourth as many as A and B together. How many has each? (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">5. The sides of a triangle are <hi rend="italic">a</hi>, <hi rend="italic">b</hi>, <hi rend="italic">c</hi>. Calculate the radii of the three circles having the vertices as centers, each being tangent externally to the other two. (<hi rend="italic">Harvard.</hi>)</p>
+               <p rend="justify">6. Solve graphically; then solve algebraically and compare results. (Use coördinate or squared paper.)</p>
+               <p rend="justify">Factor:</p>
+               <p rend="justify">7. </p>
+               <p rend="justify">8. </p>
+               <p rend="justify">9. </p>
+               <p rend="justify">
+                  <hi rend="bold">References:</hi>  The chapters on Simultaneous Equations and Graphs in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SIMULTANEOUS EQUATIONS AND INVOLUTION</head>
+               <p rend="justify">1. Solve </p>
+               <p rend="justify">1. Look up the method of solving when the unknowns are in the denominator. Should you clear of fractions?</p>
+               <p rend="justify">2. Solve </p>
+               <p rend="justify">3. Solve graphically and algebraically</p>
+               <p rend="justify">4. Solve graphically and algebraically</p>
+               <p rend="justify">Review:</p>
+               <p rend="justify">5. The squares of the numbers from 1 to 25.</p>
+               <p rend="justify">6. The cubes of the numbers from 1 to 12.</p>
+               <p rend="justify">7. The fourth powers of the numbers from 1 to 5.</p>
+               <p rend="justify">8. The fifth powers of the numbers from 1 to 3.</p>
+               <p rend="justify">9. The binomial theorem laws. (See Involution.)</p>
+               <p rend="justify">Expand: (Indicate first, then reduce.)</p>
+               <p rend="justify">10. </p>
+               <p rend="justify">11. </p>
+               <p rend="justify">12. </p>
+               <p rend="justify">13. </p>
+               <p rend="justify">14. A train lost one sixth of its passengers at the first stop, 25 at the second stop, 20% of the remainder at the third stop, three quarters of the remainder at the fourth stop; 25 remain. What was the original number? (<hi rend="italic">M. I. T.</hi>)</p>
+               <p rend="justify">
+                  <hi rend="bold">References:</hi>  The chapter on Involution in any algebra. Also the references on the preceding page.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SQUARE ROOT</head>
+               <p rend="justify">Find the square root of:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. Find the square root to three terms of </p>
+               <p rend="justify">4. Find the square root of 337,561.</p>
+               <p rend="justify">5. Find the square root of 1823.29.</p>
+               <p rend="justify">6. Find to four decimal places the square root of 1.672. (<hi rend="italic">Princeton.</hi>)</p>
+               <p rend="justify">7. Add </p>
+               <p rend="justify">8. Find the value of:</p>
+               <p rend="justify">9. Simplify </p>
+               <p rend="justify">10. Solve by the short method:</p>
+               <p rend="justify">11. It takes of a second for a ball to go from the pitcher to the catcher, and of a second for the catcher to handle it and get off a throw to second base. It is 90 feet from first base to second, and 130 feet from the catcher's position to second. A runner stealing second has a start of 13 feet when the ball leaves the pitcher's hand, and beats the throw to the base by of a second. The next time he tries it, he gets a start of only feet, and is caught by 6 feet. What is his rate of running, and the velocity of the catcher's throw? (<hi rend="italic">Cornell.</hi>)</p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Square Root in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THEORY OF EXPONENTS</head>
+               <p rend="justify">Review the proofs, for positive integral exponents, of:</p>
+               <p rend="justify">I. </p>
+               <p rend="justify">II. </p>
+               <p rend="justify">III. </p>
+               <p rend="justify">IV. </p>
+               <p rend="justify">V. </p>
+               <p rend="justify">VI. </p>
+               <lg>
+                  <l>
+                     <hi rend="bold">To find the meaning of a fractional exponent.</hi>
+                  </l>
+                  <l>Assume that Law I holds for <hi rend="italic">all</hi>  exponents.</l>
+                  <l>If so, </l>
+                  <l>Hence, is <hi rend="italic">one of the three equal factors</hi>  (hence the cube root) of</l>
+               </lg>
+               <lg>
+                  <l>In the same way, </l>
+                  <l>Hence, is <hi rend="italic">one of the five equal factors</hi>  (hence the fifth root) of</l>
+               </lg>
+               <lg>
+                  <l>In the same way, in general, </l>
+               </lg>
+               <p rend="justify">Hence, <hi rend="italic">the numerator of a fractional exponent indicates the power, the denominator indicates the root</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">To find the meaning of a zero exponent.</hi>
+               </p>
+               <p rend="justify">Assume that Law II holds for <hi rend="italic">all</hi>  exponents.</p>
+               <p rend="justify">If so, But by division, </p>
+               <p rend="justify">  Axiom I.</p>
+               <p rend="justify">
+                  <hi rend="bold">To find the meaning of a negative exponent.</hi>
+               </p>
+               <p rend="justify">Assume that Law I holds for <hi rend="italic">all</hi>  exponents.</p>
+               <lg>
+                  <l>If so, </l>
+                  <l>Hence, </l>
+               </lg>
+               <lg>
+                  <l>  Rules:</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">To multiply quantities having the same base, add exponents.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">To divide quantities having the same base, subtract exponents.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">To raise a quantity to a power, multiply exponents.</hi>
+                  </l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">To extract a root, divide the exponent of the power by the index of the root.</hi>
+               </p>
+               <p rend="justify">1. Find the value of </p>
+               <p rend="justify">2. Find the value of </p>
+               <p rend="justify">Give the value of each of the following:</p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. Express as some power of 7 divided by itself.</p>
+               <p rend="justify">Simplify:</p>
+               <p rend="justify">5. (Change to the same base first.)</p>
+               <p rend="justify">6. </p>
+               <p rend="justify">7. </p>
+               <p rend="justify">8. </p>
+               <p rend="justify">9. </p>
+               <p rend="justify">10. </p>
+               <p rend="justify">11. </p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Theory of Exponents in any algebra.</p>
+               <p rend="justify">  Solve for <hi rend="italic">x</hi>:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">Factor:</p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. </p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. </p>
+               <p rend="justify">7. Find the H. C. F. and L. C. M. of</p>
+               <p rend="justify">8. Simplify the product of:</p>
+               <p rend="justify">  and (<hi rend="italic">Princeton.</hi>)</p>
+               <p rend="justify">9. Find the square root of:</p>
+               <p rend="justify">10. Simplify </p>
+               <p rend="justify">11. Find the value of </p>
+               <p rend="justify">12. Express as a power of 2: </p>
+               <p rend="justify">13. Simplify </p>
+               <p rend="justify">14. Simplify </p>
+               <p rend="justify">15. Expand writing the result with fractional exponents.</p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Theory of Exponents in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>RADICALS</head>
+               <p rend="justify">1. Review all definitions in Radicals, also the methods of transforming and simplifying radicals. When is <hi rend="italic">a radical in its simplest form</hi>?</p>
+               <p rend="justify">2. Simplify (to simplest form): </p>
+               <p rend="justify">3. Reduce to entire surds: </p>
+               <p rend="justify">4. Reduce to radicals of lower order (or simplify indices):</p>
+               <p rend="justify">5. Reduce to radicals of the same degree (order, or index): and and and and and </p>
+               <p rend="justify">6. Which is greater, or ? or ?</p>
+               <p rend="justify">7. Which is greatest, or ? Give work and arrange in descending order of magnitude.</p>
+               <p rend="justify">Collect:</p>
+               <p rend="justify">8. </p>
+               <p rend="justify">9. </p>
+               <p rend="justify">10. </p>
+               <p rend="justify">11. A and B each shoot thirty arrows at a target. B makes twice as many hits as A, and A makes three times as many misses as B. Find the number of hits and misses of each. (<hi rend="italic">Univ. of Cal.</hi>)</p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Radicals in any algebra (first part of the chapter).</p>
+               <p rend="justify">  The most important principle in Radicals is the following:</p>
+               <p rend="justify">Hence Or, </p>
+               <p rend="justify">From this also </p>
+               <p rend="justify">Multiply:</p>
+               <p rend="justify">1. by </p>
+               <p rend="justify">2. by </p>
+               <p rend="justify">3. by </p>
+               <p rend="justify">4. by </p>
+               <p rend="justify">5. by </p>
+               <p rend="justify">6. by </p>
+               <p rend="justify">Divide:</p>
+               <p rend="justify">7. by </p>
+               <p rend="justify">8. by </p>
+               <p rend="justify">9. by </p>
+               <p rend="justify">10. by </p>
+               <p rend="justify">11. by (<hi rend="italic">Short division.</hi>)</p>
+               <p rend="justify">12. by </p>
+               <p rend="justify">Rationalize the denominator:</p>
+               <p rend="justify">13. </p>
+               <p rend="justify">14. </p>
+               <p rend="justify">15. </p>
+               <p rend="justify">Review the method of finding the square root of a binomial surd. (By inspection preferably.) Then find square root of:</p>
+               <p rend="justify">16. </p>
+               <p rend="justify">17. </p>
+               <p rend="justify">18. </p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Radicals in any algebra, beginning at Addition and Subtraction of Radicals.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MISCELLANEOUS EXAMPLES, ALGEBRA TO QUADRATICS</head>
+               <p rend="justify">Results by inspection, examples 1-10.</p>
+               <p rend="justify">Divide:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. </p>
+               <p rend="justify">Multiply:</p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. </p>
+               <p rend="justify">7. </p>
+               <p rend="justify">8. </p>
+               <p rend="justify">9. </p>
+               <p rend="justify">10. </p>
+               <p rend="justify">Factor:</p>
+               <p rend="justify">11. </p>
+               <p rend="justify">12. </p>
+               <p rend="justify">13. </p>
+               <p rend="justify">14. </p>
+               <p rend="justify">Factor, using radicals instead of exponents:</p>
+               <p rend="justify">15. </p>
+               <p rend="justify">16. </p>
+               <p rend="justify">17. (factor as difference of two squares).</p>
+               <p rend="justify">18. (factor as difference of two cubes).</p>
+               <p rend="justify">19. (factor as difference of two fourth powers).</p>
+               <p rend="justify">20. Find the H. C. F. and L. C. M. of </p>
+               <p rend="justify">21. Solve (short method) </p>
+               <p rend="justify">22. Simplify (<hi rend="italic">Princeton.</hi>)</p>
+               <p rend="justify">1. Solve for <hi rend="italic">p</hi>:</p>
+               <p rend="justify">2. Solve for <hi rend="italic">t</hi>:</p>
+               <p rend="justify">3. Find the square root of 8114.4064. What, then, is the square root of .0081144064? of 811440.64? From any of the above can you determine the square root of .081144064?</p>
+               <p rend="justify">4. The H. C. F. of two expressions is and their L. C. M. is If one expression is what is the other?</p>
+               <p rend="justify">5. Solve (short method):</p>
+               <p rend="justify">6. Solve </p>
+               <p rend="justify">7. Simplify </p>
+               <p rend="justify">8. Does ? Does ?</p>
+               <p rend="justify">9. Write the fraction with rational denominator, and find its value correct to two decimal places.</p>
+               <p rend="justify">10. Simplify (<hi rend="italic">Princeton.</hi>)</p>
+               <p rend="justify">1. Rationalize the denominator of (<hi rend="italic">Univ. of Cal.</hi>)</p>
+               <p rend="justify">2. Simplify (<hi rend="italic">Univ. of Penn.</hi>)</p>
+               <p rend="justify">3. Find the value of when (<hi rend="italic">Cornell.</hi>)</p>
+               <p rend="justify">4. Find the value of <hi rend="italic">x</hi>  if</p>
+               <p rend="justify">  (<hi rend="italic">M. I. T.</hi>)</p>
+               <p rend="justify">5. A fisherman told a yarn about a fish he had caught. If the fish were half as long as he said it was, it would be 10 inches more than twice as long as it is. If it were 4 inches longer than it is, and he had further exaggerated its length by adding 4 inches, it would be as long as he now said it was. How long is the fish, and how long did he first say it was? (<hi rend="italic">M. I. T.</hi>)</p>
+               <p rend="justify">6. The force <hi rend="italic">P</hi>  necessary to lift a weight <hi rend="italic">W</hi>  by means of a certain machine is given by the formula</p>
+               <p rend="justify">6. where <hi rend="italic">a</hi>  and <hi rend="italic">b</hi>  are constants depending on the amount of friction in the machine. If a force of 7 pounds will raise a weight of 20 pounds, and a force of 13 pounds will raise a weight of 50 pounds, what force is necessary to raise a weight of 40 pounds? (First determine the constants <hi rend="italic">a</hi>  and <hi rend="italic">b</hi>.) (<hi rend="italic">Harvard.</hi>)</p>
+               <p rend="justify">7. Reduce to the simplest form: </p>
+               <p rend="justify">8. Determine the H. C. F. and L. C. M. of and (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">1. Simplify </p>
+               <p rend="justify">2. Simplify, writing the result with rational denominator:</p>
+               <p rend="justify">  (<hi rend="italic">M. I. T.</hi>)</p>
+               <p rend="justify">3. Find </p>
+               <p rend="justify">4. Expand </p>
+               <p rend="justify">5. Expand and simplify </p>
+               <p rend="justify">6. Solve the simultaneous equations</p>
+               <p rend="justify">  (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">7. Find to three places of decimals the value of</p>
+               <p rend="justify">when and (<hi rend="italic">Columbia.</hi>)</p>
+               <p rend="justify">8. Show that is the negative of the reciprocal of (<hi rend="italic">Columbia.</hi>)</p>
+               <p rend="justify">9. Solve and check </p>
+               <p rend="justify">10. Assuming that when an apple falls from a tree the distance (<hi rend="italic">S</hi>  meters) through which it falls in any time (<hi rend="italic">t</hi>  seconds) is given by the formula (where ), find to two decimal places the time taken by an apple in falling 15 meters. (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">  Excellent practice may be obtained by solving the ordinary formulas used in arithmetic, geometry, and physics <hi rend="italic">orally, for each letter in turn</hi>.</p>
+               <p rend="justify">Arithmetic</p>
+               <p rend="justify">Geometry</p>
+               <p rend="justify">Physics</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>QUADRATIC EQUATIONS</head>
+               <p rend="justify">1. Define a quadratic equation; a pure quadratic; an affected (or complete) quadratic; an equation in the quadratic form.</p>
+               <p rend="justify">2. Solve the pure quadratic </p>
+               <p rend="justify">Review the first (or usual) method of completing the square. Solve by it the following:</p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. </p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. </p>
+               <p rend="justify">Review the solution by factoring. Solve by it the following:</p>
+               <p rend="justify">7. </p>
+               <p rend="justify">8. </p>
+               <p rend="justify">9. </p>
+               <p rend="justify">10. </p>
+               <p rend="justify">Solve, by factoring, these equations, which are not quadratics:</p>
+               <p rend="justify">11. </p>
+               <p rend="justify">12. </p>
+               <p rend="justify">13. </p>
+               <p rend="justify">Review the solution by formula. Solve by it the following:</p>
+               <p rend="justify">14. </p>
+               <p rend="justify">15. </p>
+               <p rend="justify">16. </p>
+               <p rend="justify">17. </p>
+               <p rend="justify">Solve graphically:</p>
+               <p rend="justify">18. </p>
+               <p rend="justify">19. </p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Quadratic Equations in any algebra (first part of the chapter).</p>
+               <p rend="justify">1. Solve by three methods—formula, factoring, and completing the square: </p>
+               <p rend="justify">Review equations in the quadratic form and solve:</p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. (Let and substitute.)</p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. </p>
+               <p rend="justify">Solve and check:</p>
+               <p rend="justify">7. </p>
+               <p rend="justify">8. </p>
+               <p rend="justify">9. </p>
+               <p rend="justify">Give results by inspection:</p>
+               <p rend="justify">10. </p>
+               <p rend="justify">11. </p>
+               <p rend="justify">12. How many gallons each of cream containing 33% butter fat and milk containing 6% butter fat must be mixed to produce 10 gallons of cream containing 25% butter fat?</p>
+               <p rend="justify">13. I have $6 in dimes, quarters, and half-dollars, there being 33 coins in all. The number of dimes and quarters together is ten times the number of half-dollars. How many coins of each kind are there? (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The last part of the chapter on Quadratic Equations in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE THEORY OF QUADRATIC EQUATIONS</head>
+               <p rend="justify">
+                  <hi rend="bold">I. To find the sum and the product of the roots.</hi>
+               </p>
+               <p rend="justify">The general quadratic equation is</p>
+               <p rend="justify">  (1)</p>
+               <p rend="justify">Or, (2)</p>
+               <lg>
+                  <l>To derive the formula, we have by transposing</l>
+               </lg>
+               <lg>
+                  <l>Completing the square,</l>
+               </lg>
+               <lg>
+                  <l>Extracting square root, </l>
+                  <l>Transposing, </l>
+                  <l>Hence, </l>
+                  <l>These two values of <hi rend="italic">x</hi>  we call <hi rend="italic">roots</hi>. For convenience represent them by and</l>
+               </lg>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell>Hence,</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Adding,</cell>
+                     <cell>    (3)</cell>
+                  </row>
+               </table>
+               <table rend="frame" xml:id="Table3">
+                  <row>
+                     <cell>Also,</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Multiplying,</cell>
+                     <cell>    (4)</cell>
+                  </row>
+               </table>
+               <p rend="justify">Hence we have shown that</p>
+               <p rend="justify">and </p>
+               <p rend="justify">Or, referring to equation (2) above, we have the following rule:</p>
+               <p rend="justify">
+                  <hi rend="italic">When the coefficient of </hi>
+                  <hi rend="italic">  is unity, the sum of the roots is the coefficient of </hi>
+                  <hi rend="italic">x</hi>
+                  <hi rend="italic">  with the sign changed; the product of the roots is the independent term.</hi>
+               </p>
+               <p rend="justify">Examples:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">Sum of the roots </p>
+               <p rend="justify">Products of the roots </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">Sum of the roots </p>
+               <p rend="justify">Product of the roots </p>
+               <p rend="justify">3. </p>
+               <lg>
+                  <l>Sum of the roots </l>
+                  <l>Product of the roots </l>
+                  <l>
+                     <hi rend="bold">II. To find the nature or character of the roots.</hi>
+                  </l>
+                  <l>As before, </l>
+               </lg>
+               <p rend="justify">The determines the <hi rend="italic">nature</hi>  or <hi rend="italic">character</hi>  of the roots; hence it is called the <hi rend="italic">discriminant</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">If </hi>
+                  <hi rend="bold">  is positive, the roots are real, unequal, and either rational or irrational.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">If </hi>
+                  <hi rend="bold">  is negative, the roots are imaginary and unequal.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">If </hi>
+                  <hi rend="bold">  is zero, the roots are real, equal, and rational.</hi>
+               </p>
+               <p rend="justify">Examples:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">  The roots are real, unequal, and irrational.</p>
+               <p rend="justify">2. </p>
+               <p rend="justify">  The roots are imaginary and unequal.</p>
+               <p rend="justify">3. </p>
+               <p rend="justify">  The roots are real, equal, and rational.</p>
+               <p rend="justify">
+                  <hi rend="bold">III. To form the quadratic equation when the roots are given.</hi>
+               </p>
+               <p rend="justify">Suppose the roots are 3, -7.</p>
+               <p rend="justify">Then,</p>
+               <p rend="justify">Or,</p>
+               <p rend="justify">Multiplying to get a quadratic,</p>
+               <p rend="justify">Or, </p>
+               <p rend="justify">
+                  <hi rend="italic">Or</hi>, use the sum and product idea developed on the preceding page. The coefficient of must be unity.</p>
+               <lg>
+                  <l>Add the roots and change the sign to get the coefficient of <hi rend="italic">x</hi>.</l>
+                  <l>Multiply the roots to get the independent term.</l>
+                  <l>  The equation is </l>
+                  <l>In the same way, if the roots are the equation is</l>
+               </lg>
+               <p rend="justify">  Find the sum, the product, and the nature or character of the roots of the following:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. </p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. </p>
+               <p rend="justify">7. </p>
+               <p rend="justify">8. </p>
+               <p rend="justify">Form the equations whose roots are:</p>
+               <p rend="justify">9. 5, -3.</p>
+               <p rend="justify">10. </p>
+               <p rend="justify">11. </p>
+               <p rend="justify">12. -3, -5.</p>
+               <p rend="justify">13. </p>
+               <p rend="justify">14. </p>
+               <p rend="justify">15. </p>
+               <p rend="justify">16. Solve Check by substituting the values of <hi rend="italic">x</hi>; then check by finding the sum and the product of the roots. Compare the amount of labor required in each case.</p>
+               <p rend="justify">17. Solve </p>
+               <p rend="justify">18. Is a perfect square?</p>
+               <p rend="justify">19. Find the square root (short method):</p>
+               <p rend="justify">20. Solve </p>
+               <p rend="justify">21. The glass of a mirror is 18 inches by 12 inches, and it has a frame of uniform width whose area is equal to that of the glass. Find the width of the frame.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>OUTLINE OF SIMULTANEOUS QUADRATICS</head>
+               <p rend="justify">
+                  <hi rend="bold">Simultaneous Quadratics</hi>
+               </p>
+               <p rend="justify">Case I.</p>
+               <p rend="justify">One equation linear.</p>
+               <p rend="justify">The other quadratic.</p>
+               <p rend="justify">Method: Solve for <hi rend="italic">x</hi>  as in terms of <hi rend="italic">y</hi>, or <hi rend="italic">vice versa</hi>, in the linear and substitute in the quadratic.</p>
+               <p rend="justify">Case II.</p>
+               <p rend="justify">Both equations homogeneous and of the second degree.</p>
+               <p rend="justify">Method: Let and substitute in both equations.</p>
+               <p rend="justify">Alternate Method: Solve for <hi rend="italic">x</hi>  in terms of <hi rend="italic">y</hi>  in one equation and substitute in the other.</p>
+               <p rend="justify">Case III.</p>
+               <p rend="justify">Any two of the quantities given.</p>
+               <p rend="justify">Method: Solve for and then add to get <hi rend="italic">x</hi>, subtract to get <hi rend="italic">y</hi>.</p>
+               <p rend="justify">Case IV.</p>
+               <p rend="justify">Both equations symmetrical or symmetrical except for sign. Usually one equation of high degree, the other of the first degree.</p>
+               <p rend="justify">Method: Let and and substitute in both equations.</p>
+               <p rend="justify">
+                  <hi rend="bold">Special Devices</hi>
+               </p>
+               <p rend="justify">I. Consider some compound quantity like etc., as the unknown, at first. Solve for the compound unknown, and combine the resulting equation with the simpler original equation.</p>
+               <p rend="justify">II. Divide the equations member by member. Then solve by Case I, II, or III.</p>
+               <p rend="justify">III. Eliminate the quadratic terms. Then solve by Case I, II, or III.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SIMULTANEOUS QUADRATICS</head>
+               <p rend="justify">Solve:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. </p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. </p>
+               <p rend="justify">7. </p>
+               <p rend="justify">8. </p>
+               <p rend="justify">9. </p>
+               <p rend="justify">10. </p>
+               <p rend="justify">11. </p>
+               <p rend="justify">12. </p>
+               <p rend="justify">13. (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">14. (<hi rend="italic">Princeton.</hi>)</p>
+               <p rend="justify">15. Plot the graph of each equation. (<hi rend="italic">Cornell.</hi>)</p>
+               <p rend="justify">16. (<hi rend="italic">Columbia.</hi>)</p>
+               <p rend="justify">
+                  <hi rend="italic">In grouping the answers, be sure to associate each value of </hi>
+                  <hi rend="italic">x</hi>
+                  <hi rend="italic">  with the corresponding value of </hi>
+                  <hi rend="italic">y</hi>
+                  <hi rend="italic">.</hi>
+               </p>
+               <p rend="justify">17. The course of a yacht is 30 miles in length and is in the shape of a right triangle one arm of which is 2 miles longer than the other. What is the distance along each side?</p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Simultaneous Quadratics in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>RATIO AND PROPORTION</head>
+               <p rend="justify">1. Define ratio, proportion, mean proportional, third proportional, fourth proportional.</p>
+               <p rend="justify">2. Find a mean proportional between 4 and 16; 18 and 50; and </p>
+               <p rend="justify">3. Find a third proportional to 4 and 7; 5 and 10; and </p>
+               <p rend="justify">4. Find a fourth proportional to 2, 5, and 4; 35, 20, and 14.</p>
+               <p rend="justify">5. Write out the proofs for the following, stating the theorem in full in each case:</p>
+               <p rend="justify">(<hi rend="italic">a</hi>) The product of the extremes equals etc.</p>
+               <p rend="justify">(<hi rend="italic">b</hi>) If the product of two numbers equals the product of two other numbers, either pair etc.</p>
+               <p rend="justify">(<hi rend="italic">c</hi>) Alternation.</p>
+               <p rend="justify">(<hi rend="italic">d</hi>) Inversion.</p>
+               <p rend="justify">(<hi rend="italic">e</hi>) Composition.</p>
+               <p rend="justify">(<hi rend="italic">f</hi>) Division.</p>
+               <p rend="justify">(<hi rend="italic">g</hi>) Composition and division.</p>
+               <p rend="justify">(<hi rend="italic">h</hi>) In a series of equal ratios, the sum of the antecedents is to the sum of the consequents etc.</p>
+               <p rend="justify">(<hi rend="italic">i</hi>) Like powers or like roots of the terms of a proportion etc.</p>
+               <p rend="justify">6. If write all the possible proportions that can be derived from it. [See (5) above.]</p>
+               <p rend="justify">7. Given write the eight proportions that may be derived from it, and quote your authority.</p>
+               <p rend="justify">8. (<hi rend="italic">a</hi>) What theorem allows you to change any proportion into an equation?</p>
+               <p rend="justify">(<hi rend="italic">b</hi>) What theorem allows you to change any equation into a proportion?</p>
+               <p rend="justify">9. If what is the ratio of <hi rend="italic">x</hi>  to <hi rend="italic">g</hi>? of <hi rend="italic">y</hi>  to <hi rend="italic">r</hi>? of <hi rend="italic">y</hi>  to <hi rend="italic">g</hi>?</p>
+               <p rend="justify">10. Find two numbers such that their sum, difference, and the sum of their squares are in the ratio 5 : 3 : 51. (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Ratio and Proportion in any algebra.</p>
+               <p rend="justify">  An easy and powerful method of proving four expressions in proportion is illustrated by the following example:</p>
+               <p rend="justify">Given prove that </p>
+               <p rend="justify">Let </p>
+               <p rend="justify">Also </p>
+               <p rend="justify">Substitute the value of <hi rend="italic">a</hi>  in the first ratio, and <hi rend="italic">c</hi>  in the second:</p>
+               <p rend="justify">Then </p>
+               <p rend="justify">Also </p>
+               <p rend="justify">  Axiom 1.</p>
+               <p rend="justify">Or, </p>
+               <p rend="justify">If prove:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. </p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. The second of three numbers is a mean proportional between the other two. The third number exceeds the sum of the other two by 20; and the sum of the first and third exceeds three times the second by 4. Find the numbers.</p>
+               <p rend="justify">7. Three numbers are proportional to 5, 7, and 9; and their sum is 14. Find the numbers. (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">8. A triangular field has the sides 15, 18, and 27 rods, respectively. Find the dimensions of a similar field having 4 times the area.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ARITHMETICAL PROGRESSION</head>
+               <p rend="justify">1. Define an arithmetical progression.</p>
+               <p rend="justify">Learn to derive the three formulas in arithmetical progression:</p>
+               <p rend="justify">2. Find the sum of the first 50 odd numbers.</p>
+               <p rend="justify">3. In the series 2, 5, 8, ···, which term is 92?</p>
+               <p rend="justify">4. How many terms must be taken from the series 3, 5, 7, ···, to make a total of 255?</p>
+               <p rend="justify">5. Insert 5 arithmetical means between 11 and 32.</p>
+               <p rend="justify">6. Insert 9 arithmetical means between and 30.</p>
+               <p rend="justify">7. Find <hi rend="italic">x</hi>, if are in A. P.</p>
+               <p rend="justify">8. The 7th term of an arithmetical progression is 17, and the 13th term is 59. Find the 4th term.</p>
+               <p rend="justify">9. How can you turn an A. P. into an equation?</p>
+               <p rend="justify">10. Given find <hi rend="italic">d</hi>  and <hi rend="italic">l</hi>.</p>
+               <p rend="justify">11. Find the sum of the first <hi rend="italic">n</hi>  odd numbers.</p>
+               <p rend="justify">12. An arithmetical progression consists of 21 terms. The sum of the three terms in the middle is 129; the sum of the last three terms is 237. Find the series. (Look up the short method for such problems.) (<hi rend="italic">Mass. Inst. of Technology.</hi>)</p>
+               <p rend="justify">13. B travels 3 miles the first day, 7 miles the second day, 11 miles the third day, etc. In how many days will B overtake A who started from the same point 8 days in advance and who travels uniformly 15 miles a day?</p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Arithmetical Progression in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>GEOMETRICAL PROGRESSION</head>
+               <p rend="justify">1. Define a geometrical progression.</p>
+               <p rend="justify">Learn to derive the four formulas in geometrical progression:</p>
+               <p rend="justify">2. How many terms must be taken from the series 9, 18, 36, ··· to make a total of 567?</p>
+               <p rend="justify">3. In the G. P. 2, 6, 18, ···, which term is 486?</p>
+               <p rend="justify">4. Find <hi rend="italic">x</hi>, if are in geometrical progression.</p>
+               <p rend="justify">5. How can you turn a G. P. into an equation?</p>
+               <p rend="justify">6. Insert 4 geometrical means between 4 and 972.</p>
+               <p rend="justify">7. Insert 6 geometrical means between and 5120.</p>
+               <p rend="justify">8. Given find <hi rend="italic">r</hi>  and <hi rend="italic">S</hi>.</p>
+               <p rend="justify">9. If the first term of a geometrical progression is 12 and the sum to infinity is 36, find the 4th term.</p>
+               <p rend="justify">10. If the series ··· be an A. P., find the 97th term. If a G. P., find the sum to infinity.</p>
+               <p rend="justify">11. The third term of a geometrical progression is 36; the 6th term is 972. Find the first and second terms.</p>
+               <p rend="justify">12. Insert between 6 and 16 two numbers, such that the first three of the four shall be in arithmetical progression, and the last three in geometrical progression.</p>
+               <p rend="justify">13. A rubber ball falls from a height of 40 inches and on each rebound rises 40% of the previous height. Find by formula how far it falls on its eighth descent. (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on Geometrical Progression in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE BINOMIAL THEOREM</head>
+               <p rend="justify">1. Review the Binomial Theorem laws. (See Involution.)</p>
+               <p rend="justify">Expand:</p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">4. </p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. </p>
+               <p rend="justify">7. </p>
+               <lg>
+                  <l>8. </l>
+                  <l/>
+                  <l>Show by observation that the formula for the </l>
+               </lg>
+               <p rend="justify">9. Indicate what the 97th term of would be.</p>
+               <p rend="justify">10. Using the expansion of in (8), derive a formula for the <hi rend="italic">r</hi>th term by observing how each term is made up, then generalizing.</p>
+               <p rend="justify">Using either the formula in (8) or (10), whichever you are familiar with, find:</p>
+               <p rend="justify">11. The 4th term of </p>
+               <p rend="justify">12. The 8th term of </p>
+               <p rend="justify">13. The middle term of </p>
+               <p rend="justify">14. The term not containing <hi rend="italic">x</hi>  in</p>
+               <p rend="justify">15. The term containing in </p>
+               <p rend="justify">
+                  <hi rend="bold">Reference:</hi>  The chapter on The Binomial Theorem in any algebra.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MISCELLANEOUS EXAMPLES, QUADRATICS AND BEYOND</head>
+               <p rend="justify">1. Solve the equation obtaining the values of the roots correct to three significant figures. (<hi rend="italic">Harvard.</hi>)</p>
+               <p rend="justify">2. Write the roots of (<hi rend="italic">Sheffield Scientific School.</hi>)</p>
+               <p rend="justify">3. Solve (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">4. Solve the equation for <hi rend="italic">x</hi>, taking and and verify your result. (<hi rend="italic">Harvard.</hi>)</p>
+               <p rend="justify">5. Solve </p>
+               <p rend="justify">6. Solve (<hi rend="italic">Coll. Ent. Board.</hi>)</p>
+               <p rend="justify">7. Find all values of <hi rend="italic">x</hi>  and <hi rend="italic">y</hi>  which satisfy the equations:</p>
+               <p rend="justify">  (<hi rend="italic">Mass. Inst. of Technology.</hi>)</p>
+               <p rend="justify">8. If and represent the roots of find and in terms of <hi rend="italic">p</hi>, <hi rend="italic">q</hi>, and <hi rend="italic">r</hi>. (<hi rend="italic">Princeton.</hi>)</p>
+               <p rend="justify">9. Form the equation whose roots are and </p>
+               <p rend="justify">10. Determine, without solving, the character of the roots of (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">11. If prove that (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">12. Given Prove that (<hi rend="italic">Sheffield.</hi>)</p>
+               <p rend="justify">13. The 9th term of an arithmetical progression is the 16th term is Find the first term. (<hi rend="italic">Regents.</hi>)</p>
+               <p rend="justify">  Solve graphically:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. Find four numbers in arithmetical progression, such that the sum of the first two is 1, and the sum of the last two is -19.</p>
+               <p rend="justify">4. What number added to 2, 20, 9, 34, will make the results proportional?</p>
+               <p rend="justify">5. Find the middle term of </p>
+               <p rend="justify">6. Solve (<hi rend="italic">Princeton.</hi>)</p>
+               <p rend="justify">7. A strip of carpet one half inch thick and feet long is rolled on a roller four inches in diameter. Find how many turns there will be, remembering that each turn increases the diameter by one inch, and that the circumference of a circle equals (approximately) times the diameter. (<hi rend="italic">Harvard.</hi>)</p>
+               <p rend="justify">8. The sum of the first three terms of a geometrical progression is 21, and the sum of their squares is 189. What is the first term? (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">9. Find the geometrical progression whose sum to infinity is 4, and whose second term is </p>
+               <p rend="justify">10. Solve </p>
+               <p rend="justify">11. Solve </p>
+               <p rend="justify">12. Two hundred stones are placed on the ground 3 feet apart, the first being 3 feet from a basket. If the basket and all the stones are in a straight line, how far does a person travel who starts from the basket and brings the stones to it one by one?</p>
+               <p rend="justify">  Solve graphically; and check by solving algebraically:</p>
+               <p rend="justify">1. </p>
+               <p rend="justify">2. </p>
+               <p rend="justify">3. </p>
+               <p rend="justify">Determine the value of <hi rend="italic">m</hi>  for which the roots of the equation will be equal: (Hint: See page 40. To have the roots equal, must equal 0.)</p>
+               <p rend="justify">4. </p>
+               <p rend="justify">5. </p>
+               <p rend="justify">6. If is a root of find the other root without solving the equation. (<hi rend="italic">Univ. of Penn.</hi>)</p>
+               <p rend="justify">7. How many times does a common clock strike in 12 hours?</p>
+               <p rend="justify">8. Find the sum to infinity of ···.</p>
+               <p rend="justify">9. Solve </p>
+               <p rend="justify">10. Find the value of the recurring decimal 2.214214....</p>
+               <p rend="justify">11. A man purchases a $500 piano by paying monthly installments of $10 and interest on the debt. If the yearly rate is 6%, what is the total amount of interest?</p>
+               <p rend="justify">12. The arithmetical mean between two numbers is and their geometrical mean is 42. Find the numbers. (<hi rend="italic">College Entrance Exam. Board.</hi>)</p>
+               <p rend="justify">13. If the middle term of is equal to the fourth term of find the value of <hi rend="italic">x</hi>. (<hi rend="italic">M. I. T.</hi>)</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PROBLEMS</head>
+               <p rend="justify">
+                  <hi rend="bold">Linear Equations, One Unknown</hi>
+               </p>
+               <p rend="justify">1. A train running 30 miles an hour requires 21 minutes longer to go a certain distance than does a train running 36 miles an hour. How great is the distance? (<hi rend="italic">Cornell.</hi>)</p>
+               <p rend="justify">2. A man can walk miles an hour up hill and miles an hour down hill. He walks 56 miles in 20 hours on a road no part of which is level. How much of it is up hill? (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">3. A physician having 100 cubic centimeters of a 6% solution of a certain medicine wishes to dilute it to a % solution. How much water must he add? (A 6% solution contains 6% of medicine and 94% of water.) (<hi rend="italic">Case.</hi>)</p>
+               <p rend="justify">4. A clerk earned $504 in a certain number of months. His salary was increased 25%, and he then earned $450 in two months less time than it had previously taken him to earn $504. What was his original salary per month? (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">5. A person who possesses $15,000 employs a part of the money in building a house. He invests one third of the money which remains at 6%, and the other two thirds at 9%, and from these investments he obtains an annual income of $500. What was the cost of the house? (<hi rend="italic">M. I. T.</hi>)</p>
+               <p rend="justify">6. Two travelers have together 400 pounds of baggage. One pays $1.20 and the other $1.80 for excess above the weight carried free. If all had belonged to one person, he would have had to pay $4.50. How much baggage is allowed to go free? (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">7. A man who can row miles an hour in still water rows downstream and returns. The rate of the current is miles per hour, and the time required for the trip is 13 hours. How many hours does he require to return?</p>
+               <p rend="justify">
+                  <hi rend="bold">Simultaneous Equations, Two and Three Unknowns</hi>
+               </p>
+               <p rend="justify">1. A manual training student in making a bookcase finds that the distance from the top of the lowest shelf to the under side of the top shelf is 4 ft. 6 in. He desires to put between these four other shelves of inch boards in such a way that the book space will diminish one inch for each shelf from the bottom to the top. What will be the several spaces between the shelves?</p>
+               <p rend="justify">2. A quantity of water, sufficient to fill three jars of different sizes, will fill the smallest jar 4 times, or the largest jar twice with 4 gallons to spare, or the second jar three times with 2 gallons to spare. What is the capacity of each jar? (<hi rend="italic">Case.</hi>)</p>
+               <p rend="justify">3. A policeman is chasing a pickpocket. When the policeman is 80 yards behind him, the pickpocket turns up an alley; but coming to the end, he finds there is no outlet, turns back, and is caught just as he comes out of the alley. If he had discovered that the alley had no outlet when he had run halfway up and had then turned back, the policeman would have had to pursue the thief 120 yards beyond the alley before catching him. How long is the alley? (<hi rend="italic">Harvard.</hi>)</p>
+               <p rend="justify">4. A and B together can do a piece of work in 14 days. After they have worked 6 days on it, they are joined by C who works twice as fast as A. The three finish the work in 4 days. How long would it take each man alone to do it? (<hi rend="italic">Columbia.</hi>)</p>
+               <p rend="justify">5. In a certain mill some of the workmen receive $1.50 a day, others more. The total paid in wages each day is $350. An assessment made by a labor union to raise $200 requires $1.00 from each man receiving $1.50 a day, and half of one day's pay from every man receiving more. How many men receive $1.50 a day? (<hi rend="italic">Harvard.</hi>)</p>
+               <p rend="justify">6. There are two alloys of silver and copper, of which one contains twice as much copper as silver, and the other three times as much silver as copper. How much must be taken from each to obtain a kilogram of an alloy to contain equal quantities of silver and copper? (<hi rend="italic">M. I. T.</hi>)</p>
+               <p rend="justify">7. Two automobiles travel toward each other over a distance of 120 miles. A leaves at 9 a.m., 1 hour before B starts to meet him, and they meet at 12:00 m. If each had started at 9:15 a.m., they would have met at 12:00 m. also. Find the rate at which each traveled. (<hi rend="italic">M. I. T.</hi>)</p>
+               <p rend="justify">
+                  <hi rend="bold">Quadratic Equations</hi>
+               </p>
+               <p rend="justify">1. Telegraph poles are set at equal distances apart. In order to have two less to the mile, it will be necessary to set them 20 feet farther apart. Find how far apart they are now. (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">2. The distance that a body falls from rest in <hi rend="italic">t</hi>  seconds is given by the formula A man drops a stone into a well and hears the splash after 3 seconds. If the velocity of sound in air is 1086 feet a second, what is the depth of the well? (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">3. It requires 2000 square tiles of a certain size to pave a hall, or 3125 square tiles whose dimensions are one inch less. Find the area of the hall. How many solutions has the equation of this problem? How many has the problem itself? Explain the apparent discrepancy. (<hi rend="italic">Cornell.</hi>)</p>
+               <p rend="justify">4. A rectangular tract of land, 800 feet long by 600 feet broad, is divided into four rectangular blocks by two streets of equal width running through it at right angles. Find the width of the streets, if together they cover an area of 77,500 square feet. (<hi rend="italic">M. I. T.</hi>)</p>
+               <p rend="justify">5. (<hi rend="italic">a</hi>) The height <hi rend="italic">y</hi>  to which a ball thrown vertically upward with a velocity of 100 feet per second rises in <hi rend="italic">x</hi>  seconds is given by the formula, In how many seconds will the ball rise to a height of 144 feet?</p>
+               <p rend="justify">5. (<hi rend="italic">b</hi>) Draw the graph of the equation (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">6. Two launches race over a course of 12 miles. The first steams miles an hour. The other has a start of 10 minutes, runs over the first half of the course with a certain speed, but increases its speed over the second half of the course by 2 miles per hour, winning the race by a minute. What is the speed of the second launch? Explain the meaning of the negative answer. (<hi rend="italic">Sheffield Scientific School.</hi>)</p>
+               <p rend="justify">7. The circumference of a rear wheel of a certain wagon is 3 feet more than the circumference of a front wheel. The rear wheel performs 100 fewer revolutions than the front wheel in traveling a distance of 6000 feet. How large are the wheels? (<hi rend="italic">Harvard.</hi>)</p>
+               <p rend="justify">8. A man starts from home to catch a train, walking at the rate of 1 yard in 1 second, and arrives 2 minutes late. If he had walked at the rate of 4 yards in 3 seconds, he would have arrived minutes early. Find the distance from his home to the station. (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">
+                  <hi rend="bold">Simultaneous Quadratics</hi>
+               </p>
+               <p rend="justify">1. Two cubical coal bins together hold 280 cubic feet of coal, and the sum of their lengths is 10 feet. Find the length of each bin.</p>
+               <p rend="justify">2. The sum of the radii of two circles is 25 inches, and the difference of their areas is square inches. Find the radii.</p>
+               <p rend="justify">3. The area of a right triangle is 150 square feet, and its hypotenuse is 25 feet. Find the arms of the triangle.</p>
+               <p rend="justify">4. The combined capacity of two cubical tanks is 637 cubic feet, and the sum of an edge of one and an edge of the other is 13 feet. (<hi rend="italic">a</hi>) Find the length of a diagonal of any face of each cube. (<hi rend="italic">b</hi>) Find the distance from upper left-hand corner to lower right-hand corner in either cube.</p>
+               <p rend="justify">5. A and B run a mile. In the first heat A gives B a start of 20 yards and beats him by 30 seconds. In the second heat A gives B a start of 32 seconds and beats him by yards. Find the rate at which each runs. (<hi rend="italic">Sheffield.</hi>)</p>
+               <p rend="justify">6. After street improvement it is found that a certain corner rectangular lot has lost of its length and of its width. Its perimeter has been decreased by 28 feet, and the new area is 3024 square feet. Find the reduced dimensions of the lot. (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">7. A man spends $539 for sheep. He keeps 14 of the flock that he buys, and sells the remainder at an advance of $2 per head, gaining $28 by the transaction. How many sheep did he buy, and what was the cost of each? (<hi rend="italic">Yale.</hi>)</p>
+               <p rend="justify">8. A boat's crew, rowing at half their usual speed, row 3 miles downstream and back again in 2 hours and 40 minutes. At full speed they can go over the same course in 1 hour and 4 minutes. Find the rate of the crew, and the rate of the current in miles per hour. (<hi rend="italic">College Entrance Board.</hi>)</p>
+               <p rend="justify">9. Find the sides of a rectangle whose area is unchanged if its length is increased by 4 feet and its breadth decreased by 3 feet, but which loses one third of its area if the length is increased by 16 feet and the breadth decreased by 10 feet. (<hi rend="italic">M. I. T.</hi>)</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>COLLEGE ENTRANCE EXAMINATIONS</head>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>UNIVERSITY OF CALIFORNIA</head>
+               <div type="div3">
+                  <head>ELEMENTARY ALGEBRA</head>
+                  <p rend="justify">1. If and find the value of:</p>
+                  <p rend="justify">(<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">(<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">2. Reduce to a mixed number:</p>
+                  <p rend="justify">Simplify:</p>
+                  <p rend="justify">3. </p>
+                  <p rend="justify">4. </p>
+                  <p rend="justify">5. A's age 10 years hence will be 4 times what B's age was 11 years ago, and the amount that A's age exceeds B's age is one third of the sum of their ages 8 years ago. Find their present ages.</p>
+                  <p rend="justify">6. Draw the lines represented by the equations</p>
+                  <p rend="justify">  and </p>
+                  <p rend="justify">6. and find by algebra the coördinates of the point where they intersect.</p>
+                  <p rend="justify">7. Solve the equations </p>
+                  <p rend="justify">8. Solve </p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>COLORADO SCHOOL OF MINES</head>
+               <div type="div3">
+                  <head>ELEMENTARY ALGEBRA</head>
+                  <p rend="justify">1. Solve by factoring: </p>
+                  <p rend="justify">2. Show that </p>
+                  <p rend="justify">3. How many pairs of numbers will satisfy simultaneously the two equations</p>
+                  <p rend="justify">3. Show by means of a graph that your answer is correct.</p>
+                  <p rend="justify">3. What is meant by eliminating <hi rend="italic">x</hi>  in the above equations by substitution? by comparison? by subtraction?</p>
+                  <p rend="justify">4. Find the square root of 223,728.</p>
+                  <p rend="justify">5. Simplify: (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">5. Simplify: (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">6. Solve the equation</p>
+                  <p rend="justify">7. How far must a boy run in a potato race if there are <hi rend="italic">n</hi>  potatoes in a straight line at a distance <hi rend="italic">d</hi>  feet apart, the first being at a distance <hi rend="italic">a</hi>  feet from the basket?</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>COLUMBIA UNIVERSITY</head>
+               <div type="div3">
+                  <head>ELEMENTARY ALGEBRA COMPLETE</head>
+                  <p rend="justify">Time: Three Hours</p>
+                  <p rend="justify">Six questions are required; two from Group <hi rend="italic">A</hi>, two from Group <hi rend="italic">B</hi>, and both questions of Group <hi rend="italic">C</hi>. No extra credit will be given for more than six questions.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Group A</hi>
+                  </p>
+                  <p rend="justify">1. (<hi rend="italic">a</hi>) Resolve the following into their prime factors:</p>
+                  <p rend="justify">(1) </p>
+                  <p rend="justify">(2) </p>
+                  <p rend="justify">1. (<hi rend="italic">b</hi>) Find the H. C. F. and the L. C. M. of</p>
+                  <p rend="justify">2. (<hi rend="italic">a</hi>) Simplify</p>
+                  <p rend="justify">2. (<hi rend="italic">b</hi>) If prove that <hi rend="italic">z</hi>  is a mean proportional between <hi rend="italic">x</hi>  and <hi rend="italic">y</hi>.</p>
+                  <p rend="justify">3. A crew can row 10 miles in 50 minutes downstream, and 12 miles in an hour and a half upstream. Find the rate of the current and of the crew in still water.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Group B</hi>
+                  </p>
+                  <p rend="justify">4. (<hi rend="italic">a</hi>) Determine the values of <hi rend="italic">k</hi>  so that the equation</p>
+                  <p rend="justify">4. (a) shall have equal roots.</p>
+                  <p rend="justify">4. (<hi rend="italic">b</hi>) Solve the equations</p>
+                  <p rend="justify">4. (<hi rend="italic">c</hi>) Plot the following two equations, and find from the graphs the approximate values of their common solutions:</p>
+                  <p rend="justify">5. Two integers are in the ratio Increase each by 15, and the difference of their squares is 999. What are the integers?</p>
+                  <p rend="justify">6. A man has $539 to spend for sheep. He wishes to keep 14 of the flock that he buys, but to sell the remainder at a gain of $2 per head. This he does and gains $28. How many sheep did he buy, and at what price each?</p>
+                  <p rend="justify">
+                     <hi rend="italic">Group C</hi>
+                  </p>
+                  <p rend="justify">7. (<hi rend="italic">a</hi>) Find the seventh term of</p>
+                  <p rend="justify">7. (<hi rend="italic">b</hi>) Derive the formula for the sum of <hi rend="italic">n</hi>  terms of an arithmetic progression.</p>
+                  <p rend="justify">8. A ball falling from a height of 60 feet rebounds after each fall one third of its last descent. What distance has it passed over when it strikes the ground for the eighth time?</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CORNELL UNIVERSITY</head>
+               <div type="div3">
+                  <head>ELEMENTARY ALGEBRA</head>
+                  <p rend="justify">1. Find the H. C. F.:</p>
+                  <p rend="justify">2. Solve the following set of equations:</p>
+                  <p rend="justify">3. Expand and simplify:</p>
+                  <p rend="justify">4. An automobile goes 80 miles and back in 9 hours. The rate of speed returning was 4 miles per hour faster than the rate going. Find the rate each way.</p>
+                  <p rend="justify">5. Simplify:</p>
+                  <p rend="justify">6. Solve for <hi rend="italic">x</hi>:</p>
+                  <p rend="justify">7. A, B, and C, all working together, can do a piece of work in days. A works twice as fast as C, and A and C together could do the work in 4 days. How long would it take each one of the three to do the work alone?</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CORNELL UNIVERSITY</head>
+               <div type="div3">
+                  <head>INTERMEDIATE ALGEBRA</head>
+                  <p rend="justify">1. Solve the following set of equations:</p>
+                  <p rend="justify">    </p>
+                  <p rend="justify">2. Simplify: (<hi rend="italic">a</hi>) (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">3. Find, and simplify, the 23d term in the expansion of</p>
+                  <p rend="justify">4. The weight of an object varies directly as its distance from the center of the earth when it is below the earth's surface, and inversely as the square of its distance from the center when it is above the surface. If an object weighs 10 pounds at the surface, how far above, and how far below the surface will it weigh 9 pounds? (The radius of the earth may be taken as 4000 miles.)</p>
+                  <p rend="justify">5. Solve the following pair of equations for <hi rend="italic">x</hi>  and <hi rend="italic">y</hi>:</p>
+                  <p rend="justify">6. Find the value of when </p>
+                  <p rend="justify">7. From a square of pasteboard, 12 inches on a side, square corners are cut, and the sides are turned up to form a rectangular box. If the squares cut out from the corners had been 1 inch larger on a side, the volume of the box would have been increased 28 cubic inches. What is the size of the square corners cut out? (See the figure on the blackboard.)</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HARVARD UNIVERSITY</head>
+               <div type="div3">
+                  <head>ELEMENTARY ALGEBRA</head>
+                  <p rend="justify">Time: One Hour and a Half</p>
+                  <p rend="justify">Arrange your work neatly and clearly, beginning each question on a separate page.</p>
+                  <p rend="justify">1. Simplify the following expression:</p>
+                  <p rend="justify">2. (<hi rend="italic">a</hi>) Write the middle term of the expansion of by the binomial theorem.</p>
+                  <p rend="justify">2. (<hi rend="italic">b</hi>) Find the value of if</p>
+                  <p rend="justify">  and </p>
+                  <p rend="justify">2. (<hi rend="italic">b</hi>) and reduce the result to a form having only positive exponents.</p>
+                  <p rend="justify">3. Find correct to three significant figures the negative root of the equation</p>
+                  <p rend="justify">4. Prove the rule for finding the sum of <hi rend="italic">n</hi>  terms of a geometrical progression of which the first term is <hi rend="italic">a</hi>  and the constant ratio is <hi rend="italic">r</hi>.</p>
+                  <p rend="justify">4. Find the sum of 8 terms of the progression</p>
+                  <p rend="justify">5. A goldsmith has two alloys of gold, the first being pure gold, the second pure gold. How much of each must he take to produce 100 ounces of an alloy which shall be pure gold?</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HARVARD UNIVERSITY</head>
+               <div type="div3">
+                  <head>ELEMENTARY ALGEBRA</head>
+                  <p rend="justify">Time: One Hour and a Half</p>
+                  <p rend="justify">1. Solve the simultaneous equations</p>
+                  <p rend="justify">    </p>
+                  <p rend="justify">1. and verify your results.</p>
+                  <p rend="justify">2. Solve the equation obtaining the values of the roots correct to three significant figures.</p>
+                  <p rend="justify">3. Write out the first four terms of Find the fourth term of this expansion when</p>
+                  <p rend="justify">3. expressing the result in terms of a single radical, and without fractional or negative exponents.</p>
+                  <p rend="justify">4. Reduce the following expression to a polynomial in <hi rend="italic">a</hi>  and <hi rend="italic">b</hi>:</p>
+                  <p rend="justify">5. The cost of publishing a book consists of two main items: first, the fixed expense of setting up the type; and, second, the running expenses of presswork, binding, etc., which may be assumed to be proportional to the number of copies. A certain book costs 35 cents a copy if 1000 copies are published at one time, but only 19 cents a copy if 5000 copies are published at one time. Find (<hi rend="italic">a</hi>) the cost of setting up the type for the book, and (<hi rend="italic">b</hi>) the cost of presswork, binding, etc., per thousand copies.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HARVARD UNIVERSITY</head>
+               <div type="div3">
+                  <head>ELEMENTARY ALGEBRA</head>
+                  <p rend="justify">Time: One Hour and a Half</p>
+                  <p rend="justify">1. Find the highest common factor and the lowest common multiple of the three expressions</p>
+                  <p rend="justify">      </p>
+                  <p rend="justify">2. Solve the quadratic equation</p>
+                  <p rend="justify">2. computing the value of the larger root correct to three significant figures.</p>
+                  <p rend="justify">3. In the expression</p>
+                  <p rend="justify">3. substitute for <hi rend="italic">x</hi>  and <hi rend="italic">y</hi>  the values</p>
+                  <p rend="justify">3. and reduce the resulting expression to its simplest form.</p>
+                  <p rend="justify">4. State and prove the formula for the sum of the first <hi rend="italic">n</hi>  terms of a geometric progression in which <hi rend="italic">a</hi>  is the first term and <hi rend="italic">r</hi>  the constant ratio.</p>
+                  <p rend="justify">5. A state legislature is to elect a United States senator, a majority of all the votes cast being necessary for a choice. There are three candidates, A, B, and C, and 100 members vote. On the first ballot A has the largest number of votes, receiving 9 more votes than his nearest competitor, B; but he fails of the necessary majority. On the second ballot C's name is withdrawn, and all the members who voted for C now vote for B, whereupon B is elected by a majority of 2. How many votes were cast for each candidate on the first ballot?</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</head>
+               <div type="div3">
+                  <head>ALGEBRA A</head>
+                  <p rend="justify">Time: One Hour and Three Quarters</p>
+                  <p rend="justify">1. Factor the expressions:</p>
+                  <p rend="justify">2. Simplify the expression:</p>
+                  <p rend="justify">3. Find the value of when </p>
+                  <p rend="justify">4. Solve the equations:</p>
+                  <p rend="justify">5. Solve the equations:</p>
+                  <p rend="justify">6. Two squares are formed with a combined perimeter of 16 inches. One square contains 4 square inches more than the other. Find the area of each.</p>
+                  <p rend="justify">7. A man walked to a railway station at the rate of 4 miles an hour and traveled by train at the rate of 30 miles an hour, reaching his destination in 20 hours. If he had walked 3 miles an hour and ridden 35 miles an hour, he would have made the journey in 18 hours. Required the total distance traveled.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</head>
+               <div type="div3">
+                  <head>ALGEBRA B</head>
+                  <p rend="justify">Time: One Hour and Three Quarters</p>
+                  <p rend="justify">1. How many terms must be taken in the series 2, 5, 8, 11, ··· so that the sum shall be 345?</p>
+                  <p rend="justify">2. Prove the formula for solving the quadratic equation </p>
+                  <p rend="justify">3. Find all values of <hi rend="italic">a</hi>  for which is a root of and check your results.</p>
+                  <p rend="justify">4. Solve and sketch the graphs.</p>
+                  <p rend="justify">5. The sum of two numbers <hi rend="italic">x</hi>  and <hi rend="italic">y</hi>  is 5, and the sum of the two middle terms in the expansion of is equal to the sum of the first and last terms. Find the numbers.</p>
+                  <p rend="justify">6. Solve </p>
+                  <p rend="justify">6. (Hint: Divide by and substitute )</p>
+                  <p rend="justify">7. In anticipation of a holiday a merchant makes an outlay of $50, which will be a total loss in case of rain, but which will bring him a clear profit of $150 above the outlay if the day is pleasant. To insure against loss he takes out an insurance policy against rain for a certain sum of money for which he has to pay a certain percentage. He then finds that whether the day be rainy or pleasant he will make $80 clear. What is the amount of the policy, and what rate did the company charge him?</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</head>
+               <div type="div3">
+                  <head>ALGEBRA A</head>
+                  <p rend="justify">Time: Two Hours</p>
+                  <p rend="justify">1. Simplify </p>
+                  <p rend="justify">2. Find the prime factors of</p>
+                  <p rend="justify">(<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">(<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">3. (<hi rend="italic">a</hi>) Simplify</p>
+                  <p rend="justify">3. (<hi rend="italic">b</hi>) Show that</p>
+                  <p rend="justify">4. Define <hi rend="italic">homogeneous terms</hi>.</p>
+                  <p rend="justify">4. For what value of <hi rend="italic">n</hi>  is a homogeneous binomial?</p>
+                  <p rend="justify">5. Extract the square root of</p>
+                  <p rend="justify">6. Two vessels contain each a mixture of wine and water. In the first vessel the quantity of wine is to the quantity of water as and in the second as What quantity must be taken from each, so as to form a third mixture which shall contain 5 gallons of wine and 9 gallons of water?</p>
+                  <p rend="justify">7. Find a quantity such that by adding it to each of the quantities <hi rend="italic">a</hi>, <hi rend="italic">b</hi>, <hi rend="italic">c</hi>, <hi rend="italic">d</hi>, we obtain four quantities in proportion.</p>
+                  <p rend="justify">8. What values must be given to <hi rend="italic">a</hi>  and <hi rend="italic">b</hi>, so that may be equal?</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MOUNT HOLYOKE COLLEGE</head>
+               <div type="div3">
+                  <head>ELEMENTARY ALGEBRA</head>
+                  <p rend="justify">Time: Two Hours</p>
+                  <p rend="justify">1. Factor the following expressions:</p>
+                  <p rend="justify">1. (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">1. (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">1. (<hi rend="italic">c</hi>)</p>
+                  <p rend="justify">2. (<hi rend="italic">a</hi>) Simplify</p>
+                  <p rend="justify">2. (<hi rend="italic">b</hi>) Extract the square root of</p>
+                  <p rend="justify">3. Solve the following equations:</p>
+                  <p rend="justify">3. (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">3. (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">3. (<hi rend="italic">c</hi>)</p>
+                  <p rend="justify">4. Simplify:</p>
+                  <p rend="justify">4. (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">4. (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">4. (<hi rend="italic">c</hi>) Find</p>
+                  <p rend="justify">5. Plot the graphs of the following system, and determine the solution from the point of intersection:</p>
+                  <p rend="justify">6. (<hi rend="italic">a</hi>) Derive the formula for the solution of</p>
+                  <p rend="justify">6. (<hi rend="italic">b</hi>) Determine the value of <hi rend="italic">m</hi>  for which the roots of are (i) equal, (ii) real, (iii) imaginary.</p>
+                  <p rend="justify">6. (<hi rend="italic">c</hi>) Form the quadratic equation whose roots are</p>
+                  <p rend="justify">  and </p>
+                  <p rend="justify">7. A page is to have a margin of 1 inch, and is to contain 35 square inches of printing. How large must the page be, if the length is to exceed the width by 2 inches?</p>
+                  <p rend="justify">8. (<hi rend="italic">a</hi>) In an arithmetical progression the sum of the first six terms is 261, and the sum of the first nine terms is 297. Find the common difference.</p>
+                  <p rend="justify">8. (<hi rend="italic">b</hi>) Three numbers whose sum is 27 are in arithmetical progression. If 1 is added to the first, 3 to the second, and 11 to the third, the sums will be in geometrical progression. Find the numbers.</p>
+                  <p rend="justify">8. (<hi rend="italic">c</hi>) Derive the formula for the sum of <hi rend="italic">n</hi>  terms of a geometrical progression.</p>
+                  <p rend="justify">9. (<hi rend="italic">a</hi>) Expand and simplify</p>
+                  <p rend="justify">9. (<hi rend="italic">b</hi>) For what value of <hi rend="italic">x</hi>  will the ratio be equal to the ratio ?</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>UNIVERSITY OF PENNSYLVANIA</head>
+               <div type="div3">
+                  <head>ELEMENTARY ALGEBRA</head>
+                  <p rend="justify">Time: Three Hours</p>
+                  <p rend="justify">1. Simplify: </p>
+                  <p rend="justify">2. Find the H. C. F. and L. C. M. of</p>
+                  <p rend="justify">      </p>
+                  <p rend="justify">3. A grocer buys eggs at 4 for 7¢. He sells of them at 5 for 12¢, and the rest at 6 for 11¢, making 27¢ by the transaction. How many eggs does he buy?</p>
+                  <p rend="justify">4. Solve for <hi rend="italic">t</hi>:</p>
+                  <p rend="justify">5. Find the square root of </p>
+                  <p rend="justify">6. (<hi rend="italic">a</hi>) For what values of <hi rend="italic">m</hi>  will the roots of be equal?</p>
+                  <p rend="justify">6. (<hi rend="italic">b</hi>) If is a root of find the other root without solving the equation.</p>
+                  <p rend="justify">7. (<hi rend="italic">a</hi>) Solve for <hi rend="italic">x</hi>:</p>
+                  <p rend="justify">7. (<hi rend="italic">b</hi>) Solve for <hi rend="italic">m</hi>:</p>
+                  <p rend="justify">8. Solve the system:   </p>
+                  <p rend="justify">9. Two boats leave simultaneously opposite shores of a river mi. wide and pass each other in 15 min. The faster boat completes the trip min. before the other reaches the opposite shore. Find the rates of the boats in miles per hour.</p>
+                  <p rend="justify">10. Write the sixth term of without writing the preceding terms.</p>
+                  <p rend="justify">11. The sum of the 2d and 20th terms of an A. P. is 10, and their product is What is the sum of sixteen terms?</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PRINCETON UNIVERSITY</head>
+               <div type="div3">
+                  <head>ALGEBRA A</head>
+                  <p rend="justify">Time: Two Hours</p>
+                  <p rend="justify">Candidates who are at this time taking <hi rend="italic">both</hi>  Algebra A and Algebra B may omit from Algebra A questions 4, 5, and 6, and from Algebra B questions 1 (<hi rend="italic">a</hi>), 3, and 4.</p>
+                  <p rend="justify">1. Simplify</p>
+                  <p rend="justify">2. (<hi rend="italic">a</hi>) Divide by</p>
+                  <p rend="justify">2. (<hi rend="italic">b</hi>) Simplify</p>
+                  <p rend="justify">3. Factor: (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">3. Factor: (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">4. Solve </p>
+                  <p rend="justify">5. Solve for <hi rend="italic">x</hi>  and <hi rend="italic">y</hi>:</p>
+                  <p rend="justify">6. The road from A to B is uphill for 5 mi., level for 4 mi., and then downhill for 6 mi. A man walks from B to A in 4 hr.; later he walks halfway from A to B and back again to A in 3 hr. and 55 min.; and later he walks from A to B in 3 hr. and 52 min. What are his rates of walking uphill, downhill, and on the level, if these do not vary?</p>
+               </div>
+               <div type="div3">
+                  <head>ALGEBRA B</head>
+                  <p rend="justify">1. Solve (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">1. Solve (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">1. Solve (<hi rend="italic">c</hi>)</p>
+                  <p rend="justify">2. Solve for <hi rend="italic">x</hi>  and <hi rend="italic">y</hi>, checking one solution in each problem:</p>
+                  <p rend="justify">2. (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">2. (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">3. A man arranges to pay a debt of $3600 in 40 monthly payments which form an A. P. After paying 30 of them he still owes of his debt. What was his first payment?</p>
+                  <p rend="justify">4. If 4 quantities are in proportion and the second is a mean proportional between the third and fourth, prove that the third will be a mean prop. between the first and second.</p>
+                  <p rend="justify">5. In the expansion of the ratio of the fourth term to the fifth is Find <hi rend="italic">x</hi>.</p>
+                  <p rend="justify">6. Two men A and B can together do a piece of work in 12 days; B would need 10 days more than A to do the whole work. How many days would it take A alone to do the work?</p>
+               </div>
+               <div type="div3">
+                  <head>ALGEBRA TO QUADRATICS</head>
+                  <p rend="justify">1. Simplify </p>
+                  <p rend="justify">2. Simplify </p>
+                  <p rend="justify">3. Factor (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">3. Factor (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">3. Factor (<hi rend="italic">c</hi>)</p>
+                  <p rend="justify">4. Find H. C. F. of and </p>
+                  <p rend="justify">5. Solve </p>
+                  <p rend="justify">6. The sum of three numbers is 51; if the first number be divided by the second, the quotient is 2 and the remainder 5; if the second number be divided by the third, the quotient is 3 and the remainder 2. What are the numbers?</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SMITH COLLEGE</head>
+               <div type="div3">
+                  <head>ELEMENTARY ALGEBRA</head>
+                  <p rend="justify">1. Factor       </p>
+                  <p rend="justify">2. Solve </p>
+                  <p rend="justify">3. The second term of a geometrical progression is and the fifth term is Find the first term and the ratio.</p>
+                  <p rend="justify">4. Solve the following equations and check your results by plotting:</p>
+                  <p rend="justify">5. Solve</p>
+                  <p rend="justify">6. In an arithmetical progression Find <hi rend="italic">a</hi>  and <hi rend="italic">l</hi>.</p>
+                  <p rend="justify">7. Expand by the binomial theorem and simplify:</p>
+                  <p rend="justify">8. The diagonal of a rectangle is 13 ft. long. If each side were longer by 2 ft., the area would be increased by 38 sq. ft. Find the lengths of the sides.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SMITH COLLEGE</head>
+               <div type="div3">
+                  <head>ELEMENTARY ALGEBRA</head>
+                  <p rend="justify">1. Find the H. C. F. of and </p>
+                  <p rend="justify">2. Solve:</p>
+                  <p rend="justify">2. (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">2. (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">3. A farmer sold a horse at $75 for which he had paid <hi rend="italic">x</hi>  dollars. He realized <hi rend="italic">x</hi>  per cent profit by his sale. Find <hi rend="italic">x</hi>.</p>
+                  <p rend="justify">4. Find the 13th term and the sum of 13 terms of the arithmetical progression</p>
+                  <p rend="justify">  ···.</p>
+                  <p rend="justify">5. The difference between two numbers is 48. Their arithmetical mean exceeds their geometrical mean by 18. Find the numbers.</p>
+                  <p rend="justify">6. Expand by the binomial theorem and simplify</p>
+                  <p rend="justify">7. Solve: </p>
+                  <p rend="justify">8. Solve the following equations and check the results by finding the intersections of the graphs of the two equations:</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>VASSAR COLLEGE</head>
+               <div type="div3">
+                  <head>ELEMENTARY AND INTERMEDIATE ALGEBRA</head>
+                  <p rend="justify">Answer any six questions.</p>
+                  <p rend="justify">1. Find the product of</p>
+                  <p rend="justify">  and </p>
+                  <p rend="justify">2. Resolve into linear factors:</p>
+                  <p rend="justify">2. (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">2. (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">2. (<hi rend="italic">c</hi>)</p>
+                  <p rend="justify">2. (<hi rend="italic">d</hi>)</p>
+                  <p rend="justify">3. Reduce to simplest form:</p>
+                  <p rend="justify">3. (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">3. (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">4. (<hi rend="italic">a</hi>) Divide by</p>
+                  <p rend="justify">4. (<hi rend="italic">b</hi>) Find correct to one place of decimals the value of</p>
+                  <p rend="justify">5. (<hi rend="italic">a</hi>) If show that</p>
+                  <p rend="justify">5. (<hi rend="italic">b</hi>) Two numbers are in the ratio and if 7 be subtracted from each the remainders are in the ratio Find the numbers.</p>
+                  <p rend="justify">6. Solve the equations:</p>
+                  <p rend="justify">6. (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">6. (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">6. (<hi rend="italic">c</hi>)</p>
+                  <p rend="justify">7. A field could be made into a square by diminishing the length by 10 feet and increasing the breadth by 5 feet, but its area would then be diminished by 210 square feet. Find the length and the breadth of the field.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>VASSAR COLLEGE</head>
+               <div type="div3">
+                  <head>ELEMENTARY AND INTERMEDIATE ALGEBRA</head>
+                  <p rend="justify">Answer six questions, including No. 5 and No. 7 or 8. Candidates in Intermediate Algebra will answer Nos. 5-9.</p>
+                  <p rend="justify">1. Find two numbers whose ratio is 3 and such that two sevenths of the larger is 15 more than one half the smaller.</p>
+                  <p rend="justify">2. Determine the factors of the lowest common multiple of and </p>
+                  <p rend="justify">3. Find to two decimal places the value of</p>
+                  <p rend="justify">  when and </p>
+                  <p rend="justify">4. Solve the equations: </p>
+                  <p rend="justify">5. Solve any 3 of these equations:</p>
+                  <p rend="justify">5. (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">5. (<hi rend="italic">b</hi>)</p>
+                  <p rend="justify">5. (<hi rend="italic">c</hi>)</p>
+                  <p rend="justify">5. (<hi rend="italic">d</hi>)</p>
+                  <p rend="justify">6. The sum of two numbers is 13, and the sum of their cubes is 910. Find the smaller number, correct to the second decimal place.</p>
+                  <p rend="justify">7. The sum of 9 terms of an arithmetical progression is 46; the sum of the first 5 terms is 25. Find the common difference.</p>
+                  <p rend="justify">8. Explain the terms, and prove that if four numbers are in proportion, they are in proportion by <hi rend="italic">alternation</hi>, by <hi rend="italic">inversion</hi>, and by <hi rend="italic">composition</hi>. Find <hi rend="italic">x</hi>  when</p>
+                  <p rend="justify">9. Find the value of <hi rend="italic">x</hi>  in each of these equations:</p>
+                  <p rend="justify">9. (<hi rend="italic">a</hi>)</p>
+                  <p rend="justify">9. (<hi rend="italic">b</hi>)</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>YALE UNIVERSITY</head>
+               <div type="div3">
+                  <head>ALGEBRA A</head>
+                  <p rend="justify">Time: One Hour</p>
+                  <p rend="justify">Omit one question in Group II and one in Group III. Credit will be given for <hi rend="italic">six</hi>  questions only.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Group I</hi>
+                  </p>
+                  <p rend="justify">1. Resolve into prime factors: (<hi rend="italic">a</hi>)  (<hi rend="italic">b</hi>) (<hi rend="italic">c</hi>) </p>
+                  <p rend="justify">2. Simplify </p>
+                  <p rend="justify">3. Solve </p>
+                  <p rend="justify">
+                     <hi rend="italic">Group II</hi>
+                  </p>
+                  <p rend="justify">4. Simplify and compute the value of the fraction to two decimal places.</p>
+                  <p rend="justify">5. Solve the simultaneous equations </p>
+                  <p rend="justify">
+                     <hi rend="italic">Group III</hi>
+                  </p>
+                  <p rend="justify">6. Two numbers are in the ratio of If <hi rend="italic">a</hi>  be added to the first and subtracted from the second, the results will be in the ratio of Find the numbers.</p>
+                  <p rend="justify">7. A dealer has two kinds of coffee, worth 30 and 40 cents per pound. How many pounds of each must be taken to make a mixture of 70 pounds, worth 36 cents per pound?</p>
+                  <p rend="justify">8. A, B, and C can do a piece of work in 30 hours. A can do half as much again as B, and B two thirds as much again as C. How long would each require to do the work alone?</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>YALE UNIVERSITY</head>
+               <div type="div3">
+                  <head>ALGEBRA B</head>
+                  <p rend="justify">Time: One Hour</p>
+                  <p rend="justify">Omit one question in Group I and one in Group II. Credit will be given for <hi rend="italic">five</hi>  questions only.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Group I</hi>
+                  </p>
+                  <p rend="justify">1. Solve </p>
+                  <p rend="justify">2. Solve the simultaneous equations </p>
+                  <p rend="justify">2. Arrange the roots in corresponding pairs.</p>
+                  <p rend="justify">3. Solve </p>
+                  <p rend="justify">
+                     <hi rend="italic">Group II</hi>
+                  </p>
+                  <p rend="justify">4. In going 7500 yd. a front wheel of a wagon makes 1000 more revolutions than a rear one. If the wheels were each 1 yd. greater in circumference, a front wheel would make 625 more revolutions than a rear one. Find the circumference of each.</p>
+                  <p rend="justify">5. Two cars of equal speed leave A and B, 20 mi. apart, at different times. Just as the cars pass each other an accident reduces the power and their speed is decreased 10 mi. per hour. One car makes the journey from A to B in 56 min., and the other from B to A in 72 min. What is their common speed?</p>
+                  <p rend="justify">
+                     <hi rend="italic">Group III</hi>
+                  </p>
+                  <p rend="justify">6. Write in the simplest form the last three terms of the expansion of </p>
+                  <p rend="justify">7. (<hi rend="italic">a</hi>) Derive the formula for the sum of an A. P.</p>
+                  <p rend="justify">7. (<hi rend="italic">b</hi>) Find the sum to infinity of the series 1, ···. Also find the sum of the positive terms.</p>
+                  <p rend="justify"> </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

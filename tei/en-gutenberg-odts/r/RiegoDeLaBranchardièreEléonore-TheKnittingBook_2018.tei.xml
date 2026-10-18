@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Knitting Book</title>
+            <author>Eléonore Riego de la Branchardière</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T19:38:12Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/r/RiegoDeLaBranchardièreEléonore-TheKnittingBook_2018.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Eléonore Riego de la Branchardière</name>
+               <date>2024-01-04T19:38:12Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Knitting Book</head>
+         <author>Eléonore Riego de la Branchardière</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/r/RiegoDeLaBranchardièreEléonore-TheKnittingBook_2018.odt</p>
+         <head>THE KNITTING BOOK.</head>
+         <p>THE</p>
+         <p>KNITTING BOOK.</p>
+         <p>BY</p>
+         <p>M<hi rend="sup">DLLE.</hi>  RIEGO DE LA BRANCHARDIERE.</p>
+         <p>THIRD EDITION.</p>
+         <p>LONDON:</p>
+         <p>SIMPKIN, MARSHALL, AND CO.,</p>
+         <p>ACKERMANN &amp; CO., STRAND; OLIVER AND BOYD, EDINBURGH;</p>
+         <p>AND ALL THE BERLIN WAREHOUSES.</p>
+         <p>1848.</p>
+         <p>
+            <hi rend="italic">Ladies</hi>  are respectfully informed that these articles <hi rend="italic">cannot</hi>  be purchased without the <hi rend="italic">registered</hi>  mark being affixed; and parties wishing to manufacture them for the purposes of sale, must have the authoress’s permission.</p>
+         <p>WILKINSON &amp; CO., PRINTERS, 1, BARTLETT’S COURT, HOLBORN HILL.</p>
+         <pb/>
+         <div type="div1">
+            <head>PREFACE.</head>
+            <p>It is usually considered necessary to introduce works of any description, however trifling, with a few prefatory remarks. Happily the days of dedication are nearly at their close, and an author has now only to direct the attention of the reader to any particular leading features.</p>
+            <p>I trust that my endeavours in this Knitting Book, in the elementary instructions contained, with the full explanation of terms and carefully executed illustrations, are conveyed with a distinctiveness, easily to be comprehended by the learner. The designs are original, and have repeatedly been worked with great care, to prove their correctness; the illustrations have equally shared my supervision; and I humbly hope and trust that it may be as successful, and give as much satisfaction to my friends and the public, as my Crochet Book, for which I am amply rewarded by its unprecedented success, and grateful for the many flattering testimonials received. I must here also make some observations upon the many cheap publications that have recently appeared (two of which have copied <hi rend="italic">verbatim</hi>  my illustrated instructions, even to a fault in the drawing), and to direct the attention of those of my readers competent to understand the many plagiarisms and general unfitness as works of instruction, of the majority, if not the whole of those publications. I should hope, and it is needless to say, that these remarks proceed not from the impulse of a spirit of rivalry, but from a sincere conviction that the details and instructions therein conveyed are calculated seriously to mislead, if not entirely prevent and disgust the student from acquiring a proper knowledge of these elegant and useful employments, by their incorrectness; that, in short, they are nothing more than very imperfect arrangements, copied from the really useful Works that have been hitherto published, and tend quite as much to injure those Who publish from experience, as those who learn in order to derive instruction or add information to their previous knowledge.</p>
+            <p>E. R. B.</p>
+            <p>Ladies who may require instruction, can obtain cards of address at the Publisher’s, or Messrs. Barry and Sons, Egyptian Hall, Piccadilly.</p>
+            <p>☞ These designs are registered, but any person desirous of working the patterns for the purposes of sale, can have permission upon application.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>CONTENTS. /x/</head>
+            <div type="div2">
+               <head>TERMS.</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell> </cell>
+                     <cell>PAGE</cell>
+                  </row>
+                  <row>
+                     <cell>To cast on with one Pin</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>To cast on with two Pins</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Plain Knitting</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>To make a Stitch</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>To make two, three, or more Stitches</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>To slip a Stitch</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>To knit two Stitches together</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>To knit three Stitches together</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Pearl, also called Seam-back, and Rib Knitting</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Pearl, and Plain Stitches in the same Row</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>To Pearl two or three Stitches together</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>To make a Stitch in Pearl Knitting</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>To form a Round</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>To raise Stitches</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>A Row</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>A Pattern</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>To join two Pieces of Knitting together</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>A Parenthesis ( )</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>A Mark *</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>To cast off</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Stitches over</cell>
+                     <cell>9</cell>
+                  </row>
+               </table>
+            </div>
+            <div type="div2">
+               <head>PATTERNS.</head>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell>Berthe. Chantilly Pattern</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Lace Edging for Berthe</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Manchette, Point Lace Pattern</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Double Collar, Malines Lace</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Anti-Macassar Pattern</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>—— Maltese Pattern</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Centre for Shawl, Venetian Pattern</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Round Border for ditto</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell>Fringe for ditto</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Canezou</cell>
+                     <cell>39</cell>
+                  </row>
+                  <row>
+                     <cell>Chemisette, Genoese</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Cap (Baby’s)</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Crown for ditto</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell>Couvre Pied, or Curtain</cell>
+                     <cell>47</cell>
+                  </row>
+                  <row>
+                     <cell>Collar</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Lace Edging</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>—— DITTO</cell>
+                     <cell>54</cell>
+                  </row>
+               </table>
+               <p>INSTRUCTION IN KNITTING,</p>
+               <p>AND</p>
+               <p>EXPLANATION OF TERMS.</p>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>The Knitting Book</head>
+            <pb/>
+            <div type="div2">
+               <head>TO CAST ON WITH ONE PIN.</head>
+               <p rend="justify">Take the thread, and putting it between the second and third fingers of the left hand, leave an end of about one yard for every 100 stitches; pass it round the left thumb, from left to right; then take the pin in the right hand, placing it under the crossing of the thread; put the needle down the loop, and bring the thread from the outside forward on the point of the pin; take the thread in the right hand, and passing it round the pin as A, turn the loop B on the left thumb over the pin, and draw it tight with the end thread in the left hand, and repeat until the required number of stitches are on the pin.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO CAST ON WITH TWO PINS.</head>
+               <p rend="justify">This is the Spanish method, and is particularly adapted for working fine wools, by its forming a looser stitch. Tie a loop at the end of the thread, and put it on the pin, holding it in the left hand; take the other pin with the right hand, and put it in the loop; pass the thread between the pins, and bring it forward then with the right hand pin; bring the thread through the loop on the left pin; there will now be a loop on each pin as C and D; then pass the loop D on to the left pin; repeat by putting the right hand pin through the loop D, and passing the thread between the pins as before.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PLAIN KNITTING.</head>
+               <p rend="justify">After casting on the stitches, hold the pin with the stitches on it in the left hand, and with the thread turned round the little finger of the right hand pass it under the second and third fingers, and over the forefinger; take the other pin in the right hand; put this pin into the first loop on the left pin, and with the forefinger of the right hand pass the thread between the pins, bring the thread through, which forms one stitch; then take the loop off the left pin and repeat.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO MAKE A STITCH</head>
+               <p rend="justify">Bring the thread forward between the pins; when this stitch is worked in the next row it will form an open stitch.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO MAKE TWO, THREE, OR MORE STITCHES.</head>
+               <p rend="justify">Turn the thread as many times round the pin as E, F, G, and in the next row; pearl a stitch and knit a stitch, alternately, taking off one turn of the thread each time, for as many stitches as were made in the row before.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO SLIP A STITCH.</head>
+               <p rend="justify">To pass a stitch from the left pin to the right without working it. In all knitting the first stitch of every row should be slipped to make a firm and even selvedge; this is not mentioned in the receipts, as it would much lengthen the description, but is to be observed as a fixed rule; for example, when a row commences thus; knit 2 together, work as follows:—slip the 1st stitch, knit the 2d, and turn the slipped stitch over the knitted one.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO KNIT TWO STITCHES TOGETHER.</head>
+               <p rend="justify">Take two stitches with the right hand pin, and knit as 1 stitch.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO KNIT THREE STITCHES TOGETHER.</head>
+               <p rend="justify">Slip 1 stitch, knit 2 stitches together, and with the point of the left hand pin turn the slipped stitch over the 2 knitted together, leaving but 1 stitch.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PEARL, ALSO CALLED SEAM, BACK, AND RIB KNITTING.</head>
+               <p rend="justify">Commence the row with the thread in front of the pin, pass the point of the pin down the stitch, turn the thread round the pin, and take it off as in plain knitting; repeat, always keeping the thread in front.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PEARL AND PLAIN STITCHES IN THE SAME ROW.</head>
+               <p rend="justify">Pass the thread to the back of the work before knitting plain stitches, and to the front before pearling stitches.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO PEARL TWO OR THREE STITCHES TOGETHER</head>
+               <p rend="justify">Keep the thread in front of the pin, pass the point of the right pin down 2 or 3 stitches, and pearl them together.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO MAKE A STITCH IN PEARL KNITTING.</head>
+               <p rend="justify">Having the thread in front of the pin, turn the thread completely round the pin, so as to bring it in front again.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO FORM A ROUND.</head>
+               <p rend="justify">4 or 5 pins are required; cast on the required number of stitches on one pin, and divide them equally on the other 3 or 4 pins, keeping the 4th or 5th pin to knit with, and with this pin knit the 1st stitch that was cast; on knitting off the 3 or 4 pins form one round.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO RAISE STITCHES.</head>
+               <p rend="justify">The work must be held on the right side. Put the pin in the selvedge or side of the work, as H; pass the thread round the pin and bring it through, so as to form a stitch of plain knitting; repeat the same to the end.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A ROW.</head>
+               <p rend="justify">Is knitting from one end of the pin to the other.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A PATTERN.</head>
+               <p rend="justify">Is the number of rows, that are worked before commencing again.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO JOIN TWO PIECES OF KNITTING TOGETHER.</head>
+               <p rend="justify">As in the Berthe and Collar, place the two pins containing the work together, the deepest at the back, and with a third pin put it through one stitch of each pin, as I and K, and knit them as one stitch.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE STITCHES BETWEEN A PARENTHESIS ( ).</head>
+               <p rend="justify">(Knit 2 together, and knit 1 three times), are worked thus, knit 2 together, knit 1; knit 2 together, knit 1; knit 2 together, knit 1; this prevents useless repetition.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A MARK *.</head>
+               <p rend="justify">When this mark (*) occurs in a row, the stitches before it are not to be repeated in the row, being merely the edge stitches to prevent the work from decreasing; thus when knit 3 together, is in a row, the row generally begins with knit 2 together and ends the same.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO CAST OFF.</head>
+               <p rend="justify">Knit the first 2 stitches; turn the first stitch, as L, over the 2d M; knit the 3d and turn the 2d stitch over; repeat at the end of the row, draw the thread through and fasten off. When part of a row only is cast off, as for example—cast off 30 stitches, leaving 20 stitches; cast off 31 stitches, and put the last loop cast off on the left pin, to make up the 20 stitches.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>STITCHES OVER.</head>
+               <p rend="justify">A stitch or stitches over, in many of the patterns, commencing thus—“cast on 10 stitches for each pattern, and one over” for 7 patterns, cast on 71 stitches. As many patterns end with “make a stitch,” it could not be done without this stitch to perfect the pattern.</p>
+               <p rend="justify">The pins are all gauged by the Bell Gauge.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BERTHE. CHANTILLY PATTERN.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Crochet or Knitting Thread, No. 8; Pins No. 19, or Fine Black Netting Silk.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">This Berthe is composed of two rows of lace, with open rows between them for ribbon. In this pattern, the pearl stitch is the half of the 2 made stitches in the row before. Cast on 49 stitches with one pin.</hi>
+               </p>
+               <p rend="justify">1st row.—Knit 2 together, make 2, knit 3 together, make 1, knit 2 together, knit 2, knit 2 together, make 1, knit 3, make 1, knit 3 together, make 1, knit 3, make 1, knit 3 together, make 1, knit 3, make 1, knit 2 together, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 14.</p>
+               <p rend="justify">2d.—Make 1, knit 2 together, knit 12, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 3, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 3, knit 2 together, make 1, knit 2, pearl half a stitch, knit 1.</p>
+               <p rend="justify">3d.—Knit 2 together, make 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 3, make 1, knit 3 together, make 1, knit 3, make 1, knit 3 together, make 1, knit 3, make 1, knit 3 together, make 1, knit 2 together, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 14.</p>
+               <p rend="justify">4th.—Make 1, knit 2 together, knit 11, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 4, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 4, knit 2 together, make 1, knit 3, make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">5th.—Knit 2 together, make 2, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 4, make 1, knit 3 together, make 1, knit 3, make 1, knit 3 together, make 1, knit 4, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 12.</p>
+               <p rend="justify">6th.—Make 1, knit 2 together, knit 9, knit 2 together, make 1, knit 7, make 1, knit 2 together, knit 5, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 5, knit 2 together, make 1, knit 7, make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">7th.—Knit 2 together, make 2, knit 2 together, make 1, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 5, make 1, knit 3 together, make 1, knit 5, knit 2 together, make 1, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 10.</p>
+               <p rend="justify">8th.—Make 1, knit 2 together, knit 7, knit 2 together, make 1, knit 2, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 11, knit 2 together, make 1, knit 2, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 2, make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">9th.—Knit 2 together, make 2 *, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 9, repeat from * once more; end with 8 plain instead of 9.</p>
+               <p rend="justify">10th.—Make 1, knit 2 together, knit 5, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 1, make 1, knit three together, make 1, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 7, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 1, make 1, knit 3 together, make 1, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">11th.—Knit 2 together, make 2 *, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 5; repeat from * once more, and end with 1 plain.</p>
+               <p rend="justify">12th.—Make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 7, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 7; repeat once more, and end with make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">13th.—Knit 2 together, make 2 *, knit 2 together, make 1, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 3 together, make 1, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 1; repeat from * once more, and end with knit 3.</p>
+               <p rend="justify">14th.—Make 1, knit 2 together, knit 3 *, make 1, knit 2, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 2, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 3, make 1, knit 2 together, knit 2, make 1, knit 3 together; repeat from * once more, and end with knit 2 together instead of three together, pearl 1, knit 1.</p>
+               <p rend="justify">15th.—Knit 2 together, make 2, knit 2 together *, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, knit 2 together, make 1, knit 3; repeat from * 3 times more, and end with knit 3.</p>
+               <p rend="justify">16th.—Make 1, knit 2 together *, knit 5, make 1, knit 2 together, knit 1, make 1, knit 3 together, make 1, knit 1, knit 2 together, make 1; repeat from * 3 times more, and end with knit 2 together, knit 1, pearl 1, knit 1.</p>
+               <p rend="justify">17th.—Knit 2 together, make 2, knit 3 together *, make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 7; repeat from * 3 times more, and end with one plain.</p>
+               <p rend="justify">18th.—Make 1, knit 2 together *, knit 7, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 2; repeat from * once more, and end with knit 3 together instead of 2 plain, pearl 1, knit 1.</p>
+               <p rend="justify">19th.—Knit 2 together, make 2, knit 2 together *, make 1, knit 3 together, make 1, knit 2, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 2, make 1, knit 3 together, make 1, knit 11; repeat from * once more, and end with 10 plain instead of 11.</p>
+               <p rend="justify">20th.—Make 1, knit 2 together, knit 8, knit 3 together, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, knit 2 together, make 1, knit 6, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 6, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, knit 2 together, make 1, knit 3 together, knit 2 together, pearl 1, knit 1.</p>
+               <p rend="justify">21st.—Knit 2 together, make 2, knit 3 together, make 1, knit 2 together, knit 1, make 1, knit 3 together, make 1, knit 1, knit 2 together, make 1, knit 6, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 6, make 1, knit 2 together, knit 1, make 1, knit 3 together, make 1, knit 1, knit 2 together, make 1, knit 12.</p>
+               <p rend="justify">22d.—Make 1, knit 2 together, knit 11, make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 5, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 5, make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 2 together, knit 1, pearl 1, knit 1.</p>
+               <p rend="justify">23d.—Knit 2 together, make 2, knit 3 together, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 5, knit 2 together, make 1, knit 3, make 1, knit 3 together, make 1, knit 3, make 1, knit 2 together, knit 5, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 14.</p>
+               <p rend="justify">24th.—Make 1, knit 2 together, knit 13, make 1, knit 3 together, make 1, knit 4, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 4, make 1, knit 3 together, make 1, knit 3 together, pearl 1, knit 1.</p>
+               <p rend="justify">Repeat from 1st row—and when sufficient is made, cast off. For the ribbon raise the loops at the selvedge and knit 6 rows plain.</p>
+               <p rend="justify">7th.—Knit 3 plain *, make 6, knit 3 together, knit 1, knit 3 together; repeat from * to the end.</p>
+               <p rend="justify">8th.—Knit 3 together, pearl 1, knit 1, pearl 1, knit 1, pearl 1, knit 1; these last 6 stitches are the made stitches in last row, taking off one turn of the thread each stitch; knit 6 rows plain.</p>
+               <p rend="justify">15th.—Knit 6 plain, and then work the same as the 7th row from the *.</p>
+               <p rend="justify">16th.—Same as 8th, and then knit 6 rows plain.</p>
+               <p rend="justify">25th.—Same as 7th.</p>
+               <p rend="justify">26th.—Same as 8th, and then knit 6 rows plain. This finishes the 1st part of the Berthe, and leaving it on the pins, work the 2d part, and when as many patterns are completed as the 1st part, raise the loops of the selvedge on the pin, place the two parts together, the narrowest in front, and with a third pin knit 1 stitch off each together, and knit 2 rows plain and cast off.—See “Explanation of Terms, to Join.”</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CHANTILLY LACE EDGING.</head>
+               <p rend="justify">SECOND PART OF BERTHE.</p>
+               <p rend="justify">
+                  <hi rend="italic">This may be used for a variety of purposes. Pins and thread as before, cast on 21 stitches.</hi>
+               </p>
+               <p rend="justify">1st row.—Knit 2 together, make 2, knit 3 together, make 1, knit 2 together, knit 2, knit 2 together, make 1, knit 3, make 1, knit 3 together, make 1, knit 4.</p>
+               <p rend="justify">2d.—Make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 3, knit 2 together, make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">3d.—Knit 2 together, make 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 3, make 1, knit 3 together, make 1, knit 3, make 1, knit 2 together, knit 2.</p>
+               <p rend="justify">4th.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 4, knit 2 together, make 1, knit 3, make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">5th.—Knit 2 together, make 2, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 4, make 1, knit 3 together, make 1, knit 4.</p>
+               <p rend="justify">6th.—Make 1, knit 2 together, knit 8, knit 2 together, make 1, knit 7, make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">7th.—Knit 2 together, make 2, knit 2 together, make 1, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 9.</p>
+               <p rend="justify">8th.—Make 1, knit 2 together, knit 6, knit 2 together, make 1, knit 2, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 2, make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">9th.—Knit 2 together, make 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 7.</p>
+               <p rend="justify">10th.—Make 1, knit 2 together, knit 4, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 1, make 1, knit 3 together, make 1, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">11th.—Knit 2 together, make 2, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit, 3, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 5.</p>
+               <p rend="justify">12th.—Make 1, knit 2 together, knit 2, knit 2 together, make 1, knit 7, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 7, make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">13th.—Knit 2 together, make 2, knit 2 together, make 1, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 3 together, make 1, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 3.</p>
+               <p rend="justify">14th.—Make 1, (knit 2 together twice), make 1, knit 2, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 2, make 1, knit 1, make 1, knit 2, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 2, make 1, knit 2, pearl 1, knit 1.</p>
+               <p rend="justify">15th.—Knit 2 together, make 2, knit 3 together, * make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, knit 2 together, make 1, knit 3; repeat from * once more, and end with knit 1.</p>
+               <p rend="justify">16th.—Make 1, knit 2 together, knit 3, make 1, knit 2 together, knit 1, make 1, knit 3 together, make 1, knit 1, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 1, make 1, knit 3 together, make 1, knit 1, knit 2 together, make 1, knit 2 together, knit 1, pearl 1, knit 1.</p>
+               <p rend="justify">17th.—Knit 2 together, make 2, knit 3 together, make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 7, make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 6.</p>
+               <p rend="justify">18th.—Make 1, knit 2 together, knit 5, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 3 together, pearl 1, knit 1.</p>
+               <p rend="justify">19th.—Knit 2 together, make 2, knit 2 together, make 1, knit 3 together, make 1, knit 2, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 2, make 1, knit 3 together, make 1, knit 8.</p>
+               <p rend="justify">20th.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 6, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, knit 2 together, make 1, knit 3 together, knit 2 together, pearl 1, knit 1.</p>
+               <p rend="justify">21st.—Knit 2 together, make 2, knit 3 together, make 1, knit 2 together, knit 1, make 1, knit 3 together, make 1, knit 1, knit 2 together, make 1, knit 6, knit 2 together, make 1, knit 4.</p>
+               <p rend="justify">22d.—Make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 5, make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 2 together, knit 1, pearl 1, knit 1.</p>
+               <p rend="justify">23d.—Knit 2 together, make 2, knit 3 together, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 5, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 2.</p>
+               <p rend="justify">24th.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 4, (make 1, and knit 3 together twice), pearl 1, knit 1; commence again at the first row.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MANCHETTE, OR UNDER SLEEVE POINT LACE PATTERN.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Crochet or Knitting Thread, No. 12; Pins No. 21, Ball Gauge. Cast on 81 stitches with 2 pins.</hi>
+               </p>
+               <p rend="justify">1st row, pearl; 2d row, plain; 3d row, pearl; 4th row, plain; 5th row, pearl.</p>
+               <p rend="justify">6th.—Make 4, knit 3 together, knit 3 together; repeat.</p>
+               <p rend="justify">7th.—Pearl 3, knit 1, pearl 1, knit 1; the last 4 stitches are those made on 6th row; repeat.</p>
+               <p rend="justify">8th, plain; 9th, pearl; 10th, plain; 11th, pearl.</p>
+               <p rend="justify">12th.—Make 1, knit 2; repeat.</p>
+               <p rend="justify">13th.—Pearl. There will now be 121 stitches on the pin; these 13 rows form the band, and now commence the pattern.</p>
+               <p rend="justify">1st row.—Knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together; repeat at the end of the row, knit 1.</p>
+               <p rend="justify">2d.—Make 1, knit 3 together, make 1, knit 1, make 1, knit 2 together; repeat, and end with knit 1.</p>
+               <p rend="justify">3d.—Knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together; repeat, and end with knit 1.</p>
+               <p rend="justify">4th.—Knit 2 together *, make 1, knit 3, make 1, knit 3 together; repeat from *, and end with knit 2 together.</p>
+               <p rend="justify">5th.—Knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1; repeat, and end with knit 1.</p>
+               <p rend="justify">6th.—Knit 1, make 1, knit 2 together, make 1, knit 3 together, make 1; repeat, and end with knit 1.</p>
+               <p rend="justify">7th.—Same as 5th.</p>
+               <p rend="justify">8th.—Knit 2, make 1, knit 3 together, make 1, knit 1; repeat, at the end, knit 1. Repeat this pattern 3 times more, then knit a row, knit 1, knit 2 together, and repeat to the end, which will bring the manchette to the original 84 stitches; commence again at the 1st row, and work the band and the pattern once more, then work the band, and cast off; finish with the point lace edging working 9 scollops for each manchette, and trim with ribbon in each open row of the band.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>POINT LACE EDGING.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Crochet or Knitting Thread, No. 12; Pins No. 21, Bell Gauge. Cast on 12 stitches.</hi>
+               </p>
+               <p rend="justify">1st row.—Knit 2, make 1, (knit 2 together twice), make 1, knit 3, make 1, knit 3.</p>
+               <p rend="justify">2d.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together.</p>
+               <p rend="justify">3d.—Knit 2, make 1, knit 2 together, knit 1, make 1, knit 2 together, make 1, knit 3 together, make 1, knit 3.</p>
+               <p rend="justify">4th.—Make 1, knit 2 together, knit 1, make 1, knit 1, make 1, knit 2, knit 2 together, make 1, knit 3, make 1, knit 2 together.</p>
+               <p rend="justify">5th.—Knit 2, make 1, knit 2 together, knit 2, make 1, knit 3 together, make 1, knit 3, make 1, knit 3.</p>
+               <p rend="justify">6th.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 3, make 1, knit 2 together.</p>
+               <p rend="justify">7th.—Knit 2, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, make 1, knit 3 together, make 1, knit 3.</p>
+               <p rend="justify">8th.—Make 1, knit 2 together, knit 1, make 1, knit 1, make 1, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 3, make 1, knit 2 together.</p>
+               <p rend="justify">9th.—Knit 2, make 1, (knit 2 together twice), make 1, knit 3, make 1, knit 3 together, make 1, knit 3, make 1, knit 3.</p>
+               <p rend="justify">10th.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit, 2 together, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together.</p>
+               <p rend="justify">11th.—Knit 2, make 1, knit 2 together, knit 1, make 1, knit 2 together, make 1, knit 3 together, make 1, knit 1, make 1, knit 2 together, make 1, knit 3 together, make 1, knit 3.</p>
+               <p rend="justify">12th.—Make 1, knit 2 together, knit 1, make 1, knit 1, make 1, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together.</p>
+               <p rend="justify">13th.—Knit 2, make 1, (knit, 2 together twice), make 1, knit 3 together, make 1, knit 3, make 1, knit 3 together, make 1, knit 3, make 1, knit 3.</p>
+               <p rend="justify">14th.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 2 together.</p>
+               <p rend="justify">15th.—Knit 2, make 1, (knit 2 together twice), make 1, knit 1, make 1, knit 2 together, make 1, knit 3 together, make 1, knit 1, make 1, knit 2 together, make 1, knit 3 together, make 1, knit 3.</p>
+               <p rend="justify">16th.—Same as 14th.</p>
+               <p rend="justify">17th.—Knit 2, make 1, knit 2 together, knit 1, make 1, knit 3, make 1, knit 3 together, make 1, knit 3, make 1, knit 3 together, make 1, knit 2 together, knit 2.</p>
+               <p rend="justify">18th.—Make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 2 together, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">19th.—Knit 2, make 1, knit 2 together, make 1, knit 2, make 1, knit 3 together, make 1, knit 1, make 1, knit 2 together, make 1, knit 3 together, make 1, knit 2 together, knit 2.</p>
+               <p rend="justify">20th.—Same as 10th.</p>
+               <p rend="justify">21st.—The same as 13th, but ending with knit 2 together, knit 2 instead of knit 3, make 1, knit 3.</p>
+               <p rend="justify">22d.—Make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 2 together.</p>
+               <p rend="justify">23d.—Knit 2, make 1, knit 2 together, knit 2, make 1, knit 1, make 1, knit 2 together, make 1, knit 3 together, make 1, knit 2 together, knit 2.</p>
+               <p rend="justify">24th.—Same as 6th.</p>
+               <p rend="justify">25th.—Knit 2, make 1, (knit 2 together twice), make 1, knit 3, make 1, knit 3 together, make 1, knit 2 together, knit 2.</p>
+               <p rend="justify">26th.—Make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together.</p>
+               <p rend="justify">27th—Same as 3d, but ending knit 2 together, knit 2 instead of knit 3.</p>
+               <p rend="justify">28th.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together.</p>
+               <p rend="justify">29th.—Knit 2, make 1, knit 2 together, knit 2, make 1, knit 3 together, make 1, knit 2 together, knit 2.</p>
+               <p rend="justify">30th.—Make 1, (knit 2 together twice), make 1, knit 1, make 1, knit 2 together, knit 3, make 1, knit 2 together; commence again at the 1st row.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>COLLAR. MALINES LACE.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Knitting or Crochet Thread, No. 16; Pins No. 20, Bell Gauge. Cast on 476 stitches, or 19 for each Pattern and one over at the end. This Collar is composed of two rows of lace.</hi>
+               </p>
+               <p rend="justify">1st row.—Make 1, knit 2 together; repeat.</p>
+               <p rend="justify">2d, 3d, and 4th.—Plain.</p>
+               <p rend="justify">5th.—Knit 2 together *, knit 16, knit 3 together; repeat from *, and end with knit 2 together instead of 3 together.</p>
+               <p rend="justify">6th.—Pearl 2 together *, pearl 14, pearl 3 together; repeat from *, end with pearl 2 together.</p>
+               <p rend="justify">7th.—Knit 2 together *, knit 6, make 1, knit 6, knit 3 together; repeat from *, end with knit 2 together.</p>
+               <p rend="justify">8th—Pearl.</p>
+               <p rend="justify">9th.—Knit 2 together *, knit 5, make 1, knit 1, make 1, knit 5, knit 3 together; repeat from *, end with knit 2 together.</p>
+               <p rend="justify">10th.—Pearl.</p>
+               <p rend="justify">11th.—Knit 2 together *, knit 4, make 1, knit 3, make 1, knit 4, knit 3 together; repeat from *, end with knit 2 together.</p>
+               <p rend="justify">12th.—Pearl 2 together *, pearl 11, pearl 3 together; repeat from *, end with pearl 2 together.</p>
+               <p rend="justify">13th.—Knit 2 together *, knit 2, make 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, make 1, knit 2, knit 3 together; repeat from *, end with knit 2 together.</p>
+               <p rend="justify">14th.—Pearl 2 together *, pearl 9, pearl 3 together; repeat from *, end with pearl 2 together.</p>
+               <p rend="justify">15th.—Knit 2 together *, make 1, knit 2 together, make 1, knit 3, make 1, knit 2 together, make 1, knit 3 together; repeat from *, end with knit 2 together.</p>
+               <p rend="justify">16th.—Pearl.</p>
+               <p rend="justify">17th.—Knit 1 *, (make 1, and knit 2 together twice), knit 1, knit 2 together, make 1, knit 2 together, make 1, knit 1; repeat from *.</p>
+               <p rend="justify">18th.—Pearl.</p>
+               <p rend="justify">19th.—Knit 2 *, make 1, knit 2 together, make 1, knit 3 together, make 1, knit 2 together, make 1, knit 3; repeat from *, end with knit 2.</p>
+               <p rend="justify">20th.—Pearl.</p>
+               <p rend="justify">21st.—Knit 3 *, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 5; repeat from *, end with knit 3.</p>
+               <p rend="justify">22d.—Pearl.</p>
+               <p rend="justify">23d.—Knit 4 *, make 1, knit 3 together, make 1, knit 7; repeat from *, end with knit 4.</p>
+               <p rend="justify">24th.—Pearl. There will now be 251 stitches on the pin.</p>
+               <p rend="justify">25th, 26th, 27th, and 28th.—Plain.</p>
+               <p rend="justify">29th.—Knit 4 *, make 4, (knit 3 together twice); repeat from *, end with knit 1.</p>
+               <p rend="justify">30th.—Pearl 3 *, knit 1, pearl 1, knit 1, pearl 1. These 4 stitches are the made stitches in the last row. Pearl 2; repeat from *, end with pearl 4.</p>
+               <p rend="justify">31st.—Plain.</p>
+               <p rend="justify">32d, pearl; 33d plain; 34th, pearl.</p>
+               <p rend="justify">35th.—Knit 3 *, (knit 3 together twice), make 4; repeat from *, end with make 4, knit 2 together.</p>
+               <p rend="justify">36th.—Pearl 2; repeat the 30th row from *.</p>
+               <p rend="justify">37th, plain; 38th, pearl; 39th, plain; 40th, pearl.</p>
+               <p rend="justify">41st as 29th; 42d as 30th; 43d, plain; 44th, pearl.</p>
+               <p rend="justify">For the second row of lace, with another pair of pins, cast on 476 stitches, and knit from the 1st to the 24th rows.</p>
+               <p rend="justify">To join the 2 pieces together, see <hi rend="italic">Instruction</hi>; and when joined together, knit 1 row thus:—pearl 9, pearl 2 together; repeat, and work from the 25th to the 31st row; cast off and finish with a narrow ribbon passed through the open rows.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ANTI-MACASSAR VENETIAN PATTERN.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Mecklenburgh Thread, No. 3; or Taylor’s Knitting Cotton, No. 12, Pins No. 15, Bell Gauge. Cast on 121 stitches or 12 for each pattern and 1 over.</hi>
+               </p>
+               <p rend="justify">Knit 8 rows plain, then commence the pattern, knitting 6 plain stitches at the beginning and end of every row. These stitches are not included in the direction.</p>
+               <p rend="justify">1st row.—Knit 5, make 1, knit 3 together, make 1, knit 4; at the end of these rows knit 1 plain, beside the edge stitches.</p>
+               <p rend="justify">2d.—Pearl 3, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 2; repeat.</p>
+               <p rend="justify">3d.—Knit 2, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 1; repeat.</p>
+               <p rend="justify">4th.—Pearl 1, pearl 2 together, make 1, pearl 7, make 1, pearl 2 together; repeat.</p>
+               <p rend="justify">5th.—Knit 2 together *, make 1, knit 9, make 1, knit 3 together; repeat from * at the end, knit 2 together, instead of 3 together.</p>
+               <p rend="justify">6th.—Pearl.</p>
+               <p rend="justify">7th.—Knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1; repeat.</p>
+               <p rend="justify">8th.—Pearl.</p>
+               <p rend="justify">9th.—Knit 1, make 1, knit 2 together, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 2 together, make 1; repeat.</p>
+               <p rend="justify">10th.—Pearl.</p>
+               <p rend="justify">11th.—Knit 1, make 1, knit 2 together, knit 2, make 1, knit 3 together, make 1, knit 2, knit 2 together, make 1; repeat.</p>
+               <p rend="justify">12th.—Pearl.</p>
+               <p rend="justify">13th.—Same as 7th.</p>
+               <p rend="justify">14th.—Pearl.</p>
+               <p rend="justify">15th.—Same as 9th.</p>
+               <p rend="justify">16th.—Pearl.</p>
+               <p rend="justify">17th.—Same as 11th.</p>
+               <p rend="justify">18th.—Pearl.</p>
+               <p rend="justify">19th.—Knit 1, make 1, knit 2 together, knit 7, knit 2 together, make 1; repeat.</p>
+               <p rend="justify">20th.—Pearl 2, make 1, pearl 2 together, pearl 5, pearl 2 together, make 1, pearl 1; repeat.</p>
+               <p rend="justify">21st.—Knit 3, make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 2; repeat.</p>
+               <p rend="justify">22d.—Pearl 4, make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 3; commence at 1st row, work 8 patterns, then knit 8 rows plain, cast off, and finish with the fringe or edging.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ANTI-MACASSAR.</head>
+               <p rend="justify">
+                  <hi rend="italic">For a Prie Dieu. Maltese Cross Pattern. Taylor’s Mecklenburgh White or Drab Thread, No. 3; or Taylor’s Knitting Cotton, No. 10; Pins No. 13, Bell Gauge. Cast on 143 stitches.</hi>
+               </p>
+               <p rend="justify">This pattern is composed of 4 stripes of diamond and 3 stripes of crosses. At the beginning of every row knit 2 plain stitches for the edge (these stitches are not included in the direction), and at the end of every row repeat the first 15 stitches of the same, so that the rows may end with the diamond pattern, as at the commencement.</p>
+               <p rend="justify">1st row.—Make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 4, make 1, knit 2 together, knit 10, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 12; repeat three times, and then work the first 15 stitches of the pattern.</p>
+               <p rend="justify">2d.—make 1, pearl 2 together, pearl 3, make 1, pearl 3 together, make 1, pearl 5, make 1, pearl 2 together, pearl 10, pearl 2 together, make 1, pearl 1, make 1, pearl 2 together, pearl 12; repeat 3 times, and work as before.</p>
+               <p rend="justify">3d.—Make 1, knit 2 together, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 4, make 1, knit 2 together, knit 10, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 12; repeat as before.</p>
+               <p rend="justify">4th.—Make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, (pearl 3, make 1, pearl 2 together twice), pearl 9, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 11; repeat as before.</p>
+               <p rend="justify">5th.—Make 1, (knit 2 together twice), make 1, knit 5, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 8, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 10; repeat as before.</p>
+               <p rend="justify">6th.—Make 1, pearl 2 together, pearl 1, make 1, pearl 2 together, pearl 3, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 9, make 1, pearl 2 together, pearl 3, pearl 2 together, make 1, pearl 11; repeat as before.</p>
+               <p rend="justify">7th.—Make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 4, make 1, knit 2 together, knit 10, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 12; repeat as before.</p>
+               <p rend="justify">8th.—Make 1, pearl 2 together, pearl 3, make 1, pearl 3 together, make 1, pearl 5, make 1, pearl 2 together, pearl 11, make 1, pearl 3 together, make 1, pearl 13; repeat as before.</p>
+               <p rend="justify">9th.—Make 1, knit 2 together, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 4, make 1, knit 2 together, knit 9, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 11; repeat as before.</p>
+               <p rend="justify">10th.—Make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, (pearl 3, make 1, pearl 2 together twice), pearl 8, pearl 2 together, make 1, pearl 5, make 1, pearl 2 together, pearl 10; repeat as before.</p>
+               <p rend="justify">11th.—Same as 5th.</p>
+               <p rend="justify">12th.—Make 1, pearl 2 together, pearl 1, make 1, pearl 2 together, pearl 3, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 10, make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 12; repeat.</p>
+               <p rend="justify">13th.—Make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 4, make 1, knit 2 together, knit 8, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 10; repeat.</p>
+               <p rend="justify">14th.—Make 1, pearl 2 together, pearl 3, make 1, pearl 3 together, make 1, pearl 5, make 1, pearl 2 together, pearl 10, make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 12; repeat as before.</p>
+               <p rend="justify">15th.—Make 1, knit 2 together, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 4, make 1, knit 2 together, knit 8, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 10; repeat.</p>
+               <p rend="justify">16th.—Make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, (pearl 3, make 1, pearl 2 together twice), pearl 10, make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 12; repeat.</p>
+               <p rend="justify">17th.—Make 1, (knit 2 together twice), make 1, knit 5, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 4, make 1, knit 3 together, make 1, knit 4, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 4; repeat.</p>
+               <p rend="justify">18th.—Make 1, pearl 2 together, pearl 1, make 1, pearl 2 together, pearl 3, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 3; repeat.</p>
+               <p rend="justify">19th.—Make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 4, make 1, (knit 2 together twice), make 1, knit 5, make 1, knit 3 together, make 1, knit 5, make 1, knit 3 together, make 1, knit 5, make 1, knit 2 together, knit 2; repeat.</p>
+               <p rend="justify">20th.—Make 1, pearl 2 together, pearl 3, make 1, pearl 3 together, make 1, pearl 5, make 1, pearl 2 together, pearl 1, make 1, pearl 2 together, pearl 3, pearl 2 together, make 1, pearl 1, make 1, pearl 2 together, pearl 3, pearl 2 together, make 1, pearl 1, make 1, pearl 2 together, pearl 3, pearl 2 together, make 1, pearl 3; repeat, &amp;c.</p>
+               <p rend="justify">21st.—Make 1, knit 2 together, knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 4, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 4; repeat, &amp;c.</p>
+               <p rend="justify">22d.—Make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 3, (make 1, pearl 2 together, pearl 3, twice), (make 1, pearl 3 together, make 1, and pearl 5, three times); repeat.</p>
+               <p rend="justify">23d.—Make 1, (knit 2 together twice), make 1, knit 5, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 9, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 11; repeat, &amp;c.</p>
+               <p rend="justify">24th as 12th; 25th as 13th; 26th as 14th; 27th as 15th; 28th as 16th; 29th as 5th; 30th as 12th.</p>
+               <p rend="justify">31st.—Make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 4, make 1, knit 2 together, knit 11, make 1, knit 3 together, make 1, knit 13; repeat.</p>
+               <p rend="justify">32d.—Make 1, pearl 2 together, pearl 3, make 1, pearl 3 together, make 1, pearl 5, make 1, pearl 2 together, pearl 9, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 11; repeat, &amp;c.</p>
+               <p rend="justify">33d as 15th.</p>
+               <p rend="justify">34th.—Make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 3, make 1, pearl 2 together, pearl 9, make 1, pearl 2 together, pearl 3, pearl 2 together, make 1, pearl 11; repeat, &amp;c.</p>
+               <p rend="justify">35th.—Make 1, (knit 2 together twice), make 1, knit 5, make 1, knit 2 together, knit 2, make 1, knit 2 together, knit 10, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 12; repeat, &amp;c.</p>
+               <p rend="justify">36th.—Make 1, pearl 2 together, pearl 1, make 1, pearl 2 together, pearl 3, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 11, make 1, pearl 3 together, make 1, pearl 13; repeat, and commence again at the 1st row.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CENTRE FOR SHETLAND SHAWL, AND PATTERN FOR ANTI-MACASSAR.</head>
+               <p rend="justify">
+                  <hi rend="italic">The best Shetland Wool: Pins No. 11. Cast on 271 stitches.—For Anti-Macassar, Taylor’s Knitting Cotton, No. 12, Pins No. 13, Bell Gauge. Cast on 22 stitches for each pattern, and 7 over for the edge.</hi>
+               </p>
+               <p rend="justify">Knit 4 rows plain, and then commence the pattern.</p>
+               <p rend="justify">1st row.—Knit 3, make 1, knit 1 *, (knit 2 together, and make 1 four times), knit 1, make 1, knit 3 together, make 1, knit 1, (make 1, and knit 2 together 4 times), knit 1; repeat from * at the end, make 1, knit 3.</p>
+               <p rend="justify">2d.—Knit 3 *, pearl 3 together, (make 1 and pearl 2 together 4 times), make 1, pearl 3, (make 1 and pearl 2 together 4 times), make 1; repeat from * at the end of the row, knit 3 together, knit 3.</p>
+               <p rend="justify">3d.—Knit 3, make 1, knit 1 *, (knit 2 together, and make 1 four times) knit 5, (make 1, and knit 2 together 4 times), knit 1; repeat from *, and end with make 1, knit 3.</p>
+               <p rend="justify">4th.—Knit 3 *, pearl 3 together, (make 1, and pearl 2 together 3 times), make 1, pearl 1, make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 1, (make 1, and pearl 2 together 3 times); make 1; repeat from *, and end with knit 3 together, knit 3.</p>
+               <p rend="justify">5th.—Knit 3, make 1, knit 1 *, (knit 2 together, and make 1, three times), knit 3, make 1, knit 3 together, make 1, knit 3, (make 1, and knit 2 together 3 times), knit 1; repeat from *, and end with make 1, knit 3.</p>
+               <p rend="justify">6th.—Knit 3 *, pearl 3 together, (make 1, and pearl 2 together twice), make 1, pearl 11, (make 1, and pearl 2 together twice), make 1; repeat from *, and end with knit 3 together, knit 3.</p>
+               <p rend="justify">7th.—Knit 3, make 1, knit 1 *, (knit 2 together, and make 1 twice), knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, (make 1, and knit 2 together twice, knit 1; repeat from * and end with make 1, knit 3.</p>
+               <p rend="justify">8th.—Knit 3 *, pearl 3 together, make 1, pearl 2 together, (make 1, pearl 3, make 1, pearl 3 together twice), make 1, pearl 3, make 1, pearl 2 together, make 1; repeat from *, and end with knit 3 together, knit 3.</p>
+               <p rend="justify">9th.—Knit 3, make 1, knit 1 *, knit 2 together, make 1, knit 17, make 1, knit 2 together, knit 1; repeat from *, and end with make 1, knit 3.</p>
+               <p rend="justify">10th.—Knit 3 *, pearl 3 together, (make 1, pearl 1, make 1, pearl 2 together, pearl 1, pearl 2 together 3 times), make 1, pearl 1, make 1; repeat from *, and end with knit 3 together, knit 3.</p>
+               <p rend="justify">11th.—Knit 3, make 1, knit 1 *, knit 2 together, make 1, knit 1, (make 1, knit 3 together, make 1, knit 3, twice), make 1, knit 3 together, make 1, knit 1, make 1, knit 2 together, knit 1; repeat from *, and end with make 1, knit 3.</p>
+               <p rend="justify">12th.—Knit 3 *, pearl 3 together, make 1, pearl 2 together, make 1, pearl 1, make 1, pearl 2 together, pearl 9, pearl 2 together, make 1, pearl 1, make 1, pearl 2 together, make 1; repeat from *, and end with pearl 3 together, knit 3.</p>
+               <p rend="justify">13th.—Knit 3, make 1, knit 1 *, (knit 2 together, and make 1, twice), (knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, twice), knit 1, (make 1, and knit 2 together twice), knit 1; repeat from *, and end with make 1, knit 3.</p>
+               <p rend="justify">14th.—Knit 3 *, pearl 3 together, (make 1, and pearl 2 together twice), make 1, pearl 1, make 1, pearl 3 together, make 1, pearl 3, make 1, pearl 3 together, make 1, pearl 1, (make 1, and pearl 2 together twice), make 1; repeat from *, and end with knit 3 together, knit 3.</p>
+               <p rend="justify">15th.—Knit 3, make 1, knit 1 *, (knit 2 together, and make 1 three times), knit 1, make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 1, (make 1, and knit 2 together 3 times), knit 1; repeat from *, and end with make 1, knit 3.</p>
+               <p rend="justify">16th.—Knit 3 *, pearl 3 together, (make 1, and pearl 2 together 3 times), make 1, pearl 1, make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 1, (make 1, and pearl 2 together 3 times), make 1; repeat from *, knit 3 together, knit 3.</p>
+               <p rend="justify">Commence again at 1st row, knit 14 patterns, then knit 4 rows plain, and cast off.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BORDER FOR SHETLAND SHAWL, ROUND CORNERS.</head>
+               <p rend="justify">
+                  <hi rend="italic">Cast on with 2 pins No. 7; 748 stitches.</hi>
+               </p>
+               <p rend="justify">This will be sufficient for two sides of the shawl, then knit 4 rows plain.</p>
+               <p rend="justify">5th row.—Make 1, knit 2 together, knit 1, make 1, knit 7, knit 3 together, knit 7, make 1, knit 2; repeat.</p>
+               <p rend="justify">6th.—Make 1, pearl 2 together, pearl 20. The alternate rows are all to be worked as this row, to the 18th row.</p>
+               <p rend="justify">7th.—Make 1, knit 2 together, knit 2, make 1, knit 6, knit 3 together, knit 6, make 1, knit 3; repeat.</p>
+               <p rend="justify">9th.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, make 1, knit 5, knit 3 together, knit 5, make 1, knit 2 together, make 1, knit 2; repeat.</p>
+               <p rend="justify">11th.—Make 1, knit 2 together, knit 2, make 1, knit 2 together, make 1, knit 4, knit 3 together, knit 4, make 1, knit 2 together, make 1, knit 3; repeat.</p>
+               <p rend="justify">13th.—Make 1, knit 2 together, knit 1, (make 1, and knit 2 together twice), make 1, knit 3, knit 3 together, knit 3, (make 1, and knit 2 together twice), make 1, knit 2; repeat.</p>
+               <p rend="justify">15th.—Make 1, knit 2 together, knit 2, (make 1, and knit 2 together twice), make 1, knit 2, knit 3 together, knit 2, (make 1, and knit 2 together twice), make 1, knit 3; repeat.</p>
+               <p rend="justify">17th.—Make 1, knit 2 together, knit 1, (make 1, and knit 2 together 3 times), make 1, knit 1, knit 3 together, knit 1, (make 1, and knit 2 together 3 times), make 1, knit 2; repeat.</p>
+               <p rend="justify">19th.—Make 1, knit 2 together, knit 2, (make 1, and knit 2 together 3 times), make 1, knit 3 together, (make 1, and knit 2 together 3 times), make 1, knit 3; repeat.</p>
+               <p rend="justify">20th.—Make 1, knit 2 together, knit 20; repeat.</p>
+               <p rend="justify">21st same as 6th; 22d same as 20th. This pattern is now worked over again from the 5th row, excepting the 1st three, the 6 centre, and 3 end patterns of every row, which are decreased to form the corners thus.</p>
+               <p rend="justify">23d.—Make 1, (knit 2 together twice), make 1, knit 6, knit 3 together, knit 6, make 1, knit 2 together, knit 1; repeat 3 times for the corner, then work as 5th row 11 times, as this row 6 times, as 5th 11 times, as this row 3 times.</p>
+               <p rend="justify">24th.—Make 1, pearl 2 together, pearl 18; repeat 3 times, then work as the 6th row 11 times, as this row 6 times, as the 6th 11 times, as this row 3 times.</p>
+               <p rend="justify">25th.—Make 1, (knit 2 together twice), make 1, knit 5, knit 3 together, knit 5, make 1, knit 2 together, knit 1; repeat 3 times, as 7th row 11 times, and then work the pattern the same number of times as in the 23d and 24th rows.</p>
+               <p rend="justify">26th.—Same as 24th; pearl 16 instead of 18 in the corner patterns.</p>
+               <p rend="justify">27th.—Make 1, (knit 2 together twice), make 1, knit 4, knit 3 together, knit 4, make 1, knit 2 together, knit 1; repeat 3 times, then as 9th row 11 times, &amp;c.</p>
+               <p rend="justify">28th.—Same as 24th; pearl 14 instead of 18 in the corner patterns.</p>
+               <p rend="justify">29th.—Make 1, (knit 2 together twice), make 1, knit 3, knit 3 together, knit 3, make 1, knit 2 together, knit 1; repeat 3 times, then as 11th row 11 times, &amp;c.</p>
+               <p rend="justify">30th.—Same as 24th; pearl 12 instead of 18 in the corner patterns.</p>
+               <p rend="justify">31st.—Make 1, (knit 2 together twice), make 1, knit 2, knit 3 together, knit 2, make 1, knit 2 together, knit 1; repeat 3 times, as 13th row 11 times, &amp;c.</p>
+               <p rend="justify">32d.—Same as 24th; pearling 10 instead of 18 in the corner patterns.</p>
+               <p rend="justify">33d.—Make 1, (knit 2 together twice), make 1, knit 1, knit 3 together, knit 1, make 1, knit 2 together, knit 1; repeat 3 times, as 15th row 11 times, &amp;c.</p>
+               <p rend="justify">34th.—Same as 24th; pearl 8 instead of 18 for corner patterns.</p>
+               <p rend="justify">35th.—Make 1, (knit 2 together twice), make 1, knit 3 together, make 1, knit 2 together, knit 1; repeat 3 times as the 17th row, 11 times as this, &amp;c.</p>
+               <p rend="justify">36th.—Same as 24th; pearling 6 instead of 18 in the corner pattern.</p>
+               <p rend="justify">37th.—Make 1, knit 2 together, knit 1, knit 3 together, knit 2; repeat 3 times, as the 19th 11 times, &amp;c.</p>
+               <p rend="justify">38th.—Pearl and cast off; then work another piece the same, and sew one border to the wrong side of the shawl; sew that when folded both borders will be on the right side.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FRINGE FOR SHAWL.</head>
+               <p rend="justify">
+                  <hi rend="italic">Double Wool. Cast on 9 stitches.</hi>
+               </p>
+               <p rend="justify">1st row.—Make 1, knit 2 together; repeat and end with knit 1. When sufficient rows are worked, cast off 4 stitches, leaving 5 to be pulled out for the fringe.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CANEZOU.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Mecklenburgh Thread, No. 6; Pins No. 14, Bell Gauge. Or Black Netting Silk.</hi>
+               </p>
+               <p rend="justify">The chemisette pattern and the border for Shetland Shawl are easily arranged to form an elegant canezou thus: work the chemisette pattern until there are 199 stitches on the pin instead of 135, and work the sides the same, repeating the pattern 10 times instead of 6; then work one piece of the border with the same pins and thread, it will form the half square.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CHEMISETTE.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Crochet or Knitting Thread, No. 12; Pins No. 20, Bell Gauge. Cast on 7 stitches.</hi>
+               </p>
+               <p rend="justify">SECTION OF CHEMISETTE.</p>
+               <p rend="justify">1st row.—Knit 2 together, (make 1, and knit 1 three times), make 1, knit 2 together.</p>
+               <p rend="justify">2d.—Pearl.</p>
+               <p rend="justify">3d.—Knit 2 together, make 1, knit 1, make 1, knit 3, make 1, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">4th.—Pearl.</p>
+               <p rend="justify">5th.—Knit 2 together, make 1, knit 1, make 1, knit 5, make 1, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">6th.—Pearl.</p>
+               <p rend="justify">7th.—Knit 2 together, make 1, knit 1, make 1, knit 3, make 1, knit 1, make 1, knit 3, make 1, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">8th.—Pearl.</p>
+               <p rend="justify">9th.—Knit 2 together, make 1, knit 1, make 1, knit 2, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 2, make 1, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">10th.—Pearl.</p>
+               <p rend="justify">11th.—Knit 2 together, make 1, knit 1, make 1, knit 4, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 4, make 1, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">12th.—Pearl.</p>
+               <p rend="justify">13th.—Knit 2 together, make 1, knit 1, make 1, knit 6, make 1, knit 3 together, make 1, knit 6, make 1, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">14th.—Pearl. These 14 rows form the point, and are not to be repeated. Now commence the pattern.</p>
+               <p rend="justify">1st row.—Knit 2 together, make 1, knit 1, make 1, knit 2, knit 2 together. These stitches form the edge *; make 1, knit 1, make 1, knit 2 together, knit 3, knit 2 together *. There will now be 8 stitches left; work them thus for the edge:—make 1, knit 1, make 1, knit 2 together, knit 2, make 1, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">2d.—Pearl.</p>
+               <p rend="justify">3d.—Knit 2 together, make 1, knit 1, make 1, knit 2, knit 2 together, make 1 for the edge *, knit 3, make 1, knit 2 together, knit 1, knit 2 together, make 1 * for the edge, knit 3, make 1, knit 2 together, knit 2, make 1, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">4th.—Pearl.</p>
+               <p rend="justify">5th.—Knit 2 together, make 1, knit 1, make 1, knit 4, make 1, knit 2 together, knit 1, knit 2 together for the edge *, make 1, knit 3, make 1, knit 2 together, knit 1, knit 2 together * then for the edge, make 1, knit 4, make 1, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">6th.—Pearl.</p>
+               <p rend="justify">7th.—Knit 2 together, make 1, knit 1, make 1, knit 6, make 1, knit 3 together, make 1 for the edge *, knit 5, make 1, knit 3 together, make 1 * for the edge, knit 6, make 1, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">8th.—Pearl; repeat these 8 rows until there are 135 stitches on the pin, working 1 repeat of the pattern between the * each time. Now commence the side.</p>
+               <p rend="justify">1st row.—Knit 2 together, make 1, knit 1, make 1, knit 2 together, this is for edge *; knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 3; repeat from * 6 times more, and then turn back, leaving 74 stitches on the pin for the other side.</p>
+               <p rend="justify">2d.—Pearl 2 together, pearl the rest; the alternate rows are all worked the same.</p>
+               <p rend="justify">3d.—Edge same as 1st row, knit 1 *, make 1, knit 3, make 1, knit 2 together, knit 1, knit 2 together; repeat from * at end, omit the last knit 2 together.</p>
+               <p rend="justify">5th.—Edge as 1st row *, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 2; repeat from *, end with knit 1 instead of 2.</p>
+               <p rend="justify">7th.—Edge as 1st row *, knit 2, make 1, knit 3 together, make 1, knit 3; repeat from *, and end with knit 1 instead of 3.</p>
+               <p rend="justify">9th.—Edge as 1st row *, knit 2 together, knit 3, knit 2 together, make 1, knit 1; repeat from *, end with knit 2 together, knit 3.</p>
+               <p rend="justify">11th.—Edge as 1st row, knit 3 *, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 1; repeat from *.</p>
+               <p rend="justify">13th.—Edge as 1st row, knit 4 *, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 3; repeat from *, end with knit 1 instead of 3.</p>
+               <p rend="justify">15th.—Edge as 1st row *, knit 5, make 1, knit 3 together, make 1; repeat from *, end with knit 1.</p>
+               <p rend="justify">16th.—Same as 2d row; repeat these 16 rows 7 times more, working 1 pattern less each repeat, cast off the remaining stitches, and for the other side return to the 74 stitches left on the pin, and, commencing at the centre, cast off 13 stitches. There will now be 61 stitches on left pin, and work thus:—.</p>
+               <p rend="justify">1st row.—Knit 3, knit 2 together, make 1, knit 1, make 1, knit 2 together; repeat 6 times more, then for the edge knit 2 together, make 1, knit 1, make 1, knit 2 together.</p>
+               <p rend="justify">2d.—Pearl all but the last 2 stitches, which are to be pearled together; every alternate row is worked the same.</p>
+               <p rend="justify">3d.—Knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together; repeat, end with knit 1 instead of 2 together, edge as the edge 1st row.</p>
+               <p rend="justify">5th.—Knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 2; repeat, end with knit 1 instead of 2, and edge as 1st row.</p>
+               <p rend="justify">7th.—Knit 1, make 1, knit 3 together, make 1, knit 4; repeat, and end with knit 2 instead of 4; the edge as 1st row.</p>
+               <p rend="justify">9th.—Same as 1st row; end with knit 3, knit 2 together, and edge as 1st row.</p>
+               <p rend="justify">11th.—Same as 3rd row, ending with knit 3, and edge as 1st row.</p>
+               <p rend="justify">13th.—Same as 5th; end with knit 2, and edge as 1st row.</p>
+               <p rend="justify">15th.—Same as 7th; end with knit 1, and edge as 1st row.</p>
+               <p rend="justify">16th.—Same as 2d; repeat these 16 rows 7 times more, working 1 pattern less each repeat. Cast off the remaining stitches, then raise 212 stitches from the neck, knit 2 rows plain, casting on 30 stitches at the end of each row.</p>
+               <p rend="justify">3d row, make 3 and knit 2 together twice; repeat.</p>
+               <p rend="justify">4th row, knit 2, pearl 1, knit 1, pearl 1; repeat, then knit 4 rows plain; cast off, and edge with any one of the edgings.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BABY’S CAP.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Crochet or Knitting Thread, No. 12.; Pins No. 21, Bell Gauge. Cast on 177 stitches.</hi>
+               </p>
+               <p rend="justify">1st row.—Pearl.</p>
+               <p rend="justify">2d.—Knit 1, make 1, knit 2 together, knit 3, knit 2 together, make 1; repeat at the end of the row knit 1 plain.</p>
+               <p rend="justify">3d.—Pearl 2, make 1, pearl 2 together, pearl 1, pearl 2 together, make 1, pearl 1; repeat, and end with 1 plain.</p>
+               <p rend="justify">4th.—Knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together; repeat, and end with 1 plain.</p>
+               <p rend="justify">5th.—Pearl 1, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together; repeat, and end with 1 plain.</p>
+               <p rend="justify">6th.—Same as 4th row.</p>
+               <p rend="justify">7th.—Pearl 2 together *, make 1, pearl 5, make 1, pearl 3 together; repeat from *, and end with pearl 2 together.</p>
+               <p rend="justify">8th.—Knit 3, knit 2 together, knit 3; repeat, and end with 1 plain.</p>
+               <p rend="justify">9th.—Pearl 2, pearl 2 together, make 3, pearl 2 together, pearl 1; repeat, and end with knit 1.</p>
+               <p rend="justify">10th.—Make 1, knit 2 together, knit 1, pearl 1, knit 1, pearl 1, knit 2; repeat, and end with knit 1. These 10 rows form one pattern; repeat for 6 patterns more, then cast on 40 stitches at each end of the pin, which make in all 257 stitches; then work 5 patterns as before. For the crown, which is to be worked round, divide the stitches on to three pins, and knit 3 rounds plain.</p>
+               <p rend="justify">4th.—Knit 2 together, knit 8; repeat.</p>
+               <p rend="justify">5th.—Make 1, knit 2 together; repeat.</p>
+               <p rend="justify">6th.—Knit 2 together, knit 3; repeat.</p>
+               <p rend="justify">7th.—Plain.</p>
+               <p rend="justify">8th.—Knit 2 together, knit 4; repeat.</p>
+               <p rend="justify">9th.—Knit 2 together, knit 4, repeat. There will now be 128 stitches on the pin.</p>
+               <p rend="justify">10th.—Knit 3 together, knit 4, make 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, make 1, knit 4; repeat.</p>
+               <p rend="justify">11th.—Plain; at the end put the last stitch on the 1st pin.</p>
+               <p rend="justify">12th.—Knit 3 together, knit 3, make 1, knit 2 together, make 1, knit 3, make 1, knit 2 together, make 1, knit 3; repeat, and put the last stitch on the 1st pin.</p>
+               <p rend="justify">13th.—Knit 3 together, knit 13; repeat, put the last stitch on the 1st pin.</p>
+               <p rend="justify">14th.—Knit 3 together, knit 1, make 1, knit 2 together, make 1, knit 5, make 1, knit 2 together, make 1, knit 1; repeat, and put the last stitch on the 1st pin.</p>
+               <p rend="justify">15th.—Knit 3 together, knit 11; repeat.</p>
+               <p rend="justify">16th.—Knit 1, make 1, knit 2 together, make 1, knit 2, knit 3 together, knit 2, make 1, knit 2 together, make 1; repeat.</p>
+               <p rend="justify">17th.—Plain.</p>
+               <p rend="justify">18th.—Same as 17th.</p>
+               <p rend="justify">19th.—Knit 5, knit 3 together, knit 4; repeat.</p>
+               <p rend="justify">20th.—Knit 1, make 1, knit 2 together, make 1, knit 1, knit 3 together, knit 1, make 1, knit 2 together, make 1; repeat.</p>
+               <p rend="justify">21st.—Knit 4, knit 3 together, knit 3; repeat.</p>
+               <p rend="justify">22d.—Knit 1, make 1, knit 3 together, make 1; repeat.</p>
+               <p rend="justify">23d.—Plain.</p>
+               <p rend="justify">24th.—Knit 3 together, make 1, knit 2 together, knit 1, knit 2 together, make 1; repeat.</p>
+               <p rend="justify">25th.—Plain.</p>
+               <p rend="justify">26th.—Knit 2, knit 3 together, knit 1; repeat.</p>
+               <p rend="justify">27th.—Plain.</p>
+               <p rend="justify">28th.—Knit 2 together, knit 2; repeat.</p>
+               <p rend="justify">30th.—Knit 2, knit 2 together; repeat and draw up the remaining stitches.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ARABESQUE PATTERN FOR COUVRE PIED, CURTAIN, &amp;c.</head>
+               <p rend="justify">
+                  <hi rend="italic">For Couvre Pied, Curtain, use Taylor’s Knitting Cotton, No. 10; Pins No. 10, Bell Gauge; or for Anti-Macassar, Taylor’s Mecklenburgh Thread, No. 4; Pins No. 14. Cast on 20 stitches for each pattern, and 1 stitch over.</hi>
+               </p>
+               <p rend="justify">1st row.—Knit 2, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1; repeat, and at the end of the row knit 1.</p>
+               <p rend="justify">2d.—Pearl.</p>
+               <p rend="justify">3d.—Knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 1, make 1, knit 3 together, make 1, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together; repeat, and end with knit 1.</p>
+               <p rend="justify">4th.—Pearl.</p>
+               <p rend="justify">5th.—Knit 2 together *, make 1, knit 5, make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 5, make 1, knit 3 together; repeat from *, end with knit 2 together.</p>
+               <p rend="justify">6th.—Pearl.</p>
+               <p rend="justify">7th.—Knit 1, make 1, (knit 2 together twice), make 2, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, knit 2 together, make 2, (knit 2 together twice), make 1; repeat, at the end knit 1.</p>
+               <p rend="justify">8th.—Pearl 5, knit 1, pearl 10, knit 1, pearl 3; repeat, and end with pearl 1.</p>
+               <p rend="justify">9th.—Knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 2, knit 2 together, knit 1, make 1, knit 3 together, make 1, knit 1, knit 2 together, make 2, knit 2 together, knit 1, knit 2 together, make 1; repeat, and end with knit 1.</p>
+               <p rend="justify">10th.—Pearl 6, knit 1, pearl 8, knit 1, pearl 4; repeat, and end with pearl 1.</p>
+               <p rend="justify">11th.—Knit 1, make 1, (knit 2 together 3 times), make 2, knit 2 together, knit 1, make 1, knit 1, make 1, knit 1, knit 2 together, make 2, (knit 2 together 3 times), make 1; repeat, and end with knit 1.</p>
+               <p rend="justify">12th.—Same as 10th.</p>
+               <p rend="justify">13th.—Knit 1, make 1, knit 2 together, knit 2, knit 2 together, make 2, knit 2 together, knit 3, knit 2 together, make 2, knit 2 together, knit 2, knit 2 together, make 1; repeat, and end with knit 1.</p>
+               <p rend="justify">14th.—Pearl 7, knit 1, pearl 6, knit 1, pearl 5; repeat, at the end pearl 1.</p>
+               <p rend="justify">15th.—Knit 2, make 1, knit 2 together, knit 4, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 4, knit 2 together, make 1, knit 1; repeat, and end with knit 1.</p>
+               <p rend="justify">16th.—Pearl 7, pearl 2 together, make 1, pearl 3, make 1, pearl 2 together, pearl 6; repeat, and end with pearl 1.</p>
+               <p rend="justify">17th.—Knit 3, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 2; repeat, and end with knit 1.</p>
+               <p rend="justify">18th.—Pearl.</p>
+               <p rend="justify">19th.—Make 1, knit 2 together, knit 2, make 1, knit 3 together, make 1, knit 7, make 1, knit 3 together, make 1, knit 3; repeat, and end with knit 1.</p>
+               <p rend="justify">20th.—Pearl 7, make 1, pearl 2 together, pearl 3, pearl 2 together, make 1, pearl 6; repeat, and end with pearl 1.</p>
+               <p rend="justify">21st.—Knit 2, knit 2 together, make 1, knit 4, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 4, make 1, knit 2 together, knit 1; repeat and end with knit 1.</p>
+               <p rend="justify">22d.—Pearl 9, make 1, pearl 3 together, make 1, pearl 8; repeat, and end with pearl 1.</p>
+               <p rend="justify">23d.—Knit 1, knit 2 together, make 1, knit 1, knit 2 together, make 2, knit 2 together, knit 5, knit 2 together, make 2, knit 2 together, knit 1, make 1, knit 2 together; repeat, and end with knit 1.</p>
+               <p rend="justify">24th.—Same as 10th.</p>
+               <p rend="justify">25th—Knit 2 together *, make 1, knit 2 together, knit 1, make 2, knit 2 together, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 2, knit 1, knit 2 together, make 1, knit 3 together; repeat from *, and end with knit 2 together.</p>
+               <p rend="justify">26th.—Same as 8th.</p>
+               <p rend="justify">27th.—Knit 1, make 1, knit 2 together, knit 1, make 2, (knit 2 together 3 times), make 1, knit 1, make 1, (knit 2 together 3 times), make 2, knit 1, knit 2 together, make 1; repeat, and end with knit 1.</p>
+               <p rend="justify">28th.—Same as 8th.</p>
+               <p rend="justify">29th.—Knit 1, make 1, knit 2 together, knit 1, make 2, knit 2 together, knit 3 together, make 1, knit 3, make 1, knit 3 together, knit 2 together, make 2, knit 1, knit 2 together, make 1; repeat, and end with knit 1.</p>
+               <p rend="justify">30th.—Same as 8th.</p>
+               <p rend="justify">31st.—Knit 1, make 1, knit 2 together, knit 3, knit 2 together, make 1, knit 5, make 1, knit 2 together, knit 3, knit 2 together, make 1; repeat, and end with knit 1.</p>
+               <p rend="justify">32d.—Pearl.</p>
+               <p rend="justify">33d.—Knit 2, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1, knit 2 together, make 1, knit 1, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 1, knit 2 together, make 1, knit 1; repeat, and end with knit 1.</p>
+               <p rend="justify">34th.—Pearl.</p>
+               <p rend="justify">35th.—Knit 3, make 1, knit 3 together, make 1, knit 1, knit 2 together, make 1, knit 3, make 1, knit 2 together, knit 1, make 1, knit 3 together, make 1, knit 2; repeat, and end with knit 1.</p>
+               <p rend="justify">36th.—Pearl; commence again at the 1st row, and work 12 patterns in depth for each yard.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>COLLAR, CABLE PATTERN.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Crochet or Knitting Thread, No. 16; and Pins, No. 21. Cast on 50 stitches.</hi>
+               </p>
+               <p rend="justify">1st row.—Knit 7, make 1, knit 2 together, knit 8, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 10, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 10, make 1, knit 2 together, knit 1.</p>
+               <p rend="justify">2d.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, pearl 9, knit 1; repeat once more, then make 1, knit 2 together, knit 1, make 1, knit 2 together, pearl 7, knit 1, make 1, knit 2 together, knit 5.</p>
+               <p rend="justify">3d.—Same as the 1st.</p>
+               <p rend="justify">4th.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, pearl 9, knit 1; repeat once more, then make 1, knit 2 together, knit 1, make 1, knit 2 together, pearl 3; turn back, leaving 12 stitches on the left pin.</p>
+               <p rend="justify">5th.—With the pin on which the 12 stitches are left slip 1, knit 4, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 10, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 10, make 1, knit 2 together, knit 1.</p>
+               <p rend="justify">6th.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, pearl 9, knit 1, make 1, knit 2 together, knit 1, make 1, knit 2 together, pearl 4; turn back, leaving 26 stitches.</p>
+               <p rend="justify">7th.—Slip 1, knit 5, make 1, knit 2 together, knit 1, make 1, knit 2 together, knit 10, make 1, knit 2 together, knit 1.</p>
+               <p rend="justify">8th.—Make 1, knit 2 together, knit 1, make 1, knit 2 together, pearl 4; turn back, leaving 41 stitches.</p>
+               <p rend="justify">9th.—Slip 1, knit 5, make 1, knit 2 together, knit 1.</p>
+               <p rend="justify">10th.—Same as the 2d.</p>
+               <p rend="justify">11th.—Slip 1, knit 6, make 1, knit 2 together; then with the 3d pin take off 3 stitches without knitting them; leave them, and with the right pin knit 3 stitches off the left pin, keeping the 3 stitches on the 3d pin in front; now knit the 3 stitches that were left on the 3d pin; this forms the cable. Knit 2, make 1, knit 2 together, knit 1, make 1, knit 2 together, take off 4 without knitting with the 3d pin, as before: leave them, knit 4, then knit the 4 on the 3d pin, knit 2, make 1, knit 2 together, knit 1, make 1, knit 2 together, take off 4, knit 4; then knit the 4 on the 3d pin, knit 2, make 1, knit 2 together, knit 1.</p>
+               <p rend="justify">12th.—Same as 2d. This finishes one pattern. Repeat from 1st row 47 patterns more; cast off.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LACE EDGING.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Crochet or Knitting Thread, No. 10; Pins No. 19. Cast on 8 stitches for each Pattern, or 482 stitches for a yard.</hi>
+               </p>
+               <p rend="justify">1st, 2d, and 3d rows.—Plain.</p>
+               <p rend="justify">4th.—Knit 2 *, cast off 4 stitches, knit 4; repeat from *, and end with knit 2.</p>
+               <p rend="justify">5th.—Knit 2 *, take right hand pin in the left hand, and cast on 4 stitches on it; change the pin to the right hand, and knit 4; repeat from *, end with knit 2.</p>
+               <p rend="justify">6th, 7th, and 8th.—Plain.</p>
+               <p rend="justify">9th.—Same as 4th.</p>
+               <p rend="justify">10th.—Knit 2 *, cast on 6 stitches as directed in the 5th row, knit 4; repeat from *, end with knit 2.</p>
+               <p rend="justify">11th and 12th.—Plain.</p>
+               <p rend="justify">13th.—Knit 2 together, (make 1, and knit 1 six times), make 1, knit 2 together; repeat.</p>
+               <p rend="justify">14th.—Knit 1 *, knit 13, knit 2 together; repeat from *, and end with knit 1.</p>
+               <p rend="justify">15th.—Pearl.</p>
+               <p rend="justify">16th.—Knit 1, knit 2 together, (make 1, and knit 1 nine times), make 1, knit 2 together; repeat, end with knit 1.</p>
+               <p rend="justify">17th.—Pearl 2 together *, pearl 19, pearl 3 together; repeat from *, and cast off.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LACE EDGING.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Crochet or Knitting Thread, No. 12; Pins No. 20.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Cast on 19 stitches for each Pattern, or 1027 stitches for a yard.</hi>
+               </p>
+               <p rend="justify">1st row.—Make 1, knit 2 together; repeat.</p>
+               <p rend="justify">2d.—Plain.</p>
+               <p rend="justify">3d.—Pearl 2, knit 3 together, knit 11, make 1, knit 2 together, make 1; knit 1, repeat.</p>
+               <p rend="justify">4th.—Pearl 14, pearl 2 together, knit 2; repeat.</p>
+               <p rend="justify">5th.—Pearl 2, knit 3 together, knit 9, make 1, knit 2 together, make 1, knit 1; repeat.</p>
+               <p rend="justify">6th.—Pearl 12, pearl 2 together, knit 2; repeat.</p>
+               <p rend="justify">7th.—Pearl 2, knit 3 together, knit 7, make 1, knit 2 together, make 1, knit 1; repeat.</p>
+               <p rend="justify">8th.—Pearl 10, pearl 2 together, knit 2; repeat.</p>
+               <p rend="justify">9th.—Pearl 2, knit 3 together, knit 5, make 1, knit 2 together, make 1, knit 1; repeat.</p>
+               <p rend="justify">10th.—Pearl 8, pearl 2 together, knit 2; repeat.</p>
+               <p rend="justify">11th.—Pearl 2, knit 3 together, knit 3, make 1, knit 2 together, make 1, knit 1; repeat.</p>
+               <p rend="justify">12th.—Pearl 6, pearl 2 together, knit 2; repeat.</p>
+               <p rend="justify">13th.—Pearl 1, knit 3 together, knit 1, make 1, knit 3, make 1, knit 1; repeat.</p>
+               <p rend="justify">14th.—Pearl. 15th.—Knit 3 together, make 1, knit 5, make 1, knit 1; repeat. 16th.—Pearl.</p>
+               <p rend="justify">17th.—Knit 1 *, make 1, knit 7, make 1, knit 2 together; repeat from *, end with knit 1.</p>
+               <p rend="justify">18th.—Plain.</p>
+               <p rend="justify">19th.—Make 1, knit 2 together; repeat.</p>
+               <p rend="justify">20th.—Plain, and cast off.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FRINGE FOR ANTI-MACASSAR.</head>
+               <p rend="justify">
+                  <hi rend="italic">Taylor’s Mecklenburgh Thread, No. 3, or Knitting Cotton, No. 12; Pins No. 19. Cast on 400 stitches for a yard. Cut a portion of the thread in pieces of 4 inches in length.</hi>
+               </p>
+               <p rend="justify">1st row.—Knit 1 *, take 4 pieces of the cut thread and put them on the left pin, crossing them so as to bring one end in the front and one at the back; then with the right hand pin knit the loop formed by the threads, and stitch together; then bring the ends at the back forward between the pins, and knit 1 stitch; repeat from * to the end.</p>
+               <p rend="justify">2nd and 3d row.—Plain.</p>
+               <p rend="justify">4th.—Pearl.</p>
+               <p rend="justify">5th.—Plain.</p>
+               <p rend="justify">6th.—Make 1, knit 3 with the left pin, turn the 1st of the 3 knitted stitches over the other 2; repeat.</p>
+               <p rend="justify">7th.—Pearl.</p>
+               <p rend="justify">8th and 9th.—Plain, and cast off.</p>
+               <p rend="justify">Wilkinson &amp; Co., Printers, 1, Bartlett’s Court, Holborn Hill.</p>
+               <p rend="justify">
+                  <hi rend="italic">Now ready, Price One Shilling</hi>,</p>
+               <p rend="justify">
+                  <hi rend="bold">THE WINTER BOOK.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Beautifully Illustrated, by W. D. Hornsby</hi>,</p>
+               <p rend="justify">With new patterns in Crochet, Knitting, and Netting, for Wool, Silk, &amp;c.</p>
+               <p rend="justify">By the same Author, Price 1s. each,</p>
+               <p rend="justify">
+                  <hi rend="bold">THE CROCHET BOOK,</hi>
+               </p>
+               <p rend="justify">FIRST AND SECOND SERIES,</p>
+               <p rend="justify">
+                  <hi rend="italic">Beautifully Illustrated by W. D. Hornsby</hi>.</p>
+               <p rend="justify">
+                  <hi rend="italic">Just Published, price 1s.</hi>,</p>
+               <p rend="justify">
+                  <hi rend="bold">THE CROCHET APPLIQUÉ FLOWER BOOK,</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Illustrated by W. D. Hornsby</hi>.</p>
+               <p rend="justify">Shortly will be published, with eight beautiful designs, engraved by W. D. Hornsby, in large</p>
+               <p rend="justify">4to, printed in colours, accompanied with descriptive letter-press and Instructions,</p>
+               <p rend="justify">
+                  <hi rend="bold">THE LACET BOOK.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Price 3s.</hi>
+               </p>
+               <p rend="justify">LONDON:</p>
+               <p rend="justify">SIMPKIN, MARSHALL, AND CO.; ACKERMANN AND CO., STRAND;</p>
+               <p rend="justify">OLIVER AND BOYD, EDINBURGH.</p>
+               <p rend="justify"> </p>
+               <list rend="bulleted">
+                  <item>Transcriber’s Notes:<list rend="bulleted">
+                        <item>Missing or obscured punctuation was silently corrected.</item>
+                        <item>In the printed book, the illustrations on pages 1 and 2 were reversed. The illustrations are now correctly placed.</item>
+                        <item>The first three lines of instructions under the illustration on page 54 were spread out so each is on a separate line.</item>
+                        <item>Typographical errors were silently corrected.</item>
+                        <item>Inconsistent spelling and hyphenation were made consistent only when a predominant form was found in this book.</item>
+                     </list>
+                  </item>
+               </list>
+               <p rend="justify"> </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

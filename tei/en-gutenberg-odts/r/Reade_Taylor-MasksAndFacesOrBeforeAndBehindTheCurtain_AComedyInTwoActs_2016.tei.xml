@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Masks and Faces; or, Before and Behind the Curtain: A Comedy in Two Acts</title>
+            <author>Tom Taylor</author>
+            <author>Charles Reade</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T18:50:33Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/r/Reade_Taylor-MasksAndFacesOrBeforeAndBehindTheCurtain_AComedyInTwoActs_2016.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Tom Taylor; Charles Reade</name>
+               <date>2024-01-04T18:50:33Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Masks and Faces; or, Before and Behind the Curtain: A Comedy in Two Acts</head>
+         <author>Tom Taylor</author>
+         <author>Charles Reade</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/r/Reade_Taylor-MasksAndFacesOrBeforeAndBehindTheCurtain_AComedyInTwoActs_2016.odt</p>
+         <p>MASKS AND FACES</p>
+         <p>Dramatis Personæ</p>
+         <p>ACT I.</p>
+         <p>SCENE I.—<hi rend="italic">The Green Room of the Theatre Royal, Covent Garden.</hi>
+         </p>
+         <p>SCENE II.—<hi rend="italic">A spacious and elegant Apartment in the House of Mr. Vane.</hi>
+         </p>
+         <p>ACT II.</p>
+         <p>A large roughly furnished Garret.</p>
+         <p>Transcriber’s Note</p>
+         <p>MASKS AND FACES;</p>
+         <p>OR,</p>
+         <p>BEFORE AND BEHIND THE CURTAIN.</p>
+         <p>A Comedy</p>
+         <p>IN TWO ACTS.</p>
+         <p>BY</p>
+         <p>TOM TAYLOR AND CHARLES READE.</p>
+         <p>LONDON:</p>
+         <p>RICHARD BENTLEY, NEW BURLINGTON STREET.</p>
+         <p>1854</p>
+         <p>[<hi rend="italic">The Authors reserve the right of Translating this work.</hi>]</p>
+         <p>PRINTED BY HARRISON AND SONS,</p>
+         <p>LONDON GAZETTE OFFICE, ST. MARTIN’S LANE.</p>
+         <p>“MASKS AND FACES” was produced by Mr. Webster in November, 1852; and played 103 nights at the Haymarket and Adelphi Theatres.</p>
+         <table rend="frame" xml:id="Table1">
+            <row role="label">
+               <cell rend="start bold">DRAMATIS PERSONÆ.</cell>
+               <cell rend="start bold">HAYMARKET.</cell>
+               <cell rend="start bold">ADELPHI.</cell>
+            </row>
+            <row>
+               <cell>Sir Charles Pomander</cell>
+               <cell>Mr. Leigh Murray</cell>
+               <cell>Mr. Leigh Murray.</cell>
+            </row>
+            <row>
+               <cell>Mr. Ernest Vane</cell>
+               <cell>Mr. Parselle</cell>
+               <cell>Mr. Parselle.</cell>
+            </row>
+            <row>
+               <cell>Colly Cibber</cell>
+               <cell>Mr. Lambert</cell>
+               <cell>Mr. G. Honey.</cell>
+            </row>
+            <row>
+               <cell>Quin</cell>
+               <cell>Mr. James Bland</cell>
+               <cell>Mr. Paul Bedford.</cell>
+            </row>
+            <row>
+               <cell>Triplet</cell>
+               <cell>Mr. Benjamin Webster</cell>
+               <cell>Mr. Benjamin Webster.</cell>
+            </row>
+            <row>
+               <cell>Lysimachus Triplet</cell>
+               <cell>Master Caulfield</cell>
+               <cell>Master Caulfield.</cell>
+            </row>
+            <row>
+               <cell>Mr. Snarl</cell>
+               <cell>Mr. Stuart</cell>
+               <cell>Mr. O. Smith.</cell>
+            </row>
+            <row>
+               <cell>Mr. Soaper</cell>
+               <cell>Mr. Braid</cell>
+               <cell>Mr. C. J. Smith.</cell>
+            </row>
+            <row>
+               <cell>James Burdock</cell>
+               <cell>Mr. Rogers</cell>
+               <cell>Mr. R. Romer.</cell>
+            </row>
+            <row>
+               <cell>Colander</cell>
+               <cell>Mr. Clark</cell>
+               <cell>Mr. Hastings.</cell>
+            </row>
+            <row>
+               <cell>Hundsdon</cell>
+               <cell>Mr. Coe</cell>
+               <cell>Mr. Lindon.</cell>
+            </row>
+            <row>
+               <cell>Call Boy</cell>
+               <cell>Mr. Edwards</cell>
+               <cell>Mr. Waye.</cell>
+            </row>
+            <row>
+               <cell>Pompey</cell>
+               <cell>Master C. J. Smith</cell>
+               <cell>Master C. J. Smith.</cell>
+            </row>
+            <row>
+               <cell>Mrs. Vane</cell>
+               <cell>Miss Rosa Bennett</cell>
+               <cell>Miss Woolgar.</cell>
+            </row>
+            <row>
+               <cell>Peg Woffington</cell>
+               <cell>Mrs. Stirling</cell>
+               <cell>Madame Celeste.</cell>
+            </row>
+            <row>
+               <cell>Kitty Clive</cell>
+               <cell>Miss Maskell</cell>
+               <cell>Miss Maskell.</cell>
+            </row>
+            <row>
+               <cell>Mrs. Triplet</cell>
+               <cell>Mrs. Leigh Murray</cell>
+               <cell>Mrs. Leigh Murray.</cell>
+            </row>
+            <row>
+               <cell>Roxalana</cell>
+               <cell>Miss Caulfield</cell>
+               <cell>Miss Caulfield.</cell>
+            </row>
+            <row>
+               <cell>Maid</cell>
+               <cell>Miss E. Woulds</cell>
+               <cell>Miss Mitchenson.</cell>
+            </row>
+         </table>
+         <head>MASKS AND FACES,<lb/>
+            <lb/>OR,<lb/>
+            <lb/>BEFORE AND BEHIND THE CURTAIN.</head>
+         <pb/>
+         <div type="div1">
+            <head>Masks and Faces; or, Before and Behind the Curtain: A Comedy in Two Acts</head>
+            <pb/>
+            <div type="div2">
+               <head>ACT I.</head>
+               <p rend="justify">SCENE I.—<hi rend="italic">The Green Room of the Theatre Royal, Covent Garden. A Fire-place</hi> C., <hi rend="italic">with a Looking-glass over it, on which a call is wafered. Curtain rises on Mr. Quin and Mrs. Clive, seated each side of Fire-place.</hi>
+               </p>
+               <p rend="justify">CLIVE. Who dines with Mr. Vane to-day besides ourselves?</p>
+               <p rend="justify">QUIN. His inamorata, Mrs. Woffington, of this theatre.</p>
+               <p rend="justify">CLIVE. Of course. But who else?</p>
+               <p rend="justify">QUIN. Sir Charles Pomander. The critics, Snarl and Soaper, are invited, I believe.</p>
+               <p rend="justify">CLIVE. Then I shall eat no dinner.</p>
+               <p rend="justify">QUIN. Pooh! There is to be a haunch that will counterpoise in one hour a century of censure. Let them talk! the mouth will revenge the ears of Falstaff;—besides, Snarl is the only ill-natured one—Soaper praises people, don’t he?</p>
+               <p rend="justify">CLIVE. Don’t be silly, Quin! Soaper’s praise is only a pin for his brother executioner to hang abuse on: by this means Snarl, who could not invent even ill-nature, is never at a loss. Snarl is his own weight in wormwood; but Soaper is—hush!—hold your tongue.</p>
+               <p rend="justify">[<hi rend="italic">Enter Snarl and Soaper</hi>  L.D. <hi rend="italic">Quin and Clive rise.</hi>]</p>
+               <p rend="justify">(<hi rend="italic">Clive, with engaging sweetness</hi>). Ah! Mr. Snarl! Mr. Soaper! we were talking of you.</p>
+               <p rend="justify">SNARL. I am sorry for that, madam.</p>
+               <p rend="justify">QUIN. We hear you dine with us at Mr. Vane’s.</p>
+               <p rend="justify">SOAP. We have been invited, and are here to accept. I was told Mr. Vane was here.</p>
+               <p rend="justify">QUIN. No; but he is on the stage.</p>
+               <p rend="justify">SNARL. Come, then, Soaper.</p>
+               <p rend="justify">[<hi rend="italic">They move towards door.</hi>
+               </p>
+               <p rend="justify">SOAP. (<hi rend="italic">aside</hi>). Snarl!</p>
+               <p rend="justify">SNARL. Yes. (<hi rend="italic">With a look of secret intelligence</hi>).</p>
+               <p rend="justify">SOAP. (<hi rend="italic">crosses slowly to Clive</hi>). My dear Mrs. Clive, there was I going away without telling you how charmed I was with your Flippanta; all that sweetness and womanly grace, with which you invested that character, was——</p>
+               <p rend="justify">SNARL. Misplaced. Flippanta is a vixen, or she is nothing at all.</p>
+               <p rend="justify">SOAP. Your Sir John Brute, sir, was a fine performance: you never forgot the gentleman even in your cups.</p>
+               <p rend="justify">SNARL. Which, as Sir John Brute is the exact opposite of a gentleman, he ought to have forgotten.</p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  L.</p>
+               <p rend="justify">SOAP. But you must excuse me now; I will resume your praise at dinner-time.</p>
+               <p rend="justify">[<hi rend="italic">Exit, with bows</hi>, L.</p>
+               <p rend="justify">CLIVE (<hi rend="italic">walks in a rage</hi>). We are the most unfortunate of all artists. Nobody regards our feelings. (<hi rend="italic">Quin shakes his head.</hi>)</p>
+               <p rend="justify">[<hi rend="italic">Enter Call-Boy</hi>  L.]</p>
+               <p rend="justify">CALL-BOY. Mr. Quin and Mrs. Clive!</p>
+               <p rend="justify">[<hi rend="italic">Exit Call-Boy</hi>  L.</p>
+               <p rend="justify">QUIN. I shall cut my part in this play.</p>
+               <p rend="justify">CLIVE (<hi rend="italic">yawns</hi>). Cut it as deep as you like, there will be enough left; and so I shall tell the author if he is there.</p>
+               <p rend="justify">[<hi rend="italic">Exeunt Quin and Clive</hi>  L.</p>
+               <p rend="justify">[<hi rend="italic">Enter Mr. Vane and Sir Charles Pomander</hi>  L.]</p>
+               <p rend="justify">POM. All this eloquence might be compressed into one word—you love Mrs. Margaret Woffington.</p>
+               <p rend="justify">VANE. I glory in it.</p>
+               <p rend="justify">POM. Why not, if it amuses you? We all love an actress once in our lives, and none of us twice.</p>
+               <p rend="justify">VANE. You are the slave of a word, Sir Charles Pomander. Would you confound black and white because both are colours? Actress! Can you not see that she is a being like her fellows in nothing but a name? Her voice is truth, told by music: theirs are jingling instruments of falsehood.</p>
+               <p rend="justify">POM. No—they are all instruments; but hers is more skilfully tuned and played upon.</p>
+               <p rend="justify">VANE. She is a fountain of true feeling.</p>
+               <p rend="justify">POM. No—a pipe that conveys it, without spilling or retaining a drop.</p>
+               <p rend="justify">VANE. She has a heart alive to every emotion.</p>
+               <p rend="justify">POM. And influenced by none.</p>
+               <p rend="justify">VANE. She is a divinity to worship.</p>
+               <p rend="justify">POM. And a woman to fight shy of. No—no—we all know Peg Woffington; she is a decent actress on the boards, and a great actress off them. But I will tell you how to add a novel charm to her. Make her blush—ask her for the list of your predecessors.</p>
+               <p rend="justify">VANE (<hi rend="italic">with a mortified air</hi>). Sir Charles Pomander! But you yourself profess to admire her.</p>
+               <p rend="justify">POM. And so I do, hugely. Notwithstanding the charms of the mysterious Hebe I told you of, whose antediluvian coach I extricated from the Slough of Despond, near Barnet, on my way to town yesterday, I gave La Woffington a proof of my devotion only two hours ago.</p>
+               <p rend="justify">VANE. How?</p>
+               <p rend="justify">POM. By offering her three hundred a-year—house—coach—pin-money—my heart——and the et ceteras.</p>
+               <p rend="justify">VANE. You? But she has refused.</p>
+               <p rend="justify">POM. My dear Arcadian, I am here to receive her answer. (<hi rend="italic">Vane crosses to</hi>  L. H.) You had better wait for it before making your avowal.</p>
+               <p rend="justify">VANE. That avowal is made already; but I will wait, if but to see what a lesson the calumniated actress can read to the fine gentleman.</p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  L. H.</p>
+               <p rend="justify">POM. The lesson will be set by me—Woffington will learn it immediately. It is so simple, only three words, <hi rend="italic">£. s. d.</hi>
+               </p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  L. H.</p>
+               <p rend="justify">TRIPLET (<hi rend="italic">speaking outside</hi>). Mr. Rich not in the theatre? Well, my engagements will allow of my waiting for a few minutes. (<hi rend="italic">Enter Triplet and Call-Boy</hi>  L. <hi rend="italic">Triplet has a picture wrapped in baize and without a frame.</hi>) And if you will just let me know when Mr. Rich arrives (<hi rend="italic">winks—touches his pocket</hi>). Heaven forgive me for raising groundless expectations!</p>
+               <p rend="justify">CALL-BOY. What name, sir?</p>
+               <p rend="justify">TRIP. Mr. Triplet.</p>
+               <p rend="justify">CALL-BOY. Triplet! There is something left for you in the hall, sir.</p>
+               <p rend="justify">[<hi rend="italic">Exit Call-Boy</hi>  L.</p>
+               <p rend="justify">TRIP. I knew it, I sent him three tragedies. They are accepted; and he has left me a note in the hall, to fix the reading—at last. I felt it must come, soon or late; and it has come—late. Master of three arts, painting, writing, and acting, by each of which men grow fat, how was it possible I should go on perpetually starving. But that is all over now. My tragedies will be acted, the town will have an intellectual treat, and my wife and children will stab my heart no more with their hungry looks.</p>
+               <p rend="justify">[<hi rend="italic">Enter Call-Boy with parcel.</hi>]</p>
+               <p rend="justify">CALL-BOY. Here is the parcel for you, sir.</p>
+               <p rend="justify">[<hi rend="italic">Exit Call-Boy</hi>  L.</p>
+               <p rend="justify">TRIP. (<hi rend="italic">weighs it in his hand</hi>). Why, how is this? Oh, I see; he returns them for some trifling alterations. Well, if they are judicious, I shall certainly adopt them, for (<hi rend="italic">opening the parcel</hi>) managers are practical men. My tragedies!—Eh? here are but two! one is accepted!—no! they are all here (<hi rend="italic">sighs</hi>). Well, (<hi rend="italic">spitefully</hi>) it is a thousand pounds out of Mr. Rich’s pocket, poor man! I pity him; and my hungry mouths at home! Heaven knows where I am to find bread for them to-morrow! Everything that will raise a shilling I have sold or pawned. Even my poor picture here, the portrait of Mrs. Woffington from memory—I tried to sell that this morning at every dealer’s in Long Acre—and not one would make me an offer.</p>
+               <p rend="justify">[<hi rend="italic">Enter Woffington</hi>  L. <hi rend="italic">reciting from a part.</hi>]</p>
+               <p rend="justify">WOFF.        “Now by the joys</p>
+               <p rend="justify">Which my soul still has uncontroll’d pursued,</p>
+               <p rend="justify">I would not turn aside from my least pleasure.</p>
+               <p rend="justify">Though all thy force were armed to bar my way.”</p>
+               <p rend="justify">TRIP. (<hi rend="italic">aside</hi>, R.). Mrs. Woffington, the great original of my picture!</p>
+               <p rend="justify">WOFF. (L.) “But like the birds, great nature’s happy commoners</p>
+               <p rend="justify">Rifle the sweets”—I beg your pardon, sir!</p>
+               <p rend="justify">TRIP. Nay, madam, pray continue; happy the hearer and still happier the author of verses so spoken.</p>
+               <p rend="justify">WOFF. Yes, if you could persuade the authors how much they owe us, and how hard it is to find good music for indifferent words. Are you an author, sir?</p>
+               <p rend="justify">TRIP. In a small way, madam; I have here three tragedies.</p>
+               <p rend="justify">WOFF. (<hi rend="italic">looking down at them with comical horror</hi>). Fifteen acts, mercy on us!</p>
+               <p rend="justify">TRIP. Which if I could submit to Mrs. Woffington’s judgment——</p>
+               <p rend="justify">WOFF. (<hi rend="italic">recoiling</hi>). I am no judge of such things, sir.</p>
+               <p rend="justify">TRIP. No more is the manager of this theatre.</p>
+               <p rend="justify">WOFF. What! has he accepted them?</p>
+               <p rend="justify">TRIP. No! madam! he has had them six months and returned them without a word.</p>
+               <p rend="justify">WOFF. Patience, my good sir, patience! authors of tragedies should learn that virtue of their audiences. Do you know I called on Mr. Rich fifteen times before I could see him?</p>
+               <p rend="justify">TRIP. You, madam, impossible!</p>
+               <p rend="justify">WOFF. Oh, it was some years ago—and he has had to pay a hundred pounds for each of those little visits—let me see,—fifteen times—you must write twelve more tragedies—sixty acts—and then he will read one, and give you his judgment at last, and when you have got it—it won’t be worth a farthing.</p>
+               <p rend="justify">(<hi rend="italic">turns up reading her part.</hi>)</p>
+               <p rend="justify">TRIP. (<hi rend="italic">aside</hi>). One word from this laughing lady, and all my plays would be read—but I dare not ask her—she is up in the world, I am down. She is great—I am nobody—besides they say she is all brains and no heart (<hi rend="italic">crosses to</hi>  L. <hi rend="italic">Moves sorrowfully towards</hi>  L. D., <hi rend="italic">taking his picture</hi>).</p>
+               <p rend="justify">WOFF. He looks like a fifth act of a domestic tragedy. Stop, surely I know that doleful face—Sir!</p>
+               <p rend="justify">TRIP. Madam!</p>
+               <p rend="justify">WOFF. (<hi rend="italic">beckons</hi>). We have met before;—don’t speak; yours is a face that has been kind to me, and I never forget those faces.</p>
+               <p rend="justify">TRIP. Me, madam! I know better what is due to you than to be kind to you.</p>
+               <p rend="justify">WOFF. To be sure! it is Mr. Triplet, good Mr. Triplet of Goodman’s-fields Theatre.</p>
+               <p rend="justify">TRIP. It is, madam (<hi rend="italic">opening his eyes with astonishment</hi>); but we don’t call him Mr., nor even good.</p>
+               <p rend="justify">WOFF. Yes; it is Mr. Triplet (<hi rend="italic">shakes both his hands warmly; he timidly drops a tragedy or two</hi>). Don’t you remember a little orange girl at Goodman’s Fields you used sometimes to pat on the head and give sixpence to, some seven years ago, Mr. Triplet?</p>
+               <p rend="justify">TRIP. Ha! ha! I do remember one, with such a merry laugh and bright eye; and the broadest brogue of the whole sisterhood.</p>
+               <p rend="justify">WOFF. Get along with your blarney then, Mr. Triplet, an’ is it the comether ye’d be puttin’ on poor little Peggy?</p>
+               <p rend="justify">TRIP. Oh! oh! gracious goodness, oh!</p>
+               <p rend="justify">WOFF. Yes; that friendless orange girl was Margaret Woffington! Well, old friend, you see time has treated me well. I hope he has been as kind to you; tell me, Mr. Triplet.</p>
+               <p rend="justify">TRIP. (<hi rend="italic">aside</hi>). I must put the best face on it with her. Yes, madam, he has blessed me with an excellent wife and three charming children. Mrs. Triplet was Mrs. Chatterton, of Goodman’s Fields—great in the juvenile parts—you remember her?</p>
+               <p rend="justify">WOFF. (<hi rend="italic">very drily</hi>). Yes, I remember her; where is she acting?</p>
+               <p rend="justify">TRIP. Why, the cares of our family—and then her health (<hi rend="italic">sighs</hi>). She has not acted these eight months.</p>
+               <p rend="justify">WOFF. Ah!—and are you still painting scenes?</p>
+               <p rend="justify">TRIP. With the pen, madam, not the brush! as the wags said, I have transferred the distemper from my canvas to my imagination, ha! ha!</p>
+               <p rend="justify">WOFF. (<hi rend="italic">aside</hi>). This man is acting gaiety. And have your pieces been successful?</p>
+               <p rend="justify">TRIP. Eminently so—in the closet; the managers have as yet excluded them from the stage.</p>
+               <p rend="justify">WOFF. Ah! now if those things were comedies, I would offer to act in one of them, and then the stage door would fly open at sight of the author.</p>
+               <p rend="justify">TRIP. I’ll go home and write a comedy (<hi rend="italic">moves</hi>).</p>
+               <p rend="justify">WOFF. On second thoughts, perhaps you had better leave the tragedies with me.</p>
+               <p rend="justify">TRIP. My dear madam!—and you will read them?</p>
+               <p rend="justify">WOFF. Ahem! I will make poor Rich read them.</p>
+               <p rend="justify">TRIP. But he has rejected them.</p>
+               <p rend="justify">WOFF. That is the first step—reading comes after, when it comes at all.</p>
+               <p rend="justify">TRIP. (<hi rend="italic">aside</hi>). I must fly home and tell my wife.</p>
+               <p rend="justify">WOFF. (<hi rend="italic">aside</hi>). In the mean time I can put five guineas into his pocket. Mr. Triplet, do you write congratulatory verses—odes—and that sort of thing?</p>
+               <p rend="justify">TRIP. Anything, madam, from an acrostic to an epic.</p>
+               <p rend="justify">WOFF. Good, then I have a commission for you; I dine to-day at Mr. Vane’s, in Bloomsbury Square. We shall want some verses. Will you oblige us with a copy?</p>
+               <p rend="justify">TRIP. (<hi rend="italic">aside</hi>). A guinea in my way, at least. Oh, madam, do but give me a subject.</p>
+               <p rend="justify">WOFF. Let’s see—myself, if you can write on such a theme.</p>
+               <p rend="justify">TRIP. ’Tis the one I would have chosen out of all the heathen mythology; the praises of Venus and the Graces. I will set about it at once (<hi rend="italic">takes up portrait</hi>).</p>
+               <p rend="justify">WOFF. (<hi rend="italic">sees picture</hi>). But what have you there? not another tragedy?</p>
+               <p rend="justify">TRIP. (<hi rend="italic">blushing</hi>). A poor thing, madam, a portrait—my own painting, from memory.</p>
+               <p rend="justify">WOFF. Oh! oh! I’m a judge of painted faces; let me see it.</p>
+               <p rend="justify">TRIP. Nay, madam!</p>
+               <p rend="justify">WOFF. I insist! (<hi rend="italic">She takes off the baize.</hi>) My own portrait, as I live! and a good likeness too, or my glass flatters me like the rest of them. And this you painted from memory?</p>
+               <p rend="justify">TRIP. Yes, madam; I have a free admission to every part of the theatre before the curtain. I have so enjoyed your acting, that I have carried your face home with me every night, forgive my presumption, and tried to fix in the studio the impression of the stage.</p>
+               <p rend="justify">WOFF. Do you know your portrait has merit? I will give you a sitting for the last touches.</p>
+               <p rend="justify">TRIP. Oh, madam!</p>
+               <p rend="justify">WOFF. And bring all the critics—there, no thanks or I’ll stay away. Stay, I must have your address.</p>
+               <p rend="justify">TRIP. (<hi rend="italic">returning to her</hi>). On the fly leaf of each work, madam, you will find the address of James Triplet, painter, actor, and dramatic author, and Mrs. Woffington’s humble and devoted servant. (<hi rend="italic">Bows ridiculously low, moves away, but returns with an attempt at a jaunty manner.</hi>) Madam, you have inspired a son of Thespis with dreams of eloquence; you have tuned to a higher key a poet’s lyre; you have tinged a painter’s existence with brighter colours; and—and—(<hi rend="italic">gazes on her and tries in vain to speak</hi>) God in heaven bless you, Mrs. Woffington!</p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  L. <hi rend="italic">hastily.</hi>
+               </p>
+               <p rend="justify">WOFF. So! I must look into this!</p>
+               <p rend="justify">[<hi rend="italic">Enter Sir Charles Pomander</hi>  L.]</p>
+               <p rend="justify">POM. Ah, Mrs. Woffington, I have just parted with an adorer of yours.</p>
+               <p rend="justify">WOFF. I wish I could part with them all.</p>
+               <p rend="justify">POM. Nay, this is a most original admirer, Ernest Vane, that pastoral youth who means to win La Woffington by agricultural courtship, who wants to take the star from its firmament, and stick it in a cottage.</p>
+               <p rend="justify">WOFF. And what does the man think I am to do without this (<hi rend="italic">imitates applause</hi>) from my dear public’s thousand hands.</p>
+               <p rend="justify">POM. You are to have that from a single mouth instead (<hi rend="italic">mimics a kiss</hi>).</p>
+               <p rend="justify">WOFF. Go on, tell me what more he says.</p>
+               <p rend="justify">POM. Why, he——</p>
+               <p rend="justify">WOFF. No, you are not to invent; I should detect your work in a minute, and you would only spoil this man.</p>
+               <p rend="justify">POM. He proposes to be your friend, rather than your lover; to fight for your reputation instead of adding to your éclat.</p>
+               <p rend="justify">WOFF. Oh! and is Mr. Vane your friend?</p>
+               <p rend="justify">POM. He is!</p>
+               <p rend="justify">WOFF. (<hi rend="italic">with significance</hi>). Why don’t you tell him my real character, and send him into the country again!</p>
+               <p rend="justify">POM. I do; but he snaps his fingers at me and common sense and the world:—there is no getting rid of him, except in one way. I had this morning the honour, madam, of laying certain propositions at your feet.</p>
+               <p rend="justify">WOFF. Oh, yes, your letter, Sir Charles (<hi rend="italic">takes it</hi>
+                  <hi rend="italic">out of her pocket</hi>). I ran my eye down it as I came along, let me see—(<hi rend="italic">letter</hi>)—“a coach,” “a country house,” “pin-money.” Heigh ho! And I am <hi rend="italic">so</hi>  tired of houses, and coaches, and pins. Oh, yes, here <hi rend="italic">is</hi>  something. What is this you offer me, up in this corner?</p>
+               <p rend="justify">[<hi rend="italic">They inspect the letter together.</hi>]</p>
+               <p rend="justify">POM. That,—my “heart!”</p>
+               <p rend="justify">WOFF. And you can’t even write it; it looks just like “earth.” There is your letter, Sir Charles.</p>
+               <p rend="justify">[<hi rend="italic">Curtseys and returns it; he takes it and bows.</hi>]</p>
+               <p rend="justify">POM. Favour me with your answer.</p>
+               <p rend="justify">WOFF. You have it.</p>
+               <p rend="justify">POM. (<hi rend="italic">laughing</hi>). Tell me, do you really refuse?</p>
+               <p rend="justify">WOFF. (<hi rend="italic">inspecting him</hi>). Acting surprise? no, genuine! My good soul, are you so ignorant of the stage and the world, as not to know that I refuse such offers as yours every week of my life? I have refused so many of them, that I assure you I have begun to forget they are insults.</p>
+               <p rend="justify">POM. Insults, madam! They are the highest compliment you have left it in our power to pay you.</p>
+               <p rend="justify">WOFF. Indeed! Oh, I take your meaning. To be your mistress could be but a temporary disgrace; to be your wife might be a lasting discredit. Now sir, having played your rival’s game——</p>
+               <p rend="justify">POM. Ah!</p>
+               <p rend="justify">WOFF. And exposed your own hand, do something to recover the reputation of a man of the world. Leave the field before Mr. Vane can enjoy your discomfiture, for here he comes.</p>
+               <p rend="justify">POM. I leave you, madam, but remember, my discomfiture is neither your triumph, nor your swain’s.</p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  L.</p>
+               <p rend="justify">WOFF. I do enjoy putting down these irresistibles.</p>
+               <p rend="justify">[<hi rend="italic">Enter Vane</hi>, L.]</p>
+               <p rend="justify">At last! I have been here so long.</p>
+               <p rend="justify">VANE. Alone?</p>
+               <p rend="justify">WOFF. In company and solitude. What has annoyed you?</p>
+               <p rend="justify">VANE. Nothing.</p>
+               <p rend="justify">WOFF. Never try to conceal anything from me. I know the map of your face. These fourteen days you have been subject to some adverse influence; and to-day I have discovered whose it is.</p>
+               <p rend="justify">VANE. No influence can ever shake yours.</p>
+               <p rend="justify">WOFF. Dear friend, for your own sake, not mine; trust your own heart, eyes, and judgment.</p>
+               <p rend="justify">VANE. I do. I love you; your face is the shrine of sincerity, truth, and candour. I alone know you: your flatterers do not—your detractors—oh! curse them!</p>
+               <p rend="justify">WOFF. You see what men are! Have I done ill to hide the riches of my heart from the heartless, and keep them all for one honest man, who will be my friend, I hope, as well as my lover?</p>
+               <p rend="justify">VANE. Ah, that is my ambition.</p>
+               <p rend="justify">WOFF. We actresses make good the old proverb, “Many lovers, but few friends.” And oh! it is we who need a friend. Will you be mine?</p>
+               <p rend="justify">VANE. I will. Then tell me the way for me, unequal in wit and address to many of your admirers, to win your esteem.</p>
+               <p rend="justify">WOFF. I will tell you a sure way; never act in my presence, never try to be very clever or eloquent. Remember! I am the goddess of tricks: I can only love my superior. Be honest and frank as the day, and you will be my superior; and I shall love you, and bless the hour you shone on my artificial life.</p>
+               <p rend="justify">VANE. Oh! thanks, thanks, for this, I trust, is in my power!</p>
+               <p rend="justify">WOFF. Mind—it is no easy task: to be my friend is to respect me, that I may respect myself the more; to be my friend is to come between me and the temptations of an unprotected life—the recklessness of a vacant heart.</p>
+               <p rend="justify">VANE. I will place all that is good about me at your feet. I will sympathize with you when you are sad; I win rejoice when you are gay.</p>
+               <p rend="justify">WOFF. Will you scold me when I do wrong?</p>
+               <p rend="justify">VANE. Scold you?</p>
+               <p rend="justify">WOFF. Nobody scolds me now—a sure sign nobody loves me. Will you scold me?</p>
+               <p rend="justify">VANE (<hi rend="italic">tenderly</hi>). I will try! and I will be loyal and frank. You will not hate me for a confession I make myself? (<hi rend="italic">agitated.</hi>)</p>
+               <p rend="justify">WOFF. I shall like you better—oh! so much better.</p>
+               <p rend="justify">VANE. Then I will own to you——</p>
+               <p rend="justify">WOFF. Oh! do not tell me you have loved others before me; I could not bear to hear it.</p>
+               <p rend="justify">VANE. No—no—I never <hi rend="italic">loved</hi>  till now.</p>
+               <p rend="justify">WOFF. Let me hear that only. I am jealous even of the past. Say you never loved but me—never mind whether it is true—say so;—but it is true, for you do not yet know love. Ernest, shall I make you love me, as none of your sex ever loved? with heart, and brain, and breath, and life, and soul?</p>
+               <p rend="justify">VANE. Teach me so to love, and I am yours for ever. (<hi rend="italic">Pause</hi>) And now you will keep your promise, to make me happy with your presence this morning at the little festival I had arranged with Cibber and some of our friends of the theatre.</p>
+               <p rend="justify">WOFF. I shall have so much pleasure; but, <hi rend="italic">àpropos</hi>, you must include Snarl and Soaper in your list.</p>
+               <p rend="justify">VANE. What! the redoubtable Aristarchuses of the pit?</p>
+               <p rend="justify">WOFF. Yes. Oh, you don’t know the consequences of loving an actress. You will have to espouse my quarrels, manage my managers, and invite my critics to dinner.</p>
+               <p rend="justify">VANE. They shall be invited, never fear.</p>
+               <p rend="justify">WOFF. And I’ve a trust for you; poor Triplet’s three tragedies. If they are as heavy in the hearing as the carrying—— But here comes your rival, poor Pomander (<hi rend="italic">crosses to</hi>  L.).</p>
+               <p rend="justify">[<hi rend="italic">Enter Sir Charles</hi>, L.]</p>
+               <p rend="justify">You will join our party at Mr. Vane’s, Sir Charles? You promised, you know (<hi rend="italic">crosses to</hi>  L.).</p>
+               <p rend="justify">POM. (<hi rend="italic">coldly</hi>). <hi rend="italic">Desolé</hi>  to forfeit such felicity; but I have business.</p>
+               <p rend="justify">VANE (<hi rend="italic">as he passes, crosses to</hi>  C.). By-the-bye, Pomander, that answer to your letter to Mrs. Woffington?</p>
+               <p rend="justify">WOFF. He has received it. <hi rend="italic">N’est ce pas</hi>, Sir Charles? You see how radiant it has made him! Ha! ha!</p>
+               <p rend="justify">[<hi rend="italic">Exeunt Woffington and Vane</hi>  L. H.</p>
+               <p rend="justify">POM. Laughing devil! If you had wit to read beneath men’s surface, you would know it is no jest to make an enemy of Sir Charles Pomander.</p>
+               <p rend="justify">[<hi rend="italic">Enter Hundsdon</hi>, R.]</p>
+               <p rend="justify">HUNDS. Servant, Sir Charles.</p>
+               <p rend="justify">POM. Ah, my yeoman pricker, with news of the mysterious Hebe of my Barnet rencontre. Well, sirrah, you stayed by the coach as I bade you?</p>
+               <p rend="justify">HUNDS. Yes, Sir Charles.</p>
+               <p rend="justify">POM. And pumped the servants?</p>
+               <p rend="justify">HUNDS. Yes, Sir Charles, till they swore they’d pump on me.</p>
+               <p rend="justify">POM. My good fellow, contrive to answer my questions without punning, will you?</p>
+               <p rend="justify">HUNDS. Yes, Sir Charles.</p>
+               <p rend="justify">POM. What did you learn from them? Who is the lady, their mistress?</p>
+               <p rend="justify">HUNDS. She is on her way to town to join her husband. They have only been married a twelvemonth; and he has been absent from her half the time.</p>
+               <p rend="justify">POM. Good. Her name?</p>
+               <p rend="justify">HUNDS. Vane.</p>
+               <p rend="justify">POM. Vane!</p>
+               <p rend="justify">HUNDS. Wife of Mr. Ernest Vane, a gentleman of good estate, Willoughby Manor, Huntingdonshire.</p>
+               <p rend="justify">POM. What!—What!—His wife, by heaven! Oh! here is a rare revenge. Ride back, sirrah, and follow the coach to its destination.</p>
+               <p rend="justify">HUNDS. They took master for a highwayman. If they knew him as well as I do, they wouldn’t do the road such an injustice.</p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  R.</p>
+               <p rend="justify">POM. (<hi rend="italic">with energy</hi>). I’ll after them; and if I can but manage that Vane shall remain ignorant of her arrival, I may confront Hebe with Thalia; introduce the wife to the mistress under the husband’s roof. Aha! my Arcadian pair, there may be a guest at your banquet you little expect, besides Sir Charles Pomander!</p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  L.</p>
+               <p rend="justify">SCENE II.—<hi rend="italic">A spacious and elegant Apartment in the House of Mr. Vane, opening into a Garden formally planted, with Statues, &amp;c. A Table set for a collation, with Fruits, Flowers, Wine, and Plate. A Door</hi>  C. <hi rend="italic">flat, communicating with Entrance Hall, other Doors</hi>  R. <hi rend="italic">and</hi>  L. <hi rend="italic">Settees and high-backed Chairs, a Side Table with Plate, Salvers, &amp;c.</hi>
+               </p>
+               <p rend="justify">[<hi rend="italic">Colander discovered arranging table.</hi>]</p>
+               <p rend="justify">COL. So! malmsey, fruit, tea, coffee, yes! all is ready against their leaving the dining-room!</p>
+               <p rend="justify">[<hi rend="italic">Enter James Burdock, a salver with letters in his hand.</hi>]</p>
+               <p rend="justify">BUR. Post letters, Master Colander.</p>
+               <p rend="justify">COL. Put ’em on the salver. (<hi rend="italic">Burdock does so.</hi>) You may go, honest Burdock—(<hi rend="italic">Burdock fidgets, turning the letters on the salver</hi>) when I say you <hi rend="italic">may</hi>  go—that means you <hi rend="italic">must;</hi>  the stable is your place when the family is not in Huntingdonshire, and at present the family is in London.</p>
+               <p rend="justify">BUR. And I wish it was in Huntingdonshire, with the best part of it, and that’s mistress. Poor thing! A twelvemonth married, and six months of it as good as a widow.</p>
+               <p rend="justify">COL. We write to her, James, and receive her replies.</p>
+               <p rend="justify">BUR. Aye! but we don’t read ’em, it seems.</p>
+               <p rend="justify">COL. We intend to do so at our leisure—meanwhile we make ourselves happy among the wits and the players.</p>
+               <p rend="justify">BUR. And she do make others happy among the poor and the suffering.</p>
+               <p rend="justify">COL. James Burdock, property has its duties, as well as its rights. Master enjoys the rights in town, and mistress discharges the duties in the country; ’tis the division of labour—and now vanish, honest James, the company will be here directly, and you know master can’t abide the smell of the stable (<hi rend="italic">crosses to</hi>  L.).</p>
+               <p rend="justify">BUR. But, Master Colander, do let him have this letter from missus (<hi rend="italic">holds out the letter he has taken from the salver</hi>).</p>
+               <p rend="justify">COL. James Burdock, you are incorrigible. Have I not given it to him once already? and didn’t he fling it in my face and call me a puppy? I respect Mistress Vane, James; but I must remember what’s due to myself—I shan’t take it.</p>
+               <p rend="justify">[<hi rend="italic">Exit Colander</hi>  3 E. L.</p>
+               <p rend="justify">BUR. Then I will—there! Poor dear lady! I can’t abear that her letters, with her heart in ’em, I’ll be sworn, should lie unopened. Barnet post mark!—why, how can that be? Well, it’s not my business. (<hi rend="italic">puts salver on table</hi>  2 E. L.) Master shall have it though (<hi rend="italic">hurried knocking heard</hi>). There goes that door, ah! I thought it wouldn’t be quiet long—what a rake-helly place this London is!</p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  L.</p>
+               <p rend="justify">[<hi rend="italic">Re-enter with Mrs. Vane in a hood and travelling dress.</hi>]</p>
+               <p rend="justify">BUR. Stop! stop! I don’t think master can see you, young woman.</p>
+               <p rend="justify">MABEL. Why, James Burdock, have you forgotten your mistress? (<hi rend="italic">removes her hood</hi>)</p>
+               <p rend="justify">BUR. Mistress! why Miss Mabel—I ask your pardon, miss,—I mean, madam. Bless your sweet face!—here, John, Thomas!</p>
+               <p rend="justify">MABEL. Hush!</p>
+               <p rend="justify">BUR. Lord, lord! come at last! oh! how woundy glad I am, to be sure—oh! lord, lord, my old head’s all of a muddle with joy to see your kind face again.</p>
+               <p rend="justify">MABEL. (R.) But Ernest—Mr. Vane, James, is he well—and happy—and (<hi rend="italic">sees his change of face</hi>)—Eh! he is well, James?</p>
+               <p rend="justify">BUR. Yes, yes, quite well, and main happy.</p>
+               <p rend="justify">MABEL. And is he very impatient to see me?</p>
+               <p rend="justify">BUR. (<hi rend="italic">aside</hi>). Lord help her!</p>
+               <p rend="justify">MABEL. But mind, James, not a word; he doesn’t expect me till six, and ’tis now scarce four. Oh! I shall startle him so!</p>
+               <p rend="justify">BUR. Yes, yes, madam; you’ll startle him woundily.</p>
+               <p rend="justify">MABEL. Oh! it will be so delightful to pop out upon him unawares—will it not, James?</p>
+               <p rend="justify">BUR. Yes, Miss Mabel,—that is, madam; but hadn’t I better prepare him like?</p>
+               <p rend="justify">MABEL. Not for the world. You know, James, when one is wishing for any one very much, the last hour’s waiting is always the most intolerable, so when he is most longing to see me, and counting the minutes to six, I’ll just open the door, and steal behind him, and fling my arms round his neck, and—but I shall be caught if I stay prattling here, and I must brush the dust from my hair, and smooth my dress, or I shall not be fit to be seen; so not a word to anybody, James, I insist, or I shall be angry. Where is my room? (<hi rend="italic">goes to</hi>  3 E. R. <hi rend="italic">and opens door</hi>) Oh, here!</p>
+               <p rend="justify">BUR. Your room, Miss Mabel; no! no! that is Mr. Vane’s room, Ma’am.</p>
+               <p rend="justify">MABEL. Well, Mr. Vane’s room is my room, I suppose (<hi rend="italic">pausing at door</hi>). He is not there, is he?</p>
+               <p rend="justify">BUR. No, Ma’am, he is in the dining-room (<hi rend="italic">knock</hi>). Anon! anon!</p>
+               <p rend="justify">MABEL. I fear my trunks will not be here in time for me to dress; but Ernest will not mind. He will see my heart in my face, and forgive my travelling sacque.</p>
+               <p rend="justify">[<hi rend="italic">Exit into apartment</hi>  R. 2 E.</p>
+               <p rend="justify">BUR. Poor thing! poor thing! (<hi rend="italic">knock</hi>) there goes that door again—darn me if I go till I’ve seen Colander. Anon,—Miss Mabel!—(<hi rend="italic">going to door</hi>  3 E. R.).</p>
+               <p rend="justify">[<hi rend="italic">Hundsdon enters</hi>  3 E. L.]</p>
+               <p rend="justify">HUNDS. (<hi rend="italic">aside and looking at Burdock</hi>). For all the world the twin brother to those bumpkins behind Hebe’s coach. Well, my honest fellow!</p>
+               <p rend="justify">BUR. Well, my jack-a-dandy!</p>
+               <p rend="justify">HUNDS. Can’st bring me Sir Charles Pomander hither, my honest fellow?</p>
+               <p rend="justify">BUR. Here he’s a bringing himself, my jack-a-dandy.</p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  C. L.</p>
+               <p rend="justify">HUNDS. For so pretty a creature, she hath an establishment of the veriest brutes. Ah! here comes Master!</p>
+               <p rend="justify">[<hi rend="italic">Enter Sir Charles Pomander</hi>  3 E. L.]</p>
+               <p rend="justify">POM. Well! is she arrived?</p>
+               <p rend="justify">HUNDS. (<hi rend="italic">aside to Pom.</hi>). I’ve marked her down, sir. She is here—in that room.</p>
+               <p rend="justify">POM. Is her arrival known?</p>
+               <p rend="justify">HUNDS. But to a rustic savage of a servant.</p>
+               <p rend="justify">POM. Good! Take thy sheep’s face out of sight, incontinently.</p>
+               <p rend="justify">HUNDS. Yes, Sir Charles.</p>
+               <p rend="justify">POM. Hold! I have kept thee sober for two days. Here’s for thee to make a beast of thyself.</p>
+               <p rend="justify">HUNDS. Nay, I’ll disappoint him, and profit by sobriety.</p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  3 E. L.</p>
+               <p rend="justify">POM. So, the train is laid and I hold the match in my hand (<hi rend="italic">Colander returns with servants, who bring tea, coffee, &amp;c.</hi>).</p>
+               <p rend="justify">[<hi rend="italic">Enter Vane, Woffington, Quin, Clive, Cibber, Snarl and Soaper, as from the dining-room, laughing.</hi>]</p>
+               <p rend="justify">QUIN. I hate this detestable innovation of outlandish drawing-room drinks—your tea and coffee—pshaw!</p>
+               <p rend="justify">VANE. But you forget the ladies, Mr. Quin, and in the presence of Mr. Cibber too, whom I cannot thank enough for the honor of this visit.</p>
+               <p rend="justify">CIB. Nay, sir, I bring my wit in exchange for your wine; we barter our respective superfluities.</p>
+               <p rend="justify">QUIN. Good wine is no superfluity, Mr. Cibber; ’tis a necessary of life, just as much as good victuals.</p>
+               <p rend="justify">SOAP. I vow Mr. Cibber is as lively as ever, and doesn’t look a day older: does he, Mr. Snarl?</p>
+               <p rend="justify">SNARL. ’Tis that there’s no room on Mr. Cibber’s face for another wrinkle.</p>
+               <p rend="justify">CIB. (<hi rend="italic">takes snuff</hi>). Puppies!</p>
+               <p rend="justify">QUIN. Really this is too bad, the coffee is getting cold (<hi rend="italic">goes to table</hi>, R.).</p>
+               <p rend="justify">CLIVE. So, no wonder Quin is getting warm—(<hi rend="italic">gives him coffee</hi>). Here, bear! (<hi rend="italic">Woffington presides over tea.</hi>)</p>
+               <p rend="justify">CIB. You have a charming house here, Mr. Vane, I knew it in poor dear Lord Loungeville’s time. You may just remember him, Sir Charles?</p>
+               <p rend="justify">POM. I never read ancient history.</p>
+               <p rend="justify">CIB. Puppy! An unrivalled gallant, Peggy. Oh the <hi rend="italic">petits soupers</hi>  we have had here! Loungeville was a great creature, Sir Charles. I wish you may ever be like him.</p>
+               <p rend="justify">POM. I sincerely trust not (<hi rend="italic">goes to table</hi>, C.). I do not feel at all anxious to figure in the museum of town antiquities—labelled, “Old Beau, very curious.”</p>
+               <p rend="justify">CIB. (<hi rend="italic">aside</hi>). Coxcomb! Let me tell you your old beaux were the only ones worthy of winging the shafts from Cupid’s quiver.</p>
+               <p rend="justify">SNARL. Witness Mr. Cibber (<hi rend="italic">goes to table</hi>, C.).</p>
+               <p rend="justify">WOFF. Oh, Colley is like old port—the more ancient he grows the more exquisite his perfume becomes.</p>
+               <p rend="justify">SOAP. Capital! She alludes to Mr. Cibber’s pulvilio.</p>
+               <p rend="justify">SNARL. And the crustier he gets.</p>
+               <p rend="justify">SOAP. Delicious! He alludes to Mr. Cibber’s little irritability.</p>
+               <p rend="justify">CIB. Ah, laugh at us old fellows as you will, young people; but I have known Loungeville entertain a fine lady in this very saloon, whilst a rival was fretting and fuming on the other side of that door. Ha, ha! (<hi rend="italic">sighs.</hi>) It is all over now.</p>
+               <p rend="justify">POM. Nay, Mr. Cibber, why assume that the house has lost its virtue in our friend’s hands?</p>
+               <p rend="justify">CIB. Because, young gentleman, you all want <hi rend="italic">sçavoir faire;</hi>  the fellows of the day are all either unprincipled heathens like you, or cold blooded Amadisses like our host. The true <hi rend="italic">Preux des Dames</hi>  (<hi rend="italic">regretfully</hi>) went out with the full periwig, stap my vitals!</p>
+               <p rend="justify">QUIN. A bit of toast, Mr. Cibber? (<hi rend="italic">goes to table.</hi>)</p>
+               <p rend="justify">CIB. Jemmy, you are a brute.</p>
+               <p rend="justify">QUIN. You refuse, Sir?</p>
+               <p rend="justify">CIB. (<hi rend="italic">with dignity</hi>). No, Sir, I accept.</p>
+               <p rend="justify">(<hi rend="italic">Quin takes plate of toast to table</hi>, R.)</p>
+               <p rend="justify">POM. (<hi rend="italic">goes to table</hi>). You Antediluvians must not flatter yourselves you have monopolized iniquity, or that the deluge washed away intrigue, and that a rake is a fossil. We are still as vicious as you could desire, Mr. Cibber. What if I bet a cool hundred round that Vane has a petticoat in the next room, and Mrs. Woffington shall bring her out.</p>
+               <p rend="justify">VANE. Pomander! (<hi rend="italic">checks himself</hi>) but we all know Pomander.</p>
+               <p rend="justify">POM. Not yet, <hi rend="italic">but you shall.</hi>  Now don’t look so abominably innocent, my dear fellow, I ran her to earth in this house not ten minutes ago.</p>
+               <p rend="justify">CIB. Have her out, Peggy! I know the run—there’s the cover—Hark forward! Yoicks! Ha, ha, ha! (<hi rend="italic">coughing</hi>) Ho, ho!</p>
+               <p rend="justify">VANE. Mr. Cibber, age and infirmity are privileged; but for you, Sir Charles Pomander—</p>
+               <p rend="justify">WOFF. Don’t be angry. Do you not see it is a jest, and, as might be expected, a sorry one?</p>
+               <p rend="justify">VANE. A jest; it must go no farther, or by Heaven!—</p>
+               <p rend="justify">(<hi rend="italic">Woffington places her hand on his shoulder—Mabel appears</hi>, D. R. 3 E.)</p>
+               <p rend="justify">MABEL. Ernest, dear Ernest!</p>
+               <p rend="justify">(<hi rend="italic">Woffington removes her hand quickly.</hi>)</p>
+               <p rend="justify">VANE. Mabel!</p>
+               <p rend="justify">POM. I win (<hi rend="italic">a pause of silent amazement</hi>).</p>
+               <p rend="justify">(<hi rend="italic">Vane looks round on the reverse side from Woffington.</hi>)</p>
+               <p rend="justify">WOFF. (<hi rend="italic">aside to Vane</hi>). Who is this?</p>
+               <p rend="justify">VANE. My—my wife!</p>
+               <p rend="justify">(<hi rend="italic">All rise and bow. Colander places chair for Mrs. Vane.</hi>)</p>
+               <p rend="justify">CIB. ’Fore Gad! he is stronger than Loungeville.</p>
+               <p rend="justify">MABEL. You are not angry with me for this silly trick? After all I am but two hours before my time. You know, dearest, I said six in my letter.</p>
+               <p rend="justify">VANE. Yes—yes!</p>
+               <p rend="justify">MABEL. And you have had three days to prepare you, for I wrote like a good wife to ask leave before starting, ladies and gentlemen; but he never so much as answered my letter, madam (<hi rend="italic">to Woffington, who winces</hi>).</p>
+               <p rend="justify">VANE. Why, you c—c—couldn’t doubt, Mabel? (<hi rend="italic">Cibber joins Snarl and Soaper at table</hi>  L.)</p>
+               <p rend="justify">MABEL. No, silence gives consent; but I beg your pardon, ladies (<hi rend="italic">looking to Woffington</hi>), for being so glad to see my husband.</p>
+               <p rend="justify">SNARL. ’Tis a failing, madam, you will soon get over in town (<hi rend="italic">laugh</hi>).</p>
+               <p rend="justify">MABEL. Nay, sir, I hope not; but I warrant me you did not look for me so soon.</p>
+               <p rend="justify">WOFF. Some of us did not look for you at all.</p>
+               <p rend="justify">MABEL. What! Ernest did not tell you he expected me?</p>
+               <p rend="justify">WOFF. No; he told us the entertainment was in honor of a lady’s first visit to his house; but he did <hi rend="italic">not</hi>  tell us that lady was his wife.</p>
+               <p rend="justify">VANE (<hi rend="italic">aside to Woff.</hi>). Spare her!</p>
+               <p rend="justify">WOFF. (<hi rend="italic">aside to Vane</hi>). Have you spared me?</p>
+               <p rend="justify">POM. No doubt he wished to procure us that agreeable surprise, which you have procured him.</p>
+               <p rend="justify">SNARL. And which he evidently enjoys so much.</p>
+               <p rend="justify">SOAP. Oh, evidently.</p>
+               <p rend="justify">[<hi rend="italic">Cibber, Snarl, and Soaper, laugh, aside.</hi>
+               </p>
+               <p rend="justify">VANE. You had better retire, Mabel, and change your travelling dress.</p>
+               <p rend="justify">MABEL. Nay; you forget, I am a stranger to your friends. Will you not introduce me to them first?</p>
+               <p rend="justify">VANE. No, no; it is not usual to introduce in the polite world.</p>
+               <p rend="justify">WOFF. We always introduce ourselves (<hi rend="italic">rises</hi>).</p>
+               <p rend="justify">[<hi rend="italic">All come down except Vane and Quin.</hi>]</p>
+               <p rend="justify">VANE (<hi rend="italic">aside to Woff.</hi>). Madam, for pity’s sake!</p>
+               <p rend="justify">WOFF. So, if you will permit me.</p>
+               <p rend="justify">POM. (<hi rend="italic">aside</hi>). Now for the explosion!</p>
+               <p rend="justify">VANE (<hi rend="italic">aside</hi>). She will shew me no mercy.</p>
+               <p rend="justify">WOFF. (<hi rend="italic">introducing Clive</hi>). Lady Lurewell!</p>
+               <p rend="justify">CLIVE. Madam! (<hi rend="italic">She curtsies.</hi>) If she had made me a commoner, I’d have exposed her on the spot.</p>
+               <p rend="justify">WOFF. (<hi rend="italic">introducing him</hi>). Sir John Brute!</p>
+               <p rend="justify">QUIN (<hi rend="italic">he comes forward, aside to Woff.</hi>). Hang it! Falstaff!</p>
+               <p rend="justify">WOFF. Sir John Brute Falstaff! we call him for brevity, Brute.</p>
+               <p rend="justify">POM. (<hi rend="italic">aside</hi>). Missed fire! Confound her ready wit.</p>
+               <p rend="justify">VANE (<hi rend="italic">aside</hi>). I breathe again.</p>
+               <p rend="justify">WOFF. That is Lord Foppington (<hi rend="italic">crosses to Cibber</hi>), a butterfly of long standing and a little gouty. Sir Charles Pomander!</p>
+               <p rend="justify">POM. Who will spare you the trouble of a description (<hi rend="italic">crossing to Mabel</hi>), as he has already had the honour of avowing himself Mrs. Vane’s most humble servant.</p>
+               <p rend="justify">VANE. How? (<hi rend="italic">Advances</hi>  C.)</p>
+               <p rend="justify">MABEL. The good gentleman who helped my coach out of the slough yesterday.</p>
+               <p rend="justify">VANE. Ah! (<hi rend="italic">goes up to the table</hi>, L. U. E.)</p>
+               <p rend="justify">WOFF. Mr. Soaper, Mr. Snarl—gentlemen who would butter and cut up their own fathers!</p>
+               <p rend="justify">MABEL. Bless me; cannibals!</p>
+               <p rend="justify">WOFF. (<hi rend="italic">with a sweet smile</hi>). No; critics.</p>
+               <p rend="justify">MABEL. But yourself, madam?</p>
+               <p rend="justify">WOFF. (<hi rend="italic">curtseying</hi>). I am the Lady Betty Modish, at your service.</p>
+               <p rend="justify">CLIVE (<hi rend="italic">aside to Quin</hi>). And anybody else’s.</p>
+               <p rend="justify">MABEL. Oh dear, so many lords and ladies!</p>
+               <p rend="justify">VANE. Pray go, and change your dress, Mabel.</p>
+               <p rend="justify">MABEL. What! before you hear the news of dear Willoughby, Ernest? Lady Betty, I had so many things to tell him, and he sends me away.</p>
+               <p rend="justify">CIBBER. Nay, really, ’tis too cruel.</p>
+               <p rend="justify">WOFF. Pray, madam, your budget of country news: clotted cream so seldom comes to London quite fresh.</p>
+               <p rend="justify">MABEL. There you see, Ernest. First, then, Grey Gillian is turned out for a brood mare, so old George won’t let me ride her.</p>
+               <p rend="justify">WOFF. The barbarian!</p>
+               <p rend="justify">MABEL. Old servants are such hard masters, my lady; and my Barbary hen has laid two eggs, Ernest. Heaven knows the trouble we have had to bring her to it. And dame Best (that’s his old nurse, Lady Lurewell) has had soup and pudding from the hall every day.</p>
+               <p rend="justify">QUIN. Soup and pudding! that’s what I call true charity.</p>
+               <p rend="justify">MABEL. Yes; and once she went so far as to say, “it wasn’t altogether a bad pudding.” I made it with these hands.</p>
+               <p rend="justify">CIBBER. Happy pudding!</p>
+               <p rend="justify">VANE. Is this mockery, sir?</p>
+               <p rend="justify">CIBBER. No, sir, it is gallantry; an exercise that died before you were born. Madam, shall I have the honour of kissing one of the fair hands that made that most favoured of puddings?</p>
+               <p rend="justify">MABEL. Oh, my Lord, you may, because you are so old; but I don’t say so for a young gentleman, unless it was Ernest himself, and he doesn’t ask me.</p>
+               <p rend="justify">[<hi rend="italic">Cibber, Snarl, and Soaper go up.</hi>]</p>
+               <p rend="justify">VANE (<hi rend="italic">angrily</hi>). My dear Mabel, pray remember we are not at Willoughby.</p>
+               <p rend="justify">CLIVE. Now, bear, where’s your paw? (<hi rend="italic">going up</hi>  R.)</p>
+               <p rend="justify">QUIN. All I regret is, that I go without having helped Mrs. Vane to buttered toast.</p>
+               <p rend="justify">CLIVE. Poor Quin, first to quit his bottle half finished, and now, to leave the run of the table for a walk in the garden!</p>
+               <p rend="justify">[<hi rend="italic">Exeunt</hi>  U. E. R.</p>
+               <p rend="justify">VANE. Let me shew you to your apartment (<hi rend="italic">rings bell, leads her to door</hi>  R.).</p>
+               <p rend="justify">[<hi rend="italic">Enter Servant</hi>  L. H.]</p>
+               <p rend="justify">Bid the musicians play.</p>
+               <p rend="justify">[<hi rend="italic">Exit Servant</hi>  L. H.</p>
+               <p rend="justify">(<hi rend="italic">Vane offers his arm to Woff.</hi>) Let me conduct you to the garden.</p>
+               <p rend="justify">[<hi rend="italic">Music. Woffington gives her hand and goes off with Vane</hi>  (L. C.): <hi rend="italic">in going out she looks back. Music.</hi>]</p>
+               <p rend="justify">WOFF. (<hi rend="italic">aside</hi>). Yes; there are triumphs out of the theatre.</p>
+               <p rend="justify">[<hi rend="italic">Exit with Vane</hi>, L. C.</p>
+               <p rend="justify">CIBBER (<hi rend="italic">crosses to Mabel</hi>). Mr. Vane’s garden will lack its fairest flower, madam, if you desert us.</p>
+               <p rend="justify">MABEL (R.). Nay, my Lord, there are fairer here than I.</p>
+               <p rend="justify">POM. (<hi rend="italic">goes up to</hi>  C. L.) Jealous, I see, already. Shall I tell her all? No; I will let the green-eyed monster breach the fortress, and then I shall walk in without a contest.</p>
+               <p rend="justify">CIBBER (<hi rend="italic">meeting Sir Charles at</hi>  C. L.). Your arm, Sir Charles.</p>
+               <p rend="justify">POM. At your service, Mr. Cibber.</p>
+               <p rend="justify">[<hi rend="italic">Exeunt Pomander and Cibber</hi>  U. E. L.</p>
+               <p rend="justify">SNARL. A pleasant party, Mr. Soaper.</p>
+               <p rend="justify">SOAPER. Remarkably. Such a delightful meeting of husband and wife, Mr. Snarl!</p>
+               <p rend="justify">[<hi rend="italic">Exeunt</hi>  L. C.</p>
+               <p rend="justify">[<hi rend="italic">Music ceases.</hi>
+               </p>
+               <p rend="justify">MABEL. How kind they all are to me, except him whose kindness alone I value, and he must take Lady Betty’s hand instead of mine; but that is good breeding I suppose. I wish there was no such thing as good breeding in London, any more than in Huntingdonshire.</p>
+               <p rend="justify">COLANDER (<hi rend="italic">without, angrily</hi>, C. L.) I tell you Mr. Vane is not at home.</p>
+               <p rend="justify">MABEL. What is the matter?</p>
+               <p rend="justify">[<hi rend="italic">Triplet discovered attempting to force his way through</hi>  L. C. <hi rend="italic">Colander bars his entrance. Triplet carries a portfolio, two volumes, and a roll of manuscript.</hi>]</p>
+               <p rend="justify">COL. I tell you he is not at home, sir.</p>
+               <p rend="justify">MABEL. How can you say so, when you know he is in the garden.</p>
+               <p rend="justify">COL. Ugh! (<hi rend="italic">aside</hi>) the simpleton.</p>
+               <p rend="justify">MABEL. Show the gentleman in.</p>
+               <p rend="justify">COL. Gentleman!</p>
+               <p rend="justify">TRIP. A thousand thanks, madam, for this condescension; I will wait Mr. Vane’s leisure in the hall.</p>
+               <p rend="justify">MABEL. Nay, sir, not in the hall, ’tis cold there. Tell Mr. Vane the gentleman waits. Will you go, sirrah?</p>
+               <p rend="justify">COL. I am gone, madam. (<hi rend="italic">Aside</hi>) Porter to players! and now usher to an author! curse me if I stand it.</p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  L. U. E.</p>
+               <p rend="justify">TRIP. (<hi rend="italic">advancing</hi>). A thousand apologies, madam, for the trouble I put you to. I—madam—you overwhelm me with confusion.</p>
+               <p rend="justify">MABEL. Nay—nay—be seated.</p>
+               <p rend="justify">TRIP. Madam, you are too condescending. (<hi rend="italic">Aside</hi>) Who can she be? (<hi rend="italic">Bows again and again.</hi>)</p>
+               <p rend="justify">MABEL. Nay, sit down and rest you. (<hi rend="italic">Triplet bows, and sits on the edge of a chair, with astonishment</hi>). You look sadly adust and tired.</p>
+               <p rend="justify">TRIP. Why, yes, madam; it is a long way from Lambeth; and the heat is surpassing (<hi rend="italic">takes his handkerchief out to wipe his brow: returns it somewhat hastily to his pocket</hi>). I beg your pardon, I forgot myself.</p>
+               <p rend="justify">MABEL (<hi rend="italic">aside</hi>). Poor man, he looks sadly lean and hungry. And I’ll be bound you came in such a hurry, you forgot—you mustn’t be angry with me—to have your dinner first.</p>
+               <p rend="justify">TRIP. How strange! Madam, you have guessed it. I did forget—he, he!—I have such a head—not that I need have forgotten it—but being used to forget it, I did not remember not to forget it to-day (<hi rend="italic">smiles absurdly</hi>).</p>
+               <p rend="justify">MABEL (<hi rend="italic">pours wine</hi>). A glass of wine, sir?</p>
+               <p rend="justify">TRIP. (<hi rend="italic">rising and bowing</hi>). Nay, madam (<hi rend="italic">eyes the wine—drinks</hi>). Nectar, as I am a man. (<hi rend="italic">She helps him to refreshments</hi>).</p>
+               <p rend="justify">MABEL. Take a biscuit, sir?</p>
+               <p rend="justify">TRIP. (<hi rend="italic">eating</hi>). Madam, as I said before, you overwhelm me. Walking certainly makes one hungry (<hi rend="italic">eats</hi>). Oh, yes, it certainly does (<hi rend="italic">Mabel helps him</hi>); and though I do not usually eat at this time of the day. (<hi rend="italic">Mabel helps him again.</hi>)</p>
+               <p rend="justify">MABEL. I am sorry Mr. Vane keeps you waiting.</p>
+               <p rend="justify">TRIP. By no means, Madam, it is very fortunate (<hi rend="italic">eats</hi>)—I mean it procures me the pleasure of (<hi rend="italic">eats</hi>) your society. Besides, the servants of the Muse are used to waiting. What we are not used to is (<hi rend="italic">she fills his glass</hi>) being waited on by Hebe and the Twelve Graces, whose health I have the honour!—Falernian, as I’m a poet!</p>
+               <p rend="justify">MABEL. A poet! (<hi rend="italic">clapping her hands.</hi>) Oh, I am so glad! I never thought to see a living poet; I do so love poetry!</p>
+               <p rend="justify">TRIP. Ha! it is in your face, madam. I should be proud to have your opinion of this trifle composed by me for Mr. Vane, in honour of the lady he expected this morning.</p>
+               <p rend="justify">MABEL (<hi rend="italic">aside</hi>). Dear Ernest! how ungrateful I was. Nay, sir, I think I know the lady; and it would be hardly proper for me to hear them.</p>
+               <p rend="justify">TRIP. (<hi rend="italic">after placing the MS. by the side of his plate, with another plate to keep it open; laying his hand on his heart</hi>). Oh, strictly correct, Madam. James Triplet never stooped to the loose taste of the town, even in trifles of this sort. (<hi rend="italic">Reads</hi>) “When first from Albion’s isle——”</p>
+               <p rend="justify">MABEL. Take another glass of wine first.</p>
+               <p rend="justify">TRIP. Madam, I will (<hi rend="italic">drinks</hi>). I thank you infinitely. (<hi rend="italic">Reads</hi>) “When first from Albion’s isle——”</p>
+               <p rend="justify">MABEL. Another biscuit (<hi rend="italic">helps him</hi>).</p>
+               <p rend="justify">TRIP. Madam (<hi rend="italic">eats a mouthful</hi>), you do me infinite honour. (<hi rend="italic">Reads again</hi>) “When first from Albion’s isle——”</p>
+               <p rend="justify">MABEL. No—no—no! (<hi rend="italic">stops her ears.</hi>) Mr. Vane intended them for a surprise, and it would spoil his pleasure were I to hear them from you.</p>
+               <p rend="justify">TRIP. (<hi rend="italic">sighs</hi>). As you please, madam! But you would have liked them, for the theme inspired me. The kindest, the most generous and gifted of women!—don’t you agree with me, madam?</p>
+               <p rend="justify">MABEL (<hi rend="italic">laughs</hi>). No, indeed!</p>
+               <p rend="justify">TRIP. Ah! if you knew her as I do.</p>
+               <p rend="justify">MABEL. I ought to know her better, sir.</p>
+               <p rend="justify">TRIP. Her kindness to me, for instance: a poor devil like me, if I may be allowed the expression.</p>
+               <p rend="justify">MABEL. Nay, you exaggerate her trifling act of civility.</p>
+               <p rend="justify">TRIP. (<hi rend="italic">reproachfully</hi>). Act of civility, madam! Why she has saved me from despair—from starvation perhaps.</p>
+               <p rend="justify">MABEL (<hi rend="italic">aside</hi>). Poor thing! how hungry he must have been.</p>
+               <p rend="justify">TRIP. And she’s to sit to me for her portrait, too.</p>
+               <p rend="justify">MABEL. Her portrait! (<hi rend="italic">aside.</hi>) Oh, another attention of Ernest’s—but I thought you were a poet, sir?</p>
+               <p rend="justify">TRIP. So I am, madam, from an epitaph to an epic. Let me convince you. (<hi rend="italic">Reads</hi>) “When first from Albion’s isle——”</p>
+               <p rend="justify">MABEL. But you spoke just now of painting. Are you a painter too?</p>
+               <p rend="justify">TRIP. From a scene to a sign-board; from a house-front to an historical composition.</p>
+               <p rend="justify">MABEL. Oh, what a clever man! And so Ernest commissioned you to paint this portrait?</p>
+               <p rend="justify">TRIP. No; for that I am indebted to the lady herself.</p>
+               <p rend="justify">MABEL. The lady? (<hi rend="italic">Rises</hi>).</p>
+               <p rend="justify">TRIP. I expected to find her here;—perhaps you can inform me whether she is arrived?</p>
+               <p rend="justify">MABEL (<hi rend="italic">aside</hi>). Not my portrait after all. Who?</p>
+               <p rend="justify">TRIP. Mrs. Woffington.</p>
+               <p rend="justify">MABEL. Woffington? No, there was no such name among the guests Mr. Vane received to-day.</p>
+               <p rend="justify">TRIP. That is strange! She was to be here; and therefore I expedited the verses in her honour.</p>
+               <p rend="justify">MABEL (<hi rend="italic">ruefully</hi>). In <hi rend="italic">her</hi>  honour?</p>
+               <p rend="justify">TRIP. Yes, Madam: the subject is “Genius trampling on Envy.” It begins—(<hi rend="italic">reads</hi>). “When first from Albion’s Isle——”</p>
+               <p rend="justify">MABEL. Nay, I do not care to hear them, for I do not know the lady.</p>
+               <p rend="justify">TRIP. Few really know her; but at least you have seen her act.</p>
+               <p rend="justify">MABEL. Act! Is she an actress?</p>
+               <p rend="justify">TRIP. <hi rend="italic">An</hi>  actress, madam! <hi rend="italic">The</hi>  Actress!—and you have never seen her! Madam, you have a great pleasure before you; to see her act is a privilege, but to act with her, as I once did, though she doesn’t remember it—I was hissed, madam, owing to circumstances which for the credit of our common nature I suppress.</p>
+               <p rend="justify">MABEL. An actor too!</p>
+               <p rend="justify">TRIP. And it was in a farce of my own too, madam, which was damned—accidentally.</p>
+               <p rend="justify">MABEL. And a play-writer?</p>
+               <p rend="justify">TRIP. Plays, madam! I have written a library of them; but the madmen who manage the patent houses won’t act them and make their fortunes. You see in me a dramatic gold mine, lost because no company will work me.</p>
+               <p rend="justify">MABEL. Yes, yes; but tell me! this actress:—Mr. Vane admires her?</p>
+               <p rend="justify">TRIP. Mr. Vane is a gentleman of taste, madam.</p>
+               <p rend="justify">MABEL. And she was to have been here? There were none but persons of quality—Ah! the news of my intended arrival—no doubt—well Mr.——</p>
+               <p rend="justify">TRIP. Triplet, madam! James Triplet, 10, Hercules Buildings, Lambeth: occasional verses, odes, epithalamia, elegies, dedications, translations, and every species of literary composition executed with spirit, punctuality, and secrecy. Portraits painted, and lessons given in declamation and the dramatic art. The card, madam, (<hi rend="italic">presents card</hi>) of him, who, to all these qualifications adds a prouder still—that of being your humble, devoted, and truly grateful servant—James Triplet (<hi rend="italic">bows and moves off,—returns</hi>). The fact is, madam, it may appear strange to you, but a kind hand has not so often been held out to me, that I should forget it, especially when that hand is so fair and gracious as yours. May I be permitted, madam? (<hi rend="italic">puts her hand to his lips</hi>,) you will impute it to gratitude rather than audacity—madam, I am gone—I flatter myself James Triplet, throughout this charming interview, has conducted himself like what he may not appear to be—a gentleman.—Madam, I take my final leave.</p>
+               <p rend="justify">[<hi rend="italic">Exit</hi>  3 E. L.</p>
+               <p rend="justify">MABEL. Invite an actress to his house! but Ernest is so warm-hearted and generous; no doubt ’tis as Mr. Triplet says; he has admired her acting and wished to mark his sense of her merit by presenting her these verses, and a dinner.</p>
+               <p rend="justify">[<hi rend="italic">Music.</hi>
+               </p>
+               <p rend="justify">These poor actors and actresses! I have seen some of them down in Huntingdonshire, and I know what a kindness it is to give them a good meal. (<hi rend="italic">crosses to</hi>  L.).</p>
+               <p rend="justify">[<hi rend="italic">Enter Sir Charles Pomander</hi>, L. C. <hi rend="italic">down</hi>  R.]</p>
+               <p rend="justify">POM. What, madam, all alone, here as in Huntingdonshire! Force of habit. A husband with a wife in Huntingdonshire is so like a bachelor.</p>
+               <p rend="justify">MABEL. Sir!</p>
+               <p rend="justify">POM. And our excellent Ernest is such a favourite.</p>
+               <p rend="justify">MABEL. No wonder.</p>
+               <p rend="justify">POM. There are not many who can so pass in six months from the larva state of Bumpkin to the butterfly existence of Beau.</p>
+               <p rend="justify">[<hi rend="italic">Music ceases.</hi>
+               </p>
+               <p rend="justify">MABEL. Yes; (<hi rend="italic">sadly</hi>) I find him changed.</p>
+               <p rend="justify">POM. Changed? transformed! He is now the prop of the Cocoa-tree—the star of Ranelagh—the Lauzum of the Green Room.</p>
+               <p rend="justify">MABEL. The green room?</p>
+               <p rend="justify">POM. Ah, I forgot! you are fresh from Eden; the Green Room, my dear madam, is the bower where fairies put off their wings and goddesses become dowdies—where Lady Macbeth weeps over her lap-dog’s indigestion, and Belvidera groans over the amount of her last milliner’s bill. In a word, the Green Room is the place where actors and actresses become mere men and women, and the name is no doubt derived from the general character of its unprofessional visitors.</p>
+               <p rend="justify">MABEL. And is it possible that Ernest, Mr. Vane, frequents such places?</p>
+               <p rend="justify">POM. He has earned in six months a reputation that many a fine gentleman would give his ears for—not a scandalous journal he has not figured in—not an actress of reputation or no reputation, but gossip has given him for a conquest.</p>
+               <p rend="justify">MABEL. You forget, sir, you are speaking to his wife.</p>
+               <p rend="justify">POM. On the contrary, madam; but you would be sure to learn this, and it is best you should learn it at once and from a friend.</p>
+               <p rend="justify">MABEL. Is it the office of a friend to calumniate the husband to the wife?</p>
+               <p rend="justify">POM. When he admires the wife, he reprobates the husband’s ill-taste in neglecting her.</p>
+               <p rend="justify">MABEL. Do you suppose I did not know of his having invited Mrs. Woffington to his house to day?</p>
+               <p rend="justify">POM. What! you found her out? you detected the Actress-of-all-work under the airs of Lady Betty Modish.</p>
+               <p rend="justify">MABEL. Lady Betty Modish!</p>
+               <p rend="justify">POM. Yes; that was La Woffington.</p>
+               <p rend="justify">MABEL. Whom he had invited hither to present her with a copy of verses.</p>
+               <p rend="justify">POM. Et cetera.</p>
+               <p rend="justify">MABEL. And who in an actress’s sudden frolic, gave herself and her companions those titles without my husband’s connivance.</p>
+               <p rend="justify">POM. Vane could not have explained it half so well. These women are incredibles.</p>
+               <p rend="justify">MABEL. Had the visit been in any other character, do you think he would have chosen for it the day of my arrival?</p>
+               <p rend="justify">POM. Certainly not, if he knew you were coming.</p>
+               <p rend="justify">MABEL. And he did know; why here (<hi rend="italic">seeing letters on table</hi>  L.) are my letters announcing my intention to start—my progress on the road—the last written from Barnet, only yesterday.</p>
+               <p rend="justify">[<hi rend="italic">While speaking she has gone to the salver, and hastily taken the letters, which she offers Pomander with triumph. He takes them with an uncertain air, looks at them—gives them back to her—after a pause—</hi>
+               </p>
+               <p rend="justify">POM. (<hi rend="italic">coolly</hi>). The seals have not been broken, Madam.</p>
+               <p rend="justify">MABEL (<hi rend="italic">bursting into tears</hi>). Unopened! It is too true! Flung aside unread! and I have learned by heart every word he ever wrote to me. Sir, you have struck down the hope and trust of my life without remorse. May heaven forgive you!</p>
+               <p rend="justify">POM. Madam! let me, who have learned to adore you——</p>
+               <p rend="justify">MABEL. I may no longer hold a place in my husband’s heart—but I am still mistress of his house—leave it, Sir!</p>
+               <p rend="justify">POM. Your wishes are my law (<hi rend="italic">going</hi>),—but here they come! (<hi rend="italic">crosses to</hi>  L.) Use the right of a wife, watch them unseen, and you will soon learn whether I am mistaken, or you misinformed.</p>
+               <p rend="justify">MABEL (<hi rend="italic">violently</hi>). No! I will not dog my husband’s steps at the bidding of his treacherous friend (<hi rend="italic">watches Pomander out</hi>).</p>
+               <p rend="justify">POM. (<hi rend="italic">aside</hi>). She will watch them.</p>
+               <p rend="justify">[<hi rend="italic">Exit.</hi>
+               </p>
+               <p rend="justify">[<hi rend="italic">After a moment or two of irresolution, Mabel crouches down behind a chair. Enter Vane</hi>  C. L. <hi rend="italic">conducting Woffington: they pass without observing Mabel.</hi>]</p>
+               <p rend="justify">VANE. But one word—I can explain all. Let me accompany you to this painter’s. I am ready to renounce credit—character—wife—all for you!</p>
+               <p rend="justify">WOFF. I go alone, sir. Call Mrs. Woffington’s coach.</p>
+               <p rend="justify">[<hi rend="italic">Exit Woff. followed by Vane.</hi>
+               </p>
+               <p rend="justify">MABEL (<hi rend="italic">starting from seat</hi>). Oh, no, no!—you cannot use me so. Ernest! Husband! (<hi rend="italic">tries to rush towards</hi>  L. D. <hi rend="italic">Swoons. Vane returns.</hi>)</p>
+               <p rend="justify">VANE. Who called me? Mabel—my wife! (<hi rend="italic">stamps</hi>) help, here!—what have I done? (<hi rend="italic">He raises her in his arms.</hi>)</p>
+               <p rend="justify">[END OF ACT I.]</p>
+               <div type="div3">
+                  <head>ACT II.</head>
+                  <p rend="justify">SCENE.—<hi rend="italic">A large roughly furnished Garret. Easel with Woffington’s Picture on it, half concealed by a green baize Drapery. Colours, Palette, Pencils, Maulstick, &amp;c. &amp;c. Mrs. Triplet reclining in a large chair, and wrapped up like an invalid. Violin hanging against wall. Triplet seated at small Table writing. Two Children. Wooden Chairs. Boy is rocking Cradle and singing.</hi>
+                  </p>
+                  <p rend="justify">TRIP. Do keep those children quiet, Jane.</p>
+                  <p rend="justify">MRS. T. Hush, my dears, let your father write his comedy. Comedy seems so troublesome to write.</p>
+                  <p rend="justify">TRIP. Yes! somehow sorrow comes more natural to me! (<hi rend="italic">pause</hi>) I’ve got a bright thought; you see, Jane, they are all at a sumptuous banquet: all the Dramatis Personæ except the poet, (<hi rend="italic">writes</hi>) music—sparkling wine—massive plate—soups—fish—shall I have three dishes of fish? venison—game—pickles and provocatives in the centre, then up jumps one of the guests, and says he—</p>
+                  <p rend="justify">BOY. Oh, dear! I am so hungry!</p>
+                  <p rend="justify">GIRL. And so am I.</p>
+                  <p rend="justify">TRIP. That is an absurd remark, Lysimachus, not four hours after breakfast.</p>
+                  <p rend="justify">BOY. But father—there wasn’t any breakfast for breakfast!</p>
+                  <p rend="justify">TRIP. Now I ask you, Mrs. Triplet—how am I to write comic scenes, if you let Lysimachus and Roxalana there put the heavy business in every five minutes?</p>
+                  <p rend="justify">MRS. T. Forgive them, the poor things <hi rend="italic">are</hi>  hungry!</p>
+                  <p rend="justify">TRIP. Then they must learn to be hungry in another room. They shan’t cling round my pen and paralyze it, just when it is going to make all our fortunes (<hi rend="italic">rises</hi>); but you women have no consideration—send ’em all to bed, every man Jack of ’em (<hi rend="italic">children raise a doleful cry</hi>). Hungry! hungry! Is that a proper expression to use before a father who is sitting down (<hi rend="italic">seats himself</hi>), all gaiety—and hilarity to write a Com— a Com— (<hi rend="italic">chokes</hi>)? Where’s the youngest—where’s Cleopatra? (<hi rend="italic">Mrs. T. brings child to him—he takes her on his knee.</hi>)</p>
+                  <p rend="justify">GIRL. Father, I’m not so very hungry!</p>
+                  <p rend="justify">BOY (<hi rend="italic">who has come to his Father</hi>). And I’m not hungry at all—I had a piece of bread and butter yesterday!</p>
+                  <p rend="justify">TRIP. Wife; they’ll drive me mad!</p>
+                  <p rend="justify">BOY (<hi rend="italic">sotto voce</hi>). Mother; father made us hungry out of his book.</p>
+                  <p rend="justify">GIRL. Is it a cookery book, father?</p>
+                  <p rend="justify">TRIP. Ha! ha! is my comedy a cookery book? The young rogues say more good things than I do—that is the worst of it. Wife, I took that sermon I wrote—</p>
+                  <p rend="justify">MRS. T. And beautiful it was, James.</p>
+                  <p rend="justify">TRIP. I took it to the Reverend Gentleman, and he would not have it, he said it was too hard upon sin for the present day (<hi rend="italic">dashes at the paper</hi>). Ah! if my friend Mrs. Woffington would but leave this stupid comedy and take to tragedy, things would smile again.</p>
+                  <p rend="justify">MRS. T. Oh, James, how can you expect anything from that woman? You won’t believe what all the world says—you measure folk by your own good heart.</p>
+                  <p rend="justify">TRIP. I haven’t a good heart, I spoke like a brute to you just now.</p>
+                  <p rend="justify">MRS. T. Never mind, James, I wonder how you put up with me at all! a sick useless creature. I often wish to die, for your sake—I know you would do better—I am such a weight round your neck. (<hi rend="italic">Triplet takes Mrs. T. to chair—then returns with energy to his comedy—boy brings violin.</hi>)</p>
+                  <p rend="justify">BOY. Play us a tune on the fiddle, father!</p>
+                  <p rend="justify">MRS. T. Ay do, husband! that often helps you in your writing. (<hi rend="italic">Triplet plays a merry tune dolefully.</hi>)</p>
+                  <p rend="justify">TRIP. It won’t do, music must be in the heart, or it will never come out of the fingers (<hi rend="italic">puts fiddle down—boy takes it and puts it in the cradle</hi>). No! let us be serious and finish the comedy—perhaps it hitches because I forgot to invoke Thalia—the Muse of Comedy, Mrs. Triplet; she must be a black-hearted jade if she won’t lend a broad grin to a poor devil starving in the middle of his hungry little ones.</p>
+                  <p rend="justify">MRS. T. Heathen goddesses can’t help us. We had better pray to heaven to look down on us and our children.</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">sullenly</hi>). You forget, Mrs. Triplet, that our street is very narrow, and the opposite houses are very high.</p>
+                  <p rend="justify">MRS. T. James!</p>
+                  <p rend="justify">TRIP. How can heaven see an honest man and his family in such an out-of-the-way place as this.</p>
+                  <p rend="justify">MRS. T. Oh! what words are these?</p>
+                  <p rend="justify">TRIP. Have we given honesty a fair trial? yes or no (<hi rend="italic">walking in great agitation</hi>)!</p>
+                  <p rend="justify">MRS. T. No, not till we die as we have lived.</p>
+                  <p rend="justify">TRIP. I <hi rend="italic">suppose</hi>  heaven is just, I can’t <hi rend="italic">know</hi>  it, till it sends me an angel to take my children’s part; they cry to me for bread, I have nothing to give them but hard words. God knows it has taken a great deal to break my heart, but it is broken at last, broken—broken—(<hi rend="italic">he sobs with head on his hands on table</hi>).</p>
+                  <p rend="justify">[<hi rend="italic">Enter Woffington speaking</hi>, L. D.]</p>
+                  <p rend="justify">WOFF. Wasn’t somebody inquiring after an angel? Here I am!</p>
+                  <p rend="justify">TRIP. Mrs. Woffington!</p>
+                  <p rend="justify">[<hi rend="italic">Woff. seeing Triplet’s distress, retreats; but presently comes back.</hi>]</p>
+                  <p rend="justify">WOFF. See (<hi rend="italic">shows him letter</hi>). “Madam, you are an angel;” from a gentleman, a perfect stranger to me, so it must be correct (<hi rend="italic">enter Pompey with a basket</hi>). Ah! here is another angel! there are two sorts you know, angels of light and angels of darkness (<hi rend="italic">takes basket from Pompey</hi>). Lucifer, avaunt! (<hi rend="italic">in a terrible tone</hi>) and wait outside the door (<hi rend="italic">in a familiar tone. Exit Pompey</hi>). (<hi rend="italic">Aside.</hi>  They are in sore distress, poor things!) I am sorry you are ill, Mrs. Triplet! I have brought you some physic—black draught from Burgundy (<hi rend="italic">Mrs. Triplet attempts to rise but sinks back again</hi>). Don’t move, I insist!</p>
+                  <p rend="justify">TRIP. Oh, Mrs. Woffington, had I dreamed you would deign to come here,—</p>
+                  <p rend="justify">WOFF. You would have taken care to be out. (<hi rend="italic">Aside.</hi>  Their faces look pinched, I know what that means.) Mrs. Triplet, I have come to give your husband a sitting for my portrait, will you allow me to eat my little luncheon in your room? I am so hungry. Pompey! (<hi rend="italic">Pompey runs in</hi>) run to the corner and buy me that pie I took such a fancy to as we came along (<hi rend="italic">gives money to Pompey. Exit Pompey</hi>  2 E. L.).</p>
+                  <p rend="justify">BOY. Mother, will the lady give me a bit of her pie?</p>
+                  <p rend="justify">MRS. T. Hush, you rude boy!</p>
+                  <p rend="justify">WOFF. She is not much of a lady if she doesn’t! Now children, we’ll first look at father’s comedy. Nineteen dramatis personæ,—cut out seven. Don’t bring your armies into <hi rend="italic">our</hi>  drawing-rooms, Mr. Dagger and Bowl: can you marshal battalions on a Turkey carpet, and make gentlefolks witty in platoons? What’s here in the first act? A duel! and both wounded—you butcher!</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">deprecatingly</hi>). They are not to die, they shan’t die, upon my honour!</p>
+                  <p rend="justify">WOFF. Do you think I’ll trust their lives with you? I’ll show you how to run people through the body (<hi rend="italic">takes pen, writes</hi>). Business, “Araminta looks out of garret window, the combatants drop their swords, put their hands to their hearts, and stagger off, O. P. and P. S.” Now children! who helps me lay the cloth?</p>
+                  <p rend="justify">CHIL. I, and I! (<hi rend="italic">they run to dresser.</hi>)</p>
+                  <p rend="justify">MRS. T. (<hi rend="italic">half rising</hi>). Madam, I can’t think of allowing you.</p>
+                  <p rend="justify">WOFF. Sit down ma’am, or I must use brute force (<hi rend="italic">in Mrs. T’s ear</hi>): shake hands with distress, for it shall never enter your door again.</p>
+                  <p rend="justify">[<hi rend="italic">Mrs. T. clasps her hands.</hi>
+                  </p>
+                  <p rend="justify">(<hi rend="italic">Woff. meets the children with the tablecloth, which she lays.</hi>) Twelve plates, quick! twenty-four knives, quicker! forty-eight forks, quickest.</p>
+                  <p rend="justify">[<hi rend="italic">Enter Pompey, who sets pie on table, and exit, looking wistfully at it.</hi>]</p>
+                  <p rend="justify">Mr. Triplet,—your coat, if you please,—and carve.</p>
+                  <p rend="justify">TRIP. My coat, madam!</p>
+                  <p rend="justify">WOFF. Yes; off with it, there’s a hole in it (<hi rend="italic">Triplet, with signs of astonishment, gives her his coat, then carves pie: they eat. Woff. seats herself</hi>). Be pleased to cast your eye on that, ma’am (<hi rend="italic">boy passes housewife to Mrs. Triplet</hi>). Woffington’s housewife, made by herself, homely to the eye, but holds everything in the world, and has a small space left for everything else; to be returned by the bearer. Thank you, sir! (<hi rend="italic">stitches away very rapidly</hi>) Eat away; children, when once I begin the pie will soon end; (<hi rend="italic">girl takes plate to her mother</hi>), I do everything so quick.</p>
+                  <p rend="justify">GIRL. The lady sews faster than you, mother.</p>
+                  <p rend="justify">WOFF. Bless the child, don’t come near my sword-arm, the needle will go into your eye, and out at the back of your head (<hi rend="italic">children laugh</hi>). The needle will be lost, the child will be no more, enter undertaker, house turned topsyturvy, father shows Woffington the door, off she goes, with a face as long and as dull as papa’s comedy, crying, “Fine Chaney o-ran-ges!”</p>
+                  <p rend="justify">[<hi rend="italic">The children laugh heartily.</hi>
+                  </p>
+                  <p rend="justify">GIRL. Mother! the lady is very funny!</p>
+                  <p rend="justify">WOFF. You’ll be as funny when you’re as well paid for it.</p>
+                  <p rend="justify">[<hi rend="italic">Triplet chokes with laughing, and lays down knife and fork.</hi>]</p>
+                  <p rend="justify">MRS. T. James, take care!</p>
+                  <p rend="justify">WOFF. There’s the man’s coat, (<hi rend="italic">aside</hi>) with a ten pound note in it.</p>
+                  <p rend="justify">[<hi rend="italic">Girl takes it to Triplet.</hi>
+                  </p>
+                  <p rend="justify">TRIP. My wife is a good woman, ma’am, but deficient in an important particular.</p>
+                  <p rend="justify">MRS. T. Oh, James!</p>
+                  <p rend="justify">TRIP. Yes, my dear, I regret to say you have <hi rend="italic">no sense of humour:</hi>  no more than a cat, Jane.</p>
+                  <p rend="justify">WOFF. What! because the poor thing can’t laugh at your comedy?</p>
+                  <p rend="justify">TRIP. No ma’am, but she laughs at nothing.</p>
+                  <p rend="justify">WOFF. Try her with one of your tragedies!</p>
+                  <p rend="justify">MRS. T. I am sure, James, if I don’t laugh, it is not for the want of the will. (<hi rend="italic">Dolefully</hi>) I used to be a very hearty laugher; but I haven’t laughed this two years (<hi rend="italic">Woffington leads Mrs. T. to chair</hi>).</p>
+                  <p rend="justify">WOFF. Oh, you haven’t, haven’t you? Then the next two years you shall do nothing else.</p>
+                  <p rend="justify">TRIP. Oh, madam, that passes the talent even of the great comedian.</p>
+                  <p rend="justify">BOY. <hi rend="italic">She</hi>  is not a comedy lady.</p>
+                  <p rend="justify">WOFF. Hallo!</p>
+                  <p rend="justify">BOY. You don’t ever cry, pretty lady.</p>
+                  <p rend="justify">WOFF. (<hi rend="italic">ironically</hi>). Of course not.</p>
+                  <p rend="justify">BOY (<hi rend="italic">confidentially</hi>). Comedy is crying. Father cries all the time he writes his comedy.</p>
+                  <p rend="justify">WOFF. Oh!</p>
+                  <p rend="justify">TRIP. Hold your tongue. They were tears of laughter, you know, ma’am. Wife, our children talk too much; they thrust their noses into everything, and criticise their own father.</p>
+                  <p rend="justify">WOFF. Unnatural offspring!</p>
+                  <p rend="justify">TRIP. And when they take up a notion, the devil himself couldn’t convince them to the contrary; for instance, all this morning they thought fit to assume that they were starving.</p>
+                  <p rend="justify">BOY. So we were till the angel came, and the devil went for the pie.</p>
+                  <p rend="justify">TRIP. There, there, there, there! now, you mark my words, Jane, we shall never get that idea out of their heads——</p>
+                  <p rend="justify">WOFF. Till we (<hi rend="italic">cuts a large piece of pie, and puts on child’s plate</hi>) put a different idea into their stomachs. Come, <hi rend="italic">trinquons!</hi>  as they do in France (<hi rend="italic">fills glasses, and touches hers with those of the children, who crowd round her with delight</hi>). Were you ever in France, Triplet?</p>
+                  <p rend="justify">TRIP. No, madam, I am thoroughly original.</p>
+                  <p rend="justify">WOFF. That’s true. Well, I went there once to learn tragedy of the great Dumesnil (<hi rend="italic">recites a couple</hi>
+                     <hi rend="italic">of lines of tragedy à la Française</hi>). But Peg Woffington was never meant to walk the stage on stilts;—no, let Mrs. Pritchard pledge Melpomene in her own poison-bowl, I’ll give you Thalia in a bumper of Burgundy. Come, drink to your new mistress, Triplet (<hi rend="italic">fills her glass</hi>). Mrs. Triplet (<hi rend="italic">she rises, bottle and glass in hand</hi>), I must prescribe for you too. A wine glassful of this <hi rend="italic">elixir</hi>  six times a day till further notice. Success to your husband’s comedy! What’s this? (<hi rend="italic">Sees fiddle in cradle</hi>). A fiddle, as I’m an ex-orange wench! (<hi rend="italic">Giving it to Triplet.</hi>) Here, Triplet, a jig—a jig. (<hi rend="italic">Triplet takes fiddle.</hi>) Peggy has not forgotten how to cover the buckle. Come, young ones—(<hi rend="italic">Triplet plays. She dances a jig with the children</hi>)—more power to your elbow, man—shake it, ye sowl! Hurroo! (<hi rend="italic">She dances up to Triplet, who, in his excitement, rises and joins in the jig, while Mrs. Triplet follows their movements with her body.</hi>) But come, Mr. Triplet, you really shan’t make me play the fool any longer. Business!—my picture is to be finished. Mrs. Triplet, we must clear the studio:—take your cherubs into the bed-room.</p>
+                  <p rend="justify">MRS. T. (<hi rend="italic">seizes her hand</hi>). Oh, madam! may the blessings of a mother watch over you in life and after it, and the blessings of these innocents too!</p>
+                  <p rend="justify">WOFF. Pooh! pooh! let me kiss the brats (<hi rend="italic">kisses them</hi>). (<hi rend="italic">Aside.</hi>  Poor things!)</p>
+                  <p rend="justify">BOY. I shall pray for you after father and mother.</p>
+                  <p rend="justify">GIRL. I shall pray for you after daily bread, because we were so hungry till you came.</p>
+                  <p rend="justify">WOFF. (<hi rend="italic">putting them off</hi>). There, there. Exeunt mother and cherubs. Music for the exit, Trippy—the merriest you can extort from that veteran Stradivarius of yours. (<hi rend="italic">Aside.</hi>  Heaven knows I’ve as much need of merry music as the saddest of them) (<hi rend="italic">sees Triplet overcome</hi>). Why, how now? If there isn’t this kind-hearted, soft-headed, old booby of a Triplet making a picture of himself in water colours. (<hi rend="italic">Goes up to him—taps him on the arm</hi>). Come! to work—to work, and with a will, for I have invited Cibber, and Quin, and Clive, and Snarl, Soaper and all, to see the portrait, which is to make your fortune and hand me down to posterity not half as handsome as nature made me. There (<hi rend="italic">sits</hi>), I must put on my most bewitching smile of course. (<hi rend="italic">Aside</hi>) Oh, dear! how it belies my poor aching heart.</p>
+                  <p rend="justify">[<hi rend="italic">Triplet, during this, has got his palette and pencil, set his easel, and begun to work, while Woffington sits.</hi>]</p>
+                  <p rend="justify">Well, are you satisfied with it?</p>
+                  <p rend="justify">TRIP. Anything but, madam (<hi rend="italic">paints</hi>).</p>
+                  <p rend="justify">WOFF. Cheerful soul! then I presume it is like.</p>
+                  <p rend="justify">TRIP. Not a bit. (<hi rend="italic">Woffington stretches.</hi>) You must not yawn, ma’am—you must not yawn just now!</p>
+                  <p rend="justify">WOFF. Oh, yes, I must, if you will be so stupid.</p>
+                  <p rend="justify">TRIP. I was just about to catch the turn of the lip.</p>
+                  <p rend="justify">WOFF. Well, catch it, it won’t run away.</p>
+                  <p rend="justify">TRIP. A pleasant half-hour it will be for me, when all your friends come here, like cits at a shilling ordinary, each for his cut. Head a little more that way. (<hi rend="italic">Sadly</hi>) I suppose you can’t sit quiet, Madam; then never mind. Look on this picture and on that!</p>
+                  <p rend="justify">WOFF. Meaning, that I am painted as well as my picture.</p>
+                  <p rend="justify">TRIP. Oh, no, no, no! but to turn from your face, on which the lightning of expression plays continually, to this stony, detestable, dead daub: I could—(<hi rend="italic">seizes palette-knife</hi>)—miserable mockery! vile caricature of life and beauty! take that! (<hi rend="italic">dashes the knife through picture.</hi>)</p>
+                  <p rend="justify">WOFF. Oh! right through my pet dimple! Hark! I hear the sound of coaches—the hour of critique approaches!</p>
+                  <p rend="justify">TRIP. Two coach loads of criticism, and the picture ruined!</p>
+                  <p rend="justify">WOFF. (<hi rend="italic">reflecting</hi>). I’ll give you a lesson—your palette-knife (<hi rend="italic">cuts away face of the picture</hi>).</p>
+                  <p rend="justify">TRIP. There will be Mr. Cibber with his sneering snuff-box; Mr. Quin with his humourous bludgeon; Mrs. Clive with her tongue; Mr. Snarl with his abuse; and Mr. Soaper with his praise!—but I deserve it all!</p>
+                  <p rend="justify">WOFF. That green baize—(<hi rend="italic">gets behind easel</hi>)—fling it over the easel—so; and now (<hi rend="italic">shewing her face through the picture</hi>) you shall criticise criticism, and learn the true weight of goose’s feathers.</p>
+                  <p rend="justify">(<hi rend="italic">Triplet throws the baize over the picture.</hi>)</p>
+                  <p rend="justify">[<hi rend="italic">Enter Cibber, Clive, Quin, Snarl, and Soaper. Triplet bows humbly. They return his salute carelessly.</hi>]</p>
+                  <p rend="justify">CIB. Ough! Four pair of stairs!</p>
+                  <p rend="justify">QUIN. Well, where’s the picture? (<hi rend="italic">crossing to</hi>  R. H. <hi rend="italic">with Clive.</hi>)</p>
+                  <p rend="justify">(<hi rend="italic">They take up positions to look at it.</hi>)</p>
+                  <p rend="justify">TRIP. Mrs. Woffington, gentlemen!</p>
+                  <p rend="justify">(<hi rend="italic">Triplet removes the baize and suppresses a start.</hi>)</p>
+                  <p rend="justify">SOAP. Ah!</p>
+                  <p rend="justify">SNARL. Umph!</p>
+                  <p rend="justify">QUIN. Ho!</p>
+                  <p rend="justify">CLIVE. Eh?</p>
+                  <p rend="justify">CIB. Ah!</p>
+                  <p rend="justify">QUIN. Whose portrait did you say?</p>
+                  <p rend="justify">CLIVE. He, he! Peg Woffington’s—it’s a pretty head enough, and not a bit like Woffington.</p>
+                  <p rend="justify">QUIN. Nay—compare paint with paint, Kitty—who ever saw Woffington’s real face?</p>
+                  <p rend="justify">SOAP. Now, I call it beautiful; so smooth, polished, and uniform.</p>
+                  <p rend="justify">SNARL. Whereas nature delights in irregular and finely graduated surfaces. Your brush is not destitute of a certain crude talent, Mr. Triplet, but you are deficient in the great principles of Art; the first of which is a loyal adherence to truth; beauty itself is but one of the forms of truth, and nature is our finite exponent of infinite truth.</p>
+                  <p rend="justify">SOAP. What wonderful criticism! One quite loses oneself among such grand words!</p>
+                  <p rend="justify">CIB. Yes, yes! proceed Mr. Snarl. I am of your mind.</p>
+                  <p rend="justify">SNARL. Now in nature, a woman’s face at this distance, has a softness of outline—(<hi rend="italic">draws back and makes a lorgnette of his two hands, the others do the same</hi>), whereas your work is hard and tea-boardy.</p>
+                  <p rend="justify">SOAP. Well it is a <hi rend="italic">leetle tea-boardy</hi>, perhaps. But the light and shade, Mr. Snarl—! the—what-d’ye-call—the—um—you know—eh?</p>
+                  <p rend="justify">SNARL. Ah! you mean the chiaroscuro.</p>
+                  <p rend="justify">SOAP. Exactly!</p>
+                  <p rend="justify">SNARL. The chiaroscuro is all wrong. In nature, the nose, intercepting the light on one side the face, throws a shadow under the eye. Caravaggio, the Venetians, and the Bolognese, do particular justice to this—no such shade appears in your portrait.</p>
+                  <p rend="justify">CIB. ’Tis so—stap my vitals!</p>
+                  <p rend="justify">(<hi rend="italic">All express assent except Soaper.</hi>)</p>
+                  <p rend="justify">SOAP. But, my dear Mr. Snarl, if there are no shades, there are lights—loads of lights.</p>
+                  <p rend="justify">SNARL. There are, only they are impossible (<hi rend="italic">superciliously</hi>). You have, however, succeeded tolerably in the mechanical parts—the dress, for example; but your Woffington is not a woman, Sir—nor nature!</p>
+                  <p rend="justify">(<hi rend="italic">All shake their heads in assent.</hi>)</p>
+                  <p rend="justify">WOFF. (C.) Woman! for she has tricked four men; nature! for a fluent dunce does not know her when he sees her!</p>
+                  <p rend="justify">CIB. Why—what the deuce?</p>
+                  <p rend="justify">CLIVE. Woffington!</p>
+                  <p rend="justify">QUIN. Pheugh!</p>
+                  <p rend="justify">WOFF. (<hi rend="italic">steps out of picture</hi>). A pretty face, and not like Woffington! I owe you two, Kitty Clive.</p>
+                  <p rend="justify">(<hi rend="italic">Mrs. Clive bridles.</hi>)</p>
+                  <p rend="justify">(<hi rend="italic">to Quin</hi>). Who ever saw Peggy’s real face? Look at it now if you can without blushing.</p>
+                  <p rend="justify">ALL (<hi rend="italic">except Snarl</hi>). Ha! ha!</p>
+                  <p rend="justify">SNARL. For all this, I maintain on the unalterable rules of art——</p>
+                  <p rend="justify">ALL. Ha! ha! ha!</p>
+                  <p rend="justify">SNARL (<hi rend="italic">fiercely</hi>). Goths! (<hi rend="italic">Quin and Cibber turn up stage laughing</hi>). Good morning, ladies and gentlemen!</p>
+                  <p rend="justify">CIB. Good morning, Mr. Snarl!</p>
+                  <p rend="justify">SNARL. I have a criticism to write of last night’s performance. I shall sit on your pictures one day, Mr. Brush.</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">crosses to Snarl</hi>). Pictures are not eggs, Sir—they are not meant to be sat upon.</p>
+                  <p rend="justify">SNARL. Come, Soaper!</p>
+                  <p rend="justify">[<hi rend="italic">Exit.</hi>
+                  </p>
+                  <p rend="justify">SOAP. You shall always have my good word, Mr. Triplet.</p>
+                  <p rend="justify">TRIP. I will try and not deserve it, Mr. Soaper!</p>
+                  <p rend="justify">SOAP. At your service, Mr. Snarl!</p>
+                  <p rend="justify">[<hi rend="italic">Exit.</hi>
+                  </p>
+                  <p rend="justify">CIB. Serve ’em right—a couple of serpents! or rather one boa-constrictor—Soaper slavers, for Snarl to crush (<hi rend="italic">crosses to</hi>  L.). But we were all too hard on poor Trip: and if he will accept my apology——</p>
+                  <p rend="justify">TRIP. Thank you! “Colley Cibber’s Apology” can be got at any book-stall.</p>
+                  <p rend="justify">CIB. Confound his impertinence! Come along, Jemmy!</p>
+                  <p rend="justify">QUIN. If ever you paint my portrait——</p>
+                  <p rend="justify">TRIP. The bear from Hockley Hole shall sit for the head.</p>
+                  <p rend="justify">QUIN. Curse his impudence! Have with you, Mr. Cibber.</p>
+                  <p rend="justify">[<hi rend="italic">Exeunt Cibber and Quin</hi>, L. D.</p>
+                  <p rend="justify">CLIVE. I did intend to have my face painted, sir, but after this——</p>
+                  <p rend="justify">TRIP. You will continue to do it yourself!</p>
+                  <p rend="justify">CLIVE. Brute!</p>
+                  <p rend="justify">[<hi rend="italic">Exit in a rage</hi>, L. D.</p>
+                  <p rend="justify">TRIP. Did I show a spirit, or did I not, ma’am?</p>
+                  <p rend="justify">WOFF. Tremendous!</p>
+                  <p rend="justify">TRIP. Did you mark the shot I fired into each as he sheered off?</p>
+                  <p rend="justify">WOFF. Terrific!</p>
+                  <p rend="justify">TRIP. I defy them! the coxcombs! as for real criticism, I invite it. Yours for instance, or that sweet lady’s I met at Mr. Vane’s, or anybody that appreciates one’s beauties. By-the-bye, you were not at Mr. Vane’s yesterday?</p>
+                  <p rend="justify">WOFF. Yes, I was!</p>
+                  <p rend="justify">TRIP. No! I came with my verses, but she said you were not there.</p>
+                  <p rend="justify">WOFF. Who said so?</p>
+                  <p rend="justify">TRIP. The charming young lady who helped me with her own hand to nectar and ambrosia.</p>
+                  <p rend="justify">WOFF. A young lady?</p>
+                  <p rend="justify">TRIP. About twenty-two.</p>
+                  <p rend="justify">WOFF. In a travelling dress?</p>
+                  <p rend="justify">TRIP. Yes—brown hair—blue eyes! I poured out all to her;—that I expected to find you; that Mr. Vane admired you; and that you were sitting to me for your portrait; that I lived at 10, Hercules Buildings, and should be proud to show her the picture for her judgment.</p>
+                  <p rend="justify">WOFF. You told her all this?</p>
+                  <p rend="justify">TRIP. I did. Do you know her?</p>
+                  <p rend="justify">WOFF. Yes.</p>
+                  <p rend="justify">TRIP. Who is she?</p>
+                  <p rend="justify">WOFF. Mrs. Vane.</p>
+                  <p rend="justify">TRIP. Mrs. Vane! Mr. Vane’s mother? No—no! that can’t be!</p>
+                  <p rend="justify">WOFF. Mr. Vane’s wife!</p>
+                  <p rend="justify">TRIP. Wife?</p>
+                  <p rend="justify">WOFF. Yes.</p>
+                  <p rend="justify">TRIP. Then she wasn’t to know you were there?</p>
+                  <p rend="justify">WOFF. No.</p>
+                  <p rend="justify">TRIP. Then I let the cat out of the bag?</p>
+                  <p rend="justify">WOFF. Yes.</p>
+                  <p rend="justify">TRIP. And played the devil with their married happiness?</p>
+                  <p rend="justify">WOFF. Probably. (<hi rend="italic">turns her back on him</hi>).</p>
+                  <p rend="justify">TRIP. Just my luck! Oh! Lord, Lord! To see what these fine gentlemen are! to have a lawful wife at home, and then to come and fall in love with you! <hi rend="italic">I</hi>  do it for ever in my plays, it is all right there!—but in real life it is abominable!</p>
+                  <p rend="justify">WOFF. You forget, sir, that I am an actress!—a plaything for every profligate who can find the open sesame of the stage-door. Fool! to think there was an honest man in the world, and that he had shone on me!</p>
+                  <p rend="justify">TRIP. Mrs. Woffington!</p>
+                  <p rend="justify">WOFF. But what have we to do (<hi rend="italic">walks agitated</hi>) with homes, and hearths, and firesides? Have we not the theatre, its triumphs, and full-handed thunders of applause? Who looks for hearts beneath the masks we wear? These men applaud us, cajole us, swear to us, lie to us, and yet, forsooth, we would have them respect us too.</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">fiercely</hi>). They shall respect you before James Triplet. A great genius like you, so high above them all!—my benefactress (<hi rend="italic">whimpers</hi>).</p>
+                  <p rend="justify">WOFF. (<hi rend="italic">taking his hand</hi>). I thought this man truer than the rest. I did not feel his passion an insult. Oh! Triplet, I could have loved this man—really loved him!</p>
+                  <p rend="justify">TRIP. Then you don’t love him?</p>
+                  <p rend="justify">WOFF. Love him! I hate him, and her, and all the world!</p>
+                  <p rend="justify">TRIP. You will break with him then?</p>
+                  <p rend="justify">WOFF. Break with him! No! I will feed his passion to the full—tempt him—torture him—play with him, as the angler plays the fish upon his hook! He shall rue the hour he trifled with a heart and brain like mine!</p>
+                  <p rend="justify">TRIP. But his poor wife?</p>
+                  <p rend="justify">WOFF. His wife! and are wives’ hearts the only hearts that throb, and feel, and break? His wife must take care of herself, it is not from me that mercy can come to her.</p>
+                  <p rend="justify">TRIP. But madam—(<hi rend="italic">a knock at door</hi>). Who’s this at such a moment (<hi rend="italic">he goes to the window</hi>)! ’Tis a lady! Eh! cloaked and hooded. Who can she be? Perhaps a sitter! My new profession has transpired!</p>
+                  <p rend="justify">[<hi rend="italic">A tap at room-door. Enter a slatternly servant, who hands a paper.</hi>]</p>
+                  <p rend="justify">SERV. From a lady who waits below.</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">reads and drops the paper</hi>). “Mabel Vane!”</p>
+                  <p rend="justify">WOFF. His wife here! (<hi rend="italic">To servant</hi>) Shew the lady up stairs!</p>
+                  <p rend="justify">[<hi rend="italic">Exit Servant.</hi>
+                  </p>
+                  <p rend="justify">What does she come here for?</p>
+                  <p rend="justify">TRIP. I don’t know, and I wish to heaven she had stayed away! You will retire, of course you will retire?</p>
+                  <p rend="justify">WOFF. No, sir! I will know why she comes to you (<hi rend="italic">reflects, enters the picture again</hi>). Keep it from me if you can!</p>
+                  <p rend="justify">[<hi rend="italic">Triplet sinks into a chair, the picture of consternation.</hi>]</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">with a ghastly smile, going very slowly towards the door</hi>). I am going to be in the company of the two loveliest women in England; I would rather be between a lion and a unicorn—like the royal arms.</p>
+                  <p rend="justify">[<hi rend="italic">A tap at the door.</hi>
+                  </p>
+                  <p rend="justify">[<hi rend="italic">Enter Mabel Vane in hood and cloak, a mask in her hand.</hi>]</p>
+                  <p rend="justify">TRIP. Madam!</p>
+                  <p rend="justify">MABEL (<hi rend="italic">crosses to</hi>  R. <hi rend="italic">hastily</hi>). See first that I am not followed; that man who pursued me from my husband’s house,—look out.</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">looking through window</hi>). Sir Charles Pomander! he examines the house—his hand is on the knocker—no! he retires! (<hi rend="italic">he rids her of her hood, mantle, mask, &amp;c.</hi>)</p>
+                  <p rend="justify">MABEL. I breathe again (<hi rend="italic">hastily</hi>). Mr. Triplet, you said I might command your services.</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">bows</hi>).</p>
+                  <p rend="justify">MABEL. You know this actress you spoke of to-day, Mrs. Woffington?</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">aside</hi>). Curse it! I am honoured by her acquaintance, madam!</p>
+                  <p rend="justify">MABEL. You will take me to her, to the theatre where she acts?</p>
+                  <p rend="justify">TRIP. But consider, madam!</p>
+                  <p rend="justify">MABEL. You must not refuse me.</p>
+                  <p rend="justify">TRIP. But what can be the use of it?</p>
+                  <p rend="justify">MABEL. I am sure you are true and honest—I will trust you (<hi rend="italic">Trip. bows</hi>). When you saw me yesterday, I was the happiest woman in the world, for I love my husband; and I thought then he loved me as he used to do. Two days ago I left our country home—I yearned to be by my husband’s side; I counted the hours of the journey, the miles, the yards of the road—I reached his house at last—to find that the heart, on which I had so longed to rest my head, was mine no longer.</p>
+                  <p rend="justify">TRIP. Poor thing! poor thing!</p>
+                  <p rend="justify">MABEL. And she who held my place, was the woman—the actress you so praised to me; and now you pity me, do you not; and will not refuse my request?</p>
+                  <p rend="justify">TRIP. But be advised;—do not think of seeking Mrs. Woffington; she has a good heart, but a fiery temper; besides, good heavens! you two ladies are rivals. Have you read the Rival Queens, Madam?</p>
+                  <p rend="justify">MABEL. I will cry to her for justice and mercy;—I never saw a kinder face than this lady’s—she must be good and noble!</p>
+                  <p rend="justify">TRIP. She is! I know a family she saved from starvation and despair.</p>
+                  <p rend="justify">MABEL (<hi rend="italic">seeing Woff. in the picture</hi>). Ah! she is there! see! see! (<hi rend="italic">she approaches the easel</hi>).</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">interposing</hi>). Oh, my portrait! you must not go near that, the colours are wet!</p>
+                  <p rend="justify">MABEL. Oh, that she were here, as this wonderful portrait is; and then how I would plead to her for my husband’s heart! (<hi rend="italic">she addresses the supposed picture</hi>). Oh, give him back to me! what is one more heart to you? you are so rich, and I am so poor, that without his love I have nothing; but must sit me down and cry till my heart breaks—give him back to me, beautiful, terrible, woman; for with all your gifts you cannot love him as his poor Mabel does. Oh, give him back to me—and I will love you and kiss your feet, and pray for you till my dying day (<hi rend="italic">kneels to her and sobs</hi>). Ah!—a tear! it is alive! (<hi rend="italic">runs to Triplet and hides her head</hi>) I am frightened! I am frightened!</p>
+                  <p rend="justify">[<hi rend="italic">Woffington steps out of frame and stands with one hand on her brow, in a half-despairing attitude. She waves her hand to Triplet to retire—Mabel stands trembling.</hi>]</p>
+                  <p rend="justify">WOFF. We would be alone.</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">in consternation</hi>). But, Mrs. Woffington, but, ladies!</p>
+                  <p rend="justify">WOFF. Leave us!</p>
+                  <p rend="justify">TRIP. I will retire into my sleeping apartment (<hi rend="italic">retires into inner room</hi>  R. H., <hi rend="italic">and puts out his head</hi>). Be composed, ladies. Neither of you could help it.</p>
+                  <p rend="justify">WOFF. Leave us, I say! (<hi rend="italic">he vanishes suddenly</hi>).</p>
+                  <p rend="justify">(<hi rend="italic">A long uneasy pause.</hi>)</p>
+                  <p rend="justify">WOFF. (<hi rend="italic">with forced coldness</hi>). At least, madam, do me the justice to believe I did not know Mr. Vane was married.</p>
+                  <p rend="justify">MABEL. I am sure of it—I feel you are as good as you are gifted.</p>
+                  <p rend="justify">WOFF. Mrs. Vane, I am not—you deceive yourself.</p>
+                  <p rend="justify">MABEL. Then, heaven have mercy on me! but you are—I see it in your face, ah! you know you pity me!</p>
+                  <p rend="justify">WOFF. I do, madam—and I could consent never more to see your—Mr. Vane.</p>
+                  <p rend="justify">MABEL. Ah, but will you give me back his heart? What will his presence be to me if his love remain behind?</p>
+                  <p rend="justify">WOFF. But, how, madam?</p>
+                  <p rend="justify">MABEL. The magnet can repel as well as attract—you who can enchant—can you not break your own spell?</p>
+                  <p rend="justify">WOFF. You ask much of me!</p>
+                  <p rend="justify">MABEL. Alas, I do!</p>
+                  <p rend="justify">WOFF. But I could do even this.</p>
+                  <p rend="justify">MABEL. You could!</p>
+                  <p rend="justify">WOFF. And perhaps if you—who have not only touched my heart, but won my respect, say to me—“do so,” I shall do it (<hi rend="italic">Mabel clasps her hands</hi>). There is only one way—but that way is simple. Mr. Vane thinks better of me than I deserve—I have only to make him (<hi rend="italic">with a trembling lip</hi>) believe me worse than I am, and he will return to you, and love you better, far better, for having known, admired, and despised, Peg Woffington.</p>
+                  <p rend="justify">MABEL. Oh! I shall bless you every hour of my life (<hi rend="italic">pause</hi>). But rob you of your good name! bid a woman soil her forehead so for me! (<hi rend="italic">sighs, long pause</hi>) With heaven’s help I do refuse your offer; it is better I should die with my heart crushed, but my conscience unstained; for so my humble life has passed till now.</p>
+                  <p rend="justify">WOFF. Humble! such as you are the diamonds of the world!!! Angel of truth and goodness, you have conquered! The poor heart we both overrate shall be your’s again. In my hands ’tis painted glass at best—but set in the lustre of your love, it may become a priceless jewel. Can you trust me?</p>
+                  <p rend="justify">MABEL. With my life!</p>
+                  <p rend="justify">WOFF. And will you let me call you friend?</p>
+                  <p rend="justify">MABEL. Friend! no—not friend!</p>
+                  <p rend="justify">WOFF. Alas!</p>
+                  <p rend="justify">MABEL. Let me call you sister? I have no sister! (<hi rend="italic">timidly and pleadingly</hi>)</p>
+                  <p rend="justify">WOFF. Sister! oh, yes! call me sister! (<hi rend="italic">they embrace</hi>) You do not know what it is to me, whom the proud ones of the world pass by with averted looks, to hear that sacred name from lips as pure as yours. Let me hold you in my arms—so—a little while—if you knew the good it does me to feel your heart beating close to mine—(<hi rend="italic">pause</hi>); and now to bring back this truant—how this heart flutters—you must compose yourself (<hi rend="italic">goes to door leading to inner room and opens it</hi>). And I have need to be alone awhile (<hi rend="italic">puts her in, comes forward and sits a moment with her hands pressed over her forehead</hi>). ’Twas a terrible wrench—but ’tis over; and now—“about my brains” as Hamlet says—to bring back the husband to his duty—what a strange office for a woman like me! How little the world knows about us after all (<hi rend="italic">she sighs and sobs convulsively</hi>). I ought to feel very happy—pshaw! On with the mask and spangles, Peggy—and away with the fumes of this pleasant day-dream—how to bring Pomander hither? Let me see—this paper (<hi rend="italic">takes paper Mabel sent up</hi>) signed in her hand; Mabel Vane—what if by its aid—I have it—pen—ink—one never can find writing materials in an author’s room (<hi rend="italic">goes to door and calls</hi>). Triplet! (<hi rend="italic">enter Triplet from inner room</hi>). Pens and ink—quick!</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">gets them, looking at her</hi>). Here, madam—and paper?</p>
+                  <p rend="justify">WOFF. No, I have that here (<hi rend="italic">she writes—he watches her</hi>).</p>
+                  <p rend="justify">TRIP. Her eyes are red—and Mrs. Vane all of a flutter inside. There’s been a storm—but they haven’t torn each other in pieces, that’s one comfort. But has she relented, I wonder?</p>
+                  <p rend="justify">WOFF. Triplet! This note to Sir Charles Pomander.</p>
+                  <p rend="justify">TRIP. Madam (<hi rend="italic">takes it</hi>). What is it, I wonder? However, ’tis not my business (<hi rend="italic">going—pauses</hi>). But it is my business—I’m not a postman—if I carry letters I ought to know the contents (<hi rend="italic">returns</hi>). Madam—</p>
+                  <p rend="justify">WOFF. Well!</p>
+                  <p rend="justify">TRIP. Madam—I—I—</p>
+                  <p rend="justify">WOFF. I see—you wish to know the contents of that letter—hear them: “Follow the bearer.”</p>
+                  <p rend="justify">TRIP. Madam!</p>
+                  <p rend="justify">WOFF. (<hi rend="italic">reads</hi>). I am here without my husband’s knowledge.</p>
+                  <p rend="justify">TRIP. Mrs. Woffington!</p>
+                  <p rend="justify">WOFF. (<hi rend="italic">reads</hi>). Alone and unprotected—signed “Mabel Vane.”</p>
+                  <p rend="justify">TRIP. Her own signature too! Mrs. Woffington—you are a great actress—you have been cruelly wronged—you have saved me from despair, and my children from starvation; but before I will carry that letter, I will have my hands hacked off at the wrists.</p>
+                  <p rend="justify">WOFF. (<hi rend="italic">aside</hi>). What a good creature this is. Then you refuse to obey my orders.</p>
+                  <p rend="justify">TRIP. No! no! ask me to jump out of that window—to burn my favourite tragedy—to forswear pen and ink for ever—anything but carry that letter, and I will do it.</p>
+                  <p rend="justify">WOFF. Well—leave the letter! (<hi rend="italic">Triplet runs for his hat</hi>) Where are you going?</p>
+                  <p rend="justify">TRIP. To bring the husband to his wife’s feet—and so to save one angel—that’s the lady in the other room—from despair; and another angel—that’s you, from a great crime. Trust poor Jemmy Triplet for once to bring this domestic drama to a happy denouement!</p>
+                  <p rend="justify">[<hi rend="italic">Exit</hi>  L.</p>
+                  <p rend="justify">WOFF. How innocently he helps my plot! I must have all the puppets under my hand. If I know Sir Charles, he is still on the watch (<hi rend="italic">goes to window</hi>). Yes! (<hi rend="italic">goes to inner door</hi>) Here—your eldest boy, Mrs. Triplet; I want him (<hi rend="italic">enter Lysimachus</hi>  R. <hi rend="italic">door</hi>). Lysimachus, you see that gentleman, run down—give him this letter—and then show him up here (<hi rend="italic">exit Lysimachus</hi>  L. <hi rend="italic">door</hi>). And now Mrs. Vane’s mantle, the hood well forward—so—we are nearly of a height—he does not know I am here—if I can but imitate her voice and rustic shyness—<hi rend="italic">allons</hi>, Peggy ’tis seldom you acted in so good a cause (<hi rend="italic">she assumes the air of Mrs. Vane</hi>).</p>
+                  <p rend="justify">[<hi rend="italic">Enter Pomander behind—Woffington appears sunk in grief—he comes forward—she starts and gives a little shriek.</hi>]</p>
+                  <p rend="justify">POM. My dear Mrs. Vane (<hi rend="italic">she shrinks</hi>). Do not be alarmed—loveliness neglected, and simplicity deceived, give irresistible claims to respect as well as adoration. Had fate given me this hand (<hi rend="italic">he takes her hand</hi>)—</p>
+                  <p rend="justify">WOFF. Oh, please sir!</p>
+                  <p rend="justify">POM. Would I have abandoned it for that of a Woffington—as artificial and hollow a jade as ever winked at a side-box. Oh, had I been your husband, madam—how would I have revelled in the pastoral pleasures you so sweetly recalled yesterday—the Barbary mare—</p>
+                  <p rend="justify">WOFF. (<hi rend="italic">timidly</hi>). Hen!</p>
+                  <p rend="justify">POM. Ah, yes, the Barbary hen; and old dame—dame—</p>
+                  <p rend="justify">WOFF. Best, please sir!</p>
+                  <p rend="justify">POM. Yes, Best—that happy though elderly female for whom you have condescended to make puddings.</p>
+                  <p rend="justify">WOFF. Alas, sir!</p>
+                  <p rend="justify">POM. You sigh! It is not yet too late to convert me. Upon this white hand I swear to become your pupil, as I am your adorer (<hi rend="italic">he kisses it</hi>); let me thus fetter it with a worthy manacle. (<hi rend="italic">Aside.</hi>  What will innocence say to my five hundred guinea diamond?)</p>
+                  <p rend="justify">WOFF. La, sir! how pretty!</p>
+                  <p rend="justify">POM. Let me show how poor its lustre is to that of your eyes (<hi rend="italic">he tries to draw back her hood</hi>).</p>
+                  <p rend="justify">WOFF. Oh, sir—hark! (<hi rend="italic">she suddenly starts away and listens in an attitude of alarm</hi>).</p>
+                  <p rend="justify">POM. Ah! (<hi rend="italic">noise without</hi>). Footsteps on the stairs! (<hi rend="italic">goes to door and opens it, listening</hi>).</p>
+                  <p rend="justify">VANE (<hi rend="italic">without</hi>). Another flight!</p>
+                  <p rend="justify">POM. Ha! Vane’s voice, by all that’s mal-à-propos; (<hi rend="italic">Woffington screams and rushes into inner apartment</hi>) and now for Monsieur le mari (<hi rend="italic">Triplet appears at the door leading to the staircase, with his back to the stage and speaking off</hi>).</p>
+                  <p rend="justify">TRIP. Have a care, sir! There is a hiatus in the fourth step—and now for the friend who waits to forget grief and suspicion in your arms—that friend is——</p>
+                  <p rend="justify">[<hi rend="italic">Enter Vane—Triplet turns round and recognizes Pomander.</hi>]</p>
+                  <p rend="justify">The Devil!</p>
+                  <p rend="justify">POM. You flatter me!</p>
+                  <p rend="justify">VANE. So this is the mysterious rencontre—pray, Sir Charles, what is it you want to forget in my arms?</p>
+                  <p rend="justify">POM. In your arms! (<hi rend="italic">Aside.</hi>  Confounds himself with his wife.) Perhaps you had better explain, my friend?</p>
+                  <p rend="justify">TRIP. Nay, sir—be yours the pleasing duty!</p>
+                  <p rend="justify">VANE. In one word, Sir Charles Pomander, why are you here? and for what purpose am I sent for?</p>
+                  <p rend="justify">POM. In two words my dear fellow, I don’t choose to tell you why I am here—and ’twas not I who sent for you.</p>
+                  <p rend="justify">VANE (<hi rend="italic">to Triplet</hi>). Speak, sirrah—your riddling message!</p>
+                  <p rend="justify">TRIP. There’s nothing for it but the truth. Then, sir—the friend I expected you would find here was Mrs.——</p>
+                  <p rend="justify">POM. (<hi rend="italic">to Trip.</hi>). Stop, my deplorable-looking friend: (<hi rend="italic">to Vane</hi>) when the answer to such a question begins with a mistress, I think you had better not enquire further: (<hi rend="italic">to Trip.</hi>) Don’t complete the name.</p>
+                  <p rend="justify">VANE. I command you to complete it, or——</p>
+                  <p rend="justify">TRIP. Gentlemen, gentlemen, how am I to satisfy both of you?</p>
+                  <p rend="justify">POM. My dear Vane, remember it is a lady’s secret—the only thing in the world one is bound to keep, except one’s temper, which, by-the-bye, you’re losing rapidly.</p>
+                  <p rend="justify">VANE (<hi rend="italic">aside</hi>). He spoke of griefs and suspicions to be forgiven and forgotten. Mabel has left my house. (<hi rend="italic">crosses to</hi>  C.) Sir Charles Pomander, I insist on knowing who this lady is. If it is as I fear, I have the best right to ask.</p>
+                  <p rend="justify">POM. But the worst right to be answered.</p>
+                  <p rend="justify">VANE. How am I to construe this tone, sir?</p>
+                  <p rend="justify">POM. Do as we did at school with a troublesome passage—don’t construe it at all.</p>
+                  <p rend="justify">VANE. Sir Charles Pomander, you are impertinent.</p>
+                  <p rend="justify">POM. My dear Vane, you are in a passion.</p>
+                  <p rend="justify">VANE. By heaven, sir——</p>
+                  <p rend="justify">TRIP. Gentlemen, gentlemen, I give you my word. Mr. Vane, she does not know of Sir Charles Pomander’s presence here.</p>
+                  <p rend="justify">VANE. She? s’death, who?</p>
+                  <p rend="justify">TRIP. Mrs. Vane!</p>
+                  <p rend="justify">VANE. My wife—here—and with him?</p>
+                  <p rend="justify">TRIP. No—not with <hi rend="italic">him!</hi>
+                  </p>
+                  <p rend="justify">POM. I regret to contradict you, my dilapidated friend, or to hurt you, my dear Vane; but really, in self-defence—you know this signature (<hi rend="italic">offers paper written by Woffington</hi>).</p>
+                  <p rend="justify">VANE. Mabel’s hand!</p>
+                  <p rend="justify">POM. Yes—what my attentions began, your little peccadilloes finished—cause and effect, my dear fellow,—pure cause and effect.</p>
+                  <p rend="justify">VANE. Coxcomb and slanderer! draw and defend yourself.</p>
+                  <p rend="justify">[<hi rend="italic">draws.</hi>
+                  </p>
+                  <p rend="justify">POM. If you will have it!</p>
+                  <p rend="justify">[<hi rend="italic">draws.</hi>
+                  </p>
+                  <p rend="justify">TRIP. (<hi rend="italic">throwing himself between them</hi>). Hold! hold!</p>
+                  <p rend="justify">(<hi rend="italic">Woffington suddenly opens the inner room door, and presents herself at the threshold: her hood is drawn over her face</hi>).</p>
+                  <p rend="justify">TRIP. Mrs. Vane!</p>
+                  <p rend="justify">VANE. Mabel! wife! say that this is not true—that you were lured by stratagem. Oh, speak! belie this coxcomb! You know how bitterly I repented the infatuation that brought me to the feet of another.</p>
+                  <p rend="justify">(<hi rend="italic">Woffington bursts into a laugh, and throws back the hood.</hi>)</p>
+                  <p rend="justify">POM. Woffington!</p>
+                  <p rend="justify">VANE. She here!</p>
+                  <p rend="justify">WOFF. There, Sir Charles, did I not wager he would confess he was heartily ashamed of himself? (<hi rend="italic">crosses to</hi>  C.)</p>
+                  <p rend="justify">TRIP. (<hi rend="italic">aside</hi>). I have a glimmer of comprehension.</p>
+                  <p rend="justify">WOFF. Yes—we have had our laugh—and Mr. Vane his lesson; as for Mrs. Vane—this way, madam, and satisfy yourself.</p>
+                  <p rend="justify">(<hi rend="italic">Mabel appears.</hi>)</p>
+                  <p rend="justify">MABEL. Ernest—dear Ernest!</p>
+                  <p rend="justify">VANE (<hi rend="italic">sternly</hi>). Mabel, how came you here?</p>
+                  <p rend="justify">WOFF. In such very questionable company as a town rake and a profane stage-player? Mrs. Vane might have asked the same question yesterday. Why Mrs. Vane somehow fancied you had mislaid your heart in Covent Garden green-room, and that I had feloniously appropriated it: she came here in search of stolen goods—would you could rummage here, madam, and satisfy yourself if you still want proof, that I have no such thing as a heart about me—not even one of my own.</p>
+                  <p rend="justify">TRIP. I deny that—a better heart than Mrs. Woffington’s——</p>
+                  <p rend="justify">WOFF. What on earth do you know about it, man?</p>
+                  <p rend="justify">VANE (<hi rend="italic">to Mabel</hi>). But this letter?</p>
+                  <p rend="justify">WOFF. Was written by me on a paper which by accident bore Mrs. Vane’s signature. The fact is, I had a wager with Sir Charles here—his diamond ring against my left-hand glove—that I could bewitch a certain country gentleman’s imagination, though his heart all the while belonged to its rightful owner, and I have won (<hi rend="italic">sighs</hi>).</p>
+                  <p rend="justify">VANE. What a dupe I have been—am I enough humiliated?</p>
+                  <p rend="justify">POM. Ha! ha! ha! My poor fellow, you had better return to Huntingdonshire, and leave town and the players to us, who know how to deal with them.</p>
+                  <p rend="justify">WOFF. And are quite safe against being taken in—eh! Sir Charles? (<hi rend="italic">points to ring on her finger</hi>).</p>
+                  <p rend="justify">POM. Oh, perfectly—we know each other’s cards—retain that ring as a mark of my——</p>
+                  <p rend="justify">(<hi rend="italic">Woffington holds up her finger.</hi>)</p>
+                  <p rend="justify">POM. Respect!</p>
+                  <p rend="justify">WOFF. No, no—I accept your ring; but I shall always hate you.</p>
+                  <p rend="justify">POM. I welcome the sentiment—I can endure anything but your indifference.</p>
+                  <p rend="justify">VANE. And you, Mabel, will you forgive my infatuation?</p>
+                  <p rend="justify">MABEL. I forgive all, Ernest—(<hi rend="italic">crosses to Woffington, aside to her</hi>) what do we not owe you, sister?</p>
+                  <p rend="justify">WOFF. Nothing that word does not pay for. (<hi rend="italic">Aside</hi>) Alas! and so ends the game. You and I have the tricks, I think, Sir Charles—Mrs. Vane the honors.—Mr. Vane will quit hazard and the clubs for Willoughby Manor and the double dummy of a matrimonial rubber. As for me, I revoke my lead of hearts.</p>
+                  <p rend="justify">POM. After taking my ace of diamonds!</p>
+                  <p rend="justify">TRIP. And poor Jemmy Triplet I suppose must once again take up his solitary hand at patience.</p>
+                  <p rend="justify">WOFF. Unless Manager Rich is fool enough to accept my judgment for gospel—and then—but whom have we here?</p>
+                  <p rend="justify">[<hi rend="italic">Enter Cibber, Quin, Mrs. Clive, Snarl and Soaper; Snarl and Soaper cross behind to</hi>  R. H.]</p>
+                  <p rend="justify">CIB. Ah! Mrs. Vane—Mr. Vane—Sir Charles—Peggy—Bonjour, Mesdames et Messieurs—Mr. Triplet, I congratulate you—stap my vitals!</p>
+                  <p rend="justify">TRIP. Congratulate me!</p>
+                  <p rend="justify">CLIVE. Yes—Quin here, who’s a good natured bear, declares we behaved shamefully to you to-day, and so as Mr. Rich has just told us of your good fortune——</p>
+                  <p rend="justify">TRIP. My good fortune! there must be some mistake. You’ve come to the wrong house.</p>
+                  <p rend="justify">QUIN. No; you have a prospect henceforward of dining every day of your life. ’Tis a great comfort, and I wish you appetite to enjoy it, Mr. Triplet.</p>
+                  <p rend="justify">TRIP. Am I awake? Pinch me, somebody—(<hi rend="italic">Woffington pinches him</hi>) thank you—I <hi rend="italic">am</hi>  awake.</p>
+                  <p rend="justify">CIB. Manager Rich, thanks to Peggy’s influence here, and a good word or two from one who shall be nameless, has accepted one of your tragedies.</p>
+                  <p rend="justify">TRIP. Oh, Lord!</p>
+                  <p rend="justify">SOAP. He! he! I give you joy, Mr. Triplet; Mr. Snarl and I are so glad, for as Mr. Snarl said to me, as we left your studio this morning, “I do so wish they’d play one of Mr. Triplet’s tragedies.”</p>
+                  <p rend="justify">SNARL. That I might have the pleasure of criticising it. Mr. Rich did me the honour to ask which of the three we should accept—I told him, the shortest.</p>
+                  <p rend="justify">CLIVE. You’ll be pleased to hear, Mrs. Woffington, there’s a capital part for <hi rend="italic">me.</hi>  (<hi rend="italic">Aside</hi>) Now she could knock me down, I know.</p>
+                  <p rend="justify">TRIP. One of my tragedies accepted at last! Oh, gracious goodness! Break it gently to my wife—I know I’m dreaming, but prithee don’t anybody wake me. Oh, Mrs. Woffington—my guardian angel—my preserver! (<hi rend="italic">seizes her hand</hi>)</p>
+                  <p rend="justify">WOFF. No, no—we had better wait, and see on which act of your tragedy the curtain falls.</p>
+                  <p rend="justify">TRIP. Ah! I forgot that.</p>
+                  <p rend="justify">MABEL. I need not wait to express my gratitude—say in what way can I ever thank you?</p>
+                  <p rend="justify">WOFF. Dear sister, when hereafter in your home of peace you hear harsh sentence passed on us, whose lot is admiration, but rarely love, triumph but never tranquillity—think sometimes of poor Peg Woffington, and say, stage masks may cover honest faces, and hearts beat true beneath a tinselled robe—</p>
+                  <lg>
+                     <l>Nor ours the sole gay masks that hide a face</l>
+                     <l>Where care and tears have left their withering trace,</l>
+                     <l>On the world’s stage, as in our mimic art,</l>
+                     <l>We oft confound the actor with the part.</l>
+                     <l>POM. Distrust appearances—an obvious moral—</l>
+                     <l>With which, however, I’ve no time to quarrel;</l>
+                     <l>Though for my part, I’ve found, the winning riders</l>
+                     <l>In the world’s race are often the outsiders.</l>
+                     <l>VANE. So I have played at love—witched from my will.</l>
+                     <l>MAB. My love was always Ernest, and is still.</l>
+                     <l>CIB. Pshaw! stap my vitals! “Manners make the man,”</l>
+                     <l>They have made <hi rend="italic">me!</hi>
+                     </l>
+                     <l>SNARL.   ’Tis about all they can!</l>
+                     <l>SOAP. Yes; Mr. Cibber’s epitaph shall be,</l>
+                     <l>He played Lord Foppington at seventy-three.</l>
+                     <l>CLIVE. I’m for plain speaking—let the truth be shown—</l>
+                     <l>SNARL. Truth’s in a well—best leave that well alone—</l>
+                     <l>QUIN. Its bitter waters why should <hi rend="italic">you</hi>  uncork?</l>
+                     <l>No; play like me—an honest knife and fork.</l>
+                     <l>TRIP. That part would be well played by many a poet,</l>
+                     <l>Had he the practice one must have, to know it,</l>
+                     <l>But ’tis the verdict by the public past,</l>
+                     <l>Must sentence scribblers or to feast or fast.</l>
+                     <l>Be kind to-night: in triplet tone I sue,</l>
+                     <l>As actor, manager, and author too.</l>
+                  </lg>
+                  <lg>
+                     <l>POM. Mind that for sentence when they call the cause on,</l>
+                     <l>You’ve at least one Peg here—to hang applause on.</l>
+                     <l>WOFF. Yes; sure those kind eyes and bright smiles one traces,</l>
+                     <l>Are not deceptive <hi rend="italic">masks</hi>—but honest <hi rend="italic">faces.</hi>
+                     </l>
+                     <l>I’d swear it—but if your hands make it certain,</l>
+                     <l>Then all is right on both sides of the curtain.</l>
+                  </lg>
+                  <p rend="justify">[CURTAIN FALLS.]</p>
+                  <p rend="justify">PRINTED BY HARRISON AND SONS,</p>
+                  <p rend="justify">LONDON GAZETTE OFFICE, ST. MARTIN’S LANE.</p>
+               </div>
+               <div type="div3">
+                  <head>Transcriber’s Note</head>
+                  <p rend="justify">This transcription is based on images digitized by the University of Toronto and posted by the Internet Archive at:</p>
+                  <p rend="justify">
+                     <ref target="https://archive.org/details/masksfacesorbefo00tayluoft">archive.org/details/masksfacesorbefo00tayluoft</ref>
+                  </p>
+                  <p rend="justify">In general, this transcription attempts to retain the formatting, punctuation and spelling of the source text. Some minor inconsistencies and errors have been corrected.</p>
+                  <p rend="justify">The following changes were made:</p>
+                  <list rend="bulleted">
+                     <item>Dramatis Personæ: Mr Lambert—Added a period after “Mr” for consistency.</item>
+                     <item>Dramatis Personæ: Mrs. Leigh Murray—Added a period after the second “Mrs. Leigh Murray” for consistency.</item>
+                     <item>p. 2: SOAP. (<hi rend="italic">aside</hi>), Snarl!—Changed comma after “(<hi rend="italic">aside</hi>)” to a period.</item>
+                     <item>p. 2: SOAP (<hi rend="italic">crosses slowly to Clive</hi>). My dear Mrs. Clive—Added a period after “SOAP”.</item>
+                     <item>p. 6: WOFF., (L.) “But like the birds—Deleted the comma after “WOFF.”</item>
+                     <item>p. 9: I dine to day at Mr. Vane’s—Changed “to day” to “to-day”.</item>
+                     <item>p. 14: address to many of your admirers, to wiu your esteem.—Changed “wiu” to “win”.</item>
+                     <item>p. 21: HUNDS (<hi rend="italic">aside to Pom.</hi>). I’ve marked her down, sir.—Inserted a period after “HUNDS”.</item>
+                     <item>p. 23: The true <hi rend="italic">Preux des Dames</hi>, (<hi rend="italic">regretfully</hi>) went out with the full periwig—Deleted the comma after “<hi rend="italic">Preux des Dames</hi>”.</item>
+                     <item>p. 26: QUIN (<hi rend="italic">she comes forward, aside to Woff.</hi>). Hang it! Falstaff!—Changed “<hi rend="italic">she</hi>” to “<hi rend="italic">he</hi>”.</item>
+                     <item>p. 28: [<hi rend="italic">Cibber, Snarl, and Soaper, go up.</hi>]—Deleted the comma after “<hi rend="italic">Soaper</hi>”.</item>
+                     <item>p. 28: VANE. Let me shew you to your apartment (<hi rend="italic">rings bell, leads her to door</hi> R.)—Added a period after the closing parenthesis.</item>
+                     <item>p. 36: MABEL. Do you suppose I did not know of his having invited Mrs. Woffington to his house to day?—Changed “to day” to “to-day”.</item>
+                     <item>p. 37: MABEL, (<hi rend="italic">bursting into tears</hi>).—Deleted the comma after “MABEL”.</item>
+                     <item>p. 42: [<hi rend="italic">Mr. W. seeing Triplet’s distress, retreats; but presently comes back.</hi>—Changed “<hi rend="italic">Mr. W.</hi>” to “<hi rend="italic">Woff.</hi>”</item>
+                     <item>p. 43: and wait outside the door, (<hi rend="italic">in a familiar tone. Exit Pompey</hi>).—Deleted the comma after “door”.</item>
+                     <item>p. 43: TRIP. (<hi rend="italic">deprecatingly.</hi>) They are not to die—Moved the period after “<hi rend="italic">deprecatingly</hi>” to after the closing parenthesis for consistency.</item>
+                     <item>p. 45: TREP. My wife is a good woman, ma’am—Changed “TREP.” to “TRIP.”</item>
+                     <item>p. 47: Here, Triplet, a jig—a jig (<hi rend="italic">Triplet takes fiddle.</hi>)—Inserted a period after “jig” before the stage direction.</item>
+                     <item>p. 47: WOFF. Pooh! pooh! let me kiss the brats (<hi rend="italic">kisses them.</hi>) (<hi rend="italic">Aside</hi> Poor things!)—Moved the period after “<hi rend="italic">kisses them</hi>” to after the closing parenthesis and added a period after “<hi rend="italic">Aside</hi>”.</item>
+                     <item>p. 48: (<hi rend="italic">Aside</hi> Heaven knows I’ve as much need of merry music as the saddest of them)—Added a period after “<hi rend="italic">Aside</hi>”.</item>
+                     <item>p. 49: WOFF. (<hi rend="italic">reflecting.</hi>) I’ll give you a lesson—Moved the period after “<hi rend="italic">reflecting</hi>” to after the closing parenthesis for consistency.</item>
+                     <item>p. 49: The stage direction “(<hi rend="italic">Triplet removes the baize and suppresses a start.</hi>)” was printed in the source text to the right of two lines spoken by Triplet and Soaper. The stage direction has been placed on a line between Triplet’s and Soaper’s lines.</item>
+                     <item>p. 50: SOAP. Well it is a <hi rend="italic">leetle teaboardy</hi>, perhaps.—Changed “<hi rend="italic">teaboardy</hi>” to “<hi rend="italic">tea-boardy</hi>” for consistency with the previous line.</item>
+                     <item>p. 51: SNARL (<hi rend="italic">fiercely.</hi>) Goths!—Moved the period after “<hi rend="italic">fiercely</hi>” to after the closing parenthesis for consistency.</item>
+                     <item>p. 57: TRIP. (<hi rend="italic">interposing.</hi>) Oh, my portrait!—Moved the period after “<hi rend="italic">interposing</hi>” to after the closing parenthesis for consistency.</item>
+                     <item>p. 58: TRIP. I will retire into my sleeping apartment <hi rend="italic">retires into inner room</hi> R. H., <hi rend="italic">and puts out his head</hi>), be composed, ladies.—Inserted an opening parenthesis before “<hi rend="italic">retires</hi>”, changed the comma after the closing parenthesis to a period, and capitalized “be”.</item>
+                     <item>p. 62: Here—your eldest boy, Mrs. Triplet; I want him (<hi rend="italic">enter Lysimachus</hi> R <hi rend="italic">door</hi>).—Added a period after “R”.</item>
+                     <item>p. 63: (<hi rend="italic">Aside</hi> What will innocence say to my five hundred guinea diamond?)—Added a period after “<hi rend="italic">Aside</hi>”.</item>
+                     <item>p. 64: POM. (<hi rend="italic">to Trip</hi>). Stop, my deplorable-looking friend—Added a period after “<hi rend="italic">Trip</hi>”.</item>
+                     <item>p. 70: TRI. That part would be well played by many a poet—Changed “TRI.” to “TRIP.” for consistency.</item>
+                  </list>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

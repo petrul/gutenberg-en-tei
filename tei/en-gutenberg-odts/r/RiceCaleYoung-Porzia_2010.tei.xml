@@ -1,0 +1,2615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Porzia</title>
+            <author>Cale Young Rice</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T19:33:48Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/r/RiceCaleYoung-Porzia_2010.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Cale Young Rice</name>
+               <date>2024-01-04T19:33:48Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Porzia</head>
+         <author>Cale Young Rice</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/r/RiceCaleYoung-Porzia_2010.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>PORZIA BY CALE YOUNG RICE</head>
+            <p rend="justify">AUTHOR OF</p>
+            <lg>
+               <l>"A NIGHT IN AVIGNON," "YOLANDA OF CYPRUS," "CHARLES DI</l>
+               <l>TOCCA," "DAVID," "MANY GODS," "NIRVANA DAYS,"</l>
+               <l>"FAR QUESTS," "THE IMMORTAL LURE," ETC.</l>
+            </lg>
+            <lg>
+               <l>Garden City New York</l>
+               <l>DOUBLEDAY, PAGE &amp; COMPANY</l>
+               <l>MCMXIII</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="italic">Copyright, 1913, by</hi>
+               </l>
+               <l>Cale Young Rice</l>
+               <l>
+                  <hi rend="italic">All rights reserved, including that of</hi>
+               </l>
+               <l>
+                  <hi rend="italic">translation into Foreign Languages,</hi>
+               </l>
+               <l>
+                  <hi rend="italic">including the Scandinavian.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To</l>
+               <l>GILBERT MURRAY</l>
+               <l>
+                  <hi rend="italic">Poet, Dramatist, and Master-Interpreter of a great</hi>
+               </l>
+               <l>
+                  <hi rend="italic">literature</hi>
+               </l>
+            </lg>
+            <pb/>
+            <div type="div2">
+               <head>PREFACE</head>
+               <p rend="justify">Some years ago while writing "A Night In Avignon" the thought came to me of framing two other plays that should deal respectively with the Renaissance spirit at its height and decadence, as that play had dealt with it at its beginning. For the great human upheaval that came intoxicatingly to Italy during the fourteenth, fifteenth and sixteenth centuries is so full of æsthetic contrast and glamor as to be peculiarly suitable for the doubly exacting purposes of poetic drama.</p>
+               <p rend="justify">"Giorgione," the second of these plays to be written, was published in 1911 with three other plays in a volume entitled "The Immortal Lure," and like "A Night In Avignon" was received with such kindness as to encourage me to write the third, here presented under the name of "Porzia."</p>
+               <p rend="justify">This last play, whose period is that of "decadent Humanism," or as Symonds prefers to call it, of "The Catholic Reaction," is laid in Naples, where the passions of men, more than freed from the long domination of the Church and the Hereafter, seemed to reach in their grasp at this life almost incredible heights and depths of excess. And yet from amid this excess, as from a rank and unweeded garden, were springing into flower many seeds of modern intellectual enfranchisement, as the achievements of Bruno and his contemporaries witness.</p>
+               <p rend="justify">I need only add that I have sought to use materials that would be true to the time of this final portrayal, and that I therefore trust it may be understood as an organic member of the group to which it belongs.</p>
+               <p rend="justify">C. Y. R.</p>
+               <p rend="justify">Louisville, Kentucky, June, 1912.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>ACT I</label> CHARACTERS</head>
+               <p rend="justify">RIZZIO DI ROSSI <hi rend="italic">A young Leader of the Literati at Naples, suspected of heresy</hi>
+               </p>
+               <p rend="justify">OSIO <hi rend="italic">His Brother</hi>
+               </p>
+               <p rend="justify">  PORZIA <hi rend="italic">His Wife</hi>
+               </p>
+               <p rend="justify">  ALOYSIUS <hi rend="italic">Her Uncle, a Physician</hi>
+               </p>
+               <p rend="justify">  BIANCA <hi rend="italic">Her Cousin, a Florentine, once betrothed to Osio</hi>
+               </p>
+               <p rend="justify">  GIORDANO BRUNO <hi rend="italic">A young Dominican, also heretical</hi>
+               </p>
+               <p rend="justify">MONSIGNOR QUERIO <hi rend="italic">An Officer of the Inquisition</hi>
+               </p>
+               <p rend="justify">  TASSO <hi rend="italic">A Poet</hi>
+               </p>
+               <p rend="justify">  MARINA <hi rend="italic">A Sicilian serving Porzia</hi>
+               </p>
+               <p rend="justify">MATTEO <hi rend="italic">Serving Rizzio, later Osio</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Dancers from Capri, Musicians, Guards of the Inquisition, etc.</hi>
+               </p>
+               <p rend="justify">TIME—<hi rend="italic">About 1570</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">PORZIA</hi>
+               </p>
+               <p rend="justify">Scene: <hi rend="italic">A portion of the house, terrace and garden of Rizzio on his wedding day at Naples. It is so situated as to command a view of the city, the blue Bay with Capri set like a topaz in it, the Vesuvian coast, and the Mountain itself—rising like a calm though unappeasable monitor against the land's too sensual enchantment.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">The house, a white corner of which is visible along the right, has large doors toward the back giving upon the terrace. A vine-clad terrace wall, several feet above the level of the terrace, but much above that of the street without, runs across the rear to a cypress-set gate in the centre, and on into the lustrous Spring foliage of ilex, myrtle and orange.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">A pedestaled image of the Virgin against the house, a statue of Pan before a bower opposite, and several stone seats forward, are decked with orange blossoms that glow in the light of late afternoon.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Music, reveling, and laughter are heard, muffled, within. Then amid a louder burst of them Osio strides angrily forth. He is followed in argumentative elation by Rizzio—clothed in Greek raiment, a book in his hand—and by Bruno.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio</hi>  (<hi rend="italic">as they come down</hi>).</p>
+               <p rend="justify">Proof from the teeth of aliens and fools</p>
+               <p rend="justify">And infidels that follow their own reason?</p>
+               <p rend="justify">I want no proof! your books should burn in Hell!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">gaily</hi>).</p>
+               <p rend="justify">Because they glorify the stars in heaven?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I say they are heresy!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">And I say truth!</p>
+               <p rend="justify">[<hi rend="italic">Uplifts volume.</hi>
+               </p>
+               <p rend="justify">That were your ears not stopped with sophistries</p>
+               <p rend="justify">And Jesuitry you would adjudge divine!</p>
+               <p rend="justify">[<hi rend="italic">Tosses it down.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Bruno.</hi>
+               </p>
+               <p rend="justify">Ai, Signor Osio, there's no denying!</p>
+               <p rend="justify">[<hi rend="italic">Porzia appears anxiously at the door.</hi>
+               </p>
+               <p rend="justify">We need but look,</p>
+               <p rend="justify">To learn that stars are worlds</p>
+               <p rend="justify">Swung out upon infinitudes of space.</p>
+               <p rend="justify">And as for earth—</p>
+               <p rend="justify">Tho Christ shed blood upon it—</p>
+               <p rend="justify">'Tis but a pilgrim flame among them all.</p>
+               <p rend="justify">[<hi rend="italic">Porzia leaves door.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio</hi>  (<hi rend="italic">turning upon him</hi>).</p>
+               <p rend="justify">And you, a monk, will say so to the Church</p>
+               <p rend="justify">And to the Holy Office?</p>
+               <p rend="justify">
+                  <hi rend="italic">Bruno</hi>  (<hi rend="italic">in humorous alarm</hi>).</p>
+               <p rend="justify">God forbid!</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">And you, Rizzio, who on your wedding-day,</p>
+               <p rend="justify">Mid rites of Venus</p>
+               <p rend="justify">And revels to Apollo,</p>
+               <p rend="justify">Wear pagan robes—and prink others in them—</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Ho, others! meaning Porzia?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I say—</p>
+               <p rend="justify">[<hi rend="italic">Mirth within.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">laughing at him</hi>).</p>
+               <p rend="justify">What, what, my merry raging brother, more?</p>
+               <p rend="justify">That Pan is not your god, whom I but now</p>
+               <p rend="justify">Besought for inward beauty and truth of soul?</p>
+               <p rend="justify">No, no, he is not, by Vesuvius!</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I say—</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">That Plato and the ancients are</p>
+               <p rend="justify">A plague which only the Pope can purge from earth?</p>
+               <p rend="justify">[<hi rend="italic">Again laughing.</hi>
+               </p>
+               <p rend="justify">Ai! to the flames with them, and with all fairness!</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I say that you—</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Hey, yea! that I who fall</p>
+               <p rend="justify">Not on my knees to mitred villainy—</p>
+               <p rend="justify">Or cringe to crosiered craft—</p>
+               <p rend="justify">And yet whose life is lit for truth and freedom—</p>
+               <p rend="justify">Am viler far than you</p>
+               <p rend="justify">Who take your pleasure and pay it with confession?</p>
+               <p rend="justify">Who think the Devil with faith would be no Devil?</p>
+               <p rend="justify">[<hi rend="italic">Porzia again appears with Bianca.</hi>
+               </p>
+               <p rend="justify">You hear it, Bruno?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I say there is one thing</p>
+               <p rend="justify">You shall not do!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">So-ho! my lordly brother,</p>
+               <p rend="justify">My breaker of betrothals—if not creeds—</p>
+               <p rend="justify">And that is what?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I will protect her from it!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Her?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Porzia! from the passion of your lies!</p>
+               <p rend="justify">[<hi rend="italic">Astonishment.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">stung, staring</hi>).</p>
+               <p rend="justify">By ... all the saints</p>
+               <p rend="justify">and fiends and incubi</p>
+               <p rend="justify">That ever infested night and nunneries!</p>
+               <p rend="justify">What frenzy now is biting at your brain!</p>
+               <p rend="justify">[<hi rend="italic">Before him.</hi>
+               </p>
+               <p rend="justify">Is she your wife, so to concern your care?</p>
+               <p rend="justify">[<hi rend="italic">They face, pale.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">who sees, and with Bianca comes quickly, winningly down</hi>).</p>
+               <p rend="justify">Heresy! heresy! truth and heresy!</p>
+               <p rend="justify">Are there no other words in all the world</p>
+               <p rend="justify">To pour as wine</p>
+               <p rend="justify">Upon a wedding-day!—</p>
+               <p rend="justify">Are these your ways, my newly wedded lord,</p>
+               <p rend="justify">To leave me, an hour's bride, away from home—</p>
+               <p rend="justify">From my dear uncle's home—</p>
+               <p rend="justify">With but a friend or two for comforting—</p>
+               <p rend="justify">And bandy words of other stars than those</p>
+               <p rend="justify">You swear to see when gazing in my eyes!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">responsively</hi>).</p>
+               <p rend="justify">My Porzia!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">No, no! I'll not forgive you!</p>
+               <p rend="justify">For is it not ill boding to our bridals</p>
+               <p rend="justify">You quarrel over the heavens—and not me!</p>
+               <p rend="justify">[<hi rend="italic">As he laughs.</hi>
+               </p>
+               <p rend="justify">My beauty, he says, this husband I have taken,</p>
+               <p rend="justify">Is life—and yet ere 'tis an hour his</p>
+               <p rend="justify">Forgets to live on it!—and Osio,</p>
+               <p rend="justify">The brother of him,—</p>
+               <p rend="justify">E'en Osio there—</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">gay again</hi>).</p>
+               <p rend="justify">Who swears he will protect you!</p>
+               <p rend="justify">[<hi rend="italic">Osio starts.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Protect?</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Against the heresy of robes</p>
+               <p rend="justify">Of pagan fashion—and against your husband!</p>
+               <p rend="justify">[<hi rend="italic">Constraint. Porzia sees Bianca flush.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">I do not understand—unless you jest,</p>
+               <p rend="justify">As oft—too oft you do!</p>
+               <p rend="justify">Or mean perchance Bianca ... unto whom</p>
+               <p rend="justify">He was betrothed</p>
+               <p rend="justify">And whom he would, this breath,</p>
+               <p rend="justify">Be wooing again, were <hi rend="italic">I</hi>, not <hi rend="italic">words</hi>, your bride!</p>
+               <p rend="justify">[<hi rend="italic">Then winningly again, as Marina enters.</hi>
+               </p>
+               <p rend="justify">But see, here is Marina! the dance awaits!</p>
+               <p rend="justify">[<hi rend="italic">Music is heard.</hi>
+               </p>
+               <p rend="justify">Let us go in and give ourselves to Joy,</p>
+               <p rend="justify">For Misery is quick enough to take us,</p>
+               <p rend="justify">If first we do not wed us to her rival!</p>
+               <p rend="justify">Is it not so?</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">with passion</hi>).</p>
+               <p rend="justify">Or sun has never shone!</p>
+               <p rend="justify">So in! the tarantelle! (<hi rend="italic">as Tasso enters</hi>) And then a song</p>
+               <p rend="justify">From Messer Tasso, who would be divine,</p>
+               <p rend="justify">[<hi rend="italic">Greets him.</hi>
+               </p>
+               <p rend="justify">Did he love Venus as he fears the Church,</p>
+               <p rend="justify">Apollo as he shuns the Inquisition!</p>
+               <p rend="justify">In!—Osio, will you come?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I will not.</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <lg>
+                  <l>Then</l>
+                  <l>Dance with your own mad humors and delusions</l>
+                  <l>Here to Vesuvius and to the sea,—</l>
+                  <l>Or to Bianca plead your pardon!</l>
+                  <l>(<hi rend="italic">To the rest</hi>) Come!</l>
+                  <l>[<hi rend="italic">Seizes blossoms blithely.</hi>
+                  </l>
+                  <l>For in this world there's but one heresy,</l>
+                  <l>Denial of the divinity of Joy!</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">Throws sprays over Porzia, takes her hand and they go singing. All follow, but Osio and Bianca.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio</hi>  (<hi rend="italic">when their steps have died; in cold rage</hi>).</p>
+               <p rend="justify">You shall hear more of this, my pretty brother!</p>
+               <p rend="justify">Prater of pagan doubts!</p>
+               <p rend="justify">Whom—but that God may use it—I would curse</p>
+               <p rend="justify">For the resemblance that our mother gave us!</p>
+               <p rend="justify">For, by the living blood of San Gennaro,</p>
+               <p rend="justify">In yon Duomo, the scoffing siren song</p>
+               <p rend="justify">Of heresy that swells in you shall cease,</p>
+               <p rend="justify">Tho it shall take the sweat of the rack to hush it!</p>
+               <p rend="justify">You shall hear more!...</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca</hi>  (<hi rend="italic">who has stood long indignant</hi>).</p>
+               <p rend="justify">And others shall hear more!</p>
+               <p rend="justify">[<hi rend="italic">Her voice breaking as she turns on him.</hi>
+               </p>
+               <p rend="justify">Others who fix upon me this affront</p>
+               <p rend="justify">Of broken and humiliate betrothals!</p>
+               <p rend="justify">[<hi rend="italic">As he attempts to speak.</hi>
+               </p>
+               <p rend="justify">Yes! you have made of me a thing of shame</p>
+               <p rend="justify">Here in the eyes</p>
+               <p rend="justify">Of those who're alien to me!</p>
+               <p rend="justify">That you have loved me not—or love me less</p>
+               <p rend="justify">Than once you did, too well I came to know—</p>
+               <p rend="justify">I—with the blood in me of the Medici!—</p>
+               <p rend="justify">And now it is open prate!... But do you think</p>
+               <p rend="justify">The women of my city want resentment,</p>
+               <p rend="justify">Or less than these sun-lusting ones of Naples</p>
+               <p rend="justify">Know how to cool their wrath?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I think you mad—</p>
+               <p rend="justify">In a mad maze—</p>
+               <p rend="justify">And yield it no concern;</p>
+               <p rend="justify">Nor shall—(<hi rend="italic">meaningly</hi>) until a thing you know is done.</p>
+               <p rend="justify">As to betrothals, give your memory breath:</p>
+               <p rend="justify">Ours was agreed to end as either willed.</p>
+               <p rend="justify">[<hi rend="italic">Goes from her to gate and looks expectantly out.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca</hi>  (<hi rend="italic">as he returns</hi>).</p>
+               <p rend="justify">And you, weary of it, have utterly</p>
+               <p rend="justify">Chosen to end it?</p>
+               <p rend="justify">[<hi rend="italic">Sits.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Have I so affirmed?</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca</hi>  (<hi rend="italic">springing up</hi>).</p>
+               <p rend="justify">I will not have evasions, Osio!</p>
+               <p rend="justify">Shiftings and turnings</p>
+               <p rend="justify">Radiant of hopes</p>
+               <p rend="justify">That torture expectation till it breaks.</p>
+               <p rend="justify">[<hi rend="italic">Again sitting.</hi>
+               </p>
+               <p rend="justify">And yet—perchance it is as well they come</p>
+               <p rend="justify">Now ... while there yet is time for more withdrawals.</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio</hi>  (<hi rend="italic">starting</hi>).</p>
+               <p rend="justify">More?</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">For—I fear all trust in you is folly;</p>
+               <p rend="justify">And that the heresy of Rizzio</p>
+               <p rend="justify">Which I agreed with you to take unto</p>
+               <p rend="justify">Monsignor Querio—</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio</hi>  (<hi rend="italic">clenching</hi>).</p>
+               <p rend="justify">Shall not be taken?</p>
+               <p rend="justify">[<hi rend="italic">She rises.</hi>
+               </p>
+               <p rend="justify">Not! but you leave the brunt to me alone?</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">You purpose more, I think, than to restrain him.</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">And you more than abjuring! You would gaze</p>
+               <p rend="justify">Upon his godless schisms, ...</p>
+               <p rend="justify">Upon the naked luring of his lies!</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">No! Tho the beauty of them—</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Beauty! beauty!</p>
+               <p rend="justify">[<hi rend="italic">Striking the Pan near him.</hi>
+               </p>
+               <p rend="justify">That wind of infidelity from Hell</p>
+               <p rend="justify">He blows out of his lips do you call beauty!</p>
+               <p rend="justify">No!—and he with his poets and philosophers,</p>
+               <p rend="justify">His Platos</p>
+               <p rend="justify">And star-mad Copernicas,</p>
+               <p rend="justify">And that Dominican, Giordano Bruno,</p>
+               <p rend="justify">For whom the stake to flames will yet be lit,</p>
+               <p rend="justify">Shall learn you are too late in your relenting!</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca</hi>  (<hi rend="italic">stricken</hi>).</p>
+               <p rend="justify">Too ... late!</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">His heresies shall reap their due.</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca</hi>  (<hi rend="italic">death-pale</hi>).</p>
+               <p rend="justify">Which means—that you</p>
+               <p rend="justify">already have revealed them!</p>
+               <p rend="justify">Have sent unto Monsignor Querio</p>
+               <p rend="justify">To-day—</p>
+               <p rend="justify">Rizzio's wedding-day!—</p>
+               <p rend="justify">For that</p>
+               <p rend="justify">It was you sought out Matteo, who, pledged</p>
+               <p rend="justify">Unto Marina,</p>
+               <p rend="justify">As were you to me,</p>
+               <p rend="justify">Has broke his troth?...</p>
+               <p rend="justify">And now, now you await him?—O was not</p>
+               <p rend="justify">Your promise to me that a week should pend</p>
+               <p rend="justify">Ere any step?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I will not lose my soul,</p>
+               <p rend="justify">[<hi rend="italic">Turns away.</hi>
+               </p>
+               <p rend="justify">And dallying is the feebleness of fools.</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">And will lies save it—tho they be for Heaven!—</p>
+               <p rend="justify">To one who nigh has lost her soul for you?</p>
+               <p rend="justify">[<hi rend="italic">When he does not answer, more penetratively.</hi>
+               </p>
+               <p rend="justify">We have been friends, Osio, long been friends,</p>
+               <p rend="justify">And, woman that I am, I would 'twere more,</p>
+               <p rend="justify">But in this I suspect—</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Enough! we prate!</p>
+               <p rend="justify">[<hi rend="italic">Rankling, uneasily.</hi>
+               </p>
+               <p rend="justify">I say enough.</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">And I say all too little,</p>
+               <p rend="justify">[<hi rend="italic">Bitterly.</hi>
+               </p>
+               <p rend="justify">Until I tell you now plain to your face,</p>
+               <p rend="justify">And to your heart</p>
+               <p rend="justify">Plunging toward this passion,</p>
+               <p rend="justify">That not alone a hate of heresy</p>
+               <p rend="justify">Is haunting you to it, but that the lips</p>
+               <p rend="justify">And eyes and brows and soul of—</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Will you cease!</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">I tell you that you love her—Porzia!</p>
+               <p rend="justify">And veer but to the vision of her face!</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio</hi>  (<hi rend="italic">who after strangling silence finds words</hi>).</p>
+               <p rend="justify">If you say that, Bianca, ever again</p>
+               <p rend="justify">Or if, by all the demons that Avernus</p>
+               <p rend="justify">Pours out upon the black Phlegraean fields,</p>
+               <p rend="justify">You hint it or suggest it to her, till—</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">Till you achieve her! and have wrapped the rites</p>
+               <p rend="justify">Of the Church round your achieving?</p>
+               <p rend="justify">Till you have severed her from Rizzio—</p>
+               <p rend="justify">Have swept her from perdition—</p>
+               <p rend="justify">Into your swathing arms! I say you shall not!</p>
+               <p rend="justify">Me you have set aside, but there an end!</p>
+               <p rend="justify">[<hi rend="italic">Starts toward door.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Stop! whither do you go?</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">To call them! call!</p>
+               <p rend="justify">And to betray your treachery—and mine!</p>
+               <p rend="justify">[<hi rend="italic">Calling.</hi>
+               </p>
+               <p rend="justify">Rizzio! Porzia! Rizzio!</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Maledictions!</p>
+               <p rend="justify">[<hi rend="italic">Seizing her wrists.</hi>
+               </p>
+               <p rend="justify">Will you become a dagger, and not know,</p>
+               <p rend="justify">Stiletto that you are, what thing you stab!</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">The infatuation festering within you!</p>
+               <p rend="justify">Till, deaf with the desire of it and dream,</p>
+               <p rend="justify">You cannot tell their voice from Deity's.</p>
+               <p rend="justify">[<hi rend="italic">Calls again.</hi>
+               </p>
+               <p rend="justify">Rizzio! Porzia! Tasso!</p>
+               <p rend="justify">[<hi rend="italic">The music ceases.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">within; startled</hi>).</p>
+               <p rend="justify">It was Bianca!</p>
+               <p rend="justify">[<hi rend="italic">Hastening to door with the rest crowding closely after.</hi>
+               </p>
+               <p rend="justify">How? what? you called? what moves you?—Osio?</p>
+               <p rend="justify">[<hi rend="italic">Looks around.</hi>
+               </p>
+               <p rend="justify">Was some one here? what is it? speak!... Bianca?</p>
+               <p rend="justify">What burns you?</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">You shall hear! It must be told.</p>
+               <p rend="justify">Yes, yes!... (<hi rend="italic">Struggling to say it</hi>) ...</p>
+               <p rend="justify">And with no leavening delay of words.</p>
+               <p rend="justify">We ... I ... You must be gone from here at once;</p>
+               <p rend="justify">At once—for there is peril.</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Pah-ho! peril?</p>
+               <p rend="justify">Now, Scylla and the Sibyl and Charybdis!</p>
+               <p rend="justify">What megrim have you had?</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">None—for doubting;</p>
+               <p rend="justify">Or any, it matters not, if you will go,</p>
+               <p rend="justify">And quickly, trusting reason—as you boast to;</p>
+               <p rend="justify">For I have heard—</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Have heard what and from whom?</p>
+               <p rend="justify">[<hi rend="italic">Again looks around.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">There was one here who said Monsignor Querio</p>
+               <p rend="justify">Knows of your excommunicant delight</p>
+               <p rend="justify">In books that are forbid—</p>
+               <p rend="justify">And ... of your heresies!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">in quick dismay</hi>).</p>
+               <p rend="justify">The Inquisition!</p>
+               <p rend="justify">You mean—he may be sought by it and seized,</p>
+               <p rend="justify">Held in the trammels of it for a truth</p>
+               <p rend="justify">That ...! Do you mean, Bianca, Osio,</p>
+               <p rend="justify">That now, at any hour—?... Oh, he must go!</p>
+               <p rend="justify">[<hi rend="italic">Hears noise at gate.</hi>
+               </p>
+               <p rend="justify">And quickly! In, Rizzio, in, for they—!</p>
+               <p rend="justify">[<hi rend="italic">The gate opens and Matteo entering stops amazed and alarmed.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">with laughing relief</hi>).</p>
+               <p rend="justify">Now, now, do you not see your apprehension!</p>
+               <p rend="justify">Is Matteo the Inquisition! Is</p>
+               <p rend="justify">He then the prison that has come to seize me?</p>
+               <p rend="justify">Fie, fie, Bianca, with your fears that mar</p>
+               <p rend="justify">Again the bridal beauty of this hour,</p>
+               <p rend="justify">And crowd with quiverings the bliss of it!</p>
+               <p rend="justify">No more of them!—(<hi rend="italic">to dancers</hi>) Hither! and wind your maze!</p>
+               <p rend="justify">Again take up the dance!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">No, Rizzio, no!</p>
+               <p rend="justify">For now delight would die under our feet,</p>
+               <p rend="justify">And we but trample on it! No! Dismiss them</p>
+               <p rend="justify">Back now to Capri!...</p>
+               <p rend="justify">More than the woman fear within me warns it.</p>
+               <p rend="justify">For you have been o'er bold—not vainly, nay,</p>
+               <p rend="justify">For truth, I know, must dare—but there may be</p>
+               <p rend="justify">More in this than you think.</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">And ere it rises</p>
+               <p rend="justify">I cravenly must quench the altar-fires</p>
+               <p rend="justify">That I attend—and our half-wedded joys?</p>
+               <p rend="justify">No! no! More revels!</p>
+               <p rend="justify">Till we shall utterly uncloud our bliss</p>
+               <p rend="justify">And leave remembrance not a stain upon it!</p>
+               <p rend="justify">A song, Tasso, a song!</p>
+               <p rend="justify">The taunting one that swept us into laughter!</p>
+               <p rend="justify">How runs it? did it not begin with Naples?</p>
+               <p rend="justify">(<hi rend="italic">Recalls it.</hi>)</p>
+               <p rend="justify">Naples sins and Torre pays,</p>
+               <p rend="justify">(Torre del Greco!)</p>
+               <p rend="justify">Who fears the earthquake all her days!</p>
+               <p rend="justify">(Torre del Greco!)</p>
+               <p rend="justify">Who....</p>
+               <lg>
+                  <l>[<hi rend="italic">Forgets.</hi>
+                  </l>
+                  <l>Who sits beneath Vesuvius</l>
+                  <l>And shrives the castaways of us!</l>
+                  <l>Naples sins and Torre pays,</l>
+               </lg>
+               <p rend="justify">(Torre del Greco!)</p>
+               <p rend="justify">On, on with it! Come Porzia!—On, on.</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Tasso</hi>  (<hi rend="italic">who has stood shrinking</hi>).</l>
+                  <l>Ah, Signor, no; I fear; I cannot; pray</l>
+                  <l>Your pardon. I must go.</l>
+                  <l>
+                     <hi rend="italic">Rizzio.</hi>
+                  </l>
+                  <l>Go!</l>
+                  <l>
+                     <hi rend="italic">Tasso.</hi>
+                  </l>
+                  <l>I would not</l>
+                  <l>Offend the Church—who is the Bride of Christ.</l>
+                  <l>
+                     <hi rend="italic">Rizzio</hi>  (<hi rend="italic">unaffected</hi>).</l>
+                  <l>Then off with you, unworthy follower</l>
+                  <l>Of Virgil,</l>
+                  <l>And of fire-veined Ariosto,—</l>
+                  <l>Of singers who have flung their hearts to courage,</l>
+                  <l>As yet we shall fling ours! (<hi rend="italic">Tasso goes.</hi>) For even Bianca</l>
+                  <l>And Osio</l>
+                  <l>Must rue now their alarm,</l>
+                  <l>And help us back from it to revelry.</l>
+                  <l>[<hi rend="italic">As he turns to them, then to all.</hi>
+                  </l>
+                  <l>What, none of you? no heart of joy about me?</l>
+                  <l>
+                     <hi rend="italic">Porzia</hi>  (<hi rend="italic">striving for abandon</hi>).</l>
+                  <l>Yes, Rizzio!... tho</l>
+                  <l>I would have you fly;</l>
+                  <l>For bodingly I breathe the breath of evil!</l>
+                  <l>[<hi rend="italic">With forced lightness.</hi>
+                  </l>
+                  <l>A dance, then!</l>
+                  <l>Again weave its delight!</l>
+                  <l>[<hi rend="italic">Dancers show cheer.</hi>
+                  </l>
+                  <l>For to your want mine is attuned, and what</l>
+                  <l>Is music to it shall o'ermaster me!</l>
+                  <l>And not alone my feet shall follow, but</l>
+                  <l>The Truth you fly to will I wing to attain!—</l>
+                  <l>Tho stars seem to my simple sight but candles</l>
+                  <l>Upon the altar of God, I'll think them worlds,</l>
+                  <l>If to your soul they seem so; and for the rest—</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">A knock brings consternation, this time to all. The dancers fall to crossing themselves, some kneeling. As they do so the gate is thrown open and Querio enters; he is followed by several guards.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Querio</hi>  (<hi rend="italic">advancing; amid awe</hi>).</p>
+               <p rend="justify">In the name of the</p>
+               <p rend="justify">Vicar of God who sits at Rome,</p>
+               <p rend="justify">And of the Holy Office, I arrest</p>
+               <p rend="justify">The giver of these pagan rites and revels.</p>
+               <p rend="justify">[<hi rend="italic">Guards step to Rizzio's side; he stands speechless.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">stunned</hi>).</p>
+               <p rend="justify">Oh, ... Oh!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">hoarsely</hi>).</p>
+               <p rend="justify">And at whose urgence, my lord Prelate,</p>
+               <p rend="justify">[<hi rend="italic">Starts forward.</hi>
+               </p>
+               <p rend="justify">I ask you at whose urgence this is done!</p>
+               <p rend="justify">This deed of churchly duty!... Yes, in justice</p>
+               <p rend="justify">I seek; for there has been</p>
+               <p rend="justify">Some traitor and perhaps a liar.—Osio?</p>
+               <p rend="justify">Bianca? (<hi rend="italic">fiercely</hi>) half, half I believe 't was you!</p>
+               <p rend="justify">[<hi rend="italic">All are appalled.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">No, no, Rizzio!... no!... what are you saying!</p>
+               <p rend="justify">[<hi rend="italic">Restrainingly.</hi>
+               </p>
+               <p rend="justify">Will you requite injustice with a worse?</p>
+               <p rend="justify">[<hi rend="italic">To Querio, who is unmoved.</hi>
+               </p>
+               <p rend="justify">Monsignor, this in truth is hunting haste,</p>
+               <p rend="justify">To search him out</p>
+               <p rend="justify">Upon his wedding-day,</p>
+               <p rend="justify">And bind him with the very wreaths of it!</p>
+               <p rend="justify">Could you not wait an eve, a night, until</p>
+               <p rend="justify">To-morrow when his nuptials would be o'er!</p>
+               <p rend="justify">
+                  <hi rend="italic">Querio.</hi>
+               </p>
+               <p rend="justify">Who weds two brides is bigamist, Signora.</p>
+               <p rend="justify">When he divorces heresy accuse me.</p>
+               <p rend="justify">But now say your farewells,</p>
+               <p rend="justify">And with a moment's privacy: that can</p>
+               <p rend="justify">I grant, that and no more: the rest's with Rome.</p>
+               <p rend="justify">[<hi rend="italic">Retires to rear—as do all but the two.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">whom dread now begins to overwhelm</hi>).</p>
+               <p rend="justify">My Rizzio! my own! I cannot bear it!</p>
+               <p rend="justify">O why did you not go, delaying till</p>
+               <p rend="justify">This fate has fallen</p>
+               <p rend="justify">Now like a pall upon us!</p>
+               <p rend="justify">I fear! I fear!...</p>
+               <p rend="justify">To be so wedded, ere I am a wife,</p>
+               <p rend="justify">Here in this city of dark lawless passions!</p>
+               <p rend="justify">[<hi rend="italic">Unrestrainedly.</hi>
+               </p>
+               <p rend="justify">Ah, can you not recant?</p>
+               <p rend="justify">Deny at once and so—</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Porzia!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Nay!</p>
+               <p rend="justify">And yet to have you leave me—</p>
+               <p rend="justify">Ere any nuptial night has hung our couch,</p>
+               <p rend="justify">Ere I have lain beside you in the dark</p>
+               <p rend="justify">And like Madonna dreamed of motherhood!</p>
+               <p rend="justify">Ah, ah, I cannot!...</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">with a thought</hi>).</p>
+               <p rend="justify">Then—listen to me.</p>
+               <p rend="justify">[<hi rend="italic">Osio starts, watching him.</hi>
+               </p>
+               <p rend="justify">I will return to you!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Return?</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Perchance.</p>
+               <p rend="justify">It may be. For with florins to the guard—</p>
+               <p rend="justify">With friendly gold—</p>
+               <p rend="justify">May he not be persuaded</p>
+               <p rend="justify">To bring me hither to you, for an hour</p>
+               <p rend="justify">At midnight—tho it be but for an hour?</p>
+               <p rend="justify">[<hi rend="italic">They look at each other.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Querio</hi>  (<hi rend="italic">suspiciously, coming down</hi>).</p>
+               <p rend="justify">Enough, Signor; the hour is running late.</p>
+               <p rend="justify">And there are here, may be,</p>
+               <p rend="justify">[<hi rend="italic">Sinisterly.</hi>
+               </p>
+               <p rend="justify">Some who are avid now to be at vespers.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">embracing Rizzio</hi>).</p>
+               <p rend="justify">Then go, my lord; farewell, and fear not for me,</p>
+               <p rend="justify">Since I shall toil only for your release.</p>
+               <p rend="justify">[<hi rend="italic">He goes, with Querio and guard. Porzia quails, then lets Marina lead her into the house. All follow but Bianca, Osio, and Matteo at gate.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca</hi>  (<hi rend="italic">as the twilight begins, to Osio</hi>).</p>
+               <p rend="justify">Now that you have achieved so much, what more?</p>
+               <p rend="justify">[<hi rend="italic">He does not answer; she also turns into house.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio</hi>  (<hi rend="italic">whom a turmoil of passions is tearing</hi>).</p>
+               <p rend="justify">What more?... God in His Heaven shall decide!...</p>
+               <p rend="justify">Doubts have I had—like swine of hell within me—</p>
+               <p rend="justify">But now He shall decide—</p>
+               <p rend="justify">If she's to be the mother of heretics ...</p>
+               <p rend="justify">Or if I, who acclaim the Creed, shall have her!</p>
+               <p rend="justify">[<hi rend="italic">Calls.</hi>
+               </p>
+               <p rend="justify">Matteo!</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">Signor—(<hi rend="italic">advancing</hi>) here.</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">You have done well.</p>
+               <lg>
+                  <l>And from to-night I take you to my service,</l>
+                  <l>With wages that shall gild you from a want,</l>
+                  <l>And with the benediction of the Church.</l>
+                  <l>But there is one thing more:</l>
+                  <l>Follow Monsignor Querio to the prison,</l>
+                  <l>Then to Signora Porzia return—</l>
+                  <l>And say her husband sent you</l>
+                  <l>To bid her be in the bower there at midnight.</l>
+                  <l>
+                     <hi rend="italic">Matteo</hi>  (<hi rend="italic">staring</hi>).</l>
+                  <l>But Signor, will she come?</l>
+                  <l>
+                     <hi rend="italic">Osio.</hi>
+                  </l>
+                  <l>Say that she is</l>
+                  <l>To speak no word—but keep to silence: go.</l>
+                  <l>[<hi rend="italic">With fixed face, when the latch clicks behind him.</hi>
+                  </l>
+                  <l>God shall decide, ...</l>
+                  <l>For if she does not know</l>
+                  <l>My arms from <hi rend="italic">his</hi>, then, it shall be a sign</l>
+                  <l>That to them and my bed ... she was predestined.</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">The dark grows. He turns soon to go, and the curtain falls.... But rises again at once and it is midnight; with only dim lights from the silent, sleeping city. As it does so Porzia with Marina comes out of the house. They pause and listen, Marina half-anxiously.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">drawing free</hi>).</p>
+               <p rend="justify">Return and have no fear, he soon will come,</p>
+               <p rend="justify">And bade me be alone there in the bower.</p>
+               <p rend="justify">The night is like a spell to draw him to me.</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Signora—!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Like a spell of living love.</p>
+               <p rend="justify">[<hi rend="italic">Crosses over, as one in a dream, and enters the bower. Marina goes, the gate opens, and Osio silently enters, coming down into the bower amorously. A long silence ... then slowly the </hi>
+                  <hi rend="italic">Curtain</hi>
+                  <hi rend="italic">.</hi>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>ACT II</label>
+               </head>
+               <p rend="justify">A Year Has Elapsed</p>
+               <p rend="justify">Scene: <hi rend="italic">A sala, or hall, in the house of Rizzio. Its spacious walls and ceiling are frescoed with Virgilian scenes of a simpler and more beautiful kind than was usual to the decaying art of the period, and its high-arched open doors in the rear look out upon the terrace of Act I, toward the city, the Bay, Vesuvius—the whole magic curve of the haunting coast.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Several antique terminal-statues, the bodies of which end strangely in their pedestals, stand on either side these doors, and about the hall a Venus and other rare objects of virtu recovered from the past are mingled with the furnishings of the room, which, arranged for joy and beauty, seems somehow sad when unoccupied, as now, tho the Neapolitan sun is shining brightly in from the blue</hi>.</p>
+               <p rend="justify">
+                  <hi rend="italic">An arrased doorway right leads thro a passage to the street gate, and one left to the penetralia of the house, from which Marina enters deeply troubled. She looks back, shakes her head, saying, "O my poor lady!" then crosses to door right, listens, and hearing nothing goes slowly to door rear, where she waits, singing sadly</hi>:</p>
+               <lg>
+                  <l>Shepherds down the mountain wind,</l>
+                  <l>Wild pipes play in the street.</l>
+                  <l>O Sicily, my Sicily,</l>
+                  <l>I long for thee, my Sweet!</l>
+                  <l>Once a year God takes his joy,</l>
+                  <l>And that great joy is Spring,</l>
+                  <l>He weds earth clad in blossom-robes,</l>
+                  <l>For His enrapturing!</l>
+                  <l>[<hi rend="italic">She stops, listening, then resumes</hi>:</l>
+                  <l>Once a year God takes his joy,</l>
+                  <l>And that—</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">She stops again hearing sounds at the gate, then is startled to paleness by the voice of Matteo; and as she listens a stern strong determination takes her.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">Basta! am I to pass! son of a dog!</p>
+               <p rend="justify">Snout of a swine! knave! door-bestriding fool!</p>
+               <p rend="justify">Have I not matters to her from my master,</p>
+               <p rend="justify">To the Signora, from her husband's brother?</p>
+               <p rend="justify">[<hi rend="italic">A scuffle.</hi>
+               </p>
+               <p rend="justify">The Devil's scullion feed you</p>
+               <p rend="justify">On flame, until your liver shrivels black!</p>
+               <p rend="justify">[<hi rend="italic">He has pushed past and enters the Hall insolently.</hi>
+               </p>
+               <p rend="justify">O-hé! who's here! I come from Signor Osio!</p>
+               <p rend="justify">[<hi rend="italic">Sees Marina.</hi>
+               </p>
+               <p rend="justify">The little Sicilian? Luck then is my slave!</p>
+               <p rend="justify">[<hi rend="italic">Going to her.</hi>
+               </p>
+               <p rend="justify">Well, pretty fig! my little red pomegranate!</p>
+               <p rend="justify">My fair forbidden fruit—pluckt in the moon!</p>
+               <p rend="justify">I've come ... (<hi rend="italic">stopped by her mien</hi>) But,</p>
+               <p rend="justify">Blood of the Holy Sepulchre!</p>
+               <p rend="justify">[<hi rend="italic">Looks around uncertainly.</hi>
+               </p>
+               <p rend="justify">What thing has happened here?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">That, Matteo,</p>
+               <p rend="justify">[<hi rend="italic">Speaks solemnly.</hi>
+               </p>
+               <p rend="justify">Which yet I do not know, and which I pray</p>
+               <p rend="justify">Madonna you may be as ignorant of.</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">Eh?... I, my beauty?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">You—who left this house</p>
+               <p rend="justify">A year ago to-night with Signor Osio,</p>
+               <p rend="justify">Left suddenly,</p>
+               <p rend="justify">To serve his wealth and pleasure,</p>
+               <p rend="justify">And who will leave it now as instantly,</p>
+               <p rend="justify">If he is not in need—of absolution.</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">Of ... (<hi rend="italic">starting</hi>) absolution?</p>
+               <p rend="justify">Body, now, of Bacchus!</p>
+               <p rend="justify">Does he not go to the Mass—and if he does not</p>
+               <p rend="justify">Am I a priest</p>
+               <p rend="justify">To know his need of purging?</p>
+               <p rend="justify">Or if he sins must I be damned with him?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">No, so the way from it—</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">The way! the way!</p>
+               <p rend="justify">I want no way, but in unto your mistress.</p>
+               <p rend="justify">Am I not sent here to her with commands?</p>
+               <p rend="justify">Ecco! and must I turn with them upon me,</p>
+               <p rend="justify">And say a wench denied me?</p>
+               <p rend="justify">Or that I feared</p>
+               <p rend="justify">Perchance to catch the fever</p>
+               <p rend="justify">Of heresy your master's shackled with?</p>
+               <p rend="justify">Pah, but you jest, my ruby rose of Aetna—</p>
+               <p rend="justify">[<hi rend="italic">Insinuatingly.</hi>
+               </p>
+               <p rend="justify">Whom yet I will not say but I will wed,</p>
+               <p rend="justify">Tho you are from that Paynim-breeding isle</p>
+               <p rend="justify">Of Sicily. You jest: so, in with you.</p>
+               <p rend="justify">I seek your lady.</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Seek ... and shall find more.</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">More! (<hi rend="italic">Struck by her tone</hi>.) And from what and whom?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">I wait Aloysius,</p>
+               <p rend="justify">The leech.</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">And that is what I am to fear?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">The child is ill.</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo</hi>  (<hi rend="italic">starting</hi>).</p>
+               <p rend="justify">The child!</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">My lady's child.</p>
+               <p rend="justify">[<hi rend="italic">With tenser solemnity.</hi>
+               </p>
+               <p rend="justify">For there has come of late into her mind</p>
+               <p rend="justify">A dread that has dried life within her breasts.</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo</hi>  (<hi rend="italic">who pales</hi>).</p>
+               <p rend="justify">And am I God, woman, to keep dread from her?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Tending to it a strangeness comes upon her,</p>
+               <p rend="justify">And with the sudden seizure of it, fear—</p>
+               <p rend="justify">Shudders of horror, instincts of some evil</p>
+               <p rend="justify">That she somehow has suffered, or committed—</p>
+               <p rend="justify">[<hi rend="italic">Pauses.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo</hi>  (<hi rend="italic">paler</hi>).</p>
+               <p rend="justify">What do you mean!</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">As one within a trance.</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">And do you mean—?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">A mood seizes her flesh</p>
+               <p rend="justify">That creeps against her will whene'er unto her</p>
+               <p rend="justify">The little one is pressed.</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo</hi>  (<hi rend="italic">trembling</hi>).</p>
+               <p rend="justify">This is a lie!</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">She cannot look upon it, but with terror,</p>
+               <p rend="justify">That brings remorse</p>
+               <p rend="justify">Awakening more terror!</p>
+               <p rend="justify">The blight of heresy, she strives to think</p>
+               <p rend="justify">Of her lord's heresy is sent upon her,</p>
+               <p rend="justify">Or of her own refusal, it may be,</p>
+               <p rend="justify">To wed the Convent, not the carnal world.</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">To you she said this?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Ah! and Madonna! her sleep!</p>
+               <p rend="justify">She walks with eyes wide open.</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">I say you lie.</p>
+               <p rend="justify">You do! as if Eternity were not,—</p>
+               <p rend="justify">[<hi rend="italic">Seizes her wrist.</hi>
+               </p>
+               <p rend="justify">To frighten me and Signor Osio!</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina</hi>  (<hi rend="italic">coldly, stingingly</hi>).</p>
+               <p rend="justify">And yet you understand? ha, understand?</p>
+               <p rend="justify">And hoarsely stare at words upon my lips</p>
+               <p rend="justify">That should be meaningless as moony madness?</p>
+               <p rend="justify">You penetrate</p>
+               <p rend="justify">What not the Pope himself,</p>
+               <p rend="justify">Nor any could, but with a guilty knowledge?</p>
+               <p rend="justify">There's villainy I say, and you are in it,</p>
+               <p rend="justify">The tool of a blind villain, who should be</p>
+               <p rend="justify">Where now his brother rots, but that the Church</p>
+               <p rend="justify">Is no more Christ's!</p>
+               <p rend="justify">Ah, ah! my nails could tear</p>
+               <p rend="justify">Your hated false caresses from my flesh,</p>
+               <p rend="justify">Your kisses from my memory and fling them</p>
+               <p rend="justify">Upon your wicked heart. And, for your master,</p>
+               <p rend="justify">The Virgin strangle him! She—or another!</p>
+               <p rend="justify">[<hi rend="italic">Meaningly.</hi>
+               </p>
+               <p rend="justify">Another!</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo</hi>  (<hi rend="italic">startled</hi>).</p>
+               <p rend="justify">What? what say you?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">That—one—will!</p>
+               <p rend="justify">For do not think such sins go unavenged.</p>
+               <p rend="justify">[<hi rend="italic">Starts to go.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">I say, what do you hint! Stand! there is more!</p>
+               <p rend="justify">[<hi rend="italic">Seizes her and clasps her to him.</hi>
+               </p>
+               <p rend="justify">More! and I'll have it, by the crater of Hell!</p>
+               <p rend="justify">More—and your lips shall tell it with a kiss.</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Off me! (<hi rend="italic">Struggling.</hi>) And if you do not get from here—</p>
+               <p rend="justify">[<hi rend="italic">Breaks free.</hi>
+               </p>
+               <p rend="justify">Before Signora Bianca—</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">Ah! Ahi!</p>
+               <p rend="justify">It has to do then with the Florentine?</p>
+               <p rend="justify">Who is as pagan as that devil Venus,</p>
+               <p rend="justify">[<hi rend="italic">Points to statue.</hi>
+               </p>
+               <p rend="justify">Yet prates to priests as subtly as my master</p>
+               <p rend="justify">Who will not play Love with her?</p>
+               <p rend="justify">By the Passion and Blood of God, has she again</p>
+               <p rend="justify">Gone jealous to Monsignor Querio,</p>
+               <p rend="justify">To get undone the doors of the Inquisition,</p>
+               <p rend="justify">So that your master ...? has she?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">They are open!—</p>
+               <p rend="justify">O would I who o'erheard might tell my lady!—</p>
+               <p rend="justify">And Signor Rizzio goes free to-day!</p>
+               <p rend="justify">Free to return here unto his own home!</p>
+               <p rend="justify">Free to cast from him a year's ignorance,</p>
+               <p rend="justify">A year's imprisonment beyond the pale</p>
+               <p rend="justify">Of any word or message</p>
+               <p rend="justify">And learn how on his wedding-day when he</p>
+               <p rend="justify">Was seized and on his wedding-night when he</p>
+               <p rend="justify">Expected to return.... At that you quail?</p>
+               <p rend="justify">Begone then, or—</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo</hi>  (<hi rend="italic">gnashing</hi>).</p>
+               <p rend="justify">The jealousy of women!</p>
+               <p rend="justify">Their hearts are devil-pots that ever boil.—</p>
+               <p rend="justify">But this is cud for Signor Osio,</p>
+               <p rend="justify">So get you in at once unto your mistress</p>
+               <p rend="justify">And say—</p>
+               <p rend="justify">
+                  <hi rend="italic">Enter</hi>  Bianca <hi rend="italic">suddenly in agitation</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca</hi>  (<hi rend="italic">looking about, with alarm</hi>).</p>
+               <p rend="justify">Where is my cousin? (<hi rend="italic">Calls</hi>) Porzia! Porzia!—</p>
+               <p rend="justify">She must return at once—unto the child:</p>
+               <p rend="justify">Her mood is perilous and must be pent.</p>
+               <p rend="justify">[<hi rend="italic">As they stare.</hi>
+               </p>
+               <p rend="justify">Did you not see her? (<hi rend="italic">Impatient.</hi>) Am I Proserpine</p>
+               <p rend="justify">To make such gaping ghosts of you? I say,</p>
+               <p rend="justify">Was she not here?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Signora—?</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">She hung, haunted,</p>
+               <p rend="justify">[<hi rend="italic">Searching again.</hi>
+               </p>
+               <p rend="justify">By the child's cradle—there a little since,</p>
+               <p rend="justify">But suddenly rose up and fled from it,</p>
+               <p rend="justify">Saying—she would wed death!</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Wed death! Signora!</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">Yes; I was near. Her words—that struck me stark.</p>
+               <p rend="justify">I could not speak. Do you know aught of this,</p>
+               <p rend="justify">You who have seen these dark distractions in her?</p>
+               <p rend="justify">Or does this ... drone of Signor Osio?</p>
+               <p rend="justify">[<hi rend="italic">Toward Matteo.</hi>
+               </p>
+               <p rend="justify">What brings him here?</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">Marina there.</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">Ha, yes!</p>
+               <p rend="justify">[<hi rend="italic">At door rear.</hi>
+               </p>
+               <p rend="justify">The honey from that flower—but what else?</p>
+               <p rend="justify">[<hi rend="italic">At door right.</hi>
+               </p>
+               <lg>
+                  <l>Marina, yes, for you have been with her</l>
+                  <l>Too often under the moon, but there is more</l>
+                  <l>Behind you than yourself. Your master has</l>
+                  <l>Not sent you?</l>
+                  <l>
+                     <hi rend="italic">Matteo.</hi>
+                  </l>
+                  <l>Yes, Signora. To your beauty</l>
+                  <l>He sends salute; and to your lady cousin</l>
+                  <l>Who ... O Signora, see! (<hi rend="italic">staring</hi>) upon the terrace!</l>
+                  <l>[<hi rend="italic">He has broken off awestruck.</hi>
+                  </l>
+                  <l>See, see! Oh, in her hand there is ... Oh!—oh!</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">They turn and behold Porzia trancedly approaching, a stiletto before her and her lips moving obliviously.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">And should I not, Madonna, if ... O should I?</p>
+               <p rend="justify">Would you in heaven not assuage and shrive me?</p>
+               <p rend="justify">Make the wound seem as holy as were Christ's?</p>
+               <p rend="justify">Miraculously make—</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">Porzia!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Make—(<hi rend="italic">dazed</hi>)</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">Porzia, do you dream!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">startled</hi>).</p>
+               <p rend="justify">Bianca! (<hi rend="italic">dropping blade</hi>) You?</p>
+               <p rend="justify">[<hi rend="italic">A pause.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">This speech to weapons! this distraction. What</p>
+               <p rend="justify">And whence and why is it? Your child—</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">quickly</hi>).</p>
+               <p rend="justify">Yes, yes!...</p>
+               <p rend="justify">[<hi rend="italic">A little incoherent.</hi>
+               </p>
+               <p rend="justify">I went into the garden to wait Aloysius,</p>
+               <p rend="justify">My uncle Aloysius, who is a leech.</p>
+               <p rend="justify">I have not slept.... What is it I am saying?</p>
+               <p rend="justify">[<hi rend="italic">Seeing Matteo.</hi>
+               </p>
+               <p rend="justify">Is that one come to tell—</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">He is the servant—</p>
+               <p rend="justify">Of Osio.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">with recoil</hi>).</p>
+               <p rend="justify">Of Osio?... Of Osio?</p>
+               <p rend="justify">[<hi rend="italic">Trembling.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">Signora, yes. He sends me with a message.</p>
+               <p rend="justify">He begs that he may see you.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">See?</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">Implores</p>
+               <p rend="justify">That this strange shrinking from him and aversion,</p>
+               <p rend="justify">This pale ... and unintelligible ... repulsion</p>
+               <p rend="justify">You have of late—</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Go back to him! go, go!</p>
+               <p rend="justify">[<hi rend="italic">Struggling: with solemn abhorrence.</hi>
+               </p>
+               <p rend="justify">And say I cannot see him. He is my brother,</p>
+               <p rend="justify">My husband's brother,</p>
+               <p rend="justify">Whom I pray to honor.</p>
+               <p rend="justify">And is much like my husband:</p>
+               <p rend="justify">A likeness that unreasonably, it may be,</p>
+               <p rend="justify">I shudder to look upon: and yet—</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">He bade me</p>
+               <p rend="justify">To say, Signora, nothing must prevent;</p>
+               <p rend="justify">That it concerns—</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">See him I will not, ever!</p>
+               <p rend="justify">[<hi rend="italic">With utter repugnance.</hi>
+               </p>
+               <p rend="justify">And cannot and should not tho he sought me in</p>
+               <p rend="justify">That time which lies beyond eternity,</p>
+               <p rend="justify">That space which is beyond the brink of all.</p>
+               <p rend="justify">What thing it is haunting his heart I know not.</p>
+               <p rend="justify">But in his presence all my flesh becomes</p>
+               <p rend="justify">A shudder of horror,</p>
+               <p rend="justify">All my soul a fear.</p>
+               <p rend="justify">My husband's brother is he, my poor husband's,</p>
+               <p rend="justify">But he.... Go, go!... and tell him that strange drawings</p>
+               <p rend="justify">And strange repulsions pass the hearts of those</p>
+               <p rend="justify">Whom grief has gathered upon; and that I who</p>
+               <p rend="justify">Upon my wedding-day had torn from me—</p>
+               <p rend="justify">[<hi rend="italic">Suddenly, uncontrollably.</hi>
+               </p>
+               <p rend="justify">Say, say I would he were not on the earth!</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca</hi>  (<hi rend="italic">amazed, suspicious</hi>).</p>
+               <p rend="justify">Porzia! what is this!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">I know not: go!</p>
+               <p rend="justify">[<hi rend="italic">He goes, then Marina, fearful. An over-fraught pause.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca</hi>  (<hi rend="italic">at length, jealously</hi>).</p>
+               <p rend="justify">For this there is a reason—and but one.</p>
+               <p rend="justify">You love, you love him!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Love ... whom?</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">Osio!</p>
+               <p rend="justify">Yet dare not so you draw him with denials,</p>
+               <p rend="justify">Knowing that to repel is to entrain him.</p>
+               <p rend="justify">[<hi rend="italic">As Porzia stares, stupefied.</hi>
+               </p>
+               <p rend="justify">O mockery of it! fools my eyes were, fools,</p>
+               <p rend="justify">That stood within my head and did not see!</p>
+               <p rend="justify">To me he spoke of love—yearning for you,</p>
+               <p rend="justify">And in me heard but echoes of you ... ever!</p>
+               <p rend="justify">Yet, since you loved him,</p>
+               <p rend="justify">Why unto his brother,</p>
+               <p rend="justify">A heretic o'erturning God with stars,</p>
+               <p rend="justify">Did you—</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">sinking to a divan</hi>).</p>
+               <p rend="justify">I pray you speak things possible,</p>
+               <p rend="justify">Tho to your sight I seem and to my own</p>
+               <p rend="justify">Like one unnatural beyond belief!</p>
+               <p rend="justify">A child I have whom fever now is burning,</p>
+               <p rend="justify">A husband all unhallowed in a prison ...</p>
+               <p rend="justify">Tho to my dreams last night he seemed to come.</p>
+               <p rend="justify">[<hi rend="italic">Bianca starts.</hi>
+               </p>
+               <p rend="justify">And so you must forgive me if blind shrinkings,</p>
+               <p rend="justify">That to your sight seem semblances of love,</p>
+               <p rend="justify">Unhelpably o'ertake me.</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">Then—confess</p>
+               <p rend="justify">Why Osio seeks you and why so you shun him?</p>
+               <p rend="justify">And with the child why are your ways so wild?</p>
+               <p rend="justify">You fear sometimes to touch it,</p>
+               <p rend="justify">As if it were another's, or at your breast</p>
+               <p rend="justify">Could only drink of horror.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">rising</hi>).</p>
+               <p rend="justify">Ah!... ah, ah!</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">Love is it, love, I say, of Osio,</p>
+               <p rend="justify">That motherhood itself cannot amend,</p>
+               <p rend="justify">And Rizzio shall hear of it—this day.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">He ... there in the darkness ... can hear naught!</p>
+               <lg>
+                  <l>Leave me, I pray, to wait Aloysius.</l>
+                  <l>Why comes he not?... Ah, and why do you rend me?</l>
+                  <l>For you would not indeed to Rizzio</l>
+                  <l>Add demon doubts ...</l>
+                  <l>Of me who am to him there in the night</l>
+                  <l>Sun, moon and the white galaxy of stars</l>
+                  <l>Such as not even Messer Bruno dreams....</l>
+                  <l>For, if you would, are you indeed Bianca</l>
+                  <l>Who, as a child, sang with me under the olives</l>
+                  <l>And cypresses; or watched with wonder eyes</l>
+                  <l>The fisherman draw marvels from the deep,</l>
+                  <l>Then homeward wing at eve to Ischia?</l>
+                  <l>I cannot think it!... yet ...!</l>
+                  <l>[<hi rend="italic">Again distraught.</hi>
+                  </l>
+                  <l>O what is it I dread! what thing has changed</l>
+                  <l>All natural thoughts within me to repugnance,</l>
+                  <l>All instincts and desires into terror?</l>
+                  <l>I cannot touch my flesh, but I turn cold</l>
+                  <l>As if I had touched pollution, cannot press</l>
+                  <l>My child unto my breasts, but ... true, Oh, true!...</l>
+                  <l>A madness whispers in me, "Take it away!"</l>
+                  <l>[<hi rend="italic">Staring, hauntedly.</hi>
+                  </l>
+                  <l>And too, and too ... in solitude the want</l>
+                  <l>Of Rizzio imprisoned comes to me;</l>
+                  <l>Yet when I reach for him I seem enclasped</l>
+                  <l>By unknown arms ... in the sere dark, that ... Oh!</l>
+                  <l>Now, now I feel them! off!</l>
+                  <l>[<hi rend="italic">A knock at the gate.</hi>
+                  </l>
+                  <l>(<hi rend="italic">Starting</hi>)Ah, ah, Aloysius!...</l>
+                  <l>With healing! he at last! (<hi rend="italic">moving toward door</hi>) Uncle, the child—</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">Stops rooted to the floor for Osio has suddenly entered. He does not speak, nor she, but only Bianca, who looks at them, uttering his name then turning goes.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio</hi>  (<hi rend="italic">at length, tortured</hi>).</p>
+               <p rend="justify">You shut me from your presence and your doors,</p>
+               <p rend="justify">My messages return to me unopened,</p>
+               <p rend="justify">My messengers unhonored—yet I've come,</p>
+               <p rend="justify">For speak to you I must, and utterly!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">gazing</hi>).</p>
+               <p rend="justify">Lord Jesu!</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Ai, Lord Jesu! let Him hear!</p>
+               <p rend="justify">For if ever He huddled in a Manger,</p>
+               <p rend="justify">Or hung, a red atonement, on the Cross—</p>
+               <p rend="justify">If you are not soul-bound to heresy,</p>
+               <p rend="justify">You must....</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Oh, oh! why are you here?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Why?... Peace!</p>
+               <p rend="justify">Can you not listen to me without terror</p>
+               <p rend="justify">Not look upon me</p>
+               <p rend="justify">Without eyes where awe</p>
+               <p rend="justify">Sits like a murdered thing, or without hands</p>
+               <p rend="justify">That flutter at your heart unfalteringly?</p>
+               <p rend="justify">I am your brother.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">I ... will hold you so.</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">But more than sister are you to my breast.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Ah!</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">More, and I would save you from the flames</p>
+               <p rend="justify">That bind you to a heretic and Hell.</p>
+               <p rend="justify">Nay, stay! do not start from me; stay, do not!</p>
+               <p rend="justify">But hear me, for not that alone has led me,</p>
+               <p rend="justify">Not that alone,</p>
+               <p rend="justify">But love unbearable—</p>
+               <p rend="justify">Such as not any lips in all the world</p>
+               <p rend="justify">Have sung, or any famed for it have breathed</p>
+               <p rend="justify">Upon the pagan pages of a book:</p>
+               <p rend="justify">For they were heathen all, in penance now</p>
+               <p rend="justify">Upon the sulphur winds that sweep Inferno,</p>
+               <p rend="justify">While I—</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">whose look stops him</hi>).</p>
+               <p rend="justify">While, you, you, inordinate,</p>
+               <p rend="justify">Speak baseness so unto your brother's wife?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">His, no! no more! no more! for heresy</p>
+               <p rend="justify">Has rent from him all rights, therefore I dare</p>
+               <p rend="justify">To hunger for you, and to pledge the Pope</p>
+               <p rend="justify">Will grant us dispensation—</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Oh! Oh, oh!</p>
+               <p rend="justify">[<hi rend="italic">Overwhelmed with loathing.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">You will not heed it, will not come with me?</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Madonna, wash his words out of my brain,</p>
+               <p rend="justify">[<hi rend="italic">Her hands lifted.</hi>
+               </p>
+               <p rend="justify">And from my memory purge their pollution!</p>
+               <p rend="justify">(<hi rend="italic">To him</hi>) Go, go!...</p>
+               <p rend="justify">And may the poison of you never pass</p>
+               <p rend="justify">Across my sight again.</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">It will—to save you,</p>
+               <p rend="justify">For mine you are—God wills it!—and ... have been!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Oh!</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Have!—it was predestined—by His breath.</p>
+               <p rend="justify">Was he to see you mate a heretic,</p>
+               <p rend="justify">Or from your body spring the Anti-Christ?</p>
+               <p rend="justify">A year ago you wedded one, and I</p>
+               <p rend="justify">Was ready with the hands of the Inquisition.</p>
+               <p rend="justify">They seized him with his pagan pride upon him,</p>
+               <p rend="justify">And from this house of feasting and of flowers</p>
+               <p rend="justify">He went. You had a message brought from Matteo</p>
+               <p rend="justify">Saying he would return to you at midnight.</p>
+               <p rend="justify">I came, and in the darkness of the bower,</p>
+               <p rend="justify">Which God made darker,</p>
+               <p rend="justify">You took my arms for his!—were mine, were mine!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">who has sunk to a seat, rising</hi>).</p>
+               <p rend="justify">Never!—But now I know what I have feared,</p>
+               <p rend="justify">What dread it is invisibly has bound me—</p>
+               <p rend="justify">Invisibly, unvariably!... I know,</p>
+               <p rend="justify">And so shall break it!</p>
+               <p rend="justify">Your thought has been to shadow me about</p>
+               <p rend="justify">With this unceasing thing, to make me so</p>
+               <p rend="justify">Believe—and so obtain me!</p>
+               <p rend="justify">Your voice, eyes, lips and being with this purpose</p>
+               <p rend="justify">Have held my soul unswervably to fear,</p>
+               <p rend="justify">But now it is free! free, free!</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">And will be when</p>
+               <p rend="justify">Rizzio comes?</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Rizzio?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Out of prison?</p>
+               <p rend="justify">[<hi rend="italic">As she gazes at him.</hi>
+               </p>
+               <p rend="justify">I tell you the child is mine! for Rizzio</p>
+               <p rend="justify">Returned not to you. Mine, mine, and you must</p>
+               <p rend="justify">Protect it and yourself.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">From—?... do you mean?</p>
+               <p rend="justify">O do you mean that he may come? that you</p>
+               <p rend="justify">Expect him, O and soon? and that Bianca—?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I mean no mysteries, but that the child</p>
+               <p rend="justify">Is mine—</p>
+               <p rend="justify">And you may be—</p>
+               <p rend="justify">And all be well.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">But he will come? you have some intimation?</p>
+               <p rend="justify">Some waft of his release, some prescience?</p>
+               <p rend="justify">But say it and I will forgive you all!</p>
+               <p rend="justify">Say that my arms once more shall clasp him to me!</p>
+               <p rend="justify">Say that my heart once more shall beat to his!</p>
+               <p rend="justify">Say that my eyes once more shall drink the dawn</p>
+               <p rend="justify">From his, and I—</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Be still. For if you will not</p>
+               <p rend="justify">Now, now be mine, one thing must be assured</p>
+               <p rend="justify">Beyond the sway of peril:</p>
+               <p rend="justify">It must be kept from him there is a child.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Never! but I will lay it in his arms,</p>
+               <p rend="justify">Unto the cradle of his bosom bring it—</p>
+               <p rend="justify">While I have hands of purity to lift it—</p>
+               <p rend="justify">And—</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Have him fling it forth? Hush! what is here?</p>
+               <p rend="justify">[<hi rend="italic">A knocking at the gate: amazed cries: then Rizzio's voice.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Rizzio! Rizzio! Rizzio!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">without</hi>).</p>
+               <p rend="justify">Porzia! Porzia!</p>
+               <p rend="justify">[<hi rend="italic">He enters, weak and worn, in tattered raiment, and comes down to where she gazes too overcome to embrace him.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">My Porzia! (<hi rend="italic">With a clasp.</hi>) O do I look upon you,</p>
+               <p rend="justify">Not on some prison vision that will vanish</p>
+               <p rend="justify">Between my arms to nothingness of air?</p>
+               <p rend="justify">Some wan and hollow haunting of the night?</p>
+               <p rend="justify">Look up into my soul and speak to me</p>
+               <p rend="justify">With eyes that are incarnate songs of love!</p>
+               <p rend="justify">Ah, what, you cannot?</p>
+               <p rend="justify">The swiftness of my coming has undone you?</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">No, no!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Then give reality to dreams,</p>
+               <p rend="justify">Linking your lips to mine!... Oh, oh! at last!</p>
+               <p rend="justify">At last I know I live</p>
+               <p rend="justify">And am more than</p>
+               <p rend="justify">A madness in miasmic night immured!</p>
+               <p rend="justify">And that eternity of want can end—</p>
+               <p rend="justify">Upon your breast—within this house where—(<hi rend="italic">Seeing Osio</hi>) You?</p>
+               <p rend="justify">[<hi rend="italic">With inexplicable antagonism.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I ... and I have no welcome for you, knowing</p>
+               <p rend="justify">That heresy is still hot in your heart.</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">For which you with accursèd joy are glad?...</p>
+               <p rend="justify">[<hi rend="italic">Osio goes rankling into garden.</hi>
+               </p>
+               <p rend="justify">What does he here, my Porzia? what does he?</p>
+               <p rend="justify">[<hi rend="italic">Troubled.</hi>
+               </p>
+               <p rend="justify">Has he been much with you? Sometimes there in</p>
+               <p rend="justify">My fetters I have fought strange dreams of him,</p>
+               <p rend="justify">Battled against him as against a brood</p>
+               <p rend="justify">Of elemental horrors and contagion.</p>
+               <p rend="justify">Yet when I would awake—</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">clinging fearfully</hi>).</p>
+               <p rend="justify">My Rizzio!...</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Ai, yours! when hope was darkest, when the links</p>
+               <p rend="justify">Of wolvish steel were feeding on my bone.</p>
+               <p rend="justify">[<hi rend="italic">Holds out wrists.</hi>
+               </p>
+               <p rend="justify">Or like a python wound me as I slept.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">The pity of my heart and lips shall heal them.</p>
+               <p rend="justify">[<hi rend="italic">With caresses.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">They and the passion of you, and the peace</p>
+               <p rend="justify">And beauty of your body and your soul,</p>
+               <p rend="justify">That were torn from me at the very altar,</p>
+               <p rend="justify">But now—purer for waiting—shall be mine.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">trembling</hi>).</p>
+               <p rend="justify">Yes, yes, Rizzio!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Say, say it again!</p>
+               <lg>
+                  <l>For oh, the jealous fears that have defiled me,</l>
+                  <l>The visions I have called a lie in vain,</l>
+                  <l>The hot hands I have seen laid on your beauty!</l>
+                  <l>[<hi rend="italic">To her look of helplessness.</hi>
+                  </l>
+                  <l>O say it! for you gaze—as if you could not!</l>
+                  <l>As if ... O what is wringing you! You can</l>
+                  <l>Not say it—that no arms but mine have held you,</l>
+                  <l>No lips but mine have ever lingered, ever—?</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">A pitiful cry of distress breaks from within, then a hurry of feet and Marina rushes on anguished.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">My lady! O my lady!... the child! the child!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia</hi>  (<hi rend="italic">swaying</hi>).</p>
+               <p rend="justify">What is it? Speak!</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">My lady, it is dead!</p>
+               <p rend="justify">[<hi rend="italic">A wild pause.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Dead? dead? my child? my little one? my own?</p>
+               <p rend="justify">My baby?... Oh; oh, oh!... oh, oh, oh, oh!</p>
+               <p rend="justify">[<hi rend="italic">She stretches her arms distractedly before her and goes.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">who has staggered, dazed, and is frenziedly realizing</hi>).</p>
+               <p rend="justify">God, God, the madness ... is this then the madness....</p>
+               <p rend="justify">At last!...</p>
+               <p rend="justify">Her child? her child? and I—never a husband?</p>
+               <p rend="justify">She has a child and I am childless! I!...</p>
+               <p rend="justify">Have I been tricked, beaten, betrayed, undone,</p>
+               <p rend="justify">Duped by a lie of low inconstancy.</p>
+               <p rend="justify">[<hi rend="italic">To Marina.</hi>
+               </p>
+               <p rend="justify">Speak, quean!</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">O sir, I know not what to say!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Tho truth bays wild, fool-face!</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Sir, sir, I cannot!</p>
+               <p rend="justify">But hold, I pray you! for she is ... she ... Ah!</p>
+               <p rend="justify">[<hi rend="italic">Has cried out, for the curtains have parted and Porzia is entering—the dead child in her arms, her eyes gazing sightlessly.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">who looks at her, racked, laughs wildly, then rushes to door</hi>).</p>
+               <p rend="justify">At last, at last the heretic's in Hell!</p>
+               <p rend="justify">[<hi rend="italic">Breaks past Aloysius entering, and is gone.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Marina</hi>  (<hi rend="italic">to the leech</hi>).</p>
+               <p rend="justify">O Signor Aloysius, my poor, poor lady!</p>
+               <p rend="justify">[<hi rend="italic">Weeping.</hi>
+               </p>
+               <p rend="justify">My lady! O what now, what now shall heal her!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">Go in, prepare her bed, and I will bring her.</p>
+               <p rend="justify">In, in, I say! (<hi rend="italic">as she goes; to the mother</hi>) Porzia!</p>
+               <p rend="justify">[<hi rend="italic">Gently.</hi>
+               </p>
+               <p rend="justify">[<hi rend="italic">She does not answer.</hi>
+               </p>
+               <p rend="justify">Come, Porzia!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Yes, yes; is the grave ready?</p>
+               <p rend="justify">Then let the clod fall softly, and the shroud</p>
+               <p rend="justify">Not wake him, for he sleeps. And let there be</p>
+               <p rend="justify">Some orange blossoms too ... some orange blossoms!</p>
+               <p rend="justify">[<hi rend="italic">She permits him to lead her in, still gazing before her.</hi>
+               </p>
+               <p rend="justify">Curtain.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>ACT III</label>
+               </head>
+               <p rend="justify">Night of the Next Day</p>
+               <p rend="justify">Scene: <hi rend="italic">The terrace of Act I, but lit wanly now by the moon, whose sheen is cast like a pall over the city and kindles the Bay to quivering silver. Thro the open door of the house and from the window of Porzia's chamber which is just above the image of the Virgin, light falls streaming toward the Pan and toward the deeply shadowed bower. A stone seat is set to the front centre.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio, haunted and desperate, stands without the bower, watching Matteo who is stealthily coming down from the pedestal of the Virgin where he has climbed to listen, and who crosses the terrace to him.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Her words! give me her words—and them alone!</p>
+               <p rend="justify">What were they?</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">I could learn no more, Signor.</p>
+               <p rend="justify">The fever is tossing her.</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">To peril of death?</p>
+               <p rend="justify">She is sinking now down into ceaseless Hell,</p>
+               <p rend="justify">Where he shall follow?</p>
+               <p rend="justify">Is swooning low to it?</p>
+               <p rend="justify">And to eternal flame?</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">I do not know.</p>
+               <p rend="justify">But burningly she sleeps. (<hi rend="italic">Uneasily.</hi>) Shall we not go?</p>
+               <p rend="justify">[<hi rend="italic">Looks around.</hi>
+               </p>
+               <p rend="justify">For if we here are found—</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">They have not brought her</p>
+               <p rend="justify">The Sacrament?</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">No priest is there, Signor.</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">The child, she asks for it?</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">I seemed to hear</p>
+               <p rend="justify">Signora Bianca say that since the morning</p>
+               <p rend="justify">When it was borne in secret to the tomb</p>
+               <p rend="justify">She has not.</p>
+               <p rend="justify">But still her moan's of Signor Rizzio,</p>
+               <p rend="justify">Who has not yet returned, tho still they seek him.</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio</hi>  (<hi rend="italic">bitterly</hi>).</p>
+               <p rend="justify">Her blood be on his head! upon his head!</p>
+               <p rend="justify">And not on mine, that has not swayed to schism,</p>
+               <p rend="justify">If death is calling now for her damnation.</p>
+               <p rend="justify">No, I am pure of it!</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">But should he come?</p>
+               <p rend="justify">[<hi rend="italic">Again looks around.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">I'll fear him not. Never! For odium</p>
+               <p rend="justify">It were to God that I a moment should—</p>
+               <p rend="justify">Him black with unbelief!</p>
+               <p rend="justify">But come he will not ... since he left deluded.</p>
+               <p rend="justify">Or if he should a voice has pledged to me</p>
+               <p rend="justify">Full absolution if—</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">What, Signor?</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Peace!</p>
+               <p rend="justify">He will not. So again mount up!</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo</hi>  (<hi rend="italic">unwillingly</hi>).</p>
+               <p rend="justify">Signor!</p>
+               <p rend="justify">
+                  <hi rend="italic">Osio.</hi>
+               </p>
+               <p rend="justify">Mount, mount, and strain the most to get me more.</p>
+               <p rend="justify">[<hi rend="italic">Matteo loathly crosses and again ascends the pedestal. But scarcely has done so when a knock comes at the gate. He steps down into the shadow of the image—Osio into bower. Then Marina appears from the house hesitantly.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Who knocks? Signor Aloysius, is it you?</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">Ai, ai! and weary: open!</p>
+               <p rend="justify">[<hi rend="italic">Being admitted.</hi>
+               </p>
+               <p rend="justify">This day! this day!</p>
+               <p rend="justify">The search till he was found; and then the toil—</p>
+               <p rend="justify">The patient physic poured</p>
+               <p rend="justify">Vainly it seemed unto the proud or poor.</p>
+               <p rend="justify">[<hi rend="italic">Taking off medicine pouch.</hi>
+               </p>
+               <p rend="justify">But it at last is done. Now, the relief—</p>
+               <p rend="justify">He came reluctant? and to her outpoured</p>
+               <p rend="justify">A lava of wild purpose and revenge</p>
+               <p rend="justify">When he was told?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">He? (<hi rend="italic">Staring.</hi>) Signor Rizzio?</p>
+               <p rend="justify">You have not brought him?</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">Brought? Is he not here?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina</hi>  (<hi rend="italic">dismayed</hi>).</p>
+               <p rend="justify">Signor!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">But how? but how? (<hi rend="italic">dropping pouch.</hi>) Not he? and Bruno?</p>
+               <p rend="justify">Who had been with him,</p>
+               <p rend="justify">Whom he had but left</p>
+               <p rend="justify">To search, sudden it seemed, for Osio?</p>
+               <p rend="justify">Not Bruno! whom I pledged to find and lead him</p>
+               <p rend="justify">Here to her—since we learned that Osio</p>
+               <p rend="justify">Has fled from Naples?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Signor, neither! none!</p>
+               <p rend="justify">[<hi rend="italic">Involuntarily.</hi>
+               </p>
+               <p rend="justify">O he must come, or she will die!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">... Die?...</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">New evils gather ever in vendetta!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">You run from them too rapidly to death,</p>
+               <p rend="justify">Which comes but when it will—and not from sleep</p>
+               <p rend="justify">In which I left her.</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">But her sleep has grown</p>
+               <p rend="justify">To fever that has flowed into her brain!</p>
+               <p rend="justify">Her heart is full of moans,</p>
+               <p rend="justify">Her lips of murmurs!</p>
+               <p rend="justify">She tore the crucifix from off her neck</p>
+               <p rend="justify">And flung it from her, saying that it was</p>
+               <p rend="justify">The arms of Osio; and then cried out</p>
+               <p rend="justify">That she was virgin and immaculately</p>
+               <p rend="justify">Had borne a child, that now was laid in the tomb,</p>
+               <p rend="justify">But should arise again. Then would she start</p>
+               <p rend="justify">And say there is no God, but only stars,</p>
+               <p rend="justify">But stars, a heaven of stars! For which Signora</p>
+               <p rend="justify">Bianca ignorant arose and chid her.</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">And all unduly did! This must be stayed,</p>
+               <p rend="justify">Not made immedicable.</p>
+               <p rend="justify">Go in; prepare the herbs that I left with you.</p>
+               <p rend="justify">[<hi rend="italic">She goes—as he stands pondering—past Bianca, who enters.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca</hi>  (<hi rend="italic">pausing, then with resolute bitterness</hi>).</p>
+               <p rend="justify">So you have come and have not brought him? Well,</p>
+               <p rend="justify">The insult of this secrecy must end,</p>
+               <p rend="justify">The shrouding and affronting soil of it.</p>
+               <p rend="justify">I'll sift in doubt no more, but have the truth.</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">Signora?</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">O, fatality's in the world,</p>
+               <p rend="justify">From atom to infinity it may be,</p>
+               <p rend="justify">But there is also sinning. Which is this?</p>
+               <p rend="justify">And whence is it</p>
+               <p rend="justify">If she though sunk in sleep</p>
+               <p rend="justify">Says ever "I must go into the bower!"</p>
+               <p rend="justify">And ever with elusive lips "the bower!"</p>
+               <p rend="justify">Whom would she meet?</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">The bower?</p>
+               <p rend="justify">
+                  <hi rend="italic">Bianca.</hi>
+               </p>
+               <p rend="justify">Whom! or if</p>
+               <p rend="justify">No guilt is in her why this grievous haunting?</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <lg>
+                  <l>I will go to her.</l>
+                  <l>
+                     <hi rend="italic">Bianca</hi>  (<hi rend="italic">angrily</hi>).</l>
+                  <l>So to evade confessing?</l>
+                  <l>To avoid granting</l>
+                  <l>That it is Osio?</l>
+                  <l>That it is he has been her paramour?</l>
+                  <l>That he it is has plundered her with passion—</l>
+                  <l>Whose proof is the child</l>
+                  <l>Which Heaven has struck dead?</l>
+                  <l>Will go? Nor first deny</l>
+                  <l>That rightly Rizzio has turned from her</l>
+                  <l>And now perchance is seeking Osio——</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">Breaks off, for the gate opens and Rizzio slowly enters. A deadly purpose is on him as he looks around.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">at length</hi>).</p>
+               <p rend="justify">You clothe my thought,</p>
+               <p rend="justify">Bianca, in the flesh</p>
+               <p rend="justify">Of speech that I have shunned: but we shall know——</p>
+               <p rend="justify">Soon know, for I have tracked him to this gate.</p>
+               <p rend="justify">[<hi rend="italic">To Aloysius, solemnly.</hi>
+               </p>
+               <p rend="justify">Where is he?</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius</hi>  (<hi rend="italic">amazed</hi>).</p>
+               <p rend="justify">He?... Osio?</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">So! reveal him!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">But—this is error!... he is gone from Naples!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Or wrapped in lies is hidden here for her?</p>
+               <p rend="justify">By the very God of the world, I say—— (<hi rend="italic">With restraint.</hi>) But ... no!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">And "no" until you trust it! For her fate</p>
+               <p rend="justify">Is not as you suppose.</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Nor his? Nor he!</p>
+               <p rend="justify">This bigot whose religion's lechery?</p>
+               <p rend="justify">This monk to whom licentiousness is God?</p>
+               <p rend="justify">This monster I illimitably loathe?</p>
+               <p rend="justify">[<hi rend="italic">Searching as he speaks.</hi>
+               </p>
+               <p rend="justify">I say that he is here; that I will find him;</p>
+               <p rend="justify">That, I have tracked him to you, and ... (<hi rend="italic">suddenly</hi>) Aha!</p>
+               <p rend="justify">[<hi rend="italic">Discovers Matteo under image.</hi>
+               </p>
+               <p rend="justify">Aha! from Naples he is gone? from Naples?</p>
+               <p rend="justify">[<hi rend="italic">Drawing Matteo forth.</hi>
+               </p>
+               <p rend="justify">But leaves his shadow here?</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo</hi>  (<hi rend="italic">terrified</hi>).</p>
+               <p rend="justify">Signor! Signor!</p>
+               <p rend="justify">[<hi rend="italic">Cringes.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">From Naples he is sped, but at the feet</p>
+               <p rend="justify">Of the Virgin he adores drops this devotion?</p>
+               <p rend="justify">[<hi rend="italic">Slowly, terribly.</hi>
+               </p>
+               <p rend="justify">Unpitiable toad—of filth begotten!</p>
+               <p rend="justify">Pander who should go down into the Pit</p>
+               <p rend="justify">And be the go-between of burning lusts,</p>
+               <p rend="justify">Where lurks he?</p>
+               <p rend="justify">
+                  <hi rend="italic">Matteo.</hi>
+               </p>
+               <p rend="justify">Signor! (<hi rend="italic">chokes</hi>) Signor! I will show.</p>
+               <p rend="justify">You shall have all; but let me live, Signor.</p>
+               <p rend="justify">I have a father crippled who would starve</p>
+               <p rend="justify">But for the gold I get....</p>
+               <p rend="justify">And she, Signora Porzia's innocent.</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">And virgin too! with that obliteration</p>
+               <p rend="justify">You'll clothe her! Heaven's Queen, do I not know</p>
+               <p rend="justify">What Nature and conception are!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius</hi>  (<hi rend="italic">trembling</hi>).</p>
+               <p rend="justify">Ai, so!</p>
+               <p rend="justify">And of them there is no denial here.</p>
+               <p rend="justify">That she has given birth, herself has told you,</p>
+               <p rend="justify">Herself.... The child <hi rend="italic">was</hi>  hers, but——</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Born of miracles</p>
+               <p rend="justify">And of imaginations and of dreams?</p>
+               <p rend="justify">Is this Judea</p>
+               <p rend="justify">And a day divine,</p>
+               <p rend="justify">Not Italy and unregeneration,</p>
+               <p rend="justify">Where God deputes the world to Borgias?</p>
+               <p rend="justify">The father of it was he—he and no other!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">But in her innocence she—</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Yielded! Yielded!</p>
+               <p rend="justify">And clung to him as the harlot moon to earth.</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">No, no!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Thro nights and nights!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">Never; but duped</p>
+               <p rend="justify">And unaware she took his arms for yours,</p>
+               <p rend="justify">Believed, tho by yon moon, I know not how,</p>
+               <p rend="justify">Unless she was entranced,</p>
+               <p rend="justify">That you had come to meet her in the bower,</p>
+               <p rend="justify">And——</p>
+               <p rend="justify">Marina <hi rend="italic">enters suddenly terrified</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Signor! Signor Aloysius! O quick!</p>
+               <p rend="justify">O come to her! She has arisen!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">Risen!</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">O, in her sleep! and will not to her bed</p>
+               <p rend="justify">Return, but says with eyes empty of sight</p>
+               <p rend="justify">That it is time——</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius.</hi>
+               </p>
+               <p rend="justify">For what?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina</hi>  (<hi rend="italic">hesitant, distressed</hi>).</p>
+               <p rend="justify">To ... meet him in</p>
+               <p rend="justify">The bower!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius</hi>  (<hi rend="italic">quickly</hi>).</p>
+               <p rend="justify">I will come to her.</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio</hi>  (<hi rend="italic">burningly</hi>).</p>
+               <p rend="justify">Ah! ah!</p>
+               <p rend="justify">[<hi rend="italic">Starts before him.</hi>
+               </p>
+               <p rend="justify">And drug her now with opiates to prevent her?</p>
+               <p rend="justify">Or waken her and bid her to deny?</p>
+               <p rend="justify">Did I not deem it? and will you feign further?</p>
+               <p rend="justify">Did I not say that Osio is here?</p>
+               <p rend="justify">There in the bower is he, there! and she</p>
+               <p rend="justify">Has planned to meet him.</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">Signor! no! no, no!</p>
+               <p rend="justify">'Tis you that she would meet!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">And not this croucher,</p>
+               <p rend="justify">[<hi rend="italic">Of Matteo.</hi>
+               </p>
+               <p rend="justify">Who is alone and purposeless? not he?</p>
+               <p rend="justify">Nor him he pledges craven to reveal?</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">O, Signor, no!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Lies! and a world of lies!</p>
+               <p rend="justify">[<hi rend="italic">His words writhing.</hi>
+               </p>
+               <p rend="justify">And now you shall not hold her: she shall come:</p>
+               <p rend="justify">Shall go into the bower. She shall take him</p>
+               <p rend="justify">Before your very breath unto her breast.</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">But, Signor, she is asleep.</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Go, lead her.</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">She</p>
+               <p rend="justify">Knows not what she is doing!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">She shall learn!</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">O Signor, no, no, no!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <lg>
+                  <l>I tell you, then,</l>
+                  <l>[<hi rend="italic">Starting toward house.</hi>
+                  </l>
+                  <l>That truth is still my star, and that no shrinking</l>
+                  <l>Shall stay me, tho all night contains would quench it.</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">Is near door, when Porzia herself like a wraith appears—and at the same time Osio is seen in the entrance to bower. Before Porzia's sleep-fixed eyes Rizzio falls back: her somnambulant speech breaks faintly.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">The night is as a spell. No more of physic.</p>
+               <p rend="justify">Return unto your couch. The Inquisition?</p>
+               <p rend="justify">To take him? from his very nuptials take him?</p>
+               <p rend="justify">He is no bigamist, Monsignor Querio.</p>
+               <p rend="justify">[<hi rend="italic">Pauses.</hi>
+               </p>
+               <p rend="justify">Yes, Rizzio, at midnight!... Yes.—Ever</p>
+               <p rend="justify">The arms of Osio round me instead!</p>
+               <p rend="justify">This choking shroud of fever that defiles!</p>
+               <p rend="justify">[<hi rend="italic">Moans, trying to throw it off.</hi>
+               </p>
+               <p rend="justify">But, peace; the child will wake. My little one,</p>
+               <p rend="justify">My baby!... lift the candle to its face.</p>
+               <p rend="justify">[<hi rend="italic">Again moaning.</hi>
+               </p>
+               <p rend="justify">O that is Osio, not Rizzio,</p>
+               <p rend="justify">I see within its eyes! Yet do not kill him,</p>
+               <p rend="justify">No, Rizzio, do not kill him, tho he is</p>
+               <p rend="justify">Your brother and has done it: I have borne</p>
+               <p rend="justify">Too much and they would prison you again.</p>
+               <p rend="justify">Or if they did not, still the stars we love</p>
+               <p rend="justify">Must not turn into ... drops of bloody vengeance!—</p>
+               <p rend="justify">But, peace to this! (<hi rend="italic">moves forward</hi>) for it is time to meet him.</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina</hi>  (<hi rend="italic">withholdingly</hi>).</p>
+               <p rend="justify">Signora!</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Time to meet him in the bower.</p>
+               <p rend="justify">[<hi rend="italic">Is nearing it.</hi>
+               </p>
+               <p rend="justify">For now he is returned and all the night</p>
+               <p rend="justify">Is like a spell to draw my soul unto him.</p>
+               <p rend="justify">[<hi rend="italic">With Osio before her.</hi>
+               </p>
+               <p rend="justify">Yes, Rizzio, I come; you see, I ... I ...</p>
+               <p rend="justify">[<hi rend="italic">Is reaching her arms to him when a shudder takes her. Her hand goes up to her brow and her gaze wanly flutters. Then suddenly her trance breaks and she shrinks screaming.</hi>
+               </p>
+               <p rend="justify">It is not he! not Rizzio! Not he!</p>
+               <p rend="justify">Marina! Bianca! Help! not he! help; help!</p>
+               <p rend="justify">[<hi rend="italic">Sinks wildly back to the seat.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Marina</hi>  (<hi rend="italic">who runs to her</hi>).</p>
+               <p rend="justify">Signora, no! not he! not he! but we</p>
+               <p rend="justify">Are here and he is come and you shall see him.</p>
+               <p rend="justify">[<hi rend="italic">Kneeling.</hi>
+               </p>
+               <p rend="justify">See, you have dreamed!...</p>
+               <p rend="justify">
+                  <hi rend="italic">Aloysius</hi>  (<hi rend="italic">by her</hi>).</p>
+               <p rend="justify">And have awakened, Porzia,</p>
+               <p rend="justify">Awakened from imaginings and terrors;</p>
+               <p rend="justify">For you are ill....</p>
+               <p rend="justify">
+                  <hi rend="italic">Marina.</hi>
+               </p>
+               <p rend="justify">And knew not what you did!...</p>
+               <p rend="justify">But now look round you and all shall be well.</p>
+               <p rend="justify">[<hi rend="italic">She looks and, finding Rizzio, rises again bewildered.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Marina</hi>  (<hi rend="italic">who understands</hi>).</p>
+               <p rend="justify">It now is he, Signora; do not fear.</p>
+               <p rend="justify">
+                  <hi rend="italic">Porzia.</hi>
+               </p>
+               <p rend="justify">Rizzio! Rizzio! Rizzio!</p>
+               <p rend="justify">
+                  <hi rend="italic">Rizzio.</hi>
+               </p>
+               <p rend="justify">Porzia!</p>
+               <lg>
+                  <l>[<hi rend="italic">He sobs.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Porzia.</hi>
+                  </l>
+                  <l>O, is it dreams? I pray do not deceive me.</l>
+                  <l>I think that it is he, but O so many</l>
+                  <l>My thoughts have been and full of pain to me</l>
+                  <l>That truth shall never more, alas, be true,</l>
+                  <l>Or trust be ever utter trust again</l>
+                  <l>Till peace has come to me as pure as that</l>
+                  <l>To earth, from the rainbow's woven amulet</l>
+                  <l>Upon the brow of God—peace wed to kindness.</l>
+                  <l>And to deceive me now were less than kind!</l>
+                  <l>
+                     <hi rend="italic">Rizzio.</hi>
+                  </l>
+                  <l>My Porzia! (<hi rend="italic">Falls weeping at her feet.</hi>)</l>
+                  <l>Deceit at last is o'er!</l>
+                  <l>And not he, even he, who wrought this wrong</l>
+                  <l>And who would forge that rainbow into fetters,</l>
+                  <l>Till I could wish</l>
+                  <l>The eternal tooth of pain</l>
+                  <l>And of remorse should tear him—not he, now,</l>
+                  <l>[<hi rend="italic">Rising; to Osio.</hi>
+                  </l>
+                  <l>Shall turn my heart from love unto revenge.</l>
+                  <l>But "pagan" tho I be, I bid him go!</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">Points to gate, and Osio tortured, flings it open—and goes. Then when Matteo has followed, Rizzio turns tenderly to Porzia. The horror falls from her as he folds her finally to him—while the moon that had clouded, shines on them bright and still.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">THE END</hi>
+               </p>
+               <div type="div3">
+                  <head>THE COUNTRY LIFE PRESS<lb/>GARDEN CITY, N.Y.</head>
+                  <p rend="justify">FAR QUESTS<lb/>CALE YOUNG RICE</p>
+                  <p rend="justify">The countrymen of Cale Young Rice apparently regard him as the equal of the great American poets of the past. <hi rend="italic">Far Quests</hi>  is good unquestionably. It shows a wide range of thought, and sympathy, and real skill in workmanship, while occasionally it rises to heights of simplicity and truth, that suggest such inspiration as should mean lasting fame.—<hi rend="italic">The Daily Telegraph</hi>  (<hi rend="italic">London</hi>).</p>
+                  <p rend="justify">"Mr. Rice's lyrics are deeply impressive. A large number are complete and full-blooded works of art."—<hi rend="italic">Prof. Wm. Lyon Phelps</hi>  (<hi rend="italic">Yale University</hi>).</p>
+                  <p rend="justify">"<hi rend="italic">Far Quests</hi>  contains much beautiful work—the work of a real poet in imagination and achievement."—<hi rend="italic">Prof. J. W. Mackail</hi>  (<hi rend="italic">Oxford University</hi>).</p>
+                  <p rend="justify">"Mr. Rice is determined to get away from local or national limitations and be at whatever cost universal.... These poems are always animated by a force and freshness of feeling rare in work of such high virtuosity."—<hi rend="italic">The Scotsman</hi>  (<hi rend="italic">Edinburgh</hi>).</p>
+                  <p rend="justify">"Mr. Cale Young Rice is acknowledged by his countrymen to be one of their great poets. There is great charm in the nature songs (of this volume) and of the East. Mr. Rice writes with great simplicity and beauty."—<hi rend="italic">The Sphere</hi>  (<hi rend="italic">London</hi>).</p>
+                  <p rend="justify">"Mr. Rice's forte is a poetic drama. Yet in the act of saying this the critic is confronted by such poems as <hi rend="italic">The Mystic</hi>.... These are the poems of a thinker, a man of large horizons, an optimist profoundly impressed with the pathos of man's quest for happiness in all lands."—<hi rend="italic">The Chicago Record-Herald.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice's latest volume shows no diminution of poetic power. Fecundity is a mark of the genuine poet, and a glance through these pages will demonstrate how rich Mr. Rice is in vitality and variety of thought.... There is too, the unmistakable quality of style. It is spontaneous, flexible, and strong with the strength of simplicity—a style of rare distinction."—<hi rend="italic">Albert S. Henry</hi>  (<hi rend="italic">The Book News Monthly, Philadelphia</hi>).</p>
+                  <p rend="justify">THE IMMORTAL LURE<lb/>CALE YOUNG RICE</p>
+                  <p rend="justify">It is great art—with great vitality. <hi rend="italic">James Lane Allen.</hi>
+                  </p>
+                  <p rend="justify">In the midst of the Spring rush there arrives one book for which all else is pushed aside.... We have been educated to the belief that a man must be long dead before he can be enrolled with the great ones. Let us forget this cruel teaching.... This volume contains four poetic dramas all different in setting, and all so beautiful that we cannot choose one more perfect than another.... Too extravagant praise cannot be given Mr. Rice.—<hi rend="italic">The San Francisco Call.</hi>
+                  </p>
+                  <p rend="justify">Four brief dramas, different from Paolo &amp; Francesca, but excelling it—or any other of Mr. Phillips's work, it is safe to say—in a vivid presentment of a supreme moment in the lives of the characters.... They form excellent examples of the range of Mr. Rice's genius in this field.—<hi rend="italic">The New York Times Review.</hi>
+                  </p>
+                  <p rend="justify">Mr. Rice is quite the most ambitious, and most distinguished of contemporary poetic dramatists in America.—<hi rend="italic">The Boston Transcript</hi>  (<hi rend="italic">W. S. Braithwaite.</hi>)</p>
+                  <p rend="justify">The vigor and originality of Mr. Rice's work never outweigh that first qualification, beauty.... No American writer has so enriched the body of our poetic literature in the past few years.—<hi rend="italic">The New Orleans Picayune.</hi>
+                  </p>
+                  <p rend="justify">Mr. Rice is beyond doubt the most distinguished poetic dramatist America has yet produced.—<hi rend="italic">The Detroit Free Press.</hi>
+                  </p>
+                  <p rend="justify">That in Cale Young Rice a new American poet of great power and originality has arisen cannot be denied. He has somehow discovered the secret of the mystery, wonder and spirituality of human existence, which has been all but lost in our commercial civilization. May he succeed in awakening our people from sordid dreams of gain.—<hi rend="italic">Rochester</hi>  (<hi rend="italic">N. Y.</hi>) <hi rend="italic">Post Express.</hi>
+                  </p>
+                  <p rend="justify">No writer in England or America holds himself to higher ideals (than Mr. Rice) and everything he does bears the imprint of exquisite taste and the finest poetic instinct.—<hi rend="italic">The Portland Oregonian.</hi>
+                  </p>
+                  <p rend="justify">In simplicity of art form and sheer mystery of romanticism these poetic dramas embody the new century artistry that is remaking current imaginative literature.—<hi rend="italic">The Philadelphia North American.</hi>
+                  </p>
+                  <p rend="justify">Cale Young Rice is justly regarded as the leading master of the difficult form of poetic drama.—<hi rend="italic">Portland</hi>  (<hi rend="italic">Me.</hi>) <hi rend="italic">Press.</hi>
+                  </p>
+                  <p rend="justify">Mr. Rice has outlived the prophesy that he would one day rival Stephen Phillips in the poetic drama. As dexterous in the mechanism of his art, the young American is the Englishman's superior in that unforced quality which bespeaks true inspiration, and in a wider variety of manner and theme.—<hi rend="italic">San Francisco Chronicle.</hi>
+                  </p>
+                  <p rend="justify">Mr. Rice's work has often been compared to Stephen Phillips's and there is great resemblance in their expression of high vision. Mr. Rice's technique is sure, ... his knowledge of his settings impeccable, and one feels sincerely the passion, power and sensuous beauty of the whole. "Arduin" (one of the plays) is perfect tragedy; as rounded as a sphere, as terrible as death.—<hi rend="italic">Review of Reviews.</hi>
+                  </p>
+                  <p rend="justify">The Immortal Lure is a very beautiful work.—<hi rend="italic">The Springfield</hi>  (<hi rend="italic">Mass.</hi>) <hi rend="italic">Republican.</hi>
+                  </p>
+                  <p rend="justify">The action in Mr. Rice's dramas is invariably compact and powerful, his writing remarkably forcible and clear, with a rare grasp of form. The plays are brief and classic.—<hi rend="italic">Baltimore News.</hi>
+                  </p>
+                  <p rend="justify">These four dramas, each a separate unit perfect in itself and differing widely in treatment, are yet vitally related by reason of the one central theme, wrought out with rich imagery and with compelling dramatic power.—<hi rend="italic">The Louisville Times</hi>  (<hi rend="italic">U. S.</hi>)</p>
+                  <p rend="justify">The literary and poetical merit of these dramas is undeniable, and they are charged with the emotional life and human interest that should, but do not, always go along with those other high gifts.—<hi rend="italic">The</hi>  (<hi rend="italic">London</hi>) <hi rend="italic">Bookman.</hi>
+                  </p>
+                  <p rend="justify">Mr. Rice never [like Stephen Phillips] mistakes strenuous phrase for strong thought. He makes his blank verse his servant, and it has the stage merit of possessing the freedom of prose while retaining the impassioned movement of poetry.—<hi rend="italic">The Glasgow</hi>  (<hi rend="italic">Scotland</hi>) <hi rend="italic">Herald.</hi>
+                  </p>
+                  <p rend="justify">These firm and vivid pieces of work are truly welcome as examples of poetic force that succeeds without the help of poetic license.—<hi rend="italic">The Literary World</hi>  (<hi rend="italic">London.</hi>)</p>
+                  <p rend="justify">We do not possess a living American poet whose utterance is so clear, so felicitous, so free from the inane and meretricious folly of sugared lines.... No one has a better understanding of the development of dramatic action than Mr. Rice.—<hi rend="italic">The Book News Monthly</hi>  (<hi rend="italic">Albert S. Henry.</hi>)</p>
+                  <lg>
+                     <l>Country Life in America</l>
+                     <l>The World's Work</l>
+                     <l>The Garden Magazine</l>
+                     <l>DOUBLEDAY, PAGE &amp; CO., GARDEN CITY, N. Y.</l>
+                  </lg>
+                  <lg>
+                     <l>MANY GODS</l>
+                     <l>By</l>
+                     <l>CALE YOUNG RICE</l>
+                  </lg>
+                  <p rend="justify">"These poems are flashingly, glowingly full of the East.... What I am sure of in Mr. Rice is that here we have an American poet whom we may claim as ours."—<hi rend="italic">The North American Review</hi>  (<hi rend="italic">William Dean Howells</hi>).</p>
+                  <p rend="justify">"Mr. Rice has the gift of leadership ... and he is a force with whom we must reckon."—<hi rend="italic">The Boston Transcript.</hi>
+                  </p>
+                  <p rend="justify">... "We find here a poet who strives to reach the goal which marks the best that can be done in poetry."—<hi rend="italic">The Book News Monthly</hi>  (<hi rend="italic">A. S. Henry</hi>).</p>
+                  <p rend="justify">"When you hear the pessimists bewailing the good old time when real poets were abroad in the land ... do not fail to quote them almost anything by Cale Young Rice, a real poet writing to-day.... He has done so much splendid work one can scarcely praise him too highly."—<hi rend="italic">The San Francisco Call.</hi>
+                  </p>
+                  <p rend="justify">"In 'Many Gods' the scenes are those of the East, and while it is not the East of Loti, Arnold or Hearn, it is still a place of brooding, majesty, mystery and subtle fascination. There is a temptation to quote such verses for their melody, dignity of form, beauty of imagery and height of inspiration."—<hi rend="italic">The Chicago Journal.</hi>
+                  </p>
+                  <p rend="justify">"'Love's Cynic' (a long poem in the volume) might be by Browning at his best."—<hi rend="italic">Pittsburg Gazette-Times.</hi>
+                  </p>
+                  <p rend="justify">"This is a serious, and from any standpoint, a successful piece of work ... in it are poems that will become classic."—<hi rend="italic">Passaic</hi>  (<hi rend="italic">New Jersey</hi>) <hi rend="italic">News</hi>.</p>
+                  <p rend="justify">"Mr. Rice must be hailed as one among living masters of his art, one to whom we may look for yet greater things."—<hi rend="italic">Presbyterian Advance.</hi>
+                  </p>
+                  <p rend="justify">"This book is in many respects a remarkable work. The poems are indeed poems."—<hi rend="italic">The Nashville Banner.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice's poetical plays reach a high level of achievement.... But these poems show a higher vision and surer mastery of expression than ever before."—<hi rend="italic">The London Bookman.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Net, $1.25</hi>  (<hi rend="italic">postage 12c.</hi>)</p>
+                  <lg>
+                     <l>NIRVANA DAYS</l>
+                     <l>Poems by</l>
+                     <l>CALE YOUNG RICE</l>
+                  </lg>
+                  <p rend="justify">"Mr. Rice has the technical cunning that makes up almost the entire equipment of many poets nowadays, but human nature is more to him always ... and he has the feeling and imaginative sympathy without which all poetry is but an empty and vain thing."—<hi rend="italic">The London Bookman.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice's note is a clarion call, and of his two poems, 'The Strong Man to His Sires' and 'The Young to the Old,' the former will send a thrill to the heart of every man who has the instinct of race in his blood, while the latter should be printed above the desk of every minor poet and pessimist.... The sonnets of the sequence, 'Quest and Requital,' have the elements of great poetry in them."—<hi rend="italic">The Glasgow</hi>  (<hi rend="italic">Scotland</hi>) <hi rend="italic">Herald.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice's poems are singularly free from affectation, and he seems to have written because of the sincere need of expressing something that had to take art form."—<hi rend="italic">The Sun</hi>  (<hi rend="italic">New York</hi>).</p>
+                  <p rend="justify">"The ability to write verse that scans is quite common.... But the inspired thought behind the lines is a different thing; and it is this thought untrammeled—the clear vision searching into the deeps of human emotion—which gives the verse of Mr. Rice weight and potency.... In the range of his metrical skill he easily stands with the best of living craftsmen ... and we have in him ... a poet whose dramas and lyrics will endure."—<hi rend="italic">The Book News Monthly</hi>  (<hi rend="italic">A. S. Henry</hi>).</p>
+                  <p rend="justify">"These poems are marked by a breadth of outlook, individuality and beauty of thought. The author reveals deep, sincere feeling on topics which do not readily lend themselves to artistic expression and which he makes eminently worth while."—<hi rend="italic">The Buffalo</hi>  (<hi rend="italic">N. Y.</hi>) <hi rend="italic">Courier.</hi>
+                  </p>
+                  <p rend="justify">"We get throughout the idea of a vast universe and of the soul merging itself in the infinite.... The great poem of the volume, however, is 'The Strong Man to His Sires.'"—<hi rend="italic">The Louisville Post</hi>  (<hi rend="italic">Margaret S. Anderson</hi>).</p>
+                  <p rend="justify">"The poems possess much music ... and even in the height of intensified feeling the clearness of Mr. Rice's ideas is not dimmed by the obscure haze that too often goes with the divine fire."—<hi rend="italic">The Boston Globe.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Paper boards. Net, $1.25</hi>  (<hi rend="italic">postage 12c.</hi>)</p>
+                  <lg>
+                     <l>A NIGHT IN AVIGNON</l>
+                     <l>By</l>
+                     <l>CALE YOUNG RICE</l>
+                     <l>
+                        <hi rend="italic">Successfully produced by Donald Robertson</hi>
+                     </l>
+                  </lg>
+                  <p rend="justify">"It is as vivid as a page from Browning. Mr. Rice has the dramatic pulse."—<hi rend="italic">James Huneker.</hi>
+                  </p>
+                  <p rend="justify">"It embraces in small compass all the essentials of the drama."—<hi rend="italic">New York Saturday Times Review</hi>  (<hi rend="italic">Jessie B. Rittenhouse</hi>).</p>
+                  <p rend="justify">"It presents one of the most striking situations in dramatic literature and its climax could not be improved."—<hi rend="italic">The San Francisco Call.</hi>
+                  </p>
+                  <p rend="justify">"It has undeniable power, and is a very decided poetic achievement."—<hi rend="italic">The Boston Transcript.</hi>
+                  </p>
+                  <p rend="justify">"It leaves an enduring impression of a soul tragedy."—<hi rend="italic">The Churchman.</hi>
+                  </p>
+                  <p rend="justify">"Since the publication of his 'Charles di Tocca' and other dramas, Cale Young Rice has justly been regarded as a leading American master of that difficult form, and many critics have ranked him above Stephen Phillips, at least on the dramatic side of his art. And this judgment is further confirmed by 'A Night in Avignon.' It is almost incredible that in less than 500 lines Mr. Rice should have been able to create so perfect a play with so powerful a dramatic effect."—<hi rend="italic">The Chicago Record-Herald</hi>  (<hi rend="italic">Edwin S. Shuman</hi>).</p>
+                  <p rend="justify">"There is poetic richness in this brilliant composition; a beauty of sentiment and grace in every line. It is impressive, metrically pleasing and dramatically powerful."—<hi rend="italic">The Philadelphia Record.</hi>
+                  </p>
+                  <p rend="justify">"It offers one of the most striking situations in dramatic literature."—<hi rend="italic">The Louisville Courier-Journal.</hi>
+                  </p>
+                  <p rend="justify">"The publication of a poetic drama of the quality of Mr. Rice's is an important event in the present tendency of American literature. He is a leader in this most significant movement, and 'A Night in Avignon' is marked, like his other plays, by dramatic directness, high poetic fervor, clarity of poetic diction, and felicity of phrasing."—<hi rend="italic">The Chicago Journal.</hi>
+                  </p>
+                  <p rend="justify">"It is a dramatically told episode, and the metre is most effectively handled, making a welcome change for blank verse, and greatly enhancing the interest."—<hi rend="italic">Sydney Lee.</hi>
+                  </p>
+                  <p rend="justify">"Many critics, on hearing Mr. Bryce's prediction that America will one day have a poet, would be tempted to remind him of Mr. Rice."—<hi rend="italic">The Hartford (Conn.) Courant.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Net 50c.</hi>  (<hi rend="italic">postage 5c.</hi>)</p>
+                  <lg>
+                     <l>YOLANDA OF CYPRUS</l>
+                     <l>A Poetic Drama by</l>
+                     <l>CALE YOUNG RICE</l>
+                  </lg>
+                  <p rend="justify">"It has real life and drama, not merely beautiful words, and so differs from the great mass of poetic plays."—<hi rend="italic">Prof. Gilbert Murray.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Minnie Maddern Fisk</hi>  says: "No one can doubt that it is superior poetically and dramatically to Stephen Phillips's work," and that Mr. Rice ranks with Mr. Phillips at his best has often been reaffirmed.</p>
+                  <p rend="justify">"It is encouraging to the hope of a native drama to know that an American has written a play which is at the same time of decided poetic merit and of decided dramatic power."—<hi rend="italic">The New York Times.</hi>
+                  </p>
+                  <p rend="justify">"The most remarkable quality of the play is its sustained dramatic strength. Poetically it is frequently of great beauty. It is also lofty in conception, lucid and felicitous in style, and the dramatic pulse throbs in every line."—<hi rend="italic">The Chicago Record-Herald.</hi>
+                  </p>
+                  <p rend="justify">"The characters are drawn with force and the play is dignified and powerful," and adds that if it does not succeed on the stage it will be "because of its excellence."—<hi rend="italic">The Springfield Republican.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice is one of the few present-day poets who have the steadiness and weight for a well-sustained drama."—<hi rend="italic">The Louisville Post</hi>  (<hi rend="italic">Margaret Anderson</hi>).</p>
+                  <p rend="justify">"It has equal command of imagination, dramatic utterance, picturesque effectiveness and metrical harmony."—<hi rend="italic">The London (England) Bookman.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">T. P.'s Weekly</hi>  says: "It might well stand the difficult test of production and will be welcomed by all who care for serious verse."</p>
+                  <p rend="justify">
+                     <hi rend="italic">The Glasgow (Scotland) Herald</hi>  says: "Yolanda of Cyprus is finely constructed; the irregular blank verse admirably adapted for the exigencies of intense emotion; the characters firmly drawn; and the climax serves the purpose of good stagecraft and poetic justice."</p>
+                  <p rend="justify">"It is well constructed and instinct with dramatic power."—<hi rend="italic">Sydney Lee.</hi>
+                  </p>
+                  <p rend="justify">"It is as readable as a novel."—<hi rend="italic">The Pittsburg Post.</hi>
+                  </p>
+                  <p rend="justify">"Here and there an almost Shakespearean note is struck. In makeup, arrangement, and poetic intensity it ranks with Stephen Phillips's work."—<hi rend="italic">The Book News Monthly.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Net, $1.25</hi>  (<hi rend="italic">postage 10c.</hi>)</p>
+                  <lg>
+                     <l>DAVID</l>
+                     <l>A Poetic Drama by</l>
+                     <l>CALE YOUNG RICE</l>
+                  </lg>
+                  <p rend="justify">"I was greatly impressed with it and derived a sense of personal encouragement from the evidence of so fine and lofty a product for the stage."—<hi rend="italic">Richard Mansfield.</hi>
+                  </p>
+                  <p rend="justify">"It is a powerful piece of dramatic portraiture in which Cale Young Rice has again demonstrated his insight and power. What he did before in 'Charles di Tocca' he has repeated and improved upon.... Not a few instances of his strength might be cited as of almost Shakespearean force. Indeed the strictly literary merit of the tragedy is altogether extraordinary. It is a contribution to the drama full of charm and power."—<hi rend="italic">The Chicago Tribune.</hi>
+                  </p>
+                  <p rend="justify">"From the standpoint of poetry, dignity of conception, spiritual elevation and finish and beauty of line, Mr. Rice's 'David' is, perhaps, superior to his 'Yolanda of Cyprus,' but the two can scarcely be compared."—<hi rend="italic">The New York Times</hi>  (<hi rend="italic">Jessie B. Rittenhouse</hi>).</p>
+                  <p rend="justify">"Never before has the theme received treatment in a manner so worthy of it."—<hi rend="italic">The St. Louis Globe-Democrat.</hi>
+                  </p>
+                  <p rend="justify">"It needs but a word, for it has been passed upon and approved by critics all over the country."—<hi rend="italic">Book News Monthly.</hi>  And again: "But few recent writers seem to have found the secret of dramatic blank verse; and of that small number, Mr. Rice is, if not first, at least without superior."</p>
+                  <p rend="justify">"With instinctive dramatic and poetic power, Mr. Rice combines a knowledge of the exigencies of the stage."—<hi rend="italic">Harper's Weekly.</hi>
+                  </p>
+                  <p rend="justify">"It is safe to say that were Mr. Rice an Englishman or a Frenchman, his reputation as his country's most distinguished poetic dramatist would have been assured by a more universal sign of recognition."—<hi rend="italic">The Baltimore News</hi>  (<hi rend="italic">writing of all Mr. Rice's plays</hi>).</p>
+                  <p rend="justify">
+                     <hi rend="italic">Net, $1.25</hi>  (<hi rend="italic">postage 12c.</hi>)</p>
+                  <lg>
+                     <l>CHARLES DI TOCCA</l>
+                     <l>By</l>
+                     <l>CALE YOUNG RICE</l>
+                  </lg>
+                  <p rend="justify">"I take off my hat to Mr. Rice. His play is full of poetry, and the pitch and dignity of the whole are remarkable."—<hi rend="italic">James Lane Allen.</hi>
+                  </p>
+                  <p rend="justify">"It is a dramatic poem one reads with a heightened sense of its fine quality throughout. It is sincere, strong, finished and noble, and sustains its distinction of manner to the end.... The character of Helena is not unworthy of any of the great masters of dramatic utterance."—<hi rend="italic">The Chicago Tribune.</hi>
+                  </p>
+                  <p rend="justify">"The drama is one of the best of the kind ever written by an American author. Its whole tone is masterful, and it must be classed as one of the really literary works of the season." (1903).—<hi rend="italic">The Milwaukee Sentinel.</hi>
+                  </p>
+                  <p rend="justify">"It shows a remarkable sense of dramatic construction as well as poetic power and strong characterization."—<hi rend="italic">James MacArthur, in Harper's Weekly.</hi>
+                  </p>
+                  <p rend="justify">"This play has many elements of perfection. Its plot is developed with ease and with a large dramatic force; its characters are drawn with sympathy and decision; and its thoughts rise to a very real beauty. By reason of it the writer has gained an assured place among playwrights who seek to give literary as well as dramatic worth to their plays."—<hi rend="italic">The Richmond (Va.) News-Leader.</hi>
+                  </p>
+                  <p rend="justify">"The action of the play is admirably compact and coherent, and it contains tragic situations which will afford pleasure not only to the student, but to the technical reader."—<hi rend="italic">The Nation.</hi>
+                  </p>
+                  <p rend="justify">"It is the most powerful, vital, and truly tragical drama written by an American for some years. There is genuine pathos, mighty yet never repellent passion, great sincerity and penetration, and great elevation and beauty of language."—<hi rend="italic">The Chicago Post.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice ranks among America's choicest poets on account of his power to turn music into words, his virility, and of the fact that he has something of his own to say."—<hi rend="italic">The Boston Globe.</hi>
+                  </p>
+                  <p rend="justify">"The whole play breathes forth the indefinable spirit of the Italian renaissance. In poetic style and dramatic treatment it is a work of art."—<hi rend="italic">The Baltimore Sun.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Paper boards. Net, $1.25</hi>  (<hi rend="italic">postage, 9c.</hi>)</p>
+                  <lg>
+                     <l>SONG-SURF</l>
+                     <l>(Being the Lyrics of Plays and Lyrics) by</l>
+                     <l>CALE YOUNG RICE</l>
+                  </lg>
+                  <p rend="justify">"Mr. Rice's work betrays wide sympathies with nature and life, and a welcome originality of sentiment and metrical harmony."—<hi rend="italic">Sydney Lee.</hi>
+                  </p>
+                  <p rend="justify">"In his lyrics Mr. Rice's imagination works most successfully. He is an optimist—and in these days an optimist is irresistible—and he can touch delicately things too holy for a rough or violent pathos."—<hi rend="italic">The London Star</hi>  (<hi rend="italic">James Douglas</hi>).</p>
+                  <p rend="justify">"Mr. Rice's highest gift is essentially lyrical. His lyrics have a charm and grace of melody distinctively their own."—<hi rend="italic">The London Bookman.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice is keenly responsive to the loveliness of the outside world, and he reveals this beauty in words that sing themselves."—<hi rend="italic">The Boston Transcript.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice's work is everywhere marked by true imaginative power and elevation of feeling."—<hi rend="italic">The Scotsman.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice's work would seem to rank with the best of our American poets of to-day."—<hi rend="italic">The Atlanta Constitution.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice's poems are touched with the magic of the muse. They have inspiration, grace and true lyric quality."—<hi rend="italic">The Book News Monthly.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice's poetry as a whole is both strongly and delicately spiritual. Many of these lyrics have the true romantic mystery and charm.... To write thus is no indifferent matter. It indicates not only long work but long brooding on the beauty and mystery of life."—<hi rend="italic">The Louisville Post.</hi>
+                  </p>
+                  <p rend="justify">"Mr. Rice is indisputably one of the greatest poets who have lived in America.... And some of these (earlier) poems are truly beautiful."—<hi rend="italic">The Times-Union</hi>  (<hi rend="italic">Albany, N. Y.</hi>).</p>
+                  <p rend="justify">
+                     <hi rend="italic">Net, $1.25</hi>  (<hi rend="italic">postage 12c.</hi>)</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
