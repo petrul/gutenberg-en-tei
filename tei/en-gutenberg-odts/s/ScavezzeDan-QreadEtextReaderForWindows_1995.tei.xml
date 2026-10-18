@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>QREAD, Etext Reader for Windows</title>
+            <author>Dan Scavezze</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T20:11:15Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/s/ScavezzeDan-QreadEtextReaderForWindows_1995.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Dan Scavezze</name>
+               <date>2024-01-04T20:11:15Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>QREAD, Etext Reader for Windows</head>
+         <author>Dan Scavezze</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/s/ScavezzeDan-QreadEtextReaderForWindows_1995.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>QREAD, Etext Reader for Windows</head>
+            <p rend="justify">QREAD, an Etext Reader for Windows</p>
+            <p rend="justify">(Copyright Dan Scavezze &lt;70731.1673@compuserve.com&gt;</p>
+            <p rend="justify">This archive contains the following files:</p>
+            <p rend="justify">qread.exe - the program QRead qread.hlp - the help file for QRead qrhelp.txt - the help file (and user manual for QRead) as a text file readme.txt - this file (which lists the contents of this archive) readme.bat - batch file containing the command "type readme.txt | more" setup.txt - instructions on how to set up QRead setup.bat - batch file containing the command "type setup.txt" setupqr.exe - a "mini-setup" program</p>
+            <p rend="justify">register.txt - form to be used when registering QRead vendor.doc - information for software vendors file_id.diz - a fixed format description for Bulletin Board Systems</p>
+            <p rend="justify">To set up QRead on your system, run SETUPQR.EXE from Windows, or type SETUP at the DOS prompt.</p>
+            <p rend="justify">QRead lets you read text files quickly and easily in the Microsoft Windows 3.1 environment. Text files can be shown on the screen in any font you choose, and QRead will automatically adjust the type size or the line structure to fit the window. Qread also provides tools to help with browsing and management of your text files.</p>
+            <p rend="justify">QRead is a Shareware program. All rights are retained by the author. You may share the program and freely distribute it for evaluation purposes. After a reasonable evaluation period, you must register your copy of the program and become a licensed user, or destroy your copy of the program.</p>
+            <p rend="justify">QRead version 1.2 Copyright Dan Scavezze 1992, 1993</p>
+            <lg>
+               <l>DS Products CompuServe: [70731,1673]</l>
+               <l>P.O. Box 342 Internet: 70731.1673@compuserve.com</l>
+               <l>Westford, MA 01886</l>
+            </lg>
+            <p rend="justify">07/30/94</p>
+         </div>
+      </body>
+   </text>
+</TEI>
