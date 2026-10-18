@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lessons in Wireless Telegraphy</title>
+            <author>Alfred Powell Morgan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T13:37:47Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/m/MorganAlfredPowell-LessonsInWirelessTelegraphy_2020.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Alfred Powell Morgan</name>
+               <date>2024-01-04T13:37:47Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Lessons in Wireless Telegraphy</head>
+         <author>Alfred Powell Morgan</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/m/MorganAlfredPowell-LessonsInWirelessTelegraphy_2020.odt</p>
+         <p>Lessons in Wireless Telegraphy</p>
+         <p>Alfred Powell Morgan</p>
+         <p>2023-11-27T12:13:58.441783+00:002020-09-29</p>
+         <p>The Project Gutenberg eBook of Lessons in Wireless Telegraphy</p>
+         <p>This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this ebook or online at <ref target="https://www.gutenberg.org">www.gutenberg.org</ref>. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.</p>
+         <p>
+            <hi rend="bold">Title</hi>: Lessons in Wireless Telegraphy</p>
+         <p>
+            <hi rend="bold">Creator</hi>: Alfred Powell Morgan</p>
+         <p>
+            <hi rend="bold">Release date</hi>: September 29, 2020 [eBook #63345]</p>
+         <p>
+            <hi rend="bold">Language</hi>: English</p>
+         <p>*** START OF THE PROJECT GUTENBERG EBOOK LESSONS IN WIRELESS TELEGRAPHY ***</p>
+         <p>[image]</p>
+         <p>Transcriber's Note</p>
+         <p>This book was transcribed from scans of the original found at the Internet Archive. I have included the ads for other books found in the back pages of these scans.</p>
+         <p>LESSONS</p>
+         <p>IN</p>
+         <p>WIRELESS TELEGRAPHY</p>
+         <p>A SYSTEMATIC ELEMENTARY COURSE IN THE</p>
+         <p>PRINCIPLES OF WIRELESS TELEGRAPHY</p>
+         <p>AND THE ELECTRICAL LAWS</p>
+         <p>UPON WHICH IT DEPENDS</p>
+         <p>BY</p>
+         <p>
+            <hi rend="bold">A. P. Morgan</hi>
+         </p>
+         <p>
+            <hi rend="italic">THIRD EDITION, Revised and Enlarged</hi>
+         </p>
+         <p>PUBLISHED BY</p>
+         <p>COLE &amp; MORGAN</p>
+         <p>Publishers of The Arts and Sciences Series</p>
+         <p>P. O. Box 1473 NEW YORK CITY</p>
+         <p>Printed in U.S. A.</p>
+         <p>COPYRIGHT 1912. 1917</p>
+         <p>BY</p>
+         <p>COLE &amp; MORGAN</p>
+         <head>LESSONS IN WIRELESS TELEGRAPHY</head>
+         <pb/>
+         <div type="div1">
+            <head>INTRODUCTION</head>
+            <p>This little book has been brought forward in order to supply the demand for a systematic elementary course in the principles of wireless telegraph apparatus and the electrical laws upon which it depends.</p>
+            <p>Many operators, both amateur and professional, although perfectly well able to send and receive messages, do not thoroughly understand the rudimentary theory of the instruments.</p>
+            <p>It is readily realizable that it is quite impossible to enter into all the engineering details in a book of this size, but at the same time it has been possible to present a very comprehensive treatise of the subject and embody sufficient material to give a thorough grounding in the subject.</p>
+            <p>In order to avoid repetition and confusion and to make each instrument or principle which has been discussed stand distinctly by itself, the text has been divided into separate lessons following in their arrangement, as far as has been possible, the logical sequence.</p>
+            <p>For the same reason, and also because of lack of space all details pertaining to the actual maintenance and adjustment of the instruments has been embodied in another book called "The Operation of Wireless Telegraph Apparatus."</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Lessons in Wireless Telegraphy</head>
+            <pb/>
+            <div type="div2">
+               <head>LESSON ONE. MAGNETISM.</head>
+               <p rend="justify">
+                  <hi rend="bold">Natural Magnets. Artificial Magnets. Magnetic Field of Force.</hi>
+               </p>
+               <p rend="justify">It was known to the ancients that certain hard, black stones, an iron ore consisting of iron and oxygen found notably at Magnesia in Asia Minor, possessed the power of attracting small pieces of iron or steel. This almost magic attribute of the stone was early turned to account in navigation and secured for it the name of Lodestone (leading-stone) because of its remarkable property of pointing north and south when suspended by a thread. The name of magnet (magnes lapis) was also given to these stones.</p>
+               <p rend="justify">
+                  <hi rend="italic">Magnetism</hi>  is the peculiar property occassionally possessed by certain bodies (more especially by iron and steel) whereby they attract or repel one another.</p>
+               <p rend="justify">If a piece of hard iron or steel be rubbed with a lodestone it will be found to have also acquired the properties of the stone. If hung up by a thread it will point north and south, will attract light bits of iron and if dipped into iron filings will cause the latter to cling in two small tufts near the ends with few, if any, near the middle.</p>
+               <p rend="justify">[image]</p>
+               <p rend="justify">FIG. 1. Lodestone which has been Dipped in Filings to show Poles</p>
+               <p rend="justify">This indicates that the attractive power of the magnet is concentrated in two opposite parts. These parts are called the <hi rend="italic">Poles</hi>. The line joining the poles is the <hi rend="italic">Magnetic Axis</hi>.</p>
+               <p rend="justify">
+                  <hi rend="italic">Artificial Magnets</hi>  are those made from steel by the aid of a lodestone or some other magnetising force. The principal forms of artificial magnets are the <hi rend="italic">Bar</hi>  and <hi rend="italic">Horseshoe</hi>, so called from their shape.</p>
+               <p rend="justify">[image]</p>
+               <p rend="justify">FIG. 2. Bar and Horseshoe Magnet.</p>
+               <p rend="justify">If a magnet (either artificial or natural) is suspended by a thread so that it may swing freely, and a second magnet held in the hand is presented successively to the two poles of the first, it will be observed that one pole is <hi rend="italic">attracted</hi>  and swings toward the magnet held in the hand, but that the other is <hi rend="italic">repelled</hi>  and <hi rend="italic">swings away</hi>.</p>
+               <p rend="justify">[image]</p>
+               <p rend="justify">FIG. 3. Lodestone suspended from thread so as to point North and South.</p>
+               <p rend="justify">Furthermore, if the poles of the suspended magnet are marked so as to easily be identified it will be found that it is always the same pole that swings towards the north. There would therefore appear to be two kinds of magnetism or at least two kinds of magnetic poles. The end swinging toward the north is termed the "north seeking pole" and the opposite end called the "south seeking pole." In common parlance they are simply termed the North and South poles. It is usual to mark the North Pole with the letter N.</p>
+               <p rend="justify">There is no known insulator of magnetism: it passes through everything. A <hi rend="italic">magnetic substance</hi>  is one which offers little resistance to the field of force.</p>
+               <p rend="justify">Magnetism flows along certain lines called <hi rend="italic">Lines of Magnetic Force</hi>. These lines always form closed paths or circuits. The region in the neighborhood of a magnet through which these lines pass is called the <hi rend="italic">Field of Force</hi>  and the path through which they flow is called the <hi rend="italic">Magnetic Circuit</hi>.</p>
+               <p rend="justify">[image]</p>
+               <p rend="justify">FIG. 4. Lines of Force around a Bar Magnet.</p>
+               <p rend="justify">The paths of the lines of force can be demonstrated by placing a piece of paper over a bar magnet and then sprinkling iron filings over the paper which should be jarred slightly in order that the filings may be drawn into the magnetic paths. The filings arrange themselves in curved lines, diverging from one pole of the magnet and meeting again at the opposite end. The lines of force are considered as extending outward from the North pole of the magnet, curving around through the air to the South pole and completing the circuit back through the magnet.</p>
+               <p rend="justify">The phenomena of magnetism and its laws form a very important branch of the study of electricity, for they play a part in the construction and operation of almost all electrical apparatus.</p>
+               <div type="div3">
+                  <head>LESSON TWO. MAGNETIC INDUCTION.</head>
+                  <p rend="justify">In 1831 Michael Faraday, the great physicist, made the valuable discovery that electric currents are induced in a closed circuit by moving a magnet near it or vice versa, by moving the circuit across the field of force, If a coil of insulated wire be connected in circuit with a sufficiently delicate galvanometer (a galvanometer is an instrument for detecting feeble electric currents) and a bar magnet suddenly plunged into the hollow of the coil as shown in the illustration, a momentary current will be indicated as flowing through the galvanometer while the magnet is being moved in the coil. If the magnet is then rapidly pulled out of the coil another momentary current will be observed to flow in the <hi rend="italic">opposite direction from the former</hi>.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 5. Magnetic Induction.</p>
+                  <p rend="justify">So long as the magnet lies motionless in the coil it induces no currents. The field of force in the neighborhood of a magnet grows weaker as the distance from the magnet increases. When the magnet is plunged into the coil, the strength of the magnetic field in the vicinity of the coil grows stronger due to the approach of the magnet, and when it is withdrawn the field becomes weaker.</p>
+                  <p rend="justify">Currents are only induced in the coil when the magnet is moving, or in other words when the strength of the magnetic field is changing, either increasing or decreasing.</p>
+                  <p rend="justify">The currents generated in the coil are called <hi rend="italic">induced currents</hi>. The action of the magnetic field in producing induced currents is termed <hi rend="italic">Induction</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON THREE. PRIMARY CELLS. SECONDARY CELLS.</head>
+                  <p rend="justify">If a piece of zinc is dipped in dilute sulphuric acid, the zinc will be attacked by the acid and replace hydrogen in it, the hydrogen appearing as bubbles on the zinc and passing off as a gas.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 6. Simple Voltaic Cell</p>
+                  <p rend="justify">If the zinc is connected by means of a wire, W, with a strip of copper, C, dipping in the same solution, the zinc will still to continue to dissolve but the hydrogen bubbles will now form on the surface of the copper strip as well as on the zinc. It will be found that the wire W becomes heated. If the copper and zinc are connected to a galvanometer it will show the presence of an electric current passing through the circuit. The cell may be considered as a sort of chemical furnace in which fuel is burned to drive the current. The zinc is the fuel. The copper is merely present to "pick up" the current and takes no part chemically.</p>
+                  <p rend="justify">If a number of such simple cells are properly united, the zinc of one being joined to the copper of the next and so on, a <hi rend="italic">battery</hi>  is formed. The current flows from the copper, called the <hi rend="italic">positive</hi>  pole, through the wires (when they are joined) to the zinc or negative pole and back to the copper through the solution.</p>
+                  <p rend="justify">The electricity generated by the cells exerts a certain pressure or tendency to pass through the wires. This tendency is called the <hi rend="italic">potential</hi>. The potential is measured in volts. The potential (also called the electromotive force) in the case of the Voltaic Cell just described is 1.07 volts. If the copper strip is replaced with one of graphite or carbon, the voltage will rise to 1.73 volts.</p>
+                  <p rend="justify">After a cell has been in action for a short time, the positive plate (copper or carbon, as the case may be) becomes covered with a film of hydrogen. The cell is then said to be <hi rend="italic">polarized</hi>. The film of gas bubbles partially shields the plate from contact with the liquid. When the plate becomes in this condition, the current is much feebler than when it is clear.</p>
+                  <p rend="justify">The most effective way of removing the hydrogen is to add some chemical to the sulphuric acid solution which will combine chemically with the hydrogen as soon as it appears. The usual substance is <hi rend="italic">bichromate of potash</hi>. The voltage of the battery will rise to 2.2 volts and the polarization be stopped when bichromate of potash is added. The bichromate of potash enters into chemical action with the sulphuric acid and forms chromic acid. Such cells are usually termed chromic acid cells.</p>
+                  <p rend="justify">One of the principal disadvantages of a cell such as that just described lies in the fact that the zinc is continuously consumed whether the cell is in action or not and in order to prevent its rapid waste must be lifted out of the solution and washed each time after using.</p>
+                  <p rend="justify">Various methods have been devised for overcoming this objection, the most prominent of the resulting cells being known as the Fuller, Gordon and Edison-Lalande Cells.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 7. Edison Cell.</p>
+                  <p rend="justify">The liquid excitant of the Gordon and Edison-Lalande cells is a strong solution of sodium hydroxide. The positive pole of these cells is a block of compressed copper oxide and the negative a pair of zinc plates. In the Gordon cell the positive is enclosed in a porous chamber.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 8. Dry Cell.</p>
+                  <p rend="justify">One of the best known forms of cell is the dry cell. It consists of an outer shell of zinc forming the negative electrode and a central rod of carbon as the positive. The active agent of the cell is a paste composed principally of sal ammoniac lining the interior of the zinc shell. The depolarizing agent of the cell is manganese dioxide mixed with crushed carbon and packed tightly around the carbon rod. The cell is not as its name implies perfectly dry inside, but the chemicals are in paste form. The cell is sealed at the top by a bituminous compound making the cell air tight and portable. Dry cells are only successful for intermittent work, that is, where they are not required to deliver a heavy current continuously. They deteriorate after long standing because the moisture evaporates. Dry cells, however, are a very convenient source of current where the demand is not too great and portability is desired.</p>
+                  <p rend="justify">The cells so far described are all of the type known as primary cells.</p>
+                  <p rend="justify">
+                     <hi rend="bold">SECONDARY CELLS.</hi>
+                  </p>
+                  <p rend="justify">The storage cell or secondary cell is made up of plates of lead, or an alloy of lead, cast in the form of a grid or framework of bars. The spaces formed in the plate by the little bars are filled with a paste of lead oxide. The paste for the positive plates are made of red lead while litharge is used for the negatives.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 9. A Storage Battery Grid.</p>
+                  <p rend="justify">The positive and negative plates are placed alternately in a bundle with a wooden or rubber separator between, there always being one more negative plate than positive. The negative plates are all connected in parallel at one end of the cell by means of lead connecting strips. The positive plates are connected at the other end. The plates are placed in a jar, usually glass or hard rubber, and covered with a dilute sulphuric acid solution.</p>
+                  <p rend="justify">The storage cell is then connected to a dynamo, the positive pole of the cell being connected to the positive pole of the dynamo and the current allowed to flow through until the plates are <hi rend="italic">formed</hi>, that is to say, until the paste in the positive changes to <hi rend="italic">peroxide of lead</hi>  and that in the negative to <hi rend="italic">spongy</hi>  lead. When the cell is disconnected it will give out a current of its own lasting until it becomes discharged. The charging and discharging must be repeated several times before the cell really becomes efficient.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 10. Storage Cells.</p>
+                  <p rend="justify">What is effected in the storage cell is really the storage of chemical energy and not the storage of electricity, for, properly speaking, the energy is put into the form of chemical <hi rend="italic">affinity</hi>  and there is in reality no more electricity actually <hi rend="italic">in the cell</hi>  at the end of a charge than there is when the cell is discharged.</p>
+                  <p rend="justify">The storage battery is the most convenient means of absorbing electrical energy at one time or place and using it at another time or place.</p>
+                  <p rend="justify">Storage cells are very often employed in wireless stations for emergency purposes so that in case the dynamo supplying current fails the station will not be thrown out of operation.</p>
+                  <p rend="justify">The voltage of a storage cell is about two volts.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON FOUR. ELECTRIC CURRENTS.</head>
+                  <p rend="justify">
+                     <hi rend="bold">The Units of Measurement. Direct and Alternating Currents. Ohm’s Law.</hi>
+                  </p>
+                  <p rend="justify">Electric Currents may be divided into two classes known as <hi rend="italic">direct</hi>  and <hi rend="italic">alternating</hi>  current. Either one may be measured or qualified by two electrical units called the <hi rend="italic">Ampere</hi>  and the <hi rend="italic">Volt</hi>. The volt may be explained by likening it to the "unit of pressure" of the current, while the ampere measures the unit rate of current flow. For example, in the case of water the voltage corresponds to the pressure in pounds while the amperage would indicate the rate of water flowing.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 11. Hydraulic Analogy between Voltage and Amperage.</p>
+                  <p rend="justify">The accompanying sketches show graphically the analogy between the voltage and amperage of an electric current and the pressure and volume of a stream of water. In the first illustration a tank is shown at a high elevation from which a small pipe leads. The voltage or pressure in such a pipe would be high in comparison with that in a pipe leading from a lower tank.</p>
+                  <p rend="justify">In the second illustration the pipe leading from the tank is much larger than that from the first and consequently the amperage or volume flowing is greater in comparison. From this it may be readily seen that every circuit through which a current is flowing must exhibit both quantities.</p>
+                  <p rend="justify">The unit of electrical work or energy is the <hi rend="italic">Watt</hi>. Seven hundred and forty-six watts constitute an electrical horse-power. The number of watts is indicated by the voltage times the amperage. Thus the amount of energy in a circuit in which 50 amperes at 100 volts pressure are passing is 50 x 100 or 5,000 watts.</p>
+                  <p rend="justify">The <hi rend="italic">Couloumb</hi>  represents the quantity of electricity flowing in a circuit-where the rate of flow is one ampere per second.</p>
+                  <p rend="justify">In order to properly indicate comparative amounts of energy the element of time must also be taken into consideration. One watt passing for one hour is a <hi rend="italic">watt-hour</hi>. Seven hundred and forty-six watts passing for one hour or one watt passing for seven hundred and forty-six hours is a <hi rend="italic">horse-power hour</hi>.</p>
+                  <p rend="justify">The instruments used for measuring the amperage and voltage of a circuit are called respectively the <hi rend="italic">ammeter</hi>  and the <hi rend="italic">voltmeter</hi>. That used for registering watt-hours is called the <hi rend="italic">integrating watt-meter</hi>.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 12. Diagram Showing Alternating and Direct Current.</p>
+                  <p rend="justify">Direct current is current that passes or flows in one direction only. The current of all primary and secondary cells and of certain forms of dynamos is direct.</p>
+                  <p rend="justify">Alternating current is current that repeatedly reverses its direction of flow. A direct current may be represented by a straight line. An alternating current is shown by a wavy line crossing and recrossing a straight line. The current gradually rises from zero to a maximum and then dies away. It does not stop at this point however, but starts to rise again, this time flowing in a reverse direction. After reaching a maximum it dies away again and the cycle is repeated. From <hi rend="italic">a</hi>  to <hi rend="italic">c</hi>  represents a <hi rend="italic">cycle</hi>  and from <hi rend="italic">a</hi>  to <hi rend="italic">b</hi>  an <hi rend="italic">alternation</hi>. Alternating currents usually have a frequency of 30, 60 or 120 cycles per second. Sixty is the most common frequency. Many wireless telegraph stations now employ currents having a frequency of 500 cycles.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Ohm’s Law.</hi>
+                  </p>
+                  <p rend="justify">Mention has been made above of certain electrical magnitudes, namely, voltage or electromotive force and amperage or strength of current. These bear an important relation in determining a property of an electric circuit called <hi rend="italic">resistance</hi>.</p>
+                  <p rend="justify">No conducting body possesses perfect electrical conductivity, but presents a certain amount of obstruction or resistance to the passage of electricity. The practical unit of resistance is the Ohm. It is represented by the resistance offered to an unvarying electric current by a column of mercury at the temperature of melting ice, 14.4521 grams in mass, of a constant cross sectional area and of the length of 106.3 centimetres.</p>
+                  <p rend="justify">The resistance of a conductor is proportional to its length, that is, provided two conductors are made of the same material and of the same diameter and one is twice as long as the other, the resistance of the longer will be twice that of the shorter conductor. The resistance is inversely proportional to the cross sectional area, which is to say that a conductor of smaller cross section has a greater resistance than one of larger section.</p>
+                  <p rend="justify">The laws of resistance are conveniently expressed by the following formula called Ohm’s Law.</p>
+                  <p rend="justify">C = E/R</p>
+                  <p rend="justify">where E=electromotive force in volts.</p>
+                  <p rend="justify">C=current in amperes.</p>
+                  <p rend="justify">R=resistance in ohms.</p>
+                  <p rend="justify">If two factors are known, the third can be found by substitution.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON FIVE. ELECTROMAGNETISM.</head>
+                  <p rend="justify">
+                     <hi rend="bold">The Electromagnet. The Solenoid.</hi>
+                  </p>
+                  <p rend="justify">If a current of electricity is passed through a copper wire, the wire will attract to itself iron filings, etc., as long as the current continues to flow. There is then a magnetic field around the wire. As soon as the current is shut off the filings drop away because the field immediately disappears with the cessation of the current.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 13. Magnetic Phantom about a Wire Carrying Current.</p>
+                  <p rend="justify">The lines of force flow around the wire in a circle. The circular lines of the field of force surrounding a straight wire may be shown by passing a wire vertically through a hole in the centre of a horizontal card. Iron filings are sifted over the card and a strong current passed through the wire. On tapping the card gently, the filings near the wire set themselves in concentric circles round it.</p>
+                  <p rend="justify">The creation of a magnetic field by a conductor in its own neighborhood when carrying a current of electricity is one of the most important phenomena of electrical science.</p>
+                  <p rend="justify">Electrical energy must be expended in producing a magnetic field. When a current of electricity is turned on in a wire the magnetic field grows around the wire, some of the energy of the current being used for the building process.</p>
+                  <p rend="justify">This reactive effect of the surrounding magnetic field is one reason why electric currents do not instantly rise to their full value.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 14. Diagram showing how Lines of Force Form about a Loop of Wire.</p>
+                  <p rend="justify">If a wire is connected to a battery or some other source of electric current and a portion of the circuit twisted so as to form a loop, the entire space enclosed by the loop will be a magnetic field and possess magnetic properties.</p>
+                  <p rend="justify">By forming a wire into a spiral coil the combined effect of each individual turn is concentrated in a small space and a powerful field of force is produced. If the coil is provided with an iron core, the lines of force can be concentrated and will exercise a very powerful attractive effect upon any neighboring masses of iron or steel. Such a coil is called an <hi rend="italic">electromagnet</hi>. A hollow coil without any core is called a <hi rend="italic">solenoid</hi>.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 15. Magnetic Phantom about a Coil of Wire.</p>
+                  <p rend="justify">Solenoids and electromagnets play a very important part in the construction of most electrical instruments.</p>
+                  <p rend="justify">The strength of an electromagnetic coil is proportional to its <hi rend="italic">ampere turns</hi>. The ampere turns of a coil are obtained by multiplying the number of amperes flowing through the coil by the number of turns of wire composing it.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON SIX. DYNAMO ELECTRIC MACHINERY.</head>
+                  <p rend="justify">
+                     <hi rend="bold">The Dynamo. The Alternator. The Motor.</hi>
+                  </p>
+                  <p rend="justify">The discovery of the induction of currents in wires by moving them across a magnetic field led to the construction of electrical machines, called dynamos, to generate current in place of batteries.</p>
+                  <p rend="justify">The dynamo is perhaps the most important piece of electrical apparatus there is for it is the source of ninety-nine percent of all the electricity now in use. It is practically necessary in any case where a considerable quantity of electricity is used to have a dynamo on the spot or else bring the currents over a wire from some supply station where dynamos are kept running.</p>
+                  <p rend="justify">The operation of a dynamo is dependent upon current induction. It contains a system of closed conductors revolving in a magnetic field in such a way as to continuously vary the number of lines of force threading among them.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 16. Diagram showing the principle of the Dynamo.</p>
+                  <p rend="justify">The illustration show's the ideal simple dynamo, which consists of a loop of wire arranged to revolve between the poles of a permanent magnet in the direction of the arrow and around a horizontal line as an axis. The lines of magnetic force (represented by the fine straight lines) pass across from N to S as indicated. When in the position shown, the coil of wire encloses the largest possible number of lines of magnetic force. When it has revolved ninety degrees or a quarter of a turn as shown by the dotted lines, the lines of force will be parallel to the plane of the coil and none will pass through. During this quarter of the turn the number of lines of force has been decreasing. During the next quarter of a turn the lines will increase again, but will this time pass through from the opposite side of the loop. This decrease and increase of the number of lines of force passing through the loop generates therein a current of electricity. The same process is repeated during the next half of a revolution. However, since the lines of force flow through from opposite sides of the coil every half revolution, the current reverses twice during the same period.</p>
+                  <p rend="justify">In the illustration the loop is represented as forming a complete closed circuit in itself. In order to draw any current for external use some method of establishing connection to the terminals of the coil must be had. This is furnished by two circular rings called <hi rend="italic">collector rings</hi>. The little strips of metal or carbon employed to form contact with the rings are called brushes.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 17. Simple Alternator.</p>
+                  <p rend="justify">Such a machine, so equipped will deliver alternating currents and illustrates the principle of the alternating current dynamo or <hi rend="italic">alternator</hi>.</p>
+                  <p rend="justify">With the aid of a device called a <hi rend="italic">commutator</hi>  and consisting of a ring split in sections as shown in the illustration, all the successive current impulses may be turned in the same direction and the current made direct.</p>
+                  <p rend="justify">In practice many coils of wire wound around an iron core called the <hi rend="italic">armature</hi>, the purpose of which is to concentrate the magnetic lines of force, are made to revolve in a powerful <hi rend="italic">field</hi>  between the poles of adjacent electromagnets. Electromagnets are used because they are capable of producing a stronger magnetic field than magnetized bars of steel. The electromagnets used for this purpose are called <hi rend="italic">field magnets</hi>. The central iron portion upon which the revolving coils are wound, called the <hi rend="italic">armature</hi>, is usually built up of a number of thin sheets of soft steel called armature disks or laminations.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 18. Simple Dynamo showing Commutator.</p>
+                  <p rend="justify">The modern armature is very complex. A simple coil such as those shown in Figs. 17 and 18 will not yield a steady current for twice in each revolution the electromotive force dies away to zero. The coils of large dynamos are grouped so that some of them are always active.</p>
+                  <p rend="justify">There are three general methods of supplying current to the held magnets of a dynamo, known as the <hi rend="italic">series</hi>, <hi rend="italic">shunt</hi>  and <hi rend="italic">compound</hi>  windings.</p>
+                  <p rend="justify">The series dynamo is arranged so that the coils of the held magnets are in series with those of the armature.</p>
+                  <p rend="justify">In the shunt dynamo, the coils of the held magnet form a shunt to the main circuit and being made of many turns of thin wire, draw off only a small fraction of the whole current.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 19. Diagram of Dynamo Field Windings.</p>
+                  <p rend="justify">The compound dynamo is partly excited by shunt coils and partly by series coils.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 20. Motor Generator.</p>
+                  <p rend="justify">Each variety of dynamo winding has a certain advantage depending upon the condition of use.</p>
+                  <p rend="justify">In the case of alternating current dynamos, the field magnets are sometimes supplied from a separate dynamo called an "exciter." In other cases the dynamo is provided with two sets of windings, one connected to a commutator producing a direct current which excites the field coils and the other connected to a set of rings and supplying the alternating current.</p>
+                  <p rend="justify">In case a supply of either direct or alternating current is available and it is desirable to change the supply from direct to alternating or vice versa, it may be accomplished by employing a Motor-Generator. A motor-generator consists of an electric motor operating from the source of current supply on hand and driving a dynamo which supplies current of the kind desired.</p>
+                  <p rend="justify">A motor is exactly the reverse of a dynamo. If a current of electricity is passed into a dynamo, the armature will be dragged around by the mutual action of the currents flowing in the copper conductors and the magnetic field in which they lie. Such a device constitutes a motor and may be employed to do useful work.</p>
+                  <p rend="justify">Motors are classified as alternating and direct current machines accordingly as they are built to operate on either kind of current.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON SEVEN. THE INDUCTION COIL.</head>
+                  <p rend="justify">The Induction Coil is an apparatus for producing currents of a very high electromotive force. It consists of a helix of large, insulated wire surrounding an iron core, and this again surrounded by a second coil consisting of many thousand turns of very fine wire carefully insulated. The inner or primary coil is connected in series with a battery, the circuit also including a device called an <hi rend="italic">interrupter</hi>. The object of the interrupter is to make and break the primary circuit in rapid succession. Every time the current is turned on in the primary circuit, the primary coil creates a magnetic field which induces a current in the secondary in accordance with the laws of induction.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 21. Diagram of Induction Coil.</p>
+                  <p rend="justify">Likewise at every "break" in the circuit caused by the interrupter, the lines of force disappear and a second current impulse is induced in the <hi rend="italic">secondary</hi>  coil. As the number of lines of magnetic force created and destroyed at each make and break is the same, the two electromotive impulses in the secondary are equal. By adding a <hi rend="italic">condenser</hi>, however, the current at "make" is caused to take a considerable fraction of time to grow, while at "break" the cessation is instantaneous in comparison. The rate of "cutting" of the lines of force is very much more rapid at "break" than at "make" therefore. The currents at "break" manifest themselves as a brilliant torrent of sparks between the ends of the secondary wires when they are brought near enough together.</p>
+                  <p rend="justify">The central iron core around which the coils are wound is for the purpose of increasing or concentrating the number of lines of force that pass through the coils. Magnetic lines flow more easily through iron than through air and so prefer that path. It is made up of a bundle of fine iron wires in order to avoid induced currents which would be set up in the iron were it a solid mass and so retard its rapidity of magnetization or demagnetization as to hamper the efficiency of the coil.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON EIGHT. THE PRINCIPLE OF THE TRANSFORMER.</head>
+                  <p rend="justify">The transformer is a device for raising or lowering A the electromotive force of an alternating current. In principle it consists of two insulated coils of wire called the <hi rend="italic">primary</hi> and the <hi rend="italic">secondary</hi> wound around an iron ring as shown in the illustration.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 22. Diagram showing the principle of a Transformer.</p>
+                  <p rend="justify">If the primary coil is connected to a source of alternating current it will rapidly magnetize and demagnetize the iron ring. The magnetic lines thus created will pass through the secondary coils setting up induced currents.</p>
+                  <p rend="justify">The ratio of the electro-motive force of the induced current to that of the primary current is in direct proportion to the ratio of the number of turns in the two coils. For example, if the secondary contains twice as many turns as the primary, its electro-motive force will be twice as great.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 23. Open and Closed Core Transformers.</p>
+                  <p rend="justify">Transformers are of two general types, the "open" core and the "closed" core. Closed core transformers are the most efficient. The open core transformer is similar in construction to an induction coil, the core being a straight bar, while that of the closed core machine is usually in the form of a hollow square or rectangle.</p>
+                  <p rend="justify">In practice, the cores of transformers are built up of <hi rend="italic">laminations</hi>, usually of thin, soft sheet iron strips piled together and shaped so as to constitute a closed magnetic circuit of rectangular shape in order to avoid constructional difficulties incurred in making a ring.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON NINE. THE LEYDEN JAR AND CONDENSER.</head>
+                  <p rend="justify">The Leyden Jar, called after the city of Leyden, Holland, where it was invented, is a form of condenser consisting of a glass jar coated up to a certain height inside and out with tinfoil.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 24. Leyden Jar.</p>
+                  <p rend="justify">A Leyden jar may be charged by holding the rod to the prime conductor of an electric machine, the outer coating being held in the hand. If a piece of wire connected to the outer coating is then brought near the rod a brilliant snapping spark will pass across the space.</p>
+                  <p rend="justify">Any two conductors, separated by an insulating medium termed the dielectric, constitute a condenser and possesses the property of receiving and retaining an electric charge.</p>
+                  <p rend="justify">If a charged condenser or Leyden jar is discharged slowly by allowing the electricity to pass through a high resistance conductor the flow of current increases in strength at first and then gradually dies away.</p>
+                  <p rend="justify">If, however, the condenser is discharged through a coil of wire of one or more turns, the discharge consists of a number of excessively rapid oscillations or surgings. The first rush of current serves to more than empty the condenser and charges it the opposite way, then follows a reverse discharge, which also oversteps itself and charges the condenser the same way as the first and so on, each successive oscillation being weaker than the one before until the discharge dies away as in Fig. 36. The discharge of a condenser under such conditions consists of a number of successive sparks in reverse directions.</p>
+                  <p rend="justify">The ability of a condenser to receive and retain an electrical charge is termed the <hi rend="italic">capacity</hi>  and is measured by a unit called the <hi rend="italic">farad</hi>. The farad is so large a quantity, however, that it is never met in practise and for convenience the <hi rend="italic">micro-farad</hi>  which is one millionth of a farad has been adopted.</p>
+                  <p rend="justify">A condenser of one farad capacity is such as would be raised to a potential of one volt by a charge of one coulomb of electricity.</p>
+                  <p rend="justify">The capacity of the condenser is dependent upon the thickness and nature of the insulating medium or <hi rend="italic">dielectric</hi>. The quality of a dielectric which decides the capacity of a condenser in which it may be a part is called its <hi rend="italic">specific inductive capacity</hi>. The following table shows the relative specific inductive capacity of several materials, air being the standard:</p>
+                  <p>  TABLE OF SPECIFIC INDUCTIVE CAPACITIES.</p>
+                  <table rend="frame" xml:id="Table1">
+                     <row role="label">
+                        <cell rend="start bold">Substance.</cell>
+                        <cell rend="start bold">Constant.</cell>
+                     </row>
+                     <row>
+                        <cell>Air</cell>
+                        <cell>1.00</cell>
+                     </row>
+                     <row>
+                        <cell>Paraffin</cell>
+                        <cell>1.68—2.47</cell>
+                     </row>
+                     <row>
+                        <cell>Petroleum</cell>
+                        <cell>2.02—2.19</cell>
+                     </row>
+                     <row>
+                        <cell>Gutta Percha</cell>
+                        <cell>3.00</cell>
+                     </row>
+                     <row>
+                        <cell>Hard Rubber</cell>
+                        <cell>2.28</cell>
+                     </row>
+                     <row>
+                        <cell>Mica</cell>
+                        <cell>6.64</cell>
+                     </row>
+                     <row>
+                        <cell>Glass</cell>
+                        <cell>6.72—7.38</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>LESSON TEN. THE ETHER AND THE ELECTROMAGNETIC THEORY OF LIGHT.</head>
+                  <p rend="justify">All space is filled with a weightless, invisible medium called Ether. It is the substance with which the universe is filled, it reaches to the stars and through the very earth itself.</p>
+                  <p rend="justify">It has been known for some time that light consists of vibrations or motions in the ether. In 1867, Clerk Maxwell offered the theory that these light waves are not merely mechanical motions of the ether, but are electrical undulations. According to this theory, the phenomena of electro-magnetism and the phenomena of light are all due to certain modes of motion in the ether.</p>
+                  <p rend="justify">Twenty years later, Heinrich Hertz discovered convincing proofs of Maxwell’s theory and succeeded in producing electro-magnetic waves in such a manner that they possessed the same properties, traveled at the same speed, and were capable of being reflected, refracted, polarized, etc.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 25. Hertzian Oscillator and Resonator.</p>
+                  <p rend="justify">Hertz employed an apparatus consisting of two metallic balls connected by metal rods to two metal sheets. The two balls were also connected to the secondary terminals of an induction coil. This apparatus comprised the oscillator and served to create the electro-magnetic waves.</p>
+                  <p rend="justify">In order to detect the waves, he employed a resonator consisting of a circle of wire having in it a minute spark gap capable of fine adjustment.</p>
+                  <p rend="justify">As soon as the coil is set in operation a spark snaps across the gap and sets up a temporary conducting path for the surgings that follow. Each spark sent by the coil across the gap consists of a dozen or so <hi rend="italic">oscillations</hi>, each lasting less than a millionth of a second.</p>
+                  <p rend="justify">Then if the resonator is placed a few feet away from the oscillator and turned broadside on to the oscillator, it will be found that small sparks jump across the gap. Hertz employed various arrangements for reflecting and polarizing the waves and definitely proved that their nature is the same as that of light.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON ELEVEN. ELECTRIC WAVES.</head>
+                  <p rend="justify">When a Leyden jar discharges under the conditions set forth in one of the previous lessons, portions of the energy of the current or discharge are thrown off from the conductor and do not return to it, but go traveling on in space.</p>
+                  <p rend="justify">If a current is sent through a circuit, as the current increases, the magnetic field also increases, the magnetic lines enlarging and spreading outward from the conductor like the ripples on a pond. If the current is decreased, the magnetic lines all return back and close up upon the conductor, the energy all being re-absorbed into the circuit.</p>
+                  <p rend="justify">If electrical oscillations of extreme rapidity such as those generated by a condenser discharge are substituted for a current slowly rising and falling, part of the energy radiates off into the ether as <hi rend="italic">electromagnetic</hi>  waves and only a part returns back.</p>
+                  <p rend="justify">The discharge of a Leyden jar or condenser only oscillates when the circuit contains a certain amount of <hi rend="italic">capacity</hi>  and <hi rend="italic">inductance</hi>  in proportion to the resistance of the circuit.</p>
+                  <p rend="justify">Inductance is the property of a circuit by virtue of which lines of force are developed around it. Circuits containing a certain amount of inductance, capacity and resistance tend to oscillate electrically at a certain frequency.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 26. Electric Waves.</p>
+                  <p rend="justify">The electromagnetic waves thrown off by the aerial system follow the contour of the earth and so may cross mountains or travel anywhere. The waves emitted by the ordinary wireless station, making use of an aerial and a ground are <hi rend="italic">half</hi>  waves terminating in the earth as shown in the illustration. In passing over the earth they are accompanied by ground currents which waste a certain amount of their energy in overcoming ohmic resistance and so reduce the intensity of the waves. For this reason propagation is always the best over water or moist earth whose resistance is low.</p>
+                  <p rend="justify">A further peculiar weakening of the waves due to the absorbtion taking place in the air during sunlight. The difference between the signals in the day and their strength at night is very marked, being much stronger in the later case.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON TWELVE. PRINCIPLES OF WAVE TELEGRAPHY.</head>
+                  <p rend="justify">Wireless Telegraphy as practiced to-day is merely a method of setting up electromagnetic waves in the ether and then detecting their existence at a distant point. It may be divided into four distinct and individual operations, namely:</p>
+                  <list rend="numbered">
+                     <item>The generation of electrical oscillations.</item>
+                     <item>The transformation of electrical oscillations into electrical waves.</item>
+                     <item>The transformation of electrical waves into electrical oscillations.</item>
+                     <item>The detection of the electrical oscillations.</item>
+                  </list>
+                  <p rend="justify">We have already learned how electrical oscillations may be generated by the discharge of a Leyden jar or a condenser. In order to perform the first two operations named above, it is therefore merely necessary to arrange a condenser in such a way that it is most effective.</p>
+                  <p rend="justify">The induction coil or transformer is employed to charge the condenser because the currents of these instruments are much more powerful than those of a static electric machine. The induction coil is connected to a set of batteries and a key so that the periods during which the current is on and off may be controlled at will by the pressure of the fingers.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 27. Diagram of Wireless Transmitter.</p>
+                  <p rend="justify">The secondary of the coil is connected to a battery of Leyden jars or a condenser. The fact was mentioned above that a certain amount of inductance in the circuit is necessary for the production of electrical oscillations This is furnished, or at least the greater part, by a device called a helix which consists of a coil of heavy wire wound around a suitable framework.</p>
+                  <p rend="justify">The spark discharge takes place across a device called a spark gap.</p>
+                  <p rend="justify">When the key is pressed, the high potential currents of the induction coil charge the Leyden jar or condenser and cause it to discharge through the helix and across the spark gap. High frequency oscillations are immediately created in this part of the circuit. The spark gap, condenser and that part of the helix included, constitute the closed circuit. The electromagnetic waves thrown off by such an oscillatory system would not be very far reaching in their effects because the disturbances would be confined to the immediate neighborhood of the apparatus, so recourse is had to the aerial and ground. The aerial consists of a network of wires elevated high in the air. The ground or earth connection is simply a large metal plate buried in moist earth or thrown into the sea. By connecting the aerial and ground to the helix in the manner shown in Fig. 27, the high frequency currents are caused to surge up and down the aerial system into the ground and create very powerful electromagnetic waves which possess the power of exciting electrical oscillations in another aerial even though it may be located many miles away.</p>
+                  <p rend="justify">The existence of these oscillations is made known to the receiving operator by a device known as a detector, described fully in one of the following lessons.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON THIRTEEN. THE AERIAL.</head>
+                  <p rend="justify">The aerial system or antenna might be termed the mouth and ear of the wireless station, for it is this huge network of wires stretching high into the air that emits or intercepts the electromagnetic waves upon which such systems of communication depend.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 28. General Types of Aerials</p>
+                  <p rend="justify">The value of an aerial is dependent upon its height above the surface of the earth. The greater its height the wider will be the field of force or strain set up in its neighborhood and consequently more powerful electric waves will be developed. Proximity to all large conductors, such as smokestacks, telephone lines, etc., is always avoided because these obstacles would absorb appreciable amounts of the energy sent out from the station and also shield it somewhat from the incoming waves. Aerials are usually constructed of conductors made up of a number of wires stranded together. High frequency currents only travel near the surface of conductors and stranded wires consequently offer less resistance because they possess more surface than a solid conductor of equal cross section.</p>
+                  <p rend="justify">The aerial is always carefully insulated by means of special high tension insulators, made of insulating composition molded into a corrugated bar having iron rings embedded in each end to which the wires may be fastened.</p>
+                  <p rend="justify">Aerials take many different forms, but may be classified into two general groups called the vertical aerials and flat top aerials.</p>
+                  <p rend="justify">Vertical aerials compose the <hi rend="italic">grid</hi>, <hi rend="italic">fan</hi>, <hi rend="italic">cage</hi>  and <hi rend="italic">umbrella</hi>  forms.</p>
+                  <p rend="justify">Flat top aerials are known as the <hi rend="italic">T</hi>, <hi rend="italic">inverted U</hi>, <hi rend="italic">L</hi>  and <hi rend="italic">V</hi>  types, according to their shape.</p>
+                  <p rend="justify">The Pyramid Aerial is only employed in ultra-powerful stations and is becoming an obsolete form.</p>
+                  <p rend="justify">The Fan Aerial is a good type of especial value in crowded quarters.</p>
+                  <p rend="justify">The Grid Aerial is probably the best form of vertical aerial, but is gradually giving way to those of the flat top class.</p>
+                  <p rend="justify">The Cage Aerial is rarely used nowadays and may be considered obsolete.</p>
+                  <p rend="justify">The Umbrella Aerial is a very good type now being employed in many high power stations. A metallic pole or mast insulated at the base used to support the wires, so that it is part of the aerial itself.</p>
+                  <p rend="justify">The "T" Aerial is the most nearly perfect and gives the best "all around" results.</p>
+                  <p rend="justify">The "L" or Horizontal type of aerial is used wherever it is desirable for any reason to send the most powerful waves in one direction.</p>
+                  <p rend="justify">The "V" type is used where the highest point must be near the station.</p>
+                  <p rend="justify">The wire leading into the station, from the aerial is called the "rat-tail" or "lead-in." It is always very carefully insulated and usually enters the station through a hole in the window or wall by means of a "window pane bushing" or "leading-in insulator."</p>
+                  <p rend="justify">Certain aerials possess a directive action, that is they radiate and receive messages in some directions better than others. Flat top aerials possess this peculiarity more noticeably than the vertical types. Flat top aerials receive and radiate waves coming from and going towards a direction opposite to that in which the free end points.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 29. Spiral Aerial.</p>
+                  <p rend="justify">The free end is the opposite end to that to which the "rat-tail" is connected.</p>
+                  <p rend="justify">There are two free ends on a "T" aerial and so this form radiates and receives its waves equally well in two directions.</p>
+                  <p rend="justify">The inverted "L" and "V" types possess a very decided directive action.</p>
+                  <p rend="justify">Certain aerial forms may be classed as loop and straightaway accordingly as they are connected and led into the station. In the straightaway form of antenna, the wires are connected together as a whole and one rat-tail led into the station. In the loop form the wires are all connected together and divided into two sections. Two wires are led into the station.</p>
+                  <p rend="justify">The loop form gives slightly better results in a short aerial, but in most cases the straight away is decidedly the most efficient.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON FOURTEEN. THE WIRELESS COIL.</head>
+                  <p rend="justify">The induction coil used for wireless telegraph purposes differs from the ordinary coil commonly employed in the laboratory in that it is usually built in a more substantial manner and gives a heavier, more powerful discharge from the secondary.</p>
+                  <p rend="justify">Induction coils of this type are usually enclosed in a strong wooden case filled with insulating compound and are sometimes termed box coils. They are fitted with an interrupter arranged to give a very long period of "make" and a short "break."</p>
+                  <p rend="justify">Coils giving sparks greater than six inches in length are usually provided with an independent interrupter which may be one of several types.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">Fig. 30. Wireless Spark Coil.</p>
+                  <p rend="justify">The ordinary independent interrupter consists of the usual form of interrupter, but is operated by the magnetism of a separate electromagnet in place of that of the coil primary itself. An independent interrupter of this type is usually provided with screws for adjusting the speed, and the duration of make and break.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 31. Independent Interrupter.</p>
+                  <p rend="justify">The Mercury Turbine form of interrupter is a very unsuccessful type in which a stream of mercury is made to play against a number of saw-shaped metal teeth. A spiral worm terminating in a nozzle-at the top is rapidly revolved by an electric motor. The lower end of the tubular worm dips into a mercury reservoir so that when the spiral is revolved, the mercury rises in the tube by centrifugal action and is thrown out from the upper end in the form of a jet.</p>
+                  <p rend="justify">When the revolving jet strikes one of the metal teeth the circuit is made and when it passes between it is broken. Raising and lowering the saw teeth so that the mercury strikes either the lower or upper part varies the ratio of time of the make and break.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 32. Electrolytic Interrupter.</p>
+                  <p rend="justify">The electrolytic interrupter consists of a cathode or negative electrode of sheet lead immersed in diluted sulphuric acid and an anode composed of a piece of platinum wire placed in a porcelain tube and projecting through a small hole in the bottom, so that only a very small portion of the wire is exposed to contact with the liquid. When a strong electric current is passed through the acid electrolyte, the current is very rapidly interrupted by the formation of gases on the small platinum electrode. The number of breaks per second possible with an electrolytic interrupter is extremely high. A potential of at least 40 volts is required to operate such an interrupter, however.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON FIFTEEN. THE HIGH POTENTIAL TRANSFORMER.</head>
+                  <p rend="justify">The transformer, like the induction coil, steps up the voltage of the current to a value where it is sufficient to charge the condenser.</p>
+                  <p rend="justify">The transformer for wireless work should have a potential of from 15,000 to 40,000 volts. Several manufacturers claim advantage for low voltages and build machines having a potential of only about 8,000 volts, but experiments have shown that under most ordinary conditions higher voltages permit greater range of transmission.</p>
+                  <p rend="justify">Both open and closed core machines may be used with good results. Probably, however, neither one is the best.</p>
+                  <p rend="justify">The core of a wireless transformer is built up of sheet iron "laminations" to reduce core losses and eddy currents.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 33. High Potential Closed Core Transformer.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 34. Method of Protection against "Kick-Back"</p>
+                  <p rend="justify">The secondary windings are very carefully insulated with empire cloth or paper and may or may not be immersed in oil accordingly as they are designed.</p>
+                  <p rend="justify">A transformer, more especially than an induction coil, produces a "kick-back" on the line. "Kick-back" is a high potential current caused by the counter action of currents in the condenser and aerial system, due to the fact that they continue to surge after the current has dropped to zero or so low that it is unable of its own accord to produce secondary currents which will jump the spark gap.</p>
+                  <p rend="justify">"Kick-back" destroys insulation and is liable to cause burnouts of other electrical instruments supplied from the same system. It may be guarded against by providing the line with a protective device which consists of a condenser having a capacity of one or two micro-farads placed directly across the terminals of the transformer in series with two five-ampere fuses. A small spark gap open about 1/64 of an inch wide is connected across the terminals of the condenser.</p>
+                  <p rend="justify">In case special protection is desired for some instrument in the circuit, such as a meter, a protective device should be connected directly across its terminals.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON SIXTEEN. THE OSCILLATION CONDENSER.</head>
+                  <p rend="justify">The Oscillation Condenser might almost be termed the most important part of a wireless station.</p>
+                  <p rend="justify">Transmitting Condensers usually take the form of a battery of Leyden jars arranged in a suitable case or container. Very often they are placed in a tank of oil to eliminate <hi rend="italic">brush</hi>  discharges or leakage which takes place from the edges of the tinfoil.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 35. Plate Condenser.</p>
+                  <p rend="justify">Leyden jars are usually covered with very heavy tinfoil or thin sheet copper to prevent blistering. The best method, however, is to deposit a metallic covering electrolytically.</p>
+                  <p rend="justify">The principle objection to Leyden jars is their bulk.</p>
+                  <p rend="justify">Glass plate condensers are not so bulky or expensive and do not blister.</p>
+                  <p rend="justify">Plate condensers are sometimes merely placed in racks, but more often in a tank of oil to eliminate all brush discharges.</p>
+                  <p rend="justify">Condensers are always made so as to be adjustable in order that the capacity of the circuit may be carefully regulated.</p>
+                  <p rend="justify">Only the finest selected glass of the greatest dielectric strength is used in making condensers, in order to avoid all losses and possibility of breakdown.</p>
+                  <p rend="justify">Whenever condensers must withstand a very heavy voltage, they may be connected in series so that the voltage is divided between them and the strain is not so great. This method reduces the capacity just one-half, however, and when used requires four times as many plates or jars, as the case may be, than if they were connected in one multiple set.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON SEVENTEEN. THE HELIX.</head>
+                  <p rend="justify">The Helix supplies the greater part of the inductance to the closed circuit of the transmitter. It also acts as a transformer, serving to raise the voltage of the currents surging through the closed circuit and impress them upon the aerial system. The turns of the helix included in the closed circuit constitute the primary of the transformer, while those in the open circuit form the secondary.</p>
+                  <p rend="justify">A helix consists of a heavy conductor, either brass or copper, wrapped around a suitable frame of wood or hard rubber. Some forms consist of a spiral of copper ribbon clamped between two cross-shaped frames.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 36. Helix.</p>
+                  <p rend="justify">Helixes are of two kinds, known as "close" or direct coupled and "loose" or inductively coupled. In an inductively coupled transmitter the primary and secondary are wound upon separate frames and are not connected together.</p>
+                  <p rend="justify">The U. S. Government Radio regulations place a limit on the amount of <hi rend="italic">damping</hi>  permissable in a transmitter.</p>
+                  <p rend="justify">It has already been explained in one of the previous lessons how the oscillations or surgings of the spark discharge rapidly die away. A spark which thus rapidly dies away is said to be <hi rend="italic">rapidly damped</hi>. The damping of a loose coupled transmitting set is never as great as that of a close coupled set.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 37. A Damped Oscillation.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">Close-Coupled Transmitter vs. Loose-Coupled Transmitter</p>
+                  <p rend="justify">For this reason the old style helixes are now practically obsolete and the loose or inductively coupled helix is the one most commonly used. Loose coupled helixes are also often termed oscillation transformers.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 38. An Inductively Coupled Helix.</p>
+                  <p rend="justify">An ordinary transmitter tends to emit two sets of waves of different length. By carefully adjusting the coupling, pure trains of waves are formed by attracting the apices of the two sets of waves into one.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON EIGHTEEN. SPARK GAPS.</head>
+                  <p rend="justify">A Spark Gap is the medium across which the oscillatory discharge takes place. It usually consists of two electrodes of zinc alloy, nickel steel or brass, suitably mounted on an insulating base and standards.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 39. Spark Gap.</p>
+                  <p rend="justify">The electrodes are usually provided with flanges or radiators which tend to dissipate the heat and keep them cool. If the electrodes should become very hot the spark would arc, that is, pass across the gap without generating any electrical oscillations. Spark gap electrodes are usually flat or else hollow on the sparking surface.</p>
+                  <p rend="justify">The proper adjustment of the gap, i.e., the distance between the electrodes is a matter of the utmost importance for there is a point just where the maximum amount of energy will be radiated.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 40. Quenched Spark Gap.</p>
+                  <p rend="justify">The Quenched Gap, consists of a number of brass or copper disks placed in a pile, each disk being separated from the other by a thin mica ring. The distance between two adjacent disks is usually only about .01 inch. The effect of the quenched gap is to considerably reduce the damping of the system and make it possible to send signals very great distances with the consumption of only comparatively small amounts of energy.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 41. Rotary Spark Gap.</p>
+                  <p rend="justify">The Rotary Gap consists of a number of electrodes mounted on a motor shaft and arranged to revolve rapidly. The spark discharge takes place between the revolving electrodes and one or two fixed contacts. The effect of a rotary gap is to considerably increase the efficiency of the transmitter by allowing the condenser to become highly charged before it discharges and also reducing the possibility of arcing by keeping the electrodes cool and moving.</p>
+                  <p rend="justify">Rotary gaps are of two types, <hi rend="italic">synchronous</hi>  and <hi rend="italic">non-synchronous</hi>. Synchronous rotary gaps are mounted directly on the shaft of the generator supplying current to the transmitter and arranged so that the electrodes are opposite each other once during each alternation of the current.</p>
+                  <p rend="justify">The rotary gap, commonly used by amateur experimenters and consisting of a toothed disk mounted on the shaft of a small motor is of the non-synchronous type.</p>
+                  <p rend="justify">Rotary gaps are sometimes enclosed in an air tight case and the electrodes arranged so that the results obtained are characteristic of both the quenched and rotary gaps. This type of gap is known as the rotary quenched.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON NINETEEN. THE KEY.</head>
+                  <p rend="justify">Some means of controlling the currents flowing through the transmitter in order to divide them into periods corresponding to the dots and dashes of the Morse Code is necessary.</p>
+                  <p rend="justify">This is supplied by a hand operated switch, called a key. A key used for wireless purposes must be much larger and heavier than an ordinary key employed for line work in order to carry the more powerful currents.</p>
+                  <p rend="justify">In spite of the size and weight of a wireless key, if it is properly balanced, it may be handled with perfect control and ease.</p>
+                  <p rend="justify">The contact points of a wireless key are necessarily large and heavy. Special alloys found to be the most suitable for the purpose are usually employed. A large condenser having a mica dielectric is very often connected across the contacts to reduce the sparkling.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 42. Wireless Key.</p>
+                  <p rend="justify">In very large stations where extremely heavy currents must be handled, the key controls a large switch operating in oil. Every time the key is pressed the switch closes and when the key is released, opens. The currents of the transmitter are "made" and broken by the switch without passing through the key.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON TWENTY. AERIAL SWITCHES.</head>
+                  <p rend="justify">Since the same aerial is used both for transmitting and receiving, some method of quickly connecting it to either the transmitter or receiving apparatus must be provided. This is accomplished by means of an aerial switch.</p>
+                  <p rend="justify">The best and most efficient switch adopted generally by the commercial stations is the "T" type, consisting of a double pole, double throw switch having very long blades. One set of contacts is mounted on the switch base and the second are carried on a "T"-shaped support from which the switch derives its name. The aerial and ground are connected to the blades of the switch.</p>
+                  <p rend="justify">The lower contacts lead to the transmitting apparatus and the upper ones to the receiving instruments. By simply moving the switch up or down the aerial and ground may be connected to either the transmitter or the receptor at will.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 43. Aerial Switch.</p>
+                  <p rend="justify">A third blade, much shorter than the other two is usually provided and connected by means of an insulating bar to the other blades so that when they are moved it also moves. It connects with a contact arranged so that when the switch is thrown into position for transmitting the two come together. This blade and contact are made a part of the circuit supplying current to the primary of the coil or transformer so that in case the key should be accidentally touched while receiving the powerful discharge of the transmitter would not destroy the adjustment of the detector.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON TWENTY-ONE. ANCHOR GAPS.</head>
+                  <p rend="justify">Certain types of aerial switches require the use of what is known as an <hi rend="italic">anchor gap</hi>.</p>
+                  <p rend="justify">An anchor gap consists of a small insulating ring, usually hard rubber, having two and sometimes three electrodes set in the periphery and almost touching each other at the sparking points.</p>
+                  <p rend="justify">Anchor gaps having two electrodes are used in the aerial circuit of most Break-in-Systems to prevent the receiving currents from flowing directly into the ground through the transmitter without passing through the detector.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 44. Anchor Gaps.</p>
+                  <p rend="justify">A Break-in System enables the operator to hear the signals of any other station which may be transmitting at the same time when he is operating his own key.</p>
+                  <p rend="justify">The three-electrode anchor gap is commonly used on loop aerial systems. Two of the points are connected to the aerial, one to each half and the other to the lead from the helix. The high potential currents from the helix easily leap across the little gap and divide between the two halves of the aerial.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON TWENTY-TWO. DETECTORS.</head>
+                  <p rend="justify">The little bobbins of the telephone receivers exert a very powerful choking action upon the currents of high frequency which effectually blocks their passage and prevents them from having any action upon the receiver.</p>
+                  <p rend="justify">The purpose of the detector is to change these currents into such as will flow readily through the magnets of the telephone receiver and manifest themselves as sounds recognizable from their duration and periodicity as signals of the telegraph code.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 45. Electrolytic Detector.</p>
+                  <p rend="justify">Probably the most well known form is the electrolytic detector which consists of an exceedingly fine platinum wire dipping into a cup of dilute nitric acid far enough to just touch the surface of the liquid. The telephone receivers are connected to the detector, in series with a battery. The current from the detector causes bubbles to continuously form on the end of the wire and insulate it from the liquid so that the current cannot flow. When the aerial is struck by a wave, the feeble alternating currents break down the bubbles and permit the currents to flow, causing a sound in the telephone receivers.</p>
+                  <p rend="justify">The detectors in most common use to-day are of the crystal or rectifying type. There are a great many different forms of this type of detector, each one of which possesses certain features making it peculiarly adaptable under certain circumstances.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 46. Silicon Detector.</p>
+                  <p rend="justify">The silicon detector consists of a flat surface of highly polished silicon upon which rests a brass point.</p>
+                  <p rend="justify">The Pyron detector is composed of a crystal of iron pyrites embedded in a cup of fusible metal. A small wire spring bears against the surface of the crystal. The Pyron detector is somewhat harder to adjust than other forms of crystal detector, but remains in a sensitive condition much longer.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 47. Perikon Detector.</p>
+                  <p rend="justify">The Perikon detector consists of a cup of fusible alloy in which are imbedded several pieces of a mineral called zincite. Another cup containing a fragment of chalcopyrites or bornite is held in a cup carried on the end of a rotating rod. The chalcopyrites is brought into contact with one of the crystals of zincite and the pressure adjusted by means of a spring. The Perikon detector will operate without a battery, but that latter is necessary in order to obtain the best results when receiving faint or far away signals.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 48. Galena Detector.</p>
+                  <p rend="justify">The Perikon Electra detector is a very sensitive form of the regular Perikon detector fitted with a micrometer adjustment.</p>
+                  <p rend="justify">The Galena detector consists of a crystal of that material to which contact is made by means of a fine wire spring exerting very light pressure.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 49. Audion Detector.</p>
+                  <p rend="justify">Crystal detectors act as rectifiers and change the alternating currents Into direct currents, which will pass through the telephone receivers. Minerals used for this purpose are said to possess <hi rend="italic">unilateral conductivity</hi>, that is, they conduct currents better in one direction than the other and act much the same as a valve which allows water to flow in one direction, but not in the other.</p>
+                  <p rend="justify">Another well known detector of the "valve" type is that known as the <hi rend="italic">Audion</hi>, consisting of a small incandescent lamp containing a small grid and plate of nickel. When the lamp is lighted by connecting a battery to the filament, a flow of ions passing from the hot filament through the grid to the plate is set up. The grid and plate form part of the receiving circuit containing the telephones. The flow of ions carries the oscillatory currents from the grid to the plate, but does not allow them to pass back again. In this manner, the alternating oscillatory currents are converted into direct currents, which will pass through the telephone receivers.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 50. Carborundum Detector.</p>
+                  <p rend="justify">The Carborundum detector, as its name implies, is a device making use of the <hi rend="italic">unilateral conductivity</hi>  of carborundum. This form of detector is very sensitive and has been employed for a number of years in all the installations of the United Wireless Telegraph Co.</p>
+                  <p rend="justify">It consists of a small crystal of carborundum clamped tightly between two carbon electrodes. It may be used with or without a battery. The battery is preferred.</p>
+                  <p rend="justify">The Magnetic detector is a very sensitive device utilizing the changes in the magnetic state of iron, which are caused by rapidly oscillating currents. If a core of iron wires be placed in a varying magnetic field, the magnetization of the iron will lag behind the magnetizing force on account of <hi rend="italic">hysteresis</hi>  or "magnetic friction."</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 51. Marconi Magnetic Detector</p>
+                  <p rend="justify">But if a rapidly oscillating current is passed through a coil surrounding the iron, a sudden change in magnetization occurs, sufficient to induce an E. M. F. in a second coil surrounding the core and thus operate a telephone receiver in series with this coil.</p>
+                  <p rend="justify">The usual form of magnetic detector consists of a belt of fine iron wires passing over two pulleys which are driven by clockwork. A pair of permanent magnets supply the field which induces a continuously varying magnetization in the moving core. The core passes through the centre of a double coil, one part of which is connected to the telephone receivers and the others to the aerial and ground.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON TWENTY-THREE. TUNING COILS.</head>
+                  <p rend="justify">The tuning coil is a device consisting of a large number of turns of wire wound in the form of a cylinder and provided with one or more sliding contacts which can be brought into touch with any one of the turns at will in order to increase or decrease the electrical length or period of the circuit to suit the incoming waves.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 52. Double Slide Tuning Coil.</p>
+                  <p rend="justify">A circuit containing a certain amount of inductance, capacity and resistance tends to oscillate at a certain frequency. Therefore, the oscillations in every transmitting set have a certain frequency depending upon these factors. It is necessary to adjust the receiving apparatus so that it possesses the same frequency as the transmitter. The electro magnetic waves from the transmitting station will strike the aerial of the receiving station at a certain frequency and induce currence in it. If the receiving station is <hi rend="italic">tuned</hi>  to the same <hi rend="italic">period</hi>  as the transmitter each wave will give a slight impulse to the readily excited oscillations, which will grow in intensity just as small impulses given to a pendulum at the right times will make it swing violently.</p>
+                  <p rend="justify">The purpose of the tuning coil is to adjust the receiving circuit to the same period as that of the transmitter.</p>
+                  <p rend="justify">Tuning coils are wound of bare copper wire over a core composed of a specially treated cardboard tube. The wires are spaced apart so that they do not touch one another. Either one, two or three variable contacts or sliders are provided. The coils are consequently known as "single," "double" or "three" slide tuners.</p>
+                  <p rend="justify">A loading coil is a supplementary coil sometimes placed in series with the regular tuning coil to give a greater inductance to the circuit so that it may be given a much lower frequency in order to receive waves of greater length.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON TWENTY-FOUR. LOOSE COUPLERS.</head>
+                  <p rend="justify">A Loose Coupler or Receiving Transformer is a tuning coil in which the <hi rend="italic">coupling</hi>, as well as the inductance, is variable. We have already explained that an ordinary transmitting set throws off two sets of wave trains of slightly different length, one being somewhat weaker than the other.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 53. Loose Coupler.</p>
+                  <p rend="justify">The purpose of the loose coupler is not only to adjust the receiving set to the period of the transmitter in the manner of the tuning coil, but by varying the coupling to attract the apices of the weaker trains of waves to the same apex as the stronger waves and so really create a <hi rend="italic">pure</hi>  wave out of the other two.</p>
+                  <p rend="justify">This may be more easily understood from the accompanying illustration which represents diagrammatically a double train of waves and a pure train.</p>
+                  <p rend="justify">In construction, the loose coupler consists of a primary winding much the same as an ordinary tuning coil provided with a single slider.</p>
+                  <p rend="justify">A second winding called the secondary, divided into a number of sections and adjustable by means of a multi-pointed switch mounted on one end, slides in and out of the primary.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON TWENTY-FIVE. FIXED CONDENSERS.</head>
+                  <p rend="justify">A fixed condenser usually implies the condenser used in the receiving circuit to furnish part of the necessary <hi rend="italic">capacity</hi> and to shunt the telephone receivers, or as in cases where a battery is used in connection with the detector to force the current to choose a path through the comparatively low resistance turns of the tuning coil.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 54. Fixed Condenser.</p>
+                  <p rend="justify">A fixed condenser, as its name implies, has a fixed value or capacity. It is usually constructed of sheets of tinfoil interposed between sheets of thin paraffined paper or mica. The capacity of a fixed condenser usually varies from .002 to .005 microfarads.</p>
+                  <p rend="justify">An alternating current passes readily through a condenser but a direct current is effectually blocked.</p>
+                  <p rend="justify">When a direct current is led into a condenser as shown in the diagram, the half of the condenser represented by A becomes positively charged. When A receives a positive charge it repels the positive charge from B and attracts the negative thus making B negative. There is no change in the direction of the current after the first connection and the charge remains fixed and no currents pass.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 55.</p>
+                  <p rend="justify">If an alternating current is applied to the condenser when A receives a positive charge, B becomes negative. When A reverses and becomes negative B becomes positive. This process goes on, the two halves constantly changing their charge with the result that the current continues to flow.</p>
+                  <p rend="justify">A fixed condenser may occupy one of two places in a receiving circuit, either in series with the tuning coil and detector or directly across the telephone receivers. In the illustration A shows a detector requiring a battery with a fixed condenser in series with it and the coil. The oscillations set up in the circuit by the incoming waves can readily pass through the condenser and effect the detector because they are <hi rend="italic">alternating</hi>. If it were not for the condenser the <hi rend="italic">direct</hi>  battery current would pass through the tuning coil instead of the detector because of the comparatively low resistance of the former.</p>
+                  <p rend="justify">Crystal detectors do not require a battery and may be connected to a tuning coil with a condenser in series and the telephone receivers either across the terminals of the detector or across the terminals of the condenser. When in the latter position, the proper capacity for the fixed condenser will depend upon the resistance of the telephone receivers, the higher the resistance the less the capacity that will be required and vice versa.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON TWENTY-SIX. VARIABLE CONDENSERS.</head>
+                  <p rend="justify">The point of sharpest resonance does not always happen to come on a turn of the tuner where it can be reached by the slider. The variable condenser makes it possible to adjust the circuit to the exact point of resonance.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG 56. Rotary Variable Condenser.</p>
+                  <p rend="justify">Variable condensers are of two general types, the Sliding Plate and the Rotary Variable. The rotary variable is the most convenient and easy to manipulate. It consists of a number of fixed semi-circular metal plates between which swings a set of smaller movable semicircular plates. The fixed plates form one half of the condenser and the movable plates the other. In this way the capacity of the condenser is very closely adjustable. The movable plates are provided with a pointer moving over a graduated scale so that the comparative amount of capacity in the circuit is indicated.</p>
+                  <p rend="justify">The sliding plate type of condenser consists of a number of rectangular fixed plates between which slide a set of movable plates.</p>
+                  <p rend="justify">The dielectric between the plates of a variable condenser is air. There are no losses of energy due to hysteresis in a condenser having an air dielectric. Rotary condensers employing silk or some such material are not to be recommended.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON TWENTY-SEVEN. TELEPHONE RECEIVERS.</head>
+                  <p rend="justify">Telephone receivers employed for wireless telegraphy are the same in principle as the ordinary telephone receiver but differ in construction and detail slightly.</p>
+                  <p rend="justify">They are always of the watch case type, this style being small and light, and consist of a ring or horseshoe shaped permanent magnet upon the poles of which are mounted two small bobbins containing many turns of fine insulated wire. Over the magnets, very close to but not quite touching, is placed a circular diaphram of thin sheet iron. The lines of force created by the permanent magnet pass through the cores of the little bobbin and exert a constant pull on the diaphram.</p>
+                  <p rend="justify">The little bobbins of wire or electromagnets are connected in series. If a current of electricity is sent through them they will create a little field of force of their own which will strengthen or decrease that of the permanent magnets according in which direction the current flows. Each change in the pull exerted on the diaphragm causes it to move and send out little sound waves which may be heard when the receiver is held close.</p>
+                  <p rend="justify">We have already learned that the strength of a magnet depends upon the <hi rend="italic">ampere</hi>  turns. Suppose that a current of one ampere passed through a coil containing 100 <hi rend="italic">turns</hi>  x 1 <hi rend="italic">amp.</hi>  = 100 <hi rend="italic">ampere turns</hi>. If only one-tenth of an ampere was available and we wished to retain the same magnetic strength in the coil, the number of turns would have to be increased to one thousand in order for the ampere turns to remain equal; 1/10 <hi rend="italic">amp.</hi>  x 1.000 <hi rend="italic">turns</hi>  = 100 <hi rend="italic">ampere turns</hi>.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 57. Types of Telephone Head Sets.</p>
+                  <p rend="justify">The currents passing through the receiver from the detector are exceedingly weak, and so in order to produce the maximum effect on the diaphragm, the electromagnets must be wound with a large number of turns of very fine wire. The resistance of fine wire is very great and for this reason wireless telephone receivers are usually termed <hi rend="italic">high resistance receivers</hi>.</p>
+                  <p rend="justify">Winding a receiver with many turns of fine wire does not make it more sensitive in the true sense of the word or from the standpoint of efficiency, but makes it better suited to the minute fluctuations of a weak current.</p>
+                  <p rend="justify">The classification of receivers, according to their resistance is a method of indicating the comparative number of turns and the finess of the wire used in winding the electromagnets. Receivers should be wound with copper wire only.</p>
+                  <p rend="justify">Wireless receivers come in pairs provided with a head-band so that they may be securely clamped on the ears.</p>
+                  <p rend="justify">The receiver cases are made of rubber, composition, brass and aluminum depending upon the design and manufacture. It is immaterial which.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON TWENTY-EIGHT. THE HOT WIRE AMMETER.</head>
+                  <p rend="justify">The hot-wire ammeter is a device for indicating when the transmitting circuits are properly adjusted and arranged to emit the maximum amount of energy. It is placed in series in the aerial circuit so that the high frequency currents surging in the latter must pass through the meter and indicate their strength by moving the pointer a certain distance over a graduated scale.</p>
+                  <p rend="justify">When a current of electricity flows through a wire it develops a certain amount of heat therein. If the wire is of high resistance the heat will be great enough to cause the wire to expand. Advantage has been taken of this fact in the construction of the hot-wire ammeter. This device consists of a piece of platinum wire or a platinum alloy stretched taut between two posts. The wire is included in the aerial circuit. The platinum wire is connected to a spindle carrying a pointer in such a manner that when the heat causes the wire to expand the expansion is conveyed to the spindle and the pointer moves over the scale magnifying the motion. The greater the current flowing through the wire the greater will be the deflection of the pointer. The scale is calibrated by comparison with a standard meter to read in amperes.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG 58. Diagram showing the Constructive Principle of a Hot Wire Ammeter.</p>
+                  <p rend="justify">When a hot-wire ammeter is placed in circuit the latter is tuned by moving the position of the helix clips on the helix, altering the length of the spark gap and the condenser capacity until the maximum deflection is indicated. It is then removed from the circuit.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON TWENTY-NINE. POTENTIOMETER</head>
+                  <p rend="justify">The potentiometer is an instrument for carefully regulating the voltage of the battery supplying a detector of the electrolytic or carborundum types with current.</p>
+                  <p rend="justify">It is necessary to bring the potential of the battery to a certain critical point where it is just insufficient to "break down" the detector, that is, overcome the resistance which it offers to the oscillatory currents. In construction, the potentiometer usually consists of a small rod wound with German silver wire and provided with an adjustable contact. Graphite resistance rods are merely a cheap method of making a potentiometer and are to be avoided as entirely unsatisfactory for the purpose.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 59. Potentiometer.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON THIRTY. DEAD END LOSSES AND "NO DEAD END" SWITCHES.</head>
+                  <p rend="justify">Practically every radio circuit includes an adjustable inductance of some sort, usually consisting of a layer of wire wound over a tube and arranged so that the amount of wire in the circuit can be varied by means of a switch, a plug or a slider. These methods of variation are familiar in the ordinary tuning coil, loose coupler, loading coil, etc.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 60. Diagram representing the effect of Distributed Capacity.</p>
+                  <p rend="justify">If the plug, switch or sliding contact, depending upon the method of variation employed, is at E as in Fig. 60 so that only the portion of the coil A E B is in the circuit, then the portion E F together with A E may form an oscillator which, in order for the reader to obtain a better conception, may be likened to a sort of secondary winding, with A E considered as the primary. The oscillations of this part of the system may produce some very undesirable disturbances, especially so when the frequency of the currents in the circuit A E bear a certain relation to the natural frequency of the oscillator or E F. The losses due to the disturbance of these undesirable oscillations and also those resulting from eddy currents induced in the free portion or oscillator E F by the magnetic flux of A E are known as "dead-end effects."</p>
+                  <p rend="justify">These losses are very much more noticeable in receiving circuits than in transmitters on account of the very weak currents in the former and the importance of preserving all the energy when it is already very small.</p>
+                  <p rend="justify">Dead end losses take place principally in receiving transformers, loading coils and tuning coils. The losses are much more marked on short waves than long waves.</p>
+                  <p rend="justify">The presence of these highly objectionable losses, and they are large enough to not only seriously decrease the strength of signals but also to make selective tuning impossible, may be avoided by only using coils which are just the right size so that they can be entirely included in the circuit.</p>
+                  <p rend="justify">This is a very easy matter when only one wave length or at the most, two or three wave lengths are to be received, because it is then easily possible to quickly connect the coil of the proper size in the circuit. It is desirable however in most stations, and especially so in amateur stations that the apparatus be universal so as to be quickly and easily tunable to any wave length within its range.</p>
+                  <p rend="justify">Many amateurs build large loose couplers having a very wide wave length range under the impression that they have an ideal instrument. The truth of the matter is however that such an arrangement is decidedly inefficient especially on the shorter waves when only a portion of the windings are in circuit and there is a large dead end portion.</p>
+                  <p rend="justify">The better types of receiving transformers are now provided with "no dead end loss switches" which automatically break the windings up into a number of groups so that only that portion which is actually required to tune the circuit to a certain wave length is in circuit and the remainder of the coil is entirely disconnected.</p>
+                  <p rend="justify">These switches are located at certain definite points as previously determined by measurements of the coil with the aid of a wave meter.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 61. Diagram explaining how "end losses" are eliminated</p>
+                  <p rend="justify">The diagram in Fig. 61 illustrates the principle of such an arrangement. The points marked 1, 2 and 3 are the places in the coil where the switches are located so as to divide the winding up into separate parts. Suppose that it is necessary to move the slider or switch to such a point on the coil as represented by its position in the illustration marked E. The switch located at 1 would then automatically close as the slider or switch moved past 2 and 3 would however still remain open because that part of the winding which they connect would not be required. If it became necessary to include more of the winding in the circuit, 2 and 3 would automatically close as the slider or switch was moved along the coil and open again as it was moved back.</p>
+                  <p rend="justify">The automatic arrangement of the switches is easily accomplished in a number of different manners by means of levers, cams, trips, or some other mechanical means.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON THIRTY-ONE. DISTRIBUTED CAPACITY AND CAPACITY LOSSES.</head>
+                  <p rend="justify">Every coil of wire possesses the property, not only of carrying a current of electricity but of <hi rend="italic">holding a charge</hi> of electricity as well. This property is called capacity. The <hi rend="italic">capacity</hi> of a condenser is its property for holding a charge of electricity. The capacity of a coil is termed its "distributed capacity" in order to distinguish it from the capacity of a condenser. The distributed capacity of a coil is due to the condenser effect which exists between the adjacent turns of the wire. The effect of this distributed condenser is exactly the same as if a small condenser was connected across the ends of the coil as shown in the accompanying illustration.</p>
+                  <p rend="justify">Distributed capacity is very objectionable in most receiving circuits because a radio detector depends upon voltage for its operation and when a circuit contains an appreciable amount of distributed capacity the voltage is considerably lower than it would be otherwise.</p>
+                  <p rend="justify">The usual method of reducing the distributed capacity of a coil is to use wire having comparatively thick insulation so that the wires are spaced farther apart. Certain shellacs and varnishes used in impregnated windings increase the specific dielectric capacity of the space between the turns and increase the distributed capacity of the winding.</p>
+                  <p rend="justify">The same objection to distributed capacity also holds good in the case of what might be termed capacity losses which are due to improperly arranged connections, contact points, etc. Every pair of leads or taps from a coil possesses capacity. They really form a miniature condenser, the wires corresponding to the tinfoil or metal sheets of the condenser and the air between being the dielectric.</p>
+                  <p rend="justify">For that reason the leads should always be as far apart from one another as possible and contact points should be as small as possible. It is unwise to use "double conductor" having two parallel conductors bound together for leading out connections or connecting radio apparatus.</p>
+                  <p rend="justify">If capacity losses and distributed capacity are reduced to a minimum in a circuit, it is possible to employ more inductance than would be otherwise in order to tune the circuit to a certain frequency and the voltage is thereby preserved and full benefit derived therefrom by the changes which it produces in the detector.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON THIRTY-TWO. THE POULSEN ARC OR GENERATOR.</head>
+                  <p rend="justify">
+                     <hi rend="bold">Method of Producing Undamped Oscillations for Radio Telegraphy and Telephony.</hi>
+                  </p>
+                  <p rend="justify">A radio transmitter whose waves are generated by undamped oscillations has many advantages over the ordinary spark transmitter, the oscillations of which are necessarily damped.</p>
+                  <p rend="justify">The efficiency of an undamped wave transmitter is far greater in almost every respect. The selectivity at a receiving station listening to undamped wave signals is very marked in comparison to that when spark signals are received.</p>
+                  <p rend="justify">The problem of producing undamped oscillations by means of an arc was first solved by Poulsen and is known as the Poulsen arc or generator. This type of generator is used for radio work in this country, by the Federal Telegraph Co., in the stations at Sayville and Tuckerton, in many U. S. Naval stations and on board all the U. S. first line battleships.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 62. The Poulsen Arc for generating Undamped Oscillations.</p>
+                  <p rend="justify">An arrangement by which such oscillatory currents may be produced is shown in its simplest form in Fig. 62. It consists of an arc, around which is shunted a condenser in series with an inductance. The arc is connected to a source of direct current, preferably having an E. M. F. of 500 volts or more.</p>
+                  <p rend="justify">The positive electrode of the arc is copper, kept cool by circulating water through a hollow interior or a water jacket. The gap in itself is enclosed in a chamber filled with hydrogen gas or a gas containing hydrogen. The arcs in practical use for generating undamped oscillations are arranged so that they operate in a strong magnetic field. The carbon electrode is constructed so that it is slowly revolved by a small electric motor.</p>
+                  <p rend="justify">The hydrogen gas atmosphere in which the arc is enclosed is produced by a small feed cup, similar to the ordinary lubricating oil cup, located over the case and filled with alcohol which continuously drips into the flame chamber, where it is vaporized by the heat.</p>
+                  <p rend="justify">Arc transmitters of large capacity are not as expensive or as bulky as spark transmitters of equal power. The difficulties of handling and controlling a large amount of power in connection with a transmitter of this sort are also not as great as in the case of a spark transmitter. The condenser used with an arc is not nearly so large as that required for a spark transmitter of equal capacity and the voltage of the current is much lower. Condenser breakdown, leakage and insulation problems are therefore not as great.</p>
+                  <p rend="justify">For telegraphing with damped transmitters, a key which alternately makes and breaks the primary circuit is sufficient. This is not possible, however, with an arc. The distance between the arc electrodes is usually greater than the gap length which the dynamo voltage would jump and form an arc whenever the key should be closed. It is therefore usual to arrange a key or relay so that it short circuits a portion of the aerial inductance or helix when closed. This short circuit is sufficient to throw the circuit out of tune so that it cannot be heard at the receiving station without readjusting the instruments.</p>
+                  <p rend="justify">The Poulsen arc may be used for radio telephony. A telephone receiver is arranged so as to vary the currents and impress the vibrations of the voice upon the oscillations set up by the arc.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON THIRTY-THREE. RECEIVING UNDAMPED WAVES. THE TICKER.</head>
+                  <p rend="justify">A decided difference is encountered between damped and undamped oscillations when receiving signals. The ordinary detector cannot be used for receiving undamped oscillations without first being properly modified.</p>
+                  <p rend="justify">When telegraphing the dots and dashes of the code by undamped oscillations the change taking place in the detector circuit would merely move the telephone receiver diaphragm from its normal position at the beginning of each dot or dash, causing a click to be heard and nothing more. The telephone receiver diaphragm would remain in a fixed position just as long as the waves from the transmitter kept coming in during each signal. Both dots and dashes would be heard simply as clicks and not appear distinguishable from one another.</p>
+                  <p rend="justify">The most common and perhaps also the best method is to employ a device called a "ticker" in place of the detector for receiving undamped oscillations.</p>
+                  <p rend="justify">This arrangement is illustrated in Fig. 63. The left hand part of the illustration is the circuit diagram. A detail of the "ticker" wheel is shown at the right.</p>
+                  <p rend="justify">The condenser F C is of comparatively large capacity and is fixed. The condenser C is also fixed but is of much smaller capacity. F C is usually a condenser having a capacity of several tenths of a microfarad while C has only a few thousands of a microfarad capacity.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 63. The Poulsen Ticker for receiving undamped Waves.</p>
+                  <p rend="justify">T is the ticker wheel and consists of a small brass wheel having a groove in the periphery like a pulley. This wheel is mounted on the shaft of a small motor so that it can be revolved at high speed.</p>
+                  <p rend="justify">A fine wire is arranged to rub against the groove in the wheel and make contact with the latter.</p>
+                  <p rend="justify">When the wheel is revolving at high speed, the wire does not make perfect contact at all points but tends to vibrate and to act as the equivalent of a very high speed interrupter by rapidly opening and closing the circuit.</p>
+                  <p rend="justify">The basic idea in employing a device and a circuit of this sort in receiving undamped waves is as follows:</p>
+                  <p rend="justify">When the contact is broken at the ticker wheel and the condenser F C is disconnected from the oscillating circuit formed by the condenser C and the secondary of the receiving transformer, the condenser C accumulates a relatively large amount of energy.</p>
+                  <p rend="justify">Then when the ticker connects the condenser F C in parallel with C, F C takes the major part of the stored energy and discharges it through the telephones P, causing a click to be heard in the latter.</p>
+                  <p rend="justify">The interruptions of the "ticker" are very rapid, a great many taking place during the duration of a dot or a dash, so that the resultant clicks occur very close together and the dots and dashes sound very similar to the spark signals of a transmitter sending forth damped waves.</p>
+                  <p rend="justify">The sensitiveness of the ticker arrangement is very great, in fact much greater than that of any detector.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON THIRTY-FOUR. THE AUDION AMPLIFIER.</head>
+                  <p rend="justify">The audion amplifier is an arrangement whereby an A audion bulb such as that which has already been described in the Lesson on Detectors is so connected that it acts as a relay and also amplifies minute pulsating electric impulses. An ordinary audion detector bulb will serve as an amplifier bulb but it is usual to modify it somewhat and provide a grid and a wing on both sides of the filament as this arrangement gives the best results.</p>
+                  <p rend="justify">The audion amplifier is of especial advantage in amplifying weak wireless signals from a detector which would otherwise be unreadable. It is not necessary that the audion amplifier be used in connection with another audion serving as a detector. It will amplify the signals of any other form of detector such as an electrolytic, crystal, magnetic, etc.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 64. The Audion Amplifier Circuit.</p>
+                  <p rend="justify">Figure 64 shows an audion amplifier connected to an audion amplifier connected to an audion detector so that the signals from the latter will be greatly increased in strength.</p>
+                  <p rend="justify">L C is a loose coupler connected to the aerial and ground in the ordinary manner. P and S are respectively the primary and secondary of the loose coupler. B is the "wing" battery of the detector circuit and B¹ is the "wing" battery of the amplifier circuit. T is the telephone receiver headset in which the amplified signals are heard.</p>
+                  <p rend="justify">P¹ and S¹ are the primary and secondary of a small open core transformer called the "Amplifier Coil." The windings contain a great many turns of very fine wire. The primary of the transformer is connected so as to be included in the wing circuit of the detector. It should be noticed that only one terminal of the secondary is connected to the amplifier circuit, this one terminal being connected to the grid of the amplifier bulb.</p>
+                  <p rend="justify">An arrangement of this sort, where one amplifier bulb is used is called a "one step amplifier." Amplifiers having two and three bulbs, respectively known as "two step" and "three step" amplifiers give much greater amplification than a one step amplifier and are often used.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON THIRTY-FIVE. "HOOK-UPS."</head>
+                  <p rend="justify">
+                     <hi rend="bold">Or Methods of Connecting the Instruments.</hi>
+                  </p>
+                  <p rend="justify">"Hook-ups" or circuit diagrams showing the manner of connecting various instruments are well worth considerable study if one is desirous of securing the greatest selectivity and distance from his apparatus.</p>
+                  <p rend="justify">There are almost an endless number of ways and combinations of ways of connecting apparatus, and strange to say, different people seem to be able to secure the best results with widely different methods. In spite of the fact that circuits of this kind are very numerous they can all be reduced to a few fundamental forms and an understanding of these forms will enable a person to devise his own "hook-ups" at will.</p>
+                  <p rend="justify">Transmitting circuits are fundamentally almost the same. The only real difference in arrangement is made by interchanging the condenser and spark gap. Either one may be placed across the terminals of the induction coil or transformer. There is no difference in the results.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 65.</p>
+                  <p rend="justify">Consider the circuit shown in the accompanying illustration. The action of the transformer is to charge the condenser to such a point that the voltage is sufficient to leap the spark gap and cause a discharge. The rush of current which is oscillatory takes place through the condenser, spark gap and <hi rend="italic">primary</hi>  turns of the helix, or in other words through the <hi rend="italic">closed</hi>  circuits. The <hi rend="italic">secondary</hi>  turns of the helix, which are those forming part of the aerial circuit, are larger in number than those of the primary, and because of this ratio cause currents of higher voltage than those of the condenser to be impressed upon the aerial system. The currents in the aerial system surge up and down the aerial through the helix into the ground.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">FIG. 66. Receiving Circuits.</p>
+                  <p rend="justify">A shows a simple receiving circuit wherein a single slide tuning coil is connected to a detector. The high frequency currents generated in the aerial surge up and down the system and pass through the detector on their way to the ground. By moving the slider back and forth the electrical length of the circuit may be varied to suit the length of the incoming waves. Oscillations may be <hi rend="italic">forced</hi>  upon such a circuit, that is, if the waves are very powerful they will pass through the system and effect the detector no matter whether the slider is adjusted to suit them or not. This would cause interference and confusion in case more than one station were operating at a time.</p>
+                  <p rend="justify">By adding a second slider and a condenser as shown in B, this may be avoided to a considerable extent, for slider No. 1 may be adjusted to the desired signals and slider No. 2 placed in a position such as will give the branch of the circuit from the aerial, through the coil and into the ground of which it is a part, a period suited to the objectionable wave and so <hi rend="italic">carry off</hi>  the latter into the ground without effecting the detector. The desired signals will pass into the ground through the other branch of the circuit and operate the detector which lies in their path. The selectivity of the outfit may be further increased by the addition of a variable condenser.</p>
+                  <p rend="justify">A variable condenser may be placed in one or more of a great many positions. The accompanying illustrations show several. The effect of a condenser placed in series with the ground or aerial is just the opposite of that of a loading coil. It decreases the period and shortens the wave length to which it is adapted.</p>
+                  <p rend="justify">The Amateur’s Wireless Handy Book shows over one hundred wiring diagrams starting from the simplest and going to the most complicated in a natural sequence.</p>
+                  <p rend="justify">Any of the Following</p>
+                  <p rend="justify">Practical Books</p>
+                  <p rend="justify">
+                     <hi rend="bold">will be sent At Once, Post-paid on receipt of price.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">There is very little danger of losing currency in a letter if the following directions are observed:</hi>
+                  </p>
+                  <p rend="justify">Cut a circular hole the diameter of</p>
+                  <p rend="justify">the coin in a piece of cardboard, of</p>
+                  <p rend="justify">sufficient size to fit closely in the</p>
+                  <p rend="justify">envelope. The cardboard should</p>
+                  <p rend="justify">be no thicker than the coin.</p>
+                  <p rend="justify">Insert the coin in the hole and paste</p>
+                  <p rend="justify">a piece of paper on both sides of</p>
+                  <p rend="justify">the cardboard to prevent the coin</p>
+                  <p rend="justify">from falling out.</p>
+                  <p rend="justify">COLE &amp; MORGAN</p>
+                  <p rend="justify">Publishers of the Arts and Sciences Series</p>
+                  <p rend="justify">P. O. Box 1473 New York, N. Y.</p>
+                  <p rend="justify">
+                     <hi rend="bold">The Boy Electrician</hi>
+                  </p>
+                  <p rend="justify">Practical Plans for Electrical Toys and Apparatus, with an Explanation</p>
+                  <p rend="justify">of the Principles of Everyday Electricity.</p>
+                  <p rend="justify">
+                     <hi rend="bold">By ALFRED P. MORGAN.</hi>
+                  </p>
+                  <p rend="justify">Author of "Wireless Telegraph Construction for Amateurs" and "Wireless</p>
+                  <p rend="justify">Telegraphy and Telephony," etc.</p>
+                  <p rend="justify">
+                     <hi rend="bold">With full-page Illustrations and 324 Working Drawings and Diagrams</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">by the author. 8vo., Cloth, Net Price, $2.00.</hi>
+                  </p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">This is the age of electricity. The most fascinating of all books for a boy must therefore be one dealing with the mystery of this ancient force and modern wonder, even a mere list of whose services is impossible. The best qualified of experts to instruct boys, Alfred P. Morgan, has in a book far superior to any other of its kind told not only how to make all kinds of motors, telegraphs, telephones, batteries, etc., and to do so economically, but has explained the principles upon which these depend for operation, and how the same thing is done in the every-day world be well presented and so attractive is this really great book that it will be an education for any bright boy to have it, as well as the best kind of a moral safeguard, by leaving no time or thought for evil, and a means of future benefit beyond the power of any one to reckon. Glancing over the pages of this book, one cannot but be impressed by the excellent illustrations, clearness of expression and the large number of subjects that are covered. It is beyond doubt the best book in this line that has ever been written or published. It is a book that will delight every boy who has a leaning towards electrical experiments. The author writes in a clear and chatty style and while he has a thorough technical knowledge of his subject he has succeeded in treating it in a simple manner so that it is readily intelligible to his young readers.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Among the Chapter Headings and Contents are:</hi>
+                  </p>
+                  <p rend="justify">Magnets and Magnetism—Static Electricity—Static Electric Machines—Cells and Batteries—Electro-Magnetism and Magnetic Induction—Electrical Units—Electrical Appurtenances—Electrical Measuring Instruments—Bells, Alarms and Annunciators—Electric Telegraphs—Microphones and Telephones—Induction Coils—Transformers—Wireless Telegraphy—Wireless Telephony—Electric Motors—Dynamos—An Electric Railway—Miniature Lighting—Miscellaneous Electrical Apparatus.</p>
+                  <p rend="justify">
+                     <hi rend="bold">READ WHAT HAS BEEN SAID OF IT.</hi>
+                  </p>
+                  <p rend="justify">"Even a casual glance through the many pages of the book does not fail to emphasize the fact that Mr. Alfred P. Morgan has indeed succeeded well in giving the juvenile electricians a work that has long been sought."—Popular Electricity.</p>
+                  <p rend="justify">"We have no hesitation in commending the book to the attention of the juvenile audience for which it is intended."—Boston Post.</p>
+                  <p rend="justify">"A great book for enterprising boys. Bright boys will highly appreciate it and feel like thanking the wideawake publishers for putting such a reliable and interesting work in the field."—New Haven Journal.</p>
+                  <p rend="justify">"The book covers the subject of electricity thoroughly in all its phases and is a splendid acquisition to any boy’s library."—Detroit Times.</p>
+                  <p rend="justify">"In this age of electricity a book like the present one is both fascinating and valuable especially to boys. The book is attractive with its many illustrations and will prove of much educational value for any bright boy."—Zion’s Herald.</p>
+                  <p rend="justify">"This is an admirably complete and explicit handbook for young boys who fall under the spell of tinkering with electrical apparatus."—Boston Transcript.</p>
+                  <p rend="justify">"Well presented and attractive this book will be a source of great benefit and delight for any bright boy."—New Orleans Times-Picayune.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Price, $2.00, Postpaid</hi>
+                  </p>
+                  <p rend="justify">COUNTLESS OTHER MAGAZINES, NEWSPAPERS AND LIBRARIES HAVE</p>
+                  <p rend="justify">ENDORSED THIS GREAT BOOK. SEND FOR A COPY NOW.</p>
+                  <p rend="justify">
+                     <hi rend="bold">If you are interested in this great book, write for our 8-page special</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">descriptive circular.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Wireless Telegraphy and Telephony Simply Explained</hi>
+                  </p>
+                  <p rend="justify">By ALFRED P. MORGAN.</p>
+                  <p rend="justify">
+                     <hi rend="bold">A NEW BOOK by the author of "Wireless Telegraph Construction for Amateurs."</hi>
+                  </p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">This is undoubtedly one of the most complete and comprehensive treatises on the subject ever published, and a close study of its pages will enable one to master all the details of the wireless transmission of messages. The author has filled a long-felt want and has succeeded in furnishing a lucid, comprehensible explanation in simple language of the theory and practice of wireless telegraphy and telephony. The book treats the subject from an entirely new standpoint. Several very novel and original ideas have been carried out in its making. It is well illustrated by over one hundred and fifty interesting photographs and drawings. All diagrams have been made in perspective showing the instruments as they actually appear in practice. The drawings are carefully keyed and labeled. Many of the photographs are accompanied by phantom drawings which reveal the name and purpose of each part.</p>
+                  <p rend="justify">It is a book which the wireless experimenter cannot afford to be without. It will prove even more valuable to the layman.</p>
+                  <p rend="justify">Among the contents are: Introductory. Wireless Transmission and Reception. The Ether. Electrical Oscillations. Electromagnetic Waves. The Means for Radiating and Intercepting Electric Waves. Aerial Systems. Earth Connection. The Transmitting Apparatus. Current Supply. Spark Coils and Transformers. Condensers. Helixes. Spark Gaps. Anchor Gaps. Aerial Switches, Etc. The Receiving Apparatus. Detectors, Etc. Tuning Coils and Loose Couplers. Variable Condensers. Tuning and Coupling. Directive Wave Telegraphy. The Dignity of Wireless. Its Applications and Service. Wireless in the Army and Navy. Wireless on an Aeroplane. How a Message is Sent and Received. The Wireless Telephone. The Ear. How We Hear. Sound and Sound Waves. The Vocal Cords. The Structure of Speech. The Telephone Transmitter and Receiver. The Photophone. The Thermophone. The Selenium Cell.</p>
+                  <p rend="justify">Handsomely Bound in Cloth with Embossed Cover. (Postpaid, $1.00)</p>
+                  <p rend="justify">Build Your Own Wireless Instruments</p>
+                  <p rend="justify">Complete Up-to-the-Minute Authentic Practical</p>
+                  <p rend="justify">WIRELESS TELEGRAPH CONSTRUCTION FOR AMATEURS</p>
+                  <p rend="justify">By ALFRED POWELL MORGAN</p>
+                  <p rend="justify">3d EDITION</p>
+                  <p rend="justify">220 Pages 163 Illustrations</p>
+                  <p rend="justify">
+                     <hi rend="bold">Price</hi>, $1.50, <hi rend="bold">Postpaid</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Handsomely Bound in Silk Cloth</hi>
+                  </p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">Thoroughly up to date and unusually complete. Gives in minute detail, full directions for constructing wireless apparatus and various outfits capable of receiving from 100 to 1,500 miles and transmitting 3 to 100 miles. Also clearly explains the purpose and action of each instrument. Directions for Operating and Adjusting, etc.</p>
+                  <p rend="justify">
+                     <hi rend="bold">A SPLENDID TREATISE OF WIRELESS ALONG</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">CONSTRUCTIVE LINES</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Price</hi>, $1.50, <hi rend="italic">Postpaid</hi>
+                  </p>
+                  <p rend="justify">The value of this book has been greatly increased by the addition of much new subject matter and many illustrations of recent interest.</p>
+                  <p rend="justify">The new text explains fully how to build the most recent forms of Quenched Gaps. Rotary Gaps, Dough-Nut Tuners, Kick-back Preventers, Audion Detectors and numerous other instruments, accompanied by dimensioned working drawings. Several very interesting and instructive photographs have been included.</p>
+                  <p rend="justify">I.—Introduction. II.—The Apparatus. III.—Aerials and Earth Connections. IV.—Induction Coils. V.—Interrupters. VI.—Transformers. VII.—Oscillation Condensers and Leyden Jars. VIII.—Spark Gaps or Oscillators. IX.—Transmitting Helixes. X.—Keys. XI.—Aerial Switches and Anchor Gaps. XII.—Hot Wire Ammeter. XIII.—Oscillation Detectors. XIV.—Tuning Coils and Tuning Transformers. XV.—Receiving Condensers. XVI.—Telephone Receivers and Headbands. XVII.—Operation. XVIII.—The Amateur and the Wireless Law. How to Secure a License. Oscillation Helix. Quenched Spark Gap. Rotary Gaps. Kick-Back. The Variometer. New Crystal Detectors. The Audion.—Appendix.</p>
+                  <p rend="justify">ENDORSED BY WIRELESS CLUBS THROUGHOUT THE COUNTRY AS BEING</p>
+                  <p rend="justify">THE MOST PRACTICAL BOOK PUBLISHED ON WIRELESS.</p>
+                  <p rend="justify">IF YOU ARE INTERESTED IN WIRELESS YOU NEED THIS BOOK</p>
+                  <p rend="justify">
+                     <hi rend="bold">Model Flying Machines</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">HOW TO BUILD AND FLY THEM</hi>
+                  </p>
+                  <p rend="justify">Will prove interesting and valuable.</p>
+                  <p rend="justify">Have you ever built and flown a Model Racer?</p>
+                  <p rend="justify">If not, you have missed something.</p>
+                  <p rend="justify">Price, 25 Cents, Postpaid.</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">Model Aeroplaning is one of the most fascinating and instructive of sports.</p>
+                  <p rend="justify">Thousands of young men and boys have formed Model Aero Clubs and organized Flying Contests throughout the country.</p>
+                  <p rend="justify">"MODEL FLYING MACHINES" of the <hi rend="italic">Arts and Sciences</hi>  series is the only book giving reliable data and instructions for the construction of practical Model Aeroplanes.</p>
+                  <p rend="justify">IF YOU ARE A BEGINNER, this is the book that you ought to have. It will start you right. It tells how to build seven different types of machines, starting with the simplest Monoplane and finishing with several Long Distance Racing Models.</p>
+                  <p rend="justify">IF YOU ARE INTERESTED IN MODEL AEROPLANING, this book will prove the one you have been looking for. Gives valuable "Kinks". Tells how to carve propellers, make winders, adjust and fly machines, etc. Fully illustrated with large size, detailed working drawings, showing the exact size of each part. Twelve full-page plates.</p>
+                  <p rend="justify">Printed on first-class paper. Heavy cover in three colors.</p>
+                  <p rend="justify">Sent postpaid by return mail upon receipt of 25 cents.</p>
+                  <p rend="justify">
+                     <hi rend="bold">EVERY MODEL AVIATOR OUGHT TO HAVE A COPY</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Experimental Wireless Construction</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">EIGHTY-SIX PAGES NINETY-THREE ILLUSTRATIONS</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Only 25 Cents, Postpaid</hi>
+                  </p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">Here at last is the book which every young experimenter interested in constructing his own wireless apparatus has been looking for.</p>
+                  <p rend="justify">A book which tells how to build apparatus which anyone would be proud to own. It is a more advanced book than "Wireless Construction and Installation for Beginners," and describes apparatus which is much more elaborate and sensitive. The instruments have all been the subject of considerable experimental work and study. All the apparatus has been put to practical test and carefully improved by clever experts. By purchasing this book you get the benefit of vast knowledge and experience and are enabled to build far better instruments than by following your own designs and haphazard methods.</p>
+                  <p rend="justify">THE TREMENDOUS POPULARITY OF THIS VALUABLE LITTLE BOOK IS ONLY AN INDICATION OF ITS GREAT WORTH.</p>
+                  <p rend="justify">It has only been on the market a short time, yet the sales will undoubtedly soon reach a point which would indicate that experimenters unquestionably consider, that in proportion to its size, it is the best book on the market.</p>
+                  <p rend="justify">It does not describe any old or obsolete forms of wireless apparatus but only the latest types of aerials, spark coils, keys, gaps, condensers, helixes, oscillation transformers, loose couplers, tuning coils, detectors, loading coils, variable condensers, aerial switches, etc.</p>
+                  <p rend="justify">IT IS ONE OF THE MOST DETAILED AND THOROUGH BOOKS EVER PUBLISHED.</p>
+                  <p rend="justify">The information is all intensely practical. Complete directions and dimensions are given. Nothing is left to be guessed at. The book must really be seen to be appreciated.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Partial Contents</hi>
+                  </p>
+                  <p rend="justify">Chapter I.—THE AERIAL. The Location of the Station. The Construction of an Operating Bench. The Aerial and Ground. The Supports or Masts. Types of Aerials. How to Erect an Aerial. Protection from Lightning, Etc.</p>
+                  <p rend="justify">Chapter II.—SPARK COILS. The Construction of Spark Coils. A 1/4-inch Spark Coil. A 1/2-inch Spark Coil. A 1-inch Spark Coil. A 1 1/2-inch Coil. A 2-inch Coil. Sources of Current. Dry Cells. Storage Cells. Wireless Keys, Etc.</p>
+                  <p rend="justify">Chapter III.—TRANSMITTING APPARATUS AND ITS CONSTRUCTION. Step-down Transformers. Spark Gaps. The Oscillation Condenser. Leyden Jars. Helixes. Oscillation Transformers, Etc.</p>
+                  <p rend="justify">Chapter IV.—THE RECEIVING APPARATUS AND ITS CONSTRUCTION. A Silicon Detector. A Galena Detector. The Double Slide Tuning Coil. How to Make a Fixed Condenser. Building a Loose Coupler. The Loading Coil. How to Make a Variable Condenser, Etc.</p>
+                  <p rend="justify">Chapter V.—ARRANGEMENT AND OPERATION OF THE APPARATUS. Aerial Switches. The Buzzer Test. Using More Than One Detector. Shunting the Detector. Complete Outfits. Portable Sets. The Operation of the Station, Etc.</p>
+                  <p rend="justify">
+                     <hi rend="bold">The New Amateur’s Wireless</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Handy Book</hi>
+                  </p>
+                  <p rend="justify">FOURTH EDITION</p>
+                  <p rend="justify">Completely Revised and Enlarged</p>
+                  <p rend="justify">You Cannot Afford To Be</p>
+                  <p rend="justify">Without This Book</p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">Price 25 Cents, Postpaid</p>
+                  <p rend="justify">If you want to be an expert and an authority you must surround yourself with all available aids and helps. You have one of the best in the AMATEUR’S WIRELESS HANDY BOOK.</p>
+                  <p rend="justify">THERE HAVE BEEN MORE COPIES OF THIS GREAT BOOK SOLD THAN OF ANY OTHER WIRELESS BOOK.</p>
+                  <p rend="justify">It contains nearly SIX THOUSAND calls of Wireless Stations, including all Land Stations, Ship Stations, U. S. Army and Navy Stations and all AMATEURS licensed to date of publication.</p>
+                  <p rend="justify">Every registered station of the U. S. is included. They are all there. All the calls are classified alphabetically. The list is the most reliable and complete in existence. All obsolete stations have been abolished. All corrections and changes have been made from the official lists.</p>
+                  <p rend="justify">
+                     <hi rend="bold">BUT, THAT IS NOT ALL.</hi>
+                  </p>
+                  <p rend="justify">THE CODES, BOTH MORSE AND CONTINENTAL, are shown in the form of two large full-page charts printed in heavy black type so that they can be read from a distance.</p>
+                  <p rend="justify">A BEGINNER’S SPEED CHART of both Codes so arranged that the codes may be quickly learned or consulted is provided.</p>
+                  <p rend="justify">ALL THIS ABBREVIATIONS used so constantly by the wireless operator to save time and labor are included. There are a couple of pages of them.</p>
+                  <p rend="justify">
+                     <hi rend="bold">AND LAST BUT NOT LEAST</hi>
+                  </p>
+                  <p rend="justify">Nearly 100 large hook-ups of wiring diagrams fully illustrated in a concise and clear manner. Loop and straightaway aerials, grounds, helixes, spark gaps, anchor gaps, leyden jars, induction coils, transformers, keys, aerial switches, tuning coils, loading coils, loose couplers, variometers, fixed condensers, silicon, electrolytic, carborundum, perikon and audion detectors, telephones, potentiometers, etc., you can find them all and how to connect. A hook-up for any set accompanied by full explanation. None are missing. They are all there. There are no two alike.</p>
+                  <p rend="justify">The most complete and reliable data ever collected. The result of thousands of experiments by some of the most famous wireless experts in the country.</p>
+                  <p rend="justify">Read now before the supply is exhausted or you forget. You will be sorry if you don’t.</p>
+                  <p rend="justify">
+                     <hi rend="bold">SENT ANYWHERE POSTPAID FOR 25 CENTS</hi>
+                  </p>
+                  <p rend="justify">Note: This book is always kept up-to-date by frequently issuing new editions. Send for the latest copy.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Wireless Construction and Installation for Beginners</hi>
+                  </p>
+                  <p rend="justify">SEVENTY-THREE PAGES SIXTY-SEVEN ILLUSTRATIONS.</p>
+                  <p rend="justify">(Second Edition.)</p>
+                  <p rend="justify">A Practical Handbook giving detailed instructions for the Construction and Operation of a Boy’s Wireless Outfit.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Only 25c. Prepaid</hi>
+                  </p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">An indispensible book for the young wireless experimenter. It not alone shows how to build the various instruments but describes their actual workings and tells how to operate them.</p>
+                  <p rend="justify">
+                     <hi rend="bold">EVERY BOY IS ADVISED TO</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">SEND FOR A COPY</hi>
+                  </p>
+                  <p rend="justify">Written in a very clear and simple style, the book is invaluable to a beginner. He will be able with its aid to construct simple apparatus of the latest and approved type. The instruments described in the book have been the subject of considerable experimental work and special study. They are modeled along simple lines so that they will be easy and inexpensive to construct, but at the same time combine features which make them very sensitive and capable of receiving or transmitting messages greater distances than some more complicated apparatus.</p>
+                  <p rend="justify">
+                     <hi rend="bold">THIS BOOK, CONSIDERING ITS WORTH, IS A GIFT AT 25c.</hi>
+                  </p>
+                  <p rend="justify">There are no old or obsolete forms of wireless apparatus discussed, but only the latest types of tuning coils, receiving transformers, fixed condensers, keys, spark coils, detectors, etc. The book is illustrated by numerous detailed working drawings giving all dimensions. Several full-page views of the apparatus enable the beginner to fully comprehend the text.</p>
+                  <p rend="justify">
+                     <hi rend="bold">THE MOST THOROUGH AND COMPLETE ELEMENTARY WIRELESS</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">CONSTRUCTION BOOK PUBLISHED</hi>
+                  </p>
+                  <p rend="justify">The pages on the construction and installation of aerials will be found to be of considerable help to the experimenter, for it is here that the most trouble is experienced by the beginner. The practical and helpful information on this subject is alone worth several times the cost of the book.</p>
+                  <p rend="justify">
+                     <hi rend="bold">PARTIAL CONTENTS</hi>
+                  </p>
+                  <p rend="justify">Chapter I.—<hi rend="bold">WIRELESS TELEGRAPHY</hi>. An intensely interesting subject; amateur wireless telegraphy; the purpose of the aerial and ground; the apparatus used to send messages; the apparatus used to receive messages.</p>
+                  <p rend="justify">Chapter II.—<hi rend="bold">AERIALS AND GROUNDS</hi>. Where to put up the aerial; types of aerials; the "T" aerial; the masts; the wire; insulators; leading in the wires; the ground.</p>
+                  <p rend="justify">Chapter III.—<hi rend="bold">HOW TO BUILD AND OPERATE THE SIMPLEX DOUBLE SLIDE RECEIVING OUTFIT</hi>. The tuning coil; the tube; the sliders; the fixed condenser; the detector parts; assembling the set; connecting the instruments; operation.</p>
+                  <p rend="justify">Chapter IV.—<hi rend="bold">HOW TO BUILD THE SIMPLEX LOOSE COUPLER, DETECTOR AND CONDENSER</hi>. The base; the primary; the secondary; the pillar; the switch; How to make the Simplex cat whisker detector; How to make the Simplex fixed condenser; How to connect the apparatus; How to tune with the loose coupler; How to adjust the detector.</p>
+                  <p rend="justify">Chapter V.—<hi rend="bold">TELEPHONE RECEIVERS AND HEADBANDS.</hi>
+                  </p>
+                  <p rend="justify">Chapter VI.—<hi rend="bold">HOW TO BUILD THE SIMPLEX SPARK COIL.</hi>  The core; the secondary; the condenser; the coil heads; the base; the interrupter parts; the bridge.</p>
+                  <p rend="justify">Chapter VII.—<hi rend="bold">HOW TO MAKE THE SIMPLEX KEY</hi>.</p>
+                  <p rend="justify">Chapter VIII.—<hi rend="bold">HOW TO CONNECT AND OPERATE THE APPARATUS</hi>. How to connect and operate a complete wireless station; How to operate; the code, etc.</p>
+                  <p rend="justify">
+                     <hi rend="bold">The Operation of Wireless Telegraph Apparatus</hi>
+                  </p>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">Do your Wireless friends come to you for advice on constructing and operating their apparatus or do you go to them for information?</p>
+                  <p rend="justify">Here is a chance for YOU to become the authority.</p>
+                  <p rend="justify">
+                     <hi rend="bold">This book is a necessity to every Progressive Experimenter.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">It shows how to obtain the very highest efficiency from any station, and how to comply with the law. How to tune, adjust your detector, spark gap, phones, etc.</hi>
+                  </p>
+                  <p rend="justify">Price, 25 Cents, Postpaid.</p>
+                  <p rend="justify">This book was written for the wireless experimenter who has passed the amateur stage, but explains how the beginner also can obtain the very best results from his station. It contains much useful information to this end and many "kinks".</p>
+                  <p rend="justify">
+                     <hi rend="bold">IT SHOWS HOW</hi>  to receive or send on long or short wave lengths with highest efficiency, to tune for longest distance reception of messages, to use the buzzer test, how to test and connect condensers, receivers, etc., how to use receiving transformers, variometers, etc., all with highest efficiency in view.</p>
+                  <p rend="justify">
+                     <hi rend="bold">IT ALSO DESCRIBES</hi>  the construction and use of a simple, inexpensive wave meter to tune the station to any desired wave length, and tells how to obtain a sharp wave and a pure wave.</p>
+                  <p rend="justify">
+                     <hi rend="bold">EXTRACTS FROM THE LAW</hi>  are also given in such a manner that they are easily understood.</p>
+                  <p rend="justify">If you want to get the best results from your station this is your opportunity.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Three New Books on Home Made</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Electrical Apparatus</hi>
+                  </p>
+                  <p rend="justify">or rather, three parts of one book, each 25 cents per copy, are now in preparation and should be ready in June, 1917.</p>
+                  <p rend="justify">They will cover every kind of electrical apparatus, including primary and storage batteries, dynamos and motors, induction coils, rectifiers, transformers, telegraphs and telephones, etc.—all of which have actually been built.</p>
+                  <p rend="justify">The three parts will also be furnished as a single volume in cloth covers at $1.00 per copy, postpaid.</p>
+                  <p rend="justify">If interested, simply send us a postal and when the books are ready we will send you full descriptions.</p>
+                  <p rend="justify">
+                     <hi rend="bold">COLE &amp; MORGAN</hi>
+                  </p>
+                  <p rend="justify">Publishers of the Arts and Sciences Series</p>
+                  <p rend="justify">P. O. Box 1473 NEW YORK, N. Y.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

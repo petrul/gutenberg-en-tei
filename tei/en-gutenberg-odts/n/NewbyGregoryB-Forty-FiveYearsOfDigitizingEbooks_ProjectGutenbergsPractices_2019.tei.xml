@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Forty-Five Years of Digitizing Ebooks: Project Gutenberg's Practices</title>
+            <author>Gregory B. Newby</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T14:08:13Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/n/NewbyGregoryB-Forty-FiveYearsOfDigitizingEbooks_ProjectGutenbergsPractices_2019.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Gregory B. Newby</name>
+               <date>2024-01-04T14:08:13Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Forty-Five Years of Digitizing Ebooks: Project Gutenberg's Practices</head>
+         <author>Gregory B. Newby</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/n/NewbyGregoryB-Forty-FiveYearsOfDigitizingEbooks_ProjectGutenbergsPractices_2019.odt</p>
+         <head>FORTY-FIVE YEARS OF DIGITIZING EBOOKS</head>
+         <head>PROJECT GUTENBERG’S PRACTICES</head>
+         <author>
+            <hi rend="bold">By Gregory B. Newby</hi>
+         </author>
+         <p>CEO Project Gutenberg Literary Archive Foundation<lb/>
+            <lb/>
+         </p>
+         <p>
+            <hi rend="bold">Contents</hi>
+         </p>
+         <p>ABSTRACT</p>
+         <p>HISTORICAL ROOTS</p>
+         <p>EMPHASIS ON THE PUBLIC DOMAIN</p>
+         <p>ITEMS ARE IN THE PUBLIC DOMAIN FOR ONE OF THREE REASONS</p>
+         <p>COLLECTION DEVELOPMENT POLICY AND EARLY MARKUP</p>
+         <p>PROOFREADING</p>
+         <p>EVOLUTION IN PROOFREADING: DISTRIBUTED PROOFREADERS</p>
+         <p>SCANNING</p>
+         <p>COPYRIGHT CLEARANCE OR PERMISSION</p>
+         <p>MULTIPLE SOURCES</p>
+         <p>OTHER CONTENT TYPES</p>
+         <p>LANGUAGES OTHER THAN ENGLISH</p>
+         <p>EVOLUTION OF MASTER SOURCE FORMATS</p>
+         <p>DERIVATIVE FORMATS</p>
+         <p>UPLOADING A NEW EBOOK</p>
+         <p>EPUB and MOBI</p>
+         <p>CATALOGING AND MIRRORING</p>
+         <p>"NO SWEAT OF THE BROW COPYRIGHT"</p>
+         <p>EBOOKS, OR PICTURES OF BOOKS?</p>
+         <p>PAST INNOVATIONS AND FUTURE INITIATIVES</p>
+         <p>APPRECIATION FOR VOLUNTEERS<lb/>
+            <lb/>
+         </p>
+         <pb/>
+         <div type="div1">
+            <head>Forty-Five Years of Digitizing Ebooks: Project Gutenberg's Practices</head>
+            <pb/>
+            <div type="div2">
+               <head>  ABSTRACT</head>
+               <p rend="justify">Project Gutenberg creates and freely distributes electronic books (eBooks). This document offers elements of the story of Project Gutenberg’s methods and practices for creating those eBooks, and the surrounding procedures for making them as widely available as possible. Project Gutenberg seeks to make the world’s great literature enjoyable and accessible.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HISTORICAL ROOTS</head>
+               <p rend="justify">The first Project Gutenberg eBook was created on July 4, 1971. Michael S. Hart had been granted access to a powerful mainframe computer at the University of Illinois at Urbana-Champaign, and realized that his greatest impact would be by digitizing and distributing free literature (for more history, see: <ref target="http://www.gutenberg.org/ebooks/36985">The eBook is 40 (1971-2011), by Marie Lebert</ref>).</p>
+               <p rend="justify">Michael took a printed copy of <ref target="http://www.gutenberg.org/ebooks/1">United States Declaration of Independence</ref>  to the computer laboratory, where he sat at the teletype terminal and typed this first eBook. He distributed it via email to the people he knew about via the Internet’s predecessor, ARPAnet, which was available at UIUC. At that moment, the first eBook had been freely distributed to the online community of the day.</p>
+               <p rend="justify">Digitization and production techniques, at the time of this first eBook, were <hi rend="italic">ad hoc</hi>  and informal. A single eBook producer would edit a single file, from a single source. The first eBook’s printed source was a single sheet of paper, without hyphenation, a book cover, images, or other characteristics of book-length sources. In 1971, capitalization was not an issue, as only upper case letters were available in the character set used by the system.</p>
+               <p rend="justify">Figure 1: Top view of a Model 33 Teletype, salvaged from the computer laboratory where Michael Hart typed the first eBook. The paper roll was where output would be printed.</p>
+               <p rend="justify">Model 33 Teletype</p>
+               <p rend="justify">During the next twenty years, from approximately 1971-1991, techniques of digitization would be dramatically improved, and regularized. Ongoing developments since then have tracked the available technologies for eBook creation and use, as well as preferences and interests of the many volunteers who would produce those eBooks. Throughout the history of Project Gutenberg, these techniques, while refined and clearly articulated, have remained flexible (see the <ref target="https://www.gutenberg.org/help/volunteers_faq.html">Volunteers’ FAQ)</ref>
+               </p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>EMPHASIS ON THE PUBLIC DOMAIN</head>
+               <p rend="justify">Project Gutenberg’s founder, Michael Hart, was motivated by completely free and unencumbered redistribution of literary works. Access to literary works enables literacy, which in turn opens the door to education and, it is hoped, opportunity. Interest in literary works that could be freely redistributed led to an emphasis on books and other items that are in the public domain.</p>
+               <p rend="justify">The public domain is, today, understood to be those items that are not copyrighted. Copyright in the United States, where Project Gutenberg operates, is defined as a temporary monopoly by authors (or their agents), in order to benefit from commercial potential and thereby fostering continued creation:</p>
+               <p rend="justify">“To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries” <ref target="http://www.gutenberg.org/ebooks/5">United States Constitution</ref>
+               </p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ITEMS ARE IN THE PUBLIC DOMAIN FOR ONE OF THREE REASONS</head>
+               <p rend="justify">1. They are ineligible for copyright. In the US, this includes works created by the US Government;</p>
+               <p rend="justify">2. Their copyright term has expired; or</p>
+               <p rend="justify">3. They are granted to the public domain by the creator or their agent (i.e., the rights holder).</p>
+               <p rend="justify">Because of its emphasis on literary works, Project Gutenberg has mostly focused on items for which the copyright term has expired. Until 1998, this included items published 75 years earlier. For example, items from 1920 entered the public domain when their copyrights expired in 1995. The US Copyright Term Extension Act of 1998 changed the term to 95 years for most literary works, so new items (from 1923 onward) will not enter the public domain before 2019.</p>
+               <p rend="justify">Figure 2: Michael Hart’s sunroom workspace in his Urbana home</p>
+               <p rend="justify">There are over one million published works from 1923 and earlier, and these are the main items that Project Gutenberg continues to digitize and distribute. In addition, there were approximately one million works published in the United States from 1923-1964 but not renewed. Those items entered the public domain when their first copyright term ended, 28 years after publication. The copyright procedures utilized are online at <ref target="http://www.gutenberg.org/help/copyright.html">Copyright procedures</ref>
+               </p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>COLLECTION DEVELOPMENT POLICY AND EARLY MARKUP</head>
+               <p rend="justify">The eBook collection, and all other aspects of Project Gutenberg, relies on volunteers to grow. Therefore, selection of items is done mainly by volunteers. Project Gutenberg seeks to limit duplication in the collection, and instead prefers to add items not already in the collection. Improvements to existing items is ongoing, mainly when errata reports are submitted by readers.</p>
+               <p rend="justify">It took over two decades to release the first 100 eBooks, with #100 being published in 1994. Most of those first eBooks were collected through personal interaction with Hart. He would guide or participate in the digitization process, often developing procedures to deal with new characteristics. Footnotes and endnotes, italics and underscores, bold text, and different fonts all presented challenges for representation as plain text. Primitive markup techniques were developed, such as using an underscore character to surround underscored text, _like this_.</p>
+               <p rend="justify">It was not until the mid-1990s that hypertext markup language (HTML) was first used, and at the time it was decided that Project Gutenberg eBooks should be wholly self-contained. A zip file would include all of the needed images, and external links were discouraged.</p>
+               <p rend="justify">Throughout the entire history of Project Gutenberg, volunteers have been encouraged to work on items they are interested in, and to make their own decisions about how to best represent the content.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PROOFREADING</head>
+               <p rend="justify">The first eBooks were created by typing the text of printed books into word processor or text editing programs, and then submitting the files for final formatting and redistribution. Typists would perform basic formatting, including:</p>
+               <list rend="bulleted">
+                  <item>Omitting page headers/footers and pagination;</item>
+                  <item>Spelling correction (spelling modernization was optional, and some transcribers preferred to leave the original spelling);</item>
+                  <item>De-hyphenation;</item>
+                  <item>Relocating any footnotes to endnotes;</item>
+                  <item>Adding basic markup or emphasis, as described above;</item>
+                  <item>Standard formatting for headings and chapters. Chapter titles would have two blank lines before, and one blank line after;</item>
+                  <item>Line and paragraph formatting, including line endings with carriage returns + line feed at approximately 72 characters, no paragraph indentation (unless it is a block quote or similar), and a blank line between paragraphs.</item>
+               </list>
+               <p rend="justify">Plain text eBooks, which were the only major format until HTML became more frequent by the mid- to late-1990s, were designed to be viewed on computer monitors with fixed-width fonts with 80-character lines. Plain text is still provided for nearly all Project Gutenberg eBooks today, although HTML and other formats are also provided.</p>
+               <p rend="justify">Once an item is typed into an electronic file, and basic formatting is completed, one or more rounds of proofreading will help to improve quality. This includes typos, poor formatting, or inconsistency of presentation. In practice, all eBooks published by Project Gutenberg still have errors, even if they are far better than 99% accurate. For example, an eBook that is 99.999% accurate (i.e., “five nines”) will still have one wrong character in 10,000. That amounts to approximately 30 errors in a typical 50,000 word novel. Proofreading is, by its nature, asymptotic. Subsequent rounds of proofreading improve an eBook, but that eBook is still likely to contain some errors.</p>
+               <p rend="justify">Errors in eBooks often reflect errors in their printed sources, and Project Gutenberg encourages fixing those errors.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>EVOLUTION IN PROOFREADING: DISTRIBUTED PROOFREADERS</head>
+               <p rend="justify">From 2002-2004 an important innovation was developed, in support of the creation of new Project Gutenberg eBooks. This was <ref target="http://www.pgdp.net/">Distributed Proofreaders</ref>, an early example of what is now known as crowdsourcing. Through Distributed Proofreaders, volunteers engage in a portion of the eBook creation process — whether it is copyright clearances, proofreading (a page at a time!), or formatting, checking, and finalization before uploading. Those portions, when coordinated together, lead to the creation of new eBooks from printed sources.</p>
+               <p rend="justify">Distributed Proofreaders has become the single largest source for new eBooks to the collection, accounting for approximately half of all titles. Distributed Proofreaders has also innovated substantially in the use of HTML+CSS (cascading style sheets) for very attractive presentation of eBooks in Web browsers.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SCANNING</head>
+               <p rend="justify">By the early 1990s, scanning and optical character recognition (OCR) started to become widely available. Hart received a full scanning station via a grant from a computer manufacturer, which was used to produce several of the first 100 eBooks. The scanner was a flatbed model, which required the user to hold the book open, scan a page (or pair of pages) for ingest to the OCR software, then flip to the next page.</p>
+               <p rend="justify">The OCR software would then automatically recognize the characters from the scan, and create an editable view of the text. Proofreading and formatting would then occur in the same way as for a typed text.</p>
+               <p rend="justify">A few years later, Project Gutenberg worked with Distributed Proofreaders to acquire sheet-fed scanners. These scanners, which are still in operation, are faster. They also tend to produce an image that is properly aligned, versus the skewing that sometimes occurs with flatbed scanners. An important difference is the printed books are damaged: prior to scanning, the spines of the books are cut off, in order for the individual pages to be ingested by the scanner.</p>
+               <p rend="justify">Image from the Doré illustrations of Dante’s Inferno</p>
+               <p rend="justify">Figure 3: Image from the Doré illustrations of <ref target="http://www.gutenberg.org/files/8789/8789-h/8789-h.htm">Dante’s Inferno</ref>
+               </p>
+               <p rend="justify">It has been Project Gutenberg’s intention to make all the original images from the scanners available, alongside the finished eBook. This is to have a more complete record of the eBook’s source(s), and also to facilitate improvements by finding typos. Most eBook producers to date have chosen to not provide the scans, however.</p>
+               <p rend="justify">Scanners are used for images within printed books, which are typically included as JPEG, GIF or PNG items within HTML and other formats. Inline images may be at a lower resolution, and then clickable to obtain higher resolution images. Color scanners are used, whenever possible, for color images.</p>
+               <p rend="justify">Project Gutenberg has no prohibition against using items scanned by other parties. Several excellent sources of scans are freely available, including Google Books, Gallica, and The Internet Archive. Scans, and raw OCR output (if available), may then be transformed into Project Gutenberg eBooks by volunteers.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>COPYRIGHT CLEARANCE OR PERMISSION</head>
+               <p rend="justify">From approximately 1994-2004, procedures for digitization became more clearly articulated. This included the notion that a copyright “clearance” was the necessary first step for starting any new eBook for contribution to Project Gutenberg. The “copyright how-to” mentioned above was developed and refined, with guidance from a number of lawyers with expertise in US copyright law.</p>
+               <p rend="justify">Project Gutenberg has always operated within the copyright laws of the US, and includes text in each eBook, and online at <ref target="http://www.gutenberg.org">Project Gutenberg</ref>, making it clear that readers in other countries must follow the laws that apply to them. Project Gutenberg affiliates, which operate completely independently, exist to emphasize the literary works and languages of different countries, and they follow the copyright laws of the country or region in which they operate.</p>
+               <p rend="justify">Generally, copyright clearance is simple. Items published prior to 1923, anywhere in the world, are in the public domain in the US. Prior to 1993, all copyright clearance actions required mailing a photocopy of the title page and verso (obverse) page of a candidate book to Michael Hart or Greg Newby, but then an online system was developed that accepted scans of those pages. A database maintains records of cleared items, and who submitted them. A few other copyright rules are sometimes applied, for items published after 1923.</p>
+               <p rend="justify">Sometimes, copyrighted items are submitted by authors. For many years, Project Gutenberg was one of few online repositories of user-contributed literary works, and therefore accepted items from contemporary authors. The two requirements for such content were:</p>
+               <p rend="justify">1. A perpetual, worldwide, non-exclusive, irrevocable license be granted to Project Gutenberg, for unlimited redistribution of the item; and</p>
+               <p rend="justify">2. The item must be made available as plain text, (valid) HTML, or both.</p>
+               <p rend="justify">However, user-contributed content is generally no longer accepted for the main collection at <ref target="http://www.gutenberg.org">Project Gutenberg</ref>. Instead, a new self-publishing portal, operated by an affiliate, <ref target="http://www.self.gutenberg.org">The World EBook Library</ref>  is available at self.gutenberg.org. With the self-publishing portal, authors may use any license they wish (such as a Creative Commons license), and can provide items in PDF or other formats. This simplifies the process for the authors, and removes the need for Project Gutenberg’s volunteers to be involved with author-contributed content.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MULTIPLE SOURCES</head>
+               <p rend="justify">Project Gutenberg encourages the use of multiple printed sources to create an eBook. For many historical works, including the US Declaration of Independence (the first Project Gutenberg eBook), there are variations among the printed sources. Another early example is the works of William Shakespeare. Project Gutenberg has several different versions of Shakespeare, including one based on the first edition folios. It has been typical, throughout the modern history of publishing, for different versions of a book to have variations.</p>
+               <p rend="justify">In practice, the majority of Project Gutenberg eBooks rely on a single printed source. However, even those items might benefit from other sources — such as when some pages are missing, or illustrations come from a different version, or when typos/errata reports come from other sources.</p>
+               <p rend="justify">It is a principal of Project Gutenberg that the eBooks in the collection are denoted as Project Gutenberg eBooks. Even if the publisher imprint and frontispiece from a printed work is included, there is no assurance that the content exactly matches that printed work. And, in fact, it will not match: minimally, the headers/footers will be removed, and paragraphs will flow together such that they span the pages of the printed source. Many other adjustments are typically made, as mentioned above.</p>
+               <p rend="justify">For this reason, Project Gutenberg’s online catalog metadata does not include a citation to the source(s) used to create an eBook. Instead, Project Gutenberg should be cited as the publisher. For example, a bibliographic citation might have a form such as this:</p>
+               <p rend="justify">Carroll, Lewis. <ref target="http://www.gutenberg.org/ebooks/11">“Alice’s Adventures in Wonderland.”</ref>. Urbana, Illinois: Project Gutenberg. Available: www.gutenberg.org/ebooks/11</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>OTHER CONTENT TYPES</head>
+               <p rend="justify">Project Gutenberg is, arguably, the oldest continuously operating online content project in the world. From 1971 until the mid-1990s, there were relatively few online resources for literary content. For this reason, and also due to a general willingness to experiment and reach out to broader audiences, Project Gutenberg has a great variety in the content types offered.</p>
+               <p rend="justify">Among the first 100 items, there are mathematical constants and a musical performance. Government publications, notably the 1990 US Census and the CIA World Factbook from 1990 onward, were also included. The next few hundred items include movies, photographs of ancient cave paintings, and the first non-English items (Virgil’s Aeneid, Cicero’s Orations, and Caesar’s Commentaries, all in Latin).</p>
+               <p rend="justify">Hundreds of audio eBooks are in the collection. Many were automatically generated via text-to-speech software. There are also a number of readings/performances by human readers, including from Project Gutenberg’s partner, <ref target="http://www.librivox.org">Librivox</ref>. Today, automated text-to-speech is accessible by most people with a computer or mobile phone, so there is less emphasis on that format. Human readings/performances continue to be of interest, especially when the performance, as well as the original Project Gutenberg source eBook, is granted to the public domain.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LANGUAGES OTHER THAN ENGLISH</head>
+               <p rend="justify">Non-English languages have some additional characteristics that were not well-suited for the plain text ASCII of Project Gutenberg’s early days. By the early 1990s, it was necessary to display accented characters, to accommodate languages such as French and Spanish. Later, languages such as Chinese would require entirely separate character sets.</p>
+               <p rend="justify">OCR software may be poorly suited for several non-English languages, or may fail due to older styles of typesetting (the old German “Fraktur” is notorious in this regard).</p>
+               <p rend="justify">Also, it is necessary to have proofreaders who are fluent in the language, to assure the eBook is enjoyable and reasonably free of errors. Despite these challenges, nearly 20% of the collection is in a language other than English, with 65 separate languages or dialects other than English. This emphasis on language diversity continues today, and is limited only by the willingness of volunteers to submit copyright clearances and prepare items for distribution.</p>
+               <p rend="justify">Table 1: Language counts as of August 1, 2016, for 52615 eBooks.</p>
+               <lg>
+                  <l>     # of eBooks Language  code Language or dialect</l>
+                  <l>     43095 en English</l>
+                  <l>     2711 fr French</l>
+                  <l>     1469 de German</l>
+                  <l>     1421 fi Finnish</l>
+                  <l>     739 nl Dutch</l>
+                  <l>     678 it Italian</l>
+                  <l>     540 pt Portuguese</l>
+                  <l>     504 es Spanish</l>
+                  <l>     427 zh Chinese</l>
+                  <l>     219 el Greek</l>
+                  <l>     128 sv Swedish</l>
+                  <l>     112 hu Hungarian</l>
+                  <l>     112 eo Esperanto</l>
+                  <l>     102 la Latin</l>
+                  <l>     66 da Danish</l>
+                  <l>     60 tl Tagalog</l>
+                  <l>     31 pl Polish</l>
+                  <l>     31 ca Catalan</l>
+                  <l>     22 ja Japanese</l>
+                  <l>     17 no Norwegian</l>
+                  <l>     11 cy Welsh</l>
+                  <l>     10 cs Czech</l>
+                  <l>     9 ru Russian</l>
+                  <l>     7 is Icelandic</l>
+                  <l>     7 fur Friulian</l>
+                  <l>     6 te Telugu</l>
+                  <l>     6 he Hebrew</l>
+                  <l>     6 enm Middle English</l>
+                  <l>     6 bg Bulgarian</l>
+                  <l>     4 sr Serbian</l>
+                  <l>     4 ang Old English</l>
+                  <l>     4 af Afrikaans</l>
+                  <l>     3 nai North American Indian</l>
+                  <l>     3 nah Nahuatl</l>
+                  <l>     3 ilo Iloko</l>
+                  <l>     3 ceb Cebuano</l>
+                  <l>     2 ro Romanian</l>
+                  <l>     2 nav Navajo</l>
+                  <l>     2 myn Mayan Languages</l>
+                  <l>     2 mi Maori</l>
+                  <l>     2 grc Greek, Ancient</l>
+                  <l>     2 gla Gaelic, Scottish</l>
+                  <l>     2 ga Irish</l>
+                  <l>     2 fy Frisian</l>
+                  <l>     2 arp Arapaho</l>
+                  <l>     1 yi Yiddish</l>
+                  <l>     1 sl Slovenian</l>
+                  <l>     1 sa Sanskrit</l>
+                  <l>     1 rmr Calo</l>
+                  <l>     1 oji Ojibwa</l>
+                  <l>     1 oc Occitan</l>
+                  <l>     1 nap Napoletano-  Calabrese</l>
+                  <l>     1 lt Lithuanian</l>
+                  <l>     1 ko Korean</l>
+                  <l>     1 kld Gamilaraay</l>
+                  <l>     1 kha Khasi</l>
+                  <l>     1 iu Inuktitut</l>
+                  <l>     1 ia Interlingua</l>
+                  <l>     1 gl Galician</l>
+                  <l>     1 fa Farsi</l>
+                  <l>     1 et Estonian</l>
+                  <l>     1 csb Kashubian</l>
+                  <l>     1 br Breton</l>
+                  <l>     1 bgi Giangan</l>
+                  <l>     1 ar Arabic</l>
+                  <l>     1 ale Aleut</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>EVOLUTION OF MASTER SOURCE FORMATS</head>
+               <p rend="justify">Plain text was the first master source type/format for Project Gutenberg, and remains important today. Plain text is readable on any device. Plain text is printable, and efficient to store (including for compression, or sharing by email). For decades, the International Standards Organization has provided standard computerized encoding for the basic American standard codes (ASCII) and extensions for accents and other special characters (Latin1 or ISO 8859-1). Encoding exists for other languages, and Unicode (with 8- and 16-bit variations) provides encoding for larger groups of characters.</p>
+               <p rend="justify">Within the first few hundred Project Gutenberg eBooks, some encoding was offered which seemed promising, but did not withstand the test of time. An early PostScript file was rendered unusable due to insertion of the Project Gutenberg standard header; a dictionary included markup that, today, might be reminiscent of XML or ReStructured Text, but without any sort of codebook for proper presentation; a few word processor native formats, including WordStar and WordPerfect, were used but are no longer readable with modern computers.</p>
+               <p rend="justify">Even HTML (and other XML variants) was viewed with skepticism, since the longevity of formats is notoriously difficult to predict when they first become available.</p>
+               <p rend="justify">For these reasons, Project Gutenberg still prefers to make plain text available for essentially every eBook. The only exceptions are those for which no plain text encoding is reasonable — such as Chinese, or mathematical texts, or music. In this way, the collection is “future proof,” so that even if all content cannot be fully represented as text, the files themselves will still be readable and enjoyable to read.</p>
+               <p rend="justify">Figure 3: Typical text view, showing fixed-length lines and spacing among components.</p>
+               <p rend="justify">                    <ref target="http://gutenberg.org/files/86/86-0.txt">"A CONNECTICUT YANKEE IN KING ARTHUR'S COURT"</ref>
+               </p>
+               <lg>
+                  <l>     by MARK TWAIN (Samuel L. Clemens)</l>
+                  <l/>
+                  <l>     PREFACE</l>
+                  <l/>
+                  <l>     The ungentle laws and customs touched upon in this tale are</l>
+                  <l>     historical, and the episodes which are used to illustrate</l>
+                  <l>     them are also historical. It is not pretended that these</l>
+                  <l>     laws and customs existed in England in the sixth century;</l>
+                  <l>     no, it is only pretended that inasmuch as they existed in</l>
+                  <l>     the English and other civilizations of far later times, it</l>
+                  <l>     is safe to consider that it is no libel upon the sixth</l>
+                  <l>     century to suppose them to have been in practice in that day</l>
+                  <l>     also. One is quite justified in inferring that whatever one</l>
+                  <l>     of these laws or customs was lacking in that remote time,</l>
+                  <l>     its place was competently filled by a worse one.</l>
+               </lg>
+               <p rend="justify">Today, Project Gutenberg’s plain text offerings are most often derived automatically from another master format. The most common master format is HTML, which offers advantages of ubiquity and ease of authoring. LaTeX is also used as a master, mainly for mathematical texts. ReStructured Text (RST) was encouraged by Project Gutenberg, due to the ease of conversion to other formats. However, RST has not been widely adopted by eBook producers.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>DERIVATIVE FORMATS</head>
+               <p rend="justify">The ubiquity of reading devices — from mobile phones, to tablets, to electronic paper — was predicted by Project Gutenberg. Rather than creating separate master files for each native format for the devices, automatic conversion is applied to one of the master formats. For years, Java-format eBooks were automatically created, and these were usable on many mobile phones.</p>
+               <p rend="justify">Today, EPUB and MOBI (also known as Kindle) formats are the most common. Free software for conversion, called ebookmaker (previously called epubmaker) is used to create derivative formats. This helps to assure compatibility for different reader devices.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>UPLOADING A NEW EBOOK</head>
+               <p rend="justify">Volunteers upload the master format for their completed eBook to the Project Gutenberg server, where it undergoes automated and manual checks before the new eBook is posted and announced online. Prior to the upload, the copyright clearance must be completed.</p>
+               <p rend="justify">Upon uploading, automated checks include:</p>
+               <list rend="bulleted">
+                  <item>HTML checks for validity of the HTML encoding (via the W3C validator);</item>
+                  <item>HTML checks for internal link structure;</item>
+                  <item>Spelling checks (English, with limited support for other languages);</item>
+                  <item>Typo/scanno checks (seeking common scanner/OCR errors, such as “he” for “be” and vice-versa);</item>
+                  <item>Conversion checks.</item>
+               </list>
+               <p rend="justify">The conversion check consists of using the epubmaker application to automatically generate derived formats. Ideally, resulting files will include:</p>
+               <list rend="bulleted">
+                  <item>Plain text in UTF8 encoding;</item>
+                  <item>Automatically generated HTML (if HTML is not the master format).</item>
+               </list>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>EPUB and MOBI</head>
+               <p rend="justify">For HTML, EPUB and MOBI, pairs of files are generated: one with images, and one without. The set of files without images is intended to be friendlier to readers with limited bandwidth, or without the necessary storage space for any images included with the eBook.</p>
+               <p rend="justify">After uploading, a team of human experts — known as the “whitewashers,” after a scene in Mark Twain’s “The Adventures of Tom Sawyer” — does final formatting, attaches the Project Gutenberg header and footer, and uploads the new item to the server at www.gutenberg.org.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CATALOGING AND MIRRORING</head>
+               <p rend="justify">The Project Gutenberg catalog database includes metadata from within each eBook: the author, title, available file formats, upload/publication date, language, etc. Human catalogers eventually add additional metadata, including Library of Congress Subject Headings. This catalog is available for free download in machine readable form (XML/RDF or MARC).</p>
+               <p rend="justify">Organizations that desire to redistribute Project Gutenberg’s content, freely and without limitations, are invited to do so. The catalog may be used for this purpose, and various mechanisms are available to automatically maintain a copy of the collection itself (i.e., “mirroring”), including for generated content.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>“NO SWEAT OF THE BROW COPYRIGHT”</head>
+               <p rend="justify">An important innovation during the evolution of Project Gutenberg was to clarify the notion of “authorship” and its critical role for establishing copyright. In early days, it was common to think that applying HTML markup, or reformatting, or spelling changes, qualified an item for a new copyright. Historically, some print publishers even claimed new copyrights simply for typesetting a new edition.</p>
+               <p rend="justify">Today, we know US copyright is based on the creative expression of ideas through authorship. Markup and spelling changes do not qualify. As a result, Project Gutenberg volunteers are able to “harvest” public domain materials on the Internet, once they are determined to match public domain print materials. This is not a frequent occurrence, however, since most volunteers prefer to work on items that are not yet digitized.</p>
+               <p rend="justify">Similarly, Project Gutenberg claims no copyright on the “sweat of the brow” labor which is applied to make eBooks from print sources. There were a few earlier items where such copyright was claimed erroneously, but this is no longer done.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>EBOOKS, OR PICTURES OF BOOKS?</head>
+               <p rend="justify">Project Gutenberg has over 50,000 eBooks in its collection. This is far fewer than <hi rend="italic">Google Books</hi>, or <hi rend="italic">The Internet Archive</hi>, or other large-scale digitization projects of historical items. An important distinction is that Project Gutenberg engages in the proofreading, formatting, markup/encoding, and other activities described above. Those other very large projects are primarily devoted to scanning, and then provide raw OCR output with a few automatically generated formats.</p>
+               <p rend="justify">Such items are only partial eBooks — really, they are pictures (scans) of books, with some additional automated features. These are valuable, but do not provide the reading experience or quality of presentation that Project Gutenberg strives for. Using current technology, it takes human intellect and effort to convert a picture of a book to a true, functional, eBook.</p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PAST INNOVATIONS AND FUTURE INITIATIVES</head>
+               <p rend="justify">Project Gutenberg has evolved its practices over the years, and has often been a leader in the creation and distribution of eBooks. Some past innovations include the following, and all are still in active use today:</p>
+               <list rend="bulleted">
+                  <item>Development of an open content trademark license (1991- 1993), which is intended to guarantee to readers that public domain items remain free, while placing restrictions on the trademarked name “Project Gutenberg” to protect against abusive practices by those who would sell the public domain items;</item>
+                  <item>File/directory-based access to the collection, guaranteeing ease of copying (by file, or subcollection, or the entire collection), mirroring, and large-scale redistribution (1994);</item>
+                  <item>Anonymous access for all readers, requiring no logins or authorization for any items (1994);</item>
+                  <item>Web-based access to content, and development of procedures to assure HTML is valid and well-formed (1996);</item>
+                  <item>The Copyright How-To, including the Rule 6 How-To for non-renewed items (2000 &amp; 2008);</item>
+                  <item>Support of Distributed Proofreaders (2002-2004), for crowdsourced proofreading and other aspects of new eBook creation;</item>
+                  <item>Implementation of eBook reader formats, for free use on mobile phones, tablets, and other devices (2009);</item>
+                  <item>Free redistribution of metadata as a separate download (2007 &amp; 2012);</item>
+                  <item>Integration with Google Drive, Dropbox, and other mechanisms for readers to employ “cloud” storage for eBooks (2013);</item>
+                  <item>Fully automated conversion from master formats to eBook formats (2013).</item>
+               </list>
+               <p rend="justify">Project Gutenberg has ongoing initiatives to improve service offerings to readers. There are no definite timelines for these, and assistance (or partnerships!) are always of interest. Some future initiatives may include:</p>
+               <list rend="bulleted">
+                  <item>Continued efforts to separate the “collection” from the “interface,” making it easier for different Web-based skins to be used to access content;</item>
+                  <item>Mechanisms for creation of personal bookshelves, “shopping carts” or other reading lists, for users to more easily track items of interest;</item>
+                  <item>Crowdsourced reviews, errata and improvements to eBooks, including capabilities for forked versions, versioning, and other techniques common among developers of free software;</item>
+                  <item>Improvements in ability to identify and filter items by the author’s death date, which is the most common criterion for public domain status of older items, in countries other than the US;</item>
+                  <item>Better tracking of sources used, including for harvested scans; even with no guarantee of faithfulness to a particular print source, information about source is frequently requested;</item>
+                  <item>More languages, more formats, and additional content types;</item>
+                  <item>Encouragement of innovative ideas by Project Gutenberg’s readers and other fans;</item>
+                  <item>Ongoing evolution in the utility of Project Gutenberg eBooks for future reading devices.</item>
+               </list>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>APPRECIATION FOR VOLUNTEERS</head>
+               <p rend="justify">Project Gutenberg is thankful to tens of thousands of volunteers, over more than 45 years, that have contributed to the creation and distribution of free electronic books. It is through the efforts of these volunteers that Project Gutenberg has been successful, and continues to thrive.</p>
+               <p rend="justify">Screenshot of www.gutenberg.org</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

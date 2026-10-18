@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Electric Gas Lighting: How to Install Electric Gas Ignition Apparatus</title>
+            <author>H. S. Norrie</author>
+            <author>H. S. NORRIE (NORMAN H. SCHNEIDER) (Author of “Induction Coils and Coil Making”)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T14:15:41Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/n/NorrieHS-ElectricGasLighting_HowToInstallElectricGasIgnitionApparatus_2013.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>H. S. Norrie</name>
+               <date>2024-01-04T14:15:41Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Electric Gas Lighting: How to Install Electric Gas Ignition Apparatus</head>
+         <author>H. S. Norrie</author>
+         <author>H. S. NORRIE (NORMAN H. SCHNEIDER) (Author of “Induction Coils and Coil Making”)</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/n/NorrieHS-ElectricGasLighting_HowToInstallElectricGasIgnitionApparatus_2013.odt</p>
+         <p>ELECTRIC GAS LIGHTING<lb/>H. S. NORRIE</p>
+         <head>ELECTRIC GAS LIGHTING</head>
+         <p>HOW TO INSTALL<lb/>
+            <lb/>ELECTRIC GAS IGNITING APPARATUS<lb/>INCLUDING THE JUMP SPARK<lb/>AND MULTIPLE SYSTEMS<lb/>
+            <lb/>FOR USE IN<lb/>
+            <lb/>Houses, Churches, Theatres, Halls, Schools, Stores or any Large Buildings</p>
+         <p>Also the Care and Selection of Suitable Batteries. Wiring and Repairs</p>
+         <author>By H. S. NORRIE<lb/>(NORMAN H. SCHNEIDER)<lb/>(<hi rend="italic">Author of “Induction Coils and Coil Making”</hi>)</author>
+         <p>FIRST EDITION</p>
+         <p>NEW YORK<lb/>SPON &amp; CHAMBERLAIN<lb/>12 Cortlandt Street<lb/>
+            <lb/>LONDON<lb/>E. &amp; F. N. SPON, Limited,<lb/>125 Strand<lb/>
+            <lb/>1901</p>
+         <p>Entered according to Act of Congress in the year 1901<lb/>By Spon &amp; Chamberlain<lb/>in the office of the Librarian of Congress, Washington, D. C.</p>
+         <p>THE BURR PRINTING HOUSE, FRANKFORT AND JACOB STS., N.Y.</p>
+         <pb/>
+         <div type="div1">
+            <head>PREFACE</head>
+            <p>The Electric Light possesses the great advantage over gas, in that it can be turned on or lighted from a distance. The customary means of igniting gas with a match or taper is both dangerous and often inconvenient. The inventive genius of modern times has evolved a means of lighting gas by electricity which is both reliable and easy of application. It requires no very complicated devices, nor does it necessitate a deep knowledge of electrical matters for its installation. The object of the following pages is to enable any one possessing ordinary mechanical ability to construct much of the apparatus used, or at least to successfully erect it and keep it in operation.</p>
+            <p>We beg to thank the following firms for the use of illustrations: Edwards &amp; Co., Mott Haven, New York; A. L. Bogart, New York; Wm. Roche, New York; The Electric Gas-Lighting Co., Boston, Mass., and The Manhattan Electrical Supply Co., New York.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>CONTENTS. /x/</head>
+            <p>CHAPTER I.</p>
+            <p>Introductory Remarks.</p>
+            <p>Introduction; means of producing sparks; Induction—Simple induction coils—Ruhmkorff Coils</p>
+            <p>1</p>
+            <p>CHAPTER II.</p>
+            <p>Multiple Gas Lighting.</p>
+            <p>Application of induction coils to gas-lighting—Forms of burners used—Pendant Burners—Ratchet Burners—Stem Burners—Welsbach Burners—Burners for Acetylene Gas—Burners for Gasolene—Automatic Burners</p>
+            <p>7</p>
+            <p>CHAPTER III.</p>
+            <p>Connections and Wiring.</p>
+            <p>How to connect up apparatus—Wiring a house—Locating breaks or short-circuits—Wiring in finished houses—General remarks</p>
+            <p>26</p>
+            <p>CHAPTER IV.</p>
+            <p>Primary Coils and Safety Devices.</p>
+            <p>How to make a simple induction coil—Automatic Cut-outs—The Syracuse Cut-out—Boston Cut-out—Edwards’ Cut-out</p>
+            <p>46</p>
+            <p>CHAPTER V.</p>
+            <p>Lighting of Large Buildings.</p>
+            <p>Series or Jump Spark System—Burners used—How to Wire—Edwards’ Condenser System—Switches for series lighting—How to make a 2-inch spark, Ruhmkorff Coil</p>
+            <p>55</p>
+            <p>CHAPTER VI.</p>
+            <p>How to Select Batteries for Gas Lighting.</p>
+            <p>Electrical Rules—Electromotive force—Amperes—Resistance—Selecting a battery—Arrangement of battery—Series—Multiple—How to get high voltage or large current—The Leclanche Cell—The Samson Cell—The Dry Cell and how to make one—The Edison-Lalande Cell—The Fuller Cell—Care and maintenance of batteries</p>
+            <p>78</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>LIST OF ILLUSTRATIONS.</head>
+            <table rend="frame" xml:id="Table1">
+               <row>
+                  <cell> </cell>
+                  <cell>Frontispiece—Complete Wiring Plan for a House.</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>1</cell>
+                  <cell>Diagram of Simple Circuit</cell>
+                  <cell>2</cell>
+               </row>
+               <row>
+                  <cell>2</cell>
+                  <cell>Diagram of Simple Circuit with Spiral</cell>
+                  <cell>2</cell>
+               </row>
+               <row>
+                  <cell>3</cell>
+                  <cell>Diagram of Simple Circuit with Spiral and Galvanometer</cell>
+                  <cell>2</cell>
+               </row>
+               <row>
+                  <cell>4</cell>
+                  <cell>Diagram of Circuit with Iron Core</cell>
+                  <cell>4</cell>
+               </row>
+               <row>
+                  <cell>5</cell>
+                  <cell>Diagram of Ruhmkorff Coil</cell>
+                  <cell>4</cell>
+               </row>
+               <row>
+                  <cell>6</cell>
+                  <cell>Elevation of Ruhmkorff Coil</cell>
+                  <cell>6</cell>
+               </row>
+               <row>
+                  <cell>7</cell>
+                  <cell>Pendant Burner</cell>
+                  <cell>7</cell>
+               </row>
+               <row>
+                  <cell>8</cell>
+                  <cell>Burner Circuit</cell>
+                  <cell>8</cell>
+               </row>
+               <row>
+                  <cell>9</cell>
+                  <cell>Plain Burner</cell>
+                  <cell>10</cell>
+               </row>
+               <row>
+                  <cell>10</cell>
+                  <cell>Ratchet Burner</cell>
+                  <cell>11</cell>
+               </row>
+               <row>
+                  <cell>11</cell>
+                  <cell>Stiff-Pull Pendant</cell>
+                  <cell>12</cell>
+               </row>
+               <row>
+                  <cell>12</cell>
+                  <cell>Stem Burner</cell>
+                  <cell>14</cell>
+               </row>
+               <row>
+                  <cell>13</cell>
+                  <cell>Argand Burner</cell>
+                  <cell>15</cell>
+               </row>
+               <row>
+                  <cell>14</cell>
+                  <cell>Welsbach Burner</cell>
+                  <cell>16</cell>
+               </row>
+               <row>
+                  <cell>15</cell>
+                  <cell>Acetylene Burner</cell>
+                  <cell>17</cell>
+               </row>
+               <row>
+                  <cell>16</cell>
+                  <cell>Push Button</cell>
+                  <cell>19</cell>
+               </row>
+               <row>
+                  <cell>17</cell>
+                  <cell>Bartholdi Burner</cell>
+                  <cell>21</cell>
+               </row>
+               <row>
+                  <cell>18</cell>
+                  <cell>Boston Automatic</cell>
+                  <cell>22</cell>
+               </row>
+               <row>
+                  <cell>19</cell>
+                  <cell>Concealed Automatic</cell>
+                  <cell>24</cell>
+               </row>
+               <row>
+                  <cell>20</cell>
+                  <cell>Diagram Wiring One “Automatic” from Two Pushes</cell>
+                  <cell>27</cell>
+               </row>
+               <row>
+                  <cell>21</cell>
+                  <cell>Diagram Wiring One “Automatic” and Two Pendant Burners</cell>
+                  <cell>28</cell>
+               </row>
+               <row>
+                  <cell>22</cell>
+                  <cell>Simple Switch Connections</cell>
+                  <cell>33</cell>
+               </row>
+               <row>
+                  <cell>23</cell>
+                  <cell>Details of Automatic Connections</cell>
+                  <cell>35</cell>
+               </row>
+               <row>
+                  <cell>24</cell>
+                  <cell>Details of Cellar Automatic Circuits</cell>
+                  <cell>35</cell>
+               </row>
+               <row>
+                  <cell>25</cell>
+                  <cell>Nut Wrench</cell>
+                  <cell>40</cell>
+               </row>
+               <row>
+                  <cell>26</cell>
+                  <cell>Automatic Operated by Door-Trip</cell>
+                  <cell>44</cell>
+               </row>
+               <row>
+                  <cell>27</cell>
+                  <cell>Primary Coil</cell>
+                  <cell>46</cell>
+               </row>
+               <row>
+                  <cell>28</cell>
+                  <cell>Syracuse Cut-Out</cell>
+                  <cell>50</cell>
+               </row>
+               <row>
+                  <cell>29</cell>
+                  <cell>Boston Cut-Out</cell>
+                  <cell>51</cell>
+               </row>
+               <row>
+                  <cell>30</cell>
+                  <cell>Details Cut-Out Rod—Normal</cell>
+                  <cell>52</cell>
+               </row>
+               <row>
+                  <cell>31</cell>
+                  <cell>Details Cut-Out Rod—Operating</cell>
+                  <cell>53</cell>
+               </row>
+               <row>
+                  <cell>32</cell>
+                  <cell>Bulb Cut-Out</cell>
+                  <cell>54</cell>
+               </row>
+               <row>
+                  <cell>33</cell>
+                  <cell>Jump Spark Burner</cell>
+                  <cell>56</cell>
+               </row>
+               <row>
+                  <cell>34</cell>
+                  <cell>Welsbach Burner for Series Lighting</cell>
+                  <cell>56</cell>
+               </row>
+               <row>
+                  <cell>35</cell>
+                  <cell>Pillar Burner</cell>
+                  <cell>56</cell>
+               </row>
+               <row>
+                  <cell>36</cell>
+                  <cell>Circuit For Jump Spark Gas Lighting</cell>
+                  <cell>57</cell>
+               </row>
+               <row>
+                  <cell>37</cell>
+                  <cell>Insulator</cell>
+                  <cell>59</cell>
+               </row>
+               <row>
+                  <cell>38</cell>
+                  <cell>Edwards’ Condenser</cell>
+                  <cell>60</cell>
+               </row>
+               <row>
+                  <cell>39</cell>
+                  <cell>Edwards’ Burner</cell>
+                  <cell>61</cell>
+               </row>
+               <row>
+                  <cell>40</cell>
+                  <cell>Edwards’ Burner</cell>
+                  <cell>61</cell>
+               </row>
+               <row>
+                  <cell>41</cell>
+                  <cell>Diagram of Edwards’ Condenser Circuit</cell>
+                  <cell>62</cell>
+               </row>
+               <row>
+                  <cell>42</cell>
+                  <cell>Circuit for Jump Spark Switch</cell>
+                  <cell>64</cell>
+               </row>
+               <row>
+                  <cell>43</cell>
+                  <cell>Electromagnetic Trailer</cell>
+                  <cell>66</cell>
+               </row>
+               <row>
+                  <cell>44</cell>
+                  <cell>Diagram of Ruhmkorff Coil Circuit</cell>
+                  <cell>68</cell>
+               </row>
+               <row>
+                  <cell>45</cell>
+                  <cell>Windings of Sections</cell>
+                  <cell>73</cell>
+               </row>
+               <row>
+                  <cell>46</cell>
+                  <cell>Sectional Diagram</cell>
+                  <cell>74</cell>
+               </row>
+               <row>
+                  <cell>47</cell>
+                  <cell>Contact Breaker</cell>
+                  <cell>75</cell>
+               </row>
+               <row>
+                  <cell>48</cell>
+                  <cell>Contact Key</cell>
+                  <cell>76</cell>
+               </row>
+               <row>
+                  <cell>49</cell>
+                  <cell>Fall of Potential Diagram</cell>
+                  <cell>79</cell>
+               </row>
+               <row>
+                  <cell>50</cell>
+                  <cell>Series Arrangement</cell>
+                  <cell>81</cell>
+               </row>
+               <row>
+                  <cell>51</cell>
+                  <cell>Multiple Arrangement</cell>
+                  <cell>82</cell>
+               </row>
+               <row>
+                  <cell>52</cell>
+                  <cell>Leclanche Cell</cell>
+                  <cell>84</cell>
+               </row>
+               <row>
+                  <cell>53</cell>
+                  <cell>Samson Cell</cell>
+                  <cell>87</cell>
+               </row>
+               <row>
+                  <cell>54</cell>
+                  <cell>New Standard Cell</cell>
+                  <cell>90</cell>
+               </row>
+               <row>
+                  <cell>55</cell>
+                  <cell>Edison-Lalande Cell</cell>
+                  <cell>92</cell>
+               </row>
+               <row>
+                  <cell>56</cell>
+                  <cell>Fuller Cell</cell>
+                  <cell>94</cell>
+               </row>
+               <row>
+                  <cell>57</cell>
+                  <cell>Grenet Cell</cell>
+                  <cell>95</cell>
+               </row>
+            </table>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Electric Gas Lighting: How to Install Electric Gas Ignition Apparatus</head>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER I.</label>
+                  <lb/>Introductory Remarks.</head>
+               <p rend="justify">The enormous number of fires arising from the use of matches, and the great convenience and freedom from danger of the electric method of gas lighting, are alone sufficient reasons for the issue of these pages.</p>
+               <p rend="justify">The veriest tyro in electrical operations knows that electricity will cause a spark, and most persons are aware that the spark possesses considerable deflagratory powers, varying with the character of the spark. In electric gas lighting a spark of the proper character is passed across a jet of gas and ignites it. Sparks can be produced by various means: friction, battery current, induction either galvanic or electro-magnetic, by a Wimshurst or Toepler Holtz machine, or an induction coil operated by a battery. For our purposes we will consider only the latter; the former are rarely used, being uncertain and unwieldy.</p>
+               <p rend="justify">Of batteries there are many kinds, and although all will produce sparks, yet for electric gas lighting those made for intermittent work and classed as open circuit cells are to be preferred. Open circuit batteries, which will be fully described in a subsequent chapter, include the Leclanche, and most of the so-called “dry” cells.</p>
+               <p rend="justify">Fig. 1., Fig. 2., &amp; Fig. 3.</p>
+               <p rend="justify">If two wires be attached to a cell of battery <hi rend="italic">B</hi>, one to the carbon or positive pole and the other to the zinc or negative pole, and their free ends be tapped together, minute sparks at <hi rend="italic">C</hi>  will be observed each time the wires <hi rend="italic">separate</hi>  (Fig. 1). If now a coil of insulated wire <hi rend="italic">S</hi>  be included in the circuit, Fig. 2, upon repeating the make and break of contact, the sparks will be much increased. This arises from <hi rend="italic">induction</hi>, each adjacent turn of wire acting upon its neighbor. To better understand the action of induction, we will consider the following examples: Fig. 3. <hi rend="italic">A</hi>  is a circuit in which is the battery cell <hi rend="italic">B</hi>. <hi rend="italic">C</hi>  is a second circuit lying close to but well insulated from circuit <hi rend="italic">A</hi>. <hi rend="italic">G</hi>  is a galvanometer in which a magnetized needle swings right or left each time a current is passed through a coil of wire encircling it. Now, although there is no battery cell in circuit <hi rend="italic">C</hi>, yet the needle will swing each time the circuit <hi rend="italic">A</hi>  is closed or opened; that is, each time the wire ends are touched together or separated. This swing of course indicates that a current is passing through circuit <hi rend="italic">C</hi>, but as there is no battery or other source of electrical energy included in it, it is clear that it arises from the action of the current in circuit <hi rend="italic">A</hi>. In point of fact, the needle swings one way when the circuit is closed and the reverse way when it is opened; but the greater swing on opening the circuit indicates the greater strength of the <hi rend="italic">induced</hi>  current at the moment the current ceases to flow in circuit <hi rend="italic">A</hi>. Note that these current impulses are only momentary. In the case of our single coil, Fig. 2, each turn of wire acted upon itself in a similar manner to the circuit <hi rend="italic">A</hi>  upon circuit <hi rend="italic">C</hi>.</p>
+               <p rend="justify">Fig. 4., &amp; Fig. 5.</p>
+               <p rend="justify">An iron rod or bundle of iron wires, <hi rend="italic">P</hi>, inserted in the coil, Fig. 4, but carefully insulated from it, will immensely increase the inductive effects and consequently the spark. This arrangement constitutes the simple primary coil used in pull-down or pendant and automatic burners. This spark is often a source of inconvenience; it appears wherever a circuit including similar coils is made and broken. In telegraph apparatus at key and relay contacts it is noticeable; in fact, the writer has used temporarily a pair of electro-magnets from a telegraph sounder and obtained spark enough to operate a gas lighting burner.</p>
+               <p rend="justify">To produce a long spark which will jump across an air gap, a more complicated form of coil is needed, one which more closely corresponds to the experiment noted in Fig. 3. The simple primary coil has here another coil of finer wire, <hi rend="italic">S</hi>, wound on it but carefully insulated from it (Fig. 5). This second coil, or “secondary,” has a vast number of turns of fine wire as compared with the primary, which has only comparatively few turns of coarse wire. A primary coil of 40 feet of No. 14 B. &amp; S. copper wire would be inserted in a secondary coil of perhaps 16,000 feet of No. 36 B. &amp; S. This secondary coil, in fact all the apparatus constituting the induction coil, must be most highly insulated, as the electromotive force of the spark is tremendous, and it would be liable to pierce its way through and into the internal winding and so destroy the apparatus. The circuit in the primary is made and broken either by a hand key or by an automatic contact-breaker at <hi rend="italic">C</hi>. With a large coil, the intensity of the spark at <hi rend="italic">G</hi>  is such that it will jump an air-gap of from one-eighth of an inch to over three feet.[A]</p>
+               <p rend="justify">[A]  See Norrie, <hi rend="italic">Induction Coils and Coil-Making</hi>.</p>
+               <p rend="justify">This combination of coils and contact-breaker is generally known as a Ruhmkorff or intensity coil, and is shown in elevation in Fig. 6.</p>
+               <p rend="justify">Fig. 6.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER II.</label>
+                  <lb/>Multiple Gas Lighting.</head>
+               <p rend="justify">Fig. 7.</p>
+               <p rend="justify">As we have already seen how a spark is exhibited at an interrupted contact, the means of its application to gas lighting will be considered. Fig. 7 represents the most generally used kind of electric gas burner or “pendant burner.” Its application is shown in Fig. 8. The wire <hi rend="italic">W</hi>  from the coil <hi rend="italic">C</hi>  is attached to the brass insulated collar carrying the contact <hi rend="italic">S</hi>. The other wire from coil <hi rend="italic">C</hi>  and battery <hi rend="italic">B</hi>  is attached to the gas pipe <hi rend="italic">G</hi>. As the burner is also screwed into the gas pipe itself, the circuit would be closed were it not for the gap at <hi rend="italic">A</hi>  on the burner, caused by the collar carrying the contact <hi rend="italic">C</hi>  and wire <hi rend="italic">W</hi>, being insulated from the burner pillar <hi rend="italic">P</hi>. When, however, a pull is given to the burner arm chain so as to cause the end of the spring <hi rend="italic">R</hi>  to strike contact <hi rend="italic">C</hi>  in passing, contact is made and broken, and a spark passes which ignites the gas issuing from the burner tip, the gas having previously been turned on. A piece of chain with a metal ball is attached to the burner arm in order to pull it down. In this class of burner there are many different makes differing only in minor details.</p>
+               <p rend="justify">Fig. 8.</p>
+               <p rend="justify">Fig. 9 shows a form of pendant burner which has no platinum contact, but has a broad lug on the insulated collar which is scraped against by the spiral spring when the arm is pulled down. It will be seen that the lug is not held by an insulated collar on the burner top, but is on the extension of an arm attached to the burner pillar by a large screw and insulating washers. The circuit wire goes under the smaller screw seen on the lower part of the contact arm, this forming a strong and neat form of attachment.</p>
+               <p rend="justify">Fig. 9.</p>
+               <p rend="justify">Now it has heretofore been necessary to turn on the gas before pulling the chain of a pendant burner, but as this is not always desirable the ratchet burner is made. Fig. 10 shows burner carrying a toothed wheel, which is partly rotated when the arm is pulled down. This wheel is mounted on the stem of a valve which opens or shuts according to the point of rotation, and thus shuts off or admits the gas to flow up to the burner. One pull of the arm turns the gas on; at the same time the wipe spring touches the contact on burner collar, and the gas lights. A second pull and the wheel, rotating, turns off the gas. In all burners of this class a spring is provided to carry the arm up and back into its original position ready for another pull. Some burners do not make contact when the arm flies back, thus saving battery current.</p>
+               <p rend="justify">Fig. 10.</p>
+               <p rend="justify">Fig. 11.</p>
+               <p rend="justify">Fig. 11 is an improved form of burner wherein the movable electrode does not pass through the gas flame, neither do the electrodes come in contact with each other when the gas is being turned off. Reference to the cut will show a pin protruding from the base of the coiled spring electrodes, which pin is so arranged as to come in contact with the short end of the pull-arm. When this pull-arm is pulled down it pushes up this pin, elongating the spiral spring electrode sufficiently to make and break contact at the fixed electrode on the burner collar. This burner can be fitted with a porcelain candle slip if desired to match the imitation candle burners.</p>
+               <div type="div3">
+                  <head>Stem Burners.</head>
+                  <p rend="justify">Objection is sometimes made to the ordinary chain pulls from the fact that they jar the fixtures, and also are liable to bend the fixture branches from the strain used in operating the arm. To overcome these objections the stem style of burner is manufactured (see Fig. 12). This stem, it will be seen, carries a convenient key at the end, which is turned either right or left as in an ordinary gas-cock. The moving contact only makes contact when the gas is being turned on and lighted. When turning it off, the arm is retracted so as not to touch the fixed electrode, thus saving battery current.</p>
+                  <p rend="justify">Fig. 12.</p>
+                  <p rend="justify">Fig. 13 is a simple lighting attachment for an Argand burner. The moving lever which carries the pull has a German silver spiral spring on its top end. This strikes against the lug projecting from the circuit-wire arm and makes a spark. The lower part of the circuit-wire arm has a screw and washers for ready attachment, and is strongly and substantially made.</p>
+                  <p rend="justify">Fig. 13.</p>
+                  <p rend="justify">A means of igniting the gas from a Welsbach burner is shown in Fig. 14, and is so simple as to need no further explanation.</p>
+               </div>
+               <div type="div3">
+                  <head>Acetylene Burners.</head>
+                  <p rend="justify">Owing to the deposits of carbon, it is necessary to construct burners for acetylene gas in a different and more substantial manner than those designed for coal gas.</p>
+                  <p rend="justify">Fig. 14.</p>
+                  <p rend="justify">The best arrangement is depicted in Fig. 15, which has a pilot-tube burner as well as the two main tips. On turning the key, gas is admitted to both main and pilot burners, but the electrode in breaking contact only ignites the gas at pilot burner, which, in its turn, acts as a lighter for the main burner. Turning the main burner out, the pilot light can be left burning if desired, giving a small light, it being not feasible to turn <hi rend="italic">down</hi>  the main burner owing to the before-mentioned carbonization.</p>
+                  <p rend="justify">Fig. 15.</p>
+                  <p rend="justify">The orifice of an acetylene burner is much smaller than that of a coal gas burner, the former burning about one-half foot per hour, against six or seven feet of the latter.</p>
+               </div>
+               <div type="div3">
+                  <head>Burners for Gasolene.</head>
+                  <p rend="justify">The flame from this gas is hotter than that of coal gas, and deposits so much more carbon that a slight modification is necessary in the construction of burners for it. The details can be readily seen on observation of a burner, being simply in the adjustment of the contacts and their operation. It is better, however, to use a larger coil and a stronger battery for gasolene gas lighting than would be needed for coal gas—say, 6 cells of Samson, or large-size New Standard dry battery and a 10-inch coil having about 4 pounds or more of wire on it.</p>
+               </div>
+               <div type="div3">
+                  <head>Automatic Burners.</head>
+                  <p rend="justify">Fig. 16.</p>
+                  <p rend="justify">There are several forms of these burners, but the principle of all is the same. A gas burner protrudes from the top of a brass case which encloses the actuating mechanism. This mechanism consists generally of two electro-magnets, the armature of one opening the valve and allowing the gas to flow, at the same time vibrating a platinum-tipped rod against an electrode upon the burner collar. This produces a series of sparks at the burner tip which ignites the gas. A second magnet is provided which shuts the valve and extinguishes the gas. Some devices use one electro-magnet to both open and close the valve, but the majority have double electro-magnets. The circuit is worked from a push button, Fig. 16, situated wherever desired; pressure on a white button lights the gas and on a black one shuts it off.</p>
+               </div>
+               <div type="div3">
+                  <head>Bartholdi Automatic Burner.</head>
+                  <p rend="justify">Instead of a rotating stop-cock, as in other automatics, a gravity valve is employed in the Bartholdi, which is held to its seat by the weight of the armature and connecting stem, as shown in figure 17. When the gas is turned off the valve rests upon its seat, as indicated in the cut. By a closure of the electric circuit at the turn-on button, two of the helices <hi rend="italic">M</hi>
+                     <hi rend="italic">P</hi> are energized, causing the armature <hi rend="italic">J</hi> to be lifted, thus, by means of the stem <hi rend="italic">H</hi>, raising the valve <hi rend="italic">G</hi> from its seat into the dotted position, and opening the gas way so that the gas may issue to the tip, as shown by the arrows. At the same time, the top of the valve strikes against the end of the lever <hi rend="italic">W</hi>, causing the circuit to be broken at the spark points <hi rend="italic">T</hi>
+                     <hi rend="italic">U</hi>, resulting in a continuous sparking as long as the finger presses the button. The magnet when raising the armature has also twisted or partially revolved it, so as to bring the notch <hi rend="italic">d</hi> in the armature over the end of the hook <hi rend="italic">e</hi>, as shown in the dotted lines. When the circuit is broken by lifting the finger from the button, the notch falls into the hook and the valve is locked open.</p>
+                  <p rend="justify">Fig. 17.</p>
+                  <p rend="justify">To extinguish the flame, the turn-off button is pressed, when a second magnet (not shown in cut) lifts the armature and twists it in the opposite direction, so that when the circuit is broken the armature falls free to its normal position, closing the valve.</p>
+                  <p rend="justify">Fig. 18.</p>
+               </div>
+               <div type="div3">
+                  <head>The Advance Automatic.</head>
+                  <p rend="justify">This automatic burner, Fig. 18, is typical of the class having two magnets, one to open valve and light gas, and another to close valve and extinguish the light. It embodies an improvement over the older types of burners in that the binding posts are mounted on a rubber strip held by two screws, thus preventing the twisting and loosening so common heretofore. It also allows of the valve being opened and gas lighted by means of a match should the battery fail.</p>
+               </div>
+               <div type="div3">
+                  <head>Vibrator Burner.</head>
+                  <p rend="justify">This is an automatic burner which has no valve mechanism, but ignites the gas only. It is generally placed in a cluster or ring where the burners are close enough to light by contagion. It is much smaller in diameter than the regular automatic burners, being but one and three-quarter inches in diameter.</p>
+               </div>
+               <div type="div3">
+                  <head>Argand Automatic Burners.</head>
+                  <p rend="justify">Automatic burners are also made for Argand, but present no radical difference in construction over the regular type.</p>
+               </div>
+               <div type="div3">
+                  <head>The Concealed Automatic Burner.</head>
+                  <p rend="justify">Fig. 19.</p>
+                  <p rend="justify">This automatic, Fig. 19, consists of two iron-clad magnets, placed one above the other, between which is located a gas valve. Through an extension of the latter a pin is driven, one end acted upon by the upper armature to open the valve and ignite the gas, the other by the lower armature which serves to close the valve and extinguish the flame. Around the burner is placed a porcelain candle slip of 3/4-inch diameter and from 4-3/4 inches in length upwards.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER III.</label>
+                  <lb/>Connections and Wiring.</head>
+               <p rend="justify">Fig. 20 shows how to connect up an automatic burner with two pushes; thus one can be downstairs in the hall and the other upstairs, allowing one to either extinguish or light the gas from either place. The value of this arrangement is obvious; it allows one to light up the hall before descending at night, or to put out the gas after one is safely upstairs. Again, an automatic burner can be put in the cellar and lighted and extinguished from the head of the cellar-stairs, saving matches and danger of fire.</p>
+               <p rend="justify">Fig. 21 shows the connections of one automatic burner and two pendant or rachet burners. <hi rend="italic">P</hi>
+                  <hi rend="italic">P</hi>  are the pendent burners, <hi rend="italic">A</hi>  the automatic burner, <hi rend="italic">C</hi>  the primary coil, <hi rend="italic">S</hi>  the buttons which control the automatic burner, <hi rend="italic">M</hi>
+                  <hi rend="italic">M</hi>
+                  <hi rend="italic">M</hi>  the cells of battery, of which there should be at least four, if not six. A low-resistance cell must be used here, as before mentioned, one that gives not <hi rend="italic">less</hi>  than 5 amperes on short circuit. It will be seen here that one side of the battery is connected to ground (or gas pipe), the circuit being completed owing to the burners being themselves screwed into the gas pipe. Care must be taken, however, to first see that no insulating bushings have been used at the gas fixtures, as is done in wiring for electric light. In this case a double circuit will have to be run.</p>
+               <p rend="justify">Fig. 20.</p>
+               <p rend="justify">Fig. 21.</p>
+               <p rend="justify">In wiring up an automatic burner with two electro-magnets, two wires are run, one from the black button and one from the white button on push-plate. Most burners have binding posts inside the case, the wires running through a rubber-bushed hole in the base. One of the greatest defects in the old style automatics arose from the two binding posts being fixed on a hard rubber block, which was held by one screw to the burner top. This screw got loose at times and the block used to twist, making it hard to tighten the wires. But improvements have been made in this direction, the later burners having a block with a projection which engages in a hole in the cover, and is held by two screws.</p>
+               <p rend="justify">If the push has been set in place, and all wiring done, connect up the burner, first ascertaining to which binding post the two wires run. This is done by having one button pressed, the lighting (white) one, for example, and then touching the binding post with either wire. The lighting armature will buzz violently when touched, whereas the extinguishing one only strikes once when contact is made. When only one person is working, a pin can be wedged in the push so as to keep the circuit closed.</p>
+               <p rend="justify">In setting up these burners care must be taken not to bend contacts or alter adjustments, and absolute precaution is necessary that no wires touch where uninsulated. A cause of trouble is a dirty burner which does not allow the gas to strike the contact spark. The collar carrying the second contact may shift, or perhaps become short-circuited in a pendant or ratchet burner; a strip of asbestos will remedy this.</p>
+               <div type="div3">
+                  <head>Burner Distribution.</head>
+                  <p rend="justify">In fitting a house with electric lighting burners, the question of selection is best solved as follows: For the main hall and foot of the cellar-stairs, use the automatic burner. For other hallways, dining-room, drawing-room, and bathroom use ratchet burners which turn on and light gas when chain is pulled. For bedrooms use plain pendant burners; automatics and ratchets add an element of danger, in that they may not turn off gas, or may leak. Most of this type on the market are as reliable as it is possible to make them, but still accidents will happen.</p>
+                  <p rend="justify">The frontispiece shows a diagram of the wiring in a dwelling house of medium size, dividing it into three sections, each section being controlled by a switch—either a hand switch or one of the automatic cut-out switches elsewhere described. The burners are distributed as follows:</p>
+                  <p rend="justify">No. 1 in the front cellar, pendant or ratchet.</p>
+                  <p rend="justify">No. 2 in the rear cellar at foot of stairway is an automatic burner controlled from kitchen above.</p>
+                  <p rend="justify">Nos. 3 and 4 ratchet burners on chandeliers in drawing-room and dining-room.</p>
+                  <p rend="justify">No. 5 ratchet or pendant in kitchen.</p>
+                  <p rend="justify">No. 6 pendant in bedroom.</p>
+                  <p rend="justify">No. 7 ratchet or pendant in bathroom.</p>
+                  <p rend="justify">No. 8 pendant in bedroom.</p>
+                  <p rend="justify">No. 9 pendant in bedroom.</p>
+                  <p rend="justify">Nos. 10, 11, and 12 pendants in bedroom.</p>
+                  <p rend="justify">No. 13 automatic burner in hallway operated from pushes in lower and in upper hallways.</p>
+                  <p rend="justify">The articles required for this job are as follows:</p>
+                  <p rend="justify">Two automatic burners.</p>
+                  <p rend="justify">Three gas lighting push-buttons and bases. Pendant and ratchet burners according to number of lights in rooms.</p>
+                  <p rend="justify">Six cells—open circuit battery.</p>
+                  <p rend="justify">One three-lever switch.</p>
+                  <p rend="justify">One 8 or 10 inch spark coil.</p>
+                  <p rend="justify">Three pounds No. 16 patent finish office wire.</p>
+                  <p rend="justify">Two ounces No. 24 gas-fixture wire.</p>
+                  <p rend="justify">One pound tinned 3/8" staples.</p>
+                  <p rend="justify">Few square inches tinfoil.</p>
+                  <p rend="justify">Small roll insulating tape.</p>
+                  <p rend="justify">Tools: 4-inch screwdriver, pocket knife, 4-1/2-inch side-cutting pliers, hammer, piece of sandpaper.</p>
+                  <p rend="justify">The simple section switch is shown enlarged in Fig. 22. The wires 1, 2, and 3 are from their respective circuits and terminate at the switch arms <hi rend="italic">A</hi>
+                     <hi rend="italic">A</hi>
+                     <hi rend="italic">A</hi>. The wire from the battery <hi rend="italic">B</hi>  and coil <hi rend="italic">C</hi>  runs to <hi rend="italic">each</hi>  switch-stud <hi rend="italic">S</hi>
+                     <hi rend="italic">S</hi>
+                     <hi rend="italic">S</hi>. If trouble shows on the line, each circuit can be thrown off by moving its switch arm until the fault is located. If it is not found at once, and the battery is weak, (test each cell with an ordinary electric bell), open all the circuits until the battery is recuperated, and disconnect the battery wire from the switch. Then attach the battery wire to the bell and touch each switch lever with a wire from the other binding post of the bell. If there is a short circuit on any section, the bell will ring or tremble when the arm is touched.</p>
+                  <p rend="justify">Fig. 22.</p>
+                  <p rend="justify">On the contrary, if the burners fail to work and no sign of a short circuit can be thus obtained, it is evident that a wire is broken or a screw is loose.</p>
+                  <p rend="justify">To locate a break, connect up the bell as just described and attach the testing wire to the switch with all levers closed; this is actually putting the bell in series with the battery, coil, and ground. Then hunt for the break. Take a long piece of wire and fasten one end to a ground pipe. Then touch the other end to the circuit wire in the cellar as far as you can go, baring the insulation in spots, but carefully re-insulating it again. If there is no break in the cellar, the bell will ring loudly at each contact. Next, proceed to the next floor and repeat the operation, gradually working <hi rend="italic">away</hi>  from the battery. As soon as you pass the break, the bell will fail to respond. Two persons here are better than one, as it may be necessary to go quite a distance from the bell before finding the trouble.</p>
+                  <p rend="justify">Fig. 23 shows details of the wiring from the hall light to the two push-buttons. A wire is run right down from the top push <hi rend="italic">T</hi>, middle connection, past the lower push <hi rend="italic">L</hi>, where a similar branch joins it, until it reaches the section switch. The lighting and extinguishing wires from the lower push run up and are joined on to the similar wires from the top push, which latter wires go directly through the floor and ceiling to the automatic burner <hi rend="italic">A</hi>.</p>
+                  <p rend="justify">Fig. 23., &amp; Fig. 24.</p>
+                  <p rend="justify">Fig. 24 is the detail of the wiring for the cellar automatic burner <hi rend="italic">A</hi>, from the push <hi rend="italic">P</hi>, and is so clearly shown as not to require further explanation.</p>
+                  <p rend="justify">The secret of success in gas-lighting work is careful wiring. The platinum tip of the vibrating rod is often bent, either by accidental blow or by the continual hammering against the tip on the collar. This often causes an open circuit when the lighting armature refuses to buzz. Again, soot will form, causing weak action owing to imperfect contact. Examine, adjust, and clean; here, as in all electrical work, contacts must be clean.</p>
+                  <p rend="justify">In general wiring, use weatherproof office wire, or, better still, well-made electric light wire. For ordinary house work No. 16 B. &amp; S. gauge is preferable; smaller wire means higher resistance and less current at burner. For braided office wire, No. 16 runs about 95 feet to the pound, No. 18 about 135 feet to the pound. The cheaper grades of wire without the patent finish or extra insulation are not worth using; sooner or later trouble will ensue, and once a house is wired, it is no pleasant job to hunt trouble, especially if the wire was put on before the plaster. In modern buildings in large cities, the use of conduit tubes has become general, but the handling of these conduits comes more under the province of the electric-light wireman and less within the scope of these pages.</p>
+                  <p rend="justify">In wiring new wooden buildings do not draw wires too tight; the wood may expand and either break wire or cause a weakening of the insulation. In wiring before the plaster is put on, always leave a good length free, so it will not be covered up by the plasterers.</p>
+                  <p rend="justify">The wire used on the gas fixture is of a special kind, being made for the purpose. It is made in two sizes, No. 22 and No. 24 B. &amp; S. gauge, and with three windings of cotton, three outer layers of cotton and one of silk, or three windings of cotton which is soaked in fireproof preparation, and then wound with silk.</p>
+                  <p rend="justify">As the piece used is generally short, these small sizes are sufficient in carrying capacity. After wiring up a fixture, this fine wire can be tied on to the pipes, etc., with thread, and a good coating or two of shellac varnish applied. When this is dry, the thread can be removed and the shellac will hold the wires on to the fixture. On no account finally connect up the battery to a circuit when shellacking the wire. Wait until the shellac is thoroughly dry and <hi rend="italic">hard</hi>—at least half a day, if possible.</p>
+                  <p rend="justify">White lead is generally used at the joints where the burner screws into the fixture, but tinfoil wrapped round the joint will give good service. It prevents leaks and ensures a good contact.</p>
+                  <p rend="justify">The ground connection at the battery must be first-class; do not be content with just wrapping a few turns of wire around the pipe in the cellar (assuming the battery is in the cellar), but clean and scrape the pipe; clean at least two feet of the wire, wind it tightly and evenly on the pipe and <hi rend="italic">solder</hi>  it. There is a pipe-clamp made which is clamped on the pipe and the wire attached to that, but it must be properly put on a clean surface.</p>
+               </div>
+               <div type="div3">
+                  <head>Wiring Finished Houses.</head>
+                  <p rend="justify">In wiring finished houses, especially wooden ones, the wires can be run along skirting boards, and often pushed out of sight in the space between the floor and the skirting. This is quite permissible, as the wires, unlike electric-light wires, carry no dangerous current; but waterproof wire becomes preferable, as the water used in washing a floor will often creep under and rot the insulation. In going upstairs, wires can often be run in the fluting of a moulding along the stairway, and be quite inconspicuous; but wherever possible, fish the wires up inside the wall. The main thing to be considered in wiring is that the wires are large enough, well insulated, all joints well made and taped and put where there is no danger of injury. Rats have a habit of gnawing paraffin-coated insulation, and it is well to run such in metal tubes. In joining or splicing wires, do it in a thorough manner, and solder if possible. Never use the old bell-hanger joint—the one in which the ends of the wires are merely looped together. Strip insulation and scrape or sand-paper bright about three inches of each wire to be spliced. Then, placing the bare wires across each other about three-quarters of an inch from the insulation, tightly wind the loose bare ends of each around the bare inside portion of the one it is being spliced to. A touch of solder will prevent trouble from oxidation, after the adhesive tape has been wrapped on. Attention to details like these will often ensure the satisfactory working of the job.</p>
+                  <p rend="justify">A handy tool for gas-lighting wiring is shown in Fig. 25. One end is bored out to fit the small nuts on the ratchet and pendant burners, and the other is filed flat for use as a screw-driver.</p>
+                  <p rend="justify">Fig. 25.</p>
+                  <p rend="justify">A case may arise where there is electric light on the same chandelier as the gas lights, and that an insulating bushing has been screwed in between the fixture and the pipe. In this case it will be necessary to run two wires to each burner, the pipe common return being now unavailable. Another scheme is to interpose an insulating bushing under each burner; then the second or return wire need only be run from the burner to the gas pipe <hi rend="italic">outside</hi>  the main bushing. But the local fire-insurance rules must first be consulted.</p>
+                  <p rend="justify">Most ceiling gas fixtures will admit of the fixture wire being run inside the brass shell, which makes a neater job. But the very best of insulation must be used, and great care be taken that it be not abraded. It should be shellacked or otherwise insulated before use. The electric-light fixture wires are admirable for use here if there is room.</p>
+                  <p rend="justify">For concealed work in a finished house, locate the position of the fixture under the floor of the room above by measuring both in the room where the fixture is and in the room above. Then cut out a piece of the floor, drill up from underneath through the fixture plaster-rose with a fine drill, and push the fixture wire up. The main wire can be laid under the carpet, or along the floor-crack in the upstairs room.</p>
+                  <p rend="justify">In wiring up wall-fixtures, push-buttons, etc., it is often possible to fish the wire up from the floor by punching a hole at the fixture and inserting a piece of chain (made for the purpose), attached to a long and stout thread. Then drill into the skirting near the floor plumb underneath the first hole and fish for the chain with a piece of wire having a hook on the end of it. Where fixtures have brass rosettes, these can be removed by (generally) unscrewing the fixture, <hi rend="italic">but first shut off the</hi>
+                     <hi rend="italic">  gas</hi>  at the meter, or plug the hole; this may seem unnecessary advice, but experience warrants its being given. When the chain is fished out, a piece of wire can be attached to the thread and pulled through in turn. In most cases its point of exit at the fixture can be concealed by the rosette, through a hole in which it passes. Take care that the edges of this hole do not cut the insulation. Care must be taken at every step in gas-lighting wiring.</p>
+                  <p rend="justify">In wiring up a push-button, screw all wires tightly under their respective binding screws, and then cover wherever possible with adhesive tape. As the wires must be somewhat loose to allow of the connections being made at the back of the push-button at the wall, they will have to be carefully pushed into the hole, and if they are not tightly held by screws, trouble will result. It is a good plan, when using fine enough wire, to make a sort of eye at the end of the wire and pass the screw through this, instead of merely giving the wire end a turn around the screw and then driving the screw home. Of course washers should be used wherever an ordinary screw holds a bare wire.</p>
+               </div>
+               <div type="div3">
+                  <head>Automatic Burner Operated by Door.</head>
+                  <p rend="justify">One of the uses to which an automatic burner can be put is in conjunction with an electric door-spring, lighting when the door is opened, but preferably extinguished by independent push. In this case, a form of trip spring should be used which would only make contact during a portion of the travel of door. Such a trip is shown in Fig. 26.</p>
+                  <p rend="justify">
+                     <hi rend="italic">A</hi>  is automatic burner; <hi rend="italic">C</hi>, the primary coil; <hi rend="italic">B</hi>, the battery; <hi rend="italic">T</hi>, a swinging trip piece of brass hinged in brass plate, <hi rend="italic">P</hi>, which is screwed over the door in such manner that the door opening in direction of the arrow will cause the trip <hi rend="italic">T</hi>  to strike against the spring <hi rend="italic">S</hi>, and make contact. This spring is insulated from the plate <hi rend="italic">P</hi>  by the hard rubber block <hi rend="italic">R</hi>.</p>
+                  <p rend="justify">On the door being opened, the trip will make contact long enough to light the burner and will then fall back as the door passes. On shutting the door, the trip will be raised and will fall as the door passes, but will not make contact. Or, if so desired, it can be made to operate a second contact to extinguish the burner by fixing a second insulated spring so it will be pressed when the top of trip makes a downward movement—as when the door passes it in shutting.</p>
+                  <p rend="justify">Fig. 26.</p>
+                  <p rend="justify">Various applications of automatic burners in connection with burglar alarms will suggest themselves, but in these cases the utmost care must be taken that the apparatus is in good working order; failure to light might cause the room to be filled with gas, and serious results ensue.</p>
+                  <p rend="justify">For those persons who use gas stoves and are mechanically inclined, an arrangement of an alarm clock with an automatic burner will enable them to light up without getting out of bed, or perhaps even waking up.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER IV.</label>
+                  <lb/>Primary Coils and Safety Devices.</head>
+               <p rend="justify">To construct a primary coil such as used with pendant or automatic burners presents no difficulty. The most convenient sizes are those 8 to 10 inches in length and about 3 inches in diameter. It is quite common to speak of these coils as <hi rend="italic">8 or 10 inch coils</hi>; to the writer’s knowledge this has been taken to mean a Ruhmkorff or double-wound induction coil, giving a free 8 or 10 inch spark.</p>
+               <p rend="justify">Fig. 27.</p>
+               <p rend="justify">To make such a coil (Fig. 27), proceed as follows: Prepare a spool by gluing a paper or fibre tube 3/4 inch in outside diameter by about 1-16 inch thick into square or round spool ends three inches square, one-half inch thick, and having each a centre hole just large enough to admit of the tube being held tightly. These ends should be firmly fixed on the tube; a pin or two driven through tube into end will assist in strengthening the joint. Now wind on the tube about 3 pounds No. 12 B. &amp; S. cotton-covered magnet wire. This will give about six layers of 80 turns each, nearly 500 turns in all, a total length of, say, 150 feet, measuring .25 ohm. The ends of the wire are to be brought out through holes drilled in the spool ends, and can be fixed to brass binding posts on those ends.</p>
+               <p rend="justify">Into the paper tube push as many iron wires 8 inches long by No. 22 B. W. gauge as will fill it. These iron wires can be tightened finally by driving in at each end, a stout wire nail.</p>
+               <p rend="justify">Although not absolutely necessary, a coat or two of shellac varnish applied to the windings will make a better insulation. Shellac varnish is readily made by dissolving one part gum shellac in four parts of alcohol. For coils which are likely to be in damp places, a good saturation with insulating compound, such as P. &amp; B. paint, will render them waterproof. The need for good insulation in these primary coils is not so urgent as in Ruhmkorff coils, owing to the lower potential of the current.</p>
+               <p rend="justify">A smaller coil can be made with No. 14 B. &amp; S. wire where the battery is of higher resistance (or gives less than ten amperes on short circuit). The remarks on battery selection on another page will be found to meet application here.</p>
+               <div type="div3">
+                  <head>Automatic Cut-outs.</head>
+                  <p rend="justify">Where there are a number of burners to be installed in different parts of a house, it becomes desirable to wire in a number of circuits. As one end of the circuit is already grounded, a second ground will cause material injury to the battery if not detected in time. It becomes, therefore, necessary to be able to open a grounded circuit without affecting all the lights in a house. This is possible with the multiple circuit arrangement by using a switch, either automatic or operated by hand.</p>
+                  <p rend="justify">The simplest form of danger signal is the relay electric bell attachment, which device is mounted on the end of the gas-lighting coil. It consists of an armature which closes a circuit when attracted by the coil core, in which circuit are included a battery and electric bell.</p>
+                  <p rend="justify">Now when an ordinary pendant or ratchet burner is pulled, it only sends a momentary current through the coil, enough to magnetize the core, but not enough to attract the armature sufficiently long for the bell to ring. But if a short circuit or ground should occur, the armature is held against the contact long enough to cause the bell to ring and give warning. In some cases a constant ringing attachment is added, in which case the bell rings until some one stops it.</p>
+               </div>
+               <div type="div3">
+                  <head>The Syracuse Cut-out.</head>
+                  <p rend="justify">This is a most ingenious device for opening a short circuit, depending on its action upon the sluggish movement of glycerine (Fig. 28).</p>
+                  <p rend="justify">A sealed glass tube pivoted near its centre contains a portion of glycerine sufficient to considerably overbalance it and keep one end down. A soft iron armature is attached to this tube in such manner that each time a current flows through a pair of electro-magnets, the attraction of the armature causes the tube to tilt and the glycerine flows along to the other end. Now it will be readily seen that if the tube is only tilted for a second or so, the slow-moving glycerine will not have flowed sufficiently to the end to overbalance it, but it requires an attraction of the armature for a considerable period. This electro-magnet is in circuit with the gas-lighting wires, the tube being provided with contacts in such manner that, when fully tilted, the circuit is broken. The momentary jerks imparted to the armature by the operation of a pendant or automatic burner will not be enough to permanently tilt the tube and break contact, but a short circuit will hold the armature tight down, until the increasing weight of glycerine causes the tube to open the circuit.</p>
+                  <p rend="justify">Fig. 28.</p>
+                  <p rend="justify">Fig. 29.</p>
+               </div>
+               <div type="div3">
+                  <head>Automatic Sectional Cut-out.</head>
+                  <p rend="justify">Fig. 30.</p>
+                  <p rend="justify">This cut-out, Fig. 29, is representative of the class which use clockwork, and is both simple and reliable. The house circuit is in series with an electro-magnet which controls a clockwork having a long pinion shaft. This clockwork starts and runs while the house circuit is closed, as on operating a burner, but stops when the circuit is opened and flow of current ceases. The wires leading to different circuits in the building run through a number of contact springs mounted on sliding rods, which have teeth cut on the under side (Fig. 30). These rods have soft iron armatures on the opposite ends from the contact springs, which rest over electro-magnets, also connected to the house circuits. When the clockwork starts, the pinion shaft revolves, but does not engage in any of the sliding rods, as they just clear it. Should a heavy or continuous current pass through one of the electro-magnets, it attracts the armature on the corresponding rod (Fig. 31), and the turning pinion engages in the teeth, drawing up the rod and breaking contact.</p>
+                  <p rend="justify">Fig. 31.</p>
+                  <p rend="justify">Fig. 32 is a form of battery protector which works on the gravity principle. Here each section is governed by a rocking contact, operated by two glass bulbs partially filled with a volatile fluid (such as ether), and joined by a glass tube. In one of these bulbs is a platinum wire which is included in the circuit and heats upon the passage of a strong or continuous current. If the circuit is closed too long, the heating of the platinum wire causes the fluid to flow into the upper bulb, and, as the bulbs are pivoted, the increased weight of the upper bulb now overbalances the rocker and breaks the circuit on that section.</p>
+                  <p rend="justify">Fig. 32.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER V.</label>
+                  <lb/>Lighting of Large Buildings.</head>
+               <p rend="justify">The jump spark system is used where it is desired to light clusters of gas jets situated in inaccessible places, or a number of them simultaneously. The spark from a Ruhmkorff coil, being made by a contact broken at the coil and not at the burner, can be divided up among a number of simple burners placed in series. One of the burners used and known as the Smith jump spark burner is shown in Fig. 33. The wires from the coil are attached to the electrodes shown on each side of the burner, and the spark jumps across the gap, situated nearly over the burner orifice. There is a guard-flange of mica round the lower part.</p>
+               <p rend="justify">Fig. 34 shows the manner in which the jump spark is applied to a Welsbach burner. A small porcelain clip carrying the spark-gap wires is held on the top of the burner chimney. The electrodes project down into the chimney so that a draught of air cannot carry the stream of gas away from the spark-gap.</p>
+               <p rend="justify">Fig. 33., Fig. 34. &amp; Fig. 35</p>
+               <p rend="justify">Fig. 35 shows a burner intended for the stage of a theatre, or where the lights are located in dangerous and inaccessible places. The burner is made of porcelain upon which are spun the metal top and bottom. One electrode is also clamped around it, allowing of adjustment and better insulation.</p>
+               <p rend="justify">Fig. 36.</p>
+               <p rend="justify">These burners are used in series, as shown in Fig. 36. <hi rend="italic">B B B</hi>  are the burners; <hi rend="italic">S S</hi>, the secondary wires from the Ruhmkorff coil, <hi rend="italic">I</hi>; <hi rend="italic">P P</hi>, the primary coil wires from battery, opened and closed by means of the key, <hi rend="italic">K</hi>.</p>
+               <p rend="justify">It is often possible to place plain burners close enough so that they can ignite by contagion. In this case one of the plain burners is removed and replaced by a multiple burner, as above.</p>
+               <p rend="justify">It is customary to allow sixteen burners to one inch of spark, in which case the spark gaps are adjusted about one-sixteenth of an inch apart. A coil giving a 2-inch spark would operate 32 burners, but actually it would be found preferable to omit a few, so as to make allowance for any slight leak. A spark of over 2 inches is hard to handle, although often used; it is better to make up a number of circuits of, say, 30 burners each, and operate them alternately by a suitable switch.</p>
+               <p rend="justify">The wire used to connect the burners is generally bare, although an insulated wire is sometimes used. But the electromotive force of a 2-inch spark is so high that it is better to run the wires so they do not come near anything liable to cause a leak. The remarkable tendency of these high-tension currents must be most carefully guarded against; indeed, it is what makes this style of gas lighting so often unsuccessful. A damp wall, gilt wall-paper, a gas pipe hidden in the plaster, will often lead off the current. The wires should be at least 50 per cent. further off from any object than the spark length; that is, a 2-inch spark circuit should be at least 3 inches away from a wall, and the further the better. It cannot be too strongly urged that every precaution be taken to keep the wires away from objects other than their insulators.</p>
+               <p rend="justify">Fig. 37.</p>
+               <p rend="justify">Fig. 37 shows the special form of insulator used. It is made of the highest grade glaze filled porcelain, and the screw is passed into it and holds against the lower end as far away from the wire as possible.</p>
+               <p rend="justify">Glass tubes should be passed over the wires wherever they come near any metallic object, that is, within sparking distance.</p>
+               <div type="div3">
+                  <head>Edwards’ Condenser System.</head>
+                  <p rend="justify">This system differs from the foregoing in that the spark-gaps are connected in multiple, instead of series, and each burner is provided with a small but efficient condenser.</p>
+                  <p rend="justify">Fig. 38.</p>
+                  <p rend="justify">It prevents trouble should a wire break between burners, in which event only one burner would be out of commission, whereas in the first method, the whole number in that series would suffer. It is also more sure in action and presents less liability of the spark jumping to the ground. The burner pillars need not be made of porcelain or lava; in fact, the electrodes can be readily attached to the existing burner. Fig. 38 is a condenser consisting of a small oval piece of mica, on each side of which is fastened, with insulating varnish, a spatula-shaped piece of tinfoil. One foil sheet is attached to the line, the other to the burner electrode. These condensers must not be allowed to get wet or their efficiency will be impaired.</p>
+                  <p rend="justify">Fig. 39. &amp; Fig. 40</p>
+                  <p rend="justify">Figs. 39 and 40 are the most generally used burners, the wire from the condenser being attached to the lug or top electrode, which is insulated from the burner by means of the mica plate to which it is riveted. The burner pillars are of course grounded through their being screwed into the gas pipe. The circuit is shown in Fig. 41. <hi rend="italic">I</hi>  is the induction or Ruhmkorff coil, in the primary circuit of which is the key, <hi rend="italic">K</hi>, controlling the current from the battery, <hi rend="italic">B</hi>, and across which is bridged the condenser, <hi rend="italic">C C</hi>. When the coil vibrator is used, the condenser <hi rend="italic">C C</hi>  can be omitted, that of the coil itself serving instead. <hi rend="italic">S</hi>  is the wire leading from the secondary terminal of the coil to the burner condenser, <hi rend="italic">C</hi>, which, in turn, are connected to the electrodes on the burners, <hi rend="italic">P P</hi>, as before noted. The other secondary wire is grounded preferably to the gas pipe itself.</p>
+                  <p rend="justify">Fig. 41.</p>
+                  <p rend="justify">Where a lot of burners are placed together, as in a ring, it is often feasible to light them by contagion, one tip only being connected to the coil circuit, the others lighting from it and conveying the flame around to the rest. This avoids multiplicity of circuits, or, perhaps, too many burner gaps on one circuit; but the one burner may fail to light, whereas, where all are fitted, the chances of failure are less, especially in the Edwards condenser system.</p>
+               </div>
+               <div type="div3">
+                  <head>Switch for Jump Spark-lighting.</head>
+                  <p rend="justify">In a switch for controlling the current of the secondary coil it will be evident that the utmost attention must be paid to matters of insulation. The object of such a switch is to control a number of circuits; for example, as it is not advisable to put more than 20 to 25 burners on one circuit, a case requiring the lighting of 100 burners would necessitate some means of passing the current to each circuit in turn. This is shown in Fig. 42, in which <hi rend="italic">S</hi> is a hard rubber plate, provided with a revolving metal arm and handle, <hi rend="italic">H</hi>, and four contact points, <hi rend="italic">P</hi>, which latter receive the ends of the wires from the groups of burner condensers <hi rend="italic">B</hi> by means of nuts or binding posts. The wire from the secondary of the coil is run to the switch-handle, <hi rend="italic">H</hi>, great care being taken that it does not pass near to the circuit wires, or contact points. Revolving the switch-handle connects the secondary wire to each circuit in turn. It will be noticed that, unlike a battery switch, this one has a large base, long switch-arm, contact points situated far apart, and every precaution taken to control the passage of the high-tension current. The base should always be of rubber or glass. Shellacked-wood, or such substitutes, are productive of trouble.</p>
+                  <p rend="justify">Fig. 42.</p>
+                  <p rend="justify">When it is desired to light automatically a number of burners from a distance, the Trailer (Fig. 43), is used. This is a switch similar to above, but the arm is revolved by means of toothed wheels by the electro-magnet shown on the back. As it is never desirable to unnecessarily prolong the secondary wires, this device admits of the switch being put near the circuits, and yet being operated from afar.</p>
+                  <p rend="justify">Fig. 43.</p>
+               </div>
+               <div type="div3">
+                  <head>Ruhmkorff Coil.</head>
+                  <p rend="justify">Fig. 44 shows a diagram of a Ruhmkorff coil, the letters referring as follows:</p>
+                  <p rend="justify">
+                     <hi rend="italic">C</hi>  the iron core, <hi rend="italic">P</hi>  the primary coil wires, <hi rend="italic">I</hi>  the insulating tube between primary <hi rend="italic">P</hi>  and the secondary coil <hi rend="italic">S</hi>. In small coils this may be dispensed with, and a heavy layer of paraffin wax laid over the primary coil. <hi rend="italic">D D</hi>  are the ends of the secondary, showing sparking taking place between a pair of balls (or between the electrodes of a gas burner); <hi rend="italic">R</hi>  is a stiff spring fastened to the coil base and carrying a soft iron hammer, which is attracted toward the iron core, <hi rend="italic">C</hi>, when current passes through the primary coil and magnetizes it. <hi rend="italic">L</hi>  is a battery, <hi rend="italic">J</hi>, a condenser, to be more fully described later on. When the spring <hi rend="italic">R</hi>  touches the adjustment screw <hi rend="italic">A</hi>  at <hi rend="italic">B</hi>, as they are insulated from each other, contact is made and reference to circuit will show that the current from battery <hi rend="italic">L</hi>  flows through primary coil, magnetizing the core and attracting soft iron hammer on <hi rend="italic">R</hi>. As this bends forward, it breaks contact at <hi rend="italic">B</hi>, the core loses its magnetism and the spring flies back, to again make contact. This is repeated many times per second.</p>
+                  <p rend="justify">Fig. 44.</p>
+                  <p rend="justify">As a heavy spark occurs at <hi rend="italic">B</hi>  on the break of contact, the condenser, <hi rend="italic">J</hi>, is attached at <hi rend="italic">M K</hi>. This is a series of insulated tinfoil sheets, which has the property of nullifying the spark at <hi rend="italic">B</hi>, and so preventing the waste of platinum with which both adjustment screw <hi rend="italic">A</hi>  and spring <hi rend="italic">R</hi>  are equipped.</p>
+                  <p rend="justify">A Ruhmkorff coil differs from a simple primary coil in three main points. Two separate coils instead of one; high insulation, and a primary coil of few turns. In the simple coil we desired self-induction; here, we desire to avoid it as much as possible.</p>
+                  <p rend="justify">The average size Ruhmkorff coil, for jump spark work, would be one giving a 2-inch spark, specifications for which are as follows:</p>
+                  <p rend="justify">
+                     <hi rend="italic">Spool</hi>—Nine inches long by one inch in diameter. End cheeks 4 inches high by 3 inches wide.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Core</hi>—Sufficient soft iron wires, 9 inches long by No. 22 B. W. gauge as will fill the spool tube.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Primary</hi>—Two layers No. 14 B. &amp; S. gauge cotton-covered copper wire.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Secondary</hi>—Two and one-half pounds No. 36 B. &amp; S. gauge double cotton or silk-covered magnet wire wound in four sections (or more than four sections, if feasible).</p>
+                  <p rend="justify">
+                     <hi rend="italic">Condenser</hi>—Seventy sheets tinfoil 4 by 7-1/2 inches; 80 sheets condenser paper 5 by 8 inches.</p>
+               </div>
+               <div type="div3">
+                  <head>Spool.</head>
+                  <p rend="justify">This should be made up of a fibre tube 9 inches in length by about 1/16 inch thick, and should be firmly fixed into the spool ends. If it be glued in it should also be pinned as well; it is easily possible to drive in a few screws passing through the tube into the spool ends, particularly as the soft iron core, being of loose wires, will adapt itself to the slightly projecting screw-heads. Remember that this spool must be made strong; if it comes apart during the winding process, much trouble will ensue, and perhaps all the wires lost or ruined. For reasons to be seen later, do not affix the right-hand spool end yet, but have it ready. The core consists of as many fine iron wires, say of No. 22 B. W. gauge, as can be forced into the tube, but the core can better be added after the windings are all in; that is, in such cases where a rigid spool tube is used.</p>
+               </div>
+               <div type="div3">
+                  <head>Primary Winding.</head>
+                  <p rend="justify">This consists of two layers of No. 14 B. &amp; S. gauge cotton (or silk) covered copper magnet wire, and should be evenly and tightly laid on. For winding coils, a lathe is a most handy machine, or the spool can be mounted on a spindle and rotated by hand. It is not feasible here to give all details of coil-construction; reference should be made to the many excellent works on the subject. The two ends are brought out through holes in the spool ends, as indicated for the simple primary coil before described. After winding, the wire is to be well basted with melted paraffin wax until it is saturated, any excess being scraped off so as to leave a smooth cylindrical surface for the secondary coil. Half a dozen turns of stout paper or oiled silk is now to be wound on, and enough paraffin wax added to leave an insulation at least one-quarter of an inch around the outside of the winding. The right-hand end of spool, where the end was not attached, will require a little care that the wire does not run off; but, as only two layers are to be wound, it is an easy thing to do.</p>
+                  <p rend="justify">When the primary coil is finished off, cut three pieces of hard rubber four inches square, with a central hole just big enough that they may be slipped on over the primary coil to form divisions into which the secondary wire goes. These can be fixed equal distances apart by means of removable wooden blocks, which are taken off as each section is wound.</p>
+               </div>
+               <div type="div3">
+                  <head>Secondary Coil.</head>
+                  <p rend="justify">The secondary coil consists of about 2-1/2 pounds No. 36 B. &amp; S. gauge silk or cotton-covered magnet wire, wound evenly in layers in the sections on the primary coil. Before any wire goes into a section, it must be seen that the division fits tight to the primary coil. It will be best to pour around the coil some melted paraffin wax so as to form an insulating ring, and prevent any possibility of the spark creeping under the section division into the next. The actual operation of winding presents no difficulty other than those of keeping the wire from damage and getting as even layers as possible. If each layer is separated from its neighbor by a strip of paraffined paper, it makes even winding easier, and better insulation. As to the insulating of the secondary coil, it can be done in a variety of ways. The coil can be soaked in molten paraffin until saturated, or the wire can be made to pass through a dish of molten paraffin while on its way from the wire reel to the coil. In the latter case the wire must be guided by means of glass rollers, as the wax would harden rapidly if touched by the fingers. In connecting up the sections, the similar ends are to be joined; that is, the inside ends to inside ends, and outside ends to outside ends, as per diagram (Fig. 45). This will bring two outside ends free for attachment to binding posts. Fig. 46 shows direction of winding and connecting the two middle coils, <hi rend="italic">A C</hi> being the inside layers next to primary and <hi rend="italic">B D</hi> the outside layers.</p>
+                  <p rend="justify">Fig. 45.</p>
+                  <p rend="justify">An outside coat of paraffin wax is now given to the coil and a wrapping of waxed paper laid on. Then, if desired, a cover of sheet-rubber or a layer of cloth can be put on over all, to finish the job.</p>
+               </div>
+               <div type="div3">
+                  <head>Base, Key, and Condenser.</head>
+                  <p rend="justify">Fig. 46.</p>
+                  <p rend="justify">The base for a Ruhmkorff coil generally resembles an oblong shallow box. The coil is mounted on the lid, and the condenser inside the box, the connections being made on the lower side of the lid. It is preferable, except for appearance’ sake, to make all connections outside the box, but this is left to the worker’s choice.</p>
+                  <p rend="justify">Fig. 47.</p>
+                  <p rend="justify">
+                     <hi rend="italic">The Condenser</hi>  is made up of 70 sheets of tinfoil each about 4 inches by 7-1/2, and 80 sheets of clean white paper 5 by 8 inches placed alternately, and saturated with paraffin wax. The tinfoil sheets are laid so that about 1/2 inch projects out of the paper sheets at each end, the alternate sheets coming out at the same end, and the projecting pieces being bent together gives the effect of a pair of tinfoil sheets insulated from each other, aggregating the sum of all the small ones.</p>
+                  <p rend="justify">Fig. 48.</p>
+                  <p rend="justify">The coil can now be attached to the base by means of screws passing through the lid into the coil ends. If a vibrating contact breaker be desired, reference to Fig. 44 will show method of connection. Fig. 47 shows details of a contact breaker of similar design. <hi rend="italic">R</hi>  is hammer head of soft iron, <hi rend="italic">S</hi>  a spring about thickness of clock spring and 3/8 inch wide or more. <hi rend="italic">B</hi>  is contact point, both spring and adjustment screw <hi rend="italic">A</hi>  being fitted with platinum contacts. <hi rend="italic">C</hi>  is a check nut, to hold <hi rend="italic">A</hi>  from turning. <hi rend="italic">I</hi>  is an adjustment to tighten or loosen spring <hi rend="italic">S</hi>, by means of a lug which it carries on its shaft. It is well insulated from pillar carrying <hi rend="italic">A</hi>, by the hard rubber bushing, <hi rend="italic">I</hi>.</p>
+                  <p rend="justify">The condenser is laid in the box under the coil and attached as in Fig. 44; that is, one set of sheets to the contact pillar, and the other set to the adjustment screw.</p>
+                  <p rend="justify">For gas-lighting work, it is generally preferable to use a contact or strap key (Fig. 48), instead of a vibrator. The key can be mounted on coil base, in which case the condenser will be attached in same manner as for the vibrator.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER VI.</label>
+                  <lb/>How to Select Batteries for Gas Lighting.</head>
+               <p rend="justify">Before entering into a description of the various batteries used in electric gas lighting, it will be well to briefly consider a few simple electrical rules bearing upon the subject.</p>
+               <p rend="justify">A current of electricity has <hi rend="italic">electromotive force</hi>, or <hi rend="italic">difference of potential</hi>  figured in <hi rend="italic">volts</hi>, and <hi rend="italic">current</hi>  figured in <hi rend="italic">amperes</hi>.</p>
+               <p rend="justify">For example we will use the <hi rend="italic">water</hi>  analogy (Fig. 49). Two tanks, <hi rend="italic">A</hi>
+                  <hi rend="italic">B</hi>, on the same level, are connected by a pipe <hi rend="italic">C</hi>.</p>
+               <p rend="justify">Supposing tank <hi rend="italic">A</hi>  be filled with water and the pipe, <hi rend="italic">C</hi>, to be opened; the water will flow along <hi rend="italic">C</hi>  into <hi rend="italic">B</hi>  until the level in each tank is equal. So long as there is a difference of level, there will be a pressure in <hi rend="italic">C</hi>, owing to the water behind it.</p>
+               <p rend="justify">Replacing the tanks <hi rend="italic">A</hi>  and <hi rend="italic">B</hi>  by unequally electrified bodies, and the pipe <hi rend="italic">C</hi>  by a conductor of electricity, the flow of water is represented by the tendency of the electrified bodies to equalize themselves by a flow of current along the conductor, <hi rend="italic">C</hi>.</p>
+               <p rend="justify">To sum up: The difference of level is now difference of potential, the pounds pressure along the pipe being expressed as electromotive force in <hi rend="italic">volts</hi>.</p>
+               <p rend="justify">Fig. 49.</p>
+               <p rend="justify">The quantity of water flowing along the pipe is measured, as electricity, in amperes. As the quantity of water passing in a given time is regulated by the size of the pipe and its own pressure, so the quantity of electricity is also regulated. A conductor of electricity offers resistance to the flow of current according to its sectional area and the material of which it is composed, this resistance being expressed in <hi rend="italic">ohms</hi>. The greater the voltage and lower the resistance, the more current. This law, and its kindred applications, are expressed as follows:</p>
+               <p rend="justify">
+                  <hi rend="italic">C = E/R.</hi>
+                  <lb/>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">C</hi>  is current in amperes, <hi rend="italic">E</hi>  electromotive force in volts, and <hi rend="italic">R</hi>  resistance in ohms.</p>
+               <p rend="justify">Thus a wire with a resistance of 50 ohms would pass 2 amperes with an electromotive force of 100 volts. To find resistance when other two factors are known, the formula is</p>
+               <p rend="justify">
+                  <hi rend="italic">R = E/C.</hi>
+                  <lb/>
+               </p>
+               <p rend="justify">In selecting a battery for work, regard must be made to the current required, and its period of flow. For energizing a gas lighting primary coil, the current must be large, but is only required occasionally, the battery standing idle for long periods. In this case the class called open circuit cells are preferable, as they contain no strong acids and do not deteriorate to any extent when not in use. Of such class is the Leclanche-Samson, Monarch, carbon cylinder, and most so-called dry cells. As the resistance in a conductor affects the current flow, so it does in a battery cell; the internal resistance of a battery is determined by its size, proximity of the elements, etc. Cells with small zincs and porous cups are of high internal resistance, those with large sheet zincs and big carbon surfaces, of low internal resistance. As the primary coil used in gas lighting is never much over one ohm, a cell of low internal resistance should be selected. But as the wires leading to the burners must be taken into account, a number of cells should be used to produce enough electromotive force to overcome the added resistance. Now battery cells can be arranged in a variety of ways—in series for higher electromotive force, and in multiple—for greater current.</p>
+               <p rend="justify">Fig. 50.</p>
+               <p rend="justify">Fig. 50 represents the series arrangement; here the zinc of one cell is connected to the carbon of the next; this adds the electromotive forces together and thus gives greater ability to overcome resistance, but it also adds together the resistance of each cell. Thus 4 cells, each 2 volts and of one-half ohm internal resistance, would, in series, have an E. M. F. of 8 volts and an internal resistance of 2 ohms, current 4 amperes. Fig. 51 shows four cells in multiple, the zinc of each cell and the carbons of each cell are connected. Here the result would be but 2 volts, but the internal resistance would be only one-quarter, viz: one-eighth of an ohm, current 16 amperes.</p>
+               <p rend="justify">Fig. 51.</p>
+               <p rend="justify">The readiest rule for connecting a battery is to arrange it according to the resistance of the line or outside wiring. So as we will have to use house-wiring far exceeding in length that on the coil, and probably of less diameter. Therefore the series arrangement will be the one to use, and not less than four cells of a low-resistance battery.</p>
+               <div type="div3">
+                  <head>The Leclanche.</head>
+                  <p rend="justify">This battery consists of a carbon rod surrounded by granular peroxide of manganese forming the positive pole and a piece of zinc for the negative pole, both elements being immersed in a solution of sal ammoniac (chloride of ammonia). If a wire be run <hi rend="italic">outside</hi> the solution and connecting the carbon and zinc, a current of electricity flows along it. The chemical action taking place is as follows: The zinc combines with the chlorine of the solution, liberating free hydrogen and ammonia. The hydrogen appears at the carbon, where it is acted upon by the oxygen of the peroxide of manganese. If too much current is taken from the cell, that is, if the wire or circuit be of too low resistance, the oxidizing action of the peroxide is not rapid enough, and a film of hydrogen, which is a poor conductor, forms over the carbon and increases the resistance of the battery—also setting up what is termed “local action” (actually, a battery opposing a battery).</p>
+                  <p rend="justify">After a rest, the hydrogen is absorbed, but a cell rarely regains its pristine activity after too severe demands upon it. The original Leclanche batteries were imported from France, the home of the inventor, but of recent years they are made in the United States, England and Germany. The most important point to be considered in a galvanic cell is the purity of its active parts. The zincs should be as near chemically pure as can be obtained; the peroxide of manganese of the best quality and perfectly free from foreign substances, and the sal ammoniac the purest that can be manufactured. The actual difference in work between a battery so constructed, and the average cheap cell sold at a price to catch the unwise, is tremendous. And this difference is indicated, not only in work, but when the battery is at rest. Local action in a cheap battery will exhaust it even when it is not in circuit, whereas a battery cell of good material will remain in good order for months without more attention than the addition of water or sal ammoniac. It has been often remarked that the batteries made to-day are inferior to those made years ago, but it is only true of the cheap-priced cells; if a good price is paid and attention given to securing a well made cell, the output will be as satisfactory.</p>
+                  <p rend="justify">Fig. 52.</p>
+                  <p rend="justify">To set up a Leclanche cell, proceed as follows: Put six ounces of sal ammoniac into the glass jar; fill the jar one-third full of <hi rend="italic">clear</hi>  water and stir. Put in the porous cup and fill the jar with water up to its neck, pouring a few teaspoonfuls of water into the hole in porous cup. When the cell is in working condition, the level of the solution will be found to have receded, owing to absorption by the porous cup. To prevent the creeping of sal ammoniac up the neck of jar and on to the terminals of the cell, a layer of paraffin is applied to neck of jar and porous cup. Should this need renewing, vaseline can be used, or any heavy grease, care being taken that it does not get on electrodes or where the wires are to be fastened. When the cell refuses to work, throw out old solution, wash porous cup, jar and zinc in warm water, and replace with new solution. There is a limit, when a new porous cup must be used, but this can be done when cell does not work after being treated as above. The electromotive force of the Leclanche cell is about 1.45, and current on short circuit of nearly one ampere, depending of course on thickness and porosity of porous cup, size of zinc, and a few other points.</p>
+               </div>
+               <div type="div3">
+                  <head>The Samson Cell.</head>
+                  <p rend="justify">Fig. 53 is one of the Leclanche group, in which a compound carbon element displaces the earthenware porous cup. This carbon is composed of two parts, a hollow-fluted lower piece and a threaded top, which carries the binding post. In the process of manufacture, the top piece is heated red-hot and plunged into hot paraffin wax, thus ensuring a complete diffusion of the paraffin throughout the carbon. In this way the creeping of salt or solution, and consequent corrosion of electrodes and failure of cell, are avoided. The lower portion is much more porous than the upper and is filled with a combination of pea-carbon and peroxide of manganese held in by a plug at the bottom. This plug can be removed and new depolarizer added. Directions given by the manufacturers for renewing this element are to hold the lower end of the carbon over a burner flame until the plug is softened and can be removed, or to immerse the extreme lower end of the carbon in boiling water. After refilling, a cork plug can be used.</p>
+                  <p rend="justify">Fig. 53.</p>
+                  <p rend="justify">The E. M. F. of the No. 2 size is from 1.40 to 1.47 volts, and current, on short circuit, of 12 to 16 amperes. The No. 2 Special has same E. M. F., but current of only 5 amperes, being intended where strong current is not required but quick recuperation. It will be seen that this cell is far more suited to electric gas-lighting work than the simple Leclanche, owing to its great current delivery.</p>
+               </div>
+               <div type="div3">
+                  <head>The Dry Cell.</head>
+                  <p rend="justify">Of so-called dry cells there are numbers on the market at so low a price that it does not pay to make one’s own. But for those who wish to do so, the following formula, furnished by Mr. Wm. Roche, of New Standard battery fame, will be found excellent:</p>
+                  <p rend="justify">One pint CLEAR WATER.</p>
+                  <p rend="justify">Five ounces sal ammoniac.</p>
+                  <p rend="justify">Six ounces zinc chloride.</p>
+                  <p rend="justify">Dissolve the sal ammoniac in the water thoroughly. Let stand twenty-four hours. Then add the zinc chloride, and when cool, will be ready for use.</p>
+                  <p rend="justify">When you have your zinc cup ready, pour a little wax in the bottom, to insulate; place a piece of blotting-paper inside cup and laying tight against the zinc, about three turns. The negative element is prepared as follows: One pound pure carbon, powdered; one pound black oxide manganese; mix thoroughly. Then add sufficient of above solution to hold it together without being plastic, as that would be too wet to tamp.</p>
+                  <p rend="justify">Moisten your paper in the zinc cup thoroughly. Place your stick or plate of carbon in centre of zinc cup, hold it there central while you pack in the carbon manganese element all around it; be sure that carbon manganese, or negative element, does not touch zinc cup. If it does, your cell will run down quickly. It is a good precaution to have your paper half an inch higher than cup when in the cup, and soaked with the solution. Give it a couple of quick taps on the bench; that will curl the paper in at the bottom and insure against any internal short circuit. When your cell is filled up, clean all the carbon element away from the zinc. Seal, and your battery is ready when you’ve got the connections on.</p>
+                  <p rend="justify">Fig. 54.</p>
+               </div>
+               <div type="div3">
+                  <head>The New Standard Dry Cell.</head>
+                  <p rend="justify">The principal sizes of this cell (Fig. 54) are as follows:</p>
+                  <lg>
+                     <l>
+                        <hi rend="bold">No. 2—5-7/8 × 2-7/16.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">No. 3—3-3/4 × 1-7/8.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">No. 5—6 × 2-9/16.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">No. 6—6 × 3.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">No. 7—7 × 3.</hi>
+                     </l>
+                  </lg>
+                  <p rend="justify">The electromotive force is 1.5 volts, current of the No. 7 size on short circuit, 24 amperes. Nos. 2, 5, 6, or 7 are most suitable for electric gas lighting, either by simple primary coil or jump spark coil.</p>
+               </div>
+               <div type="div3">
+                  <head>The Edison Lalande Cell.</head>
+                  <p rend="justify">This cell (Fig. 55), gives a large, steady current and is of low internal resistance, but its electromotive force is not high, being less than .7 volt on closed circuit. Its output of current varies with the size, type <hi rend="italic">S</hi> being .025 ohm internal resistance and capacity of 300 ampere-hours. The Edison Lalande cell can be applied to electric gas lighting in cases where a large demand is made upon the battery, for example in church or theatre lighting.</p>
+                  <p rend="justify">Its elements consist of positive plates of amalgamated zinc suspended on each side of negative plates of black oxide of copper. The electrolyte is an aqueous solution of caustic soda. A layer of heavy paraffin oil is poured on top of the solution to prevent the solution from evaporating and also to keep the soda crystals from creeping up and over the rim of the jar.</p>
+                  <p rend="justify">Fig. 55.</p>
+                  <p rend="justify">To set up an Edison Lalande cell, fill the jar up to the brown mark with clear water; pour in the soda from the tin box, <hi rend="italic">and stir</hi>. When thoroughly dissolved, pour on top of the solution one half-inch layer of <hi rend="italic">the oil which is sent with the battery</hi>. Then the elements attached to the cover can be inserted, and the cell is ready for use.</p>
+                  <p rend="justify">Use care not to splash the solution, as it will burn the clothing and skin. If any does get on, a little animal grease or vegetable oil will quickly saponify it.</p>
+                  <p rend="justify">In the action of this cell the oxide of copper is reduced to metallic copper and the zincs consumed, it being intended that each element will require renewal at the same time. Upon picking into the oxide plate with a sharp-pointed instrument, if the plate is red throughout, it is exhausted; but, should it show black in its interior, it is still capable of a little more use, but is preferable to use a new plate whenever there is but little oxide left.</p>
+                  <p rend="justify">Never remove the oxide plates from the battery, and do not allow the solution to be less than one inch above oxide plates.</p>
+               </div>
+               <div type="div3">
+                  <head>The Fuller, or Bichromate Cell.</head>
+                  <p rend="justify">Although not often necessary in gas-lighting work, there is at times a demand for a heavy current, such as in lighting a big building, where a large coil must be operated. At such times a bichromate of potash cell becomes of service. One of the types is shown in Fig. 56. <hi rend="italic">J</hi> is a jar containing electropoion fluid described below. <hi rend="italic">C</hi> is a carbon plate immersed in this fluid. <hi rend="italic">P</hi> is a porous cup holding the zinc, <hi rend="italic">Z</hi>, and being filled with a solution of 18 parts common salt, 72 parts water, and one ounce mercury.</p>
+                  <p rend="justify">Fig. 56.</p>
+                  <p rend="justify">The electropoion fluid for the outer jar is made by one pound bichromate of potash or soda to one gallon of water, mixing in a stone vessel. When dissolved, add three pounds commercial sulphuric acid carefully, a little at a time, and stir the mixture constantly as it gets hot. Always add the acid to the mixture; never attempt to pour the mixture into the acid, or trouble will result. The sodium salt is preferable to the potassium, owing to its greater solubility and its not forming <hi rend="italic">chrome alum</hi>—a hard precipitate which sticks to jars, elements, etc., to their detriment.</p>
+                  <p rend="justify">Fig. 57.</p>
+                  <p rend="justify">Fig. 57, a form of battery known as the Grenet battery, is used where there is no porous cup. The zinc element, <hi rend="italic">Z</hi>, is mounted on a rod <hi rend="italic">R</hi>  passing through the cap <hi rend="italic">G</hi>  of a glass jar, <hi rend="italic">J</hi>, and can be raised or lowered into the electropoion fluid which the jar contains. This is a good scheme where the battery is liable to stand idle for a long period.</p>
+               </div>
+               <div type="div3">
+                  <head>Care of Open Circuit Batteries.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Terminals.</hi>—Take care that the solutions do not splash over terminals; keep all terminals and binding post screws clean and bright. See that all wires are tightly clamped in terminals, also that their ends are clean. A loose contact is productive of infinite trouble. Examine connections that elements are in proper relation to each other. If in multiple, to produce large current—zincs together and carbons together. If in series, for high electromotive force—zinc to carbon, throughout battery.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Zincs.</hi>—See that the zincs are clean; if crystals form, either reduce strength of solution with water, or scrape zincs clean, and watch if repeated. Examine screw which holds wire; it often corrodes, and makes poor contact in the thread.</p>
+                  <p rend="justify">A clever device for preserving a rod zinc from the accumulation of crystals is made by the manufacturers of the Samson cell. It consists of a thin paper tube which is slipped over the zinc. When the crystals accumulate so as to impair the cell, the tube is slipped off and a new one put on. This device increases the internal resistance of the cell but very slightly.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Porous cups and carbons.</hi>—Wash in warm water. Carbons can be well soaked in warm water and dried in <hi rend="italic">sun</hi>, in a place where they will not accumulate dust. Porous cups should be well soaked in warm water, and left to drain in a place exposed to dustless air. Examine binding post holes and screws.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Solutions.</hi>—Do not make too strong. Use not more than six ounces, or more than four ounces avoirdupois, of chemically pure sal ammoniac to one cell Leclanche. Warm water can be used for making solutions, if desired. Some persons drop a teaspoonful of acetic acid in the cell; it is not recommended. If in a place where sal ammoniac cannot be procured, use temporarily common table-salt in same proportion; thoroughly well clean battery first.</p>
+                  <p rend="justify">Batteries should be kept in a cool dry place. Dry cells should stand upright, also in a cool place, and an examination made once in a while of the connections.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>INDEX.</head>
+               <list rend="bulleted">
+                  <item>Acetylene Burner 16</item>
+                  <item>Argand Automatic Burner 23</item>
+                  <item>Argand Burner 14</item>
+                  <item>Automatic Burner 19</item>
+                  <item>Batteries, open circuit 2</item>
+                  <item>Boston Cut-Out 51</item>
+                  <item>Breaks, to locate 34</item>
+                  <item>Burner, Acetylene 16</item>
+                  <item>Burner, Argand 14</item>
+                  <item>Burner, Argand Automatic 23</item>
+                  <item>Burner, Automatic 19</item>
+                  <item>Burner, Bartholdi 21</item>
+                  <item>Burners, choice of 30</item>
+                  <item>Burner, Concealed Automatic 24</item>
+                  <item>Burners, Connecting 26</item>
+                  <item>Burners, Distribution of 30</item>
+                  <item>Burner, Gasolene 18</item>
+                  <item>Burner, Pendant 7</item>
+                  <item>Burner, Ratchet 10</item>
+                  <item>Burner, Ring 23</item>
+                  <item>Burner, Stem 13</item>
+                  <item>Burner, Smith 56</item>
+                  <item>Burner, Vibrator 23</item>
+                  <item>Burner, Welsbach 15</item>
+                  <item>Choice of Burners 30</item>
+                  <item>Clockwork Cut-Out 52</item>
+                  <item>Coil, Primary 5, 46</item>
+                  <item>Coil, Ruhmkorff 6</item>
+                  <item>Coil, Secondary 5</item>
+                  <item>Connections of Burners 26</item>
+                  <item>Connections to ground 38</item>
+                  <item>Contact Breaker 75</item>
+                  <item>Cut-Out, Boston 51</item>
+                  <item>Cut-Out, Bulb 54</item>
+                  <item>Cut-Out, Clockwork 52</item>
+                  <item>Cut-Out, Syracuse 50</item>
+                  <item>Danger of Burners 30</item>
+                  <item>Defects in Burners 29</item>
+                  <item>Diagram of Wiring 31</item>
+                  <item>Door-Trip 43</item>
+                  <item>Edwards’ Burner 61</item>
+                  <item>Edwards’ Condenser 60</item>
+                  <item>Edwards’ System 62</item>
+                  <item>Finished houses, wiring of 38</item>
+                  <item>Fixtures, wiring of 40</item>
+                  <item>Frontispiece 31</item>
+                  <item>Fuller Battery 94</item>
+                  <item>Galvanometer 3</item>
+                  <item>Gasolene Burner 18</item>
+                  <item>Gas-fixture wire 37</item>
+                  <item>Grenet Battery 95</item>
+                  <item>Ground connections 38</item>
+                  <item>Hall, Burners for 30</item>
+                  <item>Induced Current 3</item>
+                  <item>Induction, Action of 3</item>
+                  <item>Insulator 59</item>
+                  <item>Jump Spark System 55</item>
+                  <item>Key Strap 76</item>
+                  <item>Lalande Battery 92</item>
+                  <item>Leclanche Battery 83</item>
+                  <item>Multiple, Batteries in 82</item>
+                  <item>Negative pole 2</item>
+                  <item>Open circuit batteries 2</item>
+                  <item>Pendant Burner 7, 9</item>
+                  <item>Positive pole 2</item>
+                  <item>Primary Coils 46</item>
+                  <item>Push Button, to wire 42</item>
+                  <item>Ratchet Burner 10</item>
+                  <item>Ring Burner 23, 63</item>
+                  <item>Ruhmkorff Coil 6, 67</item>
+                  <item>Samson Battery 87</item>
+                  <item>Secondary Coil 5</item>
+                  <item>Section Switch 33</item>
+                  <item>Series method 57</item>
+                  <item>Series, Batteries in 82</item>
+                  <item>Shellac varnish 38</item>
+                  <item>Smith Burner 55</item>
+                  <item>Sparks, to produce 1</item>
+                  <item>Spool 70</item>
+                  <item>Standard Battery 90</item>
+                  <item>Stem Burner 13</item>
+                  <item>Switch, Automatic 66</item>
+                  <item>Switch, high tension 64</item>
+                  <item>Switch, Section 33</item>
+                  <item>Syracuse Cut-Out 50</item>
+                  <item>System, Edwards’ 62</item>
+                  <item>Trailer 66</item>
+                  <item>Varnish Shellac 38</item>
+                  <item>Vibrator Burner 23</item>
+                  <item>Welsbach Burner 15</item>
+                  <item>Wimshurst Machine 1</item>
+                  <item>Winding Coil 74</item>
+                  <item>Wire for general use 36</item>
+                  <item>Wire, gas-fixture 37</item>
+                  <item>Wire, office 36</item>
+                  <item>Wire, Ruhmkorff Coil 70</item>
+                  <item>Wiring finished houses 38</item>
+                  <item>Wiring of Fixtures 40</item>
+                  <item>Wiring of Push Button 42</item>
+               </list>
+               <p rend="justify">New Standard Dry Battery</p>
+               <p rend="justify">All sizes for all systems of Bells, Telephones, Burglar Alarms and Gas Lighting. Prices according to size and quantity.</p>
+               <p rend="justify">New Standard “Autogas” Dry Battery</p>
+               <p rend="justify">For very heavy work. Gas Mobiles, Lights, etc. No. 2 set, weight 27 lbs., neat oak case, $6.00 per set.</p>
+               <p rend="justify">New Standard Jump Spark Rhumkorff Coils, $12.00 each.</p>
+               <p rend="justify">New Standard Flashlight.</p>
+               <p rend="justify">For use around Gasolene Engines, Automobiles, Launches, Clothes Closets, etc. $2.00 each.</p>
+               <p rend="justify">This light will positively give equal to fifteen hours actual service. A $5.00 article for $2.00.</p>
+               <p rend="justify">Complete catalogue for the asking.</p>
+               <lg>
+                  <l>William Roche,</l>
+                  <l/>
+                  <l>Inventor and M’f’r,</l>
+                  <l/>
+                  <l>42 Vesey St., N. Y. City</l>
+                  <l/>
+                  <l>Dealer in Battery Materials, Chemicals, Etc.</l>
+               </lg>
+               <p rend="justify">Have a Look Into our Store when in need of anything in the Electrical line of whatever nature.</p>
+               <p rend="justify">We deal in everything and carry a good stock.</p>
+               <p rend="justify">CATALOGUE ON Electric Light Goods, Bells, and Electric House Goods, Switchboards, &amp;c. Telephones and Supplies.</p>
+               <lg>
+                  <l>J. JONES &amp; SON,</l>
+                  <l>64 Cortlandt St., New York City.</l>
+               </lg>
+               <p rend="justify">JUMP SPARK COILS</p>
+               <lg>
+                  <l>X-Ray Coils.</l>
+                  <l/>
+                  <l>Primary Coils.</l>
+                  <l/>
+                  <l>Medical Coils.</l>
+                  <l/>
+                  <l>Telephone Coils.</l>
+               </lg>
+               <p rend="justify">C. F. SPLITDORF, 17-27 Vandewater St., N. Y.</p>
+               <p rend="justify">AMERICAN BOOKS.</p>
+               <p rend="justify">
+                  <hi rend="bold">Allen, C. F.</hi>  Railroad Curves and Earthwork. A pocketbook for Surveyors and Engineers. Limp leather, $2.00.</p>
+               <p rend="justify">
+                  <hi rend="bold">Cordeiro, Dr. F. J. B.</hi>  The Barometrical Determination of Heights, Levelling and Hypssometry. Limp leather, $1.00.</p>
+               <p rend="justify">
+                  <hi rend="bold">Goldingham, A. H.</hi>  The Design and Construction of Oil Engines, with full Instructions for their Erecting, Testing, Running and Repairing. 12mo, cloth, $2.00.</p>
+               <p rend="justify">
+                  <hi rend="bold">Kinealy, J. H.</hi>  An Elementary Text-Book on Steam Engines and Boilers. Third edition, cloth $2.00.</p>
+               <p rend="justify">
+                  <hi rend="bold">Kinealy, J. H.</hi>  Steam Heating Charts for the use of Architects and Builders in Estimating the Necessary Heat Required for Buildings. $1.00.</p>
+               <p rend="justify">
+                  <hi rend="bold">Redwood, I. I.</hi>  Lubricants, Oils and Greases. Cloth, $1.50.</p>
+               <lg>
+                  <l>We Mail All Books Postpaid on Receipt of Price.</l>
+                  <l/>
+                  <l>Address:</l>
+                  <l/>
+                  <l>SPON &amp; CHAMBERLAIN,</l>
+                  <l/>
+                  <l>12 Cortlandt Street, New York.</l>
+               </lg>
+               <lg>
+                  <l>SMALL ACCUMULATORS</l>
+                  <l/>
+                  <l>How Made and Used</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">A Practical Handbook for Students and Young Electricians</hi>
+                  </l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">EDITED BY PERCIVAL MARSHALL, A.I.M.E.</hi>
+                  </l>
+                  <l/>
+                  <l>Contents of Chapters</l>
+               </lg>
+               <lg>
+                  <l>I.—The Theory of the Accumulator.</l>
+                  <l/>
+                  <l>II.—How to make a 4-Volt Pocket Accumulator.</l>
+                  <l/>
+                  <l>III.—How to make a 32-Ampere-Hour Accumulator.</l>
+                  <l/>
+                  <l>IV.—Types of Small Accumulators.</l>
+                  <l/>
+                  <l>V.—How to Charge and Use Accumulators.</l>
+                  <l/>
+                  <l>VI.—Applications of Small Accumulators, Electrical Novelties, etc. Useful Receipts. Glossary of Technical Terms.</l>
+               </lg>
+               <p rend="justify">80 pages, 40 illustrations, 12mo, cloth, 50c.<lb/>
+               </p>
+               <lg>
+                  <l>THE MAGNETO-TELEPHONE</l>
+                  <l/>
+                  <l>ITS CONSTRUCTION,</l>
+                  <l>Fitting Up and Adaptability to Every-Day Use</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">BY NORMAN HUGHES</hi>
+                  </l>
+                  <l/>
+                  <l>CONTENTS OF CHAPTERS</l>
+               </lg>
+               <p rend="justify">Some electrical considerations: I.—Introductory. II.—Construction. III.—Lines, Indoor Lines. IV.—Signalling Apparatus. V.—Batteries. Open Circuit Batteries. Closed Circuit Batteries. VI.—Practical Operations. Circuit with Magneto Bells and Lightning Arresters. How to Test the Line. Push-Button Magneto Circuit. Two Stations with Battery Bells. VII.—Battery Telephone. Battery Telephone Circuit. Three Instruments on one Line. VIII.—General remarks. Index.</p>
+               <p rend="justify">80 pages, 23 illustrations, 12mo, cloth, $1.00. In paper, 50c.<lb/>
+               </p>
+               <lg>
+                  <l>
+                     <hi rend="italic">EVERYBODY’S BOOK ON ELECTRICITY</hi>
+                  </l>
+                  <l/>
+                  <l>PRACTICAL ELECTRICS</l>
+                  <l/>
+                  <l>A UNIVERSAL HANDY-BOOK</l>
+                  <l>ON</l>
+                  <l>EVERYDAY ELECTRICAL MATTERS</l>
+                  <l/>
+                  <l>FIFTH EDITION</l>
+                  <l/>
+                  <l>CONTENTS:</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alarms.</hi>—Doors and Windows; Cisterns; Low Water in Boilers; Time Signals; Clocks. <hi rend="italic">Batteries.</hi>—Making; Cells; Bichromate; Bunsen; Callan’s; Copper-oxide; Cruikshank’s; Daniel’s; Granule carbon; Groves; Insulite; Leclanché; Lime Chromate; Silver Chloride; Smee; Thermo-electric. <hi rend="italic">Bells.</hi>—Annunciator System; Double System; and Telephone; Making; Magnet for; Bobbins or Coils; Trembling; Single Stroke; Continuous Ringing. <hi rend="italic">Connections.</hi>
+                  <hi rend="italic">Carbons.</hi>
+                  <hi rend="italic">Coils.</hi>—Induction; Primary; Secondary; Contact-breakers; Resistance. <hi rend="italic">Intensity Coils.</hi>—Reel; Primary; Secondary; Core; Contact-breaker; Condenser; Pedestal; Commutator; Connections. <hi rend="italic">Dynamo-electric Machines.</hi>—Field-Magnets; Pole-pieces; Field-magnet Coils; Armature Cores and Coils; Commutator Collectors and Brushes; Relation of size to efficiency; Methods of exciting Field-Magnets; Magneto-Dynamos; Separately excited Dynamos; Shunt Dynamos; Field-Magnets; Armatures; Collectors; Brush Dynamo; Alternate Currents. <hi rend="italic">Fire Risks.</hi>—Wires; Lamps; Danger to persons. <hi rend="italic">Measuring.</hi>—Non-Registering Instruments; Registering Instruments. <hi rend="italic">Microphones.</hi>
+                  <hi rend="italic">Motors.</hi>
+                  <hi rend="italic">Phonographs.</hi>
+                  <hi rend="italic">Photophones.</hi>
+                  <hi rend="italic">Storage.</hi>
+                  <hi rend="italic">Telephones.</hi>—Forms; Circuits and Calls; Transmitter and Switch; Switch for Simplex; etc., etc.</p>
+               <lg>
+                  <l>135 PAGES. 126 ILLUSTRATIONS. 8VO.</l>
+                  <l>Cloth, 75 cents</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">SAMPLE COPIES MAILED TO ANY ADDRESS ON RECEIPT OF 8 CENTS.</hi>
+               </p>
+               <p rend="justify">THE MODEL ENGINEER AMATEUR ELECTRICIAN</p>
+               <p rend="justify">A Journal of Mechanics and Electricity for Amateurs and Students</p>
+               <p rend="justify">Edited by PERCIVAL MARSHALL</p>
+               <p rend="justify">ITS GOOD POINTS.</p>
+               <p rend="justify">Better than any paper of its kind ever published.</p>
+               <p rend="justify">The articles are original and practical.</p>
+               <p rend="justify">The articles are so clearly and simply written and everything made so plain that it will be found easy to follow the directions and duplicate the articles described.</p>
+               <p rend="justify">Special articles on Model engines and boilers for yachts, torpedo-boats and war-ships.</p>
+               <p rend="justify">Designing and building of model yachts and boats.</p>
+               <p rend="justify">Making small tools for model work.</p>
+               <p rend="justify">The building of small gas engines.</p>
+               <p rend="justify">Building screw-cutting and turning lathes.</p>
+               <p rend="justify">Building all kinds of model stationary and locomotive steam engines and boilers.</p>
+               <p rend="justify">Model engineers and their work.</p>
+               <p rend="justify">Building of all kinds of electrical machines, apparatus, coils, batteries, telephones, microphones, phonographs, novelties.</p>
+               <p rend="justify">The articles are fully illustrated, principally with detail drawings to scale.</p>
+               <p rend="justify">New Books, Notes and Queries, Workshop Notes and Hints, Tools and Supplies, etc.</p>
+               <p rend="justify">ANNUAL SUBSCRIPTION, $1.50 POSTPAID</p>
+               <p rend="justify">
+                  <hi rend="italic">Send in your subscription and get your friends to subscribe. Unused postage stamps will be accepted (not revenue.) Address all communications to</hi>
+               </p>
+               <lg>
+                  <l>SPON &amp; CHAMBERLAIN,</l>
+                  <l/>
+                  <l>12 Cortlandt Street, NEW YORK.</l>
+               </lg>
+               <lg>
+                  <l>Induction Coils —AND— COIL MAKING.</l>
+                  <l/>
+                  <l>Construction, Operation and Application.</l>
+                  <l/>
+                  <l>By H. S. NORRIE.</l>
+               </lg>
+               <p rend="justify">Second edition, thoroughly revised and greatly enlarged, and including 25 new illustrations. A good deal of the new matter is devoted to Medical Coils, Bath Coils, Gas Engine and Spark Coils, Contact Breakers, Batteries, X-Ray Work, Electric Gas Lighting, and a chapter on Wireless Telegraphy.</p>
+               <p rend="justify">Contents of Chapters.</p>
+               <p rend="justify">1. Coil construction, full directions, sizes of wires, &amp;c., &amp;c. 2. Construction of different forms of contact breakers. 3. Insulating materials, cements, &amp;c. 4. Construction of various kinds of condensers. 5. Experiments. 6. Spectrum analysis. 7. Currents in vacuo. 8. Rotating effects. 9. The application of coils to gas lighting. 10. Batteries for coils. 11. Secondary Batteries. 12. Tesla and Hertz effects. 13. X-Rays and radiography. 14. Wireless telegraphy. Contents. Index.</p>
+               <lg>
+                  <l>290 pages, 79 Illus. 5 × 6-1/2 in.</l>
+                  <l/>
+                  <l>CLOTH, $1.00</l>
+               </lg>
+               <p rend="justify">Manual of Instruction in Hard Soldering<lb/>WITH AN APPENDIX ON THE Repair of Bicycle Frames</p>
+               <lg>
+                  <l>Notes on Alloys and a Chapter on Soft Soldering</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">BY HARVEY ROWELL</hi>
+                  </l>
+               </lg>
+               <p rend="justify">The flame, lamp, charcoal, mats, blow-pipes, wash-bottle, binding wire, chemicals, borax, spelter, silver solder, gold solder, oxidation of metals, fluxes, anti-oxidisers, oxidation of cases, the cone, oxidising flame, reducing flame, heat transmission, conduction, capacity of metals, radiation, application, the work table, the joint, applying solder, applying heat, the use of the blow-pipe, joints, making a ferrule, to repair a spoon, to repair a watch case, hard soldering with a forge or hearth, hard soldering with tongs, preserving thin edges, silversmith’s pickle, restoring color to gold, chromic acid, to mend steel springs, sweating metals together, retaining work in position, making joints, applying heat, preventing the loss of heat, effect of sulphur lead and zinc, to preserve precious stones, annealing and hardening, burnt iron, to hard solder after soft solder. Tables of—specific gravity, tenacity, fusibility, alloys.</p>
+               <p rend="justify">66 pages, illustrated, cloth, 75 cents.<lb/>
+               </p>
+               <p rend="justify">For Soldering Receipts, Cements and Lutes, Pastes, Glues and such like, <hi rend="italic">see</hi>  Workshop Receipts.</p>
+               <lg>
+                  <l>NEW</l>
+                  <l>EDITION “DE LUXE”</l>
+                  <l>ON HEAVY PLATE PAPER</l>
+               </lg>
+               <p rend="justify">A SYSTEM OF EASY LETTERING</p>
+               <p rend="justify">BY J. H. CROMWELL.</p>
+               <p rend="justify">ITS GOOD POINTS.</p>
+               <p rend="justify">Very easy to learn.</p>
+               <p rend="justify">A rapid method to become a good letterer with a little practice.</p>
+               <p rend="justify">Very easy to lay out a line of words in Strict Proportion, whether it be on a fence 500 yards long or on a drawing only a few inches across.</p>
+               <p rend="justify">Good for draughtsmen who prefer neat lettering, yet something out of the ordinary.</p>
+               <p rend="justify">It contains 26 pages of alphabets whose modifications are almost limitless.</p>
+               <p rend="justify">One of the cheapest in the market.</p>
+               <p rend="justify">This little book will be appreciated by draughtsmen who wish to use plain letters (and yet somewhat different from the ordinary run of letters) for the titles on drawings. The book will also be valuable and useful to any one who has had no practice in lettering, as the easy method given for forming the letters will enable a person to form the letters correctly, and with a little practice to do so quickly.—<hi rend="italic">American Machinist.</hi>
+               </p>
+               <p rend="justify">Oblong, 8vo, cloth, 50 cents<lb/>
+               </p>
+               <lg>
+                  <l>Workshop Receipts.</l>
+                  <l/>
+                  <l>THE MOST COMPLETE</l>
+                  <l>Technical Cyclopedia in 5 Vols.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold">First Series.</hi>
+                  <hi rend="bold">Principal Contents.</hi>—Bronzes, Cements, Dyeing, Electro-metallurgy, Enamels, Etchings, Fireworks, Fluxes, Fulminates, Gilding, Gums, Japanning, Lacquers, Marble Working, Nitro-Glycerine, Photography, Pottery, Varnishes, 420 pages, 103 illus., cloth, $2.00.</p>
+               <p rend="justify">
+                  <hi rend="bold">Second Series.</hi>
+                  <hi rend="bold">Principal Contents.</hi>—Acidimetry, Albumen Alcohol, Alkaloids, Bitters, Bleaching, Boiler Incrustations, Cleansing, Confectionery, Copying, Disinfectants, Essences, Extracts, Fire-proofing, Glycerine, Gut, Iodine, Ivory Substitutes, Leather Matches Pigments, Paint, Paper, Parchment. 485 pages, 16 illus., cloth, $2.00.</p>
+               <p rend="justify">
+                  <hi rend="bold">Third Series.</hi>
+                  <hi rend="bold">Principal Contents.</hi>—Alloys, Aluminium, Antimony, Copper, Electrics, Enamels, Glass, Gold, Iron, Steel, Liquors Lead, Lubricants, Magnesium, Manganese, Mercury, Mica, Nickel, Platinum, Silver, Slag, Tin, Uranium, Zinc. 480 pages, 183 illus., cloth, $2.00.</p>
+               <p rend="justify">
+                  <hi rend="bold">Fourth Series.</hi>
+                  <hi rend="bold">Principal Contents.</hi>—Waterproofing, Packing, Stowing, Embalming, Preserving, Leather Polishes, Cooling Air and Water, Pumps and Siphons, Dessicating, Distilling, Emulsifying, Evaporating, Filtering, Percolating, Macerating, Electrotyping, Stereotyping, Book-binding, Straw-plaiting, Musical Instruments, Clock and Watch Mending, Photography 443 pages, 243 illus., cloth. $2.00.</p>
+               <p rend="justify">
+                  <hi rend="bold">Fifth Series.</hi>
+                  <hi rend="bold">Principal Contents.</hi>—Diamond Cutting, Laboratory Apparatus, Filtering, Magic Lanterns Metal Work, Percolation, Illuminating Agents, Tobacco Pipes, Taps, Tying and Splicing Tackle, Repairing Books, Netting, Walking Sticks, Boat-Building. 440 pages, 373 illus., cloth, $2.00.</p>
+               <p rend="justify">EACH SERIES has its own Contents and Index and is complete in itself.<lb/>
+               </p>
+               <lg>
+                  <l>The Best and Cheapest in the Market</l>
+                  <l/>
+                  <l>ALGEBRA SELF-TAUGHT</l>
+                  <l/>
+                  <l>FOR THE USE OF</l>
+                  <l>Mechanics, Young Engineers and Home Students</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">BY W. PAGET HIGGS, M.A., D.Sc.</hi>
+                  </l>
+                  <l/>
+                  <l>FOURTH EDITION</l>
+                  <l/>
+                  <l>CONTENTS</l>
+               </lg>
+               <p rend="justify">Symbols and the signs of operation. The equation and the unknown quantity. Positive and negative quantities. Multiplication, involution, exponents, negative exponents, roots, and the use of exponents as logarithms. Logarithms. Tables of logarithms and proportional parts. Transportation of systems of logarithms. Common uses of common logarithms. Compound multiplication and the binomial theorem. Division, fractions and ratio. Rules for division. Rules for fractions. Continued proportion, the series and the summation of the series. Examples. Geometrical means. Limit of series. Equations. Appendix. Index. 104 pages, 12mo, cloth, 60c.</p>
+               <p rend="justify">
+                  <hi rend="italic">See also</hi>
+                  <hi rend="bold">Algebraic Signs</hi>, Spons’ Dictionary of Engineering, No. 2. 40 cts.</p>
+               <p rend="justify">
+                  <hi rend="italic">See also</hi>
+                  <hi rend="bold">Calculus</hi>, Supplement to Spons’ Dictionary, No. 5. 75 cts.</p>
+               <p rend="justify">CROSS SECTION PAPER.</p>
+               <p rend="justify">THE HANDY SKETCHING PAD.<lb/>
+               </p>
+               <p rend="justify">Printed on one side, in blue ink, all the lines being of equal thickness, with useful tables. Size 8 × 10 inches. Price, 25c. each. Per dozen pads, $2.50.</p>
+               <p rend="justify">THE HANDY SKETCHING BOOK.<lb/>
+               </p>
+               <p rend="justify">Made from this paper but printed on both sides. Size of book 5 × 8 inches, stiff board covers. Price, 25c. each; per dozen books, $2.50.</p>
+               <p rend="justify">SCALE EIGHT TO ONE INCH.<lb/>
+               </p>
+               <p rend="justify">A large sheet with heavy inch lines and half inch lines, printed in blue ink. Size of sheet, 17 × 22 inches. Per quire (24 sheets), 75c.</p>
+               <p rend="justify">SCALE TEN TO ONE INCH.<lb/>
+               </p>
+               <p rend="justify">Size 17 × 22 inches, printed in blue ink, with heavy inch lines and half inch lines. Per quire (24 sheets), 75c.</p>
+               <p rend="justify">THE ELECTRICIAN’S SKETCHING PAD.<lb/>
+               </p>
+               <p rend="justify">Size 8 × 10. Scale 10 to 1 in. Price 25c. each. Per dozen, $2.50.</p>
+               <p rend="justify">THE ELECTRICIAN’S SKETCHING BOOK.<lb/>
+               </p>
+               <p rend="justify">Made from this paper. Scale 10 to 1 inch. Size of book 5 × 8 inches, with stiff board covers. Price, 25c. each; per dozen, $2.50.</p>
+               <lg>
+                  <l>Any quantity mailed to any part of the world on receipt of price.</l>
+                  <l>Or Books and Pads Assorted, per dozen, $2.50.</l>
+                  <l/>
+                  <l>This paper is <hi rend="italic">not ruled</hi>. Try it and you will find it</l>
+                  <l>GOOD, ACCURATE AND CHEAP.</l>
+                  <l/>
+                  <l>SPON &amp; CHAMBERLAIN, 12 Cortlandt St.,</l>
+                  <l>NEW YORK.</l>
+               </lg>
+               <lg>
+                  <l>PRACTICAL HANDBOOK ON</l>
+                  <l>Gas Engines</l>
+                  <l>With Instructions for Care and Working of the Same.</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">BY G. LIECKFELD, C.E.</hi>
+                  </l>
+                  <l/>
+                  <l>Translated with permission of the Author by</l>
+                  <l>
+                     <hi rend="italic">GEORGE RICHMOND, M.E.</hi>
+                  </l>
+                  <l/>
+                  <l>WITH A CHAPTER ON OIL ENGINES</l>
+                  <l/>
+                  <l>CONTENTS</l>
+               </lg>
+               <p rend="justify">Choosing and installing a gas engine. The construction of good gas engines. Examination as to workmanship, running, economy. Reliability and durability of gas engines. Proper erection of a gas engine. Foundation. Arrangement for gas pipes. Rubber bag. Locking devices. Exhaust pipes. Air pipes. Setting up gas engines. Brakes and their use in ascertaining the power of gas engines. Arrangement of a brake test. Distribution of heat in a gas engine. Attendance on gas engines. General remarks. Gas engine oil. Cylinder lubricators. Rules as to starting and stopping a gas engine. The cleaning of a gas engine. General observations and specific examination for defects. The engine refuses to work. Non-starting of the engine. Too much pressure on the gas. Water in the exhaust pot. Difficulty in starting the engine. Irregular running. Loss of power. Weak gas mixtures. Late ignition. Cracks in air inlet. Back firing. Knocking and pounding inside of engine. Dangers and precautionary measure in handling gas engines. Precautions when opening gas valves, removing piston from cylinder, examining with light openings of gas engines. Dangers in starting, cleaning, putting on belts. <hi rend="bold">Oil Engines.</hi>  Gas engines with producer gas. Gasoline and oil engines. Concluding remarks.</p>
+               <p rend="justify">120 pages, illustrated, l2mo, cloth, $1.00.<lb/>
+               </p>
+               <lg>
+                  <l>THE FIREMAN’S GUIDE</l>
+                  <l/>
+                  <l>A Handbook on the Care of Boilers</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">BY KARL P. DAHLSTROM, M.E.</hi>
+                  </l>
+                  <l/>
+                  <l>CONTENTS OF CHAPTERS</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold">I. Firing and Economy of Fuel.</hi>—Precautions before and after starting the fire, care of the fire, proper firing, draft, smoke, progress of firing, fuel on the grate, cleaning out, cleaning grate bars and ash pan, dampers, firing into two or more furnaces, dry fuel, loss of heat.</p>
+               <p rend="justify">
+                  <hi rend="bold">II. Feed and Water Line.</hi>—Feeding, the water line, false water line, defective feeding apparatus, formation of scale, gauge cocks, glass gauge, the float, safety plug, alarm whistle.</p>
+               <p rend="justify">
+                  <hi rend="bold">III. Low Water and Foaming or Priming.</hi>—Precautions when water is low, foaming, priming.</p>
+               <p rend="justify">
+                  <hi rend="bold">IV. Steam Pressure.</hi>—Steam gauge, safety valves.</p>
+               <p rend="justify">
+                  <hi rend="bold">V. Cleaning and Blowing Out.</hi>—Cleaning the boiler, to examine the state of the boiler, blowing out, refilling the boiler.</p>
+               <p rend="justify">
+                  <hi rend="bold">VI. General Directions.</hi>—How to prevent accidents, repairs, the care of the boiler when not in use, testing boilers, trimming and cleaning outside. Summary of rules. Index.</p>
+               <p rend="justify">8vo, cloth, 50 cents.<lb/>
+               </p>
+               <lg>
+                  <l>HOW TO RUN</l>
+                  <l>Engines and Boilers</l>
+                  <l/>
+                  <l>Practical Instruction for Young Engineers and</l>
+                  <l>Steam Users.</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">BY EGBERT POMEROY WATSON</hi>
+                  </l>
+                  <l/>
+                  <l>REVISED AND ENLARGED</l>
+                  <l/>
+                  <l>Synopsis of Contents</l>
+               </lg>
+               <p rend="justify">Cleaning the boiler, removing scale, scale preventers, oil in boilers, braces and stays, mud drums and feed pipes, boiler fittings, grate bars and tubes, bridge walls, the slide valve, throttling engine, the piston, testing the slide valve with relation to the ports, defects of the slide valve, lap and lead, the pressure on a slide valve, stem connections to the valve, valves off their seats, valve stem guides, governors, running with the sun, eccentrics and connections, the crank pin, brass boxes, bearings on pins, adjustment of bearings, the valve and gearing, setting eccentrics, the actual operation, return crank motion, pounding, the connections, lining up engines, making joints, condensing engines, Torricelli’s vacuum, proof of atmospheric pressure, pumps, no power in a vacuum, supporting a water column by the atmosphere, starting a new plant, the highest qualities demanded.</p>
+               <p rend="justify">Water tube boilers, fire tube boilers, why water tube boilers steam rapidly, torpedo boat boilers, management of water tube boilers, economy and maintenance of water tube boilers.</p>
+               <p rend="justify">150 pages, illustrated, 16mo, cloth, $1.00.<lb/>
+               </p>
+               <lg>
+                  <l>THE CORLISS ENGINE.</l>
+                  <l/>
+                  <l>By John T. Henthorn.</l>
+                  <l/>
+                  <l>—AND—</l>
+                  <l/>
+                  <l>MANAGEMENT OF THE CORLISS ENGINE.</l>
+                  <l/>
+                  <l>By Charles D. Thurber.</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">Uniform in One Volume. Cloth Cover; Price, $1.00.</hi>
+                  </l>
+                  <l/>
+                  <l>Table of Contents.</l>
+               </lg>
+               <p rend="justify">Chapter I.—Introductory and Historical; Steam Jacketing. Chapter II.—Indicator Cards. Chapter III.—Indicator Cards continued; the Governor. Chapter IV.—Valve Gear and Eccentric; Valve Setting. Chapter V.—Valve Setting continued, with diagrams of same; Table for laps of Steam Valve. Chapter VI.—Valve Setting continued. Chapter VII.—Lubrication with diagrams for same. Chapter VIII.—Discussion of the Air Pump and its Management. Chapter IX.—Care of Main Driving Gears; best Lubricator for same. Chapter X.—Heating of Mills by Exhaust Steam. Chapter XI.—Engine Foundations; diagrams and templets for same. Chapter XII.—Foundations continued; Materials for same, etc.</p>
+               <p rend="justify">Third Edition, with an Appendix.<lb/>
+               </p>
+               <lg>
+                  <l>THE SLIDE VALVE SIMPLY EXPLAINED</l>
+                  <l/>
+                  <l>By W. J. TENNANT, Asso. M.I.M.E.</l>
+                  <l/>
+                  <l>REVISED AND MUCH ENLARGED</l>
+                  <l/>
+                  <l>By J. H. KINEALY, D.E.</l>
+                  <l/>
+                  <l>CONTENTS OF CHAPTERS:</l>
+               </lg>
+               <p rend="justify">I. The Simple Slide.</p>
+               <p rend="justify">II. The Eccentric a Crank. Special Model to Give Quantitative Results.</p>
+               <p rend="justify">III. Advance of the Eccentric.</p>
+               <p rend="justify">IV. Dead Centre. Order of Cranks. Cushioning and Lead.</p>
+               <p rend="justify">V. Expansion—Inside and Outside Lap and Lead; Advance Affected Thereby. Compression.</p>
+               <p rend="justify">VI. Double-Ported and Piston Valves.</p>
+               <p rend="justify">VII. The Effect of Alterations to Valve and Eccentric.</p>
+               <p rend="justify">VIII. Note on Link Motions.</p>
+               <p rend="justify">IX. Note on Very Early Cut-Off, and on Reversing Gears in General.</p>
+               <p rend="justify">
+                  <hi rend="italic">88 Pages.</hi>
+                  <hi rend="italic">41 Illustrations.</hi>
+                  <hi rend="italic">12mo, Cloth, $1.00.</hi>
+                  <lb/>
+               </p>
+               <lg>
+                  <l>QUICK AND EASY METHODS</l>
+                  <l>OF</l>
+                  <l>Calculating</l>
+                  <l>With the Slide Rule</l>
+                  <l/>
+                  <l>A Simple Explanation of the Theory and</l>
+                  <l>Use of the Slide Rule, Logarithms, Etc.</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">With numerous examples worked out.</hi>
+                  </l>
+                  <l/>
+                  <l>By R. G. BLAINE, M.E.</l>
+                  <l/>
+                  <l>A most reliable, practical and valuable work for the engineer.</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">144 Pages.</hi>
+                     <hi rend="italic">Illustrated.</hi>
+                     <hi rend="italic">12mo, Cloth, $1.00</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>THEORETICAL AND PRACTICAL</l>
+                  <l>Ammonia Refrigeration</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">A Work of Reference for Engineers and others Employed in the</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Management of Ice and Refrigeration Machinery.</hi>
+                  </l>
+                  <l/>
+                  <l>By ILTYD I. REDWOOD</l>
+                  <l/>
+                  <l>CONTENTS</l>
+               </lg>
+               <p rend="justify">B. T. U. Mechanical Equivalent of a Unit of Heat. Specific Heat. Latent Heat. Theory of Refrigeration. Freezing, by Compressed Air. Ammonia. Characteristics of Ammonia. The Compressor. Stuffing-Boxes. Lubrication. Suction and Discharge Valves. Separator. Condenser-Worm, Receiver. Refrigerator or Brine Tank. Size of Pipe and Area of Cooling Surface. Charging the Plant with Ammonia. Jacket-Water, for Compressor, for Separator. Quantity of Condensing Water Necessary. Loss due to Heating of Condensed Ammonia. Cause of Variation in Excess Pressure. Use of Condensing Pressure in Determining Loss of Ammonia by Leakage. Cooling Directly by Ammonia. Freezing Point of Brine. Making Brine. Specific Heat of Brine. Regulation of Brine Temperature. Indirect Effect of Condensing Water on Brine Temperature. Directions for Determining Refrigerating Efficiency. Equivalent of a Ton of Ice. Compressor Measurement of Ammonia Circulated. Loss of Well-Jacketed Compressors. Loss in Double-Acting Compressors. Distribution of Mercury Wells. Examination of Working Parts. Indicator Diagrams. Ammonia Figures—Effectual Displacement. Volume of Gas. Ammonia Circulated per Twenty-Four Hours. Refrigerating Efficiency. Brine Figures—Gallons Circulated. Pounds Circulated. Degrees Cooled. Total Degrees Extracted. Loss due to Heating of Ammonia Gas. Loss due to Heating of Liquid Ammonia. Calculation of the Maximum Capacity of a Machine. Preparation of Anhydrous Ammonia. Construction of Apparatus, etc., etc.</p>
+               <p rend="justify">150 pages, 15 illustrations, cloth, $1.00.<lb/>
+               </p>
+               <lg>
+                  <l>Spons’ $2.50</l>
+                  <l>MECHANIC’S OWN BOOK,</l>
+                  <l>A PRACTICAL MANUAL.</l>
+                  <l/>
+                  <l>Principal Contents.</l>
+               </lg>
+               <p rend="justify">Mechanical Drawing. (13 pages).</p>
+               <p rend="justify">Casting and Founding. (31 pages).</p>
+               <p rend="justify">Forging and Finishing. (56 pages.)</p>
+               <p rend="justify">Soldering. (26 pages).</p>
+               <p rend="justify">Sheet-Metal Working. (10 pages).</p>
+               <p rend="justify">Carpentry, Woods, Tools, etc. (224 pages).</p>
+               <p rend="justify">Cabinet Making. (36 pages).</p>
+               <p rend="justify">Carving and Fretwork. (13 pages).</p>
+               <p rend="justify">Upholstery. (6 pages).</p>
+               <p rend="justify">Painting, Graining and Marbling. (28 pages).</p>
+               <p rend="justify">Staining, and Gilding. (16 pages).</p>
+               <p rend="justify">Polishing, Varnishing. (26 pages).</p>
+               <p rend="justify">Mechanical Movements. (56 pages).</p>
+               <p rend="justify">Turning and Lathe work. (30 pages).</p>
+               <p rend="justify">Masonry, Stonework, Brickwork, Concrete, etc. (45 pages).</p>
+               <p rend="justify">Plastering, Whitewashing, Paperhanging. (13 pages)</p>
+               <p rend="justify">Roofing, Glazing. (14 pages).</p>
+               <p rend="justify">Bell hanging, Gas fitting. (8 pages).</p>
+               <p rend="justify">Lighting, Ventilation, Warming. (21 pages).</p>
+               <p rend="justify">Foundations, Roads and Bridges, Banks, Hedges, Ditches and Drains, Water Supply and Sanitation. House Construction, etc. Size of book 6-3/4 in. by 8-3/4.</p>
+               <p rend="justify">702 pages, half extra gilt and 1420 illustrations.<lb/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

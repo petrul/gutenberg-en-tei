@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rada: A Belgian Christmas Eve</title>
+            <author>Alfred Noyes</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T14:18:48Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/n/NoyesAlfred-Rada_ABelgianChristmasEve_2014.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Alfred Noyes</name>
+               <date>2024-01-04T14:18:48Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Rada: A Belgian Christmas Eve</head>
+         <author>Alfred Noyes</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/n/NoyesAlfred-Rada_ABelgianChristmasEve_2014.odt</p>
+         <p>Transcriber's Note:</p>
+         <p>Every effort has been made to replicate this text as faithfully as possible.</p>
+         <pb/>
+         <div type="div1">
+            <head>RADA</head>
+            <pb/>
+            <div type="div2">
+               <head>BY THE SAME AUTHOR</head>
+               <list rend="bulleted">
+                  <item>TALES OF THE MERMAID TAVERN</item>
+                  <item>DRAKE</item>
+                  <item>THE FOREST OF WILD THYME</item>
+                  <item>FORTY SINGING SEAMEN</item>
+                  <item>THE ENCHANTED ISLAND</item>
+                  <item>THE WINE PRESS</item>
+               </list>
+               <p rend="justify">THE BAYONETS</p>
+               <p rend="justify">RADA<lb/>A BELGIAN CHRISTMAS EVE</p>
+               <p rend="justify">BY<lb/>ALFRED NOYES</p>
+               <p rend="justify">WITH FOUR ILLUSTRATIONS AFTER GOYA</p>
+               <lg>
+                  <l>METHUEN &amp; CO. LTD.</l>
+                  <l>36 ESSEX STREET W.C.</l>
+                  <l>LONDON</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">First Published in 1915</hi>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>DEDICATION</head>
+               <lg>
+                  <l>Thou whose deep ways are in the sea,</l>
+                  <l>Whose footsteps are not known,</l>
+                  <l>To-night a world that turned from Thee</l>
+                  <l>Is waiting—at Thy Throne.</l>
+               </lg>
+               <lg>
+                  <l>The towering Babels that we raised</l>
+                  <l>  Where scoffing sophists brawl,</l>
+                  <l>  The little Antichrists we praised—</l>
+                  <l>  The night is on them all.</l>
+               </lg>
+               <lg>
+                  <l>The fool hath said ... The fool hath said ...</l>
+                  <l>  And we, who deemed him wise,</l>
+                  <l>  We, who believed that Thou wast dead,</l>
+                  <l>  How should we seek Thine eyes?</l>
+               </lg>
+               <lg>
+                  <l>How should we seek to Thee for power,</l>
+                  <l>  Who scorned Thee yesterday?</l>
+                  <l>  How should we kneel in this dread hour?</l>
+                  <l>  Lord, teach us how to pray.</l>
+               </lg>
+               <lg>
+                  <l>Grant us the single heart once more</l>
+                  <l>  That mocks no sacred thing,</l>
+                  <l>  The Sword of Truth our fathers wore</l>
+                  <l>  When Thou wast Lord and King.</l>
+               </lg>
+               <lg>
+                  <l>Let darkness unto darkness tell</l>
+                  <l>  Our deep unspoken prayer;</l>
+                  <l>  For, while our souls in darkness dwell,</l>
+                  <l>  We know that Thou art there.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LIST OF ILLUSTRATIONS</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell>THE BAYONETS</cell>
+                     <cell>
+                        <hi rend="italic">Frontispiece</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>FACING PAGE</cell>
+                  </row>
+                  <row>
+                     <cell>OVER THE JAWS OF THE CROWD</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>THE OLD DANCE OF CHARLATANS AND BEASTS</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>THE VAMPIRE</cell>
+                     <cell>56</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="italic">Reproduced from etchings by Goya</hi>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PRELUDE</head>
+               <lg>
+                  <l>Under which banner? It was night</l>
+                  <l>Beyond all nights that ever were.</l>
+                  <l>The Cross was broken. Blood-stained Might</l>
+                  <l>Moved like a tiger from its lair,</l>
+                  <l>And all that heaven had died to quell</l>
+                  <l>Awoke, and mingled earth with hell.</l>
+               </lg>
+               <lg>
+                  <l>For Europe, if it held a creed,</l>
+                  <l>  Held it thro’ custom, not thro’ faith.</l>
+                  <l>  Chaos returned in dream and deed,</l>
+                  <l>  Right was a legend—Love, a wraith;</l>
+                  <l>  And That from which the world began</l>
+                  <l>  Was less than even the best in man.</l>
+               </lg>
+               <lg>
+                  <l>God in the image of a snake</l>
+                  <l>  Dethroned that dream, too fond, too blind,</l>
+                  <l>  The man-shaped God whose heart could break,</l>
+                  <l>  Live, die and triumph with mankind;</l>
+                  <l>  A Super-snake, a Juggernaut,</l>
+                  <l>  Dethroned the Highest of human thought.</l>
+               </lg>
+               <lg>
+                  <l>Choose, England! For the eternal foe</l>
+                  <l>  Within thee, as without, grew strong,</l>
+                  <l>  By many a super-subtle blow</l>
+                  <l>  Blurring the lines of right and wrong</l>
+                  <l>  In Art and Thought, till nought seemed true</l>
+                  <l>  But that soul-slaughtering cry of <hi rend="italic">New!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>New wreckage of the shrines we made</l>
+                  <l>  Thro’ centuries of forgotten tears....</l>
+                  <l>  We knew not where their hands had laid</l>
+                  <l>  Our Master. Twice a thousand years</l>
+                  <l>  Had dulled the uncapricious sun.</l>
+                  <l>  Manifold worlds obscured the One;</l>
+               </lg>
+               <lg>
+                  <l>Obscured the reign of Law, our stay,</l>
+                  <l>  Our compass thro’ the uncharted sea,</l>
+                  <l>  The one sure light, the one sure way,</l>
+                  <l>  The one firm base of Liberty;</l>
+                  <l>  The one firm road that men have trod</l>
+                  <l>  Thro’ Chaos to the Throne of God.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Choose ye!</hi>  A hundred legions cried</l>
+                  <l>  Dishonour, or the instant sword!</l>
+                  <l>  Ye chose. Ye met that blood-stained tide,</l>
+                  <l>  A little kingdom kept its word;</l>
+                  <l>  And, dying, cried across the night,</l>
+                  <l>
+                     <hi rend="italic">Hear us, O earth, we chose the Right.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Whose is the victory? Though ye stood</l>
+                  <l>  Alone against the unmeasured foe,</l>
+                  <l>  By all the tears, by all the blood,</l>
+                  <l>  That flowed, and have not ceased to flow,</l>
+                  <l>  By all the legions that ye hurled</l>
+                  <l>  Back thro’ the thunder-shaken world;</l>
+               </lg>
+               <lg>
+                  <l>By the old that have not where to rest,</l>
+                  <l>  By lands laid waste and hearths defiled,</l>
+                  <l>  By every lacerated breast,</l>
+                  <l>  And every mutilated child,</l>
+                  <l>  Whose is the victory? Answer, ye</l>
+                  <l>  Who, dying, smiled at tyranny:—</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Under the sky’s triumphal arch</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">The glories of the dawn begin.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">Our dead, our shadowy armies, march</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">E’en now, in silence, thro’ Berlin—</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">Dumb shadows, tattered blood-stained ghosts,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">But cast by what swift following hosts!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And answer, England! <hi rend="italic">At thy side,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Thro’ seas of blood, thro’ mists of tears,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Thou that for Liberty hast died</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">And livest, to the end of years.</hi>
+                  </l>
+                  <l>  And answer, earth! Far off, I hear</l>
+                  <l>  The pæans of a happier sphere:—</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">The trumpet blown at Marathon</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">Exulted over earth and sea;</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">But burning angel lips have blown</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">The trumpets of thy Liberty,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">For who, beside thy dead, could deem</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">The faith, for which they died, a dream?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Earth has not been the same, since then.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">Europe from thee received a soul,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">Whence nations moved in law, like men,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">As members of a mightier whole,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Till wars were ended....</hi>  In that day,</l>
+                  <l>  So shall our children’s children say.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CHARACTERS</head>
+               <p rend="justify">Rada, wife of the village doctor.</p>
+               <p rend="justify">Bettine, her daughter, aged twelve.</p>
+               <p rend="justify">Brander<lb/>Tarrasch</p>
+               <lg>
+                  <l>⎧</l>
+                  <l>⎨</l>
+                  <l>⎩</l>
+               </lg>
+               <lg>
+                  <l>German soldiers quartered in her</l>
+                  <l>house during the occupation</l>
+                  <l>of the village.</l>
+               </lg>
+               <p rend="justify">Nanko, an old, half-witted schoolmaster, living in the care of the doctor. He has a delusion that it is always Christmas Eve.</p>
+               <p rend="justify">German soldiers.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>RADA<lb/>A BELGIAN CHRISTMAS EVE</head>
+               <p rend="justify">
+                  <hi rend="italic">The action takes place in a Belgian village, during the War of 1914. The scene is a room in the doctor’s house. On the right there is a door opening to the street, a window with red curtains, and a desk under the window. On the left there is a large cupboard with a door on either side of it, one leading to a bedroom and the other to the kitchen. At the back an open fire is burning brightly. Over the fireplace there is a reproduction in colours of the Dresden</hi>
+                  <hi rend="italic">  Madonna. The room is lit only by the firelight and two candles in brass candlesticks, on a black oak table, at which the two soldiers are seated, playing cards and drinking beer.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Rada</hi>
+                  <hi rend="italic">, a dark handsome woman, sits on a couch to the left of the fire, with her head bowed in her hands, weeping.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Nanko</hi>
+                  <hi rend="italic">  sits cross-legged on a rug before the fire, rubbing his hands, snapping his fingers, and chuckling to himself.</hi>
+               </p>
+               <p rend="justify">Tarrasch (<hi rend="italic">throwing down the cards</hi>).</p>
+               <p rend="justify">Pish! You have all the luck. (<hi rend="italic">He turns to </hi>
+                  <hi rend="italic">Rada</hi>) Look here, my girl, where is the use of snivelling? We’ve been killing pigs all day and now we want to unbuckle a bit. You ought to think yourself infernally lucky to be alive at all, and I’m not sure that you will be so fortunate when the other boys come back. Wheedled them out of the house finely, didn’t you? On a fine wildgoose chase, too. Hidden money! Refugees don’t bury their money and leave the secret behind them. You’ve been whimpering ever since we two refused to believe you. What’s your game, eh? I warn you there’ll be hell to pay when they come back.</p>
+               <p rend="justify">Rada (<hi rend="italic">sobbing and burying her face</hi>).</p>
+               <p rend="justify">God, be pitiful!</p>
+               <p rend="justify">Tarrasch.</p>
+               <p rend="justify">This is war, this is! And you can’t expect war to be all swans and shining armour. No—nor smart uniforms either. Look at the mud my friend and I have already annexed from Belgium. Brander, you know it’s a most astonishing fact; but I have remarked it several times. Those women whose eyes glitter at the sight of a spiked helmet are the first to be astonished by the realities of war. They expect the dead to jump up and kiss them and tell them it is all a game, as soon as the battle is ended. No, no, my dear; it’s only in war that one sees how small is one’s personal happiness in comparison with greater things. Isn’t it?</p>
+               <p rend="justify">(<hi rend="italic">He fills a glass and drinks. </hi>
+                  <hi rend="italic">Brander</hi>
+                  <hi rend="italic">  lights a cigar.</hi>)</p>
+               <p rend="justify">Nanko.</p>
+               <p rend="justify">Exactly. In times of peace we forget those eternal silences. We value life too highly. We become domesticated. Why, I suppose in this magnificent war there have been so many women and children killed that they would fill the great Cloth Hall at Ypres; and, as for the young men, there have been so many slaughtered that their dead bodies would fill St. Peter’s at Rome. Why, I suppose they would fill the three hundred abbeys of Flanders and all the cathedrals in the world chock-full from floor to belfry, wouldn’t they? How Goya would have loved to paint them! Can’t you see it?</p>
+               <p rend="justify">(<hi rend="italic">He grows ecstatic over the idea.</hi>)</p>
+               <lg>
+                  <l>Tournai with its five clock-towers, Ghent, and Bruges,</l>
+                  <l>  Louvain and Antwerp, Rheims and Westminster,</l>
+                  <l>  Under the round white moon, on Christmas Eve,</l>
+                  <l>  With towers of frozen needlework, and spires</l>
+                  <l>  That point to God; but all their painted panes</l>
+                  <l>  Bursting with dreadful arms and gaping faces,</l>
+                  <l>  Gargoyles of flesh; and round them, in the snow,</l>
+                  <l>  The little cardinals, like gouts of blood,</l>
+                  <l>  The little bishops, running like white mice,</l>
+                  <l>  Hooded with violet spots, quite, quite dismayed</l>
+                  <l>  To find there was no room for them within</l>
+                  <l>  Upon that holy night when Christ was born.</l>
+               </lg>
+               <p rend="justify">But perhaps if Goya were living to-day he would prefer to pack them into Chicago meat factories, with the intellectuals dancing outside like marionettes, and the unconscious Hand of God pulling the strings. You know one of their very latest theories is that He is a somnambulist.</p>
+               <p rend="justify">Tarrasch (<hi rend="italic">to </hi>
+                  <hi rend="italic">Rada</hi>).</p>
+               <p rend="justify">You should read Schopenhauer, my dear, and learn to estimate these emotions at their true value. You would then be able to laugh at these feelings which seem to you now so important. It is the mark of <hi rend="italic">Kultur</hi>  to be able to laugh at all sentiments. Isn’t it?</p>
+               <p rend="justify">Nanko.</p>
+               <p rend="justify">The priests, I suppose, are still balancing themselves on the tight-rope, over the jaws of the crowd. The poor old Pope did his best for his Master, when the Emperor asked him for a blessing on the war. “<hi rend="italic">I</hi>  bless Peace,” said the Pope; but nobody listened. I composed a little poem about that. I called it St. Peter’s Christmas. It went like this:—</p>
+               <lg>
+                  <l>And does the Cross of Christ still stand?</l>
+                  <l>  Yes, though His friends may watch from far—</l>
+                  <l>  And who is this at His right hand,</l>
+                  <l>  This Rock in the red surf of war?</l>
+               </lg>
+               <lg>
+                  <l>This, this is he who once denied,</l>
+                  <l>  And turned and wept and turned again.</l>
+                  <l>  Last night before an Emperor’s pride</l>
+                  <l>  He stood and blotted out that stain.</l>
+               </lg>
+               <lg>
+                  <l>Last night an Emperor bared the sword</l>
+                  <l>  And bade him bless. He stood alone.</l>
+                  <l>  Alone in all the world, <hi rend="italic">his</hi>  word</l>
+                  <l>  Confessed—and blessed—a loftier throne.</l>
+               </lg>
+               <lg>
+                  <l>I hear, still travelling towards the Light,</l>
+                  <l>  In widening waves till Time shall cease,</l>
+                  <l>  The Power that breathed from Rome last night</l>
+                  <l>  His infinite whisper—<hi rend="italic">I bless Peace.</hi>
+                  </l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Tarrasch</hi>
+                  <hi rend="italic">  and </hi>
+                  <hi rend="italic">Brander</hi>
+                  <hi rend="italic">  applaud ironically.</hi>)</p>
+               <p rend="justify">OVER THE JAWS OF THE CROWD</p>
+               <p rend="justify">Tarrasch.</p>
+               <p rend="justify">Excellent! Excellent! (<hi rend="italic">To </hi>
+                  <hi rend="italic">Rada</hi>) You should have seen our brave soldiers laughing—do you remember, Brander—at a little village near Termonde. They made the old vicar and his cook dance naked round the dead body of his wife, who had connived at the escape of her daughter from a Prussian officer.</p>
+               <p rend="justify">Nanko.</p>
+               <p rend="justify">Ah, that was reality, wasn’t it? None of your provincial respectability about that, none of your shallow conventionality! That’s what the age wants—realism!</p>
+               <p rend="justify">Tarrasch.</p>
+               <p rend="justify">It was brutal, I confess; but better than British hypocrisy, eh? There was something great about it, like the neighing of the satyrs in the Venusberg music.</p>
+               <p rend="justify">Rada (<hi rend="italic">sinking on her knees by the couch and sobbing</hi>).</p>
+               <p rend="justify">God! God!</p>
+               <p rend="justify">Tarrasch.</p>
+               <p rend="justify">They were beginning to find out the provincialism of their creeds in England. The pessimism of Schopenhauer had taught them much; and if it had not been for this last treachery, this last ridiculous outburst of the middle-class mind on behalf of what they call honour, we should have continued to tolerate (if not to enjoy), in Berlin, those plays by Irishmen which expose so wittily the inferior <hi rend="italic">Kultur</hi>, the shrinking from reality, of their (for the most part) not intellectual people. I have the honour, madam, to request that you should no longer make this unpleasant sound of weeping. You irritate my nerves. Have you not two men quartered upon you instead of one? And are they not university students? If your husband and the rest of the villagers had not resisted our advance, they might have been alive, too. In any case, your change is for the better. Isn’t it?</p>
+               <p rend="justify">(<hi rend="italic">He lights a cigar.</hi>)</p>
+               <p rend="justify">Nanko.</p>
+               <p rend="justify">Exactly! Exactly! You remember, Rada, I used to be a schoolmaster myself in the old days; and if <hi rend="italic">you</hi>  knew what <hi rend="italic">I</hi>  know, you wouldn’t cry, my dear. You’d understand that it’s entirely a question of the survival of the fittest. A biological necessity, that’s what it is. And Haeckel himself has told us that, though we may resign our hopes of immortality, and the grave is the only future for our beloved ones, yet there is infinite consolation to be found in examining a piece of moss or looking at a beetle. That’s what the Germans call the male intellect.</p>
+               <p rend="justify">Tarrasch.</p>
+               <p rend="justify">Is this man attempting to be insolent?</p>
+               <p rend="justify">(<hi rend="italic">He rises as if to strike</hi>  Nanko.)</p>
+               <p rend="justify">Brander (<hi rend="italic">tapping his forehead</hi>).</p>
+               <p rend="justify">Take no notice of him. He’s only a resident patient. He was not calling you a beetle. He has delusions. He thinks it is always Christmas Eve. That’s his little tree in the corner. As Goethe should have said—</p>
+               <lg>
+                  <l>There was a little Christian.</l>
+                  <l>  He had a little tree.</l>
+                  <l>  Up came a Superman</l>
+                  <l>  And cracked him, like a flea.</l>
+               </lg>
+               <p rend="justify">Tarrasch (<hi rend="italic">laughing</hi>).</p>
+               <p rend="justify">Very good! You should send that to the <hi rend="italic">Tageblatt</hi>, Brander.</p>
+               <p rend="justify">Well, Rada, or whatever your name is, you’d better find something for us to eat. I’m sick of this whimpering.</p>
+               <p rend="justify">Wouldn’t your Belgian swine have massacred us all, if we’d given them the chance? We’ve thousands of women and children at home snivelling and saying, “Oh! my God! Oh! my God!” just like you.</p>
+               <p rend="justify">Rada (<hi rend="italic">rising to her feet in a fury of contempt</hi>).</p>
+               <lg>
+                  <l>Then why are you in Belgium, gentlemen?</l>
+                  <l>  Is it the husks and chaff that the swine eat,</l>
+                  <l>  Or is it simply butchery?</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">They stare at her in silence, over-mastered for a moment by her passion. Then, her grief welling up again, she casts herself down on the couch, and buries her face in her hands, sobbing.</hi>)</p>
+               <p rend="justify">God! God! God!<lb/>
+               </p>
+               <p rend="justify">THE OLD DANCE OF CHARLATANS AND BEASTS</p>
+               <p rend="justify">Brander.</p>
+               <p rend="justify">Don’t you trouble about God. What can <hi rend="italic">He</hi>  do when both sides go down on their marrow-bones? He can’t make both sides win, can He?</p>
+               <p rend="justify">Nanko.</p>
+               <p rend="justify">That’s how the intellectuals prove He doesn’t exist. Either He is not almighty, they say, or else He is unjust enough not to make both sides win. But all those anthropomorphic conceptions are out of date now, even in England, as this gentleman very truly said. You see, it was so degrading, Rada, to think that God had anything in common with mankind (though love was once quite fashionable), and as we didn’t know of anything higher than ourselves we were simply compelled to say that He resembled something lower, such as earthquakes, and tigers, and puppet-shows, and ideas of that sort. Reality above all things! You may see God in sunsets; but there was nothing <hi rend="italic">real</hi>  about the <hi rend="italic">best</hi>  qualities of mankind. It’s curious. The more intellectual and original you are, the lower you have to go, and the more likely you are to end in the old dance of charlatans and beasts. I suppose that’s an argument for tradition and growth. If we call it Evolution, nobody will mind very much.</p>
+               <p rend="justify">Rada (<hi rend="italic">wringing her hands in an agony of grief</hi>).</p>
+               <p rend="justify">Oh, God, be pitiful, be pitiful!</p>
+               <p rend="justify">Brander (<hi rend="italic">standing in front of her</hi>).</p>
+               <p rend="justify">Look here, we’ve had enough of this music. I’ve been watching you, and there’s more upon your mind than sorrow for the dead. Why were you so anxious to wheedle us all out of the house? Tarrasch has warned you there’ll be hell to pay when the others come back. What was the game, eh? You’d better tell me. You couldn’t have thought you were going to escape through our lines to-night.</p>
+               <p rend="justify">(<hi rend="italic">There is a sudden uproar outside, and a woman’s scream, followed by the terrified cry of a child.</hi>)</p>
+               <p rend="justify">Ah! Ah! Father!</p>
+               <p rend="justify">Brander.</p>
+               <p rend="justify">Hear that. The men are mad with brandy and blood and—other things. There’s no holding them in, even from the children. You needn’t wince. Even from the children, I say. What chance would there be for a fine-looking wench like yourself?</p>
+               <p rend="justify">No, you were not going to try that. You’ve something to hide, here, in the house, eh? Well, now you’ve got rid of the others, and we’ve had a drink, we’re going to look for it. What is there?</p>
+               <p rend="justify">(<hi rend="italic">He points to the bedroom door.</hi>)</p>
+               <p rend="justify">Rada (<hi rend="italic">rising to her feet slowly, steadying herself with one hand on the couch and fixing her eyes on his face</hi>).</p>
+               <p rend="justify">My bedroom. No. I’ve nothing here to hide. This is war, isn’t it? If I choose to revenge myself on those that have used me badly, people that I hate, by telling you where you can find what everybody wants, money, money—I suppose you want that—isn’t that good enough?</p>
+               <p rend="justify">Brander.</p>
+               <p rend="justify">Better come with us, then, and show us this treasure-trove.</p>
+               <p rend="justify">Rada (<hi rend="italic">shrinking back</hi>).</p>
+               <p rend="justify">No, no, I dare not. All those dead out there would terrify me, terrify me!</p>
+               <p rend="justify">Tarrasch.</p>
+               <p rend="justify">A pack of lies! What were you up to, eh? Telephoning to the English?</p>
+               <p rend="justify">Brander.</p>
+               <p rend="justify">It has been too much for her nerves. Don’t worry her, or she’ll go mad. Then there’ll be nobody left to get us our supper.</p>
+               <p rend="justify">(<hi rend="italic">Tarrasch</hi>
+                  <hi rend="italic">  wanders round the room, opening drawers and examining letters and other contents at the desk.</hi>)</p>
+               <p rend="justify">Nanko.</p>
+               <p rend="justify">That <hi rend="italic">would</hi>  be selfish, Rada. You know it’s Christmas Eve. Nobody ought to think of unpleasant things on Christmas Eve. What have you done with the Christmas-tree, Rada?</p>
+               <p rend="justify">Brander.</p>
+               <p rend="justify">And who’s to blame? That’s what I want to know. You don’t blame <hi rend="italic">us</hi>, do you? We didn’t know where we were marching a month ago; and possibly we shall be fighting on your side against somebody else, a year hence.</p>
+               <p rend="justify">Nanko.</p>
+               <p rend="justify">Of course they didn’t know! Poor soldiers don’t.</p>
+               <p rend="justify">Tarrasch (<hi rend="italic">who has been trying the bedroom door</hi>).</p>
+               <p rend="justify">In the meantime, what have you got behind that door? Give me the key.</p>
+               <p rend="justify">Rada (<hi rend="italic">hurriedly, and as if misunderstanding him, opens the cupboard. She speaks excitedly</hi>).</p>
+               <p rend="justify">Food! Food! Food for hungry men. Food enough for a wolf pack. Come on. Help yourselves!</p>
+               <p rend="justify">Tarrasch.</p>
+               <p rend="justify">Look, Brander! What a larder! Here’s a dinner for forty men. Isn’t it?</p>
+               <p rend="justify">Rada.</p>
+               <p rend="justify">Better take your pick before the others come.</p>
+               <p rend="justify">(<hi rend="italic">She thrusts dishes into </hi>
+                  <hi rend="italic">Brander’s</hi>
+                  <hi rend="italic">  hands and loads </hi>
+                  <hi rend="italic">Tarrasch</hi>
+                  <hi rend="italic">  with bottles. They lay the table with them, </hi>
+                  <hi rend="italic">Rada</hi>
+                  <hi rend="italic">  seeming to share their eagerness.</hi>)</p>
+               <p rend="justify">Brander (<hi rend="italic">looking at his hands</hi>).</p>
+               <p rend="justify">Here! Bring me a basin of warm water. There are times when you can’t touch food without washing your hands.</p>
+               <p rend="justify">(<hi rend="italic">Rada</hi>
+                  <hi rend="italic">  hesitates, then goes into the kitchen. </hi>
+                  <hi rend="italic">Brander</hi>
+                  <hi rend="italic">  holds out a ring to </hi>
+                  <hi rend="italic">Tarrasch</hi>
+                  <hi rend="italic">.</hi>)</p>
+               <lg>
+                  <l>Her husband’s ring. I got it off his finger</l>
+                  <l>  When he went down. He lay there, doubled up,</l>
+                  <l>  With one of those hideous belly wounds. He begged,</l>
+                  <l>  Horribly, for a bullet; so, poor devil,</l>
+                  <l>  I put him out of his misery. I can’t eat</l>
+                  <l>  With hands like that. Ugh! Look!</l>
+               </lg>
+               <p rend="justify">Nanko (<hi rend="italic">rising and peering at them</hi>).</p>
+               <lg>
+                  <l>Ah, but they’re red.</l>
+                  <l>  Red, aren’t they? And there’s red on your coat, too.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">He fingers it curiously.</hi>)</p>
+               <lg>
+                  <l>I suppose that’s blood, eh? People are such cowards.</l>
+                  <l>  Many of them never seem to understand</l>
+                  <l>  That man’s a fighting animal. They’re afraid,</l>
+                  <l>  Dreadfully afraid, of the sight of blood.</l>
+                  <l>  I think it’s a beautiful colour, beautiful!</l>
+                  <l>  You know, in the Old Testament, they used</l>
+                  <l>  To splash it on the door-posts.</l>
+               </lg>
+               <p rend="justify">Brander (<hi rend="italic">pushing him away</hi>).</p>
+               <lg>
+                  <l>Go and sit down,</l>
+                  <l>  You crazy old devil!</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Rada</hi>
+                  <hi rend="italic">  enters with a bowl of water, sets it on a chair, and returns to the couch. </hi>
+                  <hi rend="italic">Brander</hi>
+                  <hi rend="italic">  washes his hands.</hi>)</p>
+               <p rend="justify">Tarrasch.</p>
+               <lg>
+                  <l>My hands want washing, too.</l>
+                  <l>  My God, you’ve turned the water into wine.</l>
+                  <l>  Get me some fresh.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Rada</hi>
+                  <hi rend="italic">  approaches, stares at the bowl, and moves back, swaying a little.</hi>)</p>
+               <p rend="justify">Brander (<hi rend="italic">roughly</hi>).</p>
+               <p rend="justify">I’ll empty it. Give it to me.<lb/>
+               </p>
+               <p rend="justify">(<hi rend="italic">He goes out.</hi>)</p>
+               <p rend="justify">Nanko.</p>
+               <lg>
+                  <l>The Old Testament, you know, is full of it.</l>
+                  <l>
+                     <hi rend="italic">Who is this</hi>, it says, <hi rend="italic">that cometh from Edom,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">In dyed garments from Bozrah?</hi>  It was blood</l>
+                  <l>  That dyed their garments. And in <hi rend="italic">Revelation</hi>
+                  </l>
+                  <l>  Blood came out of the wine-press, till it splashed</l>
+                  <l>  The bridles of the horses; and the seas</l>
+                  <l>  Were all turned into blood. Doesn’t that show</l>
+                  <l>  That man’s a fighting animal?</l>
+               </lg>
+               <p rend="justify">Tarrasch (<hi rend="italic">again fumbling at the bedroom door</hi>).</p>
+               <p rend="justify">Give me the key.<lb/>
+               </p>
+               <p rend="justify">Rada (<hi rend="italic">thrusting herself between him and the door</hi>).</p>
+               <p rend="justify">That is my bedroom. You must not go in.<lb/>
+               </p>
+               <p rend="justify">Tarrasch.</p>
+               <lg>
+                  <l>Are they so modest, then, in Belgium, madam?</l>
+                  <l>  You’re fooling us. What is it? Loot? More loot?</l>
+                  <l>  The family stocking, eh?</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Brander</hi>
+                  <hi rend="italic">  enters. He goes to the table and begins eating.</hi>)</p>
+               <p rend="justify">Nanko.</p>
+               <lg>
+                  <l>The stocking? No!</l>
+                  <l>  The stocking is in the chimney-corner, see.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">He shakes an empty stocking that hangs in the fire-place.</hi>)</p>
+               <lg>
+                  <l>Bettine and I, we always hang it up</l>
+                  <l>  Ready for Santa Claus. It’s a good custom.</l>
+                  <l>  They do it in Germany. The children there</l>
+                  <l>  Believe that Santa Claus comes down the chimney.</l>
+               </lg>
+               <p rend="justify">Tarrasch.</p>
+               <lg>
+                  <l>If I know anything of women’s eyes,</l>
+                  <l>  It’s either money, or a daughter, Rada.</l>
+                  <l>  And so—the key! Or else I burst the door.</l>
+               </lg>
+               <p rend="justify">Rada (<hi rend="italic">looks at him for a moment before speaking</hi>).</p>
+               <lg>
+                  <l>I throw myself upon your mercy, then.</l>
+                  <l>  It <hi rend="italic">is</hi>  my little girl. She is twelve years old.</l>
+                  <l>  Don’t wake her. She has slept all through this night.</l>
+                  <l>  I thought I might have hidden her. It’s too late.</l>
+                  <l>  It’s of the other men that I’m afraid.</l>
+                  <l>  Not you. But they are drunk. If they come back....</l>
+                  <l>  Help me to save her! I’ll do anything for you,</l>
+                  <l>  Anything! Only help me to get her away!</l>
+                  <l>  I’ll pray for you every night of my life. I’ll pray....</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">She stretches out her hands pitifully and begins to weep. The men stand</hi>
+                  <hi rend="italic">  staring at her. The door opens behind her, and </hi>
+                  <hi rend="italic">Bettine</hi>
+                  <hi rend="italic">, in her night-dress, steals into the room.</hi>)</p>
+               <p rend="justify">Bettine.</p>
+               <p rend="justify">Mother——Oh!</p>
+               <p rend="justify">(<hi rend="italic">She stops at the sight of the strangers.</hi>)</p>
+               <p rend="justify">Brander.</p>
+               <lg>
+                  <l>Don’t be afraid. I’m Nanko’s friend.</l>
+                  <l>  What? Don’t you know me? I came down the chimney.</l>
+               </lg>
+               <p rend="justify">Bettine.</p>
+               <p rend="justify">I don’t see any soot upon your face.<lb/>
+               </p>
+               <p rend="justify">(<hi rend="italic">She goes nearer.</hi>)</p>
+               <p rend="justify">Nor on your clothes. That’s red paint, isn’t it?<lb/>
+               </p>
+               <p rend="justify">Brander.</p>
+               <lg>
+                  <l>Can’t help it. Santa Claus—that is my name.</l>
+                  <l>  What’s yours?</l>
+               </lg>
+               <p rend="justify">Bettine.</p>
+               <p rend="justify">Bettine.<lb/>
+               </p>
+               <p rend="justify">Brander.</p>
+               <lg>
+                  <l>Ah! I’ve a little girl</l>
+                  <l>  At home—about your age, too—called Bettine.</l>
+               </lg>
+               <p rend="justify">Bettine (<hi rend="italic">who has been watching him curiously</hi>).</p>
+               <lg>
+                  <l>I know. You are the British. Mother said</l>
+                  <l>  The British would be here before the Boches.</l>
+                  <l>  I dreamed that you were coming, and I thought</l>
+                  <l>  I heard the marching. Weren’t you singing, too?</l>
+                  <l>  It made me feel so happy in my sleep.</l>
+                  <l>  What were you singing? “It’s a long, long way</l>
+                  <l>  To——” what d’you call it? <hi rend="italic">Tipperary</hi>? eh?</l>
+                  <l>  What does that mean?</l>
+               </lg>
+               <p rend="justify">Brander.</p>
+               <p rend="justify">A place a long way off.<lb/>
+               </p>
+               <p rend="justify">Bettine.</p>
+               <p rend="justify">As far as heaven?<lb/>
+               </p>
+               <p rend="justify">Brander.</p>
+               <p rend="justify">Almost as far as—home.<lb/>
+               </p>
+               <p rend="justify">Bettine.</p>
+               <lg>
+                  <l>Well, I suppose it means the Boches must march</l>
+                  <l>  A long, long way before they reach it, eh?</l>
+                  <l>  There’s Canada. They’ll have to march through that.</l>
+                  <l>  Then India, and that’s huge. Why, Nanko says</l>
+                  <l>  There are three hundred million people there,</l>
+                  <l>  And all their soldiers ride on elephants.</l>
+                  <l>  Poor Boches! I’m sorry for them. Nanko says</l>
+                  <l>  They’re trying to ride across two thousand years</l>
+                  <l>  In motor-cars. It’s easy enough to ride</l>
+                  <l>  Two thousand miles; but not two thousand years.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">She runs to the stocking and examines it. </hi>
+                  <hi rend="italic">Tarrasch</hi>
+                  <hi rend="italic">  and </hi>
+                  <hi rend="italic">Brander</hi>
+                  <hi rend="italic">  return to the table and eat and drink.</hi>)</p>
+               <lg>
+                  <l>There’s nothing in the stocking. Never mind,</l>
+                  <l>  Nanko, when Christmas really comes, you’ll see.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">With a sudden note of fear in her voice.</hi>)</p>
+               <p rend="justify">Mother, where’s father?<lb/>
+               </p>
+               <p rend="justify">Rada (<hi rend="italic">putting an arm round her</hi>).</p>
+               <lg>
+                  <l>He will soon be with us.</l>
+                  <l>  It’s all right, darling.</l>
+               </lg>
+               <p rend="justify">Bettine.</p>
+               <lg>
+                  <l>Mother, mayn’t we try</l>
+                  <l>  The new tunes on the gramophone?</l>
+               </lg>
+               <p rend="justify">Nanko.</p>
+               <lg>
+                  <l>Now, wait!</l>
+                  <l>  I’ve an idea. It’s Christmas Eve, you know.</l>
+                  <l>  We’ll celebrate it. Where’s the Christmas-tree?</l>
+                  <l>  We’ll get that ready first.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Bettine</hi>
+                  <hi rend="italic">  pulls the little Christmas-tree out from the corner. </hi>
+                  <hi rend="italic">Rada</hi>
+                  <hi rend="italic">  glances from the child to the men, as if hoping that her play will win them to help her.</hi>)</p>
+               <p rend="justify">Bettine.</p>
+               <lg>
+                  <l>It’s nearly a week,</l>
+                  <l>  Isn’t it, Nanko, since you had your tree?</l>
+               </lg>
+               <p rend="justify">Brander.</p>
+               <p rend="justify">Here, put it on the table.<lb/>
+               </p>
+               <p rend="justify">Nanko (<hi rend="italic">clapping his hands</hi>).</p>
+               <lg>
+                  <l>Yes, that’s best.</l>
+                  <l>  I fear that we shall want a new tree, soon.</l>
+                  <l>  This one is withered. See how the needles drop.</l>
+                  <l>  There’s no green left. It’s growing old, Bettine.</l>
+                  <l>  What shall we hang on it?</l>
+               </lg>
+               <p rend="justify">Tarrasch.</p>
+               <lg>
+                  <l>What d’ you think</l>
+                  <l>  Of that now? (<hi rend="italic">He hangs his revolver on the tree.</hi>)</l>
+               </lg>
+               <p rend="justify">Bettine (<hi rend="italic">laughing merrily</hi>).</p>
+               <lg>
+                  <l>Oh! Oh! What a great big pistol!</l>
+                  <l>  That’ll be father’s present! And now what else?</l>
+               </lg>
+               <p rend="justify">Nanko (<hi rend="italic">eagerly</hi>).</p>
+               <p rend="justify">What else?<lb/>
+               </p>
+               <p rend="justify">Brander.</p>
+               <lg>
+                  <l>Well, what do you say to a ring, Bettine?</l>
+                  <l>  How prettily it hangs upon the bough!</l>
+                  <l>  Isn’t that fine? (<hi rend="italic">He hangs the ring upon the tree.</hi>)</l>
+               </lg>
+               <p rend="justify">Bettine (<hi rend="italic">staring at it</hi>).</p>
+               <p rend="justify">It’s just like father’s ring!<lb/>
+               </p>
+               <p rend="justify">Tarrasch.</p>
+               <p rend="justify">Now light the candles. Isn’t it?<lb/>
+               </p>
+               <p rend="justify">Nanko (<hi rend="italic">clapping his hands and capering</hi>).</p>
+               <lg>
+                  <l>Yes, that’s right!</l>
+                  <l>  Light all the little candles on the tree!</l>
+                  <l>  Oh, doesn’t the pistol shine, doesn’t the ring</l>
+                  <l>  Glitter!</l>
+               </lg>
+               <p rend="justify">Bettine.</p>
+               <lg>
+                  <l>But oh, it <hi rend="italic">is</hi>  like father’s ring.</l>
+                  <l>  He had a little piece of mother’s hair</l>
+                  <l>  Plaited inside it, just like that. It <hi rend="italic">is</hi>
+                  </l>
+                  <l>  My father’s ring.</l>
+               </lg>
+               <p rend="justify">Rada.</p>
+               <lg>
+                  <l>No; there are many others,</l>
+                  <l>  Bettine, just like it, hundreds, hundreds of others.</l>
+               </lg>
+               <p rend="justify">Brander.</p>
+               <p rend="justify">And now—what’s in that package over there?<lb/>
+               </p>
+               <p rend="justify">Bettine.</p>
+               <lg>
+                  <l>Oh, that’s the new tunes for the gramophone.</l>
+                  <l>  That’s father’s Christmas present to us all.</l>
+               </lg>
+               <p rend="justify">Nanko.</p>
+               <lg>
+                  <l>Now, what a wonderful man the doctor was!</l>
+                  <l>  Nobody else, in these parts, would have thought</l>
+                  <l>  Of buying a gramophone. Let’s open it.</l>
+               </lg>
+               <p rend="justify">Bettine.</p>
+               <lg>
+                  <l>Yes! Yes! And we’ll give father a surprise!</l>
+                  <l>  It shall be playing a tune when he comes in!</l>
+                  <l>  He won’t be angry, will he, mumsy dear?</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Brander</hi>
+                  <hi rend="italic">  opens the package. </hi>
+                  <hi rend="italic">Nanko</hi>
+                  <hi rend="italic">  rubs his hands in delight. They get the gramophone ready.</hi>)</p>
+               <p rend="justify">Nanko.</p>
+               <lg>
+                  <l>Oh, this will be a merry Christmas Eve.</l>
+                  <l>  There now—just see how this kind gentleman</l>
+                  <l>  Has opened the package for us. Now you see</l>
+                  <l>  The good of war. It benefits the health.</l>
+                  <l>  Sets a man up. Look at old Peter’s legs,</l>
+                  <l>  He’s a disgrace to the village, a disgrace!</l>
+                  <l>  Nobody shoots him either, so he spoils</l>
+                  <l>  Everything; for you know, you must admit,</l>
+                  <l>  Bettine, that war means natural selection—</l>
+                  <l>  Survival of the fittest, don’t you see?</l>
+                  <l>  For instance, <hi rend="italic">I</hi>  survive, and <hi rend="italic">you</hi>  survive:</l>
+                  <l>  Don’t we? So Peter shouldn’t spoil it all.</l>
+                  <l>  They say that all the tall young men in France</l>
+                  <l>  Were killed in the Napoleonic wars,</l>
+                  <l>  So that most Frenchmen at the present day</l>
+                  <l>  Are short and fat. Isn’t that funny, Bettine?</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">She laughs.</hi>)</p>
+               <lg>
+                  <l>Which shows us that tall men are not required</l>
+                  <l>  To-day. So nobody knows. Perhaps thin legs</l>
+                  <l>  Like Peter’s <hi rend="italic">may</hi>  be useful, after all,</l>
+                  <l>  In aeroplanes, or something. Every ounce</l>
+                  <l>  Makes a great difference there. Nobody knows.</l>
+                  <l>  It’s natural selection. See, Bettine?</l>
+                  <l>  Ah, now the gramophone’s ready. Make it play</l>
+                  <l>  A Christmas tune. That’s what the churches do</l>
+                  <l>  On Christmas Eve: for all the churches now,</l>
+                  <l>  And all the tall cathedrals with their choirs,</l>
+                  <l>  What do you think they are, Bettine? I’ll tell you.</l>
+                  <l>  I’ll whisper it. <hi rend="italic">They’re great big gramophones!</hi>
+                  </l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">She laughs.</hi>)</p>
+               <p rend="justify">Now for a Christmas tune!<lb/>
+               </p>
+               <p rend="justify">Tarrasch (<hi rend="italic">adjusting a record</hi>).</p>
+               <lg>
+                  <l>There’s irony</l>
+                  <l>  In your idea, my friend, that would delight</l>
+                  <l>  The ghost of Nietzsche! Certainly, it shall play</l>
+                  <l>  A Christmas tune. Here is the very thing.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">There is an uproar of drunken shouts in the distance.</hi>  Brander <hi rend="italic">locks the outer door.</hi>)</p>
+               <p rend="justify">Bettine.</p>
+               <lg>
+                  <l>The inn is full of drunken men to-night,</l>
+                  <l>  Mother. D’ you hear them? Mother, was it an inn</l>
+                  <l>  Like that—the one that’s in my Christmas piece?</l>
+               </lg>
+               <p rend="justify">Brander (<hi rend="italic">to </hi>
+                  <hi rend="italic">Tarrasch</hi>).</p>
+               <lg>
+                  <l>Don’t do it, we’ve had irony enough.</l>
+                  <l>  Don’t start it playing, if you want to keep</l>
+                  <l>  This Christmas party to ourselves, my boy.</l>
+                  <l>  The men are mad with drink, and—other things.</l>
+                  <l>  Look here, Tarrasch, what are we going to do</l>
+                  <l>  About this youngster, eh?</l>
+               </lg>
+               <p rend="justify">Tarrasch.</p>
+               <lg>
+                  <l>Better keep quiet</l>
+                  <l>  Till morning. When the men have slept it off</l>
+                  <l>  They’ll stand a better chance of slipping away.</l>
+                  <l>  They’re all drunk, officers and men as well.</l>
+               </lg>
+               <p rend="justify">Brander.</p>
+               <p rend="justify">That’s the most merciful thing that one can say.<lb/>
+               </p>
+               <p rend="justify">Nanko.</p>
+               <lg>
+                  <l>Oh, what a pity! I did think, Bettine,</l>
+                  <l>  That we should have some music. Well—I know!</l>
+                  <l>  Tell us the Christmas piece you learned in school.</l>
+                  <l>  That’s right. Stand there! No, stand up on this bench.</l>
+                  <l>  Your mother tells me that you won the prize</l>
+                  <l>  For learning it so beautifully, Bettine.</l>
+                  <l>  That’s right. Now, while you say it, I will stand</l>
+                  <l>  Here, with a candle. See, that illustrates</l>
+                  <l>  The scene.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">He lifts one of the candles to illuminate the picture of the Madonna</hi>
+                  <hi rend="italic">  and child. For a moment he speaks with a curious dignity.</hi>)</p>
+               <lg>
+                  <l>You know it is not all delusion</l>
+                  <l>  About this Christmas Eve. The wise men say</l>
+                  <l>  That Time is a delusion. Now then, speak</l>
+                  <l>  Your Christmas piece.</l>
+               </lg>
+               <p rend="justify">Bettine (<hi rend="italic">with her hands behind her, as if in school, she obeys him</hi>).</p>
+               <p rend="justify">She laid Him in a manger, because there was no room for them in the inn.</p>
+               <p rend="justify">And there were in the same country shepherds abiding in the field, keeping watch over their flock by night,</p>
+               <p rend="justify">And lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them, and they were sore afraid.</p>
+               <p rend="justify">And the angel said unto them, “Fear not: for behold I bring you good tidings of great joy, which shall be to all people.</p>
+               <p rend="justify">“For unto you is born this day in the City of David a Saviour, which is Christ the Lord.</p>
+               <p rend="justify">“And this shall be a sign unto you; ye shall find the babe wrapped in swaddling clothes, lying in a manger.”</p>
+               <p rend="justify">And suddenly there was with the angel a multitude of the heavenly host, praising God, and saying:—</p>
+               <p rend="justify">“<hi rend="italic">Glory to God in the Highest, and on earth peace....</hi>”</p>
+               <p rend="justify">(<hi rend="italic">There is silence for a moment, then a pistol-shot, a scream, and a roar of drunken laughter without, followed by a furious pounding on the door. </hi>
+                  <hi rend="italic">Bettine</hi>
+                  <hi rend="italic">  runs to her mother.</hi>)</p>
+               <p rend="justify">Brander.</p>
+               <lg>
+                  <l>Here, Tarrasch, what the devil are we to do</l>
+                  <l>  About this child?</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">He calls through the door.</hi>)</p>
+               <lg>
+                  <l>Clear out of this! The house</l>
+                  <l>  Is full. We want to sleep.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">The uproar grows outside, and the pounding is resumed. There is a crash of broken glass at the window.</hi>)</p>
+               <p rend="justify">Bettine.</p>
+               <lg>
+                  <l>Mother, I’m frightened!</l>
+                  <l>  It is the Boches! Mother, it is the Boches!</l>
+                  <l>  Where are the British, mother? You said the British</l>
+                  <l>  Were sure to be here first!</l>
+               </lg>
+               <p rend="justify">Brander.</p>
+               <lg>
+                  <l>Bundle the child</l>
+                  <l>  Into that room, woman, at once!</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Rada</hi>
+                  <hi rend="italic">  snatches the revolver from the Christmas-tree and hurries </hi>
+                  <hi rend="italic">Bettine</hi>
+                  <hi rend="italic">  into the bedroom just as the other door is burst open and a troop of soldiers appear on the threshold, shouting and furious with drink. They sing, with drunken gestures, in the doorway:</hi>)</p>
+               <p rend="justify">“Zum Rhein, zum Rhein, zum deutscher Rhein....”<lb/>
+               </p>
+               <p rend="justify">First Soldier.</p>
+               <lg>
+                  <l>Come on!</l>
+                  <l>  They’re in that room. I saw them! The only skirts</l>
+                  <l>  Left in the village. Comrades, you’ve had your fun—</l>
+                  <l>  It’s time for ours.</l>
+               </lg>
+               <p rend="justify">Brander.</p>
+               <lg>
+                  <l>Clear out of this. You’re drunk.</l>
+                  <l>  We want to sleep.</l>
+               </lg>
+               <p rend="justify">Second Soldier.</p>
+               <p rend="justify">Well, hand the women over.<lb/>
+               </p>
+               <p rend="justify">Tarrasch.</p>
+               <p rend="justify">There are no women here.<lb/>
+               </p>
+               <p rend="justify">First Soldier.</p>
+               <lg>
+                  <l>You greedy wolf,</l>
+                  <l>  I saw them.</l>
+               </lg>
+               <p rend="justify">Nanko.</p>
+               <p rend="justify">Come! Come! Come! It’s Christmas Eve!<lb/>
+               </p>
+               <p rend="justify">THE VAMPIRE</p>
+               <p rend="justify">Second Soldier.</p>
+               <lg>
+                  <l>Well, if there are no petticoats, where’s the harm</l>
+                  <l>  In letting us poor soldiers take a squint</l>
+                  <l>  Through yonder door? By God, we’ll do it, too!</l>
+                  <l>  Come on, my boys.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">They make a rush towards the room.</hi>)</p>
+               <p rend="justify">Nanko.</p>
+               <lg>
+                  <l>Be careful, or you’ll smash</l>
+                  <l>  The Christmas-tree! You’ll smash the gramophone!</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">A soldier tries the bedroom door. It is opened from within, and </hi>
+                  <hi rend="italic">Rada</hi>
+                  <hi rend="italic">  appears on the threshold with the revolver in her hand.</hi>)</p>
+               <p rend="justify">First Soldier.</p>
+               <p rend="justify">Liars! Liars!<lb/>
+               </p>
+               <p rend="justify">Rada.</p>
+               <lg>
+                  <l>There is one woman here,</l>
+                  <l>  One woman and a child....</l>
+                  <l>  And war, they tell me, is a noble thing.</l>
+                  <l>  It is the mother of heroic deeds,</l>
+                  <l>  The nurse of honour, manhood.</l>
+               </lg>
+               <p rend="justify">Second Soldier.</p>
+               <p rend="justify">God, a speech!<lb/>
+               </p>
+               <p rend="justify">Nanko (<hi rend="italic">who is hugging his Christmas-tree near the fire again</hi>).</p>
+               <lg>
+                  <l>Certainly, Rada! You will not deny</l>
+                  <l>  That life’s a battle.</l>
+               </lg>
+               <p rend="justify">Rada.</p>
+               <lg>
+                  <l>You hear, drunk as you are,</l>
+                  <l>  Up to your necks in blood, you hear this fool,</l>
+                  <l>  This poor old fool, piping his dreary cry.</l>
+                  <l>  And through his lips, and through his softening brain,</l>
+                  <l>  The men that use you, cheat you, drive you out</l>
+                  <l>  To slaughter and be slaughtered, teach the world</l>
+                  <l>  That this black vampire, sucking at our breasts,</l>
+                  <l>  Is good. Men! Men! The pestilence of your dead</l>
+                  <l>  Is murdering you by legions. All the trains</l>
+                  <l>  Of quicklime that your Emperor sends behind you</l>
+                  <l>  Can never eat its way through all that flesh—</l>
+                  <l>  Three hundred miles of dead! Your dead!</l>
+               </lg>
+               <p rend="justify">First Soldier.</p>
+               <lg>
+                  <l>Hoch! Hoch!</l>
+                  <l>  A speech!</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">They make a movement towards her, which she arrests by raising the revolver.</hi>)</p>
+               <p rend="justify">Rada.</p>
+               <lg>
+                  <l>I do not hate! I pity you all.</l>
+                  <l>  I tell you, you are doing it in a dream.</l>
+                  <l>  You are drugged. You are not awake.</l>
+               </lg>
+               <p rend="justify">Nanko.</p>
+               <lg>
+                  <l>I have sometimes thought</l>
+                  <l>  The very same.</l>
+               </lg>
+               <p rend="justify">Rada.</p>
+               <lg>
+                  <l>But you will wake one day.</l>
+                  <l>  Listen! If you have children of your own,</l>
+                  <l>  Listen to me ... the child is twelve years old.</l>
+                  <l>  She has never had one hard word spoken to her</l>
+                  <l>  In all her life.</l>
+               </lg>
+               <p rend="justify">Second Soldier.</p>
+               <lg>
+                  <l>Nor shall she now, by God!</l>
+                  <l>  Where is she? Bring her out!</l>
+               </lg>
+               <p rend="justify">First Soldier.</p>
+               <lg>
+                  <l>Twelve years of age?</l>
+                  <l>  Add two, because her mother loves her so!</l>
+                  <l>  That’s ripe enough for marriage to a soldier.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">They laugh uproariously, and sing again mockingly</hi>:)</p>
+               <p rend="justify">“Zum Rhein, zum Rhein, zum deutscher Rhein!”<lb/>
+               </p>
+               <p rend="justify">(<hi rend="italic">They move forward again.</hi>)</p>
+               <p rend="justify">Rada (<hi rend="italic">raising the revolver</hi>).</p>
+               <lg>
+                  <l>One word. If you are deaf to honour, blind</l>
+                  <l>  To truth, and if compassion cannot reach you,</l>
+                  <l>  Then I appeal to fear! Yes, you shall fear me.</l>
+                  <l>  Listen! I heard, when I was in that room,</l>
+                  <l>  A sound like gun-fire, coming from the south:</l>
+                  <l>  What if it were the British?</l>
+               </lg>
+               <p rend="justify">Soldiers.</p>
+               <lg>
+                  <l>Ah! The swine!</l>
+                  <l>  The dogs!</l>
+               </lg>
+               <p rend="justify">Rada.</p>
+               <lg>
+                  <l>Bull-dogs; and slow. But they are coming,</l>
+                  <l>  And, where they hold, they never will let go.</l>
+                  <l>  Though they may come too late for me and mine,</l>
+                  <l>  You are on your trial now before the world.</l>
+                  <l>  You never can escape it. They are coming,</l>
+                  <l>  With justice and the unconquerable law!</l>
+                  <l>  I warn you, though their speech is not my own,</l>
+                  <l>  And I shall be but one of all the dead,</l>
+                  <l>  Dead, with that child, in a forgotten grave—</l>
+                  <l>  I speak for them, and they will keep my word.</l>
+                  <l>  Yes, if you harm that child ... the British.... Ah!</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">They advance towards her.</hi>)</p>
+               <lg>
+                  <l>I have one bullet for the child and five</l>
+                  <l>  To share between you and myself.</l>
+               </lg>
+               <p rend="justify">First Soldier.</p>
+               <lg>
+                  <l>Come on!</l>
+                  <l>  She can’t shoot! Look at the way she’s holding it!</l>
+                  <l>  Duck down, and make a rush for it.</l>
+               </lg>
+               <p rend="justify">Soldiers.</p>
+               <p rend="justify">Come on!<lb/>
+               </p>
+               <p rend="justify">(<hi rend="italic">They make a rush. </hi>
+                  <hi rend="italic">Rada</hi>
+                  <hi rend="italic">  steps back into the bedroom and shuts the door in their faces.</hi>)</p>
+               <p rend="justify">Second Soldier.</p>
+               <p rend="justify">Locked out in the cold. Come, break the damned thing down!<lb/>
+               </p>
+               <p rend="justify">Bettine (<hi rend="italic">crying within</hi>).</p>
+               <p rend="justify">O British! British! Come! Come quickly, British!<lb/>
+               </p>
+               <p rend="justify">Brander (<hi rend="italic">trying to interpose</hi>).</p>
+               <p rend="justify">She’ll keep her word. You’ll never get ’em alive.<lb/>
+               </p>
+               <p rend="justify">Tarrasch.</p>
+               <p rend="justify">Never. I know that kind. You’d better clear out.<lb/>
+               </p>
+               <p rend="justify">First Soldier.</p>
+               <p rend="justify">Down with the door!<lb/>
+               </p>
+               <p rend="justify">(<hi rend="italic">They put their shoulders to it. </hi>
+                  <hi rend="italic">Brander</hi>
+                  <hi rend="italic">  makes a sign to </hi>
+                  <hi rend="italic">Tarrasch</hi>
+                  <hi rend="italic">. They try to pull the men back. There is a scuffle and </hi>
+                  <hi rend="italic">Brander</hi>
+                  <hi rend="italic">  is knocked over. He rises with the blood running down his face, while </hi>
+                  <hi rend="italic">Tarrasch</hi>
+                  <hi rend="italic">  still struggles. The door begins to give. A shot is heard within. The men pause and there is another shot.</hi>)</p>
+               <p rend="justify">Brander.</p>
+               <p rend="justify">By God, she’s done it!<lb/>
+               </p>
+               <p rend="justify">(<hi rend="italic">There is a booming of distant artillery.</hi>)</p>
+               <lg>
+                  <l>Hear!</l>
+                  <l>  She was not lying. That came from the south-west.</l>
+                  <l>  It is the British!</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">A bugle-call sounds in the village street.</hi>)</p>
+               <p rend="justify">Tarrasch.</p>
+               <p rend="justify">The British! A night-attack!<lb/>
+               </p>
+               <p rend="justify">(<hi rend="italic">They all rush out except </hi>
+                  <hi rend="italic">Nanko</hi>
+                  <hi rend="italic">, who peers after them from the door. Leaving it open to the night, he takes a</hi>  marron glacé <hi rend="italic">from the table, crosses the room, and begins to examine the gramophone.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Confused sounds of men rushing to arms, thin bugle-calls in the distance, and the occasional clatter of a galloping horse blow in from the blackness framed in the open door. The deep pulsation of the British artillery is heard throughout, in a steady undertone.</hi>)</p>
+               <p rend="justify">Nanko (<hi rend="italic">calling aloud as he munches</hi>).</p>
+               <lg>
+                  <l>Come, Rada, you’re pretending. They’re all gone.</l>
+                  <l>  Rada, these <hi rend="italic">marrons glacés</hi>  are delicious.</l>
+                  <l>  It’s over now! Come, I don’t think it’s right</l>
+                  <l>  To spoil a person’s pleasure on Christmas Eve.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">He tiptoes to the door and peers into the night.</hi>)</p>
+               <lg>
+                  <l>Come quick, Bettine, rockets are going up!</l>
+                  <l>  They are breaking into clusters of green stars!</l>
+                  <l>  Oh, there’s a red one! You could see for miles</l>
+                  <l>  When that one broke. The willow-trees jumped out</l>
+                  <l>  Like witches; and, between them, the canal</l>
+                  <l>  Dwindled away to a little thread of blood.</l>
+                  <l>  And there were lines of men running and falling,</l>
+                  <l>  And guns and horses floundering in a ditch.</l>
+                  <l>  Oh, Rada! there’s a bonfire by the mill.</l>
+                  <l>  They’ve burned the little cottage.</l>
+                  <l>  There’s a man</l>
+                  <l>  Hanging above the bonfire by his hands,</l>
+                  <l>  And heaps of dead all round him.</l>
+                  <l>  Come and see!</l>
+                  <l>  It’s terrible, but it’s magnificent,</l>
+                  <l>  Like one of Goya’s pictures. That’s the way</l>
+                  <l>
+                     <hi rend="italic">He</hi>  painted war. Well, everybody’s gone....</l>
+                  <l>  To think <hi rend="italic">I</hi>  was the fittest, after all!</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">He returns to the gramophone.</hi>)</p>
+               <lg>
+                  <l>I wonder how this gramophone does work.</l>
+                  <l>  He said the tune that he was putting in</l>
+                  <l>  Was just the thing for Christmas Eve.</l>
+                  <l>  I wonder,</l>
+                  <l>  I wonder what it was. Listen to this!</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">He reads the title.</hi>)</p>
+               <lg>
+                  <l>It’s a good omen, Rada—<hi rend="italic">A Christmas carol</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Sung by the Grand Imperial Choir</hi>—d’ you hear?—</l>
+                  <l>
+                     <hi rend="italic">At midnight in St. Petersburg</hi>—<hi rend="italic">Adeste</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Fideles!</hi>  Fancy that! A Christmas carol</l>
+                  <l>  Upon the gramophone!</l>
+                  <l>  So all the future ages will be sure</l>
+                  <l>  To know exactly what religion was.</l>
+                  <l>  To think we must not hear it! Rada, they say</l>
+                  <l>  The Angel Gabriel composed that tune</l>
+                  <l>  On the first Christmas Eve. So don’t you think</l>
+                  <l>  That we might hear it?</l>
+                  <l>  Everybody is gone, except the dead.</l>
+                  <l>  It will not wake them....</l>
+                  <l>  Come, Rada, you’re pretending! Do not make</l>
+                  <l>  The war more dreadful than it really is.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">He accidentally sets the gramophone working and jumps back, a little alarmed. He runs to the bedroom door.</hi>)</p>
+               <lg>
+                  <l>Rada! I’ve started it! Bettine, d’ you hear?</l>
+                  <l>  The gramophone’s working.</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">The artillery booms like a thunder-peal in the distance. Then the gramophone drowns it with the massed voices of the Imperial Choir singing</hi>:)</p>
+               <lg>
+                  <l>Adeste Fideles,</l>
+                  <l>  Læti triumphantes,</l>
+                  <l>  Adeste, adeste in Bethlehem!</l>
+                  <l>  Natum videte</l>
+                  <l>  Regem angelorum:</l>
+                  <l>  Venite, adoremus,</l>
+                  <l>  Venite, adoremus,</l>
+                  <l>  Venite, adoremus Dominum.</l>
+               </lg>
+               <p rend="justify">(Nanko <hi rend="italic">touches the floor under the door of the bedroom and stares at his hand.</hi>)</p>
+               <p rend="justify">Nanko.</p>
+               <lg>
+                  <l>Something red again? Trickling under the door?</l>
+                  <l>  Blood, I suppose....</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">A look of horror comes into his face as he stands listening to the music. Then, as if slowly waking from a dream and almost as if sanity had returned for a moment, he cries</hi>:)</p>
+               <lg>
+                  <l>It’s true! It’s true! Rada, I am awake!</l>
+                  <l>  I am awake! And, in the name of Christ,</l>
+                  <l>  I accuse, I accuse ... O God, forgive us all!</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">He falls on his knees by the bedroom door and calls, as if to the dead within</hi>:)</p>
+               <lg>
+                  <l>Awake, and after nineteen hundred years....</l>
+                  <l>  Bettine, Bettine! the British, they are coming!</l>
+                  <l>  Rada, you said it—they are coming quickly!</l>
+                  <l>  They are coming, with the reign of right and law.</l>
+                  <l>  But, O Bettine! Bettine! will they remember?</l>
+                  <l>  Are they awake? I only hear their guns.</l>
+                  <l>  What if they should grow used to it, Bettine,</l>
+                  <l>  And fail to wipe this horror from the world?</l>
+                  <l>  God, is there any hope for poor mankind?</l>
+                  <l>  God, are Thy little nations and Thy weak,</l>
+                  <l>  Thine innocent, condemned to hell for ever?</l>
+                  <l>  God, will the strong deliverers break the sword</l>
+                  <l>  And bring this world at last to Christmas Eve?</l>
+               </lg>
+               <p rend="justify">The Imperial Choir.</p>
+               <lg>
+                  <l>Æterni Parentis</l>
+                  <l>  Splendorem Æternum,</l>
+                  <l>  Velatum sub carne videbimus,</l>
+                  <l>  Deum infantem,</l>
+                  <l>  Pannis involutum,</l>
+                  <l>  Venite, adoremus,</l>
+                  <l>  Venite, adoremus,</l>
+                  <l>  Venite, adoremus Dominum.</l>
+               </lg>
+               <p rend="justify">Nanko.</p>
+               <lg>
+                  <l>Will Christ be born, oh, not in Bethlehem,</l>
+                  <l>  But in the soul of man, the abode of God?</l>
+                  <l>  There, in that deep, undying soul of man</l>
+                  <l>  (I still believe it), that immortal soul,</l>
+                  <l>  Will they lift up the cross with Christ upon it,</l>
+                  <l>  The Fool of God, whom intellectual fools,</l>
+                  <l>  The little fools of dust, in every land,</l>
+                  <l>  Grinning their <hi rend="italic">What is Truth?</hi>  still crucify.</l>
+                  <l>  Could they not thrust their hands into His wounds?</l>
+                  <l>  His wounds are these—these dead are all His wounds.</l>
+                  <l>  Bettine! Bettine! the British, they are coming!</l>
+                  <l>  But you are silent now, so silent now!</l>
+                  <l>  Will they lift up God’s poor old broken Fool,</l>
+                  <l>  And sleep no more until His kingdom come,</l>
+                  <l>  His infinite kingdom come?</l>
+                  <l>  Will they remember?</l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">He bows his head against the closed door, while the gramophone lifts the chorus of the Imperial Choir over the deepening thunder of the guns</hi>:)</p>
+               <lg>
+                  <l>Nunc cantet, exultans,</l>
+                  <l>  Chorus angelorum,</l>
+                  <l>  Cantet nunc aula celestium</l>
+                  <l>  Gloria, Gloria,</l>
+                  <l>  In excelsis Deo!</l>
+                  <l>  Venite, adoremus,</l>
+                  <l>  Venite, adoremus,</l>
+                  <l>  Venite, adoremus Dominum.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>INTERCESSION</head>
+               <lg>
+                  <l>Now the muttering gun-fire dies,</l>
+                  <l>Now the night has cloaked the slain,</l>
+                  <l>Now the stars patrol the skies,</l>
+                  <l>Hear our sleepless prayer again!</l>
+                  <l>They who work their country’s will,</l>
+                  <l>Fight and die for Britain still,</l>
+                  <l>Soldiers, but not haters, know</l>
+                  <l>
+                     <hi rend="italic">Thou</hi> must pity friend and foe.</l>
+                  <l>Therefore hear,</l>
+                  <l>Both for foe and friend, our prayer.</l>
+               </lg>
+               <lg>
+                  <l>Thou whose wounded Hands do reach</l>
+                  <l>  Over every land and sea,</l>
+                  <l>  Thoughts too deep for human speech</l>
+                  <l>  Rise from all our souls to Thee;</l>
+                  <l>  Deeper than the wrath that burns</l>
+                  <l>  Round our hosts when day returns;</l>
+                  <l>  Deeper than the peace that fills</l>
+                  <l>  All these trenched and waiting hills.</l>
+                  <l>  Hear, O hear!</l>
+                  <l>  Both for foe and friend, our prayer.</l>
+               </lg>
+               <lg>
+                  <l>Pity deeper than the grave</l>
+                  <l>  Sees, beyond the death we wield,</l>
+                  <l>  Faces of the young and brave</l>
+                  <l>  Hurled against us in the field.</l>
+                  <l>  Cannon-fodder! They <hi rend="italic">must</hi>  come,</l>
+                  <l>  We must slay them, and be dumb,</l>
+                  <l>  Slaughter, while we pity, these</l>
+                  <l>  Most implacable enemies.</l>
+                  <l>  Master, hear,</l>
+                  <l>  Both for foe and friend, our prayer.</l>
+               </lg>
+               <lg>
+                  <l>They are blind, as we are blind,</l>
+                  <l>  Urged by duties past reply.</l>
+                  <l>  Ours is but the task assigned;</l>
+                  <l>  Theirs to strike us ere they die.</l>
+                  <l>  Who can see his country fall?</l>
+                  <l>  Who but answers at her call?</l>
+                  <l>  Who has power to pause and think</l>
+                  <l>  When she reels upon the brink?</l>
+                  <l>  Hear, O hear,</l>
+                  <l>  Both for foe and friend, our prayer.</l>
+               </lg>
+               <lg>
+                  <l>Shield them from that bitterest lie</l>
+                  <l>  Laughed by fools who quote their mirth,</l>
+                  <l>  When the wings of death go by</l>
+                  <l>  And their brother shrieks on earth.</l>
+                  <l>  Though they clamp their hearts with steel,</l>
+                  <l>  Conquering <hi rend="italic">every</hi>  fear they feel.</l>
+                  <l>  There are dreams they dare not tell.</l>
+                  <l>  Shield, O shield, their eyes from hell.</l>
+                  <l>  Father, hear,</l>
+                  <l>  Both for foe and friend, our prayer.</l>
+               </lg>
+               <lg>
+                  <l>Where the naked bodies burn,</l>
+                  <l>  Where the wounded toss at home,</l>
+                  <l>  Weep and bleed and laugh in turn,</l>
+                  <l>  Yes, the masking jest may come.</l>
+                  <l>  Let him jest who daily dies.</l>
+                  <l>  But O hide his haunted eyes.</l>
+                  <l>  Pain alone he might control.</l>
+                  <l>  Shield, O shield his wounded soul.</l>
+                  <l>  Master, hear,</l>
+                  <l>  Both for foe and friend, our prayer.</l>
+               </lg>
+               <lg>
+                  <l>Peace? We steel us to the end.</l>
+                  <l>  Hope betrayed us, long ago.</l>
+                  <l>  Duty binds both foe and friend.</l>
+                  <l>  It is ours to break the foe.</l>
+                  <l>  Then, O God! that we might break</l>
+                  <l>  This red Moloch for Thy sake;</l>
+                  <l>  Know that Truth indeed prevails,</l>
+                  <l>  And that Justice holds the scales.</l>
+                  <l>  Father, hear,</l>
+                  <l>  Both for foe and friend, our prayer.</l>
+               </lg>
+               <lg>
+                  <l>England, could this awful hour,</l>
+                  <l>  Dawning on thy long renown,</l>
+                  <l>  Mark the purpose of thy power,</l>
+                  <l>  Crown thee with that mightier crown!</l>
+                  <l>  Broadening to that purpose climb</l>
+                  <l>  All the blood-red wars of Time....</l>
+                  <l>  Set the struggling peoples free,</l>
+                  <l>  Crown with Law their Liberty!</l>
+                  <l>  England, hear,</l>
+                  <l>  Both for foe and friend, our prayer!</l>
+               </lg>
+               <lg>
+                  <l>Speed, O speed what every age</l>
+                  <l>  Writes with a prophetic hand.</l>
+                  <l>  Read the midnight’s moving page,</l>
+                  <l>  Read the stars and understand:</l>
+                  <l>
+                     <hi rend="italic">Out of Chaos ye shall draw</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">Deepening harmonies of Law,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">Till around the Eternal Sun</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic"> </hi>
+                     <hi rend="italic">All your peoples move in one.</hi>
+                  </l>
+                  <l>  Christ-God, hear,</l>
+                  <l>  Both for foe and friend, our prayer.</l>
+               </lg>
+               <lg>
+                  <l>The Gresham Press</l>
+                  <l>UNWIN BROTHERS, LIMITED</l>
+                  <l>WOKING AND LONDON</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
