@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moby Hyphenation List</title>
+            <author>Grady Ward</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-05T08:52:08Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/w/WardGrady-MobyHyphenationList_2002.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Grady Ward</name>
+               <date>2024-01-05T08:52:08Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Moby Hyphenation List</head>
+         <author>Grady Ward</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/w/WardGrady-MobyHyphenationList_2002.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>Moby Hyphenation List</head>
+            <p rend="justify">Moby (tm) Hyphenator II Documentation Notes</p>
+            <p rend="justify">This documentation, the software and/or database are:</p>
+            <p rend="justify">Public Domain material by grant from the author, January, 2001.</p>
+            <p rend="justify">Moby (tm) Hyphenator II for MSDOS operating systems is compressed and distributed as a single zip file. After decompression the hyphanation file included with this product is in ordinary ASCII format with CRLF (ASCII 13/10) delimiters.</p>
+            <p rend="justify">MOBY Hyphenator II CONTENTS</p>
+            <lg>
+               <l>Read Me First File (aaREADME.txt)</l>
+               <l>Hyphanation list (mhyph.txt)</l>
+            </lg>
+            <p rend="justify">Quick Start 1) Insure you have at least 3Mb of free disk space to hold the contents of this zip file. 2) Create a directory to hold these files listed above. 3) Extract the contents of this zip file into the destination directory using any compatible zip file extraction utility. 4) Delete the original zip file from your disk to save space. (optional)</p>
+            <p rend="justify">After self-decompression the vocabulary files included with this product are in ordinary ASCII format with CRLF (ASCII 13/10) delimiters. The hyphenation marks are indicated with ASCII 165 character, which is significant in alphabetization.</p>
+            <p rend="justify">Note that words that ought *not* to be hyphenated are included for completeness.</p>
+            <p rend="justify">Once decompressed, the vocabulary files may be viewed and used just as any TEXT-type file might.</p>
+            <p rend="justify">Quick Start</p>
+            <p rend="justify">1) Create a destination directory to hold the files listed above.</p>
+            <p rend="justify">2) On the PG Catalog page click on the selection "More Files". You will see a "files.zip" folder in the list. Move this zipped folder to your computer. On your computer open "files.zip", double click on its "files" subdirectory and copy the contents into the destination directory on your computer.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moby Pronunciation List</title>
+            <author>Grady Ward</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-05T08:52:08Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/w/WardGrady-MobyPronunciationList_2002.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Grady Ward</name>
+               <date>2024-01-05T08:52:08Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Moby Pronunciation List</head>
+         <author>Grady Ward</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/w/WardGrady-MobyPronunciationList_2002.odt</p>
+         <p>Moby (tm) Pronunciator II Documentation Notes</p>
+         <p>This documentation, the software and/or database are:</p>
+         <p>Public Domain material by grant from the author, January, 2001.</p>
+         <p>Moby (tm) Pronunciator II for MSDOS operating systems is compressed and distributed as a single zip file. After decompression the hyphanation file included with this product is in ordinary ASCII format with CRLF (ASCII 13/10) delimiters.</p>
+         <p>MOBY Pronunciator II CONTENTS</p>
+         <p>Read Me First File (aaREADME.txt)<lb/>Acknowledgments (abreadme.txt)<lb/>CMU Dictionary list (cmudict.txt)<lb/>Pronunciation List (mpron.txt)<lb/>Phone Set List (phoneset.txt)<lb/>
+         </p>
+         <p>Quick Start 1) Insure you have at least 9Mb of free disk space to hold the contents of this zip file. 2) Create a directory to hold these files listed above. 3) Extract the contents of this zip file into the destination directory using any compatible zip file extraction utility. 4) Delete the original zip file from your disk to save space. (optional)</p>
+         <pb/>
+         <div type="div1">
+            <head>Moby Pronunciation List</head>
+            <pb/>
+            <div type="div2">
+               <head>LEGEND</head>
+               <p rend="justify">Each pronunciation vocabulary entry consists of a word or phrase field followed by a field delimiter of space " " and the IPA-equivalent field that is coded using the following ASCII symbols (case is significant). Spaces between words in the word or phrase or pronunciation field is denoted with underbar "_".</p>
+               <p rend="justify">/&amp;/ sounds like the "a" in "dab" /(@)/ sounds like the "a" in "air" /A/ sounds like the "a" in "far" /eI/ sounds like the "a" in "day" /@/ sounds like the "a" in "ado" or the glide "e" in "system" (dipthong schwa) /-/ sounds like the "ir" glide in "tire" or the "dl" glide in "handle" or the "den" glide in "sodden" (dipthong little schwa) /b/ sounds like the "b" in "nab" /tS/ sounds like the "ch" in "ouch" /d/ sounds like the "d" in "pod" /E/ sounds like the "e" in "red" /i/ sounds like the "e" in "see" /f/ sounds like the "f" in "elf" /g/ sounds like the "g" in "fig" /h/ sounds like the "h" in "had" /hw/ sounds like the "w" in "white" /I/ sounds like the "i" in "hid" /aI/ sounds like the "i" in "ice" /dZ/ sounds like the "g" in "vegetably" /k/ sounds like the "c" in "act" /l/ sounds like the "l" in "ail" /m/ sounds like the "m" in "aim" /N/ sounds like the "ng" in "bang" /n/ sounds like the "n" in "and" /Oi/ sounds like the "oi" in "oil" /A/ sounds like the "o" in "bob" /AU/ sounds like the "ow" in "how" /O/ sounds like the "o" in "dog" /oU/ sounds like the "o" in "boat" /u/ sounds like the "oo" in "too" /U/ sounds like the "oo" in "book" /p/ sounds like the "p" in "imp" /r/ sounds like the "r" in "ire" /S/ sounds like the "sh" in "she" /s/ sounds like the "s" in "sip" /T/ sounds like the "th" in "bath" /D/ sounds like the "th" in "the" /t/ sounds like the "t" in "tap" /@/ sounds like the "u" in "cup" /@r/ sounds like the "u" in "burn" /v/ sounds like the "v" in "average" /w/ sounds like the "w" in "win" /j/ sounds like the "y" in "you"</p>
+               <p rend="justify">/Z/ sounds like the "s" in "vision" /z/ sounds like the "z" in "zoo"</p>
+               <p rend="justify">Stress or emphasis is marked in the data with the primary "'" or secondary "," marks:</p>
+               <p rend="justify">"'" (uncurled apostrophe) marks primary stress "," (comma) marks secondary stress.</p>
+               <p rend="justify">Moby Pronunciator contains many common names and phrases borrowed from other languages; special sounds include (case is significant):</p>
+               <p rend="justify">"A" sounds like the "a" in "ami" "N" sounds like the "n" in "Francoise" "R" sounds like the "r" in "Der" /x/ sounds like the "ch" in "Bach" /y/ sounds like the "eu" in "cordon bleu" "Y" sounds like the "u" in "Dubois"</p>
+               <p rend="justify">Words and Phrases adopted from languages other than English have the unaccented form of the roman spelling. For example, "etude" has an initial accented "e" but is spelled without the accent in the Moby Pronunciator II database.</p>
+               <lg>
+                  <l>Each two-part vocabulary record is delimited from others with CRLF</l>
+                  <l>(ASCII 13/10).</l>
+               </lg>
+               <p rend="justify">SPECIAL FEATURE OF THIS LEXICON: several hundred words pronounced differently because of their part-speech have been distinguished.</p>
+               <p rend="justify">For example, the entries:</p>
+               <p rend="justify">close/v kl/oU/z and close/aj kl/oU/s (terminal sibilant varies)</p>
+               <p rend="justify">or</p>
+               <p rend="justify">effect/n '/I/,f/E/kt and effect/v ,/I/'f/E/kt (stress varies)</p>
+               <p rend="justify">distinguish those two parts of speech. (Any word with this information will terminate with the virgule (slash) in the vocabulary field, followed by one or more of the following part-of-speech abbreviations:</p>
+               <p rend="justify">n, v, av, aj, interj, followed by the rest of the pronunciation record.</p>
+               <lg>
+                  <l>Acknowledgements:</l>
+                  <l>Date: 9-15-93</l>
+               </lg>
+               <p rend="justify">This directory contains a pronunciation dictionaries (cmudict.txt is the most up-to-date) containing approximately 100k words and their transcriptions. We use these dictionaries at CMU in our speech understanding systems.</p>
+               <p rend="justify">The phone set for this dictionary contains 39 phones, which can be found in phoneset.txt.</p>
+               <lg>
+                  <l>Stress is indicated by means of a numeral [012] attached to a vowel:</l>
+                  <l>  0 = no stress</l>
+                  <l>  1 = primary stress</l>
+                  <l>  2 = secondary stress</l>
+               </lg>
+               <p rend="justify">Alternate transcriptions are identified with a numeral in parentheses as part of the lexical entry.</p>
+               <p rend="justify">We generated this dictionary using the following independent sources: - a 20k+ general English dictionary, built by hand at CMU (extensively proofed and used). - a 200k+ UCLA-proofed version of the shoup dictionary. - a 32k subset of the Dragon dictionary. - a 53k+ dictionary of proper names, synthesiser-generated, unproofed. - a 200k dictionary generated with Orator, unproofed. - a 200k dictionary generated with Mitalk, unproofed.</p>
+               <p rend="justify">All entries that occur solely in copyrighted sources, like the Dragon dictionary, are not currently included in this dictionary. If you have words and transcriptions that you would like included in this unrestricted resource, please send them to Robert L. Weide (weide@cs. cmu.edu) and we will consider them for an upcoming version.</p>
+               <p rend="justify">All of the above sources were preprocessed and the transcriptions in the current cmudict.0.1 were selected from the transcriptions in the sources or a combination thereof. We have removed some potentially unreliable transcriptions from this dictionary, including those based on only one source, and will reintroduce them once we have verified the transcriptions.</p>
+               <p rend="justify">CMU does not guarantee the accuracy of this dictionary, nor its suitablity for any specific purpose. In fact, we expect a number of errors, omissions and inconsistencies to remain in the current result. We intend to continually update the dictionary as we make progress in correcting them. We will make subsequent versions available via anonymous ftp, and those who would like notification when updated versions are available should send email to weide@cs.cmu.edu.</p>
+               <p rend="justify">We welcome input from users: send e-mail to Robert L. Weide (weide@cs. cmu.edu) for comments and suggestions on the content of the dictionary, or to Peter Jansen (pjj@cs.cmu.edu) for questions regarding the combination process.</p>
+               <p rend="justify">The Carnegie Mellon Pronouncing Dictionary [cmudict.0.1] is Copyright 1993 by Carnegie Mellon University. Use of this dictionary, for any research or commercial purpose, is completely unrestricted. If you make use of or redistribute this material, we would appreciate acknowlegement of its origin.</p>
+               <p rend="justify">Finally, if you add words to or correct words in this dictionary, we would like the additions and corrections sent to us (weide@cs) for consideration in a subsequent version. All final entries will be approved by Robert L. Weide and Peter Jansen, editors of the dictionary.</p>
+               <p rend="justify">Quick Start</p>
+               <p rend="justify">1) Create a destination directory to hold the files listed above.</p>
+               <p rend="justify">2) On the PG Catalog page click on the selection "More Files". You will see a "files.zip" folder in the list. Move this zipped folder to your computer. On your computer open "files.zip", double click on its "files" subdirectory and copy the contents into the destination directory on your computer.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

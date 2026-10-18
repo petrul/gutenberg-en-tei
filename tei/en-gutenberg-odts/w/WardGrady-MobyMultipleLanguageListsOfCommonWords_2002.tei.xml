@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moby Multiple Language Lists of Common Words</title>
+            <author>Grady Ward</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-05T08:52:08Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/w/WardGrady-MobyMultipleLanguageListsOfCommonWords_2002.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Grady Ward</name>
+               <date>2024-01-05T08:52:08Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Moby Multiple Language Lists of Common Words</head>
+         <author>Grady Ward</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/w/WardGrady-MobyMultipleLanguageListsOfCommonWords_2002.odt</p>
+         <p>Produced by Mike Pullen</p>
+         <pb/>
+         <div type="div1">
+            <head>**** PLEASE SEE AT THE BOTTOM OF THIS PAGE INSTRUCTIONS FOR DOWNLOADING THIS FILE****</head>
+            <p rend="justify">MOBY (tm) LANGUAGE II DOCUMENTATION NOTES</p>
+            <p rend="justify">This documentation, the software and/or database are:</p>
+            <p rend="justify">Public Domain material by grant from the author, January, 2001.</p>
+            <pb/>
+            <div type="div2">
+               <head>HISTORICAL NOTE:</head>
+               <p rend="justify">The Ward word lists were some of the largest public domain word lists in the world, at the time they were added to the Project Gutenberg collection in 2007. These word lists do not contain 8-bit accented characters or Unicode, as would be found in a more recent Project Gutenberg eBook. Instead, the lists include phonetic spelling, utilizing backslashes and other characters to indicate where accents would normally occur. There is no detailed guide on how these extra characters were used, and therefore it is likely infeasible to map from the word lists back to a correct representation of the word (i.e., to map from a word list entry with slashes or other characters, back to the actual non-English word with accents or other non-ASCII characters).</p>
+               <p rend="justify">These lists may still be useful, but they are no longer the state-of-the-art in word lists. In the time since the lists were created, it has become much easier for anyone with interests to make their own lists of unique words from the Project Gutenberg collection or other sources.</p>
+               <p rend="justify">Moby (tm) Language II for MSDOS operating systems is compressed and distributed as a single zip file. After decompression the language files included with this product is in ordinary ASCII format with CRLF (ASCII 13/10) delimiters.</p>
+               <p rend="justify">MOBY Language II CONTENTS</p>
+               <lg>
+                  <l>Read Me First File (aaREADME.txt)</l>
+                  <l>French Language list (french.txt)</l>
+                  <l>German Language list (german.txt)</l>
+                  <l>Italian Language list (italian.txt)</l>
+                  <l>Japanese Language list (japanese.txt)</l>
+                  <l>Spanish Language list (spanish.txt)</l>
+               </lg>
+               <p rend="justify">Quick Start</p>
+               <p rend="justify">1) Insure you have at least 3Mb of free disk space to hold the contents of this zip file.</p>
+               <p rend="justify">2) Create a destination directory to hold the files listed above.</p>
+               <p rend="justify">3) On the PG Catalog page click on the selection "More Files". You will see a "files.zip" folder in the list. Move this zipped folder to your computer. On your computer open "files.zip", double click on its "files" subdirectory and copy the contents into the destination directory on your computer.</p>
+               <p rend="justify">Word lists in five of the world's great languages:</p>
+               <lg>
+                  <l>FRENCH number of words 138257 size in bytes 1524757</l>
+                  <l>GERMAN number of words 159809 size in bytes 2055986</l>
+                  <l>ITALIAN number of words 60453 size in bytes 561981</l>
+                  <l>JAPANESE number of words 115523 size in bytes 934783</l>
+                  <l>SPANISH number of words 86059 size in bytes 850523</l>
+               </lg>
+               <p rend="justify">Total number of words 560101 size in bytes 5928030</p>
+               <p rend="justify">Once decompressed, the vocabulary files may be viewed and used just as any TEXT-type file might.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

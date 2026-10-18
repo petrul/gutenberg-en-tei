@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moby Part of Speech List</title>
+            <author>Grady Ward</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-05T08:52:08Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/w/WardGrady-MobyPartOfSpeechList_2002.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Grady Ward</name>
+               <date>2024-01-05T08:52:08Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Moby Part of Speech List</head>
+         <author>Grady Ward</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/w/WardGrady-MobyPartOfSpeechList_2002.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>Moby Part of Speech List</head>
+            <p rend="justify">Moby (tm) Part-of-Speech II Documentation Notes</p>
+            <p rend="justify">This documentation, the software and/or database are:</p>
+            <p rend="justify">Public Domain material by grant from the author, January, 2001.</p>
+            <p rend="justify">Moby (tm) Part-of-Speech II for MSDOS operating systems is compressed and distributed as a single zip file. After decompression the part-of-speech file included with this product is in ordinary ASCII format with CRLF (ASCII 13/10) delimiters.</p>
+            <p rend="justify">MOBY Part-of-Speech II CONTENTS</p>
+            <lg>
+               <l>Read Me First File (aaREADME.txt)</l>
+               <l>Part-of-Speech (mobypos.txt)</l>
+            </lg>
+            <p rend="justify">Quick Start 1) Insure you have at least 3Mb of free disk space to hold the contents of this zip file. 2) Create a directory to hold these files listed above. 3) Extract the contents of this zip file into the destination directory using any compatible zip file extraction utility. 4) Delete the original zip file from your disk to save space. (optional)</p>
+            <p rend="justify">This second edition is a particularly thorough revision of the original Moby Part-of-Speech. Beyond the fifteen thousand new entries, many thousand more entries have been scrutinized for correctness and modernity. This is unquestionably the largest P-O-S list in the world. Note that the many included phrases means that parsing algorithms can now tokenize in units larger than a single word, increasing both speed *and* accuracy.</p>
+            <p rend="justify">Database Legend:</p>
+            <p rend="justify">Each part-of-speech vocabulary entry consists of a word or phrase field followed by a field delimiter of the backslash (\) and the part-of-speech field that is coded using the following ASCII symbols (case is significant):</p>
+            <p rend="justify">Noun N</p>
+            <p rend="justify">Plural p</p>
+            <p rend="justify">Noun Phrase h</p>
+            <p rend="justify">Verb (usu participle) V</p>
+            <p rend="justify">Verb (transitive) t</p>
+            <p rend="justify">Verb (intransitive) i</p>
+            <p rend="justify">Adjective A</p>
+            <p rend="justify">Adverb v</p>
+            <p rend="justify">Conjunction C</p>
+            <p rend="justify">Preposition P</p>
+            <p rend="justify">Interjection !</p>
+            <p rend="justify">Pronoun r</p>
+            <p rend="justify">Definite Article D</p>
+            <p rend="justify">Indefinite Article I</p>
+            <p rend="justify">Nominative o</p>
+            <p rend="justify">This two-part vocabulary record is delimited from others with CRLF (ASCII 13/10). For example, engineer\Nt means that the word engineer has two main uses in English; the principal part-of-speech is as a noun "That engineer could write in microcode with one hand and in ADA with the other" and its secondary part-of-speech is as a transitive verb: "We sure engineered that software to death."</p>
+            <p rend="justify">In many cases, the -ed, -ing, -ly, and -ic forms of words are not explicitly listed; the participle forms of verbs will be usually marked simply with the V sign rather than the more specific t or i symbols. Words such as "be," which often have more than one head entry in a dictionary, have one listing with all the parts-of-speech for all senses concatenated. Foreign words commonly used in English usually include their diacritical marks, for example, the acute accent e is denoted by ASCII 142.</p>
+            <p rend="justify">Quick Start</p>
+            <p rend="justify">1) Create a destination directory to hold the file listed above.</p>
+            <p rend="justify">2) On the PG Catalog page click on the selection "More Files". You will see a "files.zip" folder in the list. Move this zipped folder to your computer. On your computer open "files.zip", double click on its "files" subdirectory and copy the contents into the destination directory on your computer.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
