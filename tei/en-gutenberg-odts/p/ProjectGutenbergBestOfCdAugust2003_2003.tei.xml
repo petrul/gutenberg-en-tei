@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Project Gutenberg "Best Of" CD August 2003</title>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T18:35:18Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/p/ProjectGutenbergBestOfCdAugust2003_2003.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2024-01-04T18:35:18Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Project Gutenberg "Best Of" CD August 2003</head>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/p/ProjectGutenbergBestOfCdAugust2003_2003.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>Project Gutenberg "Best Of" CD August 2003</head>
+            <pb/>
+            <div type="div2">
+               <head>THE PROJECT GUTENBERG CD AND DVD IMAGE README.TXT FILE</head>
+               <p rend="justify">This is a general-purpose README file for Project Gutenberg CD and DVD images. We wrote it because there are many different ways to get a CD or DVD image, and several things that can go wrong.</p>
+               <div type="div3">
+                  <head>GIVE THEM AWAY! *</head>
+                  <p rend="justify">Project Gutenberg urges everyone who can to download and make copies of their CD and DVD images. Give them away! If you decide to try to sell them, first read the trademark license at http://gutenberg.net/license . If you want a CD or DVD but don't have a burner or can't download so much data, see http://gutenberg.net/cdproject where options for getting one freely or at low cost are listed.</p>
+                  <div type="div4">
+                     <head>WHAT'S AN ISO?</head>
+                     <p rend="justify">First, you should know what a ISO image file is. This is a special file that represents the contents of an entire CD or DVD. Project Gutenberg uses ISOs to distribute entire sets of Project Gutenberg eBooks, usually with some sort of index file and a copy of GUTINDEX.ALL (our title listing). All of the books on the CD or DVD are available individually via the Web pages at http://gutenberg.net</p>
+                     <p rend="justify">Computers with CD or DVD burners usually come with some software to copy the ISO to a CD or DVD that you can then use in any CD or DVD burner. Some software even allows you to look at the contents of the ISO file without burning it to disc first. Project Gutenberg does not try to maintain lists of software, but there are many such lists on the Web. You can always email Project Gutenberg for help, if you are stuck.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DEALING WITH LARGE FILES</head>
+                     <p rend="justify">ISO files can be quite large, which can create some problems. ** If you have a high speed network connection (at least cable modem or DSL speed), you can try downloading an entire ISO file all at once. The problem is that if any data get corrupted during the download (something that seems to happen a lot on cable modems and DSL lines), the ISO might not work at all.</p>
+                     <p rend="justify">- To make it easier to make sure your download is correct, you can get the ISO in smaller chunks, and use checksums to verify the integrity of the files. We supply md5sums, and sometimes other checksums. If you don't have an md5sum command, use your favorite search engine to find one (no, Microsoft does not seem to make any standard checksum programs available with its Windows operating systems).</p>
+                     <p rend="justify">For chunking, we often provide a "-parts" subdirectory where the file might be divided into many chunks. These files were created with the Linux command</p>
+                     <p rend="justify">split —bytes=15000000 —suffix-length=4 pgdvd.iso pgdvd.iso.</p>
+                     <p rend="justify">Any Windows or Unix/Linux/BSD computer (including Mac OS X or later) can reassemble parts using the Unix "cat" command or the Windows "copy /b" command. Sample commands follow.</p>
+                     <p rend="justify">For both, first "cd" to get to the directory where your "parts" files were downloaded to. Then:</p>
+                     <p rend="justify">To join them together on a Unix or Linux system, including Mac OS X or later, simply: cat pgdvd.iso.???? &gt; pgdvd.iso</p>
+                     <p rend="justify">then, to check integrity, md5sum pgdvd.iso</p>
+                     <p rend="justify">On Windows, this command should work (first get a command shell, i.e., by "Start / Run / command", and cd to the right directory): copy /b pgdvd.iso.* pgdvd.iso</p>
+                     <p rend="justify">(Make sure that all of the iso files are in one directory.)</p>
+                     <p rend="justify">Checking file integrity on a Windows/DOS system requires the use of a third-party application. Searching the internet, and in particular various software download sites, will give you several options for an MD5sum program.</p>
+                     <p rend="justify">59d8a193874349181122ff52e2e3e114 is the correct sum.</p>
+                     <p rend="justify">See pgdvd.iso.md5 for the MD5 sums for individual files.</p>
+                     <p rend="justify">- The WinRAR program (for Windows computers) can be used to reassemble .rar files, when available.</p>
+                     <p rend="justify">- The Jigdo program can be used to download and assemble files based on instructions in a .jigdo file, when available.</p>
+                     <p rend="justify">- We are also encouraging BitTorrents. Visit the CD project page for current BitTorrent links.</p>
+                  </div>
+                  <div type="div4">
+                     <head>FOR MORE INFORMATION</head>
+                     <p rend="justify">See the CD project page for further information, including the possibility of using peer to peer transfer, BitTorrent, and other options to get the DVD and CD images: http://gutenberg.net/cdproject</p>
+                     <p rend="justify">The Project Gutenberg contacts page at gutenberg.net includes email addresses for help.</p>
+                     <lg>
+                        <l>  THANKS for your interest in these CD and DVD images! We hope</l>
+                        <l>  you enjoy them, and consider redistributing them.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>NOTES</head>
+                     <p rend="justify">* International Copyright</p>
+                     <p rend="justify">The Project Gutenberg Literary Archive Foundation (PGLAF) is committed to complying with copyright laws. PGLAF has not verified that all the eBook files on these discs meet the copyright laws in countries outside of the United States. PGLAF recommends that you verify this before using these files and requests that you advise us of any problems by email to copyright AT pglaf.org</p>
+                     <p rend="justify">** A note on CD and DVD disc capacity. It turns out that disk drive manufacturers (including the people who make CD and DVD burners and blank discs) measure disk space differently than the rest of the computer world. To them, 1MB, which is 1 megabyte, is 1,000,000 bytes. For the rest of the computer world, 1MB is 1,046,576 bytes. We mention this because people might read their DVD disc package and expect it to hold 4.7GB, but be surprised to find it can only hold about 4.37GB as the rest of the world measures space.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

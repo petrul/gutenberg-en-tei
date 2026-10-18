@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Primes to One Trillion</title>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T18:33:57Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/p/PrimesToOneTrillion_2018.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2024-01-04T18:33:57Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Primes to One Trillion</head>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/p/PrimesToOneTrillion_2018.odt</p>
+         <head>Primes to One Trillion</head>
+         <p>The Gutenberg text "The First 100,000 Prime Numbers", EBook #65, lists the primes up to 1,318,699. This somewhat more ambitious version lists the primes up to one trillion (1,000,000,000,000 or 1E12).</p>
+         <pb/>
+         <div type="div1">
+            <head>Introduction</head>
+            <p>I became interested in prime numbers after hearing about <ref target="https://en.wikipedia.org/wiki/Goldbach%27s_conjecture">Goldbach's Conjecture,</ref>
+            </p>
+            <p>"Every even integer greater than 2 can be expressed as the sum of two primes".</p>
+            <p>Verifying this requires a source of primes. Short lists (or programs to generate them) are widely available. Really long lists are scarce, except for<lb/>
+               <ref target="http://primos.mat.br/indexen.html">primos.mat.br.</ref>
+            </p>
+            <p>To make these lists more accessible, I have reformatted them to a size easily manageable by ordinary text editors and viewers--about 55MB. The file names correspond to the range of primes the file contains:</p>
+            <table rend="frame" xml:id="Table1">
+               <row>
+                  <cell>00000000000_to_00100000000.txt</cell>
+                  <cell>Zero to 100 Million</cell>
+               </row>
+               <row>
+                  <cell>00100000000_to_00200000000.txt</cell>
+                  <cell>100 Million to 200 Million</cell>
+               </row>
+               <row>
+                  <cell>etc.</cell>
+                  <cell> </cell>
+               </row>
+            </table>
+            <p>The leading zero digits cause the file names to collate in order of their content. Longer lists can be composed with the DOS copy command. Move the required prime txt files to a temporary directory and use:</p>
+            <p>copy *.txt longList.txt</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Primes to One Trillion</head>
+            <pb/>
+            <div type="div2">
+               <head>Prime Text Files</head>
+               <p rend="justify">This is a collection of 10,000 files, occupying about 486GB of disk space in their unzipped native txt format. Since adjacent primes have about 90% identical leading digits, the compressed (zip) versions total 61GB. Each zip file contains 100 txt files.</p>
+               <p rend="justify">Do not use Windows Explorer to copy or move large numbers of files at a time. Use DOS copy or xcopy for large copies. I find <hi rend="italic">Beyond Compare</hi>  (Scooter Software) handy for keeping track of large numbers of files.</p>
+               <p rend="justify">The following zip file names denotes the start of a range of primes in billions (1,000,000,000), and covers a range of 10,000,000,000. Each zip file contains 100 txt files, each covering the primes in a range of 100,000,000.</p>
+               <lg>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0000.zip">0000.zip</ref>    000G to  010G (0 to 1E10)</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0010.zip">0010.zip</ref>    010G to  020G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0020.zip">0020.zip</ref>    020G to  030G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0030.zip">0030.zip</ref>    030G to  040G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0040.zip">0040.zip</ref>    040G to  050G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0050.zip">0050.zip</ref>    050G to  060G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0060.zip">0060.zip</ref>    060G to  070G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0070.zip">0070.zip</ref>    070G to  080G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0080.zip">0080.zip</ref>    080G to  090G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0090.zip">0090.zip</ref>    090G to  100G</l>
+                  <l/>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0100.zip">0100.zip</ref>    100G to  110G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0110.zip">0110.zip</ref>    110G to  120G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0120.zip">0120.zip</ref>    120G to  130G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0130.zip">0130.zip</ref>    130G to  140G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0140.zip">0140.zip</ref>    140G to  150G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0150.zip">0150.zip</ref>    150G to  160G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0160.zip">0160.zip</ref>    160G to  170G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0170.zip">0170.zip</ref>    170G to  180G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0180.zip">0180.zip</ref>    180G to  190G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0190.zip">0190.zip</ref>    190G to  100G</l>
+                  <l/>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0200.zip">0200.zip</ref>    200G to  210G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0210.zip">0210.zip</ref>    210G to  220G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0220.zip">0220.zip</ref>    220G to  230G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0230.zip">0230.zip</ref>    230G to  240G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0240.zip">0240.zip</ref>    240G to  250G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0250.zip">0250.zip</ref>    250G to  260G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0260.zip">0260.zip</ref>    260G to  270G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0270.zip">0270.zip</ref>    270G to  280G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0280.zip">0280.zip</ref>    280G to  290G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0290.zip">0290.zip</ref>    290G to  200G</l>
+                  <l/>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0300.zip">0300.zip</ref>    300G to  310G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0310.zip">0310.zip</ref>    310G to  320G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0320.zip">0320.zip</ref>    320G to  330G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0330.zip">0330.zip</ref>    330G to  340G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0340.zip">0340.zip</ref>    340G to  350G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0350.zip">0350.zip</ref>    350G to  360G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0360.zip">0360.zip</ref>    360G to  370G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0370.zip">0370.zip</ref>    370G to  380G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0380.zip">0380.zip</ref>    380G to  390G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0390.zip">0390.zip</ref>    390G to  300G</l>
+                  <l/>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0400.zip">0400.zip</ref>    400G to  410G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0410.zip">0410.zip</ref>    410G to  420G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0420.zip">0420.zip</ref>    420G to  430G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0430.zip">0430.zip</ref>    430G to  440G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0440.zip">0440.zip</ref>    440G to  450G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0450.zip">0450.zip</ref>    450G to  460G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0460.zip">0460.zip</ref>    460G to  470G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0470.zip">0470.zip</ref>    470G to  480G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0480.zip">0480.zip</ref>    480G to  490G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0490.zip">0490.zip</ref>    490G to  400G</l>
+                  <l/>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0500.zip">0500.zip</ref>    500G to  510G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0510.zip">0510.zip</ref>    510G to  520G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0520.zip">0520.zip</ref>    520G to  530G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0530.zip">0530.zip</ref>    530G to  540G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0540.zip">0540.zip</ref>    540G to  550G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0550.zip">0550.zip</ref>    550G to  560G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0560.zip">0560.zip</ref>    560G to  570G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0570.zip">0570.zip</ref>    570G to  580G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0580.zip">0580.zip</ref>    580G to  590G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0590.zip">0590.zip</ref>    590G to  500G</l>
+                  <l/>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0600.zip">0600.zip</ref>    600G to  610G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0610.zip">0610.zip</ref>    610G to  620G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0620.zip">0620.zip</ref>    620G to  630G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0630.zip">0630.zip</ref>    630G to  640G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0640.zip">0640.zip</ref>    640G to  650G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0650.zip">0650.zip</ref>    650G to  660G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0660.zip">0660.zip</ref>    660G to  670G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0670.zip">0670.zip</ref>    670G to  680G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0680.zip">0680.zip</ref>    680G to  690G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0690.zip">0690.zip</ref>    690G to  600G</l>
+                  <l/>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0700.zip">0700.zip</ref>    700G to  710G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0710.zip">0710.zip</ref>    710G to  720G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0720.zip">0720.zip</ref>    720G to  730G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0730.zip">0730.zip</ref>    730G to  740G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0740.zip">0740.zip</ref>    740G to  750G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0750.zip">0750.zip</ref>    750G to  760G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0760.zip">0760.zip</ref>    760G to  770G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0770.zip">0770.zip</ref>    770G to  780G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0780.zip">0780.zip</ref>    780G to  790G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0790.zip">0790.zip</ref>    790G to  700G</l>
+                  <l/>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0800.zip">0800.zip</ref>    800G to  810G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0810.zip">0810.zip</ref>    810G to  820G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0820.zip">0820.zip</ref>    820G to  830G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0830.zip">0830.zip</ref>    830G to  840G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0840.zip">0840.zip</ref>    840G to  850G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0850.zip">0850.zip</ref>    850G to  860G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0860.zip">0860.zip</ref>    860G to  870G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0870.zip">0870.zip</ref>    870G to  880G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0880.zip">0880.zip</ref>    880G to  890G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0890.zip">0890.zip</ref>    890G to  800G</l>
+                  <l/>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0900.zip">0900.zip</ref>    900G to  910G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0910.zip">0910.zip</ref>    910G to  920G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0920.zip">0920.zip</ref>    920G to  930G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0930.zip">0930.zip</ref>    930G to  940G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0940.zip">0940.zip</ref>    940G to  950G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0950.zip">0950.zip</ref>    950G to  960G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0960.zip">0960.zip</ref>    960G to  970G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0970.zip">0970.zip</ref>    970G to  980G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0980.zip">0980.zip</ref>    980G to  990G</l>
+                  <l>  <ref target="@public@vhost@g@gutenberg@html@files@58225@primefiles@0990.zip">0990.zip</ref>    990G to 1000G</l>
+               </lg>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>
+               <hi rend="italic">PrimeC</hi> File Format and<lb/>Miscellaneous C++ Programs</head>
+            <p rend="justify">While working with primes, I developed the <hi rend="italic">primec</hi>  format, a file or array representation for primes that is roughly the same size of the compressed (zipped) txt representation, and supports fast access, both sequential and direct. The exact location of the primality specification of any number in the file (or memory array) is computed with a few instructions and no search.</p>
+            <p rend="justify">If you wish to examine and experiment with the C++ programs used to reformat these prime lists and test the Goldbach Conjecture, download the "programs.zip" package. It contains <hi rend="italic">Generating and Analyzing Prime Numbers</hi>, a description of the content and use of these files, including the <hi rend="italic">primec</hi>  file format.</p>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Primec</hi> Format</head>
+               <p rend="justify">The <hi rend="italic">primec</hi> format exploits the fact that all primes greater than 5 end in the decimal digits 1, 3, 7, or 9. Thus, the primality of 20 successive numbers can be specified in one 8 bit byte. The file begins with the complete binary representation of:</p>
+               <lg>
+                  <l>The beginning of the sequence</l>
+                  <l>The end of the sequence</l>
+                  <l>A check sum of all data bytes</l>
+                  <l>(All three are 8 bytes for this implementation).</l>
+               </lg>
+               <p rend="justify">The first and last values are a multiple of twenty, thus are never primes. There is no overlap of primes between successive files that use the same number for the upper boundary of the first file, and the lower boundary of the second file.</p>
+               <p rend="justify">The primality of any number in the range of the file is determined as follows:</p>
+               <lg>
+                  <l>If the number ends in 0, 2, 4, 5, 6, or 8, it is not prime.</l>
+                  <l/>
+                  <l>Otherwise, the location of the specifying byte is at offset:</l>
+                  <l/>
+                  <l>( value - start ) / 20</l>
+                  <l/>
+                  <l>Within that byte, the primality of the value is specified by the bit as shown in the following table.</l>
+               </lg>
+               <p rend="justify">The only tedious programming tasks were:</p>
+               <lg>
+                  <l>Special case code for values less than 20, which include 2 and 5, and exclude 1 and 9. All larger values follow the same simple pattern.</l>
+                  <l/>
+                  <l>The increment and decrement operators for the corresponding iterators must search forward (or backward) for the next true bit, specifying the next prime number.</l>
+               </lg>
+               <p rend="justify">This table shows the layout and content for a file containing 20 to 60. The first 24 bytes (start value, end value, check sum) are not shown.</p>
+               <p rend="justify">Byte</p>
+               <p rend="justify">0</p>
+               <p rend="justify">1</p>
+               <p rend="justify">Bit</p>
+               <p rend="justify">0</p>
+               <p rend="justify">1</p>
+               <p rend="justify">2</p>
+               <p rend="justify">3</p>
+               <p rend="justify">4</p>
+               <p rend="justify">5</p>
+               <p rend="justify">6</p>
+               <p rend="justify">7</p>
+               <p rend="justify">0</p>
+               <p rend="justify">1</p>
+               <p rend="justify">2</p>
+               <p rend="justify">3</p>
+               <p rend="justify">4</p>
+               <p rend="justify">5</p>
+               <p rend="justify">6</p>
+               <p rend="justify">7</p>
+               <p rend="justify">Value</p>
+               <p rend="justify">21</p>
+               <p rend="justify">23</p>
+               <p rend="justify">27</p>
+               <p rend="justify">29</p>
+               <p rend="justify">31</p>
+               <p rend="justify">33</p>
+               <p rend="justify">37</p>
+               <p rend="justify">39</p>
+               <p rend="justify">41</p>
+               <p rend="justify">43</p>
+               <p rend="justify">47</p>
+               <p rend="justify">49</p>
+               <p rend="justify">51</p>
+               <p rend="justify">53</p>
+               <p rend="justify">57</p>
+               <p rend="justify">59</p>
+               <p rend="justify">Prime</p>
+               <p rend="justify">F</p>
+               <p rend="justify">T</p>
+               <p rend="justify">F</p>
+               <p rend="justify">T</p>
+               <p rend="justify">T</p>
+               <p rend="justify">F</p>
+               <p rend="justify">T</p>
+               <p rend="justify">F</p>
+               <p rend="justify">T</p>
+               <p rend="justify">T</p>
+               <p rend="justify">T</p>
+               <p rend="justify">F</p>
+               <p rend="justify">F</p>
+               <p rend="justify">T</p>
+               <p rend="justify">F</p>
+               <p rend="justify">T</p>
+               <p rend="justify">Hex</p>
+               <p rend="justify">5A</p>
+               <p rend="justify">E5</p>
+               <p rend="justify">As primes become larger, the density of primes becomes smaller as 1/ln(n). Thus the density of true bits also falls off. The number of digits (binary or decimal) to represent the primes grows as ln(n). Thus, a sequence of primes represented as <hi rend="italic">primec</hi>  is always competitive in size with the corresponding sequence in ASCI text or binary, besides providing fast direct access by value:</p>
+               <p rend="justify">bool isPrime(value).</p>
+               <p rend="justify">The results for the sequence of the largest 64 bit primes (18446744073707000000 to 18446744073709551558) is:</p>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell>Format</cell>
+                     <cell>Size<lb/>(KB)</cell>
+                  </row>
+                  <row>
+                     <cell>64 Bit Binary</cell>
+                     <cell>445</cell>
+                  </row>
+                  <row>
+                     <cell>Txt</cell>
+                     <cell>1150</cell>
+                  </row>
+                  <row>
+                     <cell>Zip Txt</cell>
+                     <cell>114</cell>
+                  </row>
+                  <row>
+                     <cell>PrimeC</cell>
+                     <cell>125</cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Programs</head>
+               <p rend="justify">Among the programs in the "program.zip" package are:</p>
+               <table rend="frame" xml:id="Table3">
+                  <row>
+                     <cell>BuildTxtPrime</cell>
+                     <cell>Create file of primes, txt format</cell>
+                  </row>
+                  <row>
+                     <cell>TxtToPrimeC</cell>
+                     <cell>Convert txt to <hi rend="italic">primec</hi> format.</cell>
+                  </row>
+                  <row>
+                     <cell>Goldbach</cell>
+                     <cell>Verify Goldbach's conjecture<lb/>for zero to 1E12</cell>
+                  </row>
+               </table>
+               <p rend="justify">Among the more than 15 classes and utilities are:</p>
+               <table rend="frame" xml:id="Table4">
+                  <row>
+                     <cell>PrimeGenerator</cell>
+                     <cell>Create prime numbers in a given range.</cell>
+                  </row>
+                  <row>
+                     <cell>Directory</cell>
+                     <cell>A vector of strings containing the names of files in a file directory.</cell>
+                  </row>
+                  <row>
+                     <cell>Progress</cell>
+                     <cell>A class to manage the periodic reporting of program activity.</cell>
+                  </row>
+                  <row>
+                     <cell>PrimeCVector</cell>
+                     <cell>Abstract class providing the algorithms to access <hi rend="italic">primec</hi> data.</cell>
+                  </row>
+                  <row>
+                     <cell>PrimeCFileWriter</cell>
+                     <cell>Create a <hi rend="italic">primec</hi> file.</cell>
+                  </row>
+                  <row>
+                     <cell>PrimeCFileReader</cell>
+                     <cell>Read a <hi rend="italic">primec</hi> file.</cell>
+                  </row>
+               </table>
+               <p rend="justify">I hope you find them useful.</p>
+               <p rend="justify">If you have any questions, observations or bug reports concerning the C++ programming or the content of the prime files, send an email (after changing "at" to "@".</p>
+               <p rend="justify">primes1e12 at earthlink.net</p>
+               <p rend="justify">I embarked on this project as a programming challenge. I am not a mathematician. I have no deep insight into prime number theory. Please confine messages to programming issues. Here are some references:</p>
+               <lg>
+                  <l>
+                     <ref target="http://www.primos.mat.br/indexen.html">Prime Numbers</ref>
+                  </l>
+                  <l>
+                     <ref target="https://en.wikipedia.org/wiki/List_of_prime_numbers">Wikipedia: List of Prime Numbers (with numerous references)</ref>
+                  </l>
+                  <l>
+                     <ref target="http://mathforum.org/dr.math/faq/faq.prime.num.html">The Math Forum</ref>
+                  </l>
+                  <l>
+                     <ref target="https://primes.utm.edu">The Prime Pages</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The program files are also posted on</l>
+                  <l>
+                     <ref target="http://home.earthlink.net/~primes1e12/">http://home.earthlink.net/~primes1E12</ref>.</l>
+                  <l>Corrections and additions will be posted there as they occur.</l>
+               </lg>
+               <p rend="justify">Don Kostuch<lb/>October, 2018.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

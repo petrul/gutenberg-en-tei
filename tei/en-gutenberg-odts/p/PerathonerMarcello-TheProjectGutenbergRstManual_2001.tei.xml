@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Project Gutenberg RST Manual</title>
+            <author>Marcello Perathoner</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T18:07:26Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/p/PerathonerMarcello-TheProjectGutenbergRstManual_2001.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Marcello Perathoner</name>
+               <date>2024-01-04T18:07:26Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Project Gutenberg RST Manual</head>
+         <author>Marcello Perathoner</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/p/PerathonerMarcello-TheProjectGutenbergRstManual_2001.odt</p>
+         <p>The Project Gutenberg RST Manual</p>
+         <p>Marcello Perathoner</p>
+         <p>2023-12-01T09:38:19.151308+00:002001-01-01</p>
+         <p>The Project Gutenberg eBook of The Project Gutenberg RST Manual</p>
+         <p>This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this ebook or online at <ref target="https://www.gutenberg.org">www.gutenberg.org</ref>. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.</p>
+         <p>
+            <hi rend="bold">Title</hi>: The Project Gutenberg RST Manual</p>
+         <p>
+            <hi rend="bold">Creator</hi>: Marcello Perathoner</p>
+         <p>
+            <hi rend="bold">Release date</hi>: January 1, 2001 [eBook #181]<lb/>Most recently updated: August 27, 2011</p>
+         <p>
+            <hi rend="bold">Language</hi>: English</p>
+         <p>*** START OF THE PROJECT GUTENBERG EBOOK THE PROJECT GUTENBERG RST MANUAL ***</p>
+         <p>[pg!i]</p>
+         <p>The</p>
+         <p>Project Gutenberg</p>
+         <p>RST Manual</p>
+         <p>[pg!iii]</p>
+         <pb/>
+         <div type="div1">
+            <head>Contents /x/</head>
+            <list rend="bulleted">
+               <item>Installing EpubMaker<list rend="bulleted">
+                     <item>Windows</item>
+                     <item>Debian</item>
+                  </list>
+               </item>
+               <item>PG-RST Classes<list rend="bulleted">
+                     <item>Classes For Inline Text</item>
+                     <item>Classes For Block Text</item>
+                     <item>Classes For Front Matter Markup</item>
+                  </list>
+               </item>
+               <item>PG-RST Extensions<list rend="bulleted">
+                     <item>Styles</item>
+                     <item>Pagination</item>
+                     <item>Table of Contents</item>
+                     <item>List of Figures</item>
+                     <item>List of Tables</item>
+                     <item>Toc-Entry</item>
+                     <item>Footnotes</item>
+                     <item>Page Numbers</item>
+                     <item>Dropcaps</item>
+                     <item>Tables</item>
+                  </list>
+               </item>
+               <item>PG Metadata<list rend="bulleted">
+                     <item>Top Boilerplate</item>
+                     <item>Metadata Directive</item>
+                     <item>Bottom Boilerplate</item>
+                  </list>
+               </item>
+               <item>PG-RST Best Practices</item>
+               <item>Examples and Tests<list rend="bulleted">
+                     <item>Section 3.1</item>
+                     <item>Section 3.2</item>
+                     <item>Section 3.3</item>
+                  </list>
+               </item>
+            </list>
+            <p>[pg!v]</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>The Project Gutenberg RST Manual</head>
+            <pb/>
+            <div type="div2">
+               <head>List of Tables</head>
+               <list rend="bulleted">
+                  <item>Classes For Inline Text I</item>
+                  <item>Classes For Inline Text II</item>
+                  <item>Classes For Inline Text III</item>
+                  <item>Classes For Block Text</item>
+                  <item>Classes For Front Matter Markup</item>
+                  <item>Directives For Pagination</item>
+                  <item>Footnote Positions</item>
+                  <item>Support for dropcaps in output formats</item>
+                  <item>Demo Table</item>
+                  <item>Truth table for “and”</item>
+                  <item>Fields In the PG Scheme</item>
+                  <item>Fields In the DC Scheme</item>
+                  <item>Fields In the MARCREL Scheme</item>
+                  <item>Fields Without Scheme</item>
+                  <item>TABLE 8  Types of Computers Used in the Systems Reported</item>
+               </list>
+               <p rend="justify">[pg!vii]</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>List of Figures</head>
+               <list rend="bulleted">
+                  <item>Richard and Drucilla Martin</item>
+               </list>
+               <p rend="justify">[pg!1]</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Installing EpubMaker</head>
+               <p rend="justify">EpubMaker is Project Gutenberg’s file converter. It can convert from PG-RST to HTML, EPUB, PDF and plain text.</p>
+               <div type="div3">
+                  <head>Windows</head>
+                  <div type="div4">
+                     <head>Prerequisites</head>
+                     <list rend="numbered">
+                        <item>
+                           <p rend="justify">Install Python.</p>
+                           <p rend="justify">Assuming you don’t have python yet. If you have either version 2.6 or 2.7 already installed, skip this.</p>
+                           <p rend="justify">From <ptr target="http://www.python.org/download/releases/2.7/"/>download the Windows x86 MSI Installer (2.7)  and run it.</p>
+                           <p rend="justify">Select all the default options and install.</p>
+                        </item>
+                        <item>
+                           <p rend="justify">Install Python Setuptools.</p>
+                           <p rend="justify">From <ptr target="http://pypi.python.org/pypi/setuptools"/>download setuptools-0.6c11.win32-py2.7.exe  (or any newer version) and run it.</p>
+                           <p rend="justify">If you are using python 2.6 get the setuptools for 2.6.</p>
+                        </item>
+                        <item>
+                           <p rend="justify">Install Groff. (You can skip this step if you don’t want to generate plain text files.)</p>
+                           <p rend="justify">From <ptr target="http://gnuwin32.sourceforge.net/packages/groff.htm"/>download Complete package, except sources - Setup  (groff-1.20.1-setup.exe) and run it.</p>
+                           <p rend="justify">Select all the default options and install.</p>
+                        </item>
+                        <item>
+                           <p rend="justify">Install TexLive. (You can skip this step if you don’t want to generate PDF files.)</p>
+                           <p rend="justify">Go to <ptr target="http://mirror.ctan.org/systems/texlive/tlnet"/>and download the file install-tl.zip. Then say:</p>
+                           <p rend="justify">&gt; unzip install-tl.zip<lb/>&gt; cd install-tl*<lb/>&gt; install-tl</p>
+                           <p rend="justify">This will open the TeX Live installation wizard. Follow the instructions. When in doubt use the defaults.</p>
+                           <p rend="justify">This will take quite a while. (3 hours on an old Dell Vostro 1000 laptop. It installs about 2.5 GB in 93,000 files.) If you experience download problems, restart the wizard: it will resume the download where it left off.</p>
+                           <p rend="justify">Long installation instructions can be found at <ptr target="http://www.tug.org/texlive/doc/texlive-en/texlive-en.html#x1-150003"/>
+                           </p>
+                        </item>
+                        <item>
+                           <p rend="justify">Install HTML Tidy. (You can skip this step if you only want to process RST files and don’t want to build EPUBs from HTML input.)</p>
+                           <p rend="justify">If you are a post-processor you already have this.</p>
+                           <p rend="justify">
+                              <ptr target="http://tidy.sourceforge.net/"/>
+                           </p>
+                        </item>
+                        <item>
+                           <p rend="justify">Update your PATH.</p>
+                           <p rend="justify">Start | Control Panel | System | Advanced | Environment Variables. Click "Path" in the User variables at the top. Click "Edit"</p>
+                           <p rend="justify">If the field is empty just enter (all in one line):</p>
+                           <p rend="justify">C:\Python27;<lb/>C:\Python27\Scripts;<lb/>C:\Program Files\GnuWin32\bin;</p>
+                           <p rend="justify">If the field contains data, go to the end of that data and add a semicolon if there isn’t one already and then add the string above.</p>
+                           <p rend="justify">Click Ok three times.</p>
+                        </item>
+                     </list>
+                  </div>
+                  <div type="div4">
+                     <head>EpubMaker</head>
+                     <list rend="numbered">
+                        <item>
+                           <p rend="justify">At the command prompt run:</p>
+                           <p rend="justify">&gt; easy_install epubmaker</p>
+                        </item>
+                        <item>
+                           <p rend="justify">Test your installation:</p>
+                           <p rend="justify">&gt; epubmaker --help<lb/>&gt; epubmaker http://www.gutenberg.org/masters/rst/181/181.rst</p>
+                        </item>
+                     </list>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>Debian</head>
+                  <div type="div4">
+                     <head>Prerequisites</head>
+                     <p rend="justify">(Does not work with python 3 yet. If your distribution uses python 3 as default (not likely!), you’ll have to parallel install python 2.6 or 2.7.)</p>
+                     <lg>
+                        <l># apt-get install python python-setuptools python-lxml</l>
+                        <l># apt-get install groff tidy</l>
+                        <l># apt-get install libpng-dev libjpeg-dev libfreetype6-dev</l>
+                     </lg>
+                     <p rend="justify">Note: To get PDF generation to work, you have to use TeX Live version 2009-11 or newer. You can get those from debian testing or unstable. If don’t want to switch from debian stable, you have to install TeX Live manually.</p>
+                     <p rend="justify">If you are on testing or unstable:</p>
+                     <p rend="justify"># apt-get install texlive texlive-latex-extra texlive-xetex<lb/># apt-get install ttf-linux-libertine ttf-dejavu</p>
+                     <p rend="justify">Else, to install TeX Live manually, go to <ptr target="http://mirror.ctan.org/systems/texlive/tlnet"/>and download the file install-tl-unx.tar.gz. Unpack it. Then:</p>
+                     <p rend="justify"># cd /path/where/unpacked<lb/># perl install-tl -gui</p>
+                     <p rend="justify">Long installation instructions can be found at <ptr target="http://www.tug.org/texlive/doc/texlive-en/texlive-en.html#x1-150003"/>
+                     </p>
+                  </div>
+                  <div type="div4">
+                     <head>EpubMaker</head>
+                     <p rend="justify"># easy_install epubmaker</p>
+                  </div>
+                  <div type="div4">
+                     <head>Kindlegen</head>
+                     <p rend="justify">(Optional: Used only to make Kindle files):</p>
+                     <p rend="justify">$ wget http://s3.amazonaws.com/kindlegen/kindlegen_linux_2.6_i386_v1.2.tar.gz<lb/>$ tar -xzf kindlegen_linux_2.6_i386_v1.2.tar.gz</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PG-RST Classes</head>
+               <p rend="justify">A list of classes you can use in PG-RST.</p>
+               <div type="div3">
+                  <head>Classes For Inline Text</head>
+                  <p rend="justify">These classes have an effect on inline text. If you put them on a block, all inline contents of the block will be rendered accordingly.</p>
+                  <p> Classes For Inline Text I</p>
+                  <table rend="frame" xml:id="Table1">
+                     <row role="label">
+                        <cell rend="start bold">Class</cell>
+                        <cell rend="start bold">Explanation</cell>
+                     </row>
+                     <row>
+                        <cell>italics</cell>
+                        <cell>Switch to italic font.</cell>
+                     </row>
+                     <row>
+                        <cell>bold</cell>
+                        <cell>Switch to boldface.</cell>
+                     </row>
+                     <row>
+                        <cell>small-caps</cell>
+                        <cell>Switch to small capitals.</cell>
+                     </row>
+                     <row>
+                        <cell>gesperrt</cell>
+                        <cell>Switch to gesperrt (extended letter spacing).</cell>
+                     </row>
+                     <row>
+                        <cell>antiqua</cell>
+                        <cell>Switch to antiqua.</cell>
+                     </row>
+                     <row>
+                        <cell>monospaced</cell>
+                        <cell>Switch to monospaced font.</cell>
+                     </row>
+                  </table>
+                  <p> Classes For Inline Text II</p>
+                  <table rend="frame" xml:id="Table2">
+                     <row role="label">
+                        <cell rend="start bold">Class</cell>
+                        <cell rend="start bold">Explanation</cell>
+                     </row>
+                     <row>
+                        <cell>smaller</cell>
+                        <cell>Switch to smaller font.</cell>
+                     </row>
+                     <row>
+                        <cell>larger</cell>
+                        <cell>Switch to larger font.</cell>
+                     </row>
+                     <row>
+                        <cell>xx-small</cell>
+                        <cell>Switch to smallest font.</cell>
+                     </row>
+                     <row>
+                        <cell>x-small</cell>
+                        <cell>Switch to very small font.</cell>
+                     </row>
+                     <row>
+                        <cell>small</cell>
+                        <cell>Switch to small font.</cell>
+                     </row>
+                     <row>
+                        <cell>medium</cell>
+                        <cell>Switch to normal font size.</cell>
+                     </row>
+                     <row>
+                        <cell>large</cell>
+                        <cell>Switch to large font.</cell>
+                     </row>
+                     <row>
+                        <cell>x-large</cell>
+                        <cell>Switch to very large font.</cell>
+                     </row>
+                     <row>
+                        <cell>xx-large</cell>
+                        <cell>Switch to largest font.</cell>
+                     </row>
+                  </table>
+                  <p> Classes For Inline Text III</p>
+                  <table rend="frame" xml:id="Table3">
+                     <row role="label">
+                        <cell rend="start bold">Class</cell>
+                        <cell rend="start bold">Explanation</cell>
+                     </row>
+                     <row>
+                        <cell>red</cell>
+                        <cell>Switch to red font.</cell>
+                     </row>
+                     <row>
+                        <cell>green</cell>
+                        <cell>Switch to green font.</cell>
+                     </row>
+                     <row>
+                        <cell>blue</cell>
+                        <cell>Switch to blue font.</cell>
+                     </row>
+                     <row>
+                        <cell>yellow</cell>
+                        <cell>Switch to yellow font.</cell>
+                     </row>
+                     <row>
+                        <cell>white</cell>
+                        <cell>Switch to white font.</cell>
+                     </row>
+                     <row>
+                        <cell>gray</cell>
+                        <cell>Switch to gray font.</cell>
+                     </row>
+                     <row>
+                        <cell>black</cell>
+                        <cell>Switch to black font.</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>Classes For Block Text</head>
+                  <p rend="justify">These classes have an effect on block text. Please do not confuse the alignment of the block with the alignment of the text in the block. Eg. a table can be centered, while the text inside the table is left-aligned. The alignment of the block is set with the align  option.</p>
+                  <p> Classes For Block Text</p>
+                  <table rend="frame" xml:id="Table4">
+                     <row role="label">
+                        <cell rend="start bold">Class</cell>
+                        <cell rend="start bold">Explanation</cell>
+                     </row>
+                     <row>
+                        <cell>left</cell>
+                        <cell>Left-aligns the text in the block.</cell>
+                     </row>
+                     <row>
+                        <cell>center</cell>
+                        <cell>Centers the text in the block.</cell>
+                     </row>
+                     <row>
+                        <cell>right</cell>
+                        <cell>Right-aligns the text in the block.</cell>
+                     </row>
+                     <row>
+                        <cell>justify</cell>
+                        <cell>Justifies the text in the block.</cell>
+                     </row>
+                     <row>
+                        <cell>white-space-pre-line</cell>
+                        <cell>Preserves newlines.</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>Classes For Front Matter Markup</head>
+                  <p rend="justify">EpubMaker includes a few classes to markup front matter. While it is not necessary to do this, it adds value. In future the PG catalog might automatically extract not only the cover page but also the title page, verso, etc.</p>
+                  <p> Classes For Front Matter Markup</p>
+                  <table rend="frame" xml:id="Table5">
+                     <row role="label">
+                        <cell rend="start bold">Class</cell>
+                        <cell rend="start bold">Explanation</cell>
+                     </row>
+                     <row>
+                        <cell>coverpage</cell>
+                        <cell>The cover page.</cell>
+                     </row>
+                     <row>
+                        <cell>frontispiece</cell>
+                        <cell>The frontispiece.</cell>
+                     </row>
+                     <row>
+                        <cell>titlepage</cell>
+                        <cell>The title page.</cell>
+                     </row>
+                     <row>
+                        <cell>verso</cell>
+                        <cell>The title page verso.</cell>
+                     </row>
+                     <row>
+                        <cell>dedication</cell>
+                        <cell>The dedication page.</cell>
+                     </row>
+                     <row>
+                        <cell>plainpage</cell>
+                        <cell>A general class for page.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Use these classes on a container. These classes already insert page breaks before the container so you need not insert page breaks on your own.</p>
+                  <lg>
+                     <l>.. container:: titlepage</l>
+                     <l/>
+                     <l>   | Pride and Prejudice</l>
+                     <l>   |</l>
+                     <l>   | Written by Jane Austen.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PG-RST Extensions</head>
+               <p rend="justify">You can create custom roles based on the existing ones. This is how you create and then use custom roles.</p>
+               <lg>
+                  <l>.. role:: small-caps</l>
+                  <l>   :class: small-caps</l>
+                  <l/>
+                  <l>This text is in :small-caps:`Small Caps`.</l>
+               </lg>
+               <p rend="justify">This text is in Small Caps.</p>
+               <p rend="justify">You can attach more than one class to a role:</p>
+               <lg>
+                  <l>.. role:: big-and-bold</l>
+                  <l>   :class: x-large bold</l>
+                  <l/>
+                  <l>This text is :big-and-bold:`big and bold`.</l>
+               </lg>
+               <p rend="justify">This text is big and bold.</p>
+               <div type="div3">
+                  <head>Styles</head>
+                  <p rend="justify">You can redefine the rendering of elements:</p>
+                  <lg>
+                     <l>.. style:: emphasis</l>
+                     <l>   :class: gesperrt</l>
+                     <l/>
+                     <l>Now *emphasis* will be rendered as gesperrt.</l>
+                  </lg>
+                  <p rend="justify">Now <hi rend="italic">emphasis</hi>  will be rendered as gesperrt.</p>
+                  <lg>
+                     <l>.. style:: strong</l>
+                     <l>   :class: small-caps</l>
+                     <l/>
+                     <l>And **Strong Emphasis** will be rendered as small-caps.</l>
+                  </lg>
+                  <p rend="justify">And <hi rend="bold">Strong Emphasis</hi>  will be rendered as small-caps.</p>
+                  <lg>
+                     <l>.. style:: strong</l>
+                     <l>   :class: small-caps x-large bold</l>
+                     <l/>
+                     <l>And **Strong Emphasis** will be rendered as big bold small-caps.</l>
+                  </lg>
+                  <p rend="justify">And <hi rend="bold">Strong Emphasis</hi>  will be rendered as big bold small-caps.</p>
+                  <lg>
+                     <l>.. style:: literal</l>
+                     <l>   :class: red</l>
+                     <l/>
+                     <l>``literally red``</l>
+                     <l/>
+                     <l>.. style:: superscript</l>
+                     <l>   :class: green</l>
+                     <l/>
+                     <l>:superscript:`sup`\ er</l>
+                     <l/>
+                     <l>.. style:: title_reference</l>
+                     <l>   :class: blue</l>
+                     <l/>
+                     <l>:title-reference:`Hamlet` and `Othello`.</l>
+                  </lg>
+                  <p rend="justify">literally red</p>
+                  <p rend="justify">
+                     <hi rend="sup">sup</hi>er</p>
+                  <p rend="justify">Hamlet  and Othello.</p>
+                  <p rend="justify">You can semantically markup foreign text:</p>
+                  <lg>
+                     <l>.. role:: french</l>
+                     <l>   :class: language-fr italics</l>
+                     <l/>
+                     <l>:french:`Pas de double` is the French for "father of twins".</l>
+                  </lg>
+                  <p rend="justify">Pas de double  is the French for "father of twins".</p>
+               </div>
+               <div type="div3">
+                  <head>Pagination</head>
+                  <p rend="justify">Pagination is important if you generate PDFs. See the Directives For Pagination Table.</p>
+                  <p> Directives For Pagination</p>
+                  <table rend="frame" xml:id="Table6">
+                     <row role="label">
+                        <cell rend="start bold">Directive</cell>
+                        <cell rend="start bold">Explanation</cell>
+                     </row>
+                     <row>
+                        <cell>clearpage</cell>
+                        <cell>This directive inserts a page break.</cell>
+                     </row>
+                     <row>
+                        <cell>cleardoublepage</cell>
+                        <cell>This directive inserts page breaks so that the next item starts on a right-hand page.</cell>
+                     </row>
+                     <row>
+                        <cell>vfill</cell>
+                        <cell>
+                           <p>(PDF only.)</p>
+                           <p>This directive generates `elastic´ vertical space. This space expands to all of the free space on one page. If you use this more than once on a page, the free space is equally divided among all invocations.</p>
+                           <p>To vertically align an item to the bottom, use vfill  before that item.</p>
+                           <p>To vertically align an item about 1/3 of the page use vfill  once before the item and twice after the item.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>frontmatter</cell>
+                        <cell>
+                           <p>(PDF only.)</p>
+                           <p>Put this directive at the start of your book.</p>
+                           <p>The pgheader  directive uses this directive internally, so you can omit frontmatter  whenever you use pgheader.</p>
+                           <p>This directive turns on roman page numbers.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>mainmatter</cell>
+                        <cell>
+                           <p>(PDF only.)</p>
+                           <p>Put this directive after the table of contents and before the first chapter.</p>
+                           <p>This directive switches from roman page numbering to arabic page numbering and resets the page counter.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>backmatter</cell>
+                        <cell>
+                           <p>(PDF only.)</p>
+                           <p>Put this directive before appendices or indices.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>Table of Contents</head>
+                  <p rend="justify">Use the RST contents  directive to automatically generate a table of contents.</p>
+                  <p rend="justify">N.B. You may also provide a table of contents manually.</p>
+                  <p rend="justify">In PG-RST the contents  directive requires you to specify an argument or the local  option.</p>
+                  <p rend="justify">The local  option displays a local table of contents, containing only the sub-sections of the section in which it is declared.</p>
+                  <p rend="justify">The page-numbers  option displays the original page number in the TOC.</p>
+                  <lg>
+                     <l>.. contents:: A TOC With Page Numbers</l>
+                     <l>   :depth: 2</l>
+                     <l>   :page-numbers:</l>
+                  </lg>
+                  <div type="div4">
+                     <head>A TOC With Page Numbers</head>
+                     <list rend="bulleted">
+                        <item>Installing EpubMaker <list rend="bulleted">
+                              <item>Windows </item>
+                              <item>Debian </item>
+                           </list>
+                        </item>
+                        <item>PG-RST Classes <list rend="bulleted">
+                              <item>Classes For Inline Text </item>
+                              <item>Classes For Block Text </item>
+                              <item>Classes For Front Matter Markup </item>
+                           </list>
+                        </item>
+                        <item>PG-RST Extensions <list rend="bulleted">
+                              <item>Styles </item>
+                              <item>Pagination </item>
+                              <item>Table of Contents </item>
+                              <item>List of Figures </item>
+                              <item>List of Tables </item>
+                              <item>Toc-Entry </item>
+                              <item>Footnotes </item>
+                              <item>Page Numbers </item>
+                              <item>Dropcaps </item>
+                              <item>Tables </item>
+                           </list>
+                        </item>
+                        <item>PG Metadata <list rend="bulleted">
+                              <item>Top Boilerplate </item>
+                              <item>Metadata Directive </item>
+                              <item>Bottom Boilerplate </item>
+                           </list>
+                        </item>
+                        <item>PG-RST Best Practices </item>
+                        <item>Examples and Tests <list rend="bulleted">
+                              <item>Section 3.1 </item>
+                              <item>Section 3.2 </item>
+                              <item>Section 3.3 </item>
+                           </list>
+                        </item>
+                     </list>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>List of Figures</head>
+                  <p rend="justify">Use the lof  directive to generate a list of figures automatically.</p>
+                  <p rend="justify">N.B. You may also provide a list of figures manually.</p>
+                  <lg>
+                     <l>.. lof:: A List of Figures</l>
+                     <l>   :page-numbers:</l>
+                     <l>   :backlinks: none</l>
+                  </lg>
+                  <div type="div4">
+                     <head>A List of Figures</head>
+                     <list rend="bulleted">
+                        <item>Richard and Drucilla Martin </item>
+                     </list>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>List of Tables</head>
+                  <p rend="justify">Use the lot  directive to generate a list of tables.</p>
+                  <p rend="justify">N.B. You may also provide a list of tables manually.</p>
+                  <lg>
+                     <l>.. lot:: A List of Tables</l>
+                     <l>   :page-numbers:</l>
+                     <l>   :backlinks: none</l>
+                  </lg>
+                  <div type="div4">
+                     <head>A List of Tables</head>
+                     <list rend="bulleted">
+                        <item>Classes For Inline Text I </item>
+                        <item>Classes For Inline Text II </item>
+                        <item>Classes For Inline Text III </item>
+                        <item>Classes For Block Text </item>
+                        <item>Classes For Front Matter Markup </item>
+                        <item>Directives For Pagination </item>
+                        <item>Footnote Positions </item>
+                        <item>Support for dropcaps in output formats </item>
+                        <item>Demo Table </item>
+                        <item>Truth table for “and” </item>
+                        <item>Fields In the PG Scheme </item>
+                        <item>Fields In the DC Scheme </item>
+                        <item>Fields In the MARCREL Scheme </item>
+                        <item>Fields Without Scheme </item>
+                        <item>TABLE 8  Types of Computers Used in the Systems Reported </item>
+                     </list>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>Toc-Entry</head>
+                  <p rend="justify">Use the toc-entry  directive to:</p>
+                  <list rend="bulleted">
+                     <item>provide an alternate toc entry</item>
+                     <item>suppress a toc entry, or</item>
+                     <item>switch toc gathering on or off.</item>
+                  </list>
+                  <p rend="justify">A toc-entry  with argument sets the argument as toc entry for the next section, figure or table.</p>
+                  <p rend="justify">A toc-entry  without argument suppresses the toc entry for the next section, figure or table.</p>
+                  <p rend="justify">Use the depth  option to set the depth up to which section titles are gathered for the toc. A depth of 0 switches toc gathering off.</p>
+                  <p rend="justify">.. toc-entry:: An Alternative Caption</p>
+               </div>
+               <div type="div3">
+                  <head>Footnotes</head>
+                  <p rend="justify">Always define footnotes right after the paragraph they are referenced.</p>
+                  <p> Positioning of footnotes</p>
+                  <table rend="frame" xml:id="Table7">
+                     <row role="label">
+                        <cell rend="start bold">Format</cell>
+                        <cell rend="start bold">Position</cell>
+                     </row>
+                     <row>
+                        <cell>HTML</cell>
+                        <cell>Collected under the footnotes directive.</cell>
+                     </row>
+                     <row>
+                        <cell>EPUB</cell>
+                        <cell>Idem.</cell>
+                     </row>
+                     <row>
+                        <cell>TXT</cell>
+                        <cell>Where they are defined.</cell>
+                     </row>
+                     <row>
+                        <cell>PDF</cell>
+                        <cell>At the bottom of the current page.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">To collect the footnotes use the footnotes  directive. This directive will output a section with title and all footnotes in the document will be moved inside the section.</p>
+                  <p rend="justify">In PDF and TXT formats the footnotes  directive will do nothing.<hi rend="sup">1</hi>
+                  </p>
+                  <p rend="justify">Test<hi rend="sup">2</hi>
+                     <hi rend="sup">3</hi>  .</p>
+                  <p rend="justify">.. footnotes:: Footnotes<lb/>   :class: smaller</p>
+               </div>
+               <div type="div3">
+                  <head>Page Numbers</head>
+                  <p rend="justify">The sequence [pg n]  will convert into a page number marker of n. n can be any arabic or roman numeral. The sequence itself will be removed from the text flow leaving a page anchor. There <hi rend="italic">must</hi>  be spaces around the sequence. If the page break is in the middle of a word, join the word and put the sequence at the end of the word.</p>
+                  <lg>
+                     <l>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</l>
+                     <l>nonumy eirmod tempor invidunt [pg 42] ut labore et dolore magna</l>
+                     <l>aliquyam erat, sed diam voluptua. At vero eos et accusam et justo</l>
+                     <l>duo dolores [pg xviii] et ea rebum.</l>
+                  </lg>
+                  <p rend="justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt [pg 42] ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores [pg xviii] et ea rebum.</p>
+                  <p rend="justify">A reference to a page number can be inserted with the sequence [pg n]_. This will generate a link to the page anchor.</p>
+                  <p rend="justify">See page [pg 42]_.</p>
+                  <p rend="justify">See page [pg 42]_.</p>
+                  <p rend="justify">An invisible page number can be inserted with the sequence [pg!n].</p>
+                  <lg>
+                     <l>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</l>
+                     <l>nonumy eirmod tempor invidunt [pg!43] ut labore et dolore magna</l>
+                     <l>aliquyam erat, sed diam voluptua. At vero eos et accusam et justo</l>
+                     <l>duo dolores et ea rebum. See page [pg 43]_.</l>
+                  </lg>
+                  <p rend="justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt [pg!43] ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. See page [pg 43]_.</p>
+                  <p rend="justify">See page [pg iii]_.</p>
+               </div>
+               <div type="div3">
+                  <head>Dropcaps</head>
+                  <p rend="justify">You can insert dropcaps with the dropcap  directive. You can use either an enlarged character or an image as dropcap. You can also specify a span of character that should be set in small-caps after the dropcap initial.</p>
+                  <p> Support for dropcaps in output formats</p>
+                  <table rend="frame" xml:id="Table8">
+                     <row role="label">
+                        <cell rend="start bold">Format</cell>
+                        <cell rend="start bold">Letter</cell>
+                        <cell rend="start bold">Image</cell>
+                     </row>
+                     <row>
+                        <cell>HTML</cell>
+                        <cell>enlarged and dropped</cell>
+                        <cell>resized and dropped</cell>
+                     </row>
+                     <row>
+                        <cell>EPUB</cell>
+                        <cell>enlarged on baseline</cell>
+                        <cell>resized on baseline</cell>
+                     </row>
+                     <row>
+                        <cell>TXT</cell>
+                        <cell>normal size</cell>
+                        <cell>alt text</cell>
+                     </row>
+                     <row>
+                        <cell>PDF</cell>
+                        <cell>enlarged and dropped<hi rend="sup">5</hi>
+                        </cell>
+                        <cell>resized and dropped<hi rend="sup">5</hi>
+                        </cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The first argument (mandatory) states the character(s) to replace with caps. It must match the beginning of the next paragraph.</p>
+                  <p rend="justify">The second (optional) argument states the characters to replace with small-caps. It must also match the beginning of the next paragraph.</p>
+                  <lg>
+                     <l>.. clearpage::</l>
+                     <l/>
+                     <l>.. dropcap:: L Lorem ipsum</l>
+                     <l>   :lines: 4</l>
+                     <l>   :indents: -1.25em 0.5em</l>
+                     <l/>
+                     <l>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</l>
+                     <l>nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</l>
+                     <l>erat, sed diam voluptua. At vero eos et accusam et justo duo</l>
+                     <l>dolores et ea rebum. Stet clita kasd gubergren, no sea takimata</l>
+                     <l>sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,</l>
+                     <l>consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt</l>
+                     <l>ut labore et dolore magna aliquyam erat, sed diam voluptua.</l>
+                  </lg>
+                  <p rend="justify">Lorem ipsum  dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                  <p rend="justify">The lines  option (PDF only) specifies how many lines the dropcap should span. Default is 2.</p>
+                  <p rend="justify">The indents  option (PDF only) can specifiy up to 2 length values. The first one is the indent of the first line, the second one the indent of the following lines. The indent is calculated from the right border of the dropcap letter. Defaults are 0em and 0.5em.</p>
+                  <p rend="justify">The image  option specifies the image url. In plain text and EPUB the image will not be used.</p>
+                  <lg>
+                     <l>.. clearpage::</l>
+                     <l/>
+                     <l>.. dropcap:: G</l>
+                     <l>   :image: images/G.png</l>
+                     <l>   :lines: 4</l>
+                     <l/>
+                     <l>Gorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</l>
+                     <l>nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</l>
+                     <l>erat, sed diam voluptua. At vero eos et accusam et justo duo</l>
+                     <l>dolores et ea rebum. Stet clita kasd gubergren, no sea takimata</l>
+                     <l>sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,</l>
+                     <l>consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt</l>
+                     <l>ut labore et dolore magna aliquyam erat, sed diam voluptua.</l>
+                  </lg>
+                  <p rend="justify">[image]</p>
+                  <p rend="justify">orem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+               </div>
+               <div type="div3">
+                  <head>Tables</head>
+                  <p rend="justify">Be careful with tables because the table support of many ereaders is weak or nil.</p>
+                  <p rend="justify">Tables also support these options:</p>
+                  <p>width</p>
+                  <p>Makes the table that wide.</p>
+                  <p>widths</p>
+                  <p>A space-separated list of unitless values, each specifying the relative width of one table column.</p>
+                  <p>If you don’t use the option widths, the column widths are calculated from the layout of the table in your source file.</p>
+                  <p>aligns</p>
+                  <p>Horizontally align the columns.</p>
+                  <p>A space-separated list of alignments, each specifying the alignment of one column.</p>
+                  <p>Valid alignments values are: left, center, right and justify.</p>
+                  <p>vertical-aligns</p>
+                  <p>Vertically align the columns.</p>
+                  <p>A space-separated list of vertical alignments, each specifying the alignment of one column.</p>
+                  <p>Valid alignments values are: top, middle, and bottom.</p>
+                  <p>Note: vertical alignment is fully supported in HTML only. Other formats may support it in varying degrees.</p>
+                  <p>summary  (HTML only.)</p>
+                  <p>Puts a summary attribute on the table element.</p>
+                  <p rend="justify">These are the extra classes supported by PG-RST:</p>
+                  <p>norules</p>
+                  <p>Omits the rules between table rows. (Not the rule between header and body nor the rules at the top and bottom of the table.)</p>
+                  <p>Use this class when the eye can follow the table rows without the aid of rules.</p>
+                  <lg>
+                     <l>.. table:: Demo Table</l>
+                     <l>   :width: 100%</l>
+                     <l>   :align: center</l>
+                     <l>   :widths: 3 1 1 1</l>
+                     <l>   :aligns: justify justify center right</l>
+                     <l>   :vertical-aligns: top middle bottom top</l>
+                     <l>   :summary: This table contains valuable data.</l>
+                     <l/>
+                     <l>   +------------------------+-----------+----------+-----------+</l>
+                     <l>   | Header row, column 1   | Justified | Centered | Price ($) |</l>
+                     <l>   | (header rows optional) |           |          |           |</l>
+                     <l>   +========================+===========+==========+===========+</l>
+                     <l>   | row 1                  | column    |  column  |      1.23 |</l>
+                     <l>   +------------------------+-----------+----------+-----------+</l>
+                     <l>   | row 2                  | col col   |   col    |     45.67 |</l>
+                     <l>   |                        | col col   |          |           |</l>
+                     <l>   |                        | col col   |          |           |</l>
+                     <l>   |                        | col       |          |           |</l>
+                     <l>   +------------------------+-----------+----------+-----------+</l>
+                     <l>   | row 3                  | Cells may span columns.          |</l>
+                     <l>   |                        | Lorem ipsum dolor sit amet,      |</l>
+                     <l>   |                        | consetetur sadipscing elitr, sed |</l>
+                     <l>   |                        | nonumy eirmod tempor invidunt ut |</l>
+                     <l>   |                        | labore et dolore magna aliquyam  |</l>
+                     <l>   |                        | sed diam voluptua. At vero eos   |</l>
+                     <l>   |                        | accusam et justo duo dolores et  |</l>
+                     <l>   |                        | rebum.                           |</l>
+                     <l>   +------------------------+-----------+----------+-----------+</l>
+                     <l>   | Cells may span rows and            | Cells    | row 4     |</l>
+                     <l>   | columns. Lorem ipsum dolor sit     | may span +-----------+</l>
+                     <l>   | amet, consetetur adipiscing.       | rows.    | row 5     |</l>
+                     <l>   +------------------------------------+----------+-----------+</l>
+                  </lg>
+                  <p rend="justify">Demo Table</p>
+                  <p rend="justify">Header row, column 1 (header rows optional)</p>
+                  <p rend="justify">Justified</p>
+                  <p rend="justify">Centered</p>
+                  <p rend="justify">Price ($)</p>
+                  <p rend="justify">row 1</p>
+                  <p rend="justify">column</p>
+                  <p rend="justify">column</p>
+                  <p rend="justify">1.23</p>
+                  <p rend="justify">row 2</p>
+                  <p rend="justify">col col col col col col col</p>
+                  <p rend="justify">col</p>
+                  <p rend="justify">45.67</p>
+                  <p rend="justify">row 3</p>
+                  <p rend="justify">Cells may span columns. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam sed diam voluptua. At vero eos accusam et justo duo dolores et rebum.</p>
+                  <p rend="justify">Cells may span rows and columns. Lorem ipsum dolor sit amet, consetetur adipiscing.</p>
+                  <p rend="justify">Cells may span rows.</p>
+                  <p rend="justify">row 4</p>
+                  <p rend="justify">row 5</p>
+                  <lg>
+                     <l>.. table:: Truth table for “and”</l>
+                     <l>   :class: norules</l>
+                     <l>   :align: center</l>
+                     <l>   :width: 50%</l>
+                     <l/>
+                     <l>   ===== ===== =========</l>
+                     <l>     A     B    A and B</l>
+                     <l>   ===== ===== =========</l>
+                     <l>   False False False</l>
+                     <l>   True  False False</l>
+                     <l>   False True  False</l>
+                     <l>   True  True  True</l>
+                     <l>   ===== ===== =========</l>
+                  </lg>
+                  <p>  Truth table for “and”</p>
+                  <table rend="frame" xml:id="Table9">
+                     <row role="label">
+                        <cell rend="start bold">A</cell>
+                        <cell rend="start bold">B</cell>
+                        <cell rend="start bold">A and B</cell>
+                     </row>
+                     <row>
+                        <cell>False</cell>
+                        <cell>False</cell>
+                        <cell>False</cell>
+                     </row>
+                     <row>
+                        <cell>True</cell>
+                        <cell>False</cell>
+                        <cell>False</cell>
+                     </row>
+                     <row>
+                        <cell>False</cell>
+                        <cell>True</cell>
+                        <cell>False</cell>
+                     </row>
+                     <row>
+                        <cell>True</cell>
+                        <cell>True</cell>
+                        <cell>True</cell>
+                     </row>
+                  </table>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PG Metadata</head>
+               <div type="div3">
+                  <head>Top Boilerplate</head>
+                  <p rend="justify">This section explains the PG boilerplate that you must put at the top of your PG-RST file.</p>
+                  <p rend="justify">It looks like this:</p>
+                  <lg>
+                     <l>.. -*- encoding: utf-8 -*-      (1)</l>
+                     <l/>
+                     <l>.. meta::                       (2)</l>
+                     <l>    :PG.Id: 181</l>
+                     <l>    :PG.Title: Very Short Title</l>
+                     <l>    :PG.Released: 2010-11-25</l>
+                     <l>    :PG.Rights: Public Domain</l>
+                     <l>    :PG.Producer: Woody Guthrie</l>
+                     <l>    :PG.Producer: Pete Seeger</l>
+                     <l>    :PG.Producer: The Almanac Singers</l>
+                     <l>    :PG.Credits: This file was produced from images stolen from the Louvre.</l>
+                     <l>    :DC.Creator: Jane Austen</l>
+                     <l>    :MARCREL.edt: Mark Twain</l>
+                     <l>    :MARCREL.ill: Édouard Manet</l>
+                     <l>    :DC.Title: Full Title Statement</l>
+                     <l>    :DC.Language: en</l>
+                     <l>    :DC.Language: fr</l>
+                     <l>    :DC.Language: de</l>
+                     <l>    :DC.Created: 1900</l>
+                     <l>    :coverpage: images/cover.jpg</l>
+                     <l/>
+                     <l/>
+                     <l>===========</l>
+                     <l>Short Title                     (3)</l>
+                     <l>===========</l>
+                     <l/>
+                     <l>.. pgheader::                   (4)</l>
+                  </lg>
+                  <list rend="numbered">
+                     <item>Insert this line verbatim. It must be the first line in the text.<hi rend="sup">6</hi>  This tells the converter to use UTF-8 encoding and is also recognized by many editors.</item>
+                     <item>The metadata directive: see section below.</item>
+                     <item>This will be the first line of the generated files. It should say: “The Project Gutenberg Ebook of Title” or just “Title”. Use ’=’ above and below the title.</item>
+                     <item>This directive inserts the PG header as generated from the metadata.</item>
+                  </list>
+               </div>
+               <div type="div3">
+                  <head>Metadata Directive</head>
+                  <p rend="justify">The metadata directive contains all data that is used to generate the PG header and the PG catalog entry.</p>
+                  <p rend="justify">The scheme is the part before the dot.</p>
+                  <div type="div4">
+                     <head>PG Scheme</head>
+                     <p rend="justify">The PG scheme holds data that is relevant to Project Gutenberg only.</p>
+                     <p> Fields In the PG Scheme</p>
+                     <table rend="frame" xml:id="Table10">
+                        <row role="label">
+                           <cell rend="start bold">Name</cell>
+                           <cell rend="start bold">Contents</cell>
+                        </row>
+                        <row>
+                           <cell>PG.Id</cell>
+                           <cell>The ebook number.</cell>
+                        </row>
+                        <row>
+                           <cell>PG.Released</cell>
+                           <cell>The PG release date in YYYY-MM-DD format.</cell>
+                        </row>
+                        <row>
+                           <cell>PG.Rights</cell>
+                           <cell>Either ’Public Domain’ or ’Copyrighted’.</cell>
+                        </row>
+                        <row>
+                           <cell>PG.Title</cell>
+                           <cell>A much shortened form of the title. Used in the PG boilerplate in the lines that say: “Start of this PG ebook …” and “End of this PG ebook …”.</cell>
+                        </row>
+                        <row>
+                           <cell>PG.Producer</cell>
+                           <cell>A personal name or organization that helped produce this text. This field may appear more than once. Don’t put more than one name into one field. Repeat the field if necessary.</cell>
+                        </row>
+                        <row>
+                           <cell>PG.Credits</cell>
+                           <cell>A line acknowledging the source of the images or other stuff.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>DC Scheme</head>
+                     <p rend="justify">This scheme holds standard Dublincore stuff and is used by many search engines and the PG cataloguing software.</p>
+                     <p> Fields In the DC Scheme</p>
+                     <table rend="frame" xml:id="Table11">
+                        <row role="label">
+                           <cell rend="start bold">Name</cell>
+                           <cell rend="start bold">Contents</cell>
+                        </row>
+                        <row>
+                           <cell>DC.Creator</cell>
+                           <cell>Author. A personal name or organization that created the text. May appear more than once. Don’t put more than one name into one field. Repeat the field if necessary.</cell>
+                        </row>
+                        <row>
+                           <cell>DC.Title</cell>
+                           <cell>The full title statement as found on the book’s title page.</cell>
+                        </row>
+                        <row>
+                           <cell>DC.Language</cell>
+                           <cell>The 2 or 3 letter code for all languages used for substantial portions of the text. May appear more than once. Don’t put more than one code into one field. Repeat the field if necessary. The languages listed here are indicative for the catalog and do not set the text language and hyphenation rules. Use the option class  language-&lt;language-code&gt; for that.</cell>
+                        </row>
+                        <row>
+                           <cell>DC.Created</cell>
+                           <cell>The year of original publication if known.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>MARCREL Scheme</head>
+                     <p rend="justify">This is used to record contributors to the text. All these fields may appear more than once. Don’t put more than one name into one field. Repeat the field if necessary.</p>
+                     <p> Fields In the MARCREL Scheme</p>
+                     <table rend="frame" xml:id="Table12">
+                        <row role="label">
+                           <cell rend="start bold">Name</cell>
+                           <cell rend="start bold">Contents</cell>
+                        </row>
+                        <row>
+                           <cell>MARCREL.edt</cell>
+                           <cell>Editor</cell>
+                        </row>
+                        <row>
+                           <cell>MARCREL.ill</cell>
+                           <cell>Illustrator</cell>
+                        </row>
+                        <row>
+                           <cell>MARCREL.trl</cell>
+                           <cell>Translator</cell>
+                        </row>
+                        <row>
+                           <cell>MARCREL.*</cell>
+                           <cell>See the <ref target="http://www.loc.gov/marc/relators/relacode.html">full list of MARC relator codes</ref>.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>No Scheme</head>
+                     <p rend="justify">Some fields are associated with none of the above schemes.</p>
+                     <p> Fields Without Scheme</p>
+                     <table rend="frame" xml:id="Table13">
+                        <row role="label">
+                           <cell rend="start bold">Name</cell>
+                           <cell rend="start bold">Contents</cell>
+                        </row>
+                        <row>
+                           <cell>coverpage</cell>
+                           <cell>A coverpage for those formats (eg. Kindle) that support a cover page. This image must be included in the upload but must not necessarily be put in the text flow.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>Bottom Boilerplate</head>
+                  <p rend="justify">You must put this at the very bottom of your PG-RST file.</p>
+                  <p rend="justify">.. pgfooter::     (1)</p>
+                  <list rend="numbered">
+                     <item>This directive inserts the PG footer and license.</item>
+                  </list>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PG-RST Best Practices</head>
+               <p rend="justify">Images</p>
+               <p rend="justify">Specify a width  option in images and a figwidth  option in figures and express it in percent.</p>
+               <p rend="justify">If you don’t specify a width, the converter will calculate the width percentile for you, using the formula:</p>
+               <p rend="justify">image_width / (980px * 0.8) * 100</p>
+               <p rend="justify">(980px is the approx. wide of a browser window with scrollbar on a 1024px wide screen, 0.8 are 10% margins left and right.)</p>
+               <p rend="justify">Expressing the image size relative to the screen width is the best way to get images right on a wide variety of devices form iPhones to print.</p>
+               <lg>
+                  <l>.. toc-entry:: Richard and Drucilla Martin</l>
+                  <l/>
+                  <l>.. figure:: images/cover.jpg</l>
+                  <l>   :align: center</l>
+                  <l>   :alt: Richard and Drucilla Martin</l>
+                  <l/>
+                  <l>   :lb:`Richard Martin was a slave in Memphis, Tennessee.</l>
+                  <l>   Drucilla Martin was a slave in Giles County, Tennessee.`</l>
+                  <l/>
+                  <l>   The legend consists of all elements after the caption.  Lorem</l>
+                  <l>   ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</l>
+                  <l>   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</l>
+                  <l>   erat, sed diam voluptua. At vero eos et accusam et justo duo</l>
+                  <l>   dolores et ea rebum.</l>
+               </lg>
+               <p rend="justify">[image]</p>
+               <p rend="justify">Richard Martin was a slave in Memphis, Tennessee.<lb/>Drucilla Martin was a slave in Giles County, Tennessee.</p>
+               <p rend="justify">The legend consists of all elements after the caption. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
+               <p rend="justify">[pg!2]</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Tests and Examples</head>
+               <p rend="justify">Notice</p>
+               <p rend="justify">The rest of this file contains tests. You may look at the RST source to learn how things are done.</p>
+               <p rend="justify">A generated local table of contents:</p>
+               <list rend="bulleted">
+                  <item>Section 3.1</item>
+                  <item>Section 3.2</item>
+                  <item>Section 3.3</item>
+               </list>
+               <p rend="justify">A local table of contents as highlights:</p>
+               <p rend="justify">Kingston — Instructive remarks on early English history — Instructive observations on carved oak and life in general — Sad case of Stivvings, junior — Musings on antiquity — I forget that I am steering — Interesting result — Hampton Court Maze — Harris as a guide.</p>
+               <p rend="justify">ÄÖÜ äöüß Æsop Œdipus cœr. Đ. †‡ ｳ. §2.1</p>
+               <p rend="justify">‘’ ‚‛ “ ” ‹› em — en –.</p>
+               <p rend="justify">“ ‘Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.’ ”</p>
+               <p rend="justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. [pg 3] At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+               <p rend="justify">————</p>
+               <p rend="justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+               <p rend="justify">[pg 4]</p>
+               <p rend="justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+               <lg>
+                  <l>‘Speak roughly to your little boy,</l>
+                  <l>And beat him when he sneezes:</l>
+                  <l>He only does it to annoy,</l>
+                  <l>Because he knows it teases.’</l>
+               </lg>
+               <p rend="justify"> </p>
+               <p rend="justify">CHORUS.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">(In which the cook and the baby joined):—</p>
+               <p rend="justify"> </p>
+               <lg>
+                  <l>‘Wow! wow! wow!’</l>
+                  <l>Summer wanes, the children are grown;</l>
+                  <l>Fun and frolic no more he knows;</l>
+                  <l>Robert of Lincoln’s a humdrum crone;</l>
+                  <l>Off he flies and we sing as he goes:</l>
+                  <l>Bob-o’link, bob-o’-link,</l>
+                  <l>Spink, spank, spink;</l>
+                  <l>When you can pipe that merry old strain,</l>
+                  <l>Robert of Lincoln, come back again.</l>
+                  <l>Chee, chee, chee.</l>
+                  <l>And now a quote by Lorem Ipsum:</l>
+               </lg>
+               <p rend="justify">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita [pg 5] kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+               <p rend="justify">—— Lorem Ipsum</p>
+               <p rend="justify">[pg 7]</p>
+               <div type="div3">
+                  <head>Section 3.1</head>
+                  <p rend="justify">I pity the man who can travel from Dan to Beersheba, and say “’Tis all barren;” and so is all the world to him who will not cultivate the fruits it offers.</p>
+                  <p rend="justify">—— Sterne: Sentimental Journey.</p>
+                  <p rend="justify">Simple List with hyphens</p>
+                  <list rend="bulleted">
+                     <item>Wash left ear.</item>
+                     <item>Wash right ear.</item>
+                     <item>Brush teeth.</item>
+                  </list>
+                  <p rend="justify">Simple List with bullets</p>
+                  <list rend="bulleted">
+                     <item>Wash left ear.</item>
+                     <item>Wash right ear.</item>
+                     <item>Brush teeth.</item>
+                  </list>
+                  <p rend="justify">Nested List</p>
+                  <list rend="numbered">
+                     <item>Item 1. <list rend="bulleted">
+                           <item>Item 1a.</item>
+                           <item>Item 1b. <list rend="bulleted">
+                                 <item>Item 1.a.I</item>
+                                 <item>Item 1.a.II</item>
+                                 <item>Item 1.a.III</item>
+                                 <item>Item 1.a.IV</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list rend="bulleted">
+                           <item>
+                              <list rend="bulleted">
+                                 <item>Item 2.A.i [pg 8]</item>
+                                 <item>Item 2.A.ii</item>
+                              </list>
+                           </item>
+                           <item>
+                              <list rend="bulleted">
+                                 <item>Item 2.B.i</item>
+                                 <item>Item 2.B.ii</item>
+                                 <item>Item 2.B.iii</item>
+                              </list>
+                           </item>
+                           <item>Item 2.C</item>
+                        </list>
+                     </item>
+                     <item>Item 3.</item>
+                  </list>
+                  <p rend="justify">Definition List</p>
+                  <p>term</p>
+                  <p>Definition.</p>
+                  <p>term 2</p>
+                  <p>Definition 2</p>
+                  <p>Definition 2 paragraph 2.</p>
+                  <p>long term 3</p>
+                  <p>Definition 3</p>
+                  <p rend="justify">Option List (not used by PG)</p>
+                  <p rend="justify">-a</p>
+                  <p rend="justify">command-line option "a"</p>
+                  <p rend="justify">-1 file, --one=file, --two file</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">Multiple options with arguments.</p>
+                  <p rend="justify">[pg 123]</p>
+               </div>
+               <div type="div3">
+                  <head>Section 3.2<hi rend="sup">7</hi>
+                  </head>
+                  <p rend="justify">Some text so this section isn’t empty.</p>
+               </div>
+               <div type="div3">
+                  <head>Section 3.3</head>
+                  <p rend="justify">THE MAN WHO PLEASES.</p>
+                  <p rend="justify">The dearest friend to me, the kindest man,</p>
+                  <p rend="justify">The best-conditioned and unwearied spirit</p>
+                  <p rend="justify">In doing courtesies.</p>
+                  <p rend="justify">—— Merchant of Venice.</p>
+                  <p rend="justify">He hath a daily beauty in his life.</p>
+                  <p rend="justify">—— Othello.</p>
+                  <p rend="justify">Such a man would win any woman in the world</p>
+                  <p rend="justify">if a’ could get her good will.</p>
+                  <p rend="justify">—— Much Ado About Nothing.</p>
+                  <p rend="justify">There are few subjects of deeper interest to men and women than that of personal fascination,</p>
+                  <p rend="justify">«Ora si comincia per quelli di fuori e per quelli di dentro a far grandissima e crudel guerra.»</p>
+                  <p rend="justify">Istorie pistolesi.</p>
+                  <p rend="justify">TABLE 8 Types of Computers Used in the Systems Reported</p>
+                  <p rend="justify">Type</p>
+                  <p rend="justify">Number</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">ASI 210</p>
+                  <p rend="justify">1</p>
+                  <p rend="justify">(3)</p>
+                  <p rend="justify">ASI 2100</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">CDC 160A</p>
+                  <p rend="justify">2</p>
+                  <p rend="justify">(3)</p>
+                  <p rend="justify">CDC 3100</p>
+                  <p rend="justify">1</p>
+                  <lg>
+                     <l>total computer cost                   0.22 ± 0.06 by averaging</l>
+                     <l>------------------------  =  0.23 -&gt;  separate ratios for each</l>
+                     <l>cost of bare accelerator              system</l>
+                  </lg>
+                  <p rend="justify">[pg!10]</p>
+                  <div type="div4">
+                     <head>Footnotes</head>
+                     <table rend="frame" xml:id="Table14">
+                        <row>
+                           <cell>[1]</cell>
+                           <cell>Not even print the section title.</cell>
+                        </row>
+                     </table>
+                     <table rend="frame" xml:id="Table15">
+                        <row>
+                           <cell>[2]</cell>
+                           <cell>Another footnote, to test how multiple footnotes<hi rend="sup">4</hi> stack on one page.</cell>
+                        </row>
+                     </table>
+                     <table rend="frame" xml:id="Table16">
+                        <row>
+                           <cell>[3]</cell>
+                           <cell>
+                              <p>Later editions continued as follows:</p>
+                              <lg>
+                                 <l>When the sands are all dry, he is gay as a lark,</l>
+                                 <l>And will talk in contemptuous tones of the Shark,</l>
+                                 <l>But, when the tide rises and sharks are around,</l>
+                                 <l>His voice has a timid and tremulous sound.</l>
+                              </lg>
+                           </cell>
+                        </row>
+                     </table>
+                     <table rend="frame" xml:id="Table17">
+                        <row>
+                           <cell>[4]</cell>
+                           <cell>Gibbon test. A footnote inside a footnote.</cell>
+                        </row>
+                     </table>
+                     <table rend="frame" xml:id="Table18">
+                        <row>
+                           <cell>[5]</cell>
+                           <cell>
+                              <p>
+                                 <hi rend="italic">(</hi>
+                                 <hi rend="italic">1</hi>
+                                 <hi rend="italic">, </hi>
+                                 <hi rend="italic">2</hi>
+                                 <hi rend="italic">)</hi>
+                              </p>
+                              <p>
+                                 <hi rend="italic">Warning:</hi>  If a paragraph with a dropcap gets page-broken the dropcap may stick into the page bottom. Avoid dropcaps unless you are sure that you are at the top of a page, like at a chapter start.</p>
+                           </cell>
+                        </row>
+                     </table>
+                     <table rend="frame" xml:id="Table19">
+                        <row>
+                           <cell>[6]</cell>
+                           <cell>A unicode BOM is allowed before this. In fact most Windows editors will add a BOM without asking you.</cell>
+                        </row>
+                     </table>
+                     <table rend="frame" xml:id="Table20">
+                        <row>
+                           <cell>[7]</cell>
+                           <cell>This title contains a footnote reference. The footnote reference will not show up in the TOC.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">[pg 99]</p>
+                     <p rend="justify">Transcriber’s Note</p>
+                     <p rend="justify">Minor spelling errors have been silently corrected.</p>
+                     <p rend="justify">Hyphenation has been made consistent.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

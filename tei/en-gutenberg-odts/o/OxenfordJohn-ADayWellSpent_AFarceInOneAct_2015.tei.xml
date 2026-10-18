@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Day Well Spent: A Farce, in One Act</title>
+            <author>John Oxenford</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T14:45:12Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/o/OxenfordJohn-ADayWellSpent_AFarceInOneAct_2015.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>John Oxenford</name>
+               <date>2024-01-04T14:45:12Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>A Day Well Spent: A Farce, in One Act</head>
+         <author>John Oxenford</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/o/OxenfordJohn-ADayWellSpent_AFarceInOneAct_2015.odt</p>
+         <p>A DAY WELL SPENT</p>
+         <p>Dedication</p>
+         <p>Dramatis Personæ</p>
+         <p>SCENE I.—<hi rend="italic">A Room in</hi> COTTON’S <hi rend="italic">house.</hi>
+         </p>
+         <p>SCENE II.—<hi rend="italic">Street.</hi>
+         </p>
+         <p>SCENE III.—<hi rend="italic">Room at</hi> MRS. STITCHLEY’S.</p>
+         <p>SCENE IV.—<hi rend="italic">A Room at an Inn.</hi>
+         </p>
+         <p>SCENE V.—<hi rend="italic">Chamber.</hi>
+         </p>
+         <p>SCENE VI.—<hi rend="italic">Room at</hi> MRS. CHARGELY’S.</p>
+         <p>SCENE VII.—MRS. CHARGELY’S <hi rend="italic">Garden.</hi>
+         </p>
+         <p>SCENE VIII.—<hi rend="italic">Outside of Shop.</hi>
+         </p>
+         <p>SCENE IX.—<hi rend="italic">Chamber.</hi>
+         </p>
+         <p>Transcriber’s Note</p>
+         <p>A<lb/>DAY WELL SPENT:</p>
+         <p>
+            <hi rend="italic">A Farce</hi>,</p>
+         <p>IN ONE ACT.</p>
+         <p>BY</p>
+         <p>JOHN OXENFORD,</p>
+         <p>MEMBER OF THE “DRAMATIC AUTHOR’S SOCIETY;”</p>
+         <p>AUTHOR OF</p>
+         <p>“MY FELLOW CLERK,” “I AND MY DOUBLE,” “THE DICE OF DEATH,” “TWICE KILLED,” ETC.</p>
+         <p>FIRST PERFORMED AT THE</p>
+         <p>THEATRE ROYAL, ENGLISH OPERA HOUSE,</p>
+         <p>
+            <hi rend="italic">APRIL</hi>  4<hi rend="italic">th</hi>, 1835.</p>
+         <p>LONDON:</p>
+         <p>JOHN MILLER, HENRIETTA STREET,</p>
+         <p>COVENT GARDEN.</p>
+         <p>1836.</p>
+         <p>LONDON:</p>
+         <p>T. C. SAVILL, PRINTER, ST. MARTIN’S LANE,</p>
+         <p>CHARING CROSS.</p>
+         <p>TO</p>
+         <p>B. WRENCH, ESQ.</p>
+         <p>MY DEAR SIR,</p>
+         <p>It is with the greatest pleasure, I dedicate to you a Farce, the success of which is so much to be attributed to your exertions. Accept my most hearty thanks for your inimitable performance of the principal character in this piece, as well as for the kind attention you have paid to my previous productions, and the pains you have taken to render them acceptable to the public.</p>
+         <p>I remain, dear Sir,</p>
+         <p>Yours very truly,</p>
+         <p>JOHN OXENFORD.</p>
+         <p>16, John Street, Bedford Row.</p>
+         <pb/>
+         <div type="div1">
+            <head>A Day Well Spent: A Farce, in One Act</head>
+            <pb/>
+            <div type="div2">
+               <head>DRAMATIS PERSONÆ.</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell>Mr. Cotton (<hi rend="italic">an eminent hosier, and old gentleman</hi>)</cell>
+                     <cell>MR. BENNETT.</cell>
+                  </row>
+                  <row>
+                     <cell>Bolt (<hi rend="italic">his foreman, quite a gentleman</hi>)</cell>
+                     <cell>MR. WRENCH.</cell>
+                  </row>
+                  <row>
+                     <cell>Mizzle (<hi rend="italic">his apprentice, wishing to be a gentleman</hi>)</cell>
+                     <cell>MR. OXBERRY.</cell>
+                  </row>
+                  <row>
+                     <cell>Mr. Cutaway (<hi rend="italic">an adventurous gentleman</hi>)</cell>
+                     <cell>MR. HEMMING.</cell>
+                  </row>
+                  <row>
+                     <cell>Sam Newgate (<hi rend="italic">no gentleman</hi>)</cell>
+                     <cell>MR. ROMER.</cell>
+                  </row>
+                  <row>
+                     <cell>Peter Prig (<hi rend="italic">an ex-foreman, likewise no gentleman</hi>)</cell>
+                     <cell>MR. SANDERS.</cell>
+                  </row>
+                  <row>
+                     <cell>Coachman</cell>
+                     <cell>MR. IRELAND.</cell>
+                  </row>
+                  <row>
+                     <cell>Waiter</cell>
+                     <cell>MR. LEWIS.</cell>
+                  </row>
+                  <row>
+                     <cell>Miss Harriet Cotton (<hi rend="italic">an adventurous lady</hi>)</cell>
+                     <cell>MISS SHAW.</cell>
+                  </row>
+                  <row>
+                     <cell>Mrs. Stitchley (<hi rend="italic">an old lady</hi>)</cell>
+                     <cell>MRS. EMDEN.</cell>
+                  </row>
+                  <row>
+                     <cell>Miss Brown (<hi rend="italic">her bosom friend—a middle-aged lady</hi>)</cell>
+                     <cell>MRS. F. MATTHEWS.</cell>
+                  </row>
+                  <row>
+                     <cell>Mrs. Chargely (<hi rend="italic">a beneficent lady</hi>)</cell>
+                     <cell>MISS ROBINSON.</cell>
+                  </row>
+                  <row>
+                     <cell>Bridget (<hi rend="italic">a lady’s lady</hi>)</cell>
+                     <cell>MISS JACKSON.</cell>
+                  </row>
+               </table>
+               <div type="div3">
+                  <head>A DAY WELL SPENT.</head>
+                  <div type="div4">
+                     <head>SCENE I.</head>
+                     <p rend="justify">
+                        <hi rend="italic">A Room in</hi> COTTON’S <hi rend="italic">house;—an open door in</hi> C. <hi rend="italic">flat.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  COTTON, <hi rend="italic">with a letter.</hi>
+                     </p>
+                     <p rend="justify">COT. Provoking! to leave my shop all day for the sake of calling on this old Wealthington!—that I should be required to call on him!—not but he is a rich relation, and I have great expectations from him; and my foreman, Bolt, and apprentice Mizzle, are quite fit persons with whom to entrust my shop. Egad, to make all the naughty apprentices look on those two young men would be as good a lesson as going to see George Barnwell on a boxing night!</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  CUTAWAY, C. D.</p>
+                     <p rend="justify">CUT. Hollo! no one in the shop! ha, ha!—(<hi rend="italic">Aside.</hi>) Hum, she’s not here.—Have you anything to sell, old gentleman?</p>
+                     <p rend="justify">COT. Of course I have; what do you think I keep a shop for?</p>
+                     <p rend="justify">CUT. Ha, ha! right! to be sure—what the devil else <hi rend="italic">should</hi>  you keep a shop for?</p>
+                     <p rend="justify">COT. (<hi rend="italic">Aside.</hi>) Puppy!</p>
+                     <p rend="justify">CUT. But, old gentleman! a young lady used to serve in that shop—she is not ill, I hope?</p>
+                     <p rend="justify">COT. No, sir; on the contrary, my daughter is quite well.—Can I do anything for you in the way of business?</p>
+                     <p rend="justify">CUT. (<hi rend="italic">Aside.</hi>) Oh! this must be the old father she talks about.—Ha! you are the commander-in-chief of this concern, hey?</p>
+                     <p rend="justify">COT. Probably I am, Mr. Cutaway.</p>
+                     <p rend="justify">CUT. Cutaway! you know me, then? What a thing it is to be famous! Know me, and yet you were never introduced to me, to my knowledge.</p>
+                     <p rend="justify">COT. Oh dear no; I used to see you through the glass door of my parlour, and I intercepted certain letters to my daughter. I saw your name, and I inquired into your connexion,—and saw no reason why I should not—cut the connexion.</p>
+                     <p rend="justify">CUT. Very cutting, indeed. He’s a sharp blade. Ha, ha! droll! funny! ha, ha!</p>
+                     <p rend="justify">COT. Happy to find I can please you, sir; I thus return good for evil, since you by no means please me.</p>
+                     <p rend="justify">CUT. Is there any way to please you?</p>
+                     <p rend="justify">COT. Oh, certainly; the way to please me lies through yonder door: you can’t think how prettily that door is painted on the outside. As for my daughter, sir,—I keep her present abode a secret.</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  BOY, L.</p>
+                     <p rend="justify">BOY. Please, sir, your sister sent me to say that she, with your daughter, has been obliged to move to No. 19, Moonlight Street, owing to circumstances of the most peculiar nature.</p>
+                     <p rend="justify">CUT. Ha, ha, ha! a most profound secret! Good by, commander-in-chief! next time you have a secret, mind you don’t tell it by proxy.</p>
+                     <p rend="justify">(<hi rend="italic">Exit</hi>, C. D.)</p>
+                     <p rend="justify">COT. Stupid jackanapes! you must open your damned mouth so wide as to let the cat jump out! (<hi rend="italic">Exit</hi>  BOY, L.)—A connexion of which I do not in the least approve;—but—oh, those fellows are at breakfast—Bolt! Mizzle!</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  BOLT <hi rend="italic">and</hi>  MIZZLE, R.</p>
+                     <p rend="justify">BOLT. Yes, sir.</p>
+                     <p rend="justify">COT. Listen!—pressing business obliges me to be absent till late to-night; I leave the shop to your care.</p>
+                     <p rend="justify">BOLT. Thank’e, sir.</p>
+                     <p rend="justify">MIZ. For your confidence, sir.</p>
+                     <p rend="justify">COT. Which I know is not misplaced. (BOLT <hi rend="italic">and</hi>  MIZZLE <hi rend="italic">bow.</hi>)—On no account leave the premises.</p>
+                     <p rend="justify">BOLT. Now, my dear sir, was not that request superfluous?</p>
+                     <p rend="justify">MIZ. Of course, sir, without leave, we should never leave the shop.</p>
+                     <p rend="justify">COT. You will excuse my mentioning it, however. All foremen and apprentices are—alas! not like you. There are several very wicked foremen and apprentices in the world.</p>
+                     <p rend="justify">BOLT. Ah, I have heard so—I have read so—but never met any.</p>
+                     <p rend="justify">MIZ. No; Bolt and I are very particular with whom we associate: evil communications, you know, sir——</p>
+                     <p rend="justify">COT. Right! Very correct, indeed. Robert Mizzle, if you always associate with such as Charles Bolt, you will doubtless at length reach an elevated post.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) Elevated post! I wonder if he means the gallows?</p>
+                     <p rend="justify">BOLT. You flatter me, sir—you flatter me. I discharge my duty, sir, nothing else;—to be sure, taking care of the morals of this young man——</p>
+                     <p rend="justify">COT. Is a heavy charge;—I am aware of it. But I must go. Farewell, Bolt! Good by, Mizzle! Excellent steady creatures! Oh, were all like them, the tragedy of George Barnwell would never have been written.</p>
+                     <p rend="justify">(<hi rend="italic">Exit</hi>, L. H.)</p>
+                     <p rend="justify">BOLT. Ha, ha, ha! why don’t you laugh, Mizzle?</p>
+                     <p rend="justify">MIZ. Because I don’t see any joke.</p>
+                     <p rend="justify">BOLT. Then look at me—I’m a perpetual joke!—I’m all point, like a porcupine—all fire, like a poet’s heart, and light as his breeches pocket. Old Cotton has gone out all day—ha, ha! don’t you take? don’t you twig? A’n’t you fly? A’n’t you awake?</p>
+                     <p rend="justify">MIZ. Yes, I’m awake, but I don’t see.</p>
+                     <p rend="justify">BOLT. We are to mind the shop, are we? I say never mind it—let’s go out.</p>
+                     <p rend="justify">MIZ. Nonsense! you know master and we are like a man and woman in a weather-house—when one goes out the other stays at home.</p>
+                     <p rend="justify">BOLT. And so, when the old man’s back is turned, we are to shew our heads are turned, by stopping in the shop all day—selling check’d neck-handkerchiefs and baby’s red stockings? Not we!—we’ll go out and have some fun, Bobby.</p>
+                     <p rend="justify">MIZ. No, no! it wont do; we must take care of the shop.</p>
+                     <p rend="justify">BOLT. Now look ye,—how does master take care of his money?</p>
+                     <p rend="justify">MIZ. By locking it up.</p>
+                     <p rend="justify">BOLT. Then that’s the way we’ll take care of the shop—I’ll lock the door, and you shall shut the shutters.</p>
+                     <p rend="justify">MIZ. Oh, come, come! I sha’n’t go, nor you sha’n’t, either. It wont do, Charley; better be boxed here, than get in the wrong box.</p>
+                     <p rend="justify">BOLT. Well, I’ve made up my mind; the next job is to make up my body: I must dress.</p>
+                     <p rend="justify">MIZ. Well, you may enjoy your own holiday. Pleasant day, and fine weather to you, and a prosperous return;—I sha’n’t go.</p>
+                     <p rend="justify">BOLT. You have no grandeur of soul—you don’t love fun.</p>
+                     <p rend="justify">MIZ. Come, don’t say that; damn it, I live upon fun—he, he!—you know I do. Give us your hand, Charley. I’ll go! Oh dear, a day’s pleasure!</p>
+                     <p rend="justify">BOLT. You’ll go, will you?</p>
+                     <p rend="justify">MIZ. Give us your hand.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Takes his hand.</hi>) Here’s off for fun, then!</p>
+                     <p rend="justify">(<hi rend="italic">Exeunt</hi>, R.)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCENE II.</head>
+                     <p rend="justify">Street—A porch projecting from flat; on the door is a plate inscribed, “Mrs. Stitchley, dress-maker.”</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  CUTAWAY, <hi rend="italic">followed by</hi>  HARRIET, L.H. 1 E.</p>
+                     <p rend="justify">CUT. This way, this way, charming Harriet; your aunt has not missed you yet; but she soon will; she is now so taken up with her ribbons and beautiful purchases, that she is thinking but little of her beautiful niece.</p>
+                     <p rend="justify">HAR. But this step—</p>
+                     <p rend="justify">CUT. Stands before your prison door—your only step is flight.</p>
+                     <p rend="justify">HAR. A flight of steps, each one more imprudent than the last. And what awaits me on my descent?</p>
+                     <p rend="justify">CUT. Love, who will be your guide?</p>
+                     <p rend="justify">HAR. A pretty guide—he is blind himself.</p>
+                     <p rend="justify">CUT. True, but there is no resisting him. Love is a <hi rend="italic">torrent</hi>—and his blindness is a <hi rend="italic">cataract</hi>. Come, come! the banns have been put up for the last month, at Croydon Church—the ring is in my waistcoat pocket—I’ve appointed a father to give you away.</p>
+                     <p rend="justify">HAR. Father? I haven’t seen him.</p>
+                     <p rend="justify">CUT. Probably not, for though <hi rend="italic">a father</hi>, he is not yet <hi rend="italic">apparent</hi>. All is right;—away! fly! when they say love is blind, they only mean he closes his eyes to transgressions like ours.</p>
+                     <p rend="justify">(<hi rend="italic">Exeunt</hi>, R.H.)</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  BOLT <hi rend="italic">and</hi>  MIZZLE, <hi rend="italic">smartly dressed</hi>, L.H.</p>
+                     <p rend="justify">BOLT. Well, here we are—out!</p>
+                     <p rend="justify">MIZ. Yes, out in our reckoning, may be.</p>
+                     <p rend="justify">BOLT. And don’t I look well? A’n’t I the thing? Nothing like the shop, eh? Nothing against me?—nothing <hi rend="italic">counter?</hi>
+                     </p>
+                     <p rend="justify">MIZ. No, we have sunk the shop, with a vengeance! Hatchment, the undertaker, will be calling to know if master’s dead.</p>
+                     <p rend="justify">BOLT. Well, but where shall we go?</p>
+                     <p rend="justify">MIZ. I’m afraid we’ve gone too far already.</p>
+                     <p rend="justify">BOLT. Zounds! man, don’t keep watering my spirits in that way; and don’t pull down the corners of your mouth, and make it look like a horseshoe on its legs. Laugh at our setting out, at least.</p>
+                     <p rend="justify">MIZ. Ha! ha! ha! I will, for I’m thinking there will be devilish little chance of laughing when we return. Eh—what’s that? (<hi rend="italic">Looking off</hi>, R.H.)</p>
+                     <p rend="justify">BOLT. What are you staring at now?</p>
+                     <p rend="justify">MIZ. Don’t you see something like an old man?</p>
+                     <p rend="justify">BOLT. Lord bless you, Bobby! it’s the young women I always look at, not the old men.</p>
+                     <p rend="justify">MIZ. That old man may look at you, notwithstanding. Oh! he draws nearer.—Oh, the devil! it’s the old gentleman—master, I mean.</p>
+                     <p rend="justify">BOLT. Eh, that’s the hat;—his castor’s an unlucky star;—those are his unmentionables. We’ll turn down the next street.</p>
+                     <p rend="justify">MIZ. But this damned street has no turning for the next quarter of a mile! Confound it! you must be so fond of enjoying yourself.</p>
+                     <p rend="justify">BOLT. We’ll run.</p>
+                     <p rend="justify">MIZ. And attract his attention: a tallish man and a short one.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Knocking at door</hi>, F.L.) Then we’ll call on Mrs. Stitchley. Yes, that’s the name on the plate.</p>
+                     <p rend="justify">MIZ. We don’t know her; who the deuce knows Mrs. Stitchley?</p>
+                     <p rend="justify">BOLT. No matter; he mustn’t pass us. Egad, he’s just here! (<hi rend="italic">Knocks again; door opens; they run in;—just as door is closing</hi>, COTTON <hi rend="italic">runs across from</hi>  R. <hi rend="italic">to</hi>  L.)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCENE III.</head>
+                     <p rend="justify">
+                        <hi rend="italic">Room at</hi> MRS. STITCHLEY’S.</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  SERVANT, L. H., <hi rend="italic">followed by</hi>  BOLT <hi rend="italic">and</hi>  MIZZLE.</p>
+                     <p rend="justify">SERV. This way, gentlemen; my mistress will see you in a minute.</p>
+                     <p rend="justify">(<hi rend="italic">Exit</hi>, R.H.)</p>
+                     <p rend="justify">BOLT. Well, here is a new feature.</p>
+                     <p rend="justify">MIZ. Yes, like a broken nose—a very irregular feature. What are we to say?</p>
+                     <p rend="justify">BOLT. Our wits will inspire us.</p>
+                     <p rend="justify">MIZ. Wits! I’ve no wits, nor you either, or you wouldn’t have advised this blessed expedition.</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  MRS. STITCHLEY <hi rend="italic">and</hi>  SERVANT, R.H. SERVANT <hi rend="italic">exits</hi>, L.</p>
+                     <p rend="justify">MRS. S. Good morning, gentlemen.</p>
+                     <p rend="justify">BOLT <hi rend="italic">and</hi>  MIZZLE. Good morning!—Good morning!</p>
+                     <p rend="justify">MRS. S. May I ask the cause of this visit?</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) Ah! that’s the devil of it.</p>
+                     <p rend="justify">BOLT. Cause—ah—madam, the cause is the reason, ma’am—Ahem! and the reason is the cause.—(<hi rend="italic">Aside.</hi>) She must have a customer named Smith. You doubtless know—Miss Smith?</p>
+                     <p rend="justify">MRS. S. No, sir! I have not that honour.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) Of course not; everything goes wrong to-day.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Aside.</hi>) Smith wont do—I’ll try Brown. Miss Brown, madam, you know?</p>
+                     <p rend="justify">MRS. S. Oh dear, yes! Miss Brown is one of my best customers.</p>
+                     <p rend="justify">BOLT. Ha! ha! Bobby, the lady and I understand each other now, don’t we? (<hi rend="italic">Nudges him.</hi>)</p>
+                     <p rend="justify">MRS. S. (<hi rend="italic">Aside.</hi>) What odd persons!—Yes, sir; but Miss Brown?</p>
+                     <p rend="justify">BOLT. True, true! about Miss Brown. There is a little account—</p>
+                     <p rend="justify">MRS. S. Oh! between me and Miss Brown?—(<hi rend="italic">Aside.</hi>) He is a gentlemanly young fellow, after all.</p>
+                     <p rend="justify">BOLT. I, madam, will settle that account.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) He’ll settle himself if he does; he must be flush to-day.</p>
+                     <p rend="justify">MRS. S. I’ll send my servant for a stamp directly, sir.</p>
+                     <p rend="justify">BOLT. Don’t hurry yourself, ma’am; I’ll settle it to-morrow. That’s what I called for,—to tell you I’d settle it to-morrow.</p>
+                     <p rend="justify">MRS. S. Oh—h—h!—(<hi rend="italic">Aside.</hi>) There’s a great vulgarity about him.</p>
+                     <p rend="justify">BOLT. I’ve nothing more to say. Good morning, ma’am—nothing.—(<hi rend="italic">Aside.</hi>) Besides, the old man must be a mile off by this time.</p>
+                     <p rend="justify">MIZ. Good by, ma’am.—(<hi rend="italic">Aside.</hi>) I say, Bolt, I vote we go back to the shop; this may be a prelude to something further.</p>
+                     <p rend="justify">MRS. S. But one thing more. Miss Brown is an intimate friend of mine, as well as a customer—now I don’t think I ever saw you before!</p>
+                     <p rend="justify">BOLT. Very likely not, ma’am.</p>
+                     <p rend="justify">MIZ. It is exceedingly probable.</p>
+                     <p rend="justify">BOLT. The fact is—ahem!—the facts are these: there is no such person as Miss Brown; Miss Brown has ceased to be Miss Brown—and I’m a happy man.</p>
+                     <p rend="justify">MRS. S. What! do you mean that Miss Brown is married, and that you are—</p>
+                     <p rend="justify">BOLT. Precisely; I see she has not disclosed the tender secret.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) Ha, ha! it is funny, after all.</p>
+                     <p rend="justify">BOLT. Miss Brown, you see, is now Mrs. Steele. Yes—my name is Steele, and this gentleman’s name is Addison.</p>
+                     <p rend="justify">MIZ. Yes, ma’am, my name is Maddison—Ha, ha, ha!</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  SERVANT, L. H.</p>
+                     <p rend="justify">SERV. Miss Brown, ma’am.</p>
+                     <p rend="justify">(<hi rend="italic">Exit</hi>, L.)</p>
+                     <p rend="justify">BOLT. The devil! oh! he, he! the tender creature! Confusion! Petrifaction!</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Whispering.</hi>) I say, Charley—how d’ye like that? Bother your long-winded stories!—Oh!</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  MISS BROWN, L. H.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Aside.</hi>) Not remarkably handsome, either.</p>
+                     <p rend="justify">MRS. S. How d’ye do, Miss Brown?—I beg pardon, Mrs. Steele, I mean.</p>
+                     <p rend="justify">MISS B. Mrs. Steele! what d’ye mean?</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) Ah, she wont swallow it—she’s not soft steel.</p>
+                     <p rend="justify">BOLT. Well, anything to get off. Good by, ladies,—good by.</p>
+                     <p rend="justify">MRS. S. What an ungallant husband!</p>
+                     <p rend="justify">MISS B. Husband?</p>
+                     <p rend="justify">MRS. S. Yes, yes, Mrs. Steele; that gentleman, Mr. Steele, has confessed all. You sly creature.</p>
+                     <p rend="justify">BOLT. Yes, yes!—good by! You may settle this discussion among yourselves.</p>
+                     <p rend="justify">MRS. S. Yes, yes! this gentleman told me he was your husband.</p>
+                     <p rend="justify">MIZ. True, madam; stick to that. <hi rend="italic">He</hi>  told you so; mind, I had nothing to do with it.</p>
+                     <p rend="justify">MISS B. (<hi rend="italic">Aside.</hi>) It may be an eccentric method of making an offer. He is not bad looking, and opportunities are—alas!—not too frequent. I’ll humour it.—And so my dear Steele’s confess’d?</p>
+                     <p rend="justify">BOLT. Ha, ha, ha! Yes.—(<hi rend="italic">Aside.</hi>) Dear Steele! She jumps at it.—I’m magnetic steel. (<hi rend="italic">Whisper.</hi>) I say, what’s the meaning of this?</p>
+                     <p rend="justify">MIZ. Don’t ask me; you’re the man of talent—I know the meaning of nothing.</p>
+                     <p rend="justify">MISS B. Oh, you naughty man; when you so faithfully promised to keep it a secret.</p>
+                     <p rend="justify">BOLT. Well, as I said before, we must go. Farewell, my lo—o—ve!</p>
+                     <p rend="justify">MIZ. Farewell, Mrs. Steele.—(<hi rend="italic">Aside.</hi>) Be divorced as soon as possible, Charley.</p>
+                     <p rend="justify">MISS B. But, my dearest, where are you going?</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) To the devil, and taking me for company.</p>
+                     <p rend="justify">BOLT. Oh, for a holiday; just to get rid, ha, ha! of a few loose sovereigns.</p>
+                     <p rend="justify">MISS B. Are you, indeed? Then I’ll accompany you.—Now don’t look sulky, Steele; you know I will—positively I will.</p>
+                     <p rend="justify">BOLT. Well, my dear, if you will, I—heigho!—suppose you must.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside to</hi>  BOLT.) I say, Bolt, that lady belongs to you, you know; if we’ve any refreshment, you pay the heads—we don’t go halves.</p>
+                     <p rend="justify">(MISS B. <hi rend="italic">and</hi>  MRS. S. <hi rend="italic">have been conversing apart.</hi>)</p>
+                     <p rend="justify">MRS. S. Oh, I should be charmed—delighted!</p>
+                     <p rend="justify">MISS B. Here is my bosom friend, Mrs. Stitchley, says she would like to be of the party. This little gentleman will be a nice beau for her.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Whispers.</hi>) I say, Bob—we <hi rend="italic">shall</hi>  go halves.</p>
+                     <p rend="justify">MISS B. Lend me your arm, sir. <hi rend="italic">We married</hi>  folks lead the way. Two <hi rend="italic">hearts lead</hi>.</p>
+                     <p rend="justify">MRS. S. Yes, my little gentleman, we can’t do better than <hi rend="italic">follow suit</hi>.</p>
+                     <p rend="justify">MIZ. Oh, we’re a couple of trumps. I wish I could cut out of this game.</p>
+                     <p rend="justify">(<hi rend="italic">Exeunt, two and two.</hi>)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCENE IV.</head>
+                     <p rend="justify">(<hi rend="italic">A Room at an Inn—A window open, with balcony, a little to the</hi> R. <hi rend="italic">in flat—A large screen, folded up and leaning against the flat—The only entrance is by a door in set wing</hi> L. 2 E.<hi rend="italic">—tables and chairs—</hi>WAITER <hi rend="italic">discovered busied about.</hi>)</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  HARRIET <hi rend="italic">and</hi>  CUTAWAY, L.</p>
+                     <p rend="justify">CUT. Most unlucky! Hymen has extinguished his link for the day, and here we are yet unlinked—too late for the parson.</p>
+                     <p rend="justify">HAR. Shocking, indeed; to say nothing of the impropriety of my thus running about with you.</p>
+                     <p rend="justify">CUT. True; we are like odd gloves—a couple unpaired. No matter; to-morrow will unite us for ever. This house has a hopeful name—“The Anchor.”</p>
+                     <p rend="justify">HAR. The anchor! the very house my aunt was to have brought me to, to send to Mrs. Chargely’s. My place is booked here for that purpose.</p>
+                     <p rend="justify">CUT. No matter; some one else can represent you. The coach is unlike my heart—it can just admit another. Waiter!—shew us into a private room.</p>
+                     <p rend="justify">WAITER. Yes, sir; this way.—James, conduct the lady to the blue parlour.</p>
+                     <p rend="justify">CUT. Blue! another omen—emblem of constancy.</p>
+                     <p rend="justify">HAR. Single, another day! what a misfortune!</p>
+                     <p rend="justify">(<hi rend="italic">Exeunt</hi>, R.)</p>
+                     <p rend="justify">WAITER. Hollo, James! James! bustle about; four more on the stairs!—shew them in here; all the other rooms are full. What a house we have to-day.</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  BOLT, MIZZLE, MISS B., <hi rend="italic">and</hi>  MRS. S., L. H. D.</p>
+                     <p rend="justify">BOLT. Sit down, ladies,—sit down.</p>
+                     <p rend="justify">MISS B. What a charming place!</p>
+                     <p rend="justify">MRS. S. Yes, but any place would be charming in such company.</p>
+                     <p rend="justify">(<hi rend="italic">The ladies sit at table</hi>, R.)</p>
+                     <p rend="justify">MISS B. (<hi rend="italic">Aside.</hi>) If he is only playing tricks I’ll be even with him.—My dear Steele, you have forgotten your gallantry; don’t you ask us to take any refreshments?</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) There they begin already! I thought they looked like appetites.—Here, Waiter!</p>
+                     <p rend="justify">WAITER. Yes, sir.</p>
+                     <p rend="justify">MIZ. Four bread and cheeses, and a pint of stout.—(<hi rend="italic">Aside.</hi>) Egad, they sha’n’t ruin us.</p>
+                     <p rend="justify">BOLT. The very thing! I dote upon stout, and so does Mrs. Steele.</p>
+                     <p rend="justify">MISS B. La, my dear, I like nothing so plebeian; it’s taking away one’s character to say so.</p>
+                     <p rend="justify">MRS. S. And I faint at the smell of cheese.</p>
+                     <p rend="justify">MIZ. Waiter!</p>
+                     <p rend="justify">WAITER. Yes, sir.</p>
+                     <p rend="justify">MIZ. A decanter of water for the ladies, and butter instead of cheese.</p>
+                     <p rend="justify">BOLT. Exactly!—only a pint of stout.</p>
+                     <p rend="justify">MISS B. Stay! Have you nothing but bread and butter and cheese in the house?</p>
+                     <p rend="justify">BOLT. Have you got any onions?</p>
+                     <p rend="justify">MISS B. Have you no poultry?</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Aside.</hi>) Poultry! what pretty chickens!</p>
+                     <p rend="justify">WAITER. A couple of fowls are roasting for my master’s dinner; however, he will be most happy to let you have them.</p>
+                     <p rend="justify">MISS B. Well, send them up instantly, with a bottle of your best sherry. (<hi rend="italic">Exit</hi>  WAITER.)—You know, Steele, your loose sovereigns will cover all expenses.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Whispers.</hi>) Here, Bobby, how much have you got?</p>
+                     <p rend="justify">MIZ. Half-a-crown; and you?</p>
+                     <p rend="justify">BOLT. Eighteen-pence! Oh—h—h! that looks very unlike fowls and sherry.</p>
+                     <p rend="justify">MIZ. But you must be so d——d bounceable with your loose sovereigns!</p>
+                     <p rend="justify">MISS B. My dear, wont you sit down?—you must be tired.</p>
+                     <p rend="justify">BOLT. Not in the least (<hi rend="italic">aside</hi>) except of you. (<hi rend="italic">Whispers.</hi>) I’ll tell you what we must do, Bobby,—we’ll tell the ladies all; they can’t detain us in a public room,—and then we’ll——</p>
+                     <p rend="justify">MIZ. Decamp. The best plan; only you be orator. The ladies look rather fierce.</p>
+                     <p rend="justify">BOLT. A—hem!—you see, ladies—that is, you perceive—ahem!—you must be aware—you cannot be ignorant—ahem!</p>
+                     <p rend="justify">MISS B. My dear Steele, what is the matter?</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Aside.</hi>) There she goes again, with her “dear Steele.”—The fact is——</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  WAITER, L. 2 E.</p>
+                     <p rend="justify">WAITER. I am sorry to intrude, ladies and gentlemen, but have you any objection to a gentleman dining in this room?</p>
+                     <p rend="justify">BOLT. Not in the least!—You may give him our dinner, if your larder is scanty.</p>
+                     <p rend="justify">MISS B. My dear!</p>
+                     <p rend="justify">MIZ. Yes, and the bottle of wine into the bargain.</p>
+                     <p rend="justify">BOLT <hi rend="italic">and</hi>  MIZZLE <hi rend="italic">go up.</hi>
+                     </p>
+                     <p rend="justify">MRS. S. Hoity toity! Certainly not!—and, Waiter, I hate dining in public; I insist on that screen being put up.</p>
+                     <p rend="justify">WAITER. To be sure. (<hi rend="italic">Putting up screen so as to divide room in two, then arranging a small table and chair on the side next the door.</hi>)—Your fowls are done brown, ladies.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) Done brown? Yes, and so are we done brown—by Miss Brown, too!</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  2<hi rend="italic">nd</hi>  WAITER <hi rend="italic">and</hi>  COTTON, L. 2 E.</p>
+                     <p rend="justify">2<hi rend="italic">nd</hi>  WAITER. Here, sir; there is a party the other side of the screen; our inn is so full, sir.</p>
+                     <p rend="justify">COT. No matter; this will do. (<hi rend="italic">Sits at small table.</hi>) Bring up some cold meat directly, and the paper.</p>
+                     <p rend="justify">(<hi rend="italic">Exeunt both</hi>  WAITERS, L. 2 E.)</p>
+                     <p rend="justify">MIZ. Stay, I’ve a thought!—there may be an Irish cousin, or naval officer, there. I’ll peep through. (<hi rend="italic">Looks through crevice of screen.</hi>)—Oh—</p>
+                     <p rend="justify">BOLT. Ladies, what I have to say is——</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Whispers.</hi>) Hold your tongue! you don’t know who is on the other side.</p>
+                     <p rend="justify">BOLT. No, nor don’t care, if it is the devil.</p>
+                     <p rend="justify">MIZ. But it is worse, it’s—oh—h—h!—old master, between us and the door!</p>
+                     <p rend="justify">BOLT. Zounds! we are blockaded. Bolt, Bolt, thy courage is out.</p>
+                     <p rend="justify">MRS. S. What is the matter, gentlemen?</p>
+                     <p rend="justify">MISS B. You seem uneasy. (WAITER <hi rend="italic">brings in</hi>, L. 2 E., <hi rend="italic">fowls and a newspaper: he leaves newspaper with</hi>  COTTON, <hi rend="italic">and then passes on to the other table, where he places fowls, and exit</hi>, L. 2 E.)—Well, I shall take off my cloak and bonnet. (<hi rend="italic">Does so, and hangs them on a chair.</hi>)</p>
+                     <p rend="justify">BOLT. Egad, as there is no exit, I must e’en make the best of it. (<hi rend="italic">Sits down between ladies.</hi>) This wing?—a slice of the breast? &amp;c.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) If I could but pass that old curmudgeon! Egad, I have it—they are all looking at the fowls, far more interesting objects than myself.</p>
+                     <p rend="justify">(<hi rend="italic">Makes signs to</hi>  BOLT<hi rend="italic">—slips</hi>  MISS BROWN’S <hi rend="italic">cloak and bonnet off chair—retires to back and puts them on.</hi>)</p>
+                     <p rend="justify">COT. (<hi rend="italic">Reading.</hi>) “Curious case of stealing clothes”—Um—um—sentence, transportation.</p>
+                     <p rend="justify">(MIZZLE <hi rend="italic">passes back of screen.</hi>)</p>
+                     <p rend="justify">MRS. S. Mr. Addison is invisible.</p>
+                     <p rend="justify">BOLT. Oh, never mind him.</p>
+                     <p rend="justify">(MIZZLE <hi rend="italic">passes in front of</hi>  COTTON, <hi rend="italic">and exit</hi>  L. 2 E.)</p>
+                     <p rend="justify">COT. What an extraordinary woman! “Mysterious disappearance.”</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Horn sounds.</hi>) That sounds deuced near the window. Help yourselves to the wings, ladies. Cut off the wings and they can’t fly.</p>
+                     <p rend="justify">(<hi rend="italic">Retires back—the</hi>  COACHMAN <hi rend="italic">appears at window</hi>, R. F.)</p>
+                     <p rend="justify">COACH. Any one going?</p>
+                     <p rend="justify">(BOLT <hi rend="italic">is in the act of stepping from balcony.</hi>)</p>
+                     <p rend="justify">LADIES. (<hi rend="italic">Seeing him.</hi>) Stop him!</p>
+                     <p rend="justify">(BOLT <hi rend="italic">disappears with</hi>  COACHMAN<hi rend="italic">—the</hi>  LADIES <hi rend="italic">throw the screen over</hi>  COTTON, <hi rend="italic">who gets up and beats the</hi>  WAITERS<hi rend="italic">—the</hi>  LADIES <hi rend="italic">scream.—Scene closes.</hi>)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCENE V.—<hi rend="italic">Chamber.</hi>
+                     </head>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi> CUTAWAY, R.</p>
+                     <p rend="justify">CUT. Truly unfortunate and disagreeable!—my fair one torn from me in a manner most unfair. Miss Harriet missing—all is gone but hope!—and what does hope say? Something false, as usual? The lady loves the marvellous.—No, hope reminds me that Harriet is sent to Mrs. Chargely’s, in this neighbourhood; and that if I could enter in a feigned name—true, I can learn at the door if the old lion be in the den—if the young dove be in her cage!—’gad, it will do!—What name can I take?—I have it, Mr. Cotton has a foreman named Bolt—I’ll call myself Bolt; I dare say I’m like him; I never saw him; so don’t know the contrary. A happy exchange of names—The part of Bolt by Mr. Cutaway.</p>
+                     <p rend="justify">(<hi rend="italic">Exit</hi>, L.H.)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCENE VI.</head>
+                     <p rend="justify">Room at Mrs. Chargely’s. Large Gothic window, opening upon lawn.</p>
+                     <p rend="justify">MRS. CHARGELY <hi rend="italic">discovered sitting, and</hi>  BRIDGET <hi rend="italic">busied about.</hi>
+                     </p>
+                     <p rend="justify">MRS. C. Bridget!</p>
+                     <p rend="justify">BRIDG. Yes, ma’am.</p>
+                     <p rend="justify">MRS. C. Miss Harriet Cotton, according to the letter I read to you, must soon be here. Heigho! a persecuted being, like I was at seventeen.</p>
+                     <p rend="justify">BRIDG. La, ma’am!</p>
+                     <p rend="justify">MRS. C. Yes, her love is disapproved of, and she is sent here to be far from the object of her affections. Heigho! just my case.</p>
+                     <p rend="justify">BRIDG. Why, ma’am, I thought the object of your affections ran away from you.</p>
+                     <p rend="justify">MRS. C. Ahem! It might be so; but, however, Bridget, it came to just the same thing in the end. My fate teaches <hi rend="italic">me</hi>  mercy. I am determined to shew every kindness to this Harriet, though my letter tells me that Mr. Cutaway is dauntless in pursuing her;—just my case.</p>
+                     <p rend="justify">BRIDG. On the contrary, ma’am, your admirer seems to have been dauntless in pursuing the opposite direction.</p>
+                     <p rend="justify">MRS. C. Well, I will just go and adjust my head-dress. You will shew the young lady every attention if she should arrive meanwhile. Heigho! I dare say her delicate heart is in a fine state of palpitation. Just my case.</p>
+                     <p rend="justify">(<hi rend="italic">Exit</hi>, R.)</p>
+                     <p rend="justify">BRIDG. I wish she would come; I should so like to see a <hi rend="italic">young</hi>  lady involved in a new adventure, instead of hearing an <hi rend="italic">old</hi>  lady recount a <hi rend="italic">stale</hi>  one. (<hi rend="italic">A violent ring heard at bell.</hi>) Bless me! that is exceedingly like a coachman’s ring.</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter, through Gothic window</hi>, MIZZLE, <hi rend="italic">in cloak and bonnet</hi>, BOLT, <hi rend="italic">and</hi>  COACHMAN.</p>
+                     <p rend="justify">COACH. Yes! yes! we shall settle it right enough, I’ll warrant.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Whispers to</hi>  BOLT.) Here’s a new row! I didn’t want to come here.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Whispers.</hi>) Zounds! there’s no avoiding it. Coachee swears he wont stir without the blunt. You, it seems, are booked here for some confounded person. We can’t pay;—he says, “Walk in, and they’ll pay for you!” So here we are.</p>
+                     <p rend="justify">COACH. Five shillings the lady, and three and sixpence the gentleman;—they are rather short; will you pay, my good girl?</p>
+                     <p rend="justify">BRIDG. Oh! certainly; eight and sixpence; here, Coachman. (<hi rend="italic">Gives him money, and exit</hi>  COACHMAN, C.)—A gentleman, too! It is a new fashion for ladies to bring their gentlemen with them.</p>
+                     <p rend="justify">(<hi rend="italic">Exit</hi>, L.H.)</p>
+                     <p rend="justify">BOLT. Well, what do you think of this?</p>
+                     <p rend="justify">MIZ. Nothing at all; it’s of a piece with the rest. They’ll take us to the station-house soon. We’re in limbo here; admire the garden wall from the window. My eye! what a barricado!</p>
+                     <p rend="justify">BOLT. Oh! we can’t get out, so we must consider our present situation. You evidently were book’d,—I was only a chance customer; they set <hi rend="italic">you</hi>  down here as a matter of course—<hi rend="italic">I</hi>  might have gone on. Devilish odd, by-the-by, you crawling into the very coach upon which I jump’d.</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  MRS. CHARGELY, R.H.</p>
+                     <p rend="justify">MRS. C. Oh! my dear, excuse me for keeping you waiting; but I know young ladies love moonlight.</p>
+                     <p rend="justify">MIZ. Yes, ma’am, like second-pair lodgers, just before quarter-day.</p>
+                     <p rend="justify">MRS. C. (<hi rend="italic">Aside.</hi>) Elegant remark!—But this gentleman?</p>
+                     <p rend="justify">BOLT. Ah, true! (<hi rend="italic">crosses to</hi>  C.) I dare say you did not expect me. How d’ye do?—The fact is—I am this young gent—ahem!—lady’s brother—Yes!</p>
+                     <p rend="justify">MRS. C. Oh! did you leave all quite well at home?</p>
+                     <p rend="justify">MIZ. Quite! my mother is particularly well.</p>
+                     <p rend="justify">MRS. C. Why, my dear, your father has been a widower these—</p>
+                     <p rend="justify">BOLT. Bless you! he has married again since. One calls one’s mother-in-law “mother” you know.</p>
+                     <p rend="justify">MIZ. They both send their compliments, Mrs.——ahem!</p>
+                     <p rend="justify">MRS. C. Indeed! my dear young lady—your name, I believe, is—</p>
+                     <p rend="justify">BOLT. Precisely!</p>
+                     <p rend="justify">MRS. C. Harriet?</p>
+                     <p rend="justify">MIZ. You have hit it to a nicety. Don’t you think, ma’am, we might take a turn about the country?</p>
+                     <p rend="justify">BOLT. Yes! there is a most picturesque ruin of a pump—</p>
+                     <p rend="justify">MRS. C. To-morrow!—to-morrow!</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  BRIDGET, L.</p>
+                     <p rend="justify">MRS. C. Oh! Bridget, you must provide accommodations for the young lady’s brother!</p>
+                     <p rend="justify">BRIDG. (<hi rend="italic">Whispers.</hi>) Madam, you have forgotten a something—the letter called Miss Harriet an only child.</p>
+                     <p rend="justify">MRS. C. (<hi rend="italic">Aside.</hi>) Indeed! an impostor! Oh, I see through all!—the daring Mr. Cutaway has introduced himself.—So, sir, you are the young lady’s brother?</p>
+                     <p rend="justify">BOLT. Exactly!</p>
+                     <p rend="justify">MIZ. Did not we tell you so?—(<hi rend="italic">Aside.</hi>) What makes her so d—d particular?</p>
+                     <p rend="justify">MRS. C. Now, sir, you know you are nothing of the kind! (<hi rend="italic">Crosses to</hi>  C.) Miss Harriet has no brother.</p>
+                     <p rend="justify">BOLT. Hey, ma’am?</p>
+                     <p rend="justify">MIZ. No brother!—(<hi rend="italic">Aside.</hi>) Here’s a go!—You’ll allow me to know my own relations?—Oh—h—h!</p>
+                     <p rend="justify">MRS. C. Indeed! No! I have discovered all.</p>
+                     <p rend="justify">BOLT. The devil you have? Then we are bowled out. Madam, we throw ourselves upon your mercy!</p>
+                     <p rend="justify">MIZ. Yes! don’t say anything to old Cotton.</p>
+                     <p rend="justify">MRS. C. (<hi rend="italic">Aside.</hi>) Old Cotton! what a respectful name to call her father!—I will not; I am inclined to be friendly. I have some influence over him;—I’ll prevail on him to pardon all.</p>
+                     <p rend="justify">BOLT. Will you though? Then give us your hand. (<hi rend="italic">Takes her hand.</hi>)</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Takes other hand.</hi>) Yes! you are a regular good ’un!</p>
+                     <p rend="justify">MRS. C. (<hi rend="italic">Aside.</hi>) A good one! Her language is not particularly romantic.—Nay, more than that, I think I can persuade him to consent to your union.</p>
+                     <p rend="justify">MIZ. The lady means a partnership.</p>
+                     <p rend="justify">MRS. C. A partnership?—to be sure—for life—marriage!</p>
+                     <p rend="justify">BOLT. I’ll be blowed if we understand one another, now!</p>
+                     <p rend="justify">MRS. C. Yes! we do.—Fie, Miss Cotton; do you think I do not recognise your clandestine lover, Mr. Cutaway?</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) Cotton! I old master’s daughter?</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Aside.</hi>) Zounds! she knows nothing, after all.—Yes, ma’am, you’ve hit it. My name is Cutaway.</p>
+                     <p rend="justify">MRS. C. Ha! ha! you confess. You see I was too sharp for you; I found out you were Mr. Cutaway.</p>
+                     <p rend="justify">BOLT. To be sure you did! you are so sharp, ma’am. He! he! you found out Mr. Cutaway—He! he! ha!</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  BRIDGET, L.</p>
+                     <p rend="justify">BRIDG. Please, ma’am, Mr. Cotton’s foreman, Mr. Bolt, is here.</p>
+                     <p rend="justify">BOLT. He is not! No! no! my name is Cut—Cutaway!</p>
+                     <p rend="justify">MIZ. Mr. Bolt is not here! no, nor Mizzle either; this gentleman’s name is Cutaway—my name is Miss Harriet.</p>
+                     <p rend="justify">BRIDG. But Mr. Bolt is at the street door.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Aside.</hi>) Now who the devil can this be?</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Whispers.</hi>) I say, Bolt, there a’n’t two of you.</p>
+                     <p rend="justify">MRS. C. Desire Mr. Bolt to walk in.—Don’t be frightened, my young friends, though I guess the cause of your alarm.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) I’m bless’d if you do.</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  CUTAWAY, L.</p>
+                     <p rend="justify">CUT. (<hi rend="italic">Aside.</hi>) All right so far!—the young lady here, and the old boy not here.</p>
+                     <p rend="justify">MRS. C. Come forward, Mr. Bolt; come forward. Nobody here, except Mr. Cutaway.</p>
+                     <p rend="justify">CUT. Mr. Cutaway here, Madam!</p>
+                     <p rend="justify">MRS. C. You start; I guess the cause of surprise;—yes, and Miss Harriet.</p>
+                     <p rend="justify">(MIZZLE <hi rend="italic">hides his face by letting veil fall.</hi>)</p>
+                     <p rend="justify">CUT. (<hi rend="italic">Aside.</hi>) Hem, she has got a new cloak by the way.</p>
+                     <p rend="justify">MRS. C. But I have not introduced you. (<hi rend="italic">Crosses</hi>  L. C.) Mr. Bolt, Mr. Cutaway; Mr. Cutaway, Mr. Bolt. (<hi rend="italic">They both bow.</hi>)</p>
+                     <p rend="justify">CUT. (<hi rend="italic">Aside.</hi>) How queer it is to be introduced to one’s self!—I’m beside myself.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Whispers.</hi>) I say, Bolt, how do you like yourself?</p>
+                     <p rend="justify">BOLT. Not at all! Curse me if there isn’t another incident.</p>
+                     <p rend="justify">MIZ. A second <hi rend="italic">me</hi>  will walk in next.</p>
+                     <p rend="justify">MRS. C. How embarrassed they seem—and I see through all: Miss Harriet seems afraid of Mr. Bolt seeing her. How well I understand her feelings.</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  BRIDGET, L.</p>
+                     <p rend="justify">BRIDG. Mr. Cotton, ma’am.</p>
+                     <p rend="justify">BOLT, MIZZLE, <hi rend="italic">and</hi>  CUTAWAY. (<hi rend="italic">Together.</hi>) Who?</p>
+                     <p rend="justify">BRIDG. Mr. Cotton.</p>
+                     <p rend="justify">(BOLT <hi rend="italic">and</hi>  CUTAWAY <hi rend="italic">instantly run off through Gothic window</hi>, MIZZLE, R. H.)</p>
+                     <p rend="justify">MRS. C. Gentlemen! young lady! what a dispersion! Why, at any rate, Mr. Bolt should vanish—</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  COTTON, HARRIET, MISS BROWN, <hi rend="italic">and</hi>  MRS. STITCHLEY, L. H.</p>
+                     <p rend="justify">(<hi rend="italic">Exit</hi>  BRIDGET, L.)</p>
+                     <p rend="justify">COT. Ah, Mrs. Chargely, how d’ye do?—I have brought some ladies with me.</p>
+                     <p rend="justify">MRS. C. Happy to see any of your friends, Mr. Cotton; but one little thing I must say to you, (<hi rend="italic">draws him apart</hi>,) don’t be too severe with your daughter.</p>
+                     <p rend="justify">COT. No, no, madam; I don’t intend it.</p>
+                     <p rend="justify">MRS. C. I have promised to be her friend.</p>
+                     <p rend="justify">COT. Promised, madam; may I ask to whom?</p>
+                     <p rend="justify">MRS. C. To herself, to be sure.</p>
+                     <p rend="justify">COT. What! have you seen her before?—Harriet, my dear!</p>
+                     <p rend="justify">HAR. Yes, papa.</p>
+                     <p rend="justify">MRS. C. This is not your daughter Harriet?</p>
+                     <p rend="justify">COT. Yes, but it is though; don’t you see the strong likeness?</p>
+                     <p rend="justify">HAR. Yes, madam; I am Harriet Cotton.</p>
+                     <p rend="justify">MRS. C. I am petrified! thunderstruck! why, another daughter Harriet came here just now, and is here still.—Bridget!</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  BRIDGET, R. <hi rend="italic">with veil.</hi>
+                     </p>
+                     <p rend="justify">BRIDG. Please, ma’am, Miss Harriet has bolted herself in one of the bed-rooms, and wont open the door. Her veil caught against the banister, ma’am; here it is.</p>
+                     <p rend="justify">COT. Some impudent impostor, Mrs. Chargely.</p>
+                     <p rend="justify">MRS. C. And, I’ll confess the truth—(<hi rend="italic">Aside.</hi>) How are my benevolent designs frustrated—Mr. Cutaway was with her.</p>
+                     <p rend="justify">COT. Daring scoundrel!</p>
+                     <p rend="justify">HAR. The faithless wretch! brought a sham me.—Oh papa, papa! (<hi rend="italic">Sobs.</hi>)</p>
+                     <p rend="justify">COT. I told you what he would turn out.</p>
+                     <p rend="justify">MISS B. Mrs. Bridget, I think I heard you called.—Allow me to look at the veil; observe, Mrs. Stitchley!</p>
+                     <p rend="justify">MRS. S. I do, my dear!</p>
+                     <p rend="justify">MISS B. The ironmould, and everything! Mrs. Chargely, this veil is mine; there are thieves in the house!—Had the lady a silk cloak?</p>
+                     <p rend="justify">MRS. C. Yes.</p>
+                     <p rend="justify">MRS. S. And a bonnet and feather?</p>
+                     <p rend="justify">MRS. C. Yes.</p>
+                     <p rend="justify">MISS B. It is all discovered!—You know we were wronged, Mr. Cotton?</p>
+                     <p rend="justify">COT. (<hi rend="italic">Aside.</hi>) Yes, and I know I had to pay for it.</p>
+                     <p rend="justify">MISS B. But we will be righted.—Mrs. Chargely, don’t let your house be a nest of thieves—send for the officers.</p>
+                     <p rend="justify">MRS. C. I will.—Bridget! Bridget! Lock sham Miss Harriet’s door outside—send for the police!—What a horrid unromantic adventure.</p>
+                     <p rend="justify">(<hi rend="italic">Exit</hi>, R. H.)</p>
+                     <p rend="justify">MRS. S. You shall be righted.</p>
+                     <p rend="justify">MISS B. I will, indeed: I’ll recover my cloak—the villainy shall be uncloaked.</p>
+                     <p rend="justify">(<hi rend="italic">Exeunt</hi>  MISS B. and MRS. S., L. H.)</p>
+                     <p rend="justify">COT. Come along, Harriet; we’ll see the end of this. To a nice house I seem to have brought you! A pleasant day, we have had,—a day beautifully spent!</p>
+                     <p rend="justify">(<hi rend="italic">Exeunt</hi>, L. H.)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCENE VII.</head>
+                     <p rend="justify">MRS. CHARGELY’S <hi rend="italic">Garden.—At the back of stage a high wall; to the</hi> R. 3 E. <hi rend="italic">part of the house, with door and practicable window.—Dark.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  BOLT, <hi rend="italic">from back</hi>, R.</p>
+                     <p rend="justify">BOLT. Egad, I’ve succeeded in concealing myself among the statues and the shrubs, &amp;c. I wish that wall was not so devilish high, and that gate not quite so firmly fastened. I wonder where Bobby is.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Still in cloak and bonnet, looking out of window</hi>, R. 3 E.) Charley, is that you?</p>
+                     <p rend="justify">BOLT. Yes; how snug you look, up there!</p>
+                     <p rend="justify">MIZ. How do you like your day’s pleasure?</p>
+                     <p rend="justify">BOLT. Amazingly! It is a spicy sort of pleasure—keeps one awake. I told you we should have something to laugh at.</p>
+                     <p rend="justify">MIZ. Yes, the wrong side of our mouths. If ever I do go out with you again!</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  CUTAWAY, <hi rend="italic">with ladder</hi>, L. U. E. BOLT <hi rend="italic">steps back.</hi>
+                     </p>
+                     <p rend="justify">CUT. Fortune favours the bold. This is an unexpected prize—found it in the knife room—and the dear creature at yonder window, she shall descend: then we’ll over the wall.—By-the-by, I wonder what has become of that inefficient representation of myself.—Harriet!</p>
+                     <p rend="justify">MIZ. Hilloa! you there!</p>
+                     <p rend="justify">CUT. There she is, beautiful as ever.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Aside.</hi>) True,—all cats are alike in the dark.</p>
+                     <p rend="justify">CUT. Come to the arms of your ever-faithful Cutaway.</p>
+                     <p rend="justify">MIZ. You make me blush.</p>
+                     <p rend="justify">CUT. I have a ladder, dearest; will you descend it?</p>
+                     <p rend="justify">MIZ. I believe you, I will;—Come, look alive!—put it up!</p>
+                     <p rend="justify">CUT. Her every word inspires confidence.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Aside.</hi>) An unconscious auxiliary.</p>
+                     <p rend="justify">CUTAWAY. (<hi rend="italic">Puts ladder against window</hi>, R. 3 E.) Descend, dearest, descend; and take care of the water-butt;—do not, star as you are, set in the ocean. (MIZZLE <hi rend="italic">descends.</hi>)—Now let’s away!</p>
+                     <p rend="justify">MIZ. Stay, my bundle! oh, my bundle!</p>
+                     <p rend="justify">CUT. What bundle, sweetest?</p>
+                     <p rend="justify">MIZ. A bundle I have left; so do you bundle up the ladder and get it.</p>
+                     <p rend="justify">CUT. Your desires are commands, lovely one.—She is hoarse;—caught cold, poor thing. (<hi rend="italic">Ascends ladder and goes in at window.</hi>)</p>
+                     <p rend="justify">BOLT. I say, Bob, what did you send him in there for?</p>
+                     <p rend="justify">MIZ. Why the cursed officers are breaking open the door. I heard them; so I gave him for a sop—Ha! ha! ha!</p>
+                     <p rend="justify">BOLT. Ha! ha! ha! poor devil! Now away with the ladder to the garden wall. (MIZZLE <hi rend="italic">plants ladder against wall</hi>, L.) Now we’ll ascend, and drop on the other side.</p>
+                     <p rend="justify">CUT. (<hi rend="italic">At window</hi>, R.) Harriet! Harriet, my love! I can find no bundle.</p>
+                     <p rend="justify">MIZ. Can’t you? then here is one for you. (<hi rend="italic">Takes off cloak and bonnet—wraps bonnet in cloak, and throws them in window.</hi>)</p>
+                     <p rend="justify">CUT. A man! duped—cheated!</p>
+                     <p rend="justify">BOLT. Up the ladder, Bobby, my boy!</p>
+                     <p rend="justify">MIZ. Yes, we are off!—The devil take the hindmost—Good by, my own true love.</p>
+                     <p rend="justify">CUT. (<hi rend="italic">Feeling about.</hi>) The ladder, where is the ladder?</p>
+                     <p rend="justify">(<hi rend="italic">A crash is heard in the house, as of a door breaking.—Officers appear at window.—Exeunt over wall.—The ladies scream.—Scene closes</hi>)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCENE VIII.</head>
+                     <p rend="justify">Outside of Shop.—Shop shut up, with “Cotton, hosier, &amp;c.” written on it.—The shop door to open.—Stage dark.</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  BOLT <hi rend="italic">and</hi>  MIZZLE.</p>
+                     <p rend="justify">BOLT. Ha! ha! ha! ha! ha!</p>
+                     <p rend="justify">MIZ. Yes, you may ha! ha! ha!—but I don’t see anything to ha! ha! at—No, nor to ho! ho! at neither. I have done with fun for ever.</p>
+                     <p rend="justify">BOLT. Oh! don’t say so! we are all right, you know. Have not I got through beautifully? steered through all the windings and intricacies? Do you suppose a skilful coachman would give a fig for a drive on a smooth road?—No! it is turning the sharp corners that displays ingenuity.</p>
+                     <p rend="justify">MIZ. Ah! but don’t let me be on the box with the said ingenious coachman.</p>
+                     <p rend="justify">BOLT. To be sure it was lucky we overtook young Rattle, with his gig;—if he had not given us a lift, we should not have been home till breakfast time.</p>
+                     <p rend="justify">MIZ. No!—and master would. A pretty figure we should have cut, if we’d arrived in time to find him opening the shutters.</p>
+                     <p rend="justify">BOLT. Well! we’ll go in. (<hi rend="italic">Feels in his pocket.</hi>) Here is the key—No! curse it, there is not!—nor in this pocket!—nor in that!—Bobby, did I give you the key?</p>
+                     <p rend="justify">MIZ. No! (<hi rend="italic">feeling.</hi>) No—I have not got it!</p>
+                     <p rend="justify">BOLT. The deuce! then we have—</p>
+                     <p rend="justify">MIZ. No! you are not going to say the key is lost? don’t say so!</p>
+                     <p rend="justify">BOLT. It is though, whether I say so or not; and now I remember, I heard something chink on the ground, when I jumped off the wall.</p>
+                     <p rend="justify">MIZ. Oh! what a devil of a chink that was!</p>
+                     <p rend="justify">BOLT. It’s confoundedly awkward!</p>
+                     <p rend="justify">MIZ. <hi rend="italic">It</hi>  is? I like that! <hi rend="italic">you</hi>  were confoundedly awkward, you mean. Why did not you do as I do when I carry money? put it in my breeches pocket, and tie pack-thread round.</p>
+                     <p rend="justify">BOLT. Ha! ha! ha! Don’t be down-hearted Bobby—here is a third adventure;—it will have an end. But give me time, my boy, and I’ll get through anything.</p>
+                     <p rend="justify">MIZ. Then if you could get through that keyhole, it would be the best exercise for your ingenuity. (<hi rend="italic">Rain heard.</hi>) ’Gad it is coming on to rain like the very deuce!</p>
+                     <p rend="justify">BOLT. Here is a shelter; we’ll get in here.</p>
+                     <p rend="justify">MIZ. Yes! and we shall soon have the pleasure of seeing Old Cotton let himself in. Crikey! what a well-spent day!</p>
+                     <p rend="justify">(<hi rend="italic">Retire</hi>, 2 L. H.)</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  SAM NEWGATE, R.H., <hi rend="italic">followed by</hi>  PETER PRIG<hi rend="italic">—they are dressed in large great coats—</hi>NEWGATE <hi rend="italic">has a lantern in his hand—the heads of two pistols are just seen one from each pocket—</hi>PRIG <hi rend="italic">has in his hand a black mask.</hi>
+                     </p>
+                     <p rend="justify">NEW. Come along, man; don’t crawl!</p>
+                     <p rend="justify">PRIG. I don’t like it a bit.</p>
+                     <p rend="justify">NEW. Pshaw! you’re not half a fellow,—you’re a humbug, Peter.</p>
+                     <p rend="justify">BOLT. What two respectable individuals.</p>
+                     <p rend="justify">MIZ. Ah! you and I may look like them, if we take many more holidays.</p>
+                     <p rend="justify">NEW. The streets are clear.—So you were old Cotton’s foreman?</p>
+                     <p rend="justify">PRIG. Yes, sure! I was, some time ago!</p>
+                     <p rend="justify">MIZ. Ah! Cotton’s foremen are always pretty blossoms.</p>
+                     <p rend="justify">NEW. And you left this same old Cotton?</p>
+                     <p rend="justify">PRIG. He made me leave, on account of a little exercise of my ingenuity. But you see I was down upon him.</p>
+                     <p rend="justify">NEW. What by taking the impression of the street-door key in wax?—But why the devil did you not go in before?</p>
+                     <p rend="justify">PRIG. Cos I had not the pluck; when I met with you, I was inspired.</p>
+                     <p rend="justify">MIZ. I say, a’n’t you fly?</p>
+                     <p rend="justify">BOLT. Oh, yes, I’m awake!</p>
+                     <p rend="justify">NEW. Don’t look so frightened, man; I have a bull-dog in each pocket. (<hi rend="italic">Shewing pistols.</hi>)</p>
+                     <p rend="justify">MIZ. Sanguinary wretch! Don’t let him see you, Charley—he’ll blow out the few brains we have in no time.</p>
+                     <p rend="justify">NEW. (<hi rend="italic">Opening door with key.</hi>) Here, the door is open; follow quick—good examples should always be followed.</p>
+                     <p rend="justify">(<hi rend="italic">Exit through door.</hi>)</p>
+                     <p rend="justify">PRIG. I’m bless’d if I like it. Oh—h! I must put on the mask; (<hi rend="italic">does so;</hi>) old Cotton knows my good-looking face as well as his own: if he caught a glimpse of me, I should be caught too.</p>
+                     <p rend="justify">(BOLT <hi rend="italic">rushes on him, and throws him down.</hi>)</p>
+                     <p rend="justify">BOLT. So you are, my chicken; think yourself lucky if you don’t get your neck twisted.</p>
+                     <p rend="justify">MIZ. Bravo, Charley! I’ll stand and see fair play.—Take care number one don’t come and fire some Dartford superfine in your face.</p>
+                     <p rend="justify">PRIG. Oh, sir, I am very unwilling to be hanged.</p>
+                     <p rend="justify">BOLT. Then, most worthy character, take off that mask, as I have unmasked you—take off that great coat, as I have dismantled your villainy—and your hat off, because, because, I want it—and now take yourself off.</p>
+                     <p rend="justify">PRIG. Yes, yes! I’ll reform!—I feel a moral change already.</p>
+                     <p rend="justify">(<hi rend="italic">Runs off</hi>, R.)</p>
+                     <p rend="justify">(BOLT <hi rend="italic">dressing in</hi>  PRIG’S <hi rend="italic">clothes.</hi>)</p>
+                     <p rend="justify">MIZ. Why, Charley, what the deuce are you doing now?</p>
+                     <p rend="justify">BOLT. Disguising myself as a thief.</p>
+                     <p rend="justify">MIZ. I have not the slightest doubt of your being able to support the character. But why?</p>
+                     <p rend="justify">BOLT. To walk in after that respectable gentleman.</p>
+                     <p rend="justify">MIZ. I shall not follow—better be sent home than shot.</p>
+                     <p rend="justify">BOLT. There will be two of us.</p>
+                     <p rend="justify">MIZ. Yes, and he has two pistols—can blow out our brains in succession!—Highly advantageous.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Feeling pockets.</hi>) There are no weapons in these pockets. You had better follow.</p>
+                     <p rend="justify">NEW. (<hi rend="italic">Within.</hi>) Where the devil are you?</p>
+                     <p rend="justify">MIZ. No I sha’n’t.</p>
+                     <p rend="justify">NEW. (<hi rend="italic">Comes to door.</hi>) Come along, thick-headed snail!</p>
+                     <p rend="justify">BOLT. Snail, do you call me! Ah, you don’t know what I am.</p>
+                     <p rend="justify">(<hi rend="italic">Exit through door.</hi>)</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Comes forward.</hi>) Egad, there’s one chance,—when master goes home, that fellow may shoot him through the head—he can’t find me out—that would be lucky: but one linendraper should never desert another;—I’ll go into the kitchen—get the poker, and surprise the rascal in the rear.</p>
+                     <p rend="justify">(<hi rend="italic">Exit</hi>, D. F.)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCENE IX.</head>
+                     <p rend="justify">
+                        <hi rend="italic">Chamber, large cupboard in centre.—</hi>NEWGATE <hi rend="italic">and</hi> BOLT <hi rend="italic">discovered at back, taking plate, and putting it in bag.</hi> NEWGATE <hi rend="italic">has a lighted lantern.—Dark.</hi>
+                     </p>
+                     <p rend="justify">NEW. Come, bustle about, man; you’ll see twice as well if you take that mask off.</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Aside.</hi>) My head would follow, I’m thinking.—No, I can see.</p>
+                     <p rend="justify">NEW. That’s right. There go the spoons—there’s the salver—there’s the god-papa’s mug.</p>
+                     <p rend="justify">BOLT. Yes, we are in for the plate.</p>
+                     <p rend="justify">NEW. Ho, ho! you call that a joke?</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Aside.</hi>) More than I do anything else. If I am caught with this fellow, I shall be hanged; and if I move, I shall be shot.</p>
+                     <p rend="justify">NEW. Don’t mumble, but pack, pack!</p>
+                     <p rend="justify">
+                        <hi rend="italic">Enter</hi>  CUTAWAY, HARRIET, COTTON, MISS BROWN, <hi rend="italic">and</hi>  MRS. STITCHLEY, L. H.</p>
+                     <p rend="justify">COT. My dear Mr. Cutaway, you should have explained to me you were the son of the great bobbin-maker, and my ideas on the subject would have been very different.—Come, ladies, if you can find your way in the dark. I have just discharged my servants, and am forced to wait on myself.</p>
+                     <p rend="justify">(<hi rend="italic">Goes to closet</hi>, R.H. <hi rend="italic">for match-box, &amp;c.</hi>)</p>
+                     <p rend="justify">NEW. There’s some one in the room—we are in the wrong box. Put up that cup!</p>
+                     <p rend="justify">BOLT. Ah, I think we have taken a cup too much.</p>
+                     <p rend="justify">NEW. It’s all up—we are floored. There they are—damn it, take this bull-dog—defend yourself.</p>
+                     <p rend="justify">(<hi rend="italic">Gives</hi>  BOLT <hi rend="italic">a pistol.</hi>)</p>
+                     <p rend="justify">BOLT. So I will. (<hi rend="italic">Holds it at</hi>  NEWGATE’S <hi rend="italic">head, and throws off mask.</hi>) Hollo! thieves! house! ho!</p>
+                     <p rend="justify">(MIZZLE <hi rend="italic">enters</hi>  L. <hi rend="italic">with candle—stage light.</hi>)</p>
+                     <p rend="justify">COT. What the devil!—Why, Bolt!</p>
+                     <p rend="justify">BOLT. How d’ye do, sir?</p>
+                     <p rend="justify">COT. And this gentleman——?</p>
+                     <p rend="justify">BOLT. Came to lighten you of your odd moveables,—to fork out your knives, and dish your plates.</p>
+                     <p rend="justify">COT. Give me your hand, Bolt; you’re a fine fellow!</p>
+                     <p rend="justify">NEW. Bolt, they call him; I wish that Bolt was shot.</p>
+                     <p rend="justify">(<hi rend="italic">They put</hi>  NEWGATE <hi rend="italic">in cupboard</hi>, C.)</p>
+                     <p rend="justify">CUT. I think I have seen your face before, sir?</p>
+                     <p rend="justify">BOLT. You have; but pray don’t mention—don’t bear malice.</p>
+                     <p rend="justify">MISS B. That face, too! oh, horror!</p>
+                     <p rend="justify">COT. This is my foreman, ladies, Mr. Bolt, whom, for his valuable services, I intend instantly to take into partnership.</p>
+                     <p rend="justify">MISS B. (<hi rend="italic">To</hi>  COTTON.) Sir! sir!</p>
+                     <p rend="justify">BOLT. Ahem!—There is one thing I have not confess’d; I mean, sir, my passion for this lady.</p>
+                     <p rend="justify">MIZ. Wonderful!</p>
+                     <p rend="justify">MISS B. How!</p>
+                     <p rend="justify">BOLT. (<hi rend="italic">Runs to her, and whispers.</hi>) Say nothing, and you shall be my real wife.—Sir, you will consent to our union?—(<hi rend="italic">Aside.</hi>) It’s a horrid plunge, but I can’t help it.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) Egad, this is jumping from the frying-pan into the fire. I hope the old woman won’t be looking after me.</p>
+                     <p rend="justify">COT. (<hi rend="italic">Takes</hi>  MRS. STITCHLEY’S <hi rend="italic">hand.</hi>) This, Harriet, will be your mother-in-law.</p>
+                     <p rend="justify">MIZ. (<hi rend="italic">Aside.</hi>) A lucky escape!</p>
+                     <p rend="justify">HAR. Then, papa, there will be three weddings.</p>
+                     <p rend="justify">CUT. Yes, we can give away one another.</p>
+                     <p rend="justify">MIZ. While Mr. Addison is content with merely being a spectator.</p>
+                     <p rend="justify">COT. Come, this troublesome day’s work is well over. You have some time had my forgiveness, Harriet; I wish not to say anything unpleasant—but when I contrast your conduct with that of these two excellent young men——</p>
+                     <p rend="justify">BOLT. Oh, sir, we have done but our duty.—Come forward, Bobby.—I repeat it, our duty: our duty is to amuse these ladies and gentlemen,—and if anything we have done has contributed to that desirable end, we certainly think our “Day has been well Spent.”</p>
+                     <p rend="justify">THE END.</p>
+                     <p rend="justify">Savill, Printer, St. Martin’s Lane, Charing Cross.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>Transcriber’s Note</head>
+                  <p rend="justify">This transcription is based on images digitized from a microform copy made available by the University of California, Davis. These images have been posted on the Internet Archive at:</p>
+                  <p rend="justify">
+                     <ref target="https://archive.org/details/OxenfordDayWellSpent">archive.org/details/OxenfordDayWellSpent</ref>
+                  </p>
+                  <p rend="justify">In general, this transcription attempts to retain the formatting, punctuation and spelling of the source text, including variant spellings such as “good by” and “wont” (instead of “won’t”). In a few cases where the quality of the images made a word or a punctuation mark hard to read, the obvious reading was considered the correct reading without comment.</p>
+                  <p rend="justify">The following changes were made:</p>
+                  <list rend="bulleted">
+                     <item>Cover and title page: Changed “Day Well Spent” to “A Day Well Spent.” The original title page gives the title as “Day Well Spent.” On the first page of the text and in the running title throughout, the title is “A Day Well Spent.”</item>
+                     <item>p. 5: COTTON <hi rend="italic">runs across from</hi> R. <hi rend="italic">to</hi> L.—Added a closing parenthesis at the end of the stage direction for consistency.</item>
+                     <item>p. 8: BOLT. Ha, ha, ha! Yes.—(<hi rend="italic">Aside</hi>) Dear Steele! She jumps at it.—I’m magnetic steel. (<hi rend="italic">Whisper</hi>)—Inserted a period after “<hi rend="italic">Aside</hi>” and “<hi rend="italic">Whisper</hi>”.</item>
+                     <item>p. 9: <hi rend="italic">A Room at an Inn—A window open, with balcony, a little to the</hi> R. <hi rend="italic">in flat,—A large screen</hi>—Deleted the comma after “<hi rend="italic">flat</hi>”.</item>
+                     <item>p. 10: (<hi rend="italic">Whispers</hi>) I’ll tell you what we must do, Bobby,—Inserted a period after “<hi rend="italic">Whispers</hi>”.</item>
+                     <item>p. 12: <hi rend="italic">Makes signs to</hi> BOLT<hi rend="italic">—slips</hi> MISS BROWN’S <hi rend="italic">cloak and bonnet offchair</hi>—Changed “<hi rend="italic">offchair</hi>” to “<hi rend="italic">off chair</hi>”.</item>
+                     <item>p. 12: I have it, Mr Cotton has a foreman named Bolt—Added a period after “Mr” for consistency.</item>
+                     <item>p. 18: (<hi rend="italic">Exeunt</hi> MISS B. and MRS. S. L. H.)—Inserted a comma after “MRS. S.”</item>
+                  </list>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
