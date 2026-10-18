@@ -1,0 +1,2985 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tannhäuser</title>
+            <author>Aleister Crowley</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T03:02:57Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/c/CrowleyAleister-Tannh_2023.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Aleister Crowley</name>
+               <date>2024-01-04T03:02:57Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Tannhäuser</head>
+         <author>Aleister Crowley</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/c/CrowleyAleister-Tannh_2023.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>TANNHÄUSER</head>
+            <p rend="justify">
+               <hi rend="bold">XVI</hi>
+            </p>
+            <lg>
+               <l>One is incisive, corrosive;</l>
+               <l>Two retorts, nettled, curt, crepitant;</l>
+               <l>Three makes rejoinder, expansive, explosive;</l>
+               <l>Four overbears them all, strident and strepitant:</l>
+               <l>Five ... O Danaides, O Sieve!</l>
+            </lg>
+            <p rend="justify">
+               <hi rend="bold">XVII</hi>
+            </p>
+            <lg>
+               <l>Now, they ply axes and crowbars;</l>
+               <l>Now, they prick pins at a tissue</l>
+               <l>Fine as a skein of the casuist Escobar’s</l>
+               <l>Worked on the bone of a lie. To what issue?</l>
+               <l>Where is our gain at the Two-bars?</l>
+            </lg>
+            <p rend="justify">
+               <hi rend="bold">XVIII</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi rend="italic">Est fuga, volvitur rota.</hi>
+               </l>
+               <l>On we drift: where looms the dim port?</l>
+               <l>One, Two, Three, Four, Five, contribute their quota;</l>
+               <l>Something is gained, if one caught but the import—</l>
+               <l>Show it us, Hughes of Saxe-Gotha!</l>
+               <l>R. Browning, <hi rend="italic">Master Hughes of Saxe-Gotha</hi>
+               </l>
+            </lg>
+            <p rend="justify">
+               <hi rend="bold">TANNHÄUSER</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="bold">A STORY OF ALL TIME</hi>
+            </p>
+            <p rend="justify">BY</p>
+            <p rend="justify">ALEISTER CROWLEY</p>
+            <lg>
+               <l>
+                  <hi rend="italic">A New Edition</hi>
+               </l>
+               <l>
+                  <hi rend="italic">Price Fifteen Shillings</hi>
+               </l>
+               <l>
+                  <hi rend="italic">net to the trade</hi>
+               </l>
+            </lg>
+            <p rend="justify">SOCIETY FOR THE PROPAGATION OF<lb/>RELIGIOUS TRUTH</p>
+            <p rend="justify">Boleskine, Foyers, Inverness<lb/>1907</p>
+            <p rend="justify">
+               <hi rend="italic">All Rights Reserved</hi>
+            </p>
+            <pb/>
+            <div type="div2">
+               <head>DEDICATION</head>
+               <lg>
+                  <l>I  SHALL not tell thee that I love thee!</l>
+                  <l>Nay! by the Star in Heaven burning,</l>
+                  <l>Its ray to me at midnight turning</l>
+                  <l>To tell me that it beams above thee—</l>
+                  <l>Nay! though thou wert, as I am, yearning,</l>
+                  <l>I should not tell thee that I love thee!</l>
+                  <l>I know what secret thought once blossomed</l>
+                  <l>Into a blush that seemed a kiss,</l>
+                  <l>Some swift suppressed extreme of bliss</l>
+                  <l>In thy most fearful sigh embosomed.</l>
+                  <l>What oracle should prate of this?</l>
+                  <l>I know the secret thought that blossomed!</l>
+                  <l>Extol the truth of love’s disdain!</l>
+                  <l>Love, daring by no glance to gladden</l>
+                  <l>A heart that waits but that to madden </l>
+                  <l>In purple pleasure plucked of pain.</l>
+                  <l>Nay! let our tears, that fail to sadden,</l>
+                  <l>Extol the truth of love’s disdain!</l>
+               </lg>
+               <lg>
+                  <l>Let deeper silence shield the deeper rapture!</l>
+                  <l>Hardly our eyes reveal the inward bliss,</l>
+                  <l>Sealed by no speech and shadowed by no kiss.</l>
+                  <l>Love is no wizard to elude recapture</l>
+                  <l>In the strong prison of his silences!</l>
+                  <l>Let deeper silence shield the deeper rapture!</l>
+                  <l>Twin souls are we, to one Star bound in Heaven!</l>
+                  <l>Twin souls on earth by earthly bars divided!</l>
+                  <l>But, did thy spirit glide as mine has glided</l>
+                  <l>Straight to That Star—no rose-leaves ask to leaven</l>
+                  <l>The manna that the Moon of Love provided!</l>
+                  <l>Twin souls are we, to one Star bound in Heaven!</l>
+                  <l>Not to thy presence in the veil and vision</l>
+                  <l>Of solemn lies that men miscall the world;</l>
+                  <l>Not to thy mind the lightnings truthward hurled</l>
+                  <l>I turn. I laugh dead distance to derision!—</l>
+                  <l>Spirit to spirit: there our loves are curled,</l>
+                  <l>Not to thy presence in the veil and vision! </l>
+                  <l>Beyond the gold and glamour of Life’s lotus,</l>
+                  <l>The flower that falls from this our stronger sight,</l>
+                  <l>We dwell, eternal shapes of shadowy light.</l>
+                  <l>Only the love on earth that shook and smote us</l>
+                  <l>Begets new stars—truth’s flowers fallen through night</l>
+                  <l>Beyond the gold and glamour of Life’s lotus!</l>
+                  <l>Eternal bliss of Love in birthless bowers!</l>
+                  <l>Light, the gemmed robes of Love! Life, lifted breath,</l>
+                  <l>Ageless existence deifying death!</l>
+                  <l>Love, the sole flower beyond these lesser flowers!—</l>
+                  <l>In thee at last the live fruit quickeneth?</l>
+                  <l>Eternal bliss of Love in birthless bowers!</l>
+               </lg>
+               <lg>
+                  <l>There, secret! Know it! Now forget!</l>
+                  <l>Betray not Wisdom unto Folly!</l>
+                  <l>Less sweet is Joy than Melancholy!—</l>
+                  <l>Why should our eyes for this be wet?</l>
+                  <l>Enough: be silent and be holy!</l>
+                  <l>There, secret! Know it! Now forget!</l>
+                  <l>Now I have told thee that I love thee!</l>
+                  <l>To me our Star in Heaven burning</l>
+                  <l>Tells me thy heart as mine is yearning;</l>
+                  <l>Tells me Love’s fragrance stolen above thee</l>
+                  <l>Thy soul to mine at last is turning</l>
+                  <l>Now I have told thee that I love thee!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PREFACE</head>
+               <p rend="justify">As, after long observation and careful study, the biologist sees that what at first seemed isolated and arbitrary acts are really part of a series of regular changes, and presently has the life-history of the being that he is examining clear from Alpha to Omega in his mind; as, during a battle, the relative importance of its various incidents is lost, the more so owing to the excitement and activity of the combatant, and to the fact that he is himself involved in the vicissitudes which he may have set himself to observe; while even for the commander, though the smoke-pall may lift now and again to show some brilliant charge or desperate hand-to-hand struggle, he may fail to grasp its significance in his dispositions; or indeed find it to be quite unexpected and foreign to his calculations; yet a few years or months later the same battle may be lucidly, tersely, and connectedly described, so that a child is able to follow its varying fortunes with delight and comprehension: just so has my own observation of a life-history more subtle, a battle more terrible, been at last co-ordinated: I can view the long struggle from a standpoint altogether complete, calm, and philosophical; and the result of this review is the present story of Tannhäuser, just as the isolated and often apparently contradictory incidents of the fight were recorded in that jungle of chaotic emotions which I printed under the title of “The Soul of Osiris,” calling it a history so that my readers might discover for themselves (if they chose to take the trouble) the real continuity in the apparent disjointedness.</p>
+               <p rend="justify">The history of any man who seriously and desperately dares to force a passage into the penetralia of nature; not with the calm philosophy of the scientist, but with the burning conviction that his immortal destiny is at stake; must be a strange one: to me at least strangely attractive. The constant illusions; the many disappointments; the bitter earnestness of the man amid the grim humour, or more often sheer cacchination of his surroundings; all the bestial mockery of the baffling fiends; the still more hideous mockery in which the Powers of Good themselves seem to indulge; doubt of the reality of that which he seeks; doubt even of the seeker; the irony of the whole strife: are fascinating to me as they are, I make no doubt, to the majority of mankind.</p>
+               <p rend="justify">This is the subtler form of that mental bewilderment which the Greek Tragedians were so fond of depicting; as subtle in effect, yet grosser in its determining factors. For we are thus changed from the times of Sophocles and Euripides; that the fixed ideas of morality and religion which they employed as the motives of pathos or of horror are now shattered. Ibsen, otherwise in spirit and style purely Greek, and dealing as the Greeks did with the emotions of the soul, has realised the changed and infinitely more complex conditions of life; our self-appointed spiritual guides notwithstanding, or, rather, withstanding in vain. Consequently it is impossible any more to divine whether virtue or vice (as understood of old) will cause the irreparable catastrophe which is the one element of drama which we may still (in the work of a modern dramatist) await with any degree of confidence.</p>
+               <p rend="justify">I trust that I may be forgiven for adopting the idea that Tannhäuser was one of those mysterious Germans whose reputed existence so perturbed the Middle Ages; in short, a Rosicrucian. Some people may be surprised that a Member of that illustrious but unhappy fraternity should take cognizance of what my friend Bhikku Ananda Mîtriya calls “hog-nosed Egyptian deities,” still more that he should show reverence to symbols like the B. V. M. and the Holy Grail. But the most learned and profound students of the Mysteries of the Rosy Cross assure me that it was the special excellence of these mystics that they declined to be bound down by any particular system in their sublime search for the Eternal and the Real.</p>
+               <p rend="justify">Under these circumstances I have not scrupled to subvert anything that appeared to me to need subverting in the interests, always identical, of beauty and of truth. Anachronism may be found piled upon anachronism, and symbolism mixed with symbolism. </p>
+               <p rend="justify">In one direction I have restrained myself. Nowhere does Tannhäuser refer to the Vedas and Shastras or to the Dhamma of that blameless hypochondriac, Gotama Buddha. I take all the blame for so important an omission, not without a shrewd suspicion that the commination will take the form of “For this relief much thanks!”</p>
+               <p rend="justify">The particular object that I have in view in speaking both in Hebrew and Egypto-Christian symbology is that by this means I may familiarise my readers with the one thing of any importance that life, travel, and study have taught me, to wit: the Origin of Religions.</p>
+               <p rend="justify">I take it that there have always, or nearly always, been on the earth those whom Councillor von Eckartshäusen, the Svámi Vivekánanda and their like, call “great spiritual giants” (can there be any etymological link between “yogi” and “ogre”?) and that such persons, themselves perceiving Truth, have tried to “diminish the message to the dog” for the benefit of less exalted minds, and hidden that Truth (which, unveiled, would but blind men with its glory) in a mass of symbology often perverted or grotesque, yet to the proper man transparent; a “bait of falsehood to catch the carp of truth.” Now, regarded in this light, all religions, quá religions, are equally contemptible. The Hindu Gnanis say “That which can be thought is not true.” As machineries for the exercise of spiritual and intellectual powers innate or developed, certain sets of symbols may be more or less convenient to a special trend of mind, reason, or imagination; no more: I deny to any one religion the possession of any essential truth which is not also formulated (though in a different language) in every other. To this rule Buddhism appears a solitary exception. Whether it is truly so I have hardly yet decided: the answer depends upon certain recondite mathematical considerations, to discuss which would be foreign to the scope of my present purpose, but which I hope to advance in a subsequent volume.</p>
+               <p rend="justify">If you do not accept my conclusion that all religions are the expression of truth under different aspects, facets of the same intolerable gem, you are forced back on the conclusions of those unpleasing persons the Phallicists. But should you travel to the East, and tell a Lingam-worshipping Sivite that his is a phallic worship he will not be pleased with you. Compare on this point Arnold, “India Revisited,” 1886, p. 112.</p>
+               <p rend="justify">So much for the symbology of this, I fear, much-mangled drama. Drama indeed is an altogether misleading term; monodrama is perhaps better. It is really a series of introspective studies; not necessarily a series in time, but in psychology, and that rather the morbid psychology of the Adept than the gross mentality of the ordinary man.</p>
+               <p rend="justify">It may help some of my readers if I say that my Tannhäuser is nearly identical in scheme with the “Pilgrim’s Progress.” Literary and spiritual experts will however readily detect minor differences in the treatment. It will be sufficient if I state that “the Unknown,” whether minstrel, pilgrim, or Egyptian sage, represents Tannhäuser in his true Self,—the “Only Being in an Abyss of Light!” The Tannhäuser who talks is the “Only Being in an Abyss of Darkness,” the natural man ignorant of his identity with the Supreme Being. The various other characters are all little parts of Tannhäuser’s own consciousness and not real persons at all: whether good or bad, all alike hinder and help (and there is not one whose function is not thus double) the realisation of his true unity with all life. This circumstance serves to explain, though perhaps not to excuse, the lack of dramatic action in the story. Love being throughout the symbol of his method, as Beauty of its object, it is through Love, refined into Pity, that he at last attains the Supreme Knowledge, or at least sufficient of it to put the last straw on the back of his corporeal camel, and bring the story to a fitting end.</p>
+               <p rend="justify">To pass to more mundane affairs. I may mention for the benefit of those who may not be read in certain classes of literature, and so think me original when I am hardly even paraphrasing, that Tannhäuser’s songs in Act IV. are partly adapted from the so-called “Oracles of Zoroaster,” partly from the mysterious utterances of the great angel Avé, perhaps equally spurious. Of course Bertram’s song is merely a rather free adaptation of the two principal fragments of Sappho, which so many people have failed to translate that one can feel no shame in making yet another attempt. There may be one or two conscious plagiarisms besides, for which I do not apologise. For any unconscious ones which may have crept in owing to my prolonged absence from civilized parts, and the consequent lack of opportunity for reference and comparison, I emphatically do.</p>
+               <p rend="justify">One word to the reviewers. It must not be taken as ungracious if I so speak. From nearly all I have received the utmost justice, kindness, and consideration: two or three only seem to take delight in deliberately perverting the sense of my remarks: and to them, for their own sake, I now address these words of elementary instruction. You are perfectly welcome to do with my work in its entirety what Laertes did with his allegiance and his vows: but do not pick out and gloat over a few isolated passages from the Venusberg scenes and call me a sensualist, nor from the Fourth Act and groan “Mysticism!”; do not quote “Two is by shape the Coptic Aspirate” as a sample of my utmost in lyrics; do not take the song of Wolfram as my best work in either sentiment or melody. As a <hi rend="italic">quid pro quo</hi>  I give you all full permission to conclude your review of this book by quoting from Act III. “Forget this nightmare!”</p>
+               <p rend="justify">I must express my great sense of gratitude to Oscar Eckenstein, Gerald Kelly, and Allan MacGregor, who have severally helped me in the work of revision, which has extended over more than a year of time and nearly twenty thousand miles of space. Some few of the very best lines were partially or wholly suggested by themselves, and I have not scrupled to incorporate these: if the book be but a Book, the actual authorship seems to me immaterial. </p>
+               <p rend="justify">I have written this preface in lighter vein, but I hope that no one will be led to suppose that my purpose is anything but deadly serious. This poem has been written in the blood of slain faith and hope; each foolish utterance of Tannhäuser stings me with shame and memory of old agony; each Ignis Fatuus that he so readily pursues, reminds me of my own delusions. But, these follies and delusions being the common property of mankind, I have thought them of sufficient interest, dramatic and philosophical, to form the basis of a poem. Let no man dare to reproach me with posing as the hero of my tale. I fall back on the last utterance of Tannhäuser himself “I say, then, ‘I’: and yet it is not ‘I’ Distinct, but ‘I’ incorporate in All.” Above all, pray understand that I do not pose as a teacher. I am but an asker of questions, such as may be found confronting those who have indeed freed their minds from the conventional commonplaces of the platitudinous, but have not yet dared to uproot the mass of their convictions, and to examine the whole question of religion from its most fundamental source in the consciousness of mankind. Such persons may find the reasoning of Tannhäuser useful, if only to brace them to a more courageous attempt to understand the “Great Arcanum,” and to attain at last, no matter at what cost, to “true Wisdom and perfect Happiness.” So may all happen!</p>
+               <p rend="justify">Kandy, Ceylon, <hi rend="italic">Sept</hi>. 1901.</p>
+               <p rend="justify">
+                  <hi rend="bold">TANNHÄUSER</hi>
+               </p>
+               <p rend="justify">PERSONS CONCERNED</p>
+               <p rend="justify"> </p>
+               <p rend="justify">THE WORLD OF GODS.</p>
+               <p rend="justify">Isis.</p>
+               <p rend="justify">Hathoör.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">THE WORLD OF MEN.</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">Elizabeth.</p>
+               <p rend="justify">An Unknown Minstrel.</p>
+               <p rend="justify">The Landgrave.</p>
+               <p rend="justify">Wolfram,</p>
+               <p rend="justify">  <hi rend="italic">At the Court of the Landgrave</hi>.</p>
+               <p rend="justify">Bertram,</p>
+               <p rend="justify">Heinrich,</p>
+               <p rend="justify">A Shepherd-Boy.</p>
+               <p rend="justify">Pilgrims, Foresters, Courtiers, etc.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">THE WORLD OF DEMONS.</p>
+               <p rend="justify">The Evil and Averse Hathoör, called Venus.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>ACT I.</label>
+               </head>
+               <p rend="justify">“Therefore we are carefully to proceed in Magic, lest that Syrens and other monsters deceive us, which likewise do desire the society of the human soul.”</p>
+               <p rend="justify">
+                  <hi rend="italic">Arbatel of Magic. Aphorism</hi>  35.</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">A lonely and desolate plain. Tannhäuser riding towards a great mountain.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Tannhäuser.</l>
+                  <l>S IX days. Creation took no longer! Yet</l>
+                  <l>I wander eastward, and no light is found.</l>
+                  <l>The stars their motion shirk, or else forget.</l>
+                  <l>The sun—the moon? Imprisoned underground!</l>
+                  <l>Where gnomes disport, and devils do abound.</l>
+                  <l>Six days. I journey to the black unknown,</l>
+                  <l>Always in hope the Infinite may rise</l>
+                  <l>Some unexpected instant, as ’twere grown</l>
+                  <l>A magic palace to enchanted eyes;</l>
+                  <l>A wizard guerdon for a minstrel wise.</l>
+                  <l>Perhaps I am a fool to think that here,</l>
+                  <l>Merely by rending Nature’s hollow veil,</l>
+                  <l>I may attain the Solitary Sphere,</l>
+                  <l>Achieve the Path; or, haply, if I fail,</l>
+                  <l>Gain the Elixir, or behold the Grail. </l>
+                  <l>I seek the mystery of Life and Time,</l>
+                  <l>The Key of all that is not and that is,</l>
+                  <l>And that which—climb, imagination! climb!—</l>
+                  <l>Transcends them both—the mystical abyss</l>
+                  <l>Where Mind and Being marry, and are Bliss.</l>
+                  <l>So have I journeyed—like a fool! Ah, well!</l>
+                  <l>Let pass self-scorn, as love of self is past!</l>
+                  <l>But—am I further forward? Who can tell?</l>
+                  <l>God is the Complex as the Protoplast:</l>
+                  <l>He is the First (not “was”), and is the Last</l>
+                  <l>(Not “will be”). Then why travel? To what end?</l>
+                  <l>What is the symbol I am set to find?</l>
+                  <l>What is that burning heart of blood to spend</l>
+                  <l>Caught in a sunset with the night behind,</l>
+                  <l>The Grail of God? I would that I were blind!</l>
+                  <l>I would that I were desolate and dumb,</l>
+                  <l>Naked and poor! That He might manifest</l>
+                  <l>A crimson glory subtly caught and come,</l>
+                  <l>An opal crucible of Alkahest!</l>
+                  <l>And yet—what gain of vital gold expressed? </l>
+                  <l>This were my guerdon: to fade utterly</l>
+                  <l>Into the rose-heart of that sanguine vase,</l>
+                  <l>And lose my purpose in its silent sea,</l>
+                  <l>And lose my life, and find my life, and pass</l>
+                  <l>Up to the sea that is as molten glass.</l>
+                  <l>I mind me of that old Egyptian,</l>
+                  <l>Met where Aurora streamed her rainbow hair,</l>
+                  <l>Who called me from the quest. An holy man!</l>
+                  <l>A crown of light scintillant in the air</l>
+                  <l>Shone over him: he bade me not despair.</l>
+                  <l>“The Blood of the Osiris” was his word:</l>
+                  <l>(Meaning the Christ?) “The life, the tears, the tomb!</l>
+                  <l>The Love of Isis is its name!” (I heard</l>
+                  <l>This for the love of Mary.) In her womb</l>
+                  <l>Brews the Elixir, and the roses bloom.</l>
+                  <l>For the Three Maries (so he said) were One:</l>
+                  <l>Three aspects of the mystic spouse of God,</l>
+                  <l>Isis! This pagan! “Look towards the Sun”</l>
+                  <l>(Quoth he) “And seek a winepress to be trod;</l>
+                  <l>With Beauty girdled, garlanded, and shod.” </l>
+                  <l>“Thus,” riddled he, “thy heart shall know its Peace!”</l>
+                  <l>Let be! I ride upon the sand instead,</l>
+                  <l>Look to the Cross, whereon I take mine ease!</l>
+                  <l>Let be! Just so the Roman soldier said.</l>
+                  <l>Esaias? He is dead—as I am dead!</l>
+                  <l>What was his symbol and his riddle’s key?</l>
+                  <l>Go, seek the stars and count them and explore!</l>
+                  <l>Go, sift the sands beyond a starless sea!</l>
+                  <l>So, find an answer where the dismal shore</l>
+                  <l>Of time beats back eternity! No more!</l>
+                  <l>Let me ride on more hastily than this,</l>
+                  <l>That so my body may be tired of me,</l>
+                  <l>And fling me to the old forgetful kiss,</l>
+                  <l>Sleep’s, when my mind goes, riderless and free,</l>
+                  <l>Into some corner of eternity.</l>
+                  <l>Alas! that mind returns from its abode</l>
+                  <l>With newer problems, fiercer thoughts! But stay!</l>
+                  <l>Suppose it came not? It must be with God!—</l>
+                  <l>Then this dull house of gold and iron and clay</l>
+                  <l>Is happy also—’tis an easy way! </l>
+                  <l>So easy, I am fearful of mishap.</l>
+                  <l>Some fatal argument the God must find</l>
+                  <l>That linked us first. The dice are in His lap—</l>
+                  <l>Let Him decide in His imperial mind!</l>
+                  <l>My choice; to see entirely—and be blind!</l>
+                  <l>Yet I bethink me of that holy man,</l>
+                  <l>(Pagan albeit) my stirrup’s wisdom-share:</l>
+                  <l>“Learn this from Thothmes the Egyptian.</l>
+                  <l>Use only in thine uttermost despair!”</l>
+                  <l>He whispered me a Word. “Beware! Beware!”</l>
+                  <l>“Two voices are there in the sullen sea;</l>
+                  <l>Two functions hath the inevitable fire;</l>
+                  <l>Earthquake hath earth, and yet fertility:</l>
+                  <l>See to thy purpose, and thy set desire!</l>
+                  <l>Else, dire the fate—the ultimation dire!”</l>
+                  <l>Vague threats and foolish words! Quite meaningless</l>
+                  <l>The empty sounds he muttered in mine ear.</l>
+                  <l>Why should their silly mystery impress</l>
+                  <l>My thoughtful forehead with the lines of fear?</l>
+               </lg>
+               <p rend="justify">(This riding saps my courage as my cheer.) </p>
+               <p rend="justify">Still, I must see his symbol of the Sun,</p>
+               <p rend="justify">The Winepress, and the Beauty! Puerile</p>
+               <p rend="justify">And pagan to that old mysterious one,</p>
+               <p rend="justify">The awful Light and the anointed Vial,</p>
+               <p rend="justify">The Dawning of the Blood, even as a smile:—</p>
+               <p rend="justify">Even as a smile on Beauty’s burning cheek—</p>
+               <p rend="justify">Ha! In a circle? As this journey is?</p>
+               <p rend="justify">How vain is man’s imagining and weak!</p>
+               <p rend="justify">Begod my lady, and my lady’s kiss?</p>
+               <p rend="justify">Back swing we to the pitiful abyss.</p>
+               <p rend="justify">Liken God’s being to the life of man.</p>
+               <p rend="justify">So reason staggers. Angels, answer me!</p>
+               <p rend="justify">Ye who have watched the far unfolding plan—</p>
+               <p rend="justify">How is time shorter than eternity?</p>
+               <p rend="justify">Prove it and weigh! By mind it cannot be.</p>
+               <lg>
+                  <l>All our divisions spring in our own brain.</l>
+                  <l>See! As upsprings on the horizon there</l>
+                  <l>A clefted hill contemptuous of the plain.</l>
+                  <l>(Why, which is higher?) I am in despair.</l>
+                  <l>Let me essay the Pharaoh and his prayer!</l>
+                  <l>[<hi rend="italic">Tannhäuser speaks the Word of Double Power.</hi>
+                  </l>
+                  <l>Oh God, Thy blinding beauty, and the light</l>
+                  <l>Shed from Thy shoulders, and the golden night</l>
+                  <l>Of mingling fire and stars and roses swart</l>
+                  <l>In the long flame of hair that leaps athwart,</l>
+                  <l>Live in each tingling gossamer! Dread eyes!</l>
+                  <l>Each flings its arrow of sharp sacrifice,</l>
+                  <l>Eating me up with poison! I am hurled</l>
+                  <l>Far through the vaporous confines of the world</l>
+                  <l>With agony of sundering sense, beholding</l>
+                  <l>Thy mighty flower, blood-coloured death, unfolding!</l>
+                  <l>Lithe limbs and supple shoulders and lips curled,</l>
+                  <l>Curled out to draw me to their monstrous world!</l>
+                  <l>Warm breasts that glow with light ephemeral</l>
+                  <l>And move with passionate music to enthrall,</l>
+                  <l>To charm, to enchant, to seal the entrancing breath.</l>
+                  <l>I fall! Stop! Spare me!—Slay me!</l>
+                  <l>[<hi rend="italic">Tannhäuser enters into an ecstasy.</hi>
+                  </l>
+                  <l>This is death.</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">The evil and averse Hathoör, or Venus, who hath arisen in the place of the Great Goddess, lifteth up her voice and chanteth</hi>:—</p>
+               <lg>
+                  <l>Venus.</l>
+                  <l>Isis am I, and from my life are fed</l>
+                  <l>All showers and suns, all moons that wax and wane,</l>
+                  <l>All stars and streams, the living and the dead,</l>
+                  <l>The mystery of pleasure and of pain. </l>
+                  <l>I am the mother! I the speaking sea!</l>
+                  <l>I am the earth and its fertility!</l>
+                  <l>Life, death, love, hatred, light, darkness, return to me—</l>
+                  <l>To me!</l>
+                  <l>Hathoör am I, and to my beauty drawn</l>
+                  <l>All glories of the Universe bow down,</l>
+                  <l>The blossom and the mountain and the dawn,</l>
+                  <l>Fruit’s blush, and woman, our creation’s crown.</l>
+                  <l>I am the priest, the sacrifice, the shrine,</l>
+                  <l>I am the love and life of the divine!</l>
+                  <l>Life, death, love, hatred, light, darkness are surely mine—</l>
+                  <l>Are mine!</l>
+                  <l>Venus am I, the love and light of earth,</l>
+                  <l>The wealth of kisses, the delight of tears,</l>
+                  <l>The barren pleasure never come to birth,</l>
+                  <l>The endless, infinite desire of years.</l>
+                  <l>I am the shrine at which thy long desire</l>
+                  <l>Devoured thee with intolerable fire.</l>
+                  <l>I was song, music, passion, death, upon thy lyre—</l>
+                  <l>Thy lyre!</l>
+                  <l>I am the Grail and I the Glory now:</l>
+                  <l>I am the flame and fuel of thy breast;</l>
+                  <l>I am the star of God upon thy brow;</l>
+                  <l>I am thy queen, enraptured and possessed. </l>
+                  <l>Hide thee, sweet river; welcome to the sea,</l>
+                  <l>Ocean of love that shall encompass thee!</l>
+                  <l>Life, death, love, hatred, light, darkness, return to me—</l>
+                  <l>To me!</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">Tannhäuser perceives that he is in the palace</hi>
+                  <lb/>
+                  <hi rend="italic">of a Great Queen.</hi>
+               </p>
+               <lg>
+                  <l>Rise, rise, my knight! My king! My love, arise!</l>
+                  <l>See the grave avenues of Paradise,</l>
+                  <l>The dewy larches bending at my breath,</l>
+                  <l>Portentous cedars prophesying death!</l>
+                  <l>See the long vistas and the dancing sea,</l>
+                  <l>The measured motion of fecundity!</l>
+                  <l>Bright winds set swaying the soft-sounding flowers</l>
+                  <l>(Here flowers have music) in my woven bowers,</l>
+                  <l>Where sweet birds blossom, and in chorus quire</l>
+                  <l>The rapt beginnings of immense desire.</l>
+                  <l>Here is the light and rapture of the will:</l>
+                  <l>We touch the stars—and they are tiny still!</l>
+                  <l>O mighty thews! O godlike face and hair!</l>
+                  <l>Rise up and take me; ay, and keep me there,</l>
+                  <l>One tingle at thy touch from head to feet;</l>
+                  <l>Lips that cling close, and never seem to meet,</l>
+                  <l>Melting as sunlight melts in wine! Arise!</l>
+                  <l>Shame! Has thy learning left thee overwise?</l>
+                  <l>Thy lips sing fondly—to another tune.</l>
+                  <l>Nay! ’twas my breathing beauty made thee swoon, </l>
+                  <l>Dread forkéd fire across the cloven sky;</l>
+                  <l>Stripped off thy body of mortality—</l>
+                  <l>Nay, but on steeper slopes my love shall strive!</l>
+                  <l>Our bodies perish and our hearts revive</l>
+                  <l>Vainly, unless the shaking sense beware</l>
+                  <l>The crested snakes shot trembling through our hair,</l>
+                  <l>Their wisdom! But our souls leap, flash, unite,</l>
+                  <l>One crownéd column of avenging light,</l>
+                  <l>Fixed and yet floating, infinite, immense,</l>
+                  <l>Caught in the meshes of the cruel sense,</l>
+                  <l>Two kissing breaths of agony and pleasure,</l>
+                  <l>Mixed, crowned, divided, beyond age or measure,</l>
+                  <l>Time, thought, or being! Now thine eyes awake,</l>
+                  <l>Droop at my kisses; the long lashes slake</l>
+                  <l>Their sleek and silky thirst in tears of light!</l>
+                  <l>Thine eyes! They burn me, even me! They smite</l>
+                  <l>Me who am scatheless, and a flame of fire.</l>
+                  <l>See, in our sorrow and intense desire</l>
+                  <l>All worlds are caught and sealed! The stars are taken</l>
+                  <l>In love’s weak web, and gathered up, and shaken!</l>
+                  <l>Our word is mighty on the magic moon!</l>
+                  <l>The sun resurges to our triple tune!</l>
+                  <l>(See, it is done!) O chosen of the Christ!</l>
+                  <l>My knight, and king, and lover, wast thou priced,</l>
+                  <l>A portion in the all-pervading bliss,</l>
+                  <l>Thou, whom I value at my ageless kiss? </l>
+                  <l>Chosen of Me! Thou heart of hearts, thou mine,</l>
+                  <l>Man! Stamping into dust the Soul Divine</l>
+                  <l>By might of that mere Manhood! Sense and thought</l>
+                  <l>Reel for the glory of thee kissed and caught</l>
+                  <l>In the eternal circle of my arms!</l>
+                  <l>Woven in vain are the mysterious charms</l>
+                  <l>Endymion taught Diana! For one gaze;</l>
+                  <l>One word of my unutterable praise;</l>
+                  <l>And I was utterly and ever lost,</l>
+                  <l>Lost in the whirlwind of thy love, and tossed</l>
+                  <l>A wreck on its irremeable sea!</l>
+                  <l>Life! Life! This kiss! Draw in thy breath! To me!</l>
+                  <l>To me![<hi rend="italic">Tannhäuser is lost.</hi>
+                  </l>
+               </lg>
+               <p rend="justify"> <lb/>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>ACT II.</label>
+               </head>
+               <lg>
+                  <l>“But a moment’s thought is passion’s passing bell.” </l>
+                  <l>—Keats, <hi rend="italic">Lamia</hi>.</l>
+                  <l>
+                     <hi rend="italic">In Venusberg.</hi>
+                  </l>
+                  <l>Venus.</l>
+                  <l>S WEET, sweet are May and June, dear,</l>
+                  <l>The loves of lambent spring,</l>
+                  <l>Our lamp the drooping moon, dear,</l>
+                  <l>Our roof, the stars that sing;</l>
+                  <l>The bed, of moss and roses;</l>
+                  <l>The night, as long as death!</l>
+                  <l>Still, breath!</l>
+                  <l>Life wakens and reposes,</l>
+                  <l>Love ever quickeneth!</l>
+                  <l>Sweet, sweet, when Lion and Maiden,</l>
+                  <l>The motley months of gold,</l>
+                  <l>Swoop down with sunlight laden,</l>
+                  <l>And eyes are bright and bold.</l>
+                  <l>Life-swelling breasts uncover </l>
+                  <l>Their warm involving deep—</l>
+                  <l>Love, sleep!—</l>
+                  <l>And lover lies with lover</l>
+                  <l>On air’s substantial steep.</l>
+                  <l>Tannhäuser.</l>
+                  <l>Ah! sweeter was September—</l>
+                  <l>The amber rain of leaves,</l>
+                  <l>The harvest to remember,</l>
+                  <l>The load of sunny sheaves.</l>
+                  <l>In gardens deeply scented,</l>
+                  <l>In orchards heavily hung,</l>
+                  <l>Love flung</l>
+                  <l>Away the days demented</l>
+                  <l>With lips that curled and clung.</l>
+                  <l>Ah! Sweeter still October,</l>
+                  <l>When russet leaves go grey,</l>
+                  <l>And sombre loves and sober</l>
+                  <l>Make twilight of the day.</l>
+                  <l>Dark dreams and shadows tenser</l>
+                  <l>Throb through the vital scroll,</l>
+                  <l>Man’s soul,</l>
+                  <l>Lift, shake the subtle censer</l>
+                  <l>That hides the cruel coal! </l>
+                  <l>Still sweeter when the Bowman</l>
+                  <l>His silky shaft of frost</l>
+                  <l>Lets loose on earth, that no man</l>
+                  <l>May linger nor be lost.</l>
+                  <l>The barren woods, deserted,</l>
+                  <l>Lose echo of our sighs—</l>
+                  <l>Love—dies?—</l>
+                  <l>Love lives—in granite skirted,</l>
+                  <l>And under oaken skies.</l>
+                  <l>But best is grim December,</l>
+                  <l>The Goatish God his power;</l>
+                  <l>The Satyr blows the ember,</l>
+                  <l>And pain is passion’s flower;</l>
+                  <l>When blood drips over kisses,</l>
+                  <l>And madness sobs through wine:—</l>
+                  <l>Ah, mine!—</l>
+                  <l>The snake starts up and hisses</l>
+                  <l>And strikes and—I am thine!</l>
+                  <l>Venus.</l>
+                  <l>Those are thy true joys? Cruelty for love?</l>
+                  <l>Tannhäuser.</l>
+                  <l>And death in kissing. How I have despised,</l>
+                  <l>Riding through meadows of the rushing Rhine, </l>
+                  <l>To watch the gentle foresters of spring</l>
+                  <l>Crush dainty violets in their dalliance,</l>
+                  <l>Laughing in chorus with the birds; and then</l>
+               </lg>
+               <p rend="justify">(Coming at harvest time upon my tracks)</p>
+               <lg>
+                  <l>See these same lovers in the golden sheaves</l>
+                  <l>Under the sun. The same, the fuller fruit,</l>
+                  <l>Say you? But somehow, nearer to the end,</l>
+                  <l>Lost the old sense of mystery, and lost</l>
+                  <l>That curious reverence in sacrilege</l>
+                  <l>With Wonder—the child’s faculty! Less joy,</l>
+                  <l>Less laughter, yes! that symptom I approve;</l>
+                  <l>Yet is that subtle fading-out of smiles</l>
+                  <l>Rather the coming of a dull despair,</l>
+                  <l>And not at all that keen despair, that sharp</l>
+                  <l>Maddening pain that should torment a man</l>
+                  <l>With deadliest delight, the self-same hour</l>
+                  <l>That he unveils the Isis of desire.</l>
+                  <l>These little lovers strip their maidens bare,</l>
+                  <l>And find them—naked! Poor and pitiful!</l>
+                  <l>Look at our love instead! I raised Thy veil,</l>
+                  <l>Nay, tore Thy vesture from Thee, and behold!</l>
+                  <l>Then only did I see what mystery,</l>
+                  <l>What ninefold forest, shade impassible,</l>
+                  <l>Surrounds Thy heart, as with a core of light</l>
+                  <l>Shut in the mystery of a dead world.</l>
+                  <l>Thou formless sense of gloom and terror! Thou</l>
+                  <l>Upas, new tree of life—by sinister </l>
+                  <l>Cherubim with averted faces kept!</l>
+                  <l>Nay! This one secret I suspect, and gloat</l>
+                  <l>Over the solemn purport of the dream</l>
+                  <l>With subtle shuddering of joy,—and that</l>
+                  <l>Keener delight, a sense of deadly fear!</l>
+                  <l>This secret: Thou art darkness in Thyself,</l>
+                  <l>And evil wrapped in light, and ugliness</l>
+                  <l>Vested in beauty! Therefore is my love</l>
+                  <l>No petty passion like these country-folk’s:</l>
+                  <l>No fertile glory (as the Love of God):</l>
+                  <l>But vast and barren as the winter sea,</l>
+                  <l>Holding I know not what enormous soul</l>
+                  <l>In its salt bitter bosom, underneath</l>
+                  <l>The iron waters and the serpent foam;</l>
+                  <l>Below, where sight and sound are set no more,</l>
+                  <l>But only the intolerable weight</l>
+                  <l>Of its own gloomy selfhood. This am I:</l>
+                  <l>This passion, lion-mouthed and adder-eyed.</l>
+                  <l>A mass compressed, a glowing central core,</l>
+                  <l>Like molten metal in the crucible!</l>
+                  <l>Death’s secret is some sweetness ultimate,</l>
+                  <l>Sweeter than poison. Ah! My very words,</l>
+                  <l>Chance phrases, ravel out the tale for me—</l>
+                  <l>Sweetness and death—poison and love. Consider</l>
+                  <l>How this same striving to the Infinite,</l>
+                  <l>Which I intend by “love,” is likest to</l>
+                  <l>That journey’s wonder to the womb of death: </l>
+                  <l>Because no soul of man has ever crossed</l>
+                  <l>Again that River—the old fable’s wrong;</l>
+                  <l>Æneas came never to the ghostly side!</l>
+                  <l>Was not the boat weighed with his body still?</l>
+                  <l>Felt he the keen emotions of the dead?</l>
+                  <l>Could he, the mortal and the warrior,</l>
+                  <l>Converse with Them, and understand? Believe!</l>
+                  <l>No soul has crossed in utter sympathy</l>
+                  <l>And yet returned; because of this decree:</l>
+                  <l>No man can look upon the face of God!</l>
+                  <l>Yet Moses looked upon His hinder parts,</l>
+                  <l>And I—yes, goddess! in this passionate</l>
+                  <l>Life in our secret mountain, well I know</l>
+                  <l>Thy beauty, and Thy love, (although they be</l>
+                  <l>Infinite, far beyond the mortal mind,</l>
+                  <l>Body, or soul to touch, to comprehend,</l>
+                  <l>And dwell in) that the utter intimate</l>
+                  <l>Knowledge of Thee, if once I ravelled out</l>
+                  <l>Thy secret, laid Thee naked to the bone—</l>
+                  <l>Nay, to the marrow! were to come, aware,</l>
+                  <l>Face to face full with deity itself.</l>
+                  <l>And this I strive at! Therefore is my love</l>
+                  <l>Wholly in tune with that concealed desire</l>
+                  <l>Bred in each mortal, though he never know,</l>
+                  <l>(Few do know) to transcend the bound of things,</l>
+                  <l>And find in Death the purpose of this life. </l>
+                  <l>Venus.</l>
+                  <l>Yes, there you tear one veil away from me!</l>
+                  <l>Yet, am not I the willing one? Indeed</l>
+                  <l>I feel the wonder of that same desire</l>
+                  <l>From mine own side of the Impassible.</l>
+                  <l>See then how equal God and man are made!</l>
+                  <l>For I have clothed me in the veil of flesh,</l>
+                  <l>And strive toward thy finite consciousness</l>
+                  <l>As thou art reaching to my infinite,</l>
+                  <l>Nurturing my Godhead at the breast of Sin</l>
+                  <l>With milk of fleshly stings—even to pain:—</l>
+                  <l>Tannhäuser.</l>
+                  <l>I see, I see the Christian mystery!</l>
+                  <l>That was the purpose of High God Himself,</l>
+                  <l>Clothed in the Christ! Ah! Triumphed He at last?</l>
+                  <l>Nay, not in death! The slave—He rose again!</l>
+                  <l>Alas! Alas!</l>
+                  <l>Venus.</l>
+                  <l>Alas indeed, my knight!</l>
+                  <l>We love not! Being both enamoured of</l>
+                  <l>Just the one thing that is impossible.</l>
+                  <l>But in this carnal strife the Intimate</l>
+                  <l>Achieves for one snatched swiftness. Kiss me, love! </l>
+                  <l>Tannhäuser.</l>
+                  <l>Ah, but the waking! As I sink to sleep</l>
+                  <l>Pillowed in nuptial arms—so fresh and cool—</l>
+                  <l>(Yet in their veins I know the fire that runs</l>
+                  <l>Racing and maddening from the crown of flame,</l>
+                  <l>The monolithic core of mystical</l>
+                  <l>Red fury that is called a woman’s heart)</l>
+                  <l>Sinking, I say, from the supreme embrace,</l>
+                  <l>The Good-night kisses; sinking into sleep—</l>
+                  <l>What dreams betoken the dread solitude?</l>
+                  <l>Venus.</l>
+                  <l>What dreams? Ah, dreamest not of me, my knight?</l>
+                  <l>Of vast caresses that include all worlds?</l>
+                  <l>Of transmutation into molten steel</l>
+                  <l>Fusing with my intolerable gold</l>
+                  <l>In the red crucible of alchemy,</l>
+                  <l>That is—of clay?</l>
+                  <l>Tannhäuser.</l>
+                  <l>I dream of no such thing.</l>
+                  <l>But of Thy likeness have I often seen</l>
+                  <l>The vast presentment—formless, palpable,</l>
+                  <l>Breathing. Not breathing as we use the word,</l>
+                  <l>When life and spirit mingle in one breath,</l>
+                  <l>Slay passion in one kiss—breathing, I say,</l>
+                  <l>Differently from Thee! </l>
+                  <l>Venus.</l>
+                  <l>Explain, explain!</l>
+                  <l>Tannhäuser.</l>
+                  <l>As if were kindled into gold and fire</l>
+                  <l>The East!</l>
+                  <l>Venus.</l>
+                  <l>The East!</l>
+                  <l>Tannhäuser.</l>
+                  <l>As if a flowerless moss</l>
+                  <l>Suddenly broke in passionate primroses!</l>
+                  <l>Venus.</l>
+                  <l>Violets, violets!</l>
+                  <l>Tannhäuser.</l>
+                  <l>Or as if a man</l>
+                  <l>Lay in the fairest garden of the world,</l>
+                  <l>In the beginning: and grew suddenly</l>
+                  <l>A living soul at that caressing wind!</l>
+                  <l>Venus.</l>
+                  <l>A living soul!</l>
+                  <l>Tannhäuser.</l>
+                  <l>So is Thy shade to me</l>
+                  <l>When sleep takes shape. </l>
+                  <l>Venus.</l>
+                  <l>She is mine enemy</l>
+                  <l>Hate her, O hate her, she will slay thy soul!</l>
+                  <l>Tannhäuser.</l>
+                  <l>And is my soul not slain within me now?</l>
+                  <l>Yet, I do hate her—in these waking hours.</l>
+                  <l>But in my sleep she grows upon the sense,</l>
+                  <l>A solitary lotus that pales forth</l>
+                  <l>In the wide seas of space and separateness.</l>
+                  <l>That radiance!—Amber-scented voice of light,</l>
+                  <l>Calling my name, ever, ever calling—</l>
+                  <l>Venus.</l>
+                  <l>Answer that call—and thou art lost indeed!</l>
+                  <l>Wake thou thy spirit in this hateful sleep,</l>
+                  <l>Keeping the vision, rise, and spit on her!</l>
+                  <l>Tannhäuser.</l>
+                  <l>Spit on Thy likeness? I who love Thee so?</l>
+                  <l>Venus.</l>
+                  <l>Yes, yes: obey me! She will leave thee then.</l>
+                  <l>She hath assumed mine image! [<hi rend="italic">Thunder.</hi>
+                  </l>
+                  <l>Tannhäuser.</l>
+                  <l>What is that? </l>
+                  <l>Venus.</l>
+                  <l>Mere thunder on the mountain top. Do this,</l>
+                  <l>And I will come in sleep, in sleep renew</l>
+                  <l>The carnal joys of day.</l>
+                  <l>Tannhäuser.</l>
+                  <l>Hast Thou forgot?</l>
+                  <l>It is the fleshly I would flee!</l>
+                  <l>Venus.</l>
+                  <l>Forget?</l>
+                  <l>But I strive fleshwards. Let our sleep renew</l>
+                  <l>The endless struggle—and perhaps, for thee,</l>
+                  <l>For thee!—the veil may lift another fold.</l>
+                  <l>Tannhäuser.</l>
+                  <l>Why dost Thou hate this vision?</l>
+                  <l>Venus.</l>
+                  <l>She would take</l>
+                  <l>Thee from these arms!</l>
+                  <l>Tannhäuser.</l>
+                  <l>But she is beautiful</l>
+                  <l>With Thine own beauty: yet as if the God</l>
+                  <l>Cancelled its mortal comeliness, and came</l>
+                  <l>More intimate than matter, closing in </l>
+                  <l>Keen on my spirit; as if all I sought</l>
+                  <l>In Thine own symbol, Beauty, were concealed</l>
+                  <l>Under her brows—how wider than the air!</l>
+                  <l>How deeper than the sea! How radiant</l>
+                  <l>Beyond the fire!</l>
+                  <l>Venus.</l>
+                  <l>O shun her devilish lures!</l>
+                  <l>That Beauty is the sole detested fear</l>
+                  <l>That can annul our conquests, and arouse</l>
+                  <l>Our rapt dream-kisses.</l>
+                  <l>Tannhäuser.</l>
+                  <l>That is my intent.</l>
+                  <l>It is the spiritual life of things</l>
+                  <l>I seek—Thou knowest!</l>
+                  <l>Venus.</l>
+                  <l>Oh, I did not mean!</l>
+                  <l>Remember my dilemma! Hear me speak</l>
+                  <l>The story of her. She is a wicked witch</l>
+                  <l>That seeketh to delude thy sleepy sense</l>
+                  <l>In vicious purpose and malignant hope</l>
+                  <l>To ape my Godhead. [<hi rend="italic">Thunder.</hi>
+                  </l>
+                  <l>Tannhäuser.</l>
+                  <l>Thunder rolls again.</l>
+                  <l>I am uneasy. </l>
+                  <l>Venus.</l>
+                  <l>Heed it not at all!</l>
+                  <l>May not my servants of the elements</l>
+                  <l>Play children’s gambols on the mountain crest</l>
+                  <l>About our fortress? Leave this idle talk!</l>
+                  <l>Come, in this sweet abandonment of self—</l>
+                  <l>Come, with this kiss I seal thy loyal oath</l>
+                  <l>To spit upon her!</l>
+                  <l>Tannhäuser.</l>
+                  <l>Ah, you murder me!</l>
+                  <l>[<hi rend="italic">Sings.</hi>
+                  </l>
+                  <l>Come, love, and kiss my shoulders! Sleepy lies</l>
+                  <l>The tinted bosom whence its fire flies,</l>
+                  <l>The breathing life of thee, and swoons, and sighs,</l>
+                  <l>And dies!</l>
+                  <l>None but the dead can know the worth of love!</l>
+                  <l>Come, love, thy bosom to my heart recalls</l>
+                  <l>Strange festivals and subtle funerals.</l>
+                  <l>Soft passion rises in the amber walls,</l>
+                  <l>And falls!</l>
+                  <l>None but the dead can breathe the life of love!</l>
+                  <l>Come, love, thy lips, curved hollow as the moon’s!</l>
+                  <l>Bring me thy kisses, for the seawind tunes, </l>
+                  <l>The song that soars, and reads the starry runes,</l>
+                  <l>And swoons!</l>
+                  <l>None but the dead can tune the lyre of love!</l>
+                  <l>Come, love, thy body serpentine and bright!</l>
+                  <l>What love is this, the heart of sombre light,</l>
+                  <l>Impossible, and therefore infinite?</l>
+                  <l>Sheer height!</l>
+                  <l>None but the dead can twine the limbs of love.</l>
+                  <l>Come, love! My body in thy passion weeps</l>
+                  <l>Tears keen as dewfall’s, salter than the deep’s.</l>
+                  <l>My bosom! How its fortress wakes, and leaps,</l>
+                  <l>And sleeps!</l>
+                  <l>None but the dead can sleep the sleep of love!</l>
+                  <l>Come, love, caress me with endearing eyes!</l>
+                  <l>Light the long rapture that nor fades nor flies!</l>
+                  <l>Love laughs and lingers, frenzies, stabs, and sighs,</l>
+                  <l>And dies!</l>
+                  <l>None but the dead can know the worth of love!</l>
+                  <l>[<hi rend="italic">Tannhäuser sleeps.</hi>
+                  </l>
+                  <l>Venus.</l>
+                  <l>Sleep on, poor fool, and in thy sleep forlorn</l>
+                  <l>Defy the very beauty that thou seekest!</l>
+                  <l>Now is the solemn portal of the dusk</l>
+                  <l>Lifted; and in the gleaming silver-gray, </l>
+                  <l>The eastern sky, steps out the single One,</l>
+                  <l>Hathoör and Aphrodite—whom I mock!</l>
+                  <l>I may not follow in the dimness—I</l>
+                  <l>Chained unto matter by my evil will,</l>
+                  <l>Delight of death and carnal life. But see!</l>
+                  <l>He stirs, as one beholding in a dream</l>
+                  <l>Some deadly serpent or foul basilisk</l>
+                  <l>Sunning its scales, called kingly, in the mire.</l>
+                  <l>Strike, O my lover! I will drag thee down</l>
+                  <l>Into mine own unending pain and hate</l>
+                  <l>To be one devil more upon the earth.—</l>
+                  <l>Come! ye my serpents, wrap his bosom round</l>
+                  <l>With your entangling leprosy! And me,</l>
+                  <l>Let me assume the belovéd limber shape,</l>
+                  <l>The crested head, the jewelled eyes of death,</l>
+                  <l>And sinuous sinewy glitter of serpenthood,</l>
+                  <l>That I may look once more into his face,</l>
+                  <l>And, kissing, kill him! Thus to hold him fast,</l>
+                  <l>Drawing his human spirit into mine</l>
+                  <l>For strength, for life, for poison! Ah, my God!</l>
+                  <l>These pangs, these torments! See! the sleeper wakes!</l>
+                  <l>I am triumphant! For he reaches out</l>
+                  <l>The sleepy arms, and turns the drowsy head</l>
+                  <l>To catch the dew dissolving of my lip.</l>
+                  <l>Wake, lover, wake! Thy Venus waits for thee!</l>
+                  <l>Draw back, look, hunger!—and thy mouth is mine. </l>
+                  <l>Tannhäuser.</l>
+                  <l>“Once I will shew Me waking. Destiny</l>
+                  <l>Adds one illusion to thee. Yet, Oh child!</l>
+                  <l>Yet will I not forsake thee; for thy soul,</l>
+                  <l>Its splendid self, hath known Me. Fare thee well.”</l>
+                  <l>Venus.</l>
+                  <l>What are these strange and silly words? Awake!</l>
+                  <l>Wake and devour me with the dawn of love,</l>
+                  <l>The dragon to eclipse this moon of mine!</l>
+                  <l>Tannhäuser.</l>
+                  <l>I sleep not. Those were Her mysterious words</l>
+                  <l>As faded the great vision. And I knew</l>
+                  <l>In some forgotten corner of my brain</l>
+                  <l>Some desperate truth.</l>
+                  <l>Venus.</l>
+                  <l>Forget this foolishness!</l>
+                  <l>[<hi rend="italic">There cometh a shadow.</hi>
+                  </l>
+                  <l>I am afraid, even I! What moves me thus?</l>
+                  <l>Tannhäuser.</l>
+                  <l>I saw the mighty vision as before</l>
+                  <l>Forming in front of the awakening east,</l>
+                  <l>All permeated with the rose of dawn,</l>
+                  <l>And pale with delicate green light and shade, </l>
+                  <l>Marvellous! So, you say, she is a witch</l>
+                  <l>Seeking to rob or trick you of your power?</l>
+                  <l>Venus.</l>
+                  <l>I say so? No! I dare not! Oh forbear!</l>
+                  <l>Tannhäuser (<hi rend="italic">starts up</hi>).</l>
+                  <l>There, there She comes in waking! Hail to Thee!</l>
+                  <l>I am afraid, I also, I myself!</l>
+                  <l>Help! lover, Venus, mistress of my life!</l>
+                  <l>I cannot bear the glory of the gaze.</l>
+                  <l>No man shall look upon the face of God!</l>
+                  <l>Where art thou? Save me from the scorpion!</l>
+                  <l>I am—alone!</l>
+                  <l>Hathoör.</l>
+                  <l>Light, Truth, arise, arise!</l>
+                  <l>Tannhäuser.</l>
+                  <l>I see—I see! All blinded by the Light—</l>
+                  <l>Thou art the Way, the Truth, the Life, the Love!</l>
+                  <l>Thou, Whom I sought through ages of deep sleep</l>
+                  <l>Forgotten when I died. There is no death:</l>
+                  <l>Change alternating; and forgetfulness</l>
+                  <l>Of one state in the other—easy truth</l>
+                  <l>I could not understand! Oh hear me, hear!</l>
+                  <l>Spare me the last illusion!—She is gone! </l>
+                  <l>Venus.</l>
+                  <l>Save me, my knight! To thy sufficing arms</l>
+                  <l>I cling in this distress of womanhood!</l>
+                  <l>Tannhäuser.</l>
+                  <l>Kiss me the last time.</l>
+                  <l>Venus.</l>
+                  <l>Whom have I but thee,</l>
+                  <l>Thee in the ages? Barren were my bliss</l>
+                  <l>And shorn my Godhead of eternal joy,</l>
+                  <l>Barred from thy kiss.</l>
+                  <l>Tannhäuser.</l>
+                  <l>Call not thyself again</l>
+                  <l>Goddess. I saw thee in the Presence there.</l>
+                  <l>The scales are fallen, and mine eyes see clear.</l>
+                  <l>Venus.</l>
+                  <l>Then you would leave me? Serpent if I were,</l>
+                  <l>My coils should press in dolorous delight</l>
+                  <l>Thy straining bosom, and my kiss were death!</l>
+                  <l>Death! Dost thou live, Tannhäuser? Sayest thou still:</l>
+                  <l>“None but the dead can know the worth of love!”? </l>
+                  <l>Tannhäuser.</l>
+                  <l>Still. I am not in any sense estranged.</l>
+                  <l>I yearn for thee in the first hour of spring,</l>
+                  <l>As in the dying days of autumn. I</l>
+                  <l>Would clasp thee, as a child its mother’s throat,</l>
+                  <l>Drinking celestial wine from that dear mouth,</l>
+                  <l>Or with goodwill see poison in thy smile,</l>
+                  <l>And die, still kissing thee, and kissed again!</l>
+                  <l>This, though I saw thee crawl upon the earth,</l>
+                  <l>Howl at Her presence Whom thou wouldest ape,</l>
+                  <l>Thy tale reversed. I read that thunder now!</l>
+                  <l>This, though I know thee. Aphrodite, no!</l>
+                  <l>Nor Anael, nor Eva! Rather thou</l>
+                  <l>Lilith, the woman-serpent, she who sucks</l>
+                  <l>The breath of little children in their sleep,</l>
+                  <l>Strangles young maidens, and presides upon</l>
+                  <l>Sterile debauchery and unnatural loves.</l>
+                  <l>Venus.</l>
+                  <l>Lilith! Ah lover! Thou hast known my name!</l>
+                  <l>Tannhäuser.</l>
+                  <l>So; yet I love thee! Rended is the veil!</l>
+                  <l>Calling thee Ugliness, I guessed aright,</l>
+                  <l>Who saw, and see, all Beauty in thee still.</l>
+                  <l>Only, a beauty risen out of Hell; </l>
+                  <l>Death and delusion—ay, corruption’s self,</l>
+                  <l>Wickedness sliming into impotence,</l>
+                  <l>Pleasure in putrefaction. But, in sleep,</l>
+                  <l>I will put off that evil as a clout</l>
+                  <l>Cast by a beggar.</l>
+                  <l>Venus.</l>
+                  <l>And the sore is left.</l>
+                  <l>Tannhäuser.</l>
+                  <l>Oh, but this body, very consciousness!</l>
+                  <l>I banish both. I cross the crimson wall—</l>
+                  <l>My spirit shall reach up to and attain</l>
+                  <l>That other.</l>
+                  <l>Venus.</l>
+                  <l>So Persephone must hold</l>
+                  <l>Thy life divided in Her dark domain.</l>
+                  <l>Tannhäuser.</l>
+                  <l>Already I have tasted once of this</l>
+                  <l>In its own lesser way. Ten years ago</l>
+                  <l>I loved a maiden called Elizabeth.</l>
+                  <l>A child she was, so delicate and frail,</l>
+                  <l>Far, white, and lonely as the coldest star</l>
+                  <l>Set beyond gaze of any eye but God’s;</l>
+                  <l>And, to forget her, found due somnolence</l>
+                  <l>In such a warm brown bosom as thine own </l>
+                  <l>Is fire and amber. Then I came away:—</l>
+                  <l>I heard of knights no better horsed than I,</l>
+                  <l>No better sworded, with no gift of song,</l>
+                  <l>Who, caught by one ineffable desire,</l>
+                  <l>Rode on by old mysterious watersheds,</l>
+                  <l>Traversed strange seas, or battled with strange folk,</l>
+                  <l>Held vigil in wild forests, all to seek</l>
+                  <l>The vision of the Holy Grail. And I</l>
+                  <l>Rode forth on that same foolish wandering;</l>
+                  <l>And found a-many ventures on the way;</l>
+                  <l>At last an old Egyptian; who bestowed</l>
+                  <l>The magic word, which, when I had pronounced,</l>
+                  <l>Called up thine evil corpse-light in the sky.</l>
+                  <l>He riddled me—ah God! I see it now!</l>
+                  <l>The bloody winepress? The ascending sun?</l>
+                  <l>Thy dawning beauty and thine evil bed!</l>
+                  <l>The double meaning! I had evil thoughts</l>
+                  <l>When I pronounced it—else had She Herself,</l>
+                  <l>Hathoör or Mary, risen. Misery!</l>
+                  <l>Incessant mystery of the search for Truth!</l>
+                  <l>Venus.</l>
+                  <l>Search out my mystery a little while!</l>
+                  <l>Tannhäuser.</l>
+                  <l>There is a flush of passion in thine eyes,</l>
+                  <l>An hunger in them; fascinate me now, </l>
+                  <l>My serpent-woman, drawing out my breath</l>
+                  <l>Into thy life, and mingling that in mine!</l>
+                  <l>See the rich blood that mantles to my touch,</l>
+                  <l>Invites the tooth to bite the shimmering skin,</l>
+                  <l>Till I could watch the ripe red venom flow</l>
+                  <l>Slow on the hills of amber, staining them</l>
+                  <l>Its own warm purple. Look, the tender stream!</l>
+                  <l>Venus.</l>
+                  <l>Let its old sleepy fragrance lull thee now,</l>
+                  <l>Yet madden thee in brain and sense and soul,</l>
+                  <l>Mixing success with infinite despair.</l>
+                  <l>So; take our secret back to sleep with us:—</l>
+                  <l>And in that sleep I know that thou wilt choose</l>
+                  <l>The fact, and leave the dream, and so disdain</l>
+                  <l>These far-off splendours, catch the nearer joy,</l>
+                  <l>Take squalid kisses, banish crested love</l>
+                  <l>Intangible. Delights it thee, my friend,</l>
+                  <l>To reach the summits unattained before,</l>
+                  <l>And stumble on their snows? Thine old desire</l>
+                  <l>Was just to touch the mere impalpable.</l>
+                  <l>To formulate the formless. Otherwise</l>
+                  <l>Christ did as well—thine own words turn again!</l>
+                  <l>Tannhäuser.</l>
+                  <l>Ah, if pure love could grow material!</l>
+                  <l>There are pure women! </l>
+                  <l>Venus.</l>
+                  <l>There you make me laugh!</l>
+                  <l>Remember—I have known such. But besides</l>
+                  <l>You ask hot snow and leaden feather-flights!</l>
+                  <l>Tannhäuser.</l>
+                  <l>And you—you keep me worrying, fair queen,</l>
+                  <l>In logic and its meshes, when to-day</l>
+                  <l>I rather would be caught in other nets,</l>
+                  <l>The burning gold and glory of your hair,</l>
+                  <l>Lightning and sunshine, storm and radiance,</l>
+                  <l>Your flaming pell!</l>
+                  <l>Venus.</l>
+                  <l>Come, sing to me again!</l>
+                  <l>That we may watch each other as you sing;</l>
+                  <l>Feel how it overmasters and o’erwhelms,</l>
+                  <l>The growing pang of hunger for a kiss!</l>
+                  <l>Tannhäuser.</l>
+                  <l>Brood evil, then, in your amazing eyes,</l>
+                  <l>That I may see the serpent grow in you;</l>
+                  <l>As I were just the bird upon the bough—</l>
+                  <l>So let the twittering grow faint and still,</l>
+                  <l>And let me fall, fall into the abyss,</l>
+                  <l>Your arms—a culminating ecstasy, </l>
+                  <l>Darkness and death and rapture. Sing to you?</l>
+                  <l>What song? My tunes are played upon too oft.</l>
+                  <l>My first great cry of love inaudible</l>
+                  <l>Sapped me of music.</l>
+                  <l>Venus.</l>
+                  <l>Sing me that again!</l>
+                  <l>Tannhäuser.</l>
+                  <l>Who is this maiden robéd for a bride,</l>
+                  <l>White shoulders and bright brows adorable,</l>
+                  <l>The flaming locks that clothe her, and abide,</l>
+                  <l>As God were bathing in the fire of Hell?</l>
+                  <l>They change, they grow, they shake</l>
+                  <l>As sunlight on the lake:</l>
+                  <l>They hiss, they glisten on her bosom bare.</l>
+                  <l>O maiden, maiden queen!</l>
+                  <l>The lightning flows between</l>
+                  <l>Thy mounting breasts, too magically fair.</l>
+                  <l>Draw me, O draw me to a dreaming death!</l>
+                  <l>Send out thine opiate breath,</l>
+                  <l>And lull me to the everlasting sleep,</l>
+                  <l>That, closing from the kisses of disdain</l>
+                  <l>To ecstasy of pain,</l>
+                  <l>I may sob out my life into their dangerous deep. </l>
+                  <l>Who cometh from the mountain as a tower</l>
+                  <l>Stalwart and set against the fiery foes?</l>
+                  <l>Who, breathing as a jasmine-laden bower?</l>
+                  <l>Who, crowned and lissome as a living rose?</l>
+                  <l>Sharp thorns in thee are set;</l>
+                  <l>In me, in me beget</l>
+                  <l>The dolorous despair of this desire.</l>
+                  <l>Thy body sways and swings</l>
+                  <l>Above the tide of things,</l>
+                  <l>Laps me as ocean, wraps me round as fire!</l>
+                  <l>Ye elemental sorceries of song,</l>
+                  <l>Surge, strenuous and strong,</l>
+                  <l>Seeking dead dreams, the secret of the shrine;</l>
+                  <l>So that she drain my life and being up</l>
+                  <l>As from a golden cup,</l>
+                  <l>To mingle in her blood, death’s kiss incarnadine.</l>
+                  <l>Who cometh from the ocean as a flower?</l>
+                  <l>Who blossometh above the barren sea?</l>
+                  <l>Thy lotus set beneath thee for a bower,</l>
+                  <l>Thine eyes awakened, lightened, fallen on me?</l>
+                  <l>O Goddess, queen, and wife!</l>
+                  <l>O Lady of my life!</l>
+                  <l>Who set thy stature as a wood to wave?</l>
+                  <l>Whose love begat thy limbs?</l>
+                  <l>Whose wave-washed body swims</l>
+                  <l>That nurtured thee, and found herself a grave? </l>
+                  <l>But thou, O thou, hast risen from the deep!</l>
+                  <l>All mortals mourn and weep</l>
+                  <l>To see thee, seeing that all love must die</l>
+                  <l>Beside thy beauty, see thee and despair!</l>
+                  <l>Deadly as thou art fair,</l>
+                  <l>I cry for all mankind—they are slain, even as I!</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">Tannhäuser pauses, bends eagerly towards Venus.</hi>
+                  <lb/>
+                  <hi rend="italic">She smiling luxuriously, he continues.</hi>
+               </p>
+               <lg>
+                  <l>Who cometh wanton, with long arms outspread?</l>
+                  <l>Who cometh with lascivious lips aflame?</l>
+                  <l>Whose eyes invite me to the nakéd bed</l>
+                  <l>Stark open to the sun, dear pride of shame?</l>
+                  <l>Whose face draws close and near,</l>
+                  <l>Filling the soul with fear,</l>
+                  <l>Till nameless shudders course in every limb?</l>
+                  <l>Whose breath is quick and fierce?</l>
+                  <l>Whose teeth are keen to pierce</l>
+                  <l>The arms that clasp her? Whose the eyes that swim</l>
+                  <l>For dear and delicate delight? And whose</l>
+                  <l>The lips that halt and choose</l>
+                  <l>The very centre of my mouth, and meet</l>
+                  <l>In one supreme and conquering kiss, and cleave</l>
+                  <l>Unto the wound they leave, </l>
+                  <l>Bringing all heart’s blood to one house, too sore</l>
+                  <l>and sweet?</l>
+                  <l>Who rageth as a lioness bereaved,</l>
+                  <l>If, for a moment’s breathing space, I move</l>
+                  <l>Back from the purple where her bosom heaved,</l>
+                  <l>Back from the chosen body that I love?</l>
+                  <l>Whose lips cling faster still</l>
+                  <l>In desperate sweet will?</l>
+                  <l>Whose body melts as fire caught in wine</l>
+                  <l>Into the clasping soul?</l>
+                  <l>Whose breathing breasts control</l>
+                  <l>Her heart’s quick pulsing, and the sob of mine?</l>
+                  <l>O Venus, lady Venus, thou it is</l>
+                  <l>Whose fierce immortal kiss</l>
+                  <l>Abides upon me, about me, and within!</l>
+                  <l>Thou, lady of the secret of the Sea,</l>
+                  <l>Made one for love with me,</l>
+                  <l>Love and desire and dream, a sense of mortal sin!</l>
+                  <l>Who cometh as a visionary shape</l>
+                  <l>Within my soul and spirit to abide,</l>
+                  <l>Mysterious labyrinth without escape,</l>
+                  <l>Magical lover, and enchanted bride?</l>
+                  <l>O Mother of my will!</l>
+                  <l>Set thy live body still</l>
+                  <l>Unto my heart, that even Eternity</l>
+                  <l>Roll by our barren bed— </l>
+                  <l>That even the quick and dead,</l>
+                  <l>Being mortal, mix in our eternal sea!</l>
+                  <l>Distil we love from all the universe!</l>
+                  <l>Defy the early curse!</l>
+                  <l>Bid thorns and thistles mingle in delight!</l>
+                  <l>And from the athanor of death and pain</l>
+                  <l>Bring golden showers of rain</l>
+                  <l>To crown our bed withal, the empire of the Night!</l>
+                  <l>O Wife! Incarnate Beauty self-create!</l>
+                  <l>O Life! O Death! Love unimaginable!</l>
+                  <l>Despair grows hope, as hope grows desperate;</l>
+                  <l>And Heaven bridges the great gulf of Hell.</l>
+                  <l>Thy life is met with mine,</l>
+                  <l>Transmuted, grown divine,</l>
+                  <l>Even in this, the evil of the world!</l>
+                  <l>What agony is this,</l>
+                  <l>The first undying kiss</l>
+                  <l>From jewelled eyes and lips in passion curled?</l>
+                  <l>O sister and O serpent and O mate,</l>
+                  <l>Strike the red fang of hate</l>
+                  <l>Steady and strong, persistent to the heart!</l>
+                  <l>So shall this song be made more terrible</l>
+                  <l>With the soul-mastering spell,</l>
+                  <l>Choke, stagger, know the Evil, Beauty’s counterpart!</l>
+                  <l>Whose long-drawn curse runs venom in my veins?</l>
+                  <l>What dragon spouse consumes me with her breath? </l>
+                  <l>What passionate hatred, what infernal pains,</l>
+                  <l>Mixed with thy being in the womb of Death?</l>
+                  <l>Blistering fire runs,</l>
+                  <l>Scorching, terrific suns,</l>
+                  <l>Through body and soul in this abominable</l>
+                  <l>Marriage of demon power</l>
+                  <l>Subtle and strong and sour,</l>
+                  <l>A draught of ichor of the veins of Hell!</l>
+                  <l>Curses leap leprous, epicene, unclean,</l>
+                  <l>The soul of the Obscene</l>
+                  <l>Incarnate in the spirit: and above</l>
+                  <l>Hangs Sin, vast vampire, the corrupt, that swings</l>
+                  <l>Her unredeeming wings</l>
+                  <l>Over the world, and flaps for lust of Death—and Love!</l>
+                  <l>Venus.</l>
+                  <l>This man was drained of music!</l>
+                  <l>Five new songs</l>
+                  <l>Chase the three ancient to oblivion! Oh!</l>
+                  <l>Love is grown fury!</l>
+                  <l>Tannhäuser.</l>
+                  <l>Kill me!</l>
+                  <l>Venus. </l>
+                  <l>In the kiss.</l>
+                  <l>[<hi rend="italic">Tannhäuser sleeps.</hi>
+                  </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>ACT III.</label>
+               </head>
+               <p rend="justify">For Love is lord of truth and loyalty,</p>
+               <p rend="justify">Lifting himself out of the lowly dust</p>
+               <p rend="justify">On golden plumes up to the purest sky,</p>
+               <p rend="justify">Above the reach of loathly sinful lust,</p>
+               <p rend="justify">Whose base affect through cowardly distrust</p>
+               <p rend="justify">Of his weak wings dare not to heaven fly,</p>
+               <p rend="justify">But like a moldwarp in the earth doth lie.</p>
+               <p rend="justify">His dunghill thoughts, which do themselves enure</p>
+               <p rend="justify">To dirty dross, no higher dare aspire,</p>
+               <p rend="justify">Nor can his feeble earthly eyes endure</p>
+               <p rend="justify">The flaming light of that celestial fire</p>
+               <p rend="justify">Which kindleth love in generous desire,</p>
+               <p rend="justify">And makes him mount above the native might</p>
+               <p rend="justify">Of heavy earth, up to the heaven’s height.</p>
+               <p rend="justify">Spenser, <hi rend="italic">Hymn in Honour of Love</hi>.</p>
+               <p rend="justify">
+                  <hi rend="italic">In Venusberg: changing afterward to a woodland cross-way.</hi>
+               </p>
+               <p rend="justify">Venus.</p>
+               <p rend="justify">G ONE to his Goddess! the poor worm’s asleep.</p>
+               <p rend="justify">And yet—I cannot follow him. Not even</p>
+               <p rend="justify">Into the dreamland that these mortals use.</p>
+               <p rend="justify">There, I am barred. The flaming sword of Light</p>
+               <p rend="justify">Is set against me, and new pangs consume</p>
+               <p rend="justify">This nest of scorpions where my heart once was.</p>
+               <p rend="justify">Yet to my fearful task of hate I set</p>
+               <p rend="justify">No faltering bosom. I will have this man,</p>
+               <p rend="justify">His life, his strength; and live a little more.</p>
+               <p rend="justify">Life—shall I ever reach the splendid sword</p>
+               <p rend="justify">Of womanhood, and gird it, gain my will,</p>
+               <p rend="justify">A human soul, and from that altitude</p>
+               <p rend="justify">Renew the terrible war against the Gods?</p>
+               <p rend="justify">I have called Chronos the devouring God</p>
+               <p rend="justify">My father—shall his desolating reign</p>
+               <p rend="justify">Never return? Ay me! this heart of hate,</p>
+               <p rend="justify">Loathing the man, takes comfort in the beast, </p>
+               <p rend="justify">And gloats on the new garbage for an hour.</p>
+               <p rend="justify">So, Sin, embrace me! Watch; he moves again,</p>
+               <p rend="justify">Transfigured by the dream: slow rapture steals</p>
+               <p rend="justify">Over his face. Mere godhead could not bring</p>
+               <p rend="justify">That human light and living! I will win.</p>
+               <p rend="justify">He must have banished Her—and dreams of me.</p>
+               <p rend="justify">Tannhäuser (<hi rend="italic">in sleep</hi>).</p>
+               <p rend="justify">Elizabeth!</p>
+               <p rend="justify">Venus.</p>
+               <p rend="justify">His far-off baby-love!</p>
+               <p rend="justify">I triumph, then! The Goddess hath withdrawn.</p>
+               <p rend="justify">His mind works back to childhood, babydom,</p>
+               <p rend="justify">Will grow to manhood and remember me.</p>
+               <p rend="justify">Tannhäuser (<hi rend="italic">awaking, leaps to his feet</hi>).</p>
+               <p rend="justify">Freedom! Elizabeth! All hail to Her!</p>
+               <p rend="justify">Radiant Goddess! Liberty and love!</p>
+               <p rend="justify">Venus.</p>
+               <p rend="justify">What sayest thou? Curse Her!</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">My Elizabeth! </p>
+               <p rend="justify">Venus.</p>
+               <p rend="justify">What? Art thou mad? Come close to me again.</p>
+               <p rend="justify">Forget this nightmare. Rather, tell me it,</p>
+               <p rend="justify">And I will soothe thee. Have I not a balm,</p>
+               <p rend="justify">A sovereign comfort in my old caress?</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">I must begone. She waits.</p>
+               <p rend="justify">Venus.</p>
+               <p rend="justify">Who waits? Come here!</p>
+               <p rend="justify">Let us talk fondly, set together still,</p>
+               <p rend="justify">Not with these shouts and wavings of the arms,</p>
+               <p rend="justify">Struts and unseemly gestures. Tannhäuser!</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">She waits for me, my sweet Elizabeth!</p>
+               <p rend="justify">Venus or Lilith, I have loved thee well!</p>
+               <p rend="justify">Now, to my freedom!</p>
+               <p rend="justify">Venus.</p>
+               <p rend="justify">Your Elizabeth!</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">Ay, to those pure and alabaster brows,</p>
+               <p rend="justify">The tender fingers, and the maiden smile.</p>
+               <p rend="justify">Burn the whore’s bed! Unpaint the cruel lips! </p>
+               <p rend="justify">Cover the shameless belly, and forget</p>
+               <p rend="justify">The cunning attitudes and aptitudes!</p>
+               <p rend="justify">Unlearn the mowings, the lascivious grins!</p>
+               <p rend="justify">I perceive purity.</p>
+               <p rend="justify">Venus.</p>
+               <p rend="justify">Nay, I have loved thee!</p>
+               <p rend="justify">Fresh pleasure hourly filled the crystal cup.</p>
+               <p rend="justify">Shalt thou find wine so comely and so keen,</p>
+               <p rend="justify">So fresh with life to fill each aching vein</p>
+               <p rend="justify">With new electric fervour? Will she be</p>
+               <p rend="justify">My equal? She is mortal and a child.</p>
+               <p rend="justify">Her arms are frail and white. Her lily cheeks</p>
+               <p rend="justify">Could never take thy kiss. Thy love would shock,</p>
+               <p rend="justify">Repel. I scorn to say her love were less</p>
+               <p rend="justify">Than mine: I tell thee that she could not love</p>
+               <p rend="justify">Thee even at all as thou wouldst understand.</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">So certain art thou? Let me go to her,</p>
+               <p rend="justify">Try, and come back!</p>
+               <p rend="justify">Venus.</p>
+               <p rend="justify">No doubt of that success!</p>
+               <p rend="justify">A child is easy to degrade! </p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">Vile thing</p>
+               <p rend="justify">I will try otherwise—to raise myself:</p>
+               <p rend="justify">But if I fail, I will not drag her down;</p>
+               <p rend="justify">I will return.</p>
+               <p rend="justify">Venus.</p>
+               <p rend="justify">To lose thee for one hour</p>
+               <p rend="justify">Is my swift death—so desolate am I!</p>
+               <p rend="justify">I have not got one lover in the world,</p>
+               <p rend="justify">Save only Tannhäuser. And he will go.</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">One lover! Who makes up the equal soul</p>
+               <p rend="justify">Of all the wickedness beneath the sun?</p>
+               <p rend="justify">Lilith! Seek out thy children to devour!</p>
+               <p rend="justify">Leave me. I go to my Elizabeth.</p>
+               <lg>
+                  <l>Venus.</l>
+                  <l>O no! It kills me! That is naked truth.</l>
+                  <l>I am the soul and symbol of desire,</l>
+                  <l>Yet individual to thy love. Stay! Stay!</l>
+                  <l>One last caress, and then I let thee go,</l>
+                  <l>And—die. I fear, and I detest, this death.</l>
+                  <l>I am not mortal, doomed to it! I slip</l>
+                  <l>Into mere slime; no resurrection waits</l>
+                  <l>Me, made the vilest of the stars that fell. </l>
+                  <l>I must not die. I dare not. But for thee,</l>
+                  <l>Thy love, one last extreme delirium!—</l>
+                  <l>Take thou this dagger! At the miracle</l>
+                  <l>Of a moment when our lips are fastened close</l>
+                  <l>Once more, in the unutterable kiss,</l>
+                  <l>Drive its sharp spirit to my heart!</l>
+                  <l>Tannhäuser.</l>
+                  <l>Not I!</l>
+                  <l>I know the spell. I am warned. I will begone.</l>
+                  <l>Venus.</l>
+                  <l>I swear I will not let thee! Thinkest thou</l>
+                  <l>So long I have held thee not to have the power</l>
+                  <l>To hold thee still by charm, or love, or force?</l>
+                  <l>Fool, for I hate thee! I will have thy life!</l>
+                  <l>Tannhäuser.</l>
+                  <l>Where is the cavern in the mountain side,</l>
+                  <l>The accurséd gateway of this house of Hell?</l>
+                  <l>Venus.</l>
+                  <l>Thou canst not find it! Fool!</l>
+                  <l>Tannhäuser.</l>
+                  <l>And yet I will.</l>
+                  <l>Venus.</l>
+                  <l>Meanwhile my chant shall tremble in the air, </l>
+                  <l>And rack thy limbs with poison, wither up</l>
+                  <l>The fine full blood, breed serpents in thy heart,</l>
+                  <l>And worms to eat thee. Living thou shalt be</l>
+                  <l>A sensible corpse, a walking sepulchre.</l>
+                  <l>Come, come, Apollyon! Come, my Aggereth!</l>
+                  <l>Belial, cheat his ears and blind his eyes!</l>
+                  <l>Come, all ye tribes of serpents and foul fish!</l>
+                  <l>Beetle and worm, I have a feast for you!</l>
+                  <l>Tannhäuser.</l>
+                  <l>The palace staggers. I can hardly see—</l>
+                  <l>Only these writhing horrors. I am blind!</l>
+                  <l>Venus.</l>
+                  <l>Ha! My true knight! I ask thee once again,</l>
+                  <l>Once more invoke the epithets of love,</l>
+                  <l>Suspend my powers—constrain thee on my knees</l>
+                  <l>For thine old kisses. See, I am all thine!</l>
+                  <l>All thine the splendid body, and the shape</l>
+                  <l>Of mighty breasts, and supple limbs, and wide</l>
+                  <l>Lips, and slow almond eyes! Adorable,</l>
+                  <l>Seductive, sombre, moving amorously,</l>
+                  <l>Droop the long eyelids, purple with young blood,</l>
+                  <l>The lazy lashes and the flowing mane,</l>
+                  <l>The flame of fire from head to feet of me! </l>
+                  <l>The subtle fervours, drunken heats and ways,</l>
+                  <l>And perfumes maddening from the soul of spring!</l>
+                  <l>The little nipples, and the dangerous pit</l>
+                  <l>Set smiling in the alabaster; thine,</l>
+                  <l>The glowing arms are thine, the desperate</l>
+                  <l>Fresh kisses, and the gold that lurks upon</l>
+                  <l>The sunny skin, the marble of these brows,</l>
+                  <l>The roses, and the poppies, and the scent</l>
+                  <l>Subtle and sinful—thine, all thine, are these,</l>
+                  <l>What with my heart that only beats for thee,</l>
+                  <l>The many-throned and many-minded soul</l>
+                  <l>Centred to do thee worship. Hither, hither!</l>
+                  <l>Tannhäuser.</l>
+                  <l>This shakes my spirit as a winnower</l>
+                  <l>Whose fan is the eternal breath of God;</l>
+                  <l>Yet on my forehead I perceive a star</l>
+                  <l>That shames thy beauties and thy manifold</l>
+                  <l>Mind with its tiny triple flame. I go!</l>
+                  <l>Venus.</l>
+                  <l>Try not the impossible. Thou knowest my power.</l>
+                  <l>I shall renew the charm.</l>
+                  <l>Tannhäuser.</l>
+                  <l>I see a Power</l>
+                  <l>Above thy mockery of witchcraft. Work </l>
+                  <l>Thy devilish lusts on me unfortunate!</l>
+                  <l>There is no gateway to this fortalice?</l>
+                  <l>Thy fiends surround me? Hein! their pangs begin!</l>
+                  <l>I have one word, one cry, one exorcism:</l>
+                  <l>Avé Maria!</l>
+                  <l>Venus.</l>
+                  <l>Mercy! Mercy, God!</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">Thunder rolls in the lightning-riven sky. All the illusion vanishes, and Tannhäuser finds himself in a cross-way of the forest, where is a Crucifix. He is kneeling at the foot, amazed, as one awakening from a dream, or from a vision of mysterious power.</hi>
+               </p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">I am escapéd as a little bird</p>
+               <p rend="justify">Out of the fowler’s net. I thank Thee, God!</p>
+               <p rend="justify">For in the pit of horror, and the clay</p>
+               <p rend="justify">Of death I cried, and Thou hast holpen me,</p>
+               <p rend="justify">Set me upon a rock, established me,</p>
+               <p rend="justify">And filled my mouth, and tuned mine ancient lyre</p>
+               <p rend="justify">With a new song—praise, praise to God above,</p>
+               <p rend="justify">And to Our Lady of the Smitten Heart,</p>
+               <p rend="justify">That David never knew: my pettiness</p>
+               <p rend="justify">Exceeding through Her mercy and Her might</p>
+               <p rend="justify">The King and Priest of Israel; for I know</p>
+               <p rend="justify">Her love, and She hath shewn to me Her face, </p>
+               <p rend="justify">And given me a magic star to stand</p>
+               <p rend="justify">Over the house that hides Elizabeth.</p>
+               <p rend="justify">[<hi rend="italic">A shepherd-boy is discovered upon a rock hard by.</hi>
+               </p>
+               <p rend="justify">Shepherd-boy.</p>
+               <p rend="justify">Ta-lirra-lirra! Hillo-ho! The morning!</p>
+               <p rend="justify">[<hi rend="italic">He plays upon his flute.</hi>
+               </p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">These were the melodies that I despised!</p>
+               <p rend="justify">Oh God! Be merciful to sinful me,</p>
+               <p rend="justify">And keep me in the Way of Truth. But Thou!</p>
+               <p rend="justify">Forgive, forgive! Lead, lead me to Thy Light!</p>
+               <p rend="justify">Shepherd-boy (<hi rend="italic">sings</hi>).</p>
+               <p rend="justify">Light in the sky</p>
+               <p rend="justify">Dawns to the East!</p>
+               <p rend="justify">Song-bird and beast</p>
+               <p rend="justify">Wake and reply.</p>
+               <p rend="justify">Let me not die,</p>
+               <p rend="justify">Now, at the least!</p>
+               <p rend="justify">Lord of the Light!</p>
+               <p rend="justify">Queen of the dawn!</p>
+               <p rend="justify">Soul of the Night</p>
+               <p rend="justify">Hid and withdrawn!</p>
+               <p rend="justify">Voice of the thunder!</p>
+               <p rend="justify">Light of the levin!</p>
+               <p rend="justify">I worship and wonder,</p>
+               <p rend="justify">O maker of Heaven!</p>
+               <p rend="justify">The night falls asunder;</p>
+               <p rend="justify">The darkness is riven!</p>
+               <p rend="justify">Light, O eternal!</p>
+               <p rend="justify">Life, O diurnal!</p>
+               <p rend="justify">Love, O withdrawn!</p>
+               <p rend="justify">Heart of my May, spring</p>
+               <p rend="justify">Far to Thy dawn!</p>
+               <p rend="justify">God of the dayspring!</p>
+               <p rend="justify">Sun on the lawn!</p>
+               <p rend="justify">Hail to Thy splendour,</p>
+               <p rend="justify">Holy, I cry!</p>
+               <p rend="justify">Mary shall bend her</p>
+               <p rend="justify">Face from the sky,</p>
+               <p rend="justify">Subtle and tender—</p>
+               <p rend="justify">Then I can die!</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">The simple love of life and gladness there!</p>
+               <p rend="justify">Merely to be, and worship at the heart.</p>
+               <p rend="justify">How complex, the machinery of me!</p>
+               <p rend="justify">Better? I doubt it. Hark! he tunes again. </p>
+               <p rend="justify">Shepherd-boy (<hi rend="italic">sings</hi>).</p>
+               <p rend="justify">O Gretchen, when the morn is grey,</p>
+               <p rend="justify">Forsake thy flocks and steal away</p>
+               <p rend="justify">To that low bank where, shepherds say,</p>
+               <p rend="justify">The flowers eternal are.</p>
+               <p rend="justify">Thine eyes should gleam to see me there,</p>
+               <p rend="justify">As fixed upon a star.</p>
+               <p rend="justify">And yet thy lips should take a tune,</p>
+               <p rend="justify">And match me unaware—</p>
+               <p rend="justify">So steals the sun beside the moon</p>
+               <p rend="justify">And hides her lustre rare.</p>
+               <p rend="justify">The bloom upon the peach is fine;</p>
+               <p rend="justify">The blossom on thy cheek is mine!</p>
+               <p rend="justify">O kiss me—if you dare!</p>
+               <p rend="justify">I called thee by the name of love</p>
+               <p rend="justify">That mothers fear and gods approve,</p>
+               <p rend="justify">And maidens blush to say—</p>
+               <p rend="justify">O Gretchen, meet me in the dell</p>
+               <p rend="justify">We know and love, who love so well,</p>
+               <p rend="justify">While morn is cold and gray!</p>
+               <p rend="justify">So, match thy blushes to the dawn;</p>
+               <p rend="justify">Thy bosom to the rising moon,</p>
+               <p rend="justify">Until our loves to earth have drawn</p>
+               <p rend="justify">Some new bewitching tune.</p>
+               <p rend="justify">Come, Gretchen, in the dusk of day,</p>
+               <p rend="justify">Where nymphs and dryads creep away</p>
+               <p rend="justify">Beneath the oaks, to laugh and play</p>
+               <p rend="justify">And sink in lover’s swoon.</p>
+               <p rend="justify">We’ll sing them sister songs, and shew</p>
+               <p rend="justify">What secrets mortal lovers know.</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">The simple life of love and joy therein!</p>
+               <p rend="justify">Merely to love—to take such pride in it</p>
+               <p rend="justify">Gods must behold! The childish easiness,</p>
+               <p rend="justify">Impossible to me, who am become</p>
+               <p rend="justify">Perhaps the subtlest mind of men. Alas!</p>
+               <p rend="justify">Maybe in this I still am self-deceived,</p>
+               <p rend="justify">Merely the fool swelled up with bitter words,</p>
+               <p rend="justify">Imagination, and the toadstool growth,</p>
+               <p rend="justify">Thought, wounded; as a scorpion to sting</p>
+               <p rend="justify">Its own bruised life out. This is Tannhäuser!</p>
+               <p rend="justify">How long ago since he took pleasure in</p>
+               <p rend="justify">Such love— [<hi rend="italic">A horn winds.</hi>
+               </p>
+               <p rend="justify">such music as yon horn below—</p>
+               <p rend="justify">[<hi rend="italic">A chant is heard.</hi>
+               </p>
+               <p rend="justify">Such worship as the simple chant that steals</p>
+               <p rend="justify">Calm and majestic in the solitude</p>
+               <p rend="justify">Up from the valley. Pilgrims, by my fay!</p>
+               <p rend="justify">[<hi rend="italic">Enter</hi>  Pilgrims.</p>
+               <p rend="justify">Pilgrims.</p>
+               <p rend="justify">Hail to Thee, Lady bright,</p>
+               <p rend="justify">Queen of the stars of night!</p>
+               <p rend="justify">Avé Maria!</p>
+               <p rend="justify">Spouse of the Breath divine,</p>
+               <p rend="justify">Hail to Thee, shrouded shrine,</p>
+               <p rend="justify">Whence our Redeemer came!</p>
+               <p rend="justify">Hail to Thy holy name!</p>
+               <p rend="justify">Avé Maria!</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">Those words that saved me!</p>
+               <p rend="justify">Shepherd-boy.</p>
+               <p rend="justify">Pray, your blessing, sirs!</p>
+               <p rend="justify">I worship Mary in my simple way,</p>
+               <p rend="justify">And see Her name in all the starry host,</p>
+               <p rend="justify">And Jesus crucified on every tree</p>
+               <p rend="justify">For me! God speed you to the House of God!</p>
+               <p rend="justify">The Eldest Pilgrim.</p>
+               <p rend="justify">The Blessing of the Virgin on your head!</p>
+               <p rend="justify">The Youngest Pilgrim.</p>
+               <p rend="justify">What make you, sir, so downcast? Come with us</p>
+               <p rend="justify">Who taste all happiness in uneasiness,</p>
+               <p rend="justify">Hunger and thirst, in His sweet Name—</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">Ah no!</p>
+               <p rend="justify">I have been shown another way than yours!</p>
+               <p rend="justify">I am too old in this world’s weariness, </p>
+               <p rend="justify">Too hungry in its hunger unto God,</p>
+               <p rend="justify">Too foolish-wise, too passionate-cynical,</p>
+               <p rend="justify">To seek your royal road to Deity!</p>
+               <p rend="justify">Another Pilgrim.</p>
+               <p rend="justify">Leave him! Belike ’tis some philosopher</p>
+               <p rend="justify">With words too big to understand himself.</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">With heart too seared to understand himself!</p>
+               <p rend="justify">With mind too wise to understand himself!</p>
+               <p rend="justify">With soul too small to understand himself!</p>
+               <p rend="justify">Eldest Pilgrim.</p>
+               <p rend="justify">Cling to the Cross, sir, there is hope in that!</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">You know not, friend, the man to whom you speak.</p>
+               <p rend="justify">I have lived long in miracles enough,</p>
+               <p rend="justify">Myself the crowning miracle of all,</p>
+               <p rend="justify">That I am merely here. God speed you, sirs!</p>
+               <p rend="justify">I ask your blessing, not to stay therewith</p>
+               <p rend="justify">My soul’s own need (though that is dire enough)</p>
+               <p rend="justify">But—he that blesseth shall himself be blessed!</p>
+               <p rend="justify">My blessing were small help to you, my friends. </p>
+               <p rend="justify">An Intelligent Pilgrim.</p>
+               <p rend="justify">For your own reason, give it to us, then!</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">The Blessing of the Lord! May Mary’s self</p>
+               <p rend="justify">Be with you and defend you evermore,</p>
+               <p rend="justify">Most from the fearful destiny of him</p>
+               <p rend="justify">Men used to call the minstrel Tannhäuser!</p>
+               <p rend="justify">Eldest Pilgrim.</p>
+               <p rend="justify">A sombre blessing! May God’s mercy fall</p>
+               <p rend="justify">On you and yours!</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">On mine, ah mine! Amen</p>
+               <p rend="justify">Amen to that!</p>
+               <p rend="justify">Eldest Pilgrim (<hi rend="italic">smiles</hi>).</p>
+               <p rend="justify">On her you love, my friend!</p>
+               <p rend="justify">We will pass onward, by your honour’s leave!</p>
+               <p rend="justify">Pilgrims.</p>
+               <p rend="justify">Hail, hail, O Queen, to Thee,</p>
+               <p rend="justify">Spouse of Eternity!</p>
+               <p rend="justify">Avé Maria!</p>
+               <p rend="justify">Mother in Maidenhood!</p>
+               <p rend="justify">Saintly Beatitude!</p>
+               <p rend="justify">Queen of the Angel Host!</p>
+               <p rend="justify">Bride of the Holy Ghost!</p>
+               <p rend="justify">Avé Maria!  [<hi rend="italic">Exeunt Pilgrims.</hi>
+               </p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">The love of Isis! No mere love to Her</p>
+               <p rend="justify">That is inborn in every soul of us!</p>
+               <p rend="justify">It is Her love to Christ that we must taste,</p>
+               <p rend="justify">Uniting us with Her eternal sigh.</p>
+               <p rend="justify">There is a problem infinite again.</p>
+               <p rend="justify">I have not gained one jot since first I saw</p>
+               <p rend="justify">The stately bosom of the Venusberg,</p>
+               <p rend="justify">Save that mine eyes have seen a little truth,</p>
+               <p rend="justify">My body found a little weariness.</p>
+               <p rend="justify">I am very feeble! Hither comes the hunt!</p>
+               <p rend="justify">[<hi rend="italic">A horn winds quite close by.</hi>
+               </p>
+               <p rend="justify">The noble, doomed, swift beauty! Closer yet</p>
+               <p rend="justify">Pant the long hounds! What heart he has! One, two!</p>
+               <p rend="justify">See the brach dying by his bloody flank!</p>
+               <p rend="justify">So could not Tannhäuser awhile ago.</p>
+               <p rend="justify">My help lay outside and above myself.</p>
+               <p rend="justify">What skills him he is brave? He ends the same.</p>
+               <p rend="justify">Poor stag! Here sweep the foremost hunters up.</p>
+               <p rend="justify">My very kinsmen! There rides Wolfram too!</p>
+               <p rend="justify">The proper minstrel! The ideal lover! </p>
+               <p rend="justify">The pure, unsullied soul. Even so, forsooth!</p>
+               <p rend="justify">They tell no secrets in the scullery.</p>
+               <p rend="justify">And there is Heinrich, wastrel of the Court,</p>
+               <p rend="justify">Yet hides a heart beneath the foolish face.</p>
+               <p rend="justify">And lo! The Landgrave! Flushed, undignified!</p>
+               <p rend="justify">The chase was long—if he could see himself!</p>
+               <p rend="justify">Wind, wind the mort! What call will answer me</p>
+               <p rend="justify">When I step forward? Am I dead, I wonder,</p>
+               <p rend="justify">Or merely on my hare-brain quest? Three years</p>
+               <p rend="justify">Since I was seen in Germany!</p>
+               <p rend="justify">[<hi rend="italic">He descends the hill and enters the company.</hi>
+               </p>
+               <p rend="justify">Hail, friends!</p>
+               <p rend="justify">Good cousin Landgrave, merry be the meet!</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">Hands off me, fellow! Who are you?</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">My lord,</p>
+               <p rend="justify">Your cousin. Is my face so changed with care,</p>
+               <p rend="justify">My body shrunken with my suffering</p>
+               <p rend="justify">(That was not ever of the body) so?</p>
+               <p rend="justify">Wolfram.</p>
+               <p rend="justify">I know you, my old friend! Our chiefest bird! </p>
+               <p rend="justify">Sweetest of singers!</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">No, the naughty one!</p>
+               <p rend="justify">Heinrich.</p>
+               <p rend="justify">Tannhäuser! Yes! And we have thought you dead.</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">Friends, will you swear to him?</p>
+               <p rend="justify">Heinrich.</p>
+               <p rend="justify">Yes, yes, ’tis he!</p>
+               <p rend="justify">Wolfram.</p>
+               <p rend="justify">I know the blithe look in the sober eyes!</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">Changed verily. It was most urgent, cousin,</p>
+               <p rend="justify">I were assured of your identity.</p>
+               <p rend="justify">Three weeks the couriers scour the land for you,</p>
+               <p rend="justify">Urgent demands:—how came you here at last?</p>
+               <p rend="justify">Your horse? Your arms? Three years since Germany</p>
+               <p rend="justify">Saw the brave eyes and kindly face of you!</p>
+               <p rend="justify">Where have you been? Upon the sacred quest</p>
+               <p rend="justify">Still riding?</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">Ay, my lord, upon the quest.</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">You travelled in far lands? </p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">Far, very far!</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">You fought with Turks?</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">I fought within myself.</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">Why is such suffering written in dark lines,</p>
+               <p rend="justify">And painted in the greyness of your hair?</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">I had an evil dream.</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">You saw the Grail?</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">I saw—strange things.</p>
+               <p rend="justify">Wolfram.</p>
+               <p rend="justify">For very feebleness</p>
+               <p rend="justify">Your limbs shake under you. How hither, friend?</p>
+               <p rend="justify">Your horse and arms? Your squire? </p>
+               <p rend="justify">Tannhäuser (<hi rend="italic">with sudden passion</hi>).</p>
+               <p rend="justify">My squire is dead.</p>
+               <p rend="justify">I am no weakling that I need a knave</p>
+               <p rend="justify">Hanging upon me—’tis an incubus.</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">And then your horse?</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">I know not; possibly</p>
+               <p rend="justify">Kept as an hostage. I was prisoner once.</p>
+               <p rend="justify">Wolfram.</p>
+               <p rend="justify">Prisoner? By here?</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">A-many castles, sir,</p>
+               <p rend="justify">Held by old ogres—and not all of them</p>
+               <p rend="justify">Stand in the mid-day, front the sober sun,</p>
+               <p rend="justify">Answer the slug-horn.</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">You are pleased to riddle.</p>
+               <p rend="justify">Ever the poet! </p>
+               <p rend="justify">Tannhäuser (<hi rend="italic">aside</hi>).</p>
+               <p rend="justify">Let me try the truth</p>
+               <p rend="justify">For certitude of incredulity!</p>
+               <p rend="justify">(<hi rend="italic">Aloud, laughing</hi>) I was in Venusberg!</p>
+               <p rend="justify">All (<hi rend="italic">except</hi>  Heinrich, <hi rend="italic">who laughs</hi>).</p>
+               <p rend="justify">Save us, Maria!</p>
+               <p rend="justify">[<hi rend="italic">They look about them fearfully and cross themselves.</hi>
+               </p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">Even in jest, such words!—Most dangerous</p>
+               <p rend="justify">Even to think of!—but to speak!</p>
+               <p rend="justify">Heinrich (<hi rend="italic">aside</hi>).</p>
+               <p rend="justify">These fools!</p>
+               <p rend="justify">[<hi rend="italic">He remains, thoughtfully regarding Tannhäuser.</hi>
+               </p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">God avert omens! Soft you, Tannhäuser,</p>
+               <p rend="justify">You heard the heralds?</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">Never a word of them!</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">You must remember my Elizabeth,</p>
+               <p rend="justify">My daughter—I designed to marry her</p>
+               <p rend="justify">To a most noble youth— </p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">Von Aschenheim?</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">The same. I would have wed her, but (’tis strange!)</p>
+               <p rend="justify">The lady had a purpose of her own,</p>
+               <p rend="justify">And swore by all the Virgins in the Book</p>
+               <p rend="justify">She would wed nobody but—Tannhäuser.</p>
+               <p rend="justify">So, like the foolish, doting sire I am,</p>
+               <p rend="justify">I gave her thirty days to find you. This</p>
+               <p rend="justify">Must dumb you with astonishment.</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">Well, no!</p>
+               <p rend="justify">The details, unfamiliar! But the theme</p>
+               <p rend="justify">I knew. And therefore leaps my bosom up:</p>
+               <p rend="justify">I rob your verderer of his nag, and ho!</p>
+               <p rend="justify">Low the long gallop to Elizabeth!</p>
+               <p rend="justify">Wolfram.</p>
+               <p rend="justify">Lucky and brave. How we all envy you!</p>
+               <p rend="justify">Heinrich.</p>
+               <p rend="justify">Envy? This day when he comes back to us!</p>
+               <p rend="justify">Why, we are lucky too! We thought you dead! </p>
+               <p rend="justify">Wolfram.</p>
+               <p rend="justify">Begrudge you, no! But—wish our luck were yours?</p>
+               <p rend="justify">Yes! Come, Tannhäuser, there’s my hand on it!</p>
+               <p rend="justify">Luck, love, and loyalty—the triple toast!</p>
+               <p rend="justify">Foresters.</p>
+               <p rend="justify">Tannhäuser! Luck, and love, and loyalty!</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">I thank you, loving kinsmen and my friends.</p>
+               <p rend="justify">But see, I am impatient to be gone!</p>
+               <p rend="justify">Your horse—that favour I shall not forget,</p>
+               <p rend="justify">Nor linger to repay. Good morrow then!</p>
+               <p rend="justify">Good sport all day!</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">God speed thee, Tannhäuser.</p>
+               <p rend="justify">[<hi rend="italic">Exit Tannhäuser.</hi>
+               </p>
+               <p rend="justify">Am I still dreaming? It was surely he</p>
+               <p rend="justify">But such an one, compact of suffering,</p>
+               <p rend="justify">Of joy, of love, of pity, of despair;</p>
+               <p rend="justify">Half senseless, half too subtle for my sense.</p>
+               <p rend="justify">Wolfram.</p>
+               <p rend="justify">He has passed through some unimagined test,</p>
+               <p rend="justify">Or undergone some sorrow. Leave it so!</p>
+               <p rend="justify">I saw high grief upon him, and new love! </p>
+               <p rend="justify">Heinrich.</p>
+               <p rend="justify">You are the poet! To your instinct then!</p>
+               <p rend="justify">Here’s to the insight given us by God!</p>
+               <p rend="justify">Landgrave.</p>
+               <p rend="justify">Wolfram is right; a truce to jest to-day.</p>
+               <p rend="justify">The dogs are loose. Ride forward, gentlemen!</p>
+               <p rend="justify">[<hi rend="italic">Amid the winding of horns and cries of the</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">huntsmen the company moves off.</hi>
+               </p>
+               <p rend="justify">Heinrich.</p>
+               <p rend="justify">They hate his very name! Dear Tannhäuser!</p>
+               <p rend="justify">[<hi rend="italic">Exit.</hi>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>ACT IV.</label>
+               </head>
+               <lg>
+                  <l>“So, force is sorrow, and each sorrow, force:</l>
+                  <l>What then? since Swiftness gives the charioteer</l>
+                  <l>The palm, his hope be in the vivid horse</l>
+                  <l>Whose neck God clothed with thunder, not the steer</l>
+                  <l>Sluggish and safe! Yoke Hatred, Crime, Remorse,</l>
+                  <l>Despair: but ever mind the whirling fear,</l>
+                  <l>Let, through the tumult, break the poet’s face</l>
+                  <l>Radiant, assured his wild slaves win the race!”</l>
+                  <l>
+                     <hi rend="italic">Two Poets of Croisic.</hi>
+                  </l>
+               </lg>
+               <div type="div3">
+                  <head>
+                     <label>SCENE I.</label>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="italic">A room in the palace of the Landgrave.</hi>
+                  </p>
+                  <p rend="justify">Elizabeth.</p>
+                  <p rend="justify">I  AM ashamed to look upon thy face!</p>
+                  <p rend="justify">Tannhäuser.</p>
+                  <p rend="justify">O Love! Pure mystery of life!</p>
+                  <p rend="justify">Elizabeth.</p>
+                  <p rend="justify">Not so.</p>
+                  <p rend="justify">Learn how this came. My father would have made</p>
+                  <p rend="justify">A match of lands and titles. I declined,</p>
+                  <p rend="justify">Minded to keep my high virginity.</p>
+                  <p rend="justify">He laughed, was cruel. So I said at last:</p>
+                  <p rend="justify">“Tannhäuser only!” Was this modesty?</p>
+                  <p rend="justify">Listen. You loved me when I was a child;</p>
+                  <p rend="justify">And, in my childish way, I looked to you,</p>
+                  <p rend="justify">Loved sitting at your knee and toying with </p>
+                  <p rend="justify">The great cross-hilt, or watching how the steel</p>
+                  <p rend="justify">Outshone the jewelled scabbard when you drew</p>
+                  <p rend="justify">(You would not let me touch) the delicate blade</p>
+                  <p rend="justify">Half out: and also fingering your harp,</p>
+                  <p rend="justify">Picking child’s tunes out, while you curled my hair</p>
+                  <p rend="justify">Between two fingers, dreamily enough!</p>
+                  <p rend="justify">Then, too, you went away out of my life!</p>
+                  <p rend="justify">You see the symbol you have been to me?</p>
+                  <p rend="justify">The swift high mind, the heart of gold and fire,</p>
+                  <p rend="justify">The living purpose and the mystic life</p>
+                  <p rend="justify">Of lonely seeking for the Grail of God!</p>
+                  <p rend="justify">I—call you husband? When I said your name,</p>
+                  <p rend="justify">It was to set the task impossible:—</p>
+                  <p rend="justify">Had they but known it—just as one should say:</p>
+                  <p rend="justify">“Bring down St Michael: let me marry him!”</p>
+                  <p rend="justify">They knew the angels were too pure; but you,</p>
+                  <p rend="justify">They guessed not how exalted were your hopes;</p>
+                  <p rend="justify">How utterly unselfish, pure, and true,</p>
+                  <p rend="justify">Your great heart beat!</p>
+                  <p rend="justify">Tannhäuser (<hi rend="italic">with bitterness</hi>).</p>
+                  <p rend="justify">I hardly knew, myself!</p>
+                  <p rend="justify">(<hi rend="italic">Aside.</hi>) Here is the virgin insight of the truth!</p>
+                  <p rend="justify">Or—cannot purity be brought to know</p>
+                  <p rend="justify">Aught but itself? Some poets tell us that!</p>
+                  <p rend="justify">(<hi rend="italic">Aloud.</hi>) I am unworthy even to speak to you.</p>
+                  <p rend="justify">Elizabeth.</p>
+                  <p rend="justify">The proof! The proof! Dear God, how true it is</p>
+                  <p rend="justify">That such high worthiness sees nothing there</p>
+                  <p rend="justify">In his own heart (save what is very Christ)</p>
+                  <p rend="justify">But wickedness!</p>
+                  <p rend="justify">Tannhäuser (<hi rend="italic">aside</hi>).</p>
+                  <p rend="justify">This is my punishment!</p>
+                  <p rend="justify">This faith, this hope, this love—to me—to me!</p>
+                  <p rend="justify">Elizabeth.</p>
+                  <p rend="justify">Yet, once my word went forth into the world.</p>
+                  <p rend="justify">Suddenly came the fear that you were still</p>
+                  <p rend="justify">Accessible to men—might hear, might come!</p>
+                  <p rend="justify">The kind, grave face of you—that light outshone</p>
+                  <p rend="justify">The mystical ideal. Therefore too</p>
+                  <p rend="justify">I minded me of our old baby-love,</p>
+                  <p rend="justify">And—marriages are made in heaven, you know!</p>
+                  <p rend="justify">Besides—Our Lady shewed me in a dream</p>
+                  <p rend="justify">How you would come.</p>
+                  <p rend="justify">Tannhäuser.</p>
+                  <p rend="justify">And now? So sure are you</p>
+                  <p rend="justify">The loving word you spoke an hour ago</p>
+                  <p rend="justify">Came from the heart—who called me by mistake? </p>
+                  <p rend="justify">Elizabeth.</p>
+                  <p rend="justify">So sure? You want me to confess again</p>
+                  <p rend="justify">The deep pure love, the love indicible.</p>
+                  <p rend="justify">Tannhäuser (<hi rend="italic">to himself</hi>).</p>
+                  <p rend="justify">Words, thoughts, that fail her? How should acts exceed?</p>
+                  <p rend="justify">(<hi rend="italic">Aloud.</hi>) Better sit thus and read each other’s thoughts—</p>
+                  <p rend="justify">I in the blue eyes, in the hazel you!</p>
+                  <p rend="justify">Then, bending, I may touch my lips upon</p>
+                  <p rend="justify">Sweet thoughtful brows.</p>
+                  <p rend="justify">Elizabeth.</p>
+                  <p rend="justify">Your kisses move my soul.</p>
+                  <p rend="justify">Strange thoughts and unimagined destinies</p>
+                  <p rend="justify">Take ship, and harbour in the heart of me.</p>
+                  <p rend="justify">Tannhäuser.</p>
+                  <p rend="justify">Words mean too much, and never mean enough.</p>
+                  <p rend="justify">Look, only look! </p>
+                  <p rend="justify">Elizabeth.</p>
+                  <p rend="justify">I am so happy—so!</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE II.</label>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="italic">The Court assembled in the Great Hall. Landgrave enthroned, Elizabeth by his side. Facing them are the competing minstrels. Around, courtiers and fair ladies.</hi>
+                  </p>
+                  <lg>
+                     <l>Landgrave.</l>
+                     <l>Welcome all minstrels! Let us celebrate</l>
+                     <l>In the old fashion, dear to Germany,</l>
+                     <l>My child’s betrothal to this noble youth,</l>
+                     <l>Great lord, true knight, and honest gentleman,</l>
+                     <l>So long who journeyed on the holy quest</l>
+                     <l>Forgotten of these younger days, and now</l>
+                     <l>Come back among us to receive reward</l>
+                     <l>For those long sufferings; in days of peace,</l>
+                     <l>In fruitful love, and marriage happiness.</l>
+                     <l>So, to the poet’s tourney.</l>
+                     <l>Wolfram.</l>
+                     <l>Sire, Lord Heinrich</l>
+                     <l>Craves your high pardon.</l>
+                     <l>Landgrave.</l>
+                     <l>Ha! He is not here!</l>
+                     <l>Wolfram.</l>
+                     <l>Our sturdy lover will not be consoled </l>
+                     <l>For losing, as he phrases it, his friend.</l>
+                     <l>Landgrave.</l>
+                     <l>Well, we forgive him the more readily</l>
+                     <l>Because of the occasion. One alone</l>
+                     <l>Of all themes possible may grace this hour;—</l>
+                     <l>Love! Let the lots of precedence be drawn.</l>
+                     <l>Tannhäuser, you will string us once again</l>
+                     <l>Your harp forgotten?</l>
+                     <l>Tannhäuser.</l>
+                     <l>That will I, my lord.</l>
+                     <l>Herald.</l>
+                     <l>On the Lord Wolfram falls it first to sing.</l>
+                     <l>Wolfram (<hi rend="italic">sings</hi>).</l>
+                     <l>Tender the smile, and faint the lover’s sigh,</l>
+                     <l>When first love dawns in the blue maiden sky,</l>
+                     <l>Where happy peace is linked with purity.</l>
+                     <l>As sad spring’s sun starts on his daily race,</l>
+                     <l>Reddens the east, as if in sad disgrace;</l>
+                     <l>So love first blushes on a true maiden’s face. </l>
+                     <l>Soft, soft, the gaze of married folk, I think,</l>
+                     <l>Limpid and calm as pools where cattle drink;</l>
+                     <l>And, when they kiss, most discontentments shrink!</l>
+                     <l>Even as the stars together sing (we hear)</l>
+                     <l>So sings the married life, a tuneful sphere.</l>
+                     <l>Husband is he, and she is very dear.</l>
+                     <l>How truly beautiful it is to see</l>
+                     <l>Old age in perfect unanimity,</l>
+                     <l>Affections smooth, and buzzing like a bee.</l>
+                     <l>The sun sets, in conjunction with the moon.</l>
+                     <l>Death comes at last, a pleasure and a boon,</l>
+                     <l>And they arrive in heaven very soon.</l>
+                     <l>[<hi rend="italic">Immense, spontaneous, uncontrollable applause</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">sweeps like a whirlwind through the court.</hi>
+                     </l>
+                     <l>An Unknown Minstrel (<hi rend="italic">breaking in unheralded</hi>).</l>
+                     <l>Tender the phrase, and faint the melody,</l>
+                     <l>When poets praise a maiden’s purity;</l>
+                     <l>Platitude linked to imbecility.</l>
+                     <l>[<hi rend="italic">Murmurs of surprise.</hi>
+                     </l>
+                     <l>As ’mongst spring’s sprigs sprouts sunshine’s constant face;</l>
+                     <l>Or as a mill grinds on, with steady pace;</l>
+                     <l>So sprouts, so grinds, the unblushing commonplace.</l>
+                     <l>Soft, soft the brain— </l>
+                     <l>[<hi rend="italic">The murmurs break into an indignant uproar.</hi>
+                     </l>
+                     <l>Herald.</l>
+                     <l>Silence!</l>
+                     <l>Landgrave.</l>
+                     <l>Sir Minstrel, you are insolent!</l>
+                     <l>We do not know you, yet have borne with you,</l>
+                     <l>Rudely uprising ere your turn was come:—</l>
+                     <l>And you abuse our patience to insult</l>
+                     <l>The noble minstrel whose impassioned song</l>
+                     <l>Touched every heart. Sing in your turn you may.</l>
+                     <l>Love is the theme, not imbecility!</l>
+                     <l>Wolfram.</l>
+                     <l>That is the subject next his heart, no doubt!</l>
+                     <l>[<hi rend="italic">Laughter.</hi>
+                     </l>
+                     <l>Herald.</l>
+                     <l>Lord Bertram!</l>
+                     <l>Bertram.</l>
+                     <l>I shall sing in other key.</l>
+                     <l>[<hi rend="italic">Sings.</hi>
+                     </l>
+                     <l>He is the equal of the gods, my queen,</l>
+                     <l>He crowned and chosen out of men,</l>
+                     <l>Who sits beside thee, sees</l>
+                     <l>Love’s laughing ecstasies</l>
+                     <l>Flame in thy face, and alter then</l>
+                     <l>To the low light of passion dimly seen</l>
+                     <l>In shaded woods and dells, Love’s wide demesne. </l>
+                     <l>But me! I burn with love! My lips are wan!</l>
+                     <l>Thy face is turned—I flame! I melt! I fall!</l>
+                     <l>My heart is chilled and dark;</l>
+                     <l>My soul’s ethereal spark</l>
+                     <l>Is dulled for sorrow; my despairs recall</l>
+                     <l>At last Thy name, O gracious Paphian,</l>
+                     <l>Lady of Mercy to the love of man!</l>
+                     <l>Come, come, immortal, of the many thrones!</l>
+                     <l>Sparrows and doves in chariot diamonded</l>
+                     <l>Drawn through the midmost air!</l>
+                     <l>O Lady of despair,</l>
+                     <l>Who bound the golden helmet of Thy head?</l>
+                     <l>Whose voice rings out the pitiful low tones:</l>
+                     <l>“Who, who hath wronged thee? And my power atones.”</l>
+                     <l>“She who now doth flee, shall soon pursue thee;</l>
+                     <l>She who spurns thy gifts, with gifts shall woo thee;</l>
+                     <l>She who loves not, she shall cleave unto thee,</l>
+                     <l>Thou the unwilling!”</l>
+                     <l>Peer of Gods is he, equal soul to theirs,</l>
+                     <l>Who lingers in thy passionate embrace:</l>
+                     <l>Whose languor-laden kiss</l>
+                     <l>Cleaves where thy bosom is</l>
+                     <l>A throne of beauty for thy throat and face!</l>
+                     <l>In these dark joys and exquisite despairs,</l>
+                     <l>O Love, let Death lay finger unawares! </l>
+                     <l>Landgrave.</l>
+                     <l>Passion and music—but no Principle!</l>
+                     <l>How different is Tannhäuser!</l>
+                     <l>(<hi rend="italic">To the unknown minstrel</hi>) You, sir, next!</l>
+                     <l>Sing of pure love and noble womanhood.</l>
+                     <l>Our court loves not these wastrel troubadours,</l>
+                     <l>Loose locks, Hushed faces, soul’s unseemliness.</l>
+                     <l>The Unknown Minstrel (<hi rend="italic">sings</hi>).</l>
+                     <l>Amid earth’s motley, Gaia’s cap and bells,</l>
+                     <l>This too material, too unreal life,</l>
+                     <l>Sing, sing the crown of tender miracles,</l>
+                     <l>The pure true wife!</l>
+                     <l>Sing not of love, the unutterable one,</l>
+                     <l>The love divine that Mary has to men.</l>
+                     <l>Seek not the winepress and the rising sun</l>
+                     <l>Beyond thy ken!</l>
+                     <l>Tannhäuser (<hi rend="italic">aside</hi>).</l>
+                     <l>Who is this man that reads my inmost thought?</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>I sing of love, most delicate and pure,</l>
+                     <l>Surely the crown of life! How slow and sweet</l>
+                     <l>Its music! Shall the ecstasy endure, </l>
+                     <l>Sunshine on wheat?</l>
+                     <l>Where leads this gentle love? I see you sigh!</l>
+                     <l>The Scythe is laid unto the Golden Grain:</l>
+                     <l>A note of utter unreality</l>
+                     <l>Usurps the strain.</l>
+                     <l>I sing not of that other flame of hell</l>
+                     <l>Wrapping with torture the delighted brow—</l>
+                     <l>But thou! who knowest, and hast known, so well,</l>
+                     <l>Sing thou!</l>
+                     <l>[<hi rend="italic">Tannhäuser, entranced, imagines himself</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">to be still in Venusberg.</hi>
+                     </l>
+                     <l>Tannhäuser (<hi rend="italic">aside</hi>).</l>
+                     <l>I have been dreaming that I left this place,</l>
+                     <l>Escaped with life, wooed my Elizabeth;</l>
+                     <l>My dreams are always strange in Venusberg.</l>
+                     <l>[<hi rend="italic">Taking his harp.</hi>
+                     </l>
+                     <l>Sing thee again, dear lady, of our joy?</l>
+                     <l>Listen, then, listen! For some sombre finger,</l>
+                     <l>Other than mine, impulses on the string.</l>
+                     <l>This tune I knew not! See, the strings are moved</l>
+                     <l>Subtly as if by witchcraft—or by God!</l>
+                     <l>[<hi rend="italic">Sings.</hi>
+                     </l>
+                     <l>In the Beginning God began,</l>
+                     <l>And saw the Night of Time begin!</l>
+                     <l>Chaos, a speck; and space, a span;</l>
+                     <l>Ruinous cycles fallen in, </l>
+                     <l>And Darkness on the Deep of Time.</l>
+                     <l>Murmurous voices call and climb;</l>
+                     <l>Faces, half-formed, arise; and He</l>
+                     <l>Looked from the shadow of His throne,</l>
+                     <l>The curtain of Eternity;</l>
+                     <l>He looked—and saw Himself alone,</l>
+                     <l>And on the sombre sea, the primal one,</l>
+                     <l>Faint faces, that might not abide;</l>
+                     <l>Flicker, and are foredone.</l>
+                     <l>So were they caught within the spacious tide,</l>
+                     <l>The sleepy waters that encased the world.</l>
+                     <l>Monsters rose up, and turned themselves, and curled</l>
+                     <l>Into the deep again.</l>
+                     <l>The darkness brooded, and the bitter pain</l>
+                     <l>Of chaos twisted the vast limbs of time</l>
+                     <l>In horrid rackings: then the spasm came:</l>
+                     <l>The Serpent rose, the servant of the slime,</l>
+                     <l>In one dark miracle of flame</l>
+                     <l>Unluminous and void: the silent claim</l>
+                     <l>Of that which was, to be: the cry to climb,</l>
+                     <l>The bitter birth of Nature: uttermost Night</l>
+                     <l>Dwelt, inaccessible to sound and sight;</l>
+                     <l>Shielded from Voice, impervious to Light.</l>
+                     <l>Lo! on the barren bosom, on the brine,</l>
+                     <l>The spirit of the Mighty One arose, </l>
+                     <l>A flickering light, a formless triple flame,</l>
+                     <l>The self-begotten, the impassive shrine,</l>
+                     <l>The seat of Heaven’s archipelagoes;</l>
+                     <l>Yet lighted not the glory whence it came,</l>
+                     <l>Nor shone upon the surface of the sea.</l>
+                     <l>Time, and the Great One, and the Nameless Name,</l>
+                     <l>Held in their grip the child, Eternity.</l>
+                     <l>Silence and Darkness in their womb withheld</l>
+                     <l>That spiritual fire, and brooded still:</l>
+                     <l>Nature and Time, their soleness undispelled,</l>
+                     <l>Ever awaiting the eternal Will.</l>
+                     <l>And Law was unbegotten: uttermost Night</l>
+                     <l>Dwelt, inaccessible to sound and sight;</l>
+                     <l>Shielded from Voice, impervious to Light.</l>
+                     <l>Then grew within the barren womb of this</l>
+                     <l>The Breath of the Eternal and the Vast,</l>
+                     <l>Softer than dawn, and closer than a kiss—</l>
+                     <l>And lo! the chaos and the darkness passed!</l>
+                     <l>At the creative sigh the Light became.</l>
+                     <l>Chaos rolled back in the abundant flame.</l>
+                     <l>The vast and mystic Soul,</l>
+                     <l>The Firmament, a living coal,</l>
+                     <l>Flamed ’twixt the glory and the sea below.</l>
+                     <l>The whirling force began. The atom whirled</l>
+                     <l>In vortices of flashing matter: wild as snow</l>
+                     <l>On mountain tops by the wind-spirits hurled, </l>
+                     <l>Blinding and blind, the sparks of spirit curled</l>
+                     <l>Each to its proper soul; the wide wheels flow,</l>
+                     <l>Orderly streams, and lose the rushing speed,</l>
+                     <l>Meet, mingle, marry. Fire and air express</l>
+                     <l>Their dews and winds of molten loveliness,</l>
+                     <l>Fine flakes of arrowy light, the dawn’s first deed.</l>
+                     <l>Metallic showers and smoke self-glittering</l>
+                     <l>For many an aeon. Wild the pennons spring</l>
+                     <l>Of streaming flame! Then, surging from the tide,</l>
+                     <l>Grew the desirable, the golden one,</l>
+                     <l>Separate from the sun.</l>
+                     <l>Now fire and air no more exult, exceed,</l>
+                     <l>Are balanced in the sphere. The waters wide</l>
+                     <l>Glow on the bosom of fixed earth; and Need,</l>
+                     <l>The Lady of Beginning, also was.</l>
+                     <l>Thus was the firmament a vital glass,</l>
+                     <l>The waters as the vessel of the soul;</l>
+                     <l>Thus earth, the mystic basis of the whole,</l>
+                     <l>Was smitten through with fire, as chrysopras,</l>
+                     <l>Blending, uniting, and dividing it,</l>
+                     <l>Volcanic, airy, and celestial.</l>
+                     <l>I rose within the elemental ball,</l>
+                     <l>And lo! the Ancient One of Days did sit!</l>
+                     <l>His head and hair were white as wool, His eyes</l>
+                     <l>A flaming fire: and from the splendid mouth</l>
+                     <l>Flashed the Eternal Sword! </l>
+                     <l>Lo! Lying at his feet as dead, I saw</l>
+                     <l>The leaping-forth of Law:</l>
+                     <l>Division of the North wind and the South,</l>
+                     <l>The lightning of the armies of the Lord;</l>
+                     <l>East rolled asunder from the rended West;</l>
+                     <l>Height clove the depth: the Voice begotten said:</l>
+                     <l>“Divided be thy ways and limited!”</l>
+                     <l>Answered the reflux and the indrawn breath:</l>
+                     <l>“Let there be Life, and Death!”</l>
+                     <l>“The Earth, she shall be governed by her parts:</l>
+                     <l>Division be upon her! Let her glory</l>
+                     <l>From crown to valley, source and spring to mouth,</l>
+                     <l>North unto South,</l>
+                     <l>Smooth gulf and sea to rugged promontory,</l>
+                     <l>Always be vexed and drunken, that the hearts</l>
+                     <l>Ruling her course round alway in the sky;</l>
+                     <l>And as an handmaid let her serve and die!</l>
+                     <l>One season, let it still confound another;</l>
+                     <l>No man behold his brother;</l>
+                     <l>No creature in it or upon, the same!</l>
+                     <l>Her members, let them differ; be no soul</l>
+                     <l>Equal! Let thought, let reasonable things,</l>
+                     <l>Bow to thy wings,</l>
+                     <l>Thy manifest control,</l>
+                     <l>Vexation! weeding out of one another.</l>
+                     <l>Their dwelling-places, let them lose their name! </l>
+                     <l>The work of man, and all his pomp and power,</l>
+                     <l>Deface them: shatter the aspiring tower!</l>
+                     <l>Let all his houses be as caves and holes,</l>
+                     <l>Unto the Beast I give them. And their souls—</l>
+                     <l>Lift up the shadowy hand!—</l>
+                     <l>Confound with darkness them that understand!</l>
+                     <l>For why?</l>
+                     <l>Me, the Most High,</l>
+                     <l>It doth repent Me, having made mankind!</l>
+                     <l>Let her be known a little while, and then</l>
+                     <l>A little while a stranger. Dumb and blind,</l>
+                     <l>Deaf to the Light and Breath of Me be men!</l>
+                     <l>She is become an harlot’s bed, the home</l>
+                     <l>And dwelling of the fallen one! Arise!</l>
+                     <l>Ye heavens, ye lower serving skies!</l>
+                     <l>Beneath My dome</l>
+                     <l>Serve ye the lofty ones. The Governors,</l>
+                     <l>Them shall ye govern. Cast the fallen down!</l>
+                     <l>Bring forth with them that are Fertility’s!</l>
+                     <l>Destroy the rotten! Let no shores</l>
+                     <l>Remain in any number! Add and crown,</l>
+                     <l>Diminish and discrown, until the stars</l>
+                     <l>Be numbered! Rise, ye adamantine bars!</l>
+                     <l>Let pass your Masters! Move ye and appear!</l>
+                     <l>Execute judgment and eternal ill,</l>
+                     <l>The law of justice, and the law of fear.</l>
+                     <l>It is My Will!” </l>
+                     <l>So shed the primal curse</l>
+                     <l>Its dreadful stature, its appalling shape.</l>
+                     <l>In giant horror the clouds rolling drape</l>
+                     <l>Earth, like a plumed pall upon an hearse,</l>
+                     <l>Till God looms up, half devil and half ape,</l>
+                     <l>Heaven exulting in the hateful rape;</l>
+                     <l>And still the strong curse rolls</l>
+                     <l>Over accurséd and immortal souls,</l>
+                     <l>Covering the corners of the universe</l>
+                     <l>Without escape.</l>
+                     <l>This is the evil destiny of man:</l>
+                     <l>The desperate plan</l>
+                     <l>Made by the Ancient One, to keep His power.</l>
+                     <l>Limits He set, made space unsearchable</l>
+                     <l>Yet bounded, made time endless to transcend</l>
+                     <l>Man’s thought to comprehend:</l>
+                     <l>Builded the Tower</l>
+                     <l>Of life, and girded it with walls of hell,</l>
+                     <l>The name of Death. This limit in all things</l>
+                     <l>Baffles the spirit wings,</l>
+                     <l>Chains the swift soul; for even Death is bound.</l>
+                     <l>In its apparent amplitude I saw,</l>
+                     <l>I, who have slept through death, have surely found</l>
+                     <l>The old accurséd law,</l>
+                     <l>And death has changed to life. This task alone</l>
+                     <l>Shoots to the starry throne: </l>
+                     <l>That if man lack not purpose, but succeed,</l>
+                     <l>Reaching in very deed</l>
+                     <l>Impersonal existence;—Lo!</l>
+                     <l>Man is made one with God, an equal soul.</l>
+                     <l>For he shall know</l>
+                     <l>The harmony, the oneness of the Whole.</l>
+                     <l>This was my purpose. Vain,</l>
+                     <l>Ah vain! The Star of the Unconquered Will</l>
+                     <l>Centred its vehemence and light, to stain</l>
+                     <l>In one successful strain,</l>
+                     <l>The stainless sphere of the unchangeable,</l>
+                     <l>With its own passionate, desperate breath</l>
+                     <l>Ever confronting the dark gate of Death.</l>
+                     <l>I passed that gate! O pitiful! The same</l>
+                     <l>Mystery holds me, and the flame</l>
+                     <l>Of Life stands up, unbroken citadel,</l>
+                     <l>Beyond my sight, vague, far, intangible.</l>
+                     <l>Broken are will, and witchery, and prayer.</l>
+                     <l>Remains the life of earth, which is but hell,</l>
+                     <l>Destiny’s web, and my immense despair.</l>
+                     <l>Landgrave.</l>
+                     <l>Your words are terrible! We knew them true</l>
+                     <l>Even while you sang. But see! the light of day!</l>
+                     <l>Beauty in all things and—for you—true love! </l>
+                     <l>All the blind horror of the song recedes.</l>
+                     <l>There is a sequel; is there not, my friend?</l>
+                     <l>Of love, your theme, we have not heard a note.</l>
+                     <l>Tannhäuser.</l>
+                     <l>That is a question. I am not so sure</l>
+                     <l>My song was not entirely to that end.</l>
+                     <l>Wolfram.</l>
+                     <l>Yes, poet, true one that you are indeed!</l>
+                     <l>You shew us the dilemma of the soul,</l>
+                     <l>The Gordian knot Love only hews asunder.</l>
+                     <l>Tannhäuser.</l>
+                     <l>Or—shall I say?—soothes only, bandages,</l>
+                     <l>Not heals the sore of Destiny?</l>
+                     <l>Wolfram.</l>
+                     <l>No, certes,</l>
+                     <l>But substitutes for one reality</l>
+                     <l>Another—and a lovely pleasant one.</l>
+                     <l>Tannhäuser.</l>
+                     <l>Existence is illusion after all;</l>
+                     <l>Man, a bad joke; and God, mere epigram!</l>
+                     <l>If we must come to that. And likewise love. </l>
+                     <l>Landgrave.</l>
+                     <l>You have dipped somewhat in philosophy</l>
+                     <l>Of a too cynical and wordy sort.</l>
+                     <l>Tannhäuser.</l>
+                     <l>To logic there is one reality,</l>
+                     <l>Words. But the commonsense of humankind</l>
+                     <l>By logic baffles logic, chains with Deed</l>
+                     <l>The lion Thought. It is a circle, friends!</l>
+                     <l>All life and death and mystery ravel out</l>
+                     <l>Into one argument—the rounded one.</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>Count me your children their arithmetic!</l>
+                     <l>Zero, the circle, grows to one, the line:</l>
+                     <l>Both limitless in their own way. Proceed.</l>
+                     <l>Two is by shape the Coptic aspirate,</l>
+                     <l>Life breathed, and death indrawn. And so</l>
+                     <l>Rounds you at last the ten, completion’s self,</l>
+                     <l>The circle and the line. Why stick at nought?</l>
+                     <l>Bertram.</l>
+                     <l>Only a donkey fastened to a post</l>
+                     <l>Moves in a circle. </l>
+                     <l>Landgrave.</l>
+                     <l>This is noble talk!</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>Leave the wide circle—word and argument!</l>
+                     <l>Move to the line—the steady will of man,</l>
+                     <l>That shall attract the Two, the Breath of Life,</l>
+                     <l>The Holy Spirit: land you in the Three,</l>
+                     <l>Where form is perfect—in the triangle.</l>
+                     <l>Tannhäuser.</l>
+                     <l>My friend, the Three is infinitely small,</l>
+                     <l>Mere surface. And I seek the Depth divine!</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>The solid! But the triangle aspires</l>
+                     <l>To that same unity that you despise,</l>
+                     <l>And lo! the Pyramid! The Sages say:</l>
+                     <l>Unite that to the Sphinx, and all is done,</l>
+                     <l>Completion of the Magnum Opus.</l>
+                     <l>Tannhäuser.</l>
+                     <l>No!</l>
+                     <l>Each new dimension lands me farther yet</l>
+                     <l>In the morass of limit.</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>Be it so!</l>
+                     <l>But follow me through all the labyrinth,</l>
+                     <l>And ten rewards us. And your Zero’s found</l>
+                     <l>To have an actual value and effect</l>
+                     <l>On unity—your Will. </l>
+                     <l>Tannhäuser.</l>
+                     <l>What’s then to seek?</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>The fourth dimension, for the early step.</l>
+                     <l>Landgrave.</l>
+                     <l>It seems this talk is merely mystical.</l>
+                     <l>This is no College of the Holy Ghost</l>
+                     <l>For Rosencreutz his mystifying crew!</l>
+                     <l>A Courtier.</l>
+                     <l>A Poet’s tourney, and the theme is Love!</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>There is a sequel to our poet’s song,</l>
+                     <l>And he will sing it.</l>
+                     <l>Tannhäuser.</l>
+                     <l>No! I know it not!</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>The winepress and the sun!</l>
+                     <l>Tannhäuser (<hi rend="italic">again in Venusberg</hi>).</l>
+                     <l>My spouse and Queen,</l>
+                     <l>Bright Goddess of the amber limbs, the lips</l>
+                     <l>Redder than poppies in the golden corn</l>
+                     <l>That is your mane! Listen, the after-song!</l>
+                     <l>[<hi rend="italic">Taking his harp.</hi>
+                     </l>
+                     <l>Landgrave.</l>
+                     <l>What are these words?</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>Let silence now abide:</l>
+                     <l>Disturb not the impassioned utterance!</l>
+                     <l>Tannhäuser.</l>
+                     <l>[<hi rend="italic">Sings.</hi>
+                     </l>
+                     <l>Can you believe the deadly will’s decree,</l>
+                     <l>The bitter earnestness of this desire,</l>
+                     <l>The deep intention, the solemnity,</l>
+                     <l>Profound as night and penetrant as fire,</l>
+                     <l>The awful grasping at the Infinite,</l>
+                     <l>Even as I grapple at the breasts of thee,</l>
+                     <l>The seeking and the striving to the light</l>
+                     <l>Deep in thine eyes, where Hell flames steadily?</l>
+                     <l>I am not clinging thus</l>
+                     <l>Despairing to the body of thy sin</l>
+                     <l>For mere delight—Ah, deadly is to us</l>
+                     <l>The pleasure wrapping us, and holding in</l>
+                     <l>All love, all hate—the miserable way!</l>
+                     <l>Dawns no devouring day</l>
+                     <l>Still on the infinite slow tune of limbs</l>
+                     <l>Moving in rapture; sleepy echo swims</l>
+                     <l>In the dissolving brain.</l>
+                     <l>Love conquering lassitude at last to win</l>
+                     <l>Pain out of peace, and pleasure from a pang; </l>
+                     <l>Then, scorpion-stung of its own terrible tang,</l>
+                     <l>Burnt of its own fire, soiled of its own stain,</l>
+                     <l>Falls conquered as a bird</l>
+                     <l>Bolt-stricken through the brain,</l>
+                     <l>To the resounding plain:</l>
+                     <l>The double word,</l>
+                     <l>The see-saw of all misery—begin</l>
+                     <l>The alluring mysteries of lust and sin;</l>
+                     <l>Ends their delight!—and are they clear to sight?</l>
+                     <l>Or mixed with death, compact of night?</l>
+                     <l>Begin—the bitter tears of impotence,</l>
+                     <l>The sad permuted sense</l>
+                     <l>Of this despair—what would you? and renew</l>
+                     <l>The long soft warfare—the enchanted arms,</l>
+                     <l>The silken body’s charms,</l>
+                     <l>The lips that murmur and the breasts that sting</l>
+                     <l>The eyes that sink so deep</l>
+                     <l>Beyond the steeps and avenues of sleep,</l>
+                     <l>And of their wonder bring</l>
+                     <l>No ultimation from the halls of night,</l>
+                     <l>The slippery staircase, and the Fatal Throne,</l>
+                     <l>The Evil Mouse, the Fugitive of Light,</l>
+                     <l>The great Unluminous, the Formless One!</l>
+                     <l>Stoop not! Beneath, a precipice is set,</l>
+                     <l>The Seven Steps. Stoop not, forget</l>
+                     <l>Never the splendid Image, and the realm</l>
+                     <l>Where lightnings overwhelm </l>
+                     <l>The evil, and the barren, and the vile,</l>
+                     <l>In God’s undying smile!</l>
+                     <l>Stoop not, O stoop not, to yon splendid world,</l>
+                     <l>Yon darkly-splendid, airless, void, inane,</l>
+                     <l>Blind confines in stupendous horror curled,</l>
+                     <l>The sleepless place of Terror and distress,</l>
+                     <l>Luring damned souls with lying loveliness,</l>
+                     <l>The Habitation and the House of Pain.</l>
+                     <l>For that is their abode, the Wretched Ones,</l>
+                     <l>Of all unhappiness the sons!</l>
+                     <l>And when, invoking often, thou shalt see</l>
+                     <l>That formless Fire; when all the earth is shaken,</l>
+                     <l>The stars abide not, and the moon is gone,</l>
+                     <l>All Time crushed back into Eternity,</l>
+                     <l>The Universe by earthquake overtaken;</l>
+                     <l>Light is not, and the thunders roll,</l>
+                     <l>The World is done:</l>
+                     <l>When in the darkness Chaos rolls again</l>
+                     <l>In the excited brain:</l>
+                     <l>Then, O then call not to thy view that visible</l>
+                     <l>Image of Nature; fatal is her name!</l>
+                     <l>It fitteth not thy body to behold</l>
+                     <l>That living light of Hell,</l>
+                     <l>The unluminous, dead flame,</l>
+                     <l>Until that body from the crucible</l>
+                     <l>Hath passed, pure gold! </l>
+                     <l>For, from the confines of material space,</l>
+                     <l>The twilight-moving place,</l>
+                     <l>The gates of matter, and the dark threshold,</l>
+                     <l>Before the faces of the Things that dwell</l>
+                     <l>In the Abodes of Night,</l>
+                     <l>Spring into sight</l>
+                     <l>Demons dog-faced, that show no mortal sign</l>
+                     <l>Of Truth, but desecrate the Light Divine,</l>
+                     <l>Seducing from the sacred mysteries.</l>
+                     <l>But, after all these Folk of Fear are driven</l>
+                     <l>Before the avenging levin</l>
+                     <l>That rives the opening skies,</l>
+                     <l>Behold that Formless and that Holy Flame</l>
+                     <l>That hath no name;</l>
+                     <l>That Fire that darts and flashes, writhes and creeps</l>
+                     <l>Snake-wise in royal robe,</l>
+                     <l>Wound round that vanished glory of the globe,</l>
+                     <l>Unto that sky beyond the starry deeps,</l>
+                     <l>Beyond the Toils of Time—then formulate</l>
+                     <l>In thine own mind, luminous, concentrate,</l>
+                     <l>The Lion of the Light, a child that stands</l>
+                     <l>On the vast shoulders of the Steed of God:</l>
+                     <l>Or winged, or shooting flying shafts, or shod</l>
+                     <l>With the flame-sandals. Then, lift up thine hands!</l>
+                     <l>Centre thee in thine heart one scarlet thought</l>
+                     <l>Limpid with brilliance of the Light above! </l>
+                     <l>Draw into nought</l>
+                     <l>All life, death, hatred, love:</l>
+                     <l>All self concentred in the sole desire—</l>
+                     <l>Hear thou the Voice of Fire!</l>
+                     <l>This hope was Zoroaster’s—this is mine!</l>
+                     <l>Not one but many splendours hath the Shrine:</l>
+                     <l>Not one but many paths approach the gate</l>
+                     <l>That guards the Adytum, fortifying Fate!</l>
+                     <l>Mine was, by weariness of blood and brain,</l>
+                     <l>Mere bitter fruit of pain</l>
+                     <l>Sought in the darkness of an harlot’s bed,</l>
+                     <l>To make me as one dead:</l>
+                     <l>To loose the girders of the soul, and gain</l>
+                     <l>Breathing and life for the Intelligible;</l>
+                     <l>Find death, yet find it living. Deep as Hell</l>
+                     <l>I plunged the soul; by all blind Heaven unbound</l>
+                     <l>The spirit, freed, pierced through the maze profound,</l>
+                     <l>And knew Itself, an eagle for a dove.</l>
+                     <l>So in one man the height and deep of love</l>
+                     <l>Joined, in two states alternate (even so</l>
+                     <l>Are life and death)—shall one unite the two,</l>
+                     <l>My long impulsive strife?</l>
+                     <l>Did I find life?</l>
+                     <l>The real life—to know</l>
+                     <l>The ways of God. Alas! I never knew. </l>
+                     <l>Then came our Lady of the Sevenfold Light,</l>
+                     <l>Shewed me a distant plan, distinct and clear,</l>
+                     <l>As twilight to the dayspring and the night,</l>
+                     <l>Dividing and uniting even here:</l>
+                     <l>The middle path—life interfused with death—</l>
+                     <l>Pure love; the secret of Elizabeth!</l>
+                     <l>This is my secret—in the man’s delight</l>
+                     <l>To lose that stubborn ecstasy for God!</l>
+                     <l>To this clear knowledge hath my path been trod</l>
+                     <l>In deepest hell—in the profoundest sky!</l>
+                     <l>This knowledge—the true immortality,</l>
+                     <l>I came unto through pain and tears,</l>
+                     <l>Tigerish hopes, and serpent loves, and dragon fears,</l>
+                     <l>Most bitter kisses, salted springs and dry;</l>
+                     <l>In those deep caverns and slow-moving years,</l>
+                     <l>When dwelt I, in the Mount of Venus, even I!</l>
+                     <l>[<hi rend="italic">The spell is broken, and uproar ensues.</hi>
+                     </l>
+                     <l>Landgrave.</l>
+                     <l>The fiend! The atheist! Devil that you are!</l>
+                     <l>Voices.</l>
+                     <l>Kill him, ay, kill him!</l>
+                     <l>Tannhäuser.</l>
+                     <l>Crucify him, say!</l>
+                     <l>[<hi rend="italic">Tannhäuser extends his arms as on a cross.</hi>
+                     </l>
+                     <l>Landgrave.</l>
+                     <l>Blaspheme not! Dare not to insult the sign</l>
+                     <l>Of our Redemption! Gentlemen and peers,</l>
+                     <l>What say you? shall he live to boast himself,</l>
+                     <l>The abandoned, perjured, the apostate soul,</l>
+                     <l>Daring to come to our pure court to brag</l>
+                     <l>Of his incredible vileness? To link up</l>
+                     <l>The saintly purity of this my child</l>
+                     <l>With his seducer’s heart of hell! My voice!</l>
+                     <l>Death! Your cry echoes me?</l>
+                     <l>Voices.</l>
+                     <l>Death! Death!</l>
+                     <l>Tannhäuser.</l>
+                     <l>Leap out,</l>
+                     <l>Sword of my fathers! you have heard my harp!</l>
+                     <l>Its music stings your vile hypocrisy</l>
+                     <l>Into mere hatred. Truth is terrible!</l>
+                     <l>You, cousin, taken in adultery!</l>
+                     <l>You, Wolfram, lover of the kitchen maids!</l>
+                     <l>You, Jerome—yes, I know your secret deeds!</l>
+                     <l>You, ladies! Are your faces painted thus</l>
+                     <l>Not to hide wrinkles of debauchery?</l>
+                     <l>To catch new lovers?</l>
+                     <l>Landgrave.</l>
+                     <l>Stop the lying mouth!</l>
+                     <l>Friends, your sword-service! </l>
+                     <l>Tannhäuser.</l>
+                     <l>Will they answer you?</l>
+                     <l>My arm is weary as your souls are not</l>
+                     <l>Of beastliness: I have drawn my father’s sword,</l>
+                     <l>Hard as your virtue is the easy sort,</l>
+                     <l>Heavy to handle as your loves are light,</l>
+                     <l>Smooth as your lies, and sharper than your hates!</l>
+                     <l>I know you! Cowards to the very bone!</l>
+                     <l>[<hi rend="italic">Driving them out.</hi>
+                     </l>
+                     <l>Who fights me, of this sworded company?</l>
+                     <l>Cannot my words have sting in them enough,</l>
+                     <l>Now, to make one of you turn suddenly</l>
+                     <l>And stab me from behind? Out, out with you!</l>
+                     <l>Fling-to the doors! A murrain on the curs!</l>
+                     <l>So, I am master!</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>Well and merrily done!</l>
+                     <l>But look you to the lady; she has swooned.</l>
+                     <l>Tannhäuser.</l>
+                     <l>Who are you, sir, stood smiling, nonchalant,</l>
+                     <l>At all the turmoil, ridiculing it?</l>
+                     <l>You knew the secret symbol of my life,</l>
+                     <l>You forced me to that miserable song.</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>My name, sir, at your service, is Geschicht. </l>
+                     <l>Tannhäuser.</l>
+                     <l>Sent? And the purpose of your coming here?</l>
+                     <l>You must wield power to keep them silent so,</l>
+                     <l>When the first word had culminated else</l>
+                     <l>In twice the tempest echoed to the last!</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>It was most necessary for yourself</l>
+                     <l>To formulate your thought in word. Enough—</l>
+                     <l>The thought transmuted in the very act.</l>
+                     <l>Tannhäuser.</l>
+                     <l>You know? You know! The new illusion gone!</l>
+                     <l>Bitter, O bitter will it be to say!</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>Due grace and courage will be found for you.</l>
+                     <l>Farewell, Tannhäuser!</l>
+                     <l>Tannhäuser.</l>
+                     <l>Shall we meet again?</l>
+                     <l>The Unknown Minstrel.</l>
+                     <l>There is one glamour you must wreathe in gloom</l>
+                     <l>Before you come to the dark hill of dreams. </l>
+                     <l>Tannhäuser.</l>
+                     <l>My soul is sick of riddling. Fare you well!</l>
+                     <l>[<hi rend="italic">Exit the Unknown Minstrel.</hi>
+                     </l>
+                     <l>Wake, wake, poor child, poor child, Elizabeth!</l>
+                     <l>Elizabeth.</l>
+                     <l>What says my dear one? I have been with God.</l>
+                     <l>Tannhäuser (<hi rend="italic">aside</hi>).</l>
+                     <l>How shall I speak? A violent good-bye,</l>
+                     <l>As one distraught, ashamed? I had unbared</l>
+                     <l>My bosom to these folk, but the sole pride,</l>
+                     <l>My father’s gift—to be a gentleman—</l>
+                     <l>Forbade the dying, welcome otherwise,</l>
+                     <l>At any despicable hands as theirs.</l>
+                     <l>They, they might boast—we hundred swords or so</l>
+                     <l>Set on the mighty Tannhäuser, and slew him.</l>
+                     <l>We, scarce an hundred! Yes, believe it, sirs</l>
+                     <l>We are not so feeble!—But death anyhow</l>
+                     <l>Cuts and not loosens the entangled life.</l>
+                     <l>Be mine the harder and the better way,</l>
+                     <l>The single chance: not hope; appeal no more;</l>
+                     <l>Hardly the arrowy wisdom of despair;</l>
+                     <l>Hardly the cowardice or courage yet</l>
+                     <l>To drift, nor cursing nor invoking God. </l>
+                     <l>Elizabeth.</l>
+                     <l>I heard, I pure, I virginal, your song;</l>
+                     <l>The shameful story of your intercourse</l>
+                     <l>With—fiend or woman? And your burning will.</l>
+                     <l>Even in that horror, to the Highest; at last</l>
+                     <l>Your choice of me—the middle course of them,</l>
+                     <l>Pure human love? And, if your song be true,</l>
+                     <l>As I, who heard the voice, the earnestness,</l>
+                     <l>Saw the deep eyes, and truth aflame in them,</l>
+                     <l>Know—then the choice be Mary’s and not mine!</l>
+                     <l>I love you better, were that possible;</l>
+                     <l>Will make you a true wife, and lead your hand,</l>
+                     <l>Or be led by you, in the pleasant path.</l>
+                     <l>For me, I enter not—Blesséd be God!—</l>
+                     <l>In those dark problems that disturb your soul.</l>
+                     <l>Mine is the simple nature. Look at me!</l>
+                     <l>Tannhäuser.</l>
+                     <l>O Lady pure, miracle of true love,</l>
+                     <l>I have a bitter word and harsh to say.</l>
+                     <l>This is my curse—no sooner do I speak,</l>
+                     <l>Or formulate my mind in iron words,</l>
+                     <l>That my mind grows, o’erleaps the limit set,</l>
+                     <l>And I perceive the truth that lies beyond—</l>
+                     <l>One further step into a new-fallen night.</l>
+                     <l>Hear then—I hate to hurt your perfect soul; </l>
+                     <l>I hate myself because I love you still</l>
+                     <l>In that strange intermediate consciousness,</l>
+                     <l>The reason and the mind! This middle way</l>
+                     <l>Ancients called safe—that damns it instantly!</l>
+                     <l>Without some danger nothing great is done!</l>
+                     <l>Let me be God! Or, failing of that task,</l>
+                     <l>Were it but by an unit, let me fall!</l>
+                     <l>And, falling, be it from so great a height</l>
+                     <l>That I may reach some uttermost Abyss,</l>
+                     <l>Inhabit it and reign, most evil one</l>
+                     <l>Of all the Horrors there—and in that path</l>
+                     <l>Seem, even deluded, to approach once more</l>
+                     <l>Infinity. For all the limitless</l>
+                     <l>Hath no distinction—evil is no more,</l>
+                     <l>And good no more.</l>
+                     <l>Elizabeth.</l>
+                     <l>But God is absolute Good!</l>
+                     <l>Tannhäuser.</l>
+                     <l>No! He is Not! That negative alone</l>
+                     <l>Shadows His shadow to our mortal mind.</l>
+                     <l>Elizabeth.</l>
+                     <l>That is too deep; I cannot fathom you. </l>
+                     <l>Tannhäuser.</l>
+                     <l>Define, give utterance to this “Good.” You see</l>
+                     <l>God slips you, He the Undefinable!</l>
+                     <l>Not good! Not wise! Not anything at all</l>
+                     <l>That heart can grasp, or reason frame, or soul</l>
+                     <l>Shadow the sense of!</l>
+                     <l>Elizabeth.</l>
+                     <l>He is far too great!</l>
+                     <l>I see!</l>
+                     <l>Tannhäuser.</l>
+                     <l>Not great! The consciousness of man</l>
+                     <l>Their many generations moulded so</l>
+                     <l>To fix in definite ideas, and clothe</l>
+                     <l>Their Maker in the rags. If skies are vast,</l>
+                     <l>So gems are tiny: who shall choose between?</l>
+                     <l>Who reads the riddle of the Universe?</l>
+                     <l>All words! Thus, from his rock-wrought peeking-point</l>
+                     <l>Out speers the hermit. “See, the sun is dead!”</l>
+                     <l>It shines elsewhere. You from your tiny perch,</l>
+                     <l>The corner of the corner of the earth,</l>
+                     <l>Itself a speck in solar life; the sun,</l>
+                     <l>For all I know, a speck among the stars,</l>
+                     <l>Themselves one corporate molecule of space!—</l>
+                     <l>You from your perch judge, label, limit Him!</l>
+                     <l>Not that your corner is not equally </l>
+                     <l>The centre and the whole. Fool’s talk it is!</l>
+                     <l>Consider the futility of mind!</l>
+                     <l>Realize utterly how mean, how dull,</l>
+                     <l>How fruitless is Philosophy!</l>
+                     <l>Elizabeth.</l>
+                     <l>Indeed</l>
+                     <l>My brain is baffled. But I see your point.</l>
+                     <l>Talking of God, even imagining,</l>
+                     <l>Insane! But for aspiring—that I will!</l>
+                     <l>Tannhäuser.</l>
+                     <l>That is true marriage, in my estimate.</l>
+                     <l>Aspire together to one Deity?</l>
+                     <l>Yes! But to love thee otherwise than that?</l>
+                     <l>Elizabeth.</l>
+                     <l>This one thing clearly do I understand:</l>
+                     <l>We shall not marry. It is well, my lord.</l>
+                     <l>Tannhäuser.</l>
+                     <l>Miserable, miserable me! I bring</l>
+                     <l>Hate and disruption and unhappiness</l>
+                     <l>Unto all purity I chance to touch.</l>
+                     <l>I have no hope but I am fallen now;</l>
+                     <l>So journey, in this purpose of despair,</l>
+                     <l>To Lilith and the Venusberg. </l>
+                     <l>Elizabeth.</l>
+                     <l>Oh no!</l>
+                     <l>Grant me one boon—the one that I shall ask</l>
+                     <l>Ever in this world! Promise me!</l>
+                     <l>Tannhäuser.</l>
+                     <l>Alas!</l>
+                     <l>One promise gave I once to woman—that</l>
+                     <l>Drove me to this illusion of your love,</l>
+                     <l>And broke your heart.</l>
+                     <l>Elizabeth.</l>
+                     <l>Oh no, I shall not die.</l>
+                     <l>Have I not Mary and the angels yet?</l>
+                     <l>Tannhäuser.</l>
+                     <l>You are so pure, so pitiful—your word</l>
+                     <l>Cannot bring evil. Yes, I promise you!</l>
+                     <l>Elizabeth.</l>
+                     <l>Go then the bitter pilgrimage to Rome,</l>
+                     <l>Gain absolution for this piteous past</l>
+                     <l>From him that owns the twin all-opening keys</l>
+                     <l>That bar your infinite on either side.</l>
+                     <l>Then! look with freshness, hope, and fortitude</l>
+                     <l>Still to the summit—the ideal God. </l>
+                     <l>Tannhäuser.</l>
+                     <l>I have no hope nor trust in man at all;</l>
+                     <l>But I will go. Fare well, Elizabeth!</l>
+                     <l>[<hi rend="italic">Going, returns and kneels before her.</hi>
+                     </l>
+                     <l>Dare you once kiss these grey and withered brows?</l>
+                     <l>As ’twere some flower that fell amid my hair,</l>
+                     <l>The lotus of eternal hope and life.</l>
+                     <l>Elizabeth.</l>
+                     <l>Dare I? I kiss you once upon the brow,</l>
+                     <l>Praying that God will make the purpose clear,</l>
+                     <l>And on the eyes—that He may lend them light.</l>
+                     <l>[<hi rend="italic">Tannhäuser rises, and silently departs.</hi>
+                     </l>
+                     <l>Oh God! Oh God! That I have loved him so!</l>
+                     <l>Be merciful! Be merciful! to him,</l>
+                     <l>The great high soul, bound in the lofty sin;</l>
+                     <l>To me, the little soul, the little sin! </l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>ACT V.</label>
+               </head>
+               <p rend="justify">“One birth of my bosom;</p>
+               <p rend="justify">One beam of mine eye;</p>
+               <p rend="justify">One topmost blossom</p>
+               <p rend="justify">That scales the sky.</p>
+               <p rend="justify">Man, equal and one with me, man that is made of me, man that is I.” </p>
+               <p rend="justify">
+                  <hi rend="italic">Hertha.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">A desolate and melancholy wood. Nightfall.</hi>
+               </p>
+               <p rend="justify">Heinrich.</p>
+               <p rend="justify">W ELL, I am lost! The whistle brings no hound,</p>
+               <p rend="justify">The horn no hunter! North and South are mixed </p>
+               <p rend="justify">In this low twilight and the hanging boughs.</p>
+               <p rend="justify">I have slept worse than this. Poor Tannhäuser!</p>
+               <p rend="justify">I met him walking, as in dream, across</p>
+               <p rend="justify">The courtyard, while behind him skulked that crew</p>
+               <p rend="justify">That lurked, and itched to kill him, him unarmed,</p>
+               <p rend="justify">Not daring! But he reached his hand to me!</p>
+               <p rend="justify">“Good luck, old friend!” and, smiling, he was gone.</p>
+               <p rend="justify">Gone to the Pope—Great soul to mountebank!</p>
+               <p rend="justify">It was her wish, they whisper. Well-a-day!</p>
+               <lg>
+                  <l>He’s gone, and not a friend have I again.</l>
+                  <l>This bank is soft with delicate white moss,</l>
+                  <l>No pillow better in broad Germany.</l>
+                  <l>Were Madeline but here! What rustle stirs </l>
+                  <l>These leaves? A strong man sobbing! The earth quakes</l>
+                  <l>Responsive. Hillo-ho! Who comes by there?</l>
+               </lg>
+               <p rend="justify">[<hi rend="italic">Tannhäuser enters. He appears old and worn; but from his whole body radiates a dazzling light, and his face is that of the Christ crucified.</hi>
+               </p>
+               <p rend="justify">Save us, Saints, save us! I have looked on God!</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">Heinrich! my friend, my old true-hearted friend!</p>
+               <p rend="justify">Fear not! I am not ghost, but living man!</p>
+               <p rend="justify">Ah me, ah me, the sorrow of the world!</p>
+               <p rend="justify">Heinrich.</p>
+               <p rend="justify">Thou, Tannhäuser! what miracle is this?</p>
+               <p rend="justify">Your body glows—with what unearthly light?</p>
+               <p rend="justify">Tannhäuser.</p>
+               <p rend="justify">I did not know. Ah! sorrow of this earth!</p>
+               <p rend="justify">What tears are falling from the Pleiades!</p>
+               <p rend="justify">What sobs tear out Orion’s jewelled heart!</p>
+               <lg>
+                  <l>Ah me! As these, as these!</l>
+                  <l>Heinrich.</l>
+                  <l>Speak, speak to me!</l>
+                  <l>Else, I am feared. Why run these tears to earth? </l>
+                  <l>Why shakes your bosom? Why does glory flame</l>
+                  <l>A crown, a cincture? What befell you there?</l>
+                  <l>Tannhäuser.</l>
+                  <l>I came to Rome across the winter snows</l>
+                  <l>Barefoot, and through the lovely watered land</l>
+                  <l>Rich in the sunshine—even unto Rome.</l>
+                  <l>There knelt I with the other sinful folk</l>
+                  <l>At the great chair of Peter. Sobbed they out</l>
+                  <l>From full repentant hearts their menial sins,</l>
+                  <l>And got them peace. But I told brutally</l>
+               </lg>
+               <p rend="justify">(Cynical phrase, contempt of self and him)</p>
+               <lg>
+                  <l>My sojourn in the Venusberg; then he</l>
+                  <l>Rose in his wrath, and shook the barren staff</l>
+                  <l>Over my head, and cried—I heard his voice</l>
+                  <l>Most like the dweller of the hurricane</l>
+                  <l>Calm, small, and still, directing desolation;</l>
+                  <l>Death to the world athwart its path.—So he</l>
+                  <l>Cried out upon me “Till this barren staff</l>
+                  <l>Take life, and bud, and blossom, and bear fruit,</l>
+                  <l>And shed sweet scent—so long God casteth thee</l>
+                  <l>Out from His glory!” Stricken, smitten, slain—</l>
+                  <l>When—one unknown, a pilgrim with the rest,</l>
+                  <l>Darting long rugged fingers and deep eyes,</l>
+                  <l>Reached to the sceptre with his word and will—</l>
+                  <l>Buds, roses, blossoms! Lilies of the Light!</l>
+                  <l>Bloom, bloom, the fragrance shed upon the air! </l>
+                  <l>Out flames the miracle of life and love!</l>
+                  <l>Out, out the lights! Flame, flame, the rushing storm!</l>
+                  <l>Darkness and death, and glory in my soul!</l>
+                  <l>Swept, swept away are pope and cardinal,</l>
+                  <l>Palace and city! There I lay beneath</l>
+                  <l>The golden roof of the eternal stars,</l>
+                  <l>Borne up on some irremeable sea</l>
+                  <l>That glowed with most internal brilliance;</l>
+                  <l>Borne up, borne up by hands invisible</l>
+                  <l>Into a firmament of secret light</l>
+                  <l>Manifest, open, permeating me!</l>
+                  <l>Then, then, I cried upon the mystic Word!</l>
+               </lg>
+               <p rend="justify">(That once begot in me the Venusberg)</p>
+               <lg>
+                  <l>And lo! that light was darkness—in the face</l>
+                  <l>Of That which gleamed above. And verily</l>
+                  <l>My life was borne on the dark stream of death</l>
+                  <l>Down whirling aeons, linked abysses, columns</l>
+                  <l>Built of essential time. And lo! the light</l>
+                  <l>Shed from Her shoulders whom I dimly saw;</l>
+                  <l>Crowned with twelve stars and hornéd as the moon;</l>
+                  <l>Clothed with a sun to which the sun of earth</l>
+                  <l>Were tinsel; and the moon was at Her feet—</l>
+                  <l>A moon whose brilliance breaks the sword of song</l>
+                  <l>Into a million fragments; so transcends</l>
+                  <l>Music, that starlight-sandalled majesty!</l>
+                  <l>Then—shall I contemplate the face of Her?</l>
+                  <l>O Nature! Self-begotten! Spouse of God, </l>
+                  <l>The Glory of thy Countenance unveiled!</l>
+                  <l>Thy face, O mother! Splendour of the Gods!</l>
+                  <l>Behold! amid the glory of her hair</l>
+                  <l>And light shed over from the crown thereof,</l>
+                  <l>Wonderful eyes less passionate than Peace</l>
+                  <l>That wept! That wept! O mystery of Love!</l>
+                  <l>Clasping my hands upon the scarlet rose</l>
+                  <l>That flamed upon my bosom, the keen thorns</l>
+                  <l>Pierced me and slew! My spirit was withdrawn</l>
+                  <l>Into Her godhead, and my soul made One</l>
+                  <l>With the Great Sorrow of the Universe,</l>
+                  <l>The Love of Isis! Then I fell away</l>
+                  <l>Into some old mysterious abyss</l>
+                  <l>Rolling between the heights of starry space;</l>
+                  <l>Flaming above, beyond the Tomb of Time,</l>
+                  <l>Blending the darkness into the profound</l>
+                  <l>Chasms of matter—so I fell away</l>
+                  <l>Through many strange eternities of Space,</l>
+                  <l>Limitless fields of Time. I knew in me</l>
+                  <l>That I must fall into the ground and die;</l>
+                  <l>Dwell in the deep a-many years, at last</l>
+                  <l>To rise again—Osiris, slain and risen!</l>
+                  <l>Light of the Cross, I see Thee in the sky,</l>
+                  <l>My future! I must perish from the earth,</l>
+                  <l>Abide in desolate halls, until the hour</l>
+                  <l>When a new Christ must needs be crucified.—</l>
+                  <l>So weep I ever with Our Lady’s tears, </l>
+                  <l>Weep for the pain, the travail, the old curse;</l>
+                  <l>Weep, weep, and die. So dawns at last the Grail,</l>
+                  <l>The Glory of the Crucified! Dear friend,</l>
+                  <l>Be happy, for my heart goes out to you,</l>
+                  <l>And most to that poor pale Elizabeth—</l>
+                  <l>Were it not only that the selflessness</l>
+                  <l>That fills me now, forbids the personal,</l>
+                  <l>Casts out the individual, and weeps on</l>
+                  <l>For the united sorrow of all things.</l>
+                  <l>For if I die, it is not Tannhäuser,</l>
+                  <l>Rather a spark of the supreme white light</l>
+                  <l>That dwelt and flickered in him in old time;</l>
+                  <l>That Light, I say, that hides its flame awhile</l>
+                  <l>To shine more fully—to redeem the world!</l>
+                  <l>I say, then, “I”; and yet it is not “I”</l>
+                  <l>Distinct, but “I” incorporate in All.</l>
+                  <l>I am, the Resurrection and the Life!</l>
+                  <l>The Work is finished, and the Night rolled back!</l>
+                  <l>I am the Rising Sun of Life and Light,</l>
+                  <l>The Glory of the Shining of the Dawn!</l>
+                  <l>I am Osiris! I the Lord of Life</l>
+                  <l>Triumphant over death.—</l>
+                  <l>O Sorrow, Sorrow, Sorrow of the World!</l>
+                  <l>Heinrich.</l>
+                  <l>This was my friend. Deep night descends, perfused</l>
+                  <l>With unsubstantial glory from beyond. </l>
+                  <l>The stars are buried in the mist of light.</l>
+                  <l>Beyond the hill the world is, and laments</l>
+                  <l>Existence—the wide firmament of woe!</l>
+                  <l>And he—his heart was great enough for all,</l>
+                  <l>The fall of sparrows as the crash of stars,</l>
+                  <l>The tears of lonely forests, and the pain</l>
+                  <l>Of the least atom—all were in his heart.</l>
+                  <l>Was that indeed the truth? that he should come</l>
+                  <l>At last a Christ upon the waiting world,</l>
+                  <l>Redeem it to more purpose than the last!</l>
+                  <l>So fills his sorrow, and Her sympathy,</l>
+                  <l>My common soul, that I am fain to fall</l>
+                  <l>Upon my face, and cry aloud to God:</l>
+                  <l>“O Thou, Sole Wise, Sole Pure, Sole Merciful,</l>
+                  <l>Who hast thus shewn Thy mystery to man:</l>
+                  <l>Grant that his coming may be very soon!”</l>
+                  <l>See, the sobs shake me like a little child.</l>
+                  <l>The moon is crescent, waxing in the West.</l>
+                  <l>Take the last kiss, dear.</l>
+                  <l>What is the strange song?</l>
+                  <l>[<hi rend="italic">The great Goddess ariseth, weeping</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">for the slain Osiris Tannhäuser.</hi>
+                  </l>
+                  <l>Isis.</l>
+                  <l>Isis am I, and from my life are fed</l>
+                  <l>All stars and suns, all moons that wax and wane,</l>
+                  <l>Create and uncreate, living and dead, </l>
+                  <l>The Mystery of Pain.</l>
+                  <l>I am the Mother, I the silent Sea,</l>
+                  <l>The Earth, its travail, its fertility.</l>
+                  <l>Life, death, love, hatred, light, darkness, return to me—</l>
+                  <l>To Me!</l>
+               </lg>
+               <p rend="justify">TURNBULL AND SPEARS,<lb/>PRINTERS, EDINBURGH.</p>
+               <list rend="bulleted">
+                  <item>
+                     <hi rend="bold italic">BY THE SAME AUTHOR</hi>
+                  </item>
+                  <item>Aceldama.[<hi rend="italic">Out of print</hi>.</item>
+                  <item>Songs of the Spirit.</item>
+                  <item>The Tale of Archais.</item>
+                  <item>Jephthah and other Mysteries, &amp;c.</item>
+                  <item>Jezebel.[<hi rend="italic">Out of print</hi>.</item>
+                  <item>An Appeal to the American People.</item>
+                  <item>The Mother’s Tragedy, &amp;c. (<hi rend="italic">Privately Printed.</hi>)</item>
+                  <item>Carmen Saeculare.</item>
+                  <item>The Soul of Osiris.</item>
+               </list>
+               <p rend="justify">
+                  <hi rend="bold">PRESS NOTICES</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">“GOLDEN OPINIONS</hi>
+                  <lb/>
+                  <hi rend="bold">FROM ALL SORTS OF PEOPLE”</hi>
+               </p>
+               <p rend="justify">“A windbag foaming at the mouth.”</p>
+               <p rend="justify">“How rich and melodious are many of his poems, besides being full of powerful and original thought.”</p>
+               <p rend="justify">“Exquisite stanzas ... many faults.”</p>
+               <p rend="justify">“Remarkable mastery of form.”</p>
+               <p rend="justify">“Nearly akin to verbiage ... he has imagination and not infrequently the poet’s touch.”</p>
+               <p rend="justify">“Intense spirituality ... technical superiorities ... an utterance at once mysterious and vivid ... an impressive and original voice ... fiery and clear measured and easy of phrasing.”</p>
+               <p rend="justify">“Always melodiously ... sometimes nonsensically.”</p>
+               <p rend="justify">“A sinister rival to the mutoscope.”</p>
+               <p rend="justify">“Self-revelation of an intensely passionate nature, expressed with a rare command of poetic form ... largely Pagan in sentiment.”</p>
+               <p rend="justify">“Clever imitations of a brilliant yet somewhat leprous style ... gilded nastiness.”</p>
+               <p rend="justify">“Veils a morbidly exaggerated Catholicism under an ultra-Egyptian passion for death.... Aleister Crowley is a true poet.”</p>
+               <p rend="justify">“We quote ... There is a good deal of similar drivel further on.”</p>
+               <p rend="justify">“Real and striking gifts both of imagination and expression.”</p>
+               <p rend="justify">“Mr Crowley out-Swinburne’s Mr Swinburne.... Shows no mean technical accomplishment.”</p>
+               <p rend="justify">“The pupil is in some ways greater than the master (Mr Swinburne).”</p>
+               <p rend="justify">“Most exalted moods of mysticism ... richness and visionary splendour of the imagery and the aptness and transfiguring power of the rhythms ... plastic and intensely dramatic ... this poet is authentic and will reveal to the world much new beauty....”</p>
+               <p rend="justify">“A kind of middle-class Swinburne at second-hand ... morbid unpleasantness of Mr Crowley’s taste.”</p>
+               <p rend="justify">“Much to attract and not a little to repel. A very singular and striking piece of work ... undoubted power and originality ... vigorous mastery and daring conception ... we are compelled to read even where the subject matter fails to attract ... several glaring crudities and much banality.”</p>
+               <p rend="justify">“An unusual number of gory phantoms.”</p>
+               <p rend="justify">“A trifle ludicrous and monotonous.”</p>
+               <p rend="justify">“A riot of words without much thought at the back of them ... windy and boyish in over-emphasis ... very respectable verse.”</p>
+               <p rend="justify">“Earliest and worst manner of Keats ... no new note here. Even the epithets are conventional....”</p>
+               <p rend="justify">“Lacks utterly originality ... echoes of Mr Swinburne, Tennyson, and sometimes of Mr Gilbert.”</p>
+               <p rend="justify">“Sickly, sensuous vein.”</p>
+               <p rend="justify">“Holds the first place among the latter-day poets.”</p>
+               <p rend="justify">“The fairest promise of not only good but great work to come ... has the prophet’s vision ... verse worthy of the greatness of his theme ... all the attributes of a true poet.”</p>
+               <p rend="justify">“Elaborate and perverse ... the most irresistible trait he can find in a maiden is that she should bite like a mad dog ... Mr Crowley is a strong and genuine poet.”</p>
+               <p rend="justify">Transcriber’s Notes:</p>
+               <p rend="justify">Antiquated spellings or ancient words were not corrected.</p>
+               <p rend="justify">Typographical and punctuation errors have been silently corrected.</p>
+               <p rend="justify">Where double quotes have been repeated at the beginnings of consecutive stanzas, they have been omitted for clarity.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

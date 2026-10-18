@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Inn of Dreams</title>
+            <author>Olive Custance</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T03:09:30Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/c/CustanceOlive-TheInnOfDreams_2007.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Olive Custance</name>
+               <date>2024-01-04T03:09:30Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Inn of Dreams</head>
+         <author>Olive Custance</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/c/CustanceOlive-TheInnOfDreams_2007.odt</p>
+         <p>THE INN OF DREAMS</p>
+         <p>BY</p>
+         <p>OLIVE CUSTANCE<lb/>(LADY AFRED DOUGLAS)</p>
+         <p>LONDON: JOHN LANE, THE BODLEYD HEAD<lb/>NEW YORK: JOHN LANE COMPANY, MCMXI<lb/>
+            <lb/>WILLIAM CLOWES AND SONS, LIMITED, LONDON AND BECCLES</p>
+         <p>DEDICATION</p>
+         <p>J'ÉCRIS POUR QUE LE JOUR OÙ JE NE SERAI PLUS</p>
+         <p>J'écris pour que le jour où je ne serai plus<lb/>On sache comme l'air et le plaisir m'ont plu,<lb/>Et que mon livre porte à la foule future<lb/>Comme j'aimais la vie et l'heureuse nature.</p>
+         <p>Attentive aux travaux des champs et des maisons<lb/>J'ai marqué chaque jour la forme des saisons,<lb/>Parce que l'eau, la terre et la montante flamme<lb/>En nul endroit ne sont si belles qu'en mon âme.</p>
+         <p>J'ai dit ce que j'ai vu et ce que j'ai senti,<lb/>D'un coeur pour qui le vrai ne fut point trop hardi,<lb/>Et j'ai eu cette ardeur, par l'amour intimée,<lb/>Pour être après la mort parfois encore aimée,</p>
+         <p>Et qu'un jeune homme alors lisant ce que j'écris,<lb/>Sentant par moi son coeur, ému, troublé, surpris,<lb/>Ayant tout oublié des épouses réelles,<lb/>M'accueille dans son âme et me préfère à elles.</p>
+         <p>          COMTESSE MATHIEU DE NOAILLES</p>
+         <pb/>
+         <div type="div1">
+            <head>The Inn of Dreams</head>
+            <pb/>
+            <div type="div2">
+               <head>CONTENTS</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell>Dedication (Comtesse de Noailles)</cell>
+                     <cell rend="end"> v</cell>
+                  </row>
+                  <row>
+                     <cell>The Inn of Dreams</cell>
+                     <cell rend="end">  3</cell>
+                  </row>
+                  <row>
+                     <cell>The Kingdom of Heaven</cell>
+                     <cell rend="end">  5</cell>
+                  </row>
+                  <row>
+                     <cell>A Dream</cell>
+                     <cell rend="end"> 6 </cell>
+                  </row>
+                  <row>
+                     <cell>The Autumn Day</cell>
+                     <cell rend="end"> 8 </cell>
+                  </row>
+                  <row>
+                     <cell>Angels</cell>
+                     <cell rend="end">10</cell>
+                  </row>
+                  <row>
+                     <cell>The Changeling</cell>
+                     <cell rend="end">11</cell>
+                  </row>
+                  <row>
+                     <cell>A Song Against Care</cell>
+                     <cell rend="end">14</cell>
+                  </row>
+                  <row>
+                     <cell>"Quelque part une Enfance très douce et mourir"</cell>
+                     <cell rend="end">16</cell>
+                  </row>
+                  <row>
+                     <cell>Candle-Light</cell>
+                     <cell rend="end">18</cell>
+                  </row>
+                  <row>
+                     <cell>In the South</cell>
+                     <cell rend="end">20</cell>
+                  </row>
+                  <row>
+                     <cell>Spring in the South</cell>
+                     <cell rend="end">22</cell>
+                  </row>
+                  <row>
+                     <cell>"I am Weary, let me Sleep"</cell>
+                     <cell rend="end">24</cell>
+                  </row>
+                  <row>
+                     <cell>Grief</cell>
+                     <cell rend="end">26</cell>
+                  </row>
+                  <row>
+                     <cell>Daffodil Dawn</cell>
+                     <cell rend="end">28</cell>
+                  </row>
+                  <row>
+                     <cell>Beauty</cell>
+                     <cell rend="end">29</cell>
+                  </row>
+                  <row>
+                     <cell>The Vision</cell>
+                     <cell rend="end">31</cell>
+                  </row>
+                  <row>
+                     <cell>The Dance</cell>
+                     <cell rend="end">33</cell>
+                  </row>
+                  <row>
+                     <cell>The Prisoner of God</cell>
+                     <cell rend="end">36</cell>
+                  </row>
+                  <row>
+                     <cell>The Storm</cell>
+                     <cell rend="end">38</cell>
+                  </row>
+                  <row>
+                     <cell>St. Anthony</cell>
+                     <cell rend="end">41</cell>
+                  </row>
+                  <row>
+                     <cell>Black Butterflies</cell>
+                     <cell rend="end">43</cell>
+                  </row>
+                  <row>
+                     <cell>In Praise of Youth</cell>
+                     <cell rend="end">45</cell>
+                  </row>
+                  <row>
+                     <cell>Opal Song</cell>
+                     <cell rend="end">47</cell>
+                  </row>
+                  <row>
+                     <cell>Gifts</cell>
+                     <cell rend="end">48</cell>
+                  </row>
+                  <row>
+                     <cell>Primrose Hill</cell>
+                     <cell rend="end">50</cell>
+                  </row>
+                  <row>
+                     <cell>A Morning Song</cell>
+                     <cell rend="end">52</cell>
+                  </row>
+                  <row>
+                     <cell>The Wings of Fortune</cell>
+                     <cell rend="end">53</cell>
+                  </row>
+                  <row>
+                     <cell>Shadow-Nets</cell>
+                     <cell rend="end">55</cell>
+                  </row>
+                  <row>
+                     <cell>Peacocks. A Mood</cell>
+                     <cell rend="end">56</cell>
+                  </row>
+                  <row>
+                     <cell>Hyacinthus</cell>
+                     <cell rend="end">58</cell>
+                  </row>
+                  <row>
+                     <cell>Hylas</cell>
+                     <cell rend="end">61</cell>
+                  </row>
+                  <row>
+                     <cell>Blue Flowers</cell>
+                     <cell rend="end">63</cell>
+                  </row>
+                  <row>
+                     <cell>Madrigal</cell>
+                     <cell rend="end">64</cell>
+                  </row>
+                  <row>
+                     <cell>Endymion</cell>
+                     <cell rend="end">65</cell>
+                  </row>
+                  <row>
+                     <cell>Dance Song</cell>
+                     <cell rend="end">66</cell>
+                  </row>
+                  <row>
+                     <cell>A Memory</cell>
+                     <cell rend="end">67</cell>
+                  </row>
+                  <row>
+                     <cell>The Photograph</cell>
+                     <cell rend="end">69</cell>
+                  </row>
+                  <row>
+                     <cell>St. Sebastian</cell>
+                     <cell rend="end">71</cell>
+                  </row>
+                  <row>
+                     <cell>The Magic Mirrors</cell>
+                     <cell rend="end">73</cell>
+                  </row>
+               </table>
+               <p rend="justify">The Inn of Dreams</p>
+               <lg>
+                  <l>          Sweet Laughter! Sweet Delight!</l>
+                  <l>My heart is like a lighted Inn that waits</l>
+                  <l>Your swift approach . . . and at the open gates</l>
+                  <l>White Beauty stands and listens like a flower.</l>
+                  <l>She has been dreaming of you in the night,</l>
+                  <l>O fairy Princes; and her eyes are bright.</l>
+                  <l>Spur your fleet horses, this is Beauty's hour!</l>
+                  <l>Even as when a golden flame up-curled</l>
+                  <l>Quivers and flickers out in a dark place,</l>
+                  <l>So is it with the flame of Beauty's face—</l>
+                  <l>That torch! that rose! that wonder of the world!</l>
+                  <l>And Love shall weep to see—when he rides by</l>
+                  <l>Years hence (the time shall seem as a bird's flight)—</l>
+                  <l>A lonely Inn beneath a winter sky.</l>
+                  <l>Come now, sweet friends! before the summer die.</l>
+                  <l>          Sweet Laughter! Sweet Delight!</l>
+               </lg>
+               <p rend="justify">The Kingdom of Heaven</p>
+               <lg>
+                  <l>O World that holds me by the wings,</l>
+                  <l>     How shall my soul escape your snares?</l>
+                  <l>So dear are your delightful things,</l>
+                  <l>     So difficult your toils and cares:</l>
+                  <l>That, every way my soul is held</l>
+                  <l>     By bonds of love, and bonds of hate;</l>
+                  <l>With all its heavenly ardours quelled,</l>
+                  <l>     And all its angels desolate . . .</l>
+               </lg>
+               <p rend="justify">Yet in the heart of every child,<lb/>God and the world are reconciled! . . .</p>
+               <p rend="justify">A Dream</p>
+               <lg>
+                  <l>I dreamed we walked together, you and I,</l>
+                  <l>Along a white and lonely road, that went</l>
+                  <l>I know not where . . . and we were well content.</l>
+                  <l>Our laughter was untroubled as the sky,</l>
+                  <l>And all our talk was delicate and shy,</l>
+                  <l>Though in that cage of words wild thoughts were pent</l>
+                  <l>Like prisoned birds that some sweet accident</l>
+                  <l>Might yet release to sing again, and fly.</l>
+                  <l>We passed between long lines of poplar trees . . .</l>
+                  <l>Where, summer comrades gay and debonair,</l>
+                  <l>The south wind and the sunlight danced . . . you smiled,</l>
+                  <l>With great glad eyes, as bright as summer seas,</l>
+                  <l>To feel their twinkling fingers in your hair . .</l>
+                  <l>And then you kissed me, quickly, like a child!</l>
+               </lg>
+               <p rend="justify">The Autumn Day</p>
+               <lg>
+                  <l>How delicately steps the autumn day</l>
+                  <l>In azure cloak and gown of ashen grey</l>
+                  <l>Over the level country that I love!</l>
+               </lg>
+               <lg>
+                  <l>With glittering veils of light about her head</l>
+                  <l>And skirts of wide horizons round her spread</l>
+                  <l>White as the white wing-feathers of a dove.</l>
+               </lg>
+               <lg>
+                  <l>Her feet, a flash of silver on the sea,</l>
+                  <l>Chase silver sails that fly untiringly</l>
+                  <l>Towards the enchanted Islands of the West.</l>
+               </lg>
+               <lg>
+                  <l>Beautiful Islands, gardens of delight!</l>
+                  <l>That flower at dawn with roses red and white . . .</l>
+                  <l>And flame at sunset gold and amethyst . . .</l>
+               </lg>
+               <lg>
+                  <l>How delicately steps the autumn day</l>
+                  <l>In azure cloak and gown of ashen grey</l>
+                  <l>Over the level country that I love . . .</l>
+               </lg>
+               <lg>
+                  <l>And how my heart that all sweet things beguile</l>
+                  <l>Goes laughing with her for a little while . . .</l>
+                  <l>And then turns homeward like a weary dove.</l>
+               </lg>
+               <p rend="justify">Angels</p>
+               <lg>
+                  <l>When life is difficult, I dream</l>
+                  <l>Of how the angels dance in heaven!</l>
+                  <l>Of how the angels dance and sing</l>
+                  <l>In gardens of eternal spring,</l>
+                  <l>Because their sins have been forgiven . . .</l>
+                  <l>And never more for them shall be</l>
+                  <l>The terrors of mortality!</l>
+                  <l>When life is difficult, I dream</l>
+                  <l>Of how the angels dance in heaven . . .</l>
+               </lg>
+               <p rend="justify">The Changeling</p>
+               <lg>
+                  <l>My father was a golden king,</l>
+                  <l>     My mother was a shining queen;</l>
+                  <l>I heard the magic blue-bird sing . . .</l>
+                  <l>     They wrapped me in a mantle green.</l>
+               </lg>
+               <lg>
+                  <l>They led their winged white horses out,</l>
+                  <l>     We rode and rode till dawn was grey;</l>
+                  <l>We rode with many a song and shout,</l>
+                  <l>     "Over the hills and far away."</l>
+               </lg>
+               <lg>
+                  <l>They stole the crying human child,</l>
+                  <l>     And left me laughing by the fire;</l>
+                  <l>And that is why my heart is wild,</l>
+                  <l>     And all my life a long desire . . .</l>
+               </lg>
+               <lg>
+                  <l>The old enchantments hold me still . . .</l>
+                  <l>     And sometimes in a waking trance</l>
+                  <l>I seek again the Fairy Hill,</l>
+                  <l>     The midnight feast, the glittering dance!</l>
+               </lg>
+               <lg>
+                  <l>The wizard harpers play for me,</l>
+                  <l>     I wear a crown upon my head,</l>
+                  <l>A princess in eternity,</l>
+                  <l>     I dance and revel with the dead . . .</l>
+               </lg>
+               <lg>
+                  <l>"Vain lies!" I hear the people cry,</l>
+                  <l>     I listen to their weary truth;</l>
+                  <l>Then turn again to fantasy,</l>
+                  <l>     And the untroubled Land of Youth.</l>
+               </lg>
+               <lg>
+                  <l>I hear the laughter of the kings,</l>
+                  <l>     I see their jewelled flagons gleam . . .</l>
+                  <l>O wine of Life! . . . immortal things</l>
+                  <l>     Move in the splendour of my dream . . .</l>
+               </lg>
+               <lg>
+                  <l>My spirit is a homing dove . . .</l>
+                  <l>     I drain a crystal cup, and fall</l>
+                  <l>Softly into the arms of Love . . .</l>
+                  <l>     And then the darkness covers all.</l>
+               </lg>
+               <p rend="justify">A Song Against Care</p>
+               <lg>
+                  <l>               O Care!</l>
+                  <l>Thou art a cloak too heavy to be borne,</l>
+                  <l>Glittering with tears, and gay with painted lies</l>
+                  <l>(For seldom—seldom art thou stained and torn,</l>
+                  <l>Showing a tattered lining, and the bare</l>
+                  <l>Bruised body of thy wearer); thou art fair</l>
+                  <l>To look at, O thou garment of our pride!</l>
+                  <l>A net of colours, thou dost catch the wise;</l>
+                  <l>He lays aside his wisdom for thy sake . . .</l>
+                  <l>And Beauty hides her loveliness in thee . . .</l>
+                  <l>And after . . . when men know the agony</l>
+                  <l>Of thy great weight of splendour, and would shake</l>
+                  <l>Thee swiftly from their shoulders, cast aside</l>
+                  <l>The burden of thy jewelled bands that break</l>
+                  <l>Their very hearts . . . often it is too late.</l>
+                  <l>They fear the world will mock them and deride</l>
+                  <l>When they are stripped of all their golden state.</l>
+                  <l>But some are brave . . . but some among us dare</l>
+                  <l>Cry out against thy torment and be free!</l>
+                  <l>And I would rather a gay beggar be,</l>
+                  <l>And go in rags for all eternity,</l>
+                  <l>Than that thy clanking pomp should cover me,</l>
+                  <l>               O Care! . . .</l>
+               </lg>
+               <p rend="justify">"Quelque part une Enfance très douce doit mourir"<lb/>               Albert Samian</p>
+               <lg>
+                  <l>Alas! I do not know on what sad day</l>
+                  <l>My childhood went away . . .</l>
+                  <l>It may have left me softly in the night</l>
+                  <l>     When I was sleeping—dreaming—who can tell?</l>
+                  <l>Perhaps it whispered "wings were made for flight!"</l>
+                  <l>     I only know it never said "farewell" . . .</l>
+               </lg>
+               <lg>
+                  <l>And so I cannot tell when youth will go</l>
+                  <l>Although I love it so . . .</l>
+                  <l>But like a little amorous girl that clings</l>
+                  <l>     To some fair boy, my spirit all afraid,</l>
+                  <l>While yet she holds youth back by the bright wings,</l>
+                  <l>     Knows he must leave her for some other maid!</l>
+               </lg>
+               <p rend="justify">Candle-Light</p>
+               <lg>
+                  <l>Frail golden flowers that perish at a breath,</l>
+                  <l>Flickering points of honey-coloured flame,</l>
+                  <l>From sunset gardens of the moon you came,</l>
+                  <l>Pale flowers of passion . . . delicate flowers of death . . .</l>
+               </lg>
+               <lg>
+                  <l>Blossoms of opal fire that raised on high</l>
+                  <l>Upon a hundred silver stems are seen</l>
+                  <l>Above the brilliant dance, or set between</l>
+                  <l>The brimming wine-cups . . . flowers of revelry!</l>
+               </lg>
+               <lg>
+                  <l>Roses with amber petals that arise</l>
+                  <l>Out of the purple darkness of the night</l>
+                  <l>To deck the darkened house of Love, to light</l>
+                  <l>The laughing lips, the beautiful glad eyes.</l>
+               </lg>
+               <lg>
+                  <l>Lilies with violet-coloured hearts that break</l>
+                  <l>In shining clusters round the silent dead,</l>
+                  <l>A diadem of stars at feet and head,</l>
+                  <l>The glory dazzles . . . but they do not wake . . .</l>
+               </lg>
+               <lg>
+                  <l>O golden flowers the moon goes gathering</l>
+                  <l>In magic gardens of her fairy-land,</l>
+                  <l>While splendid angels of the sunset stand</l>
+                  <l>Watching in flaming circles wing to wing . . .</l>
+               </lg>
+               <lg>
+                  <l>Frail golden flowers that perish at a breath,</l>
+                  <l>That wither in the hands of light, and die</l>
+                  <l>When bright dawn wakens in a silver sky.</l>
+                  <l>Pale flowers of passion . . . delicate flowers of death.</l>
+               </lg>
+               <p rend="justify">In the South</p>
+               <lg>
+                  <l>I was pale and sad in the South like the olive-trees</l>
+                  <l>That droop their silver heads by the dusty roads,</l>
+                  <l>And are grave and cold and grey in spite of the sun . . .</l>
+                  <l>In the veils of rose and blue that the bright dawn spun</l>
+                  <l>Day wrapped me round in vain!</l>
+                  <l>I longed for the lovers and friends I had left behind,</l>
+                  <l>I longed for the North again.</l>
+               </lg>
+               <lg>
+                  <l>I was deaf to song, and even to beauty blind,</l>
+                  <l>Blind to the magic woof that summer weaves,</l>
+                  <l>While roses beat their pearl and ruby leaves</l>
+                  <l>Against my window pane . . .</l>
+                  <l>And orange flowers so passionately white,</l>
+                  <l>So richly perfumed, pined for my delight:</l>
+                  <l>Only my faint heart sighed,</l>
+                  <l>In pity when the glory waned and died,</l>
+                  <l>For all that lovely life unsatisfied!</l>
+               </lg>
+               <p rend="justify">I was pale and sad in the South like the olive-trees<lb/>That droop their silver heads by the dusty roads . . .</p>
+               <p rend="justify">Spring in the South</p>
+               <lg>
+                  <l>Beautiful as some rich embroidery</l>
+                  <l>The valley lies in verdant amplitude,</l>
+                  <l>Great mountains—like old merchants—o'er it brood—</l>
+                  <l>And as a lovely woman languidly</l>
+                  <l>Trailing her long blue robes, so comes the sea</l>
+                  <l>To touch it softly in a wistful mood . . .</l>
+                  <l>The sky forgets her starry multitude,</l>
+                  <l>Seeing how fair mere earthly flowers can be!</l>
+               </lg>
+               <lg>
+                  <l>Glad country where the wayward feet of Spring,</l>
+                  <l>Moving in mystic dances, bring desire,</l>
+                  <l>New miracles of beauty every day . . .</l>
+                  <l>Where Love and sweet Delight fly wing to wing</l>
+                  <l>Forgetful as in dreams, that bright as fire</l>
+                  <l>So burn the hours of joy as swift away!</l>
+               </lg>
+               <p rend="justify">"I am Weary, let me Sleep"</p>
+               <lg>
+                  <l>I am weary, let me sleep</l>
+                  <l>In some great embroidered bed,</l>
+                  <l>With soft pillows for my head.</l>
+                  <l>I am weary, let me sleep . . .</l>
+                  <l>Petals of sweet roses shed</l>
+                  <l>All around a perfumed heap</l>
+                  <l>White as pearls, and ruby red;</l>
+                  <l>Curtains closely drawn to keep</l>
+                  <l>Wings of darkness o'er me spread . . .</l>
+                  <l>I am weary, let me sleep</l>
+                  <l>In some great embroidered bed.</l>
+                  <l>Let me dream that I am dead,</l>
+                  <l>Nevermore to wake and weep</l>
+                  <l>In the future that I dread . . .</l>
+                  <l>For the ways of life are steep . . .</l>
+                  <l>I am weary, let me sleep . . .</l>
+               </lg>
+               <p rend="justify">Grief</p>
+               <lg>
+                  <l>I, that was once so eager for the light,</l>
+                  <l>The vehement pomp and passion of the day,</l>
+                  <l>Am tired at last, and glad to steal away</l>
+                  <l>Across the dusky borders of the night.</l>
+                  <l>The purple darkness now is my delight,</l>
+                  <l>And with great stars my lonely sorrows play,</l>
+                  <l>As still, some proud and tragic princess may</l>
+                  <l>With diamonds make her desolation bright.</l>
+               </lg>
+               <lg>
+                  <l>Night has become a temple for my tears . . .</l>
+                  <l>The moon a silver shroud for my despair,</l>
+                  <l>And all the golden forests of the spheres</l>
+                  <l>Have showered their splendours on me leaf by leaf</l>
+                  <l>Till men that meet me in the sunlight, stare</l>
+                  <l>To see the shining garment of my grief!</l>
+               </lg>
+               <p rend="justify">Daffodil Dawn</p>
+               <lg>
+                  <l>While I slept, and dreamed of you,</l>
+                  <l>Morning, like a princess, came,</l>
+                  <l>All in robe of palest blue:</l>
+                  <l>Stooped and gathered in that hour</l>
+                  <l>From the east a golden flower,</l>
+                  <l>Great and shining flower of flame . . .</l>
+                  <l>Then she hastened on her way</l>
+                  <l>Singing over plain and hill—</l>
+                  <l>While I slept and dreamed of you</l>
+                  <l>Dreams that never can come true . .</l>
+                  <l>Morning at the gates of Day,</l>
+                  <l>Gathered Dawn, the daffodil!</l>
+               </lg>
+               <p rend="justify">Beauty</p>
+               <lg>
+                  <l>I saw the face of Beauty—a pale rose</l>
+                  <l>In the gold dusk of her abundant hair . . .</l>
+                  <l>A silken web of dreams and joys—a snare . .</l>
+                  <l>A net of pleasures in a world of woes,</l>
+                  <l>A bright temptation for gay youth that goes</l>
+                  <l>Laughing upon his way without a care!</l>
+                  <l>A shield of light for conquering Love to bear</l>
+                  <l>Stronger than all the swords of all his foes.</l>
+               </lg>
+               <lg>
+                  <l>O face of Beauty—O white dawn enshrined</l>
+                  <l>In sunrise veils of splendid hair—O star!</l>
+                  <l>Shine on those weary men who sadly wise</l>
+                  <l>But guess thy glory faintly from afar—</l>
+                  <l>Missing the marvel of thy smile—and blind</l>
+                  <l>To the imperial passion in thine eyes!</l>
+               </lg>
+               <p rend="justify">The Vision</p>
+               <lg>
+                  <l>I come from lonely downs and silent woods,</l>
+                  <l>With winter in my heart, a withered world,</l>
+                  <l>A heavy weight of dark and sorrowful things,</l>
+                  <l>And all my dreams spread out their rainbow wings,</l>
+                  <l>And turn again to those bright solitudes</l>
+                  <l>Where Beauty met me in a thousand moods,</l>
+                  <l>And all her shining banners were unfurled . . .</l>
+                  <l>And where I snatched from the sweet hands of Spring</l>
+                  <l>A crystal cup and drank a mystic wine,</l>
+                  <l>And walked alone a secret perfumed way,</l>
+                  <l>And saw the glittering Angels at their play.</l>
+                  <l>And heard the golden birds of Heaven sing,</l>
+                  <l>And woke . . . to find white lilies clustering</l>
+                  <l>And all the emerald wood an empty shrine,</l>
+                  <l>Fragrant with myrrh and frankincense and spice,</l>
+                  <l>And echoing yet the flutes of Paradise . . .</l>
+               </lg>
+               <p rend="justify">The Dance</p>
+               <lg>
+                  <l>Do you remember that day I danced in the woods,</l>
+                  <l>     Under the dancing leaves?</l>
+                  <l>Do you remember the delicate blue of the sky</l>
+                  <l>     And the gold-dust in the air?</l>
+                  <l>And the tawny harvest fields, and the heavy sheaves?</l>
+                  <l>Summer was surely in one of her bravest moods . . .</l>
+                  <l>     And oh, the rare</l>
+                  <l>Swift joy that lifted life to an ecstasy,</l>
+                  <l>That shining day I danced for you, dear, in the woods!</l>
+               </lg>
+               <lg>
+                  <l>The purple twilight came, and the amber moon . . .</l>
+                  <l>     And the fairies danced with me . . .</l>
+                  <l>And the shy fauns crept from the tangled thicket near,</l>
+                  <l>     And the startled dryads bent,</l>
+                  <l>White and starry-eyed, each from her secret tree,</l>
+                  <l>To watch that mystical dance, to share that heavenly swoon</l>
+                  <l>     That mad, bright banishment. . . .</l>
+                  <l>For we were free in the perfect country, dear,</l>
+                  <l>When purple twilight came and the amber moon . . .</l>
+               </lg>
+               <lg>
+                  <l>Some day I shall dance again that mystical dance . . .</l>
+                  <l>     I know not when or where!</l>
+                  <l>But the angels shall dance with me, and I shall not be afraid.</l>
+                  <l>     I shall look in their deep eyes . . .</l>
+                  <l>And feel their arms about me, and their kisses in my hair,</l>
+                  <l>And know that time is over, and the desperate ways of chance. . . .</l>
+                  <l>     I shall be very wise,</l>
+                  <l>And glad at last, and the walls of the world shall fade . . .</l>
+                  <l>The day when I dance again that mystical dance.</l>
+               </lg>
+               <p rend="justify">The Prisoner of God</p>
+               <lg>
+                  <l>Once long and long ago I knew delight.</l>
+                  <l>God gave my spirit wings and a glad voice.</l>
+                  <l>I was a bird that sang at dawn and noon,</l>
+                  <l>That sang at starry evening time and night;</l>
+                  <l>Sang at the sun's great golden doors, and furled</l>
+                  <l>Brave wings in the white gardens of the moon;</l>
+                  <l>That sang and soared beyond the dusty world.</l>
+               </lg>
+               <lg>
+                  <l>Once long and long ago I did rejoice,</l>
+                  <l>But now I am a stone that falls and falls.</l>
+                  <l>A prisoner, cursing the blank prison walls,</l>
+                  <l>Helpless and dumb, with desperate eyes, that see</l>
+                  <l>The terrible beauty of those simple things</l>
+                  <l>My soul disdained when she was proud and free.</l>
+                  <l>And I can only pray: God pity me,</l>
+                  <l>God pity me and give me back my voice!</l>
+                  <l>God pity me and give me back my wings!</l>
+               </lg>
+               <p rend="justify">The Storm</p>
+               <lg>
+                  <l>What do they hunt to-night, the hounds of the wind?</l>
+                  <l>I think it is joy they hunt, for joy has fled from my heart.</l>
+                  <l>I only remember the hours when I sorrowed or sinned,</l>
+                  <l>I only remember the hours when I stood apart</l>
+                  <l>Lonely and tired, in difficult dreams entranced,</l>
+                  <l>And I forget the days when I loved, and laughed, and danced.</l>
+               </lg>
+               <lg>
+                  <l>Grey hounds of the wind, I hear your wistful cry,</l>
+                  <l>The cry of unsatisfied hearts hungry for happiness</l>
+                  <l>The house is full of whispering ghosts as you hurry by,</l>
+                  <l>And my soul is heavy and dark with a great distress,</l>
+                  <l>For heaven is far away, and hope is dead;</l>
+                  <l>And the night is a tomb of tears, and despair, and dread.</l>
+               </lg>
+               <lg>
+                  <l>O hunt no more wild hounds of the wind and rain,</l>
+                  <l>For my soul is afraid of the sound of your hurrying feet,</l>
+                  <l>And surely under the stars a beautiful joy is slain?</l>
+                  <l>Fly! black wings of sorrow . . . wet wings of the night that beat</l>
+                  <l>At the shuttered windows, swiftly fly away,</l>
+                  <l>Before God stoops to gather the golden flower of day.</l>
+               </lg>
+               <p rend="justify">St. Anthony</p>
+               <p rend="justify">THE ENGRAVING BY DÜRER</p>
+               <lg>
+                  <l>Dürer has drawn him resting by the way . . .</l>
+                  <l>Has he returned from some far pilgrimage?</l>
+                  <l>Or just come out into the light of day</l>
+                  <l>From a dark hermit's cell? We cannot know . . .</l>
+                  <l>With stooping shoulders, and with head bent low</l>
+                  <l>Over his book—and pointed hood drawn down.</l>
+                  <l>His eager eyes devour the printed page . . .</l>
+                  <l>Regardless of the little lovely town</l>
+                  <l>Rising behind him, with its clustered towers . . .</l>
+                  <l>O Saint, look up! and see how gay and fair</l>
+                  <l>The earth is in its summer-time of flowers,</l>
+                  <l>Look up, and see the world, for God is there . . .</l>
+                  <l>Old dreaming Saint, how many are like you,</l>
+                  <l>Intent upon the dusty book of fate:</l>
+                  <l>Slow to discern the false things from the true!</l>
+                  <l>Yet weary of world clamour and world hate,</l>
+                  <l>And hungering for eternal certainties . . .</l>
+                  <l>Not knowing how close about them heaven lies!</l>
+               </lg>
+               <p rend="justify">Black Butterflies</p>
+               <lg>
+                  <l>O words of all my songs . . . black butterflies!</l>
+                  <l>Wild words of all the wayward songs I sing . . .</l>
+                  <l>Called from the tomb of some enchanted past</l>
+                  <l>By that strange sphinx, my soul, they slowly rise</l>
+                  <l>And settle on white pages wing to wing . . .</l>
+                  <l>White pages like flower-petals fluttering</l>
+                  <l>Held spellbound there till some blind hour shall bring</l>
+                  <l>The perfect voice that, delicate and wise,</l>
+                  <l>Shall set them free in fairyland at last!</l>
+                  <l>That garden of all dreams and ecstasies</l>
+                  <l>Where my soul sings through an eternal spring,</l>
+                  <l>Watching alone with enigmatic eyes,</l>
+                  <l>Dark wings on pale flower-petals quivering . . .</l>
+                  <l>O words of all my songs . . . black butterflies!</l>
+               </lg>
+               <p rend="justify">In Praise of Youth</p>
+               <lg>
+                  <l>O delicate youth, thy praises shall be sung</l>
+                  <l>While yet my heart is young . . .</l>
+                  <l>While Life and I, in search of lovely things,</l>
+                  <l>Go out with dancing feet and dreaming eyes,</l>
+                  <l>And find wild Folly, with her rainbow wings,</l>
+                  <l>Sweeter than all the wisdom of the wise.</l>
+               </lg>
+               <lg>
+                  <l>O delicate Youth, thy praises shall be sung</l>
+                  <l>While yet my heart is young . . .</l>
+                  <l>Thy whiteness, and thy brightness, and the sweet</l>
+                  <l>Flushed softness of thy little restless feet . . .</l>
+                  <l>The tossed and sunny tangle of thy hair,</l>
+                  <l>Thy swiftness, slimness, shyness, simpleness,</l>
+                  <l>That set the old folk sighing for the rare</l>
+                  <l>Red rose of Joy thy careless days possess.</l>
+               </lg>
+               <lg>
+                  <l>. . . And when at last, with sad, indifferent face,</l>
+                  <l>I walk in narrow pathways patiently;</l>
+                  <l>Forgetful of thy beauty, and thy truth,</l>
+                  <l>Thy ringing laughter, thy rebellious grace . . .</l>
+                  <l>When fair Love turns his face away from me . . .</l>
+                  <l>Then, let me die, O delicate sweet Youth!</l>
+               </lg>
+               <p rend="justify">Opal Song</p>
+               <lg>
+                  <l>Shy and wild . . . shy and wild</l>
+                  <l>To my lovers I have been.</l>
+                  <l>Frank and wayward as a child,</l>
+                  <l>Strange and secret as a queen;</l>
+                  <l>Fain of love, and love beguiled,</l>
+                  <l>Yet afraid of love, I ween!</l>
+               </lg>
+               <lg>
+                  <l>False and true . . . false and true</l>
+                  <l>Is the woman's heart in me . . .</l>
+                  <l>Fair lost faces that I rue,</l>
+                  <l>Golden friends I laugh to see,</l>
+                  <l>Changing, I come back to you,</l>
+                  <l>Never doubt my loyalty!</l>
+               </lg>
+               <p rend="justify">Gifts</p>
+               <lg>
+                  <l>Come near! you are my friend and I will wear</l>
+                  <l>Gems for your sake, and flowers in my hair;</l>
+                  <l>Garments of silver gauze, and cloth of gold . . .</l>
+                  <l>And I will give you power to have and hold,</l>
+                  <l>And passion, and delight and ecstasy.</l>
+                  <l>What will you give to me?</l>
+               </lg>
+               <lg>
+                  <l>And I will give you, if you will but stay,</l>
+                  <l>The magic mirror of the dawn, where day</l>
+                  <l>Waking, beholds the wonder of her face—</l>
+                  <l>If you will keep me yet in your embrace,</l>
+                  <l>And let me dream of Love's eternity.</l>
+                  <l>What will you give to me?</l>
+               </lg>
+               <lg>
+                  <l>Yes! I will give you the gold veils of light,</l>
+                  <l>And the dark spangled curtains of the night . . .</l>
+                  <l>And I will give you as a flower unfurled,</l>
+                  <l>The proud and marvellous beauty of the world,</l>
+                  <l>And all the wild, white horses of the sea.</l>
+                  <l>What will you give to me? . . .</l>
+               </lg>
+               <p rend="justify">Primrose Hill</p>
+               <lg>
+                  <l>Wild heart in me that frets and grieves,</l>
+                  <l>Imprisoned here against your will . . .</l>
+                  <l>Sad heart that dreams of rainbow wings</l>
+                  <l>See! I have found some golden things!</l>
+                  <l>The poplar trees on Primrose Hill</l>
+                  <l>With all their shining play of leaves . . .</l>
+                  <l>And London like a silver bride,</l>
+                  <l>That will not put her veil aside!</l>
+               </lg>
+               <lg>
+                  <l>Proud London like a painted Queen,</l>
+                  <l>Whose crown is heavy on her head . . .</l>
+                  <l>City of sorrow and desire,</l>
+                  <l>Under a sky of opal fire,</l>
+                  <l>Amber and amethyst and red . . .</l>
+                  <l>And how divine the day has been!</l>
+                  <l>For every dawn God builds again</l>
+                  <l>This world of beauty and of pain . . .</l>
+               </lg>
+               <lg>
+                  <l>Wild heart that hungers for delight,</l>
+                  <l>Imprisoned here against your will;</l>
+                  <l>Sad heart, so eager to be gay!</l>
+                  <l>Loving earth's lovely things . . . the play</l>
+                  <l>Of wind and leaves on Primrose Hill . . .</l>
+                  <l>Or London dreaming of the night . . .</l>
+                  <l>Adventurous heart, on beauty bent,</l>
+                  <l>That only Heaven could quite content!</l>
+               </lg>
+               <p rend="justify">A Morning Song</p>
+               <lg>
+                  <l>You saw my window open wide,</l>
+                  <l>     And woke me early, sister day!</l>
+                  <l>You came in all your lovely pride,</l>
+                  <l>With laughing looks that I adore,</l>
+                  <l>     With wings of blue and grey . . .</l>
+                  <l>With sunshine skirts that swept the floor,</l>
+                  <l>With songs to drive night's dreams away,</l>
+                  <l>     You called me out to play.</l>
+                  <l>And so I took you by the hand,</l>
+                  <l>And found the way to fairyland . . .</l>
+                  <l>With such impatient feet I climb</l>
+                  <l>     The ladders of delight!</l>
+                  <l>For well I know that ruthless time</l>
+                  <l>     Turns morning moods to tears and night.</l>
+               </lg>
+               <p rend="justify">The Wings of Fortune</p>
+               <lg>
+                  <l>Fair fortune you are wild and coy,</l>
+                  <l>Fickle, mysterious, and shy . . .</l>
+                  <l>And so we lost you, Love and I!</l>
+                  <l>And now, at last, because we find</l>
+                  <l>Your golden footprints, Love the boy,</l>
+                  <l>Dreams you are near . . . but Love is blind!</l>
+                  <l>Yet, surely Sorrow's arms unwind</l>
+                  <l>From this tired heart, and dark distress</l>
+                  <l>Fades softly . . . softly from the world:</l>
+                  <l>And in Hope's silver sky unfurled,</l>
+                  <l>I see the banners of delight!</l>
+                  <l>And the grey heaven of life grows bright</l>
+                  <l>With the red dawn of happiness . . .</l>
+                  <l>As with a laughing look Love flings</l>
+                  <l>His heavy crown of thorns away . . .</l>
+                  <l>Fair fortune, you are wild and coy,</l>
+                  <l>And ah! I fear you will not stay.</l>
+                  <l>But Love has caught you by the wings</l>
+                  <l>And radiant as Eurydice</l>
+                  <l>By her brave poet's song set free,</l>
+                  <l>I rush into the arms of joy!</l>
+               </lg>
+               <p rend="justify">Shadow-Nets</p>
+               <lg>
+                  <l>When I was wandering on the Downs to-day</l>
+                  <l>I saw the pine-woods sleeping in the sun . . .</l>
+                  <l>For they were tired of weaving shadow-nets—</l>
+                  <l>Weaving all day in vain . . . in vain . . . in vain . . .</l>
+                  <l>Pale phantom nets to snare the golden sun!</l>
+                  <l>And then I thought of how the poets weave</l>
+                  <l>With shadowy words their cunning nets of song,</l>
+                  <l>Hoping to catch, at last, a shining dream!</l>
+               </lg>
+               <p rend="justify">Peacocks. A Mood</p>
+               <lg>
+                  <l>In Gorgeous plumage, azure, gold and green,</l>
+                  <l>They trample the pale flowers, and their shrill cry</l>
+                  <l>Troubles the garden's bright tranquillity!</l>
+                  <l>Proud birds of Beauty, splendid and serene,</l>
+                  <l>Spreading their brilliant fans, screen after screen</l>
+                  <l>Of burnished sapphire, gemmed with mimic suns—</l>
+                  <l>Strange magic eyes, that, so the legend runs,</l>
+                  <l>Will bring misfortune to this fair demesne . . .</l>
+               </lg>
+               <lg>
+                  <l>And my gay youth, that, vain and debonair,</l>
+                  <l>Sits in the sunshine—tired at last of play</l>
+                  <l>(A child, that finds the morning all too long),</l>
+                  <l>Tempts with its beauty that disastrous day</l>
+                  <l>When in the gathering darkness of despair</l>
+                  <l>Death shall strike dumb the laughing mouth of song.</l>
+               </lg>
+               <p rend="justify">Hyacinthus</p>
+               <lg>
+                  <l>Fair boy, how gay the morning must have seemed</l>
+                  <l>Before the fatal game that murdered thee!</l>
+                  <l>Of such a dawn my wistful heart has dreamed:</l>
+                  <l>Surely I too have lived in Arcady</l>
+                  <l>When Spring, lap-full of roses, ran to meet</l>
+                  <l>White Aphrodite risen from the sea . . .</l>
+               </lg>
+               <lg>
+                  <l>Perchance I saw thee then, so glad and fleet;</l>
+                  <l>Hasten to greet Apollo, stoop to bind</l>
+                  <l>The gold and jewelled sandals on his feet,</l>
+                  <l>While he so radiant, so divinely kind,</l>
+                  <l>Lured thee with honeyed words to be his friend,</l>
+                  <l>All heedless of thy fate, for Love is blind.</l>
+               </lg>
+               <lg>
+                  <l>For Love is blind and cruel, and the end</l>
+                  <l>Of every joy is sorrow and distress.</l>
+                  <l>And when immortal creatures lightly bend</l>
+                  <l>To kiss the lips of simple loveliness,</l>
+                  <l>Swords are unsheathed in silence, and clouds rise,</l>
+                  <l>Some God is jealous of the mute caress . . .</l>
+               </lg>
+               <lg>
+                  <l>But who shall mourn thy death—ah, not the wise?</l>
+                  <l>Better to perish in thy happiest hour,</l>
+                  <l>To close in sight of beauty thy dark eyes,</l>
+                  <l>And, dying so, be changed into a flower,</l>
+                  <l>Than that the stealthy and relentless years</l>
+                  <l>Should steal that grace which was thy only dower.</l>
+               </lg>
+               <lg>
+                  <l>And bring thee in return dull cares and tears,</l>
+                  <l>And difficult days and sickness and despair . . .</l>
+                  <l>O, not for thee the griefs and sordid fears</l>
+                  <l>That, like a burden, trembling age must bear;</l>
+                  <l>Slain in thy youth, by the sweet hands of Love,</l>
+                  <l>Thou shalt remain for ever young and fair . . .</l>
+               </lg>
+               <p rend="justify">Hylas</p>
+               <lg>
+                  <l>Dark boy, how radiantly you went to meet</l>
+                  <l>Your mystic doom . . . what colours in the sky!</l>
+                  <l>As though that cup of beauty the gods hold</l>
+                  <l>Brimmed over on a world in ecstasy . . .</l>
+                  <l>What silver flutes charmed all the forest ways . . .</l>
+                  <l>How the green shimmered, jewelled thick with flowers,</l>
+                  <l>And how the sun was like a globe of gold . . .</l>
+                  <l>Yet you but thought to chase the perfect hours</l>
+                  <l>Down that white road of wonder and delight,</l>
+                  <l>The highway of your dreams, and heedlessly</l>
+                  <l>You crushed the violets with your slim brown feet,</l>
+                  <l>And whistled low, and sang a careless song . . .</l>
+                  <l>Because your life was full of lovely days,</l>
+                  <l>Because your life was delicate and sweet . . .</l>
+                  <l>O youth and dawn . . . you dreamed not of the night . . .</l>
+                  <l>O life and laughter . . . but the night is long . . .</l>
+               </lg>
+               <p rend="justify">Blue Flowers</p>
+               <lg>
+                  <l>I go to gather in the woods for you</l>
+                  <l>The wild flowers that are blue . . .</l>
+                  <l>Petals to match the colour of your eyes!</l>
+               </lg>
+               <lg>
+                  <l>None but blue blossoms will I take, yet see</l>
+                  <l>How sweetly tempting me</l>
+                  <l>The fruit trees swing their scented treasuries.</l>
+               </lg>
+               <lg>
+                  <l>And how the buttercups and daisies dance</l>
+                  <l>To meet my dazzled glance!</l>
+                  <l>But gold and silver, Sweet, are naught to you.</l>
+               </lg>
+               <lg>
+                  <l>And so let others rob God's gardens . . . shake</l>
+                  <l>The stars down for your sake—</l>
+                  <l>I bring you but the wild flowers that are blue!</l>
+               </lg>
+               <p rend="justify">Madrigal</p>
+               <lg>
+                  <l>Rare garden where my heart goes gathering</l>
+                  <l>Many a lovely and delightful thing,</l>
+                  <l>Pale roses of your body and the fair</l>
+                  <l>Unrivalled yellow blossoms of your hair!</l>
+               </lg>
+               <lg>
+                  <l>Tall lilies of your gay and careless grace,</l>
+                  <l>And O the wistful flower of your face!</l>
+                  <l>And all the soft and starry mysteries</l>
+                  <l>Of those divine forget-me-nots, your eyes . . .</l>
+               </lg>
+               <lg>
+                  <l>O come, fair Love, before the flowers fade,</l>
+                  <l>And bless this garden that the gods have made . . .</l>
+                  <l>Rare garden where my heart goes gathering</l>
+                  <l>Many a lovely and delightful thing . . .</l>
+               </lg>
+               <p rend="justify">Endymion</p>
+               <lg>
+                  <l>Your hair was like a honey-coloured flame</l>
+                  <l>Seen through a veil of silver when you came</l>
+                  <l>And took me in your arms that winter night . . .</l>
+                  <l>The moonlight, amorous of your golden hair,</l>
+                  <l>Toyed with it softly, as a woman might</l>
+                  <l>With some bright treasure, delicate and rare.</l>
+               </lg>
+               <lg>
+                  <l>O, young Endymion, risen from the dead,</l>
+                  <l>Born once again to beauty, O bright head!</l>
+                  <l>The moon stoops low to kiss you, as of old;</l>
+                  <l>Stoops graciously from her great throne of pearl,</l>
+                  <l>With outstretched arms mysterious and cold . . .</l>
+                  <l>But you have left her for a mortal girl.</l>
+               </lg>
+               <p rend="justify">Dance Song</p>
+               <lg>
+                  <l>O hide your passion from the moon.</l>
+                  <l>When young and slender she appears</l>
+                  <l>In shining gown and silver shoon . . .</l>
+                  <l>And, all her path with stars impearled,</l>
+                  <l>She dances round the darkened world.</l>
+               </lg>
+               <lg>
+                  <l>O hide your sorrows from the sun . . .</l>
+                  <l>The sun should never see your tears!</l>
+                  <l>Weep, if you will, when day is done . . .</l>
+                  <l>But laugh and sing and clap your hands</l>
+                  <l>While yet the sun in heaven stands.</l>
+               </lg>
+               <p rend="justify">A Memory</p>
+               <lg>
+                  <l>O how I loved you when we met</l>
+                  <l>For that one moment of the day!</l>
+                  <l>Yes, loved you desperately, and yet</l>
+                  <l>Could scarcely find a word to say—</l>
+                  <l>No wonder that you looked and smiled</l>
+                  <l>As though upon some timid child.</l>
+                  <l>You never guessed, how could you guess</l>
+                  <l>That I adored your loveliness!</l>
+               </lg>
+               <lg>
+                  <l>You never saw the prisoned soul</l>
+                  <l>Behind the windows of my eyes,</l>
+                  <l>Frantic to break from fate's control</l>
+                  <l>And charm you with her flatteries . . .</l>
+                  <l>And show you, your cold heart to move,</l>
+                  <l>The shining treasure of her love,</l>
+                  <l>And worship in a long embrace,</l>
+                  <l>The reckless beauty of your face!</l>
+               </lg>
+               <lg>
+                  <l>You never knew . . . and the dream died</l>
+                  <l>A broken rose beneath your feet . . .</l>
+                  <l>You went your way . . . the world is wide</l>
+                  <l>And I forgot, for youth is sweet . . .</l>
+                  <l>Yet when at night I lie awake,</l>
+                  <l>My heart is sad for a dream's sake,</l>
+                  <l>And I remember and regret . . .</l>
+                  <l>O how I loved you when we met!</l>
+               </lg>
+               <p rend="justify">The Photograph</p>
+               <lg>
+                  <l>O Beauty, what is this?</l>
+                  <l>A shadow of your face . . .</l>
+                  <l>Where is the wild flower grace</l>
+                  <l>That Love is wont to kiss?</l>
+               </lg>
+               <lg>
+                  <l>Where is the bird that brings</l>
+                  <l>To your untroubled eyes</l>
+                  <l>The blue of fairy skies,</l>
+                  <l>The flash of fairy wings? . . .</l>
+               </lg>
+               <lg>
+                  <l>O wild bird of delight,</l>
+                  <l>That no white hand may hold,</l>
+                  <l>Or fairest cage of gold . . .</l>
+                  <l>For who would stay its flight?</l>
+               </lg>
+               <lg>
+                  <l>The song-bird of your voice</l>
+                  <l>Whose magic song Love hears,</l>
+                  <l>Trembling behind your tears,</l>
+                  <l>Trilling when you rejoice . . .</l>
+               </lg>
+               <lg>
+                  <l>O Beauty, what is this?</l>
+                  <l>The shadow of a rose . . .</l>
+                  <l>A little ghost that goes</l>
+                  <l>Oblivious of Love's kiss.</l>
+               </lg>
+               <lg>
+                  <l>Only a shadow . . . yet</l>
+                  <l>It may, in some dark hour</l>
+                  <l>Recall the living flower . . .</l>
+                  <l>If haply Love forget.</l>
+               </lg>
+               <p rend="justify">St. Sebastian</p>
+               <lg>
+                  <l>So beautiful in all thine agony!</l>
+                  <l>So radiant in thine infinite despair . . .</l>
+                  <l>Oh, delicate mouth, brave eyes, and curled bright hair . . .</l>
+                  <l>Oh, lovely body lashed to the rough tree:</l>
+                  <l>What brutal fools were those that gave to thee</l>
+                  <l>Red roses of thine outraged blood to wear,</l>
+                  <l>Laughed at thy bitter pain and loathed the fair</l>
+                  <l>Bruised flower of thy victorious purity?</l>
+               </lg>
+               <lg>
+                  <l>Marvellous Beauty . . . target of the world,</l>
+                  <l>How all Love's arrows seek thy joy, Oh Sweet!</l>
+                  <l>And wound the white perfection of thy youth!</l>
+                  <l>How all the poisoned spears of hate are hurled</l>
+                  <l>Against thy sorrow when thou darest to meet</l>
+                  <l>With martyrdom men's mockery of the truth!</l>
+               </lg>
+               <p rend="justify">The Magic Mirrors</p>
+               <lg>
+                  <l>In the dim mirrors of imagination,</l>
+                  <l>I watch the silent dancing of my soul . . .</l>
+                  <l>I watch her as she dances with my dreams . . .</l>
+                  <l>See how she takes innumerable disguises,</l>
+                  <l>And hides her beauty behind many masks,</l>
+                  <l>And how, sometimes, she seems to laugh and sing,</l>
+                  <l>. . . And weep . . . and call upon the unknown Gods . . .</l>
+                  <l>But not one mirror has betrayed her voice,</l>
+                  <l>Or shown to me the secret of her face . . .</l>
+                  <l>O silent dance of sorrow and delight,</l>
+                  <l>My heart grown tired with watching, turns away,</l>
+                  <l>To make perhaps a little passionate song</l>
+                  <l>Out of the shadows of immortal things . . .</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Color</title>
+            <author>Countee Cullen</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T03:04:05Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/c/CullenCountee-Color_2023.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Countee Cullen</name>
+               <date>2024-01-04T03:04:05Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Color</head>
+         <author>Countee Cullen</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/c/CullenCountee-Color_2023.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>
+               <hi rend="italic">Color</hi>
+            </head>
+            <p rend="justify">COLOR</p>
+            <p rend="justify">
+               <hi rend="italic">By</hi>
+               <lb/>Countee Cullen</p>
+            <lg>
+               <l>Harper &amp; Brothers, Publishers</l>
+               <l>New York and London</l>
+               <l>mcmxxv</l>
+            </lg>
+            <p rend="justify">COLOR</p>
+            <p rend="justify">Copyright, 1925, by Harper &amp; Brothers<lb/>Printed in the United States of America</p>
+            <p rend="justify">To my Mother and Father<lb/>This First Book</p>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Acknowledgments</hi>
+               </head>
+               <p rend="justify">For permission to reprint certain of these poems thanks is hereby given to the following publications:</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">The American Mercury</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The Bookman</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The Century</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The Crisis</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The Conning Tower: New York World</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Folio</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Harper’s Magazine</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Les Continents</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The Messenger</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The Nation</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Opportunity</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Palms</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Poetry: A Magazine of Verse</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The Southwestern Christian Advocate</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The Survey Graphic</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The World Tomorrow</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Vanity Fair</hi>
+                  </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Contents</hi>
+               </head>
+               <p rend="justify">
+                  <hi rend="italic">TO YOU WHO READ MY BOOK</hi>
+               </p>
+               <p rend="justify">xiii</p>
+               <p rend="justify">COLOR</p>
+               <p rend="justify">YET DO I MARVEL</p>
+               <p rend="justify">3</p>
+               <p rend="justify">A SONG OF PRAISE</p>
+               <p rend="justify">4</p>
+               <p rend="justify">BROWN BOY TO BROWN GIRL</p>
+               <p rend="justify">5</p>
+               <p rend="justify">A BROWN GIRL DEAD</p>
+               <p rend="justify">6</p>
+               <p rend="justify">TO A BROWN GIRL</p>
+               <p rend="justify">7</p>
+               <p rend="justify">TO A BROWN BOY</p>
+               <p rend="justify">8</p>
+               <p rend="justify">BLACK MAGDALENS</p>
+               <p rend="justify">9</p>
+               <p rend="justify">ATLANTIC CITY WAITER</p>
+               <p rend="justify">10</p>
+               <p rend="justify">NEAR WHITE</p>
+               <p rend="justify">11</p>
+               <p rend="justify">TABLEAU</p>
+               <p rend="justify">12</p>
+               <p rend="justify">HARLEM WINE</p>
+               <p rend="justify">13</p>
+               <p rend="justify">SIMON THE CYRENIAN SPEAKS</p>
+               <p rend="justify">14</p>
+               <p rend="justify">INCIDENT</p>
+               <p rend="justify">15</p>
+               <p rend="justify">TWO WHO CROSSED A LINE (SHE CROSSES)</p>
+               <p rend="justify">16</p>
+               <p rend="justify">TWO WHO CROSSED A LINE (HE CROSSES)</p>
+               <p rend="justify">17</p>
+               <p rend="justify">SATURDAY’S CHILD</p>
+               <p rend="justify">18</p>
+               <p rend="justify">THE DANCE OF LOVE</p>
+               <p rend="justify">19</p>
+               <p rend="justify">PAGAN PRAYER</p>
+               <p rend="justify">20</p>
+               <p rend="justify">WISDOM COMETH WITH THE YEARS</p>
+               <p rend="justify">22</p>
+               <p rend="justify">TO MY FAIRER BRETHREN</p>
+               <p rend="justify">23</p>
+               <p rend="justify">FRUIT OF THE FLOWER</p>
+               <p rend="justify">24</p>
+               <p rend="justify">THE SHROUD OF COLOR</p>
+               <p rend="justify">26</p>
+               <p rend="justify">HERITAGE</p>
+               <p rend="justify">36</p>
+               <p rend="justify">EPITAPHS</p>
+               <p rend="justify">FOR A POET</p>
+               <p rend="justify">45</p>
+               <p rend="justify">FOR MY GRANDMOTHER</p>
+               <p rend="justify">46</p>
+               <p rend="justify">FOR A CYNIC</p>
+               <p rend="justify">47</p>
+               <p rend="justify">FOR A SINGER</p>
+               <p rend="justify">48</p>
+               <p rend="justify">FOR A VIRGIN</p>
+               <p rend="justify">49</p>
+               <p rend="justify">FOR A LADY I KNOW</p>
+               <p rend="justify">50</p>
+               <p rend="justify">FOR A LOVELY LADY</p>
+               <p rend="justify">51</p>
+               <p rend="justify">FOR AN ATHEIST</p>
+               <p rend="justify">52</p>
+               <p rend="justify">FOR AN EVOLUTIONIST AND HIS OPPONENT    </p>
+               <p rend="justify">53</p>
+               <p rend="justify">FOR AN ANARCHIST</p>
+               <p rend="justify">54</p>
+               <p rend="justify">FOR A MAGICIAN</p>
+               <p rend="justify">55</p>
+               <p rend="justify">FOR A PESSIMIST</p>
+               <p rend="justify">56</p>
+               <p rend="justify">FOR A MOUTHY WOMAN</p>
+               <p rend="justify">57</p>
+               <p rend="justify">FOR A PHILOSOPHER</p>
+               <p rend="justify">58</p>
+               <p rend="justify">FOR AN UNSUCCESSFUL SINNER</p>
+               <p rend="justify">59</p>
+               <p rend="justify">FOR A FOOL</p>
+               <p rend="justify">60</p>
+               <p rend="justify">FOR ONE WHO GAYLY SOWED HIS OATS</p>
+               <p rend="justify">61</p>
+               <p rend="justify">FOR A SKEPTIC</p>
+               <p rend="justify">62</p>
+               <p rend="justify">FOR A FATALIST</p>
+               <p rend="justify">63</p>
+               <p rend="justify">FOR DAUGHTERS OF MAGDALEN</p>
+               <p rend="justify">64</p>
+               <p rend="justify">FOR A WANTON</p>
+               <p rend="justify">65</p>
+               <p rend="justify">FOR A PREACHER</p>
+               <p rend="justify">66</p>
+               <p rend="justify">FOR ONE WHO DIED SINGING OF DEATH</p>
+               <p rend="justify">67</p>
+               <p rend="justify">FOR JOHN KEATS, APOSTLE OF BEAUTY</p>
+               <p rend="justify">68</p>
+               <p rend="justify">FOR HAZEL HALL, AMERICAN POET</p>
+               <p rend="justify">69</p>
+               <p rend="justify">FOR PAUL LAWRENCE DUNBAR</p>
+               <p rend="justify">70</p>
+               <p rend="justify">FOR JOSEPH CONRAD</p>
+               <p rend="justify">71</p>
+               <p rend="justify">FOR MYSELF</p>
+               <p rend="justify">72</p>
+               <p rend="justify">ALL THE DEAD</p>
+               <p rend="justify">73</p>
+               <p rend="justify">FOR LOVE’S SAKE</p>
+               <p rend="justify">OH, FOR A LITTLE WHILE BE KIND</p>
+               <p rend="justify">77</p>
+               <p rend="justify">IF YOU SHOULD GO</p>
+               <p rend="justify">78</p>
+               <p rend="justify">TO ONE WHO SAID ME NAY</p>
+               <p rend="justify">79</p>
+               <p rend="justify">ADVICE TO YOUTH</p>
+               <p rend="justify">80</p>
+               <p rend="justify">CAPRICE</p>
+               <p rend="justify">81</p>
+               <p rend="justify">SACRAMENT</p>
+               <p rend="justify">82</p>
+               <p rend="justify">BREAD AND WINE</p>
+               <p rend="justify">83</p>
+               <p rend="justify">SPRING REMINISCENCE</p>
+               <p rend="justify">84</p>
+               <p rend="justify">VARIA</p>
+               <p rend="justify">SUICIDE CHANT</p>
+               <p rend="justify">87</p>
+               <p rend="justify">SHE OF THE DANCING FEET SINGS</p>
+               <p rend="justify">89</p>
+               <p rend="justify">JUDAS ISCARIOT</p>
+               <p rend="justify">90</p>
+               <p rend="justify">THE WISE</p>
+               <p rend="justify">95</p>
+               <p rend="justify">MARY, MOTHER OF CHRIST</p>
+               <p rend="justify">96</p>
+               <p rend="justify">DIALOGUE</p>
+               <p rend="justify">97</p>
+               <p rend="justify">IN MEMORY OF COL. CHARLES YOUNG</p>
+               <p rend="justify">99</p>
+               <p rend="justify">TO MY FRIENDS</p>
+               <p rend="justify">100</p>
+               <p rend="justify">GODS</p>
+               <p rend="justify">101</p>
+               <p rend="justify">TO JOHN KEATS, POET. AT SPRINGTIME</p>
+               <p rend="justify">102</p>
+               <p rend="justify">ON GOING</p>
+               <p rend="justify">105</p>
+               <p rend="justify">HARSH WORLD THAT LASHEST ME</p>
+               <p rend="justify">106</p>
+               <p rend="justify">REQUIESCAM</p>
+               <p rend="justify">108</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">To You Who Read My Book</hi>
+               </head>
+               <p rend="justify">SOON every sprinter,</p>
+               <p rend="justify">However fleet,</p>
+               <p rend="justify">Comes to a winter</p>
+               <p rend="justify">Of sure defeat:</p>
+               <p rend="justify">Though he may race</p>
+               <p rend="justify">Like the hunted doe,</p>
+               <p rend="justify">Time has a pace</p>
+               <p rend="justify">To lay him low.</p>
+               <p rend="justify">Soon we who sing,</p>
+               <p rend="justify">However high,</p>
+               <p rend="justify">Must face the Thing</p>
+               <p rend="justify">We cannot fly.</p>
+               <p rend="justify">Yea, though we fling</p>
+               <p rend="justify">Our notes to the sun,</p>
+               <p rend="justify">Time will outsing</p>
+               <p rend="justify">Us every one.</p>
+               <p rend="justify">All things must change</p>
+               <p rend="justify">As the wind is blown;</p>
+               <p rend="justify">Time will estrange</p>
+               <p rend="justify">The flesh from the bone.</p>
+               <p rend="justify">The dream shall elude</p>
+               <p rend="justify">The dreamer’s clasp,</p>
+               <p rend="justify">And only its hood</p>
+               <p rend="justify">Shall comfort his grasp.</p>
+               <p rend="justify">A little while,</p>
+               <p rend="justify">Too brief at most,</p>
+               <p rend="justify">And even my smile</p>
+               <p rend="justify">Will be a ghost.</p>
+               <p rend="justify">A little space,</p>
+               <p rend="justify">A Finger’s crook,</p>
+               <lg>
+                  <l>And who shall trace</l>
+                  <l>The path I took?</l>
+                  <l>Who shall declare</l>
+                  <l>My whereabouts;</l>
+                  <l>Say if in the air</l>
+                  <l>My being shouts</l>
+                  <l>Along light ways,</l>
+                  <l>Or if in the sea,</l>
+                  <l>Or deep earth stays</l>
+                  <l>The germ of me?</l>
+                  <l>Ah, none knows, none,</l>
+                  <l>Save (but too well)</l>
+                  <l>The Cryptic One</l>
+                  <l>Who will not tell.</l>
+               </lg>
+               <lg>
+                  <l>This is my hour</l>
+                  <l>To wax and climb,</l>
+                  <l>Flaunt a red flower</l>
+                  <l>In the face of time.</l>
+                  <l>And only an hour</l>
+                  <l>Time gives, then snap</l>
+                  <l>Goes the flower,</l>
+                  <l>And dried is the sap.</l>
+                  <l>Juice of the first</l>
+                  <l>Grapes of my vine,</l>
+                  <l>I proffer your thirst</l>
+                  <l>My own heart’s wine.</l>
+                  <l>Here of my growing</l>
+                  <l>A red rose sways,</l>
+                  <l>Seed of my sowing,</l>
+                  <l>And work of my days.</l>
+                  <l>(I run, but time’s</l>
+                  <l>Abreast with me;</l>
+                  <l>I sing, but he climbs</l>
+                  <l>With my highest C.)</l>
+                  <l>Drink while my blood</l>
+                  <l>Colors the wine,</l>
+                  <l>Reach while the bud</l>
+                  <l>Is still on the vine....</l>
+               </lg>
+               <lg>
+                  <l>Then ...</l>
+                  <l>When the hawks of death</l>
+                  <l>Tear at my throat</l>
+                  <l>Till song and breath</l>
+                  <l>Ebb note by note,</l>
+                  <l>Turn to this book</l>
+                  <l>Of the mellow word</l>
+                  <l>For a singing look</l>
+                  <l>At the stricken bird.</l>
+                  <l>Say, “This is the way</l>
+                  <l>He chirped and sung,</l>
+                  <l>In the sweet heyday</l>
+                  <l>When his heart was young.</l>
+                  <l>Though his throat is bare,</l>
+                  <l>By death defiled,</l>
+                  <l>Song labored there</l>
+                  <l>And bore a child.”</l>
+                  <l>When the dreadful Ax</l>
+                  <l>Rives me apart,</l>
+                  <l>When the sharp wedge cracks</l>
+                  <l>My arid heart,</l>
+                  <l>Turn to this book</l>
+                  <l>Of the singing me</l>
+                  <l>For a springtime look</l>
+                  <l>At the wintry tree.</l>
+               </lg>
+               <lg>
+                  <l>Say, “Thus it was weighed</l>
+                  <l>With flower and fruit,</l>
+                  <l>Ere the Ax was laid</l>
+                  <l>Unto its root.</l>
+                  <l>Though the blows fall free</l>
+                  <l>On a gnarled trunk now,</l>
+                  <l>Once he was a tree</l>
+                  <l>With a blossomy bough.”</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Color</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Yet Do I Marvel</hi>
+                  </head>
+                  <lg>
+                     <l>I DOUBT not God is good, well-meaning, kind,</l>
+                     <l>And did He stoop to quibble could tell why</l>
+                     <l>The little buried mole continues blind,</l>
+                     <l>Why flesh that mirrors Him must some day die,</l>
+                     <l>Make plain the reason tortured Tantalus</l>
+                     <l>Is baited by the fickle fruit, declare</l>
+                     <l>If merely brute caprice dooms Sisyphus</l>
+                     <l>To struggle up a never-ending stair.</l>
+                     <l>Inscrutable His ways are, and immune</l>
+                     <l>To catechism by a mind too strewn</l>
+                     <l>With petty cares to slightly understand</l>
+                     <l>What awful brain compels His awful hand.</l>
+                     <l>Yet do I marvel at this curious thing:</l>
+                     <l>To make a poet black, and bid him sing!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">A Song of Praise</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">For one who praised his lady’s being fair.</hi>)</p>
+                  <lg>
+                     <l>YOU have not heard my love’s dark throat,</l>
+                     <l>Slow-fluting like a reed,</l>
+                     <l>Release the perfect golden note</l>
+                     <l>She caged there for my need.</l>
+                     <l>Her walk is like the replica</l>
+                     <l>Of some barbaric dance</l>
+                     <l>Wherein the soul of Africa</l>
+                     <l>Is winged with arrogance.</l>
+                     <l>And yet so light she steps across</l>
+                     <l>The ways her sure feet pass,</l>
+                     <l>She does not dent the smoothest moss</l>
+                     <l>Or bend the thinnest grass.</l>
+                     <l>My love is dark as yours is fair,</l>
+                     <l>Yet lovelier I hold her</l>
+                     <l>Than listless maids with pallid hair,</l>
+                     <l>And blood that’s thin and colder.</l>
+                     <l>You-proud-and-to-be-pitied one,</l>
+                     <l>Gaze on her and despair;</l>
+                     <l>Then seal your lips until the sun</l>
+                     <l>Discovers one as fair.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Brown Boy to Brown Girl</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">Remembrance on a hill</hi>) (<hi rend="italic">For Yolande</hi>)</p>
+                  <lg>
+                     <l>“AS surely as I hold your hand in mine,</l>
+                     <l>As surely as your crinkled hair belies</l>
+                     <l>The enamoured sun pretending that he dies</l>
+                     <l>While still he loiters in its glossy shine,</l>
+                     <l>As surely as I break the slender line</l>
+                     <l>That spider linked us with, in no least wise</l>
+                     <l>Am I uncertain that these alien skies</l>
+                     <l>Do not our whole life measure and confine.</l>
+                     <l>No less, once in a land of scarlet suns</l>
+                     <l>And brooding winds, before the hurricane</l>
+                     <l>Bore down upon us, long before this pain,</l>
+                     <l>We found a place where quiet water runs;</l>
+                     <l>I held your hand this way upon a hill,</l>
+                     <l>And felt my heart forebear, my pulse grow still.”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">A Brown Girl Dead</hi>
+                  </head>
+                  <lg>
+                     <l>WITH two white roses on her breasts,</l>
+                     <l>White candles at head and feet,</l>
+                     <l>Dark Madonna of the grave she rests;</l>
+                     <l>Lord Death has found her sweet.</l>
+                     <l>Her mother pawned her wedding ring</l>
+                     <l>To lay her out in white;</l>
+                     <l>She’d be so proud she’d dance and sing</l>
+                     <l>To see herself tonight.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">To a Brown Girl</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">For Roberta</hi>)</p>
+                  <lg>
+                     <l>WHAT if his glance is bold and free,</l>
+                     <l>His mouth the lash of whips?</l>
+                     <l>So should the eyes of lovers be,</l>
+                     <l>And so a lover’s lips.</l>
+                     <l>What if no puritanic strain</l>
+                     <l>Confines him to the nice?</l>
+                     <l>He will not pass this way again,</l>
+                     <l>Nor hunger for you twice.</l>
+                     <l>Since in the end consort together</l>
+                     <l>Magdalen and Mary,</l>
+                     <l>Youth is the time for careless weather:</l>
+                     <l>Later, lass, be wary.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">To a Brown Boy</hi>
+                  </head>
+                  <lg>
+                     <l>THAT brown girl’s swagger gives a twitch</l>
+                     <l>To beauty like a queen;</l>
+                     <l>Lad, never dam your body’s itch</l>
+                     <l>When loveliness is seen.</l>
+                     <l>For there is ample room for bliss</l>
+                     <l>In pride in clean, brown limbs,</l>
+                     <l>And lips know better how to kiss</l>
+                     <l>Than how to raise white hymns.</l>
+                     <l>And when your body’s death gives birth</l>
+                     <l>To soil for spring to crown,</l>
+                     <l>Men will not ask if that rare earth</l>
+                     <l>Was white flesh once, or brown.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Black Magdalens</hi>
+                  </head>
+                  <lg>
+                     <l>THESE have no Christ to spit and stoop</l>
+                     <l>To write upon the sand,</l>
+                     <l>Inviting him that has not sinned</l>
+                     <l>To raise the first rude hand.</l>
+                     <l>And if he came they could not buy</l>
+                     <l>Rich ointment for his feet,</l>
+                     <l>The body’s sale scarce yields enough</l>
+                     <l>To let the body eat.</l>
+                     <l>The chaste clean ladies pass them by</l>
+                     <l>And draw their skirts aside,</l>
+                     <l>But Magdalens have a ready laugh;</l>
+                     <l>They wrap their wounds in pride.</l>
+                     <l>They fare full ill since Christ forsook</l>
+                     <l>The cross to mount a throne,</l>
+                     <l>And Virtue still is stooping down</l>
+                     <l>To cast the first hard stone.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Atlantic City Waiter</hi>
+                  </head>
+                  <lg>
+                     <l>WITH subtle poise he grips his tray</l>
+                     <l>Of delicate things to eat;</l>
+                     <l>Choice viands to their mouths half way,</l>
+                     <l>The ladies watch his feet</l>
+                     <l>Go carving dexterous avenues</l>
+                     <l>Through sly intricacies;</l>
+                     <l>Ten thousand years on jungle clues</l>
+                     <l>Alone shaped feet like these.</l>
+                     <l>For him to be humble who is proud</l>
+                     <l>Needs colder artifice;</l>
+                     <l>Though half his pride is disavowed,</l>
+                     <l>In vain the sacrifice.</l>
+                     <l>Sheer through his acquiescent mask</l>
+                     <l>Of bland gentility,</l>
+                     <l>The jungle flames like a copper cask</l>
+                     <l>Set where the sun strikes free.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Near White</hi>
+                  </head>
+                  <lg>
+                     <l>AMBIGUOUS of race they stand,</l>
+                     <l>By one disowned, scorned of another,</l>
+                     <l>Not knowing where to stretch a hand,</l>
+                     <l>And cry, “My sister” or “My brother.”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Tableau</hi>
+                  </head>
+                  <lg>
+                     <l>
+                        <hi rend="italic">For Donald Duff</hi>
+                     </l>
+                     <l>LOCKED arm in arm they cross the way,</l>
+                     <l>The black boy and the white,</l>
+                     <l>The golden splendor of the day,</l>
+                     <l>The sable pride of night.</l>
+                     <l>From lowered blinds the dark folk stare,</l>
+                     <l>And here the fair folk talk,</l>
+                     <l>Indignant that these two should dare</l>
+                     <l>In unison to walk.</l>
+                     <l>Oblivious to look and word</l>
+                     <l>They pass, and see no wonder</l>
+                     <l>That lightning brilliant as a sword</l>
+                     <l>Should blaze the path of thunder.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Harlem Wine</hi>
+                  </head>
+                  <lg>
+                     <l>THIS is not water running here,</l>
+                     <l>These thick rebellious streams</l>
+                     <l>That hurtle flesh and bone past fear</l>
+                     <l>Down alleyways of dreams.</l>
+                     <l>This is a wine that must flow on</l>
+                     <l>Not caring how nor where,</l>
+                     <l>So it has ways to flow upon</l>
+                     <l>Where song is in the air.</l>
+                     <l>So it can woo an artful flute</l>
+                     <l>With loose, elastic lips,</l>
+                     <l>Its measurement of joy compute</l>
+                     <l>With blithe, ecstatic hips.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Simon the Cyrenian Speaks</hi>
+                  </head>
+                  <lg>
+                     <l>HE never spoke a word to me,</l>
+                     <l>And yet He called my name;</l>
+                     <l>He never gave a sign to me,</l>
+                     <l>And yet I knew and came.</l>
+                     <l>At first I said, “I will not bear</l>
+                     <l>His cross upon my back;</l>
+                     <l>He only seeks to place it there</l>
+                     <l>Because my skin is black.”</l>
+                     <l>But He was dying for a dream,</l>
+                     <l>And He was very meek,</l>
+                     <l>And in His eyes there shone a gleam</l>
+                     <l>Men journey far to seek.</l>
+                     <l>It was Himself my pity bought;</l>
+                     <l>I did for Christ alone</l>
+                     <l>What all of Rome could not have wrought</l>
+                     <l>With bruise of lash or stone.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Incident</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">For Eric Walrond</hi>)</p>
+                  <lg>
+                     <l>ONCE riding in old Baltimore,</l>
+                     <l>Heart-filled, head-filled with glee,</l>
+                     <l>I saw a Baltimorean</l>
+                     <l>Keep looking straight at me.</l>
+                     <l>Now I was eight and very small,</l>
+                     <l>And he was no whit bigger,</l>
+                     <l>And so I smiled, but he poked out</l>
+                     <l>His tongue, and called me, “Nigger.”</l>
+                     <l>I saw the whole of Baltimore</l>
+                     <l>From May until December;</l>
+                     <l>Of all the things that happened there</l>
+                     <l>That’s all that I remember.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Two Who Crossed a Line</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">She Crosses</hi>)</p>
+                  <lg>
+                     <l>FROM where she stood the air she craved</l>
+                     <l>Smote with the smell of pine;</l>
+                     <l>It was too much to bear; she braved</l>
+                     <l>Her gods and crossed the line.</l>
+                     <l>And we were hurt to see her go,</l>
+                     <l>With her fair face and hair,</l>
+                     <l>And veins too thin and blue to show</l>
+                     <l>What mingled blood flowed there.</l>
+                     <l>We envied her a while, who still</l>
+                     <l>Pursued the hated track;</l>
+                     <l>Then we forgot her name, until</l>
+                     <l>One day her shade came back.</l>
+                     <l>Calm as a wave without a crest,</l>
+                     <l>Sorrow-proud and sorrow-wise,</l>
+                     <l>With trouble sucking at her breast,</l>
+                     <l>With tear-disdainful eyes,</l>
+                     <l>She slipped into her ancient place,</l>
+                     <l>And, no word asked, gave none;</l>
+                     <l>Only the silence in her face</l>
+                     <l>Said seats were dear in the sun.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Two Who Crossed a Line</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">He Crosses</hi>)</p>
+                  <lg>
+                     <l>HE rode across like a cavalier,</l>
+                     <l>Spurs clicking hard and loud;</l>
+                     <l>And where he tarried dropped his tear</l>
+                     <l>On heads he left low-bowed.</l>
+                     <l>But, “Even Stephen,” he cried, and struck</l>
+                     <l>His steed an urgent blow;</l>
+                     <l>He swore by youth he was a buck</l>
+                     <l>With savage oats to sow.</l>
+                     <l>To even up some standing scores,</l>
+                     <l>From every flower bed</l>
+                     <l>He passed, he plucked by threes and fours</l>
+                     <l>Till wheels whirled in his head.</l>
+                     <l>But long before the drug could tell,</l>
+                     <l>He took his anodyne;</l>
+                     <l>With scornful grace, he bowed farewell</l>
+                     <l>And retraversed the line.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Saturday’s Child</hi>
+                  </head>
+                  <lg>
+                     <l>SOME are teethed on a silver spoon,</l>
+                     <l>With the stars strung for a rattle;</l>
+                     <l>I cut my teeth as the black raccoon—</l>
+                     <l>For implements of battle.</l>
+                     <l>Some are swaddled in silk and down,</l>
+                     <l>And heralded by a star;</l>
+                     <l>They swathed my limbs in a sackcloth gown</l>
+                     <l>On a night that was black as tar.</l>
+                     <l>For some, godfather and goddame</l>
+                     <l>The opulent fairies be;</l>
+                     <l>Dame Poverty gave me my name,</l>
+                     <l>And Pain godfathered me.</l>
+                     <l>For I was born on Saturday—</l>
+                     <l>“Bad time for planting a seed,”</l>
+                     <l>Was all my father had to say,</l>
+                     <l>And, “One mouth more to feed.”</l>
+                     <l>Death cut the strings that gave me life,</l>
+                     <l>And handed me to Sorrow,</l>
+                     <l>The only kind of middle wife</l>
+                     <l>My folks could beg or borrow.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">The Dance of Love</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">After reading René Maran’s “Batouala”</hi>)</p>
+                  <lg>
+                     <l>ALL night we danced upon our windy hill,</l>
+                     <l>Your dress a cloud of tangled midnight hair,</l>
+                     <l>And love was much too much for me to wear</l>
+                     <l>My leaves; the killer roared above his kill,</l>
+                     <l>But you danced on, and when some star would spill</l>
+                     <l>Its red and white upon you whirling there,</l>
+                     <l>I sensed a hidden beauty in the air;</l>
+                     <l>Though you danced on, my heart and I stood still.</l>
+                     <l>But suddenly a bit of morning crept</l>
+                     <l>Along your trembling sides of ebony;</l>
+                     <l>I saw the tears your tired limbs had wept,</l>
+                     <l>And how your breasts heaved high, how languidly</l>
+                     <l>Your dark arms moved; I drew you close to me;</l>
+                     <l>We flung ourselves upon our hill and slept.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Pagan Prayer</hi>
+                  </head>
+                  <lg>
+                     <l>NOT for myself I make this prayer,</l>
+                     <l>But for this race of mine</l>
+                     <l>That stretches forth from shadowed places</l>
+                     <l>Dark hands for bread and wine.</l>
+                     <l>For me, my heart is pagan mad,</l>
+                     <l>My feet are never still,</l>
+                     <l>But give them hearths to keep them warm</l>
+                     <l>In homes high on a hill.</l>
+                     <l>For me, my faith lies fallowing,</l>
+                     <l>I bow not till I see,</l>
+                     <l>But these are humble and believe;</l>
+                     <l>Bless their credulity.</l>
+                     <l>For me, I pay my debts in kind,</l>
+                     <l>And see no better way,</l>
+                     <l>Bless these who turn the other cheek</l>
+                     <l>For love of you, and pray.</l>
+                     <l>Our Father, God, our Brother, Christ—</l>
+                     <l>So are we taught to pray;</l>
+                     <l>Their kinship seems a little thing</l>
+                     <l>Who sorrow all the day.</l>
+                  </lg>
+                  <lg>
+                     <l>Our Father, God; our Brother, Christ,</l>
+                     <l>Or are we bastard kin,</l>
+                     <l>That to our plaints your ears are closed,</l>
+                     <l>Your doors barred from within?</l>
+                     <l>Our Father, God; our Brother, Christ,</l>
+                     <l>Retrieve my race again;</l>
+                     <l>So shall you compass this black sheep,</l>
+                     <l>This pagan heart. Amen.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Wisdom Cometh With the Years</hi>
+                  </head>
+                  <lg>
+                     <l>NOW I am young and credulous,</l>
+                     <l>My heart is quick to bleed</l>
+                     <l>At courage in the tremulous</l>
+                     <l>Slow sprouting of a seed.</l>
+                     <l>Now I am young and sensitive,</l>
+                     <l>Man’s lack can stab me through;</l>
+                     <l>I own no stitch I would not give</l>
+                     <l>To him that asked me to.</l>
+                     <l>Now I am young and a fool for love,</l>
+                     <l>My blood goes mad to see</l>
+                     <l>A brown girl pass me like a dove</l>
+                     <l>That flies melodiously.</l>
+                     <l>Let me be lavish of my tears,</l>
+                     <l>And dream that false is true;</l>
+                     <l>Though wisdom cometh with the years,</l>
+                     <l>The barren days come, too.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">To My Fairer Brethren</hi>
+                  </head>
+                  <lg>
+                     <l>THOUGH I score you with my best,</l>
+                     <l>Treble circumstance</l>
+                     <l>Must confirm the verdict, lest</l>
+                     <l>It be laid to chance.</l>
+                     <l>Insufficient that I match you</l>
+                     <l>Every coin you flip;</l>
+                     <l>Your demand is that I catch you</l>
+                     <l>Squarely on the hip.</l>
+                     <l>Should I wear my wreaths a bit</l>
+                     <l>Rakishly and proud,</l>
+                     <l>I have bought my right to it;</l>
+                     <l>Let it be allowed.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Fruit of the Flower</hi>
+                  </head>
+                  <lg>
+                     <l>MY father is a quiet man</l>
+                     <l>With sober, steady ways;</l>
+                     <l>For simile, a folded fan;</l>
+                     <l>His nights are like his days.</l>
+                     <l>My mother’s life is puritan,</l>
+                     <l>No hint of cavalier,</l>
+                     <l>A pool so calm you’re sure it can</l>
+                     <l>Have little depth to fear.</l>
+                     <l>And yet my father’s eyes can boast</l>
+                     <l>How full his life has been;</l>
+                     <l>There haunts them yet the languid ghost</l>
+                     <l>Of some still sacred sin.</l>
+                     <l>And though my mother chants of God,</l>
+                     <l>And of the mystic river,</l>
+                     <l>I’ve seen a bit of checkered sod</l>
+                     <l>Set all her flesh aquiver.</l>
+                     <l>Why should he deem it pure mischance</l>
+                     <l>A son of his is fain</l>
+                     <l>To do a naked tribal dance</l>
+                     <l>Each time he hears the rain?</l>
+                  </lg>
+                  <lg>
+                     <l>Why should she think it devil’s art</l>
+                     <l>That all my songs should be</l>
+                     <l>Of love and lovers, broken heart,</l>
+                     <l>And wild sweet agony?</l>
+                     <l>Who plants a seed begets a bud,</l>
+                     <l>Extract of that same root;</l>
+                     <l>Why marvel at the hectic blood</l>
+                     <l>That flushes this wild fruit?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">The Shroud of Color</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">For Llewellyn Ransom</hi>)</p>
+                  <lg>
+                     <l>“LORD, being dark,” I said, “I cannot bear</l>
+                     <l>The further touch of earth, the scented air;</l>
+                     <l>Lord, being dark, forewilled to that despair</l>
+                     <l>My color shrouds me in, I am as dirt</l>
+                     <l>Beneath my brother’s heel; there is a hurt</l>
+                     <l>In all the simple joys which to a child</l>
+                     <l>Are sweet; they are contaminate, defiled</l>
+                     <l>By truths of wrongs the childish vision fails</l>
+                     <l>To see; too great a cost this birth entails.</l>
+                     <l>I strangle in this yoke drawn tighter than</l>
+                     <l>The worth of bearing it, just to be man.</l>
+                     <l>I am not brave enough to pay the price</l>
+                     <l>In full; I lack the strength to sacrifice.</l>
+                     <l>I who have burned my hands upon a star,</l>
+                     <l>And climbed high hills at dawn to view the far</l>
+                     <l>Illimitable wonderments of earth,</l>
+                     <l>For whom all cups have dripped the wine of mirth,</l>
+                     <l>For whom the sea has strained her honeyed throat</l>
+                  </lg>
+                  <lg>
+                     <l>Till all the world was sea, and I a boat</l>
+                     <l>Unmoored, on what strange quest I willed to float;</l>
+                     <l>Who wore a many-colored coat of dreams,</l>
+                     <l>Thy gift, O Lord—I whom sun-dabbled streams</l>
+                     <l>Have washed, whose bare brown thighs have held the sun</l>
+                     <l>Incarcerate until his course was run,</l>
+                     <l>I who considered man a high-perfected</l>
+                     <l>Glass where loveliness could lie reflected,</l>
+                     <l>Now that I sway athwart Truth’s deep abyss,</l>
+                     <l>Denuding man for what he was and is,</l>
+                     <l>Shall breath and being so inveigle me</l>
+                     <l>That I can damn my dreams to hell, and be</l>
+                     <l>Content, each new-born day, anew to see</l>
+                     <l>The steaming crimson vintage of my youth</l>
+                     <l>Incarnadine the altar-slab of Truth?</l>
+                     <l>Or hast Thou, Lord, somewhere I cannot see,</l>
+                     <l>A lamb imprisoned in a bush for me?</l>
+                     <l>Not so? Then let me render one by one</l>
+                     <l>Thy gifts, while still they shine; some little sun</l>
+                     <l>Yet gilds these thighs; my coat, albeit worn,</l>
+                     <l>Still holds its colors fast; albeit torn,</l>
+                  </lg>
+                  <lg>
+                     <l>My heart will laugh a little yet, if I</l>
+                     <l>May win of Thee this grace, Lord: on this high</l>
+                     <l>And sacrificial hill ’twixt earth and sky,</l>
+                     <l>To dream still pure all that I loved, and die.</l>
+                     <l>There is no other way to keep secure</l>
+                     <l>My wild chimeras; grave-locked against the lure</l>
+                     <l>Of Truth, the small hard teeth of worms, yet less</l>
+                     <l>Envenomed than the mouth of Truth, will bless</l>
+                     <l>Them into dust and happy nothingness.</l>
+                     <l>Lord, Thou art God; and I, Lord, what am I</l>
+                     <l>But dust? With dust my place. Lord, let me die.”</l>
+                     <l>Across the earth’s warm, palpitating crust</l>
+                     <l>I flung my body in embrace; I thrust</l>
+                     <l>My mouth into the grass and sucked the dew,</l>
+                     <l>Then gave it back in tears my anguish drew;</l>
+                     <l>So hard I pressed against the ground, I felt</l>
+                     <l>The smallest sandgrain like a knife, and smelt</l>
+                     <l>The next year’s flowering; all this to speed</l>
+                     <l>My body’s dissolution, fain to feed</l>
+                     <l>The worms. And so I groaned, and spent my strength</l>
+                  </lg>
+                  <lg>
+                     <l>Until, all passion spent, I lay full length</l>
+                     <l>And quivered like a flayed and bleeding thing.</l>
+                     <l>So lay till lifted on a great black wing</l>
+                     <l>That had no mate nor flesh-apparent trunk</l>
+                     <l>To hamper it; with me all time had sunk</l>
+                     <l>Into oblivion; when I awoke</l>
+                     <l>The wing hung poised above two cliffs that broke</l>
+                     <l>The bowels of the earth in twain, and cleft</l>
+                     <l>The seas apart. Below, above, to left,</l>
+                     <l>To right, I saw what no man saw before:</l>
+                     <l>Earth, hell, and heaven; sinew, vein, and core.</l>
+                     <l>All things that swim or walk or creep or fly,</l>
+                     <l>All things that live and hunger, faint and die,</l>
+                     <l>Were made majestic then and magnified</l>
+                     <l>By sight so clearly purged and deified.</l>
+                     <l>The smallest bug that crawls was taller than</l>
+                     <l>A tree, the mustard seed loomed like a man.</l>
+                     <l>The earth that writhes eternally with pain</l>
+                     <l>Of birth, and woe of taking back her slain,</l>
+                     <l>Laid bare her teeming bosom to my sight,</l>
+                     <l>And all was struggle, gasping breath, and fight.</l>
+                     <l>A blind worm here dug tunnels to the light,</l>
+                     <l>And there a seed, racked with heroic pain,</l>
+                     <l>Thrust eager tentacles to sun and rain;</l>
+                  </lg>
+                  <lg>
+                     <l>It climbed; it died; the old love conquered me</l>
+                     <l>To weep the blossom it would never be.</l>
+                     <l>But here a bud won light; it burst and flowered</l>
+                     <l>Into a rose whose beauty challenged, “Coward!”</l>
+                     <l>There was no thing alive save only I</l>
+                     <l>That held life in contempt and longed to die.</l>
+                     <l>And still I writhed and moaned, “The curse, the curse,</l>
+                     <l>Than animated death, can death be worse?”</l>
+                     <l>“<hi rend="italic">Dark child of sorrow, mine no less, what art</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Of mine can make thee see and play thy part?</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">The key to all strange things is in thy heart.</hi>”</l>
+                     <l>What voice was this that coursed like liquid fire</l>
+                     <l>Along my flesh, and turned my hair to wire?</l>
+                     <l>I raised my burning eyes, beheld a field</l>
+                     <l>All multitudinous with carnal yield,</l>
+                     <l>A grim ensanguined mead whereon I saw</l>
+                     <l>Evolve the ancient fundamental law</l>
+                     <l>Of tooth and talon, fist and nail and claw.</l>
+                     <l>There with the force of living, hostile hills</l>
+                     <l>Whose clash the hemmed-in vale with clamor fills,</l>
+                  </lg>
+                  <lg>
+                     <l>With greater din contended fierce majestic wills</l>
+                     <l>Of beast with beast, of man with man, in strife</l>
+                     <l>For love of what my heart despised, for life</l>
+                     <l>That unto me at dawn was now a prayer</l>
+                     <l>For night, at night a bloody heart-wrung tear</l>
+                     <l>For day again; for <hi rend="italic">this</hi>, these groans</l>
+                     <l>From tangled flesh and interlockèd bones.</l>
+                     <l>And no thing died that did not give</l>
+                     <l>A testimony that it longed to live.</l>
+                     <l>Man, strange composite blend of brute and god,</l>
+                     <l>Pushed on, nor backward glanced where last he trod.</l>
+                     <l>He seemed to mount a misty ladder flung</l>
+                     <l>Pendant from a cloud, yet never gained a rung</l>
+                     <l>But at his feet another tugged and clung.</l>
+                     <l>My heart was still a pool of bitterness,</l>
+                     <l>Would yield nought else, nought else confess.</l>
+                     <l>I spoke (although no form was there</l>
+                     <l>To see, I knew an ear was there to hear),</l>
+                     <l>“Well, let them fight; they <hi rend="italic">can</hi>  whose flesh is fair.”</l>
+                     <l>Crisp lightning flashed; a wave of thunder shook</l>
+                  </lg>
+                  <lg>
+                     <l>My wing; a pause, and then a speaking, “Look.”</l>
+                     <l>I scarce dared trust my ears or eyes for awe</l>
+                     <l>Of what they heard, and dread of what they saw;</l>
+                     <l>For, privileged beyond degree, this flesh</l>
+                     <l>Beheld God and His heaven in the mesh</l>
+                     <l>Of Lucifer’s revolt, saw Lucifer</l>
+                     <l>Glow like the sun, and like a dulcimer</l>
+                     <l>I heard his sin-sweet voice break on the yell</l>
+                     <l>Of God’s great warriors: Gabriel,</l>
+                     <l>Saint Clair and Michael, Israfel and Raphael.</l>
+                     <l>And strange it was to see God with His back</l>
+                     <l>Against a wall, to see Christ hew and hack</l>
+                     <l>Till Lucifer, pressed by the mighty pair,</l>
+                     <l>And losing inch by inch, clawed at the air</l>
+                     <l>With fevered wings; then, lost beyond repair,</l>
+                     <l>He tricked a mass of stars into his hair;</l>
+                     <l>He filled his hands with stars, crying as he fell,</l>
+                     <l>“A star’s a star although it burns in hell.”</l>
+                     <l>So God was left to His divinity,</l>
+                     <l>Omnipotent at that most costly fee.</l>
+                     <l>There was a lesson here, but still the clod</l>
+                     <l>In me was sycophant unto the rod,</l>
+                  </lg>
+                  <lg>
+                     <l>And cried, “Why mock me thus? Am I a god?”</l>
+                     <l>“<hi rend="italic">One trial more: this failing, then I give</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">You leave to die; no further need to live.</hi>”</l>
+                     <l>Now suddenly a strange wild music smote</l>
+                     <l>A chord long impotent in me; a note</l>
+                     <l>Of jungles, primitive and subtle, throbbed</l>
+                     <l>Against my echoing breast, and tom-toms sobbed</l>
+                     <l>In every pulse-beat of my frame. The din</l>
+                     <l>A hollow log bound with a python’s skin</l>
+                     <l>Can make wrought every nerve to ecstasy,</l>
+                     <l>And I was wind and sky again, and sea,</l>
+                     <l>And all sweet things that flourish, being free.</l>
+                     <l>Till all at once the music changed its key.</l>
+                     <l>And now it was of bitterness and death,</l>
+                     <l>The cry the lash extorts, the broken breath</l>
+                     <l>Of liberty enchained; and yet there ran</l>
+                     <l>Through all a harmony of faith in man,</l>
+                     <l>A knowledge all would end as it began.</l>
+                     <l>All sights and sounds and aspects of my race</l>
+                     <l>Accompanied this melody, kept pace</l>
+                     <l>With it; with music all their hopes and hates</l>
+                  </lg>
+                  <lg>
+                     <l>Were charged, not to be downed by all the fates.</l>
+                     <l>And somehow it was borne upon my brain</l>
+                     <l>How being dark, and living through the pain</l>
+                     <l>Of it, is courage more than angels have. I knew</l>
+                     <l>What storms and tumults lashed the tree that grew</l>
+                     <l>This body that I was, this cringing I</l>
+                     <l>That feared to contemplate a changing sky,</l>
+                     <l>This that I grovelled, whining, “Let me die,”</l>
+                     <l>While others struggled in Life’s abattoir.</l>
+                     <l>The cries of all dark people near or far</l>
+                     <l>Were billowed over me, a mighty surge</l>
+                     <l>Of suffering in which my puny grief must merge</l>
+                     <l>And lose itself; I had no further claim to urge</l>
+                     <l>For death; in shame I raised my dust-grimed head,</l>
+                     <l>And though my lips moved not, God knew I said,</l>
+                     <l>“Lord, not for what I saw in flesh or bone</l>
+                     <l>Of fairer men; not raised on faith alone;</l>
+                     <l>Lord, I will live persuaded by mine own.</l>
+                     <l>I cannot play the recreant to these;</l>
+                     <l>My spirit has come home, that sailed the doubtful seas.”</l>
+                  </lg>
+                  <lg>
+                     <l>With the whiz of a sword that severs space,</l>
+                     <l>The wing dropped down at a dizzy pace,</l>
+                     <l>And flung me on my hill flat on my face;</l>
+                     <l>Flat on my face I lay defying pain,</l>
+                     <l>Glad of the blood in my smallest vein,</l>
+                     <l>And in my hands I clutched a loyal dream,</l>
+                     <l>Still spitting fire, bright twist and coil and gleam,</l>
+                     <l>And chiselled like a hound’s white tooth.</l>
+                     <l>“Oh, I will match you yet,” I cried, “to truth.”</l>
+                     <l>Right glad I was to stoop to what I once had spurned,</l>
+                     <l>Glad even unto tears; I laughed aloud; I turned</l>
+                     <l>Upon my back, and though the tears for joy would run,</l>
+                     <l>My sight was clear; I looked and saw the rising sun.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Heritage</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">For Harold Jackman</hi>)</p>
+                  <lg>
+                     <l>WHAT is Africa to me:</l>
+                     <l>Copper sun or scarlet sea,</l>
+                     <l>Jungle star or jungle track,</l>
+                     <l>Strong bronzed men, or regal black</l>
+                     <l>Women from whose loins I sprang</l>
+                     <l>When the birds of Eden sang?</l>
+                     <l>
+                        <hi rend="italic">One three centuries removed</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">From the scenes his fathers loved,</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Spicy grove, cinnamon tree,</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">What is Africa to me?</hi>
+                     </l>
+                     <l>So I lie, who all day long</l>
+                     <l>Want no sound except the song</l>
+                     <l>Sung by wild barbaric birds</l>
+                     <l>Goading massive jungle herds,</l>
+                     <l>Juggernauts of flesh that pass</l>
+                     <l>Trampling tall defiant grass</l>
+                     <l>Where young forest lovers lie,</l>
+                     <l>Plighting troth beneath the sky.</l>
+                     <l>So I lie, who always hear,</l>
+                     <l>Though I cram against my ear</l>
+                     <l>Both my thumbs, and keep them there,</l>
+                  </lg>
+                  <lg>
+                     <l>Great drums throbbing through the air.</l>
+                     <l>So I lie, whose fount of pride,</l>
+                     <l>Dear distress, and joy allied,</l>
+                     <l>Is my somber flesh and skin,</l>
+                     <l>With the dark blood dammed within</l>
+                     <l>Like great pulsing tides of wine</l>
+                     <l>That, I fear, must burst the fine</l>
+                     <l>Channels of the chafing net</l>
+                     <l>Where they surge and foam and fret.</l>
+                     <l>Africa? A book one thumbs</l>
+                     <l>Listlessly, till slumber comes.</l>
+                     <l>Unremembered are her bats</l>
+                     <l>Circling through the night, her cats</l>
+                     <l>Crouching in the river reeds,</l>
+                     <l>Stalking gentle flesh that feeds</l>
+                     <l>By the river brink; no more</l>
+                     <l>Does the bugle-throated roar</l>
+                     <l>Cry that monarch claws have leapt</l>
+                     <l>From the scabbards where they slept.</l>
+                     <l>Silver snakes that once a year</l>
+                     <l>Doff the lovely coats you wear,</l>
+                     <l>Seek no covert in your fear</l>
+                     <l>Lest a mortal eye should see;</l>
+                     <l>What’s your nakedness to me?</l>
+                     <l>Here no leprous flowers rear</l>
+                     <l>Fierce corollas in the air;</l>
+                  </lg>
+                  <lg>
+                     <l>Here no bodies sleek and wet,</l>
+                     <l>Dripping mingled rain and sweat,</l>
+                     <l>Tread the savage measures of</l>
+                     <l>Jungle boys and girls in love.</l>
+                     <l>What is last year’s snow to me,</l>
+                     <l>Last year’s anything? The tree</l>
+                     <l>Budding yearly must forget</l>
+                     <l>How its past arose or set—</l>
+                     <l>Bough and blossom, flower, fruit,</l>
+                     <l>Even what shy bird with mute</l>
+                     <l>Wonder at her travail there,</l>
+                     <l>Meekly labored in its hair.</l>
+                     <l>
+                        <hi rend="italic">One three centuries removed</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">From the scenes his fathers loved,</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Spicy grove, cinnamon tree,</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">What is Africa to me?</hi>
+                     </l>
+                     <l>So I lie, who find no peace</l>
+                     <l>Night or day, no slight release</l>
+                     <l>From the unremittant beat</l>
+                     <l>Made by cruel padded feet</l>
+                     <l>Walking through my body’s street.</l>
+                     <l>Up and down they go, and back,</l>
+                     <l>Treading out a jungle track.</l>
+                     <l>So I lie, who never quite</l>
+                     <l>Safely sleep from rain at night—</l>
+                     <l>I can never rest at all</l>
+                  </lg>
+                  <lg>
+                     <l>When the rain begins to fall;</l>
+                     <l>Like a soul gone mad with pain</l>
+                     <l>I must match its weird refrain;</l>
+                     <l>Ever must I twist and squirm,</l>
+                     <l>Writhing like a baited worm,</l>
+                     <l>While its primal measures drip</l>
+                     <l>Through my body, crying, “Strip!</l>
+                     <l>Doff this new exuberance.</l>
+                     <l>Come and dance the Lover’s Dance!”</l>
+                     <l>In an old remembered way</l>
+                     <l>Rain works on me night and day.</l>
+                     <l>Quaint, outlandish heathen gods</l>
+                     <l>Black men fashion out of rods,</l>
+                     <l>Clay, and brittle bits of stone,</l>
+                     <l>In a likeness like their own,</l>
+                     <l>My conversion came high-priced;</l>
+                     <l>I belong to Jesus Christ,</l>
+                     <l>Preacher of humility;</l>
+                     <l>Heathen gods are naught to me.</l>
+                     <l>Father, Son, and Holy Ghost,</l>
+                     <l>So I make an idle boast;</l>
+                     <l>Jesus of the twice-turned cheek,</l>
+                     <l>Lamb of God, although I speak</l>
+                     <l>With my mouth thus, in my heart</l>
+                     <l>Do I play a double part.</l>
+                  </lg>
+                  <lg>
+                     <l>Ever at Thy glowing altar</l>
+                     <l>Must my heart grow sick and falter,</l>
+                     <l>Wishing He I served were black,</l>
+                     <l>Thinking then it would not lack</l>
+                     <l>Precedent of pain to guide it,</l>
+                     <l>Let who would or might deride it;</l>
+                     <l>Surely then this flesh would know</l>
+                     <l>Yours had borne a kindred woe.</l>
+                     <l>Lord, I fashion dark gods, too,</l>
+                     <l>Daring even to give You</l>
+                     <l>Dark despairing features where,</l>
+                     <l>Crowned with dark rebellious hair,</l>
+                     <l>Patience wavers just so much as</l>
+                     <l>Mortal grief compels, while touches</l>
+                     <l>Quick and hot, of anger, rise</l>
+                     <l>To smitten cheek and weary eyes.</l>
+                     <l>Lord, forgive me if my need</l>
+                     <l>Sometimes shapes a human creed.</l>
+                     <l>
+                        <hi rend="italic">All day long and all night through,</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">One thing only must I do:</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Quench my pride and cool my blood,</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Lest I perish in the flood.</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Lest a hidden ember set</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Timber that I thought was wet</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Burning like the dryest flax,</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Melting like the merest wax,</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Lest the grave restore its dead.</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Not yet has my heart or head</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">In the least way realized</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">They and I are civilized.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Epitaphs</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Poet</hi>
+                  </head>
+                  <lg>
+                     <l>I HAVE wrapped my dreams in a silken cloth,</l>
+                     <l>And laid them away in a box of gold;</l>
+                     <l>Where long will cling the lips of the moth,</l>
+                     <l>I have wrapped my dreams in a silken cloth;</l>
+                     <l>I hide no hate; I am not even wroth</l>
+                     <l>Who found earth’s breath so keen and cold;</l>
+                     <l>I have wrapped my dreams in a silken cloth,</l>
+                     <l>And laid them away in a box of gold.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For My Grandmother</hi>
+                  </head>
+                  <lg>
+                     <l>THIS lovely flower fell to seed;</l>
+                     <l>Work gently, sun and rain;</l>
+                     <l>She held it as her dying creed</l>
+                     <l>That she would grow again.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Cynic</hi>
+                  </head>
+                  <lg>
+                     <l>BIRTH is a crime</l>
+                     <l>All men commit;</l>
+                     <l>Life gives them time</l>
+                     <l>To atone for it;</l>
+                     <l>Death ends the rhyme</l>
+                     <l>As the price for it.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Singer</hi>
+                  </head>
+                  <lg>
+                     <l>DEATH clogged this flute</l>
+                     <l>At its highest note;</l>
+                     <l>Song sleeps here mute</l>
+                     <l>In this breathless throat.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Virgin</hi>
+                  </head>
+                  <lg>
+                     <l>FOR forty years I shunned the lust</l>
+                     <l>Inherent in my clay;</l>
+                     <l>Death only was so amorous</l>
+                     <l>I let him have his way.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Lady I Know</hi>
+                  </head>
+                  <lg>
+                     <l>SHE even thinks that up in heaven</l>
+                     <l>Her class lies late and snores,</l>
+                     <l>While poor black cherubs rise at seven</l>
+                     <l>To do celestial chores.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Lovely Lady</hi>
+                  </head>
+                  <lg>
+                     <l>A CREATURE slender as a reed,</l>
+                     <l>And sad-eyed as a doe</l>
+                     <l>Lies here (but take my word for it,</l>
+                     <l>And do not pry below).</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For an Atheist</hi>
+                  </head>
+                  <lg>
+                     <l>MOUNTAINS cover me like rain,</l>
+                     <l>Billows whirl and rise;</l>
+                     <l>Hide me from the stabbing pain</l>
+                     <l>In His reproachful eyes.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For an Evolutionist and His Opponent</hi>
+                  </head>
+                  <lg>
+                     <l>SHOWING that our ways agreed,</l>
+                     <l>Death is proof enough;</l>
+                     <l>Body seeks the primal clay,</l>
+                     <l>Soul transcends the slough.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For an Anarchist</hi>
+                  </head>
+                  <lg>
+                     <l>WHAT matters that I stormed and swore?</l>
+                     <l>Not Samson with an ass’s jaw,</l>
+                     <l>Not though a forest of hair he wore,</l>
+                     <l>Could break death’s adamantine law.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Magician</hi>
+                  </head>
+                  <lg>
+                     <l>I WHOSE magic could explore</l>
+                     <l>Ways others might not guess or see,</l>
+                     <l>Now am barred behind a door</l>
+                     <l>That has no “Open Sesame.”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Pessimist</hi>
+                  </head>
+                  <lg>
+                     <l>HE wore his coffin for a hat,</l>
+                     <l>Calamity his cape,</l>
+                     <l>While on his face a death’s-head sat</l>
+                     <l>And waved a bit of crape.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Mouthy Woman</hi>
+                  </head>
+                  <lg>
+                     <l>GOD and the devil still are wrangling  </l>
+                     <l>Which should have her, which repel;</l>
+                     <l>God wants no discord in his heaven;</l>
+                     <l>Satan has enough in hell.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Philosopher</hi>
+                  </head>
+                  <lg>
+                     <l>HERE lies one who tried to solve</l>
+                     <l>The riddle of being and breath:</l>
+                     <l>The wee blind mole that gnaws his bones</l>
+                     <l>Tells him the answer is death.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For an Unsuccessful Sinner</hi>
+                  </head>
+                  <lg>
+                     <l>I BOASTED my sins were sure to sink me</l>
+                     <l>Out of all sound and sight of glory;</l>
+                     <l>And the most I’ve won for all my pains</l>
+                     <l>Is a century of purgatory.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Fool</hi>
+                  </head>
+                  <p rend="justify">ON earth the wise man makes the rules,</p>
+                  <p rend="justify">And is the fool’s adviser,</p>
+                  <p rend="justify">But here the wise are as the fools,</p>
+                  <p rend="justify">(And no man is the wiser).</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For One Who Gayly Sowed His Oats</hi>
+                  </head>
+                  <lg>
+                     <l>MY days were a thing for me to live,</l>
+                     <l>For others to deplore;</l>
+                     <l>I took of life all it could give:</l>
+                     <l>Rind, inner fruit, and core.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Skeptic</hi>
+                  </head>
+                  <lg>
+                     <l>BLOOD-BROTHER unto Thomas whose</l>
+                     <l>Weak faith doubt kept in trammels,</l>
+                     <l>His little credence strained at gnats—</l>
+                     <l>But grew robust on camels.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Fatalist</hi>
+                  </head>
+                  <lg>
+                     <l>LIFE ushers some as heirs-elect</l>
+                     <l>To weather wind and gale;</l>
+                     <l>Here lies a man whose ships were wrecked</l>
+                     <l>Ere he could hoist a sail.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For Daughters of Magdalen</hi>
+                  </head>
+                  <lg>
+                     <l>OURS is the ancient story:</l>
+                     <l>Delicate flowers of sin,</l>
+                     <l>Lilies, arrayed in glory,</l>
+                     <l>That would not toil nor spin.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Wanton</hi>
+                  </head>
+                  <lg>
+                     <l>TO men no more than so much cover</l>
+                     <l>For them to doff or try,</l>
+                     <l>I found in Death a constant lover:</l>
+                     <l>Here in his arms I lie.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For a Preacher</hi>
+                  </head>
+                  <lg>
+                     <l>VANITY of vanities,</l>
+                     <l>All is vanity; yea,</l>
+                     <l>Even the rod He flayed you with</l>
+                     <l>Crumbled and turned to clay.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For One Who Died Singing of Death</hi>
+                  </head>
+                  <lg>
+                     <l>HE whose might you sang so well</l>
+                     <l>Living, will not let you rust:</l>
+                     <l>Death has set the golden bell</l>
+                     <l>Pealing in the courts of dust.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For John Keats, Apostle of Beauty</hi>
+                  </head>
+                  <lg>
+                     <l>NOT writ in water, nor in mist,</l>
+                     <l>Sweet lyric throat, thy name;</l>
+                     <l>Thy singing lips that cold death kissed</l>
+                     <l>Have seared his own with flame.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For Hazel Hall, American Poet</hi>
+                  </head>
+                  <p rend="justify">SOUL-TROUBLED at the febrile ways of breath,</p>
+                  <p rend="justify">  Her timid breast shot through with faint alarm,</p>
+                  <p rend="justify">“Yes, I’m a stranger here,” she said to Death,</p>
+                  <p rend="justify">“It’s kind of you to let me take your arm.”</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For Paul Laurence Dunbar</hi>
+                  </head>
+                  <lg>
+                     <l>BORN of the sorrowful of heart,</l>
+                     <l>Mirth was a crown upon his head;</l>
+                     <l>Pride kept his twisted lips apart</l>
+                     <l>In jest, to hide a heart that bled.    </l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For Joseph Conrad</hi>
+                  </head>
+                  <lg>
+                     <l>NOT of the dust, but of the wave</l>
+                     <l>His final couch should be;</l>
+                     <l>They lie not easy in a grave</l>
+                     <l>Who once have known the sea.</l>
+                     <l>How shall earth’s meagre bed enthrall</l>
+                     <l>The hardiest seaman of them all?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">For Myself</hi>
+                  </head>
+                  <lg>
+                     <l>WHAT’S in this grave is worth your tear;</l>
+                     <l>There’s more than the eye can see;</l>
+                     <l>Folly and Pride and Love lie here</l>
+                     <l>Buried alive with me.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">All the Dead</hi>
+                  </head>
+                  <lg>
+                     <l>PRIEST and layman, virgin, strumpet,</l>
+                     <l>Good and ill commingled sleep,</l>
+                     <l>Waiting till the dreadful trumpet</l>
+                     <l>Separates the wolves and sheep.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">For Love’s Sake</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Oh, for a Little While Be Kind</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">For Ruth Marie</hi>)</p>
+                  <p rend="justify">OH, for a little while be kind to me</p>
+                  <p rend="justify">Who stand in such imperious need of you,</p>
+                  <p rend="justify">And for a fitful space let my head lie</p>
+                  <p rend="justify">Happily on your passion’s frigid breast.</p>
+                  <p rend="justify">Although yourself no more resigned to me</p>
+                  <p rend="justify">Than on all bitter yesterdays I knew,</p>
+                  <p rend="justify">This half a loaf from sumptuous crumbs your shy</p>
+                  <p rend="justify">Reneging hand lets fall shall make me blest.</p>
+                  <p rend="justify">The sturdy homage of a love that throws</p>
+                  <p rend="justify">Its strength about you, dawn and dusk, at bed</p>
+                  <p rend="justify">And board, is not for scorn. When all is said</p>
+                  <p rend="justify">With final amen certitude, who knows</p>
+                  <p rend="justify">But Dives found a matchless fragrance fled</p>
+                  <p rend="justify">When Lazarus no longer shocked his nose?</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">If You Should Go</hi>
+                  </head>
+                  <lg>
+                     <l>LOVE, leave me like the light,</l>
+                     <l>The gently passing day;</l>
+                     <l>We would not know, but for the night,</l>
+                     <l>When it has slipped away.</l>
+                     <l>Go quietly; a dream,</l>
+                     <l>When done, should leave no trace</l>
+                     <l>That it has lived, except a gleam</l>
+                     <l>Across the dreamer’s face.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">To One Who Said Me Nay</hi>
+                  </head>
+                  <lg>
+                     <l>THIS much the gods vouchsafe today:</l>
+                     <l>That we two lie in the clover,</l>
+                     <l>Watching the heavens dip and sway,</l>
+                     <l>With galleons sailing over.</l>
+                     <l>This much is granted for an hour:</l>
+                     <l>That we are young and tender,</l>
+                     <l>That I am bee and you are flower,</l>
+                     <l>Honey-mouthed and swaying slender.</l>
+                     <l>This sweet of sweets is ours now:</l>
+                     <l>To wander through the land,</l>
+                     <l>Plucking an apple from its bough</l>
+                     <l>To toss from hand to hand.</l>
+                     <l>No thing is certain, joy nor sorrow,</l>
+                     <l>Except the hour we know it;</l>
+                     <l>Oh, wear my heart today; tomorrow</l>
+                     <l>Who knows where the winds will blow it?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Advice to Youth</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">For Guillaume</hi>)</p>
+                  <lg>
+                     <l>SINCE little time is granted here</l>
+                     <l>For pride in pain or play,</l>
+                     <l>Since blood soon cools before that Fear</l>
+                     <l>That makes our prowess clay,</l>
+                     <l>If lips to kiss are freely met,</l>
+                     <l>Lad, be not proud nor shy;</l>
+                     <l>There are no lips where men forget,</l>
+                     <l>And undesiring lie.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Caprice</hi>
+                  </head>
+                  <lg>
+                     <l>“I ’LL tell him, when he comes,” she said,</l>
+                     <l>“Body and baggage, to go,</l>
+                     <l>Though the night be darker than my hair,</l>
+                     <l>And the ground be hard with snow.”</l>
+                     <l>But when he came with his gay black head</l>
+                     <l>Thrown back, and his lips apart,</l>
+                     <l>She flipped a light hair from his coat,</l>
+                     <l>And sobbed against his heart.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Sacrament</hi>
+                  </head>
+                  <lg>
+                     <l>SHE gave her body for my meat,</l>
+                     <l>Her soul to be my wine,</l>
+                     <l>And prayed that I be made complete</l>
+                     <l>In sunlight and starshine.</l>
+                     <l>With such abandoned grace she gave</l>
+                     <l>Of all that passion taught her,</l>
+                     <l>She never knew her tidal wave</l>
+                     <l>Cast bread on stagnant water.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Bread and Wine</hi>
+                  </head>
+                  <lg>
+                     <l>FROM death of star to new star’s birth,</l>
+                     <l>This ache of limb, this throb of head,</l>
+                     <l>This sweaty shop, this smell of earth,</l>
+                     <l>For this we pray, “Give daily bread.”</l>
+                     <l>Then tenuous with dreams the night,</l>
+                     <l>The feel of soft brown hands in mine,</l>
+                     <l>Strength from your lips for one more fight:</l>
+                     <l>Bread’s not so dry when dipped in wine.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Spring Reminiscence</hi>
+                  </head>
+                  <lg>
+                     <l>“MY sweet,” you sang, and, “Sweet,” I sang,</l>
+                     <l>And sweet we sang together,</l>
+                     <l>Glad to be young as the world was young,</l>
+                     <l>Two colts too strong for a tether.</l>
+                     <l>Shall ever a spring be like that spring,</l>
+                     <l>Or apple blossoms as white;</l>
+                     <l>Or ever clover smell like the clover</l>
+                     <l>We lay upon that night?</l>
+                     <l>Shall ever your hand lie in my hand,</l>
+                     <l>Pulsing to it, I wonder;</l>
+                     <l>Or have the gods, being jealous gods,</l>
+                     <l>Envied us our thunder?</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Varia</hi>
+               </head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Suicide Chant</hi>
+                  </head>
+                  <p rend="justify">I AM the seed</p>
+                  <p rend="justify">The Sower sowed;</p>
+                  <p rend="justify">I am the deed</p>
+                  <p rend="justify">His hand bestowed</p>
+                  <p rend="justify">Upon the world.</p>
+                  <p rend="justify">Censure me not</p>
+                  <p rend="justify">If a rank weed flood</p>
+                  <p rend="justify">The garden plot,</p>
+                  <p rend="justify">Instead of a bud</p>
+                  <p rend="justify">To be unfurled.</p>
+                  <lg>
+                     <l>Bridle your blame</l>
+                     <l>If the deed prove less</l>
+                     <l>Than the bruited fame</l>
+                     <l>With which it came</l>
+                     <l>From nothingness.</l>
+                     <l>The seed of a weed</l>
+                     <l>Cannot be flowered,</l>
+                     <l>Nor a hero’s deed</l>
+                     <l>Spring from a coward.</l>
+                  </lg>
+                  <lg>
+                     <l>Pull up the weed;</l>
+                     <l>Bring plow and mower;</l>
+                     <l>Then fetch new seed</l>
+                     <l>For the hand of the Sower.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">She of the Dancing Feet Sings</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">To Ottie Graham</hi>)</p>
+                  <lg>
+                     <l>“AND what would I do in heaven, pray,</l>
+                     <l>Me with my dancing feet,</l>
+                     <l>And limbs like apple boughs that sway</l>
+                     <l>When the gusty rain winds beat?</l>
+                     <l>And how would I thrive in a perfect place</l>
+                     <l>Where dancing would be sin,</l>
+                     <l>With not a man to love my face,</l>
+                     <l>Nor an arm to hold me in?</l>
+                     <l>The seraphs and the cherubim</l>
+                     <l>Would be too proud to bend</l>
+                     <l>To sing the faery tunes that brim</l>
+                     <l>My heart from end to end.</l>
+                     <l>The wistful angels down in hell</l>
+                     <l>Will smile to see my face,</l>
+                     <l>And understand, because they fell</l>
+                     <l>From that all-perfect place.”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Judas Iscariot</hi>
+                  </head>
+                  <lg>
+                     <l>I THINK when Judas’ mother heard</l>
+                     <l>His first faint cry the night</l>
+                     <l>That he was born, that worship stirred</l>
+                     <l>Her at the sound and sight.</l>
+                     <l>She thought his was as fair a frame</l>
+                     <l>As flesh and blood had worn;</l>
+                     <l>I think she made this lovely name</l>
+                     <l>For him—“Star of my morn.”</l>
+                     <l>As any mother’s son he grew</l>
+                     <l>From spring to crimson spring;</l>
+                     <l>I think his eyes were black, or blue,</l>
+                     <l>His hair curled like a ring.</l>
+                     <l>His mother’s heart-strings were a lute</l>
+                     <l>Whereon he all day played;</l>
+                     <l>She listened rapt, abandoned, mute,</l>
+                     <l>To every note he made.</l>
+                     <l>I think he knew the growing Christ,</l>
+                     <l>And played with Mary’s son,</l>
+                     <l>And where mere mortal craft sufficed,</l>
+                     <l>There Judas may have won.</l>
+                  </lg>
+                  <lg>
+                     <l>Perhaps he little cared or knew,</l>
+                     <l>So folly-wise is youth,</l>
+                     <l>That He whose hand his hand clung to</l>
+                     <l>Was flesh-embodied Truth;</l>
+                     <l>Until one day he heard young Christ,</l>
+                     <l>With far-off eyes agleam,</l>
+                     <l>Tell of a mystic, solemn tryst</l>
+                     <l>Between Him and a dream.</l>
+                     <l>And Judas listened, wonder-eyed,</l>
+                     <l>Until the Christ was through,</l>
+                     <l>Then said, “And I, though good betide,</l>
+                     <l>Or ill, will go with you.”</l>
+                     <l>And so he followed, heard Christ preach,</l>
+                     <l>Saw how by miracle</l>
+                     <l>The blind man saw, the dumb got speech,</l>
+                     <l>The leper found him well.</l>
+                     <l>And Judas in those holy hours</l>
+                     <l>Loved Christ, and loved Him much,</l>
+                     <l>And in his heart he sensed dead flowers</l>
+                     <l>Bloom at the Master’s touch.</l>
+                     <l>And when Christ felt the death hour creep</l>
+                     <l>With sullen, drunken lurch,</l>
+                     <l>He said to Peter, “Feed my sheep,</l>
+                     <l>And build my holy church.”</l>
+                  </lg>
+                  <lg>
+                     <l>He gave to each the special task</l>
+                     <l>That should be his to do,</l>
+                     <l>But reaching one, I hear him ask,</l>
+                     <l>“What shall I give to you?”</l>
+                     <l>Then Judas in his hot desire</l>
+                     <l>Said, “Give me what you will.”</l>
+                     <l>Christ spoke to him with words of fire,</l>
+                     <l>“Then, Judas, you must kill</l>
+                     <l>One whom you love, One who loves you</l>
+                     <l>As only God’s son can:</l>
+                     <l>This is the work for you to do</l>
+                     <l>To save the creature man.”</l>
+                     <l>“And men to come will curse your name,</l>
+                     <l>And hold you up to scorn;</l>
+                     <l>In all the world will be no shame</l>
+                     <l>Like yours; this is love’s thorn.</l>
+                     <l>It takes strong will of heart and soul,</l>
+                     <l>But man is under ban.</l>
+                     <l>Think, Judas, can you play this role</l>
+                     <l>In heaven’s mystic plan?”</l>
+                     <l>So Judas took the sorry part,</l>
+                     <l>Went out and spoke the word,</l>
+                     <l>And gave the kiss that broke his heart,</l>
+                     <l>But no one knew or heard.</l>
+                  </lg>
+                  <lg>
+                     <l>And no one knew what poison ate</l>
+                     <l>Into his palm that day,</l>
+                     <l>Where, bright and damned, the monstrous weight</l>
+                     <l>Of thirty white coins lay.</l>
+                     <l>It was not death that Judas found</l>
+                     <l>Upon a kindly tree;</l>
+                     <l>The man was dead long ere he bound</l>
+                     <l>His throat as final fee.</l>
+                     <l>And who can say if on that day</l>
+                     <l>When gates of pearl swung wide,</l>
+                     <l>Christ did not go His honored way</l>
+                     <l>With Judas by His side?</l>
+                     <l>I think somewhere a table round</l>
+                     <l>Owns Jesus as its head,</l>
+                     <l>And there the saintly twelve are found</l>
+                     <l>Who followed where He led.</l>
+                     <l>And Judas sits down with the rest,</l>
+                     <l>And none shrinks from His hand,</l>
+                     <l>For there the worst is as the best,</l>
+                     <l>And there they understand.</l>
+                     <l>And you may think of Judas, friend,</l>
+                     <l>As one who broke his word,</l>
+                  </lg>
+                  <lg>
+                     <l>Whose neck came to a bitter end</l>
+                     <l>For giving up his Lord.</l>
+                     <l>But I would rather think of him</l>
+                     <l>As the little Jewish lad</l>
+                     <l>Who gave young Christ heart, soul, and limb,</l>
+                     <l>And all the love he had.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">The Wise</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">For Alain Locke</hi>)</p>
+                  <lg>
+                     <l>DEAD men are wisest, for they know</l>
+                     <l>How far the roots of flowers go,</l>
+                     <l>How long a seed must rot to grow.</l>
+                     <l>Dead men alone bear frost and rain</l>
+                     <l>On throbless heart and heatless brain,</l>
+                     <l>And feel no stir of joy or pain.</l>
+                     <l>Dead men alone are satiate;</l>
+                     <l>They sleep and dream and have no weight,</l>
+                     <l>To curb their rest, of love or hate.</l>
+                     <l>Strange, men should flee their company,</l>
+                     <l>Or think me strange who long to be</l>
+                     <l>Wrapped in their cool immunity.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Mary, Mother of Christ</hi>
+                  </head>
+                  <lg>
+                     <l>THAT night she felt those searching hands</l>
+                     <l>Grip deep upon her breast,</l>
+                     <l>She laughed and sang a silly tune</l>
+                     <l>To lull her babe to rest;</l>
+                     <l>That night she kissed his coral lips</l>
+                     <l>How could she know the rest?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Dialogue</hi>
+                  </head>
+                  <lg>
+                     <l>Soul:</l>
+                     <l>THERE is no stronger thing than song;</l>
+                     <l>In sun and rain and leafy trees</l>
+                     <l>It wafts the timid soul along</l>
+                     <l>On crested waves of melodies.</l>
+                     <l>Body: But leaves the body bare to feed</l>
+                     <l>Its hunger with its very need.</l>
+                     <l>Soul:  Although the frenzied belly writhes,</l>
+                     <l>Yet render up in song your tithes;</l>
+                     <l>Song is the weakling’s oaken rod,</l>
+                     <l>His Jacob’s ladder dropped from God.</l>
+                     <l>Body: Song is not drink; song is not meat,</l>
+                     <l>Nor strong, thick shoes for naked feet.</l>
+                     <l>Soul:  Who sings by unseen hands is fed</l>
+                     <l>With honeyed milk and warm, white bread;</l>
+                     <l>His ways in pastures green are led,</l>
+                     <l>And perfumed oil illumes his head;</l>
+                  </lg>
+                  <lg>
+                     <l>His cup with wine is surfeited,</l>
+                     <l>And when the last low note is read,</l>
+                     <l>He sings among the lipless dead</l>
+                     <l>With singing stars to crown his head.</l>
+                     <l>Body: But will song buy a wooden box</l>
+                     <l>The length of me from toe to crown,</l>
+                     <l>To keep me safe from carrion flocks</l>
+                     <l>When singing’s done and lyre laid down?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">In Memory of Col. Charles Young</hi>
+                  </head>
+                  <lg>
+                     <l>ALONG the shore the tall, thin grass</l>
+                     <l>That fringes that dark river,</l>
+                     <l>While sinuously soft feet pass,</l>
+                     <l>Begins to bleed and quiver.</l>
+                     <l>The great dark voice breaks with a sob</l>
+                     <l>Across the womb of night;</l>
+                     <l>Above your grave the tom-toms throb,</l>
+                     <l>And the hills are weird with light.</l>
+                     <l>The great dark heart is like a well</l>
+                     <l>Drained bitter by the sky,</l>
+                     <l>And all the honeyed lies they tell</l>
+                     <l>Come there to thirst and die.</l>
+                     <l>No lie is strong enough to kill</l>
+                     <l>The roots that work below;</l>
+                     <l>From your rich dust and slaughtered will</l>
+                     <l>A tree with tongues will grow.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">To My Friends</hi>
+                  </head>
+                  <lg>
+                     <l>YOU feeble few that hold me somewhat more</l>
+                     <l>Than all I am; base clay and spittle joined</l>
+                     <l>To shape an aimless whim substantial; coined</l>
+                     <l>Amiss one idle hour, this heart, though poor,—</l>
+                     <l>O golden host I count upon the ends</l>
+                     <l>Of one bare hand, with fingers still to spare,—</l>
+                     <l>Is rich enough for this: to harbor there</l>
+                     <l>In opulence its frugal meed of friends.</l>
+                     <l>Let neither lose his faith, lest by such loss</l>
+                     <l>Each find insufferable his daily cross.</l>
+                     <l>And be not less immovable to me,</l>
+                     <l>Not less love-leal and staunch, than my heart is.</l>
+                     <l>In brief, these fine heroics come to this,</l>
+                     <l>My friends: if you are true, I needs must be.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Gods</hi>
+                  </head>
+                  <lg>
+                     <l>I FAST and pray and go to church,</l>
+                     <l>And put my penny in,</l>
+                     <l>But God’s not fooled by such slight tricks,</l>
+                     <l>And I’m not saved from sin.</l>
+                     <l>I cannot hide from Him the gods</l>
+                     <l>That revel in my heart,</l>
+                     <l>Nor can I find an easy word</l>
+                     <l>To tell them to depart:</l>
+                     <l>God’s alabaster turrets gleam</l>
+                     <l>Too high for me to win,</l>
+                     <l>Unless He turns His face and lets</l>
+                     <l>Me bring my own gods in.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">To John Keats, Poet. At Spring Time</hi>[A]</head>
+                  <p rend="justify">(<hi rend="italic">For Carl Van Vechten</hi>)</p>
+                  <lg>
+                     <l>I CANNOT hold my peace, John Keats;</l>
+                     <l>There never was a spring like this;</l>
+                     <l>It is an echo, that repeats</l>
+                     <l>My last year’s song and next year’s bliss.</l>
+                     <l>I know, in spite of all men say</l>
+                     <l>Of Beauty, you have felt her most.</l>
+                     <l>Yea, even in your grave her way</l>
+                     <l>Is laid. Poor, troubled, lyric ghost,</l>
+                     <l>Spring never was so fair and dear</l>
+                     <l>As Beauty makes her seem this year.</l>
+                     <l>I cannot hold my peace, John Keats,</l>
+                     <l>I am as helpless in the toil</l>
+                     <l>Of Spring as any lamb that bleats</l>
+                     <l>To feel the solid earth recoil</l>
+                     <l>Beneath his puny legs. Spring beats</l>
+                     <l>Her tocsin call to those who love her,</l>
+                     <l>And lo! the dogwood petals cover</l>
+                  </lg>
+                  <lg>
+                     <l>Her breast with drifts of snow, and sleek</l>
+                     <l>White gulls fly screaming to her, and hover</l>
+                     <l>About her shoulders, and kiss her cheek,</l>
+                     <l>While white and purple lilacs muster</l>
+                     <l>A strength that bears them to a cluster</l>
+                     <l>Of color and odor; for her sake</l>
+                     <l>All things that slept are now awake.</l>
+                     <l>And you and I, shall we lie still,</l>
+                     <l>John Keats, while Beauty summons us?</l>
+                     <l>Somehow I feel your sensitive will</l>
+                     <l>Is pulsing up some tremulous</l>
+                     <l>Sap road of a maple tree, whose leaves</l>
+                     <l>Grow music as they grow, since your</l>
+                     <l>Wild voice is in them, a harp that grieves</l>
+                     <l>For life that opens death’s dark door.</l>
+                     <l>Though dust, your fingers still can push</l>
+                     <l>The Vision Splendid to a birth,</l>
+                     <l>Though now they work as grass in the hush</l>
+                     <l>Of the night on the broad sweet page of the earth.</l>
+                     <l>“John Keats is dead,” they say, but I</l>
+                     <l>Who hear your full insistent cry</l>
+                     <l>In bud and blossom, leaf and tree,</l>
+                     <l>Know John Keats still writes poetry.</l>
+                  </lg>
+                  <lg>
+                     <l>And while my head is earthward bowed</l>
+                     <l>To read new life sprung from your shroud,</l>
+                     <l>Folks seeing me must think it strange</l>
+                     <l>That merely spring should so derange</l>
+                     <l>My mind. They do not know that you,</l>
+                     <l>John Keats, keep revel with me, too.</l>
+                  </lg>
+                  <p rend="justify">[A]  Spring, 1924</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">On Going</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">For Willard Johnson</hi>)</p>
+                  <lg>
+                     <l>A GRAVE is all too weak a thing</l>
+                     <l>To hold my fancy long;</l>
+                     <l>I’ll bear a blossom with the spring,</l>
+                     <l>Or be a blackbird’s song,</l>
+                     <l>I think that I shall fade with ease,</l>
+                     <l>Melt into earth like snow,</l>
+                     <l>Be food for hungry, growing trees,</l>
+                     <l>Or help the lilies blow.</l>
+                     <l>And if my love should lonely walk,</l>
+                     <l>Quite of my nearness fain,</l>
+                     <l>I may come back to her, and talk</l>
+                     <l>In liquid words of rain.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Harsh World That Lashest Me</hi>
+                  </head>
+                  <p rend="justify">(<hi rend="italic">For Walter White</hi>)</p>
+                  <lg>
+                     <l>HARSH World that lashest me each day,</l>
+                     <l>Dub me not cowardly because</l>
+                     <l>I seem to find no sudden way</l>
+                     <l>To throttle you or clip your claws.</l>
+                     <l>No force compels me to the wound</l>
+                     <l>Whereof my body bears the scar;</l>
+                     <l>Although my feet are on the ground,</l>
+                     <l>Doubt not my eyes are on a star.</l>
+                     <l>You cannot keep me captive, World,</l>
+                     <l>Entrammeled, chained, spit on, and spurned.</l>
+                     <l>More free than all your flags unfurled,</l>
+                     <l>I give my body to be burned.</l>
+                     <l>I mount my cross because I will,</l>
+                     <l>I drink the hemlock which you give</l>
+                     <l>For wine which you withhold—and still,</l>
+                     <l>Because I will not die, I live.</l>
+                  </lg>
+                  <lg>
+                     <l>I live because an ember in</l>
+                     <l>Me smoulders to regain its fire,</l>
+                     <l>Because what is and what has been</l>
+                     <l>Not yet have conquered my desire.</l>
+                     <l>I live to prove the groping clod</l>
+                     <l>Is surely more than simple dust;</l>
+                     <l>I live to see the breath of God</l>
+                     <l>Beatify the carnal crust.</l>
+                     <l>But when I will, World, I can go,</l>
+                     <l>Though triple bronze should wall me round,</l>
+                     <l>Slip past your guard as swift as snow,</l>
+                     <l>Translated without pain or sound.</l>
+                     <l>Within myself is lodged the key</l>
+                     <l>To that vast room of couches laid</l>
+                     <l>For those too proud to live and see</l>
+                     <l>Their dreams of light eclipsed in shade.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Requiescam</hi>
+                  </head>
+                  <lg>
+                     <l>
+                        <hi rend="italic">I AM for sleeping and forgetting</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">All that has gone before;</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">I am for lying still and letting</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Who will beat at my door;</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">I would my life’s cold sun were setting</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">To rise for me no more.</hi>
+                     </l>
+                  </lg>
+                  <p rend="justify">TRANSCRIBER’S NOTE:</p>
+                  <p rend="justify">An incorrect page number in the Table of Contents has been corrected.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
