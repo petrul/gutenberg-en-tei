@@ -1,0 +1,2710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Book of Old Ballads — Volume 1</title>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-03T19:09:59Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/a/ABookOfOldBallads—Volume1_2005.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2024-01-03T19:09:59Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>A Book of Old Ballads — Volume 1</head>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/a/ABookOfOldBallads—Volume1_2005.odt</p>
+         <head>A BOOK OF OLD BALLADS</head>
+         <subtitle>Selected and with an Introduction</subtitle>
+         <subtitle>by</subtitle>
+         <pb/>
+         <div type="div1">
+            <head>A Book of Old Ballads — Volume 1</head>
+            <pb/>
+            <div type="div2">
+               <head>BEVERLEY NICHOLS</head>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l>001.jpg (14K)</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACKNOWLEDGMENTS</head>
+               <lg>
+                  <l>The thanks and acknowledgments of the publishers are due to the</l>
+                  <l>following: to Messrs. B. Feldman &amp; Co., 125 Shaftesbury Avenue, W.C. 2,</l>
+                  <l>for "It's a Long Way to Tipperary"; to Mr. Rudyard Kipling and Messrs.</l>
+                  <l>Methuen &amp; Co. for "Mandalay" from <hi rend="italic">Barrack Room Ballads</hi>; and to</l>
+                  <l>the Executors of the late Oscar Wilde for "The Ballad of Reading Gaol."</l>
+               </lg>
+               <lg>
+                  <l>"The Earl of Mar's Daughter", "The Wife of Usher's Well", "The Three</l>
+                  <l>Ravens", "Thomas the Rhymer", "Clerk Colvill", "Young Beichen", "May</l>
+                  <l>Collin", and "Hynd Horn" have been reprinted from <hi rend="italic">English and</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Scottish Ballads</hi>, edited by Mr. G. L. Kittredge and the late Mr. F.</l>
+                  <l>J. Child, and published by the Houghton Mifflin Company.</l>
+               </lg>
+               <p rend="justify">The remainder of the ballads in this book, with the exception of "John<lb/>Brown's Body", are from <hi rend="italic">Percy's Reliques</hi>, Volumes I and II.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CONTENTS</head>
+               <lg>
+                  <l>FOREWORD</l>
+                  <l>MANDALAY</l>
+                  <l>THE FROLICKSOME DUKE</l>
+                  <l>THE KNIGHT AND SHEPHERD'S DAUGHTER</l>
+                  <l>KING ESTMERE</l>
+                  <l>KING JOHN AND THE ABBOT OF CANTERBURY</l>
+                  <l>BARBARA ALLEN'S CRUELTY</l>
+                  <l>FAIR ROSAMOND</l>
+                  <l>ROBIN HOOD AND GUY OF GISBORNE</l>
+                  <l>THE BOY AND THE MANTLE</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">The source of these ballads will be found in the Appendix at the end</hi>
+                  <lb/>
+                  <hi rend="italic">of this book.</hi>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LIST OF COLOUR PLATES</head>
+               <lg>
+                  <l>KING ESTMERE</l>
+                  <l>BARBARA ALLEN'S CRUELTY</l>
+                  <l>FAIR ROSAMOND</l>
+                  <l>THE BOY AND THE MANTLE</l>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FOREWORD</head>
+               <div type="div3">
+                  <head>By</head>
+               </div>
+               <div type="div3">
+                  <head>Beverley Nichols</head>
+                  <lg>
+                     <l>These poems are the very essence of the British spirit. They are, to</l>
+                     <l>literature, what the bloom of the heather is to the Scot, and the</l>
+                     <l>smell of the sea to the Englishman. All that is beautiful in the old</l>
+                     <l>word "patriotism" ... a word which, of late, has been twisted to such</l>
+                     <l>ignoble purposes ... is latent in these gay and full-blooded measures.</l>
+                  </lg>
+                  <lg>
+                     <l>But it is not only for these reasons that they are so valuable to the</l>
+                     <l>modern spirit. It is rather for their tonic qualities that they should</l>
+                     <l>be prescribed in 1934. The post-war vintage of poetry is the thinnest</l>
+                     <l>and the most watery that England has ever produced. But here, in these</l>
+                     <l>ballads, are great draughts of poetry which have lost none of their</l>
+                     <l>sparkle and none of their bouquet.</l>
+                  </lg>
+                  <lg>
+                     <l>It is worth while asking ourselves why this should be--why these poems</l>
+                     <l>should "keep", apparently for ever, when the average modern poem turns</l>
+                     <l>sour overnight. And though all generalizations are dangerous I believe</l>
+                     <l>there is one which explains our problem, a very simple one.... namely,</l>
+                     <l>that the eyes of the old ballad-singers were turned outwards, while the</l>
+                     <l>eyes of the modern lyric-writer are turned inwards.</l>
+                  </lg>
+                  <lg>
+                     <l>The authors of the old ballads wrote when the world was young, and</l>
+                     <l>infinitely exciting, when nobody knew what mystery might not lie on the</l>
+                     <l>other side of the hill, when the moon was a golden lamp, lit by a</l>
+                     <l>personal God, when giants and monsters stalked, without the slightest</l>
+                     <l>doubt, in the valleys over the river. In such a world, what could a man</l>
+                     <l>do but stare about him, with bright eyes, searching the horizon, while</l>
+                     <l>his heart beat fast in the rhythm of a song?</l>
+                  </lg>
+                  <lg>
+                     <l>But now--the mysteries have gone. We know, all too well, what lies on</l>
+                     <l>the other side of the hill. The scientists have long ago puffed out,</l>
+                     <l>scornfully, the golden lamp of the night ... leaving us in the uttermost</l>
+                     <l>darkness. The giants and the monsters have either skulked away or have</l>
+                     <l>been tamed, and are engaged in writing their memoirs for the popular</l>
+                     <l>press. And so, in a world where everything is known (and nothing</l>
+                     <l>understood), the modern lyric-writer wearily averts his eyes, and stares</l>
+                     <l>into his own heart.</l>
+                  </lg>
+                  <lg>
+                     <l>That way madness lies. All madmen are ferocious egotists, and so are all</l>
+                     <l>modern lyric-writers. That is the first and most vital difference</l>
+                     <l>between these ballads and their modern counterparts. The old</l>
+                     <l>ballad-singers hardly ever used the first person singular. The modern</l>
+                     <l>lyric-writer hardly ever uses anything else.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                  </head>
+                  <p rend="justify">This is really such an important point that it is worth labouring.</p>
+                  <lg>
+                     <l>Why is ballad-making a lost art? That it <hi rend="italic">is</hi>  a lost art there can</l>
+                     <l>be no question. Nobody who is painfully acquainted with the rambling,</l>
+                     <l>egotistical pieces of dreary versification, passing for modern</l>
+                     <l>"ballads", will deny it.</l>
+                  </lg>
+                  <lg>
+                     <l>Ballad-making is a lost art for a very simple reason. Which is, that we</l>
+                     <l>are all, nowadays, too sicklied o'er with the pale cast of thought to</l>
+                     <l>receive emotions directly, without self-consciousness. If we are</l>
+                     <l>wounded, we are no longer able to sing a song about a clean sword, and a</l>
+                     <l>great cause, and a black enemy, and a waving flag. No--we must needs go</l>
+                     <l>into long descriptions of our pain, and abstruse calculations about its</l>
+                     <l>effect upon our souls.</l>
+                  </lg>
+                  <lg>
+                     <l>It is not "we" who have changed. It is life that has changed. "We" are</l>
+                     <l>still men, with the same legs, arms and eyes as our ancestors. But life</l>
+                     <l>has so twisted things that there are no longer any clean swords nor</l>
+                     <l>great causes, nor black enemies. And the flags do not know which way to</l>
+                     <l>flutter, so contrary are the winds of the modern world. All is doubt.</l>
+                     <l>And doubt's colour is grey.</l>
+                  </lg>
+                  <lg>
+                     <l>Grey is no colour for a ballad. Ballads are woven from stuff of</l>
+                     <l>primitive hue ... the red blood gushing, the gold sun shining, the green</l>
+                     <l>grass growing, the white snow falling. Never will you find grey in a</l>
+                     <l>ballad. You will find the black of the night and the raven's wing,</l>
+                     <l>and the silver of a thousand stars. You will find the blue of many</l>
+                     <l>summer skies. But you will not find grey.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                  </head>
+                  <lg>
+                     <l>That is why ballad-making is a lost art. Or almost a lost art. For even</l>
+                     <l>in this odd and musty world of phantoms which we call the twentieth</l>
+                     <l>century, there are times when a man finds himself in a certain place at</l>
+                     <l>a certain hour and something happens to him which takes him out of</l>
+                     <l>himself. And a song is born, simply and sweetly, a song which other</l>
+                     <l>men can sing, for all time, and forget themselves.</l>
+                  </lg>
+                  <lg>
+                     <l>Such a song was once written by a master at my old school, Marlborough.</l>
+                     <l>He was a Scot. But he loved Marlborough with the sort of love which the</l>
+                     <l>old ballad-mongers must have had-the sort of love which takes a man on</l>
+                     <l>wings, far from his foolish little body.</l>
+                  </lg>
+                  <p rend="justify">He wrote a song called "The Scotch Marlburian".</p>
+                  <p rend="justify">Here it is:--</p>
+                  <lg>
+                     <l>  Oh Marlborough, she's a toun o' touns</l>
+                     <l>  We will say that and mair,</l>
+                     <l>  We that ha' walked alang her douns</l>
+                     <l>  And snuffed her Wiltshire air.</l>
+                     <l>  A weary way ye'll hae to tramp</l>
+                     <l>  Afore ye match the green</l>
+                     <l>  O' Savernake and Barbery Camp</l>
+                     <l>  And a' that lies atween!</l>
+                  </lg>
+                  <lg>
+                     <l>The infinite beauty of that phrase ... "and a' that lies atween"! The</l>
+                     <l>infinite beauty as it is roared by seven hundred young throats in</l>
+                     <l>unison! For in that phrase there drifts a whole pageant of boyhood--the</l>
+                     <l>sound of cheers as a race is run on a stormy day in March, the tolling</l>
+                     <l>of the Chapel bell, the crack of ball against bat, the sighs of sleep</l>
+                     <l>in a long white dormitory.</l>
+                  </lg>
+                  <lg>
+                     <l>But you may say "What is all this to me? I wasn't at Maryborough. I</l>
+                     <l>don't like schoolboys ... they strike me as dirty, noisy, and usually</l>
+                     <l>foul-minded. Why should I go into raptures about such a song, which</l>
+                     <l>seems only to express a highly debatable approval of a certain method of</l>
+                     <l>education?"</l>
+                  </lg>
+                  <lg>
+                     <l>If you are asking yourself that sort of question, you are obviously in</l>
+                     <l>very grave need of the tonic properties of this book. For after you have</l>
+                     <l>read it, you will wonder why you ever asked it.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IV</label>
+                  </head>
+                  <lg>
+                     <l>I go back and back to the same point, at the risk of boring you to</l>
+                     <l>distraction. For it is a point which has much more "to" it than the</l>
+                     <l>average modern will care to admit, unless he is forced to do so.</l>
+                  </lg>
+                  <p rend="justify">You remember the generalization about the eyes ... how they used to look<lb/>
+                     <hi rend="italic">out</hi>, but now look <hi rend="italic">in</hi>? Well, listen to this....</p>
+                  <lg>
+                     <l>  <hi rend="italic">I'm</hi>  feeling blue,</l>
+                     <l>  <hi rend="italic">I</hi>  don't know what to do,</l>
+                     <l>  'Cos <hi rend="italic">I</hi>  love you</l>
+                     <l>  And you don't love <hi rend="italic">me</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>The above masterpiece is, as far as I am aware, imaginary. But it</l>
+                     <l>represents a sort of <hi rend="italic">reductio ad absurdum</hi>  of thousands of lyrics</l>
+                     <l>which have been echoing over the post-war world. Nearly all these lyrics</l>
+                     <l>are melancholy, with the profound and primitive melancholy of the negro</l>
+                     <l>swamp, and they are all violently egotistical.</l>
+                  </lg>
+                  <lg>
+                     <l>Now this, in the long run, is an influence of far greater evil than one</l>
+                     <l>would be inclined at first to admit. If countless young men, every</l>
+                     <l>night, are to clasp countless young women to their bosoms, and rotate</l>
+                     <l>over countless dancing-floors, muttering "I'm feeling blue ... <hi rend="italic">I</hi>
+                     </l>
+                     <l>don't know what to do", it is not unreasonable to suppose that they will</l>
+                     <l>subconsciously apply some of the lyric's mournful egotism to themselves.</l>
+                  </lg>
+                  <lg>
+                     <l>Anybody who has even a nodding acquaintance with modern psychological</l>
+                     <l>science will be aware of the significance of "conditioning", as applied</l>
+                     <l>to the human temperament. The late M. Coué "conditioned" people into</l>
+                     <l>happiness by making them repeat, over and over again, the phrase "Every</l>
+                     <l>day in every way I grow better and better and better."</l>
+                  </lg>
+                  <lg>
+                     <l>The modern lyric-monger exactly reverses M. Coué's doctrine. He makes</l>
+                     <l>the patient repeat "Every night, with all my might, I grow worse and</l>
+                     <l>worse and worse." Of course the "I" of the lyric-writer is an imaginary</l>
+                     <l>"I", but if any man sings "<hi rend="italic">I'm</hi>  feeling blue", often enough, to a</l>
+                     <l>catchy tune, he will be a superman if he does not eventually apply that</l>
+                     <l>"I" to himself.</l>
+                  </lg>
+                  <lg>
+                     <l>But the "blueness" is really beside the point. It is the <hi rend="italic">egotism</hi>
+                     </l>
+                     <l>of the modern ballad which is the trouble. Even when, as they</l>
+                     <l>occasionally do, the modern lyric-writers discover, to their</l>
+                     <l>astonishment, that they are feeling happy, they make the happiness such</l>
+                     <l>a personal issue that half its tonic value is destroyed. It is not, like</l>
+                     <l>the old ballads, just an outburst of delight, a sudden rapture at the</l>
+                     <l>warmth of the sun, or the song of the birds, or the glint of moonlight</l>
+                     <l>on a sword, or the dew in a woman's eyes. It is not an emotion so sweet</l>
+                     <l>and soaring that self is left behind, like a dull chrysalis, while the</l>
+                     <l>butterfly of the spirit flutters free. No ... the chrysalis is never</l>
+                     <l>left behind, the "I", "I", "I", continues, in a maddening monotone. And</l>
+                     <l>we get this sort of thing....</l>
+                  </lg>
+                  <lg>
+                     <l>  <hi rend="italic">I</hi>  want to be happy,</l>
+                     <l>  But <hi rend="italic">I</hi>  can't be happy</l>
+                     <l>  Till <hi rend="italic">I've</hi>  made you happy too.</l>
+                  </lg>
+                  <lg>
+                     <l>And that, if you please, is one of the jolliest lyrics of the last</l>
+                     <l>decade! That was a song which made us all smile and set all our feet</l>
+                     <l>dancing!</l>
+                  </lg>
+                  <lg>
+                     <l>Even when their tale was woven out of the stuff of tragedy, the old</l>
+                     <l>ballads were not tarnished with such morbid speculations. Read the tale</l>
+                     <l>of the beggar's daughter of Bethnal Green. One shudders to think what a</l>
+                     <l>modern lyric-writer would make of it. We should all be in tears before</l>
+                     <l>the end of the first chorus.</l>
+                  </lg>
+                  <lg>
+                     <l>But here, a lovely girl leaves her blind father to search for fortune.</l>
+                     <l>She has many adventures, and in the end, she marries a knight. The</l>
+                     <l>ballad ends with words of almost childish simplicity, but they are words</l>
+                     <l>which ring with the true tone of happiness:--</l>
+                  </lg>
+                  <lg>
+                     <l>  Thus was the feast ended with joye and delighte</l>
+                     <l>  A bridegroome most happy then was the young knighte</l>
+                     <l>  In joy and felicitie long lived hee</l>
+                     <l>  All with his faire ladye, the pretty Bessee.</l>
+                  </lg>
+                  <lg>
+                     <l>I said that the words were of almost childish simplicity. But the</l>
+                     <l>student of language, and the would-be writer, might do worse than study</l>
+                     <l>those words, if only to see how the cumulative effect of brightness and</l>
+                     <l>radiance is gained. You may think the words are artless, but just</l>
+                     <l>ponder, for a moment, the number of brilliant verbal symbols which are</l>
+                     <l>collected into that tiny verse. There are only four lines. But those</l>
+                     <l>lines contain these words ...</l>
+                  </lg>
+                  <p rend="justify">Feast, joy, delight, bridegroom, happy, joy, young, felicity, fair,<lb/>pretty.</p>
+                  <lg>
+                     <l>Is that quite so artless, after all? Is it not rather like an old and</l>
+                     <l>primitive plaque, where colour is piled on colour till you would say</l>
+                     <l>the very wood will burst into flame ... and yet, the total effect is one</l>
+                     <l>of happy simplicity?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>V</label>
+                  </head>
+                  <lg>
+                     <l>How were the early ballads born? Who made them? One man or many? Were</l>
+                     <l>they written down, when they were still young, or was it only after the</l>
+                     <l>lapse of many generations, when their rhymes had been sharpened and</l>
+                     <l>their metres polished by constant repetition, that they were finally</l>
+                     <l>copied out?</l>
+                  </lg>
+                  <lg>
+                     <l>To answer these questions would be one of the most fascinating tasks</l>
+                     <l>which the detective in letters could set himself. Grimm, listening</l>
+                     <l>in his fairyland, heard some of the earliest ballads, loved them,</l>
+                     <l>pondered on them, and suddenly startled the world by announcing that</l>
+                     <l>most ballads were not the work of a single author, but of the people at</l>
+                     <l>large. <hi rend="italic">Das Volk dichtet</hi>, he said. And that phrase got him into a</l>
+                     <l>lot of trouble. People told him to get back to his fairyland and not</l>
+                     <l>make such ridiculous suggestions. For how, they asked, could a whole</l>
+                     <l>people make a poem? You might as well tell a thousand men to make a</l>
+                     <l>tune, limiting each of them to one note!</l>
+                  </lg>
+                  <lg>
+                     <l>To invest Grimm's words with such an intention is quite unfair.</l>
+                     <l>[Footnote:  For a discussion of Grimm's theories, together with much</l>
+                     <l>interesting speculation on the origin of the ballads, the reader should</l>
+                     <l>study the admirable introduction to <hi rend="italic">English and Scottish Popular</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Ballads</hi>, published by George Harrap &amp; Co., Ltd.] Obviously a</l>
+                     <l>multitude of people could not, deliberately, make a single poem any more</l>
+                     <l>than a multitude of people could, deliberately, make a single picture,</l>
+                     <l>one man doing the nose, one man an eye and so on. Such a suggestion is</l>
+                     <l>grotesque, and Grimm never meant it. If I might guess at what he meant,</l>
+                     <l>I would suggest that he was thinking that the origin of ballads must</l>
+                     <l>have been similar to the origin of the dance, (which was probably the</l>
+                     <l>earliest form of aesthetic expression known to man).</l>
+                  </lg>
+                  <lg>
+                     <l>The dance was invented because it provided a means of prolonging ecstasy</l>
+                     <l>by art. It may have been an ecstasy of sex or an ecstasy of victory ...</l>
+                     <l>that doesn't matter. The point is that it gave to a group of people an</l>
+                     <l>ordered means of expressing their delight instead of just leaping about</l>
+                     <l>and making loud cries, like the animals. And you may be sure that as the</l>
+                     <l>primitive dance began, there was always some member of the tribe a</l>
+                     <l>little more agile than the rest--some man who kicked a little higher or</l>
+                     <l>wriggled his body in an amusing way. And the rest of them copied him,</l>
+                     <l>and incorporated his step into their own.</l>
+                  </lg>
+                  <p rend="justify">Apply this analogy to the origin of ballads. It fits perfectly.</p>
+                  <lg>
+                     <l>There has been a successful raid, or a wedding, or some great deed of</l>
+                     <l>daring, or some other phenomenal thing, natural or supernatural. And now</l>
+                     <l>that this day, which will ever linger in their memories, is drawing to</l>
+                     <l>its close, the members of the tribe draw round the fire and begin to</l>
+                     <l>make merry. The wine passes ... and tongues are loosened. And someone</l>
+                     <l>says a phrase which has rhythm and a sparkle to it, and the phrase is</l>
+                     <l>caught up and goes round the fire, and is repeated from mouth to mouth.</l>
+                     <l>And then the local wit caps it with another phrase and a rhyme is born.</l>
+                     <l>For there is always a local wit in every community, however primitive.</l>
+                     <l>There is even a local wit in the monkey house at the zoo.</l>
+                  </lg>
+                  <lg>
+                     <l>And once you have that single rhyme and that little piece of rhythm, you</l>
+                     <l>have the genesis of the whole thing. It may not be worked out that</l>
+                     <l>night, nor even by the men who first made it. The fire may long have</l>
+                     <l>died before the ballad is completed, and tall trees may stand over the</l>
+                     <l>men and women who were the first to tell the tale. But rhyme and rhythm</l>
+                     <l>are indestructible, if they are based on reality. "Not marble nor the</l>
+                     <l>gilded monuments of princes shall outlive this powerful rhyme."</l>
+                  </lg>
+                  <lg>
+                     <l>And so it is that some of the loveliest poems in the language will ever</l>
+                     <l>remain anonymous. Needless to say, <hi rend="italic">all</hi>  the poems are not</l>
+                     <l>anonymous. As society became more civilized it was inevitable that the</l>
+                     <l>peculiar circumstances from which the earlier ballads sprang should</l>
+                     <l>become less frequent. Nevertheless, about nearly all of the ballads</l>
+                     <l>there is "a common touch", as though even the most self-conscious author</l>
+                     <l>had drunk deep of the well of tradition, that sparkling well in which so</l>
+                     <l>much beauty is distilled.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VI</label>
+                  </head>
+                  <lg>
+                     <l>But though the author or authors of most of the ballads may be lost in</l>
+                     <l>the lists of time, we know a good deal about the minstrels who sang</l>
+                     <l>them. And it is a happy thought that those minstrels were such</l>
+                     <l>considerable persons, so honourably treated, so generously esteemed.</l>
+                     <l>The modern mind, accustomed to think of the singer of popular songs</l>
+                     <l>either as a highly paid music-hall artist, at the top of the ladder, or</l>
+                     <l>a shivering street-singer, at the bottom of it, may find it difficult to</l>
+                     <l>conceive of a minstrel as a sort of ambassador of song, moving from</l>
+                     <l>court to court with dignity and ceremony.</l>
+                  </lg>
+                  <lg>
+                     <l>Yet this was actually the case. In the ballad of King Estmere, for</l>
+                     <l>example, we see the minstrel finely mounted, and accompanied by a</l>
+                     <l>harpist, who sings his songs for him. This minstrel, too, moves among</l>
+                     <l>kings without any ceremony. As Percy has pointed out, "The further we</l>
+                     <l>carry our enquiries back, the greater respect we find paid to the</l>
+                     <l>professors of poetry and music among all the Celtic and Gothic nations.</l>
+                     <l>Their character was deemed so sacred that under its sanction our famous</l>
+                     <l>King Alfred made no scruple to enter the Danish camp, and was at once</l>
+                     <l>admitted to the king's headquarters."</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">And even so late as the time of Froissart, we have minstrels and</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">heralds mentioned together, as those who might securely go into an</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">enemy's country.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>The reader will perhaps forgive me if I harp back, once more, to our</l>
+                     <l>present day and age, in view of the quite astonishing change in national</l>
+                     <l>psychology which that revelation implies. Minstrels and heralds were</l>
+                     <l>once allowed safe conduct into the enemy's country, in time of war. Yet,</l>
+                     <l>in the last war, it was considered right and proper to hiss the work of</l>
+                     <l>Beethoven off the stage, and responsible newspapers seriously suggested</l>
+                     <l>that never again should a note of German music, of however great</l>
+                     <l>antiquity, be heard in England! We are supposed to have progressed</l>
+                     <l>towards internationalism, nowadays. Whereas, in reality, we have grown</l>
+                     <l>more and more frenziedly national. We are very far behind the age of</l>
+                     <l>Froissart, when there was a true internationalism--the internationalism</l>
+                     <l>of art.</l>
+                  </lg>
+                  <lg>
+                     <l>To some of us that is still a very real internationalism. When we hear a</l>
+                     <l>Beethoven sonata we do not think of it as issuing from the brain of a</l>
+                     <l>"Teuton" but as blowing from the eternal heights of music whose winds</l>
+                     <l>list nothing of frontiers.</l>
+                  </lg>
+                  <lg>
+                     <l>Man <hi rend="italic">needs</hi>  song, for he is a singing animal. Moreover, he needs</l>
+                     <l>communal song, for he is a social animal. The military authorities</l>
+                     <l>realized this very cleverly, and they encouraged the troops, during the</l>
+                     <l>war, to sing on every possible occasion. Crazy pacifists, like myself,</l>
+                     <l>may find it almost unbearably bitter to think that on each side of</l>
+                     <l>various frontiers young men were being trained to sing themselves to</l>
+                     <l>death, in a struggle which was hideously impersonal, a struggle of</l>
+                     <l>machinery, in which the only winners were the armament manufacturers.</l>
+                     <l>And crazy pacifists might draw a very sharp line indeed between the</l>
+                     <l>songs which celebrated real personal struggles in the tiny wars of the</l>
+                     <l>past, and the songs which were merely the prelude to thousands of</l>
+                     <l>puzzled young men suddenly finding themselves choking in chlorine gas,</l>
+                     <l>in the wars of the present.</l>
+                  </lg>
+                  <lg>
+                     <l>But even the craziest pacifist could not fail to be moved by some of the</l>
+                     <l>ballads of the last war. To me, "Tipperary" is still the most moving</l>
+                     <l>tune in the world. It happens to be a very good tune, from the</l>
+                     <l>musician's point of view, a tune that Handel would not have been ashamed</l>
+                     <l>to write, but that is not the point. Its emotional qualities are due to</l>
+                     <l>its associations. Perhaps that is how it has always been, with ballads.</l>
+                     <l>From the standard of pure aesthetics, one ought not to consider</l>
+                     <l>"associations" in judging a poem or a tune, but with a song like</l>
+                     <l>"Tipperary" you would be an inhuman prig if you didn't. We all have our</l>
+                     <l>"associations" with this particular tune. For me, it recalls a window in</l>
+                     <l>Hampstead, on a grey day in October 1914. I had been having the measles,</l>
+                     <l>and had not been allowed to go back to school. Then suddenly, down the</l>
+                     <l>street, that tune echoed. And they came marching, and marching, and</l>
+                     <l>marching. And they were all so happy.</l>
+                  </lg>
+                  <p rend="justify">So happy.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VII</label>
+                  </head>
+                  <lg>
+                     <l>"Tipperary" is a true ballad, which is why it is included in this book.</l>
+                     <l>So is "John Brown's Body". They were not written as ballads but they</l>
+                     <l>have been promoted to that proud position by popular vote.</l>
+                  </lg>
+                  <lg>
+                     <l>It will now be clear, from the foregoing remarks, that there are</l>
+                     <l>thousands of poems, labelled "ballads" from the eighteenth century,</l>
+                     <l>through the romantic movement, and onwards, which are not ballads at</l>
+                     <l>all. Swinburne's ballads, which so shocked our grandparents, bore about</l>
+                     <l>as much relation to the true ballads as a vase of wax fruit to a</l>
+                     <l>hawker's barrow. They were lovely patterns of words, woven like some</l>
+                     <l>exquisite, foaming lace, but they were Swinburne, Swinburne all the</l>
+                     <l>time. They had nothing to do with the common people. The common people</l>
+                     <l>would not have understood a word of them.</l>
+                  </lg>
+                  <lg>
+                     <l>Ballads <hi rend="italic">must</hi>  be popular. And that is why it will always remain</l>
+                     <l>one of the weirdest paradoxes of literature that the only man, except</l>
+                     <l>Kipling, who has written a true ballad in the last fifty years is the</l>
+                     <l>man who despised the people, who shrank from them, and jeered at them,</l>
+                     <l>from his little gilded niche in Piccadilly. I refer, of course, to Oscar</l>
+                     <l>Wilde's "Ballad of Reading Gaol." It was a true ballad, and it was the</l>
+                     <l>best thing he ever wrote. For it was written <hi rend="italic">de profundis</hi>, when</l>
+                     <l>his hands were bloody with labour and his tortured spirit had been down</l>
+                     <l>to the level of the lowest, to the level of the pavement ... nay, lower</l>
+                     <l>... to the gutter itself. And in the gutter, with agony, he learned the</l>
+                     <l>meaning of song.</l>
+                  </lg>
+                  <lg>
+                     <l>Ballads begin and end with the people. You cannot escape that fact. And</l>
+                     <l>therefore, if I wished to collect the ballads of the future, the songs</l>
+                     <l>which will endure into the next century (if there <hi rend="italic">is</hi>  any song in</l>
+                     <l>the next century), I should not rake through the contemporary poets, in</l>
+                     <l>the hope of finding gems of lasting brilliance. No. I should go to the</l>
+                     <l>music-halls. I should listen to the sort of thing they sing when the</l>
+                     <l>faded lady with the high bust steps forward and shouts, "Now then, boys,</l>
+                     <l>all together!"</l>
+                  </lg>
+                  <lg>
+                     <l>Unless you can write the words "Now then, boys, all together", at the</l>
+                     <l>top of a ballad, it is not really a ballad at all. That may sound a</l>
+                     <l>sweeping statement, but it is true.</l>
+                  </lg>
+                  <lg>
+                     <l>In the present-day music-halls, although they have fallen from their</l>
+                     <l>high estate, we should find a number of these songs which seem destined</l>
+                     <l>for immortality. One of these is "Don't 'ave any more, Mrs. Moore."</l>
+                  </lg>
+                  <p rend="justify">Do you remember it?</p>
+                  <lg>
+                     <l>  Don't 'ave any more, Mrs. Moore!</l>
+                     <l>  Mrs. Moore, oh don't 'ave any more!</l>
+                     <l>  Too many double gins</l>
+                     <l>  Give the ladies double chins,</l>
+                     <l>  So don't 'ave any more, Mrs. Moore!</l>
+                  </lg>
+                  <lg>
+                     <l>The whole of English "low life" (which is much the most exciting part of</l>
+                     <l>English life) is in that lyric. It is as vivid as a Rowlandson cartoon.</l>
+                     <l>How well we know Mrs. Moore! How plainly we see her ... the amiable,</l>
+                     <l>coarse-mouthed, generous-hearted tippler, with her elbow on countless</l>
+                     <l>counters, her damp coppers clutched in her rough hands, her eyes</l>
+                     <l>staring, a little vacantly, about her. Some may think it is a sordid</l>
+                     <l>picture, but I am sure that they cannot know Mrs. Moore very well if</l>
+                     <l>they think that. They cannot know her bitter struggles, her silent</l>
+                     <l>heroisms, nor her sardonic humour.</l>
+                  </lg>
+                  <lg>
+                     <l>Lyrics such as these will, I believe, endure long after many of the most</l>
+                     <l>renowned and fashionable poets of to-day are forgotten. They all have</l>
+                     <l>the same quality, that they can be prefaced by that inspiring sentence,</l>
+                     <l>"Now then, boys--all together!" Or to put it another way, as in the</l>
+                     <l>ballad of George Barnwell,</l>
+                  </lg>
+                  <lg>
+                     <l>  All youths of fair England</l>
+                     <l>  That dwell both far and near,</l>
+                     <l>  Regard my story that I tell</l>
+                     <l>  And to my song give ear.</l>
+                  </lg>
+                  <p rend="justify">That may sound more dignified, but it amounts to the same thing!</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VIII</label>
+                  </head>
+                  <lg>
+                     <l>But if the generation to come will learn a great deal from the few</l>
+                     <l>popular ballads which we are still creating in our music-halls, how much</l>
+                     <l>more shall we learn of history from these ballads, which rang through</l>
+                     <l>the whole country, and were impregnated with the spirit of a whole</l>
+                     <l>people! These ballads <hi rend="italic">are</hi> history, and as such they should be</l>
+                     <l>recognised.</l>
+                  </lg>
+                  <lg>
+                     <l>It has always seemed to me that we teach history in the wrong way. We</l>
+                     <l>give boys the impression that it is an affair only of kings and queens</l>
+                     <l>and great statesmen, of generals and admirals, and such-like bores.</l>
+                     <l>Thousands of boys could probably draw you a map of many pettifogging</l>
+                     <l>little campaigns, with startling accuracy, but not one in a thousand</l>
+                     <l>could tell you what the private soldier carried in his knapsack. You</l>
+                     <l>could get sheaves of competent essays, from any school, dealing with</l>
+                     <l>such things as the Elizabethan ecclesiastical settlement, but how many</l>
+                     <l>boys could tell you, even vaguely, what an English home was like, what</l>
+                     <l>they ate, what coins were used, how their rooms were lit, and what they</l>
+                     <l>paid their servants?</l>
+                  </lg>
+                  <lg>
+                     <l>In other words, how many history masters ever take the trouble to sketch</l>
+                     <l>in the great background, the life of the common people? How many even</l>
+                     <l>realize their <hi rend="italic">existence</hi>, except on occasions of national</l>
+                     <l>disaster, such as the Black Plague?</l>
+                  </lg>
+                  <lg>
+                     <l>A proper study of the ballads would go a long way towards remedying this</l>
+                     <l>defect. Thomas Percy, whose <hi rend="italic">Reliques</hi>  must ever be the main source</l>
+                     <l>of our information on all questions connected with ballads, has pointed</l>
+                     <l>out that all the great events of the country have, sooner or later,</l>
+                     <l>found their way into the country's song-book. But it is not only the</l>
+                     <l>resounding names that are celebrated. In the ballads we hear the echoes</l>
+                     <l>of the street, the rude laughter and the pointed jests. Sometimes these</l>
+                     <l>ring so plainly that they need no explanation. At other times, we have</l>
+                     <l>to go to Percy or to some of his successors to realize the true</l>
+                     <l>significance of the song.</l>
+                  </lg>
+                  <lg>
+                     <l>For example, the famous ballad "John Anderson my Jo" seems, at first</l>
+                     <l>sight, to be innocent of any polemical intention. But it was written</l>
+                     <l>during the Reformation when, as Percy dryly observes, "the Muses were</l>
+                     <l>deeply engaged in religious controversy." The zeal of the Scottish</l>
+                     <l>reformers was at its height, and this zeal found vent in many a pasquil</l>
+                     <l>discharged at Popery. It caused them, indeed, in their frenzy, to</l>
+                     <l>compose songs which were grossly licentious, and to sing these songs in</l>
+                     <l>rasping voices to the tunes of some of the most popular hymns in the</l>
+                     <l>Latin Service.</l>
+                  </lg>
+                  <lg>
+                     <l>"John Anderson my Jo" was such a ballad composed for such an occasion.</l>
+                     <l>And Percy, who was more qualified than any other man to read between the</l>
+                     <l>lines, has pointed out that the first stanza contains a satirical</l>
+                     <l>allusion to the luxury of the popish clergy, while the second, which</l>
+                     <l>makes an apparently light reference to "seven bairns", is actually</l>
+                     <l>concerned with the seven sacraments, five of which were the spurious</l>
+                     <l>offspring of Mother Church.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus it was in a thousand cases. The ballads, even the lightest and most</l>
+                     <l>blossoming of them, were deep-rooted in the soil of English history. How</l>
+                     <l>different from anything that we possess to-day! Great causes do not lead</l>
+                     <l>men to song, nowadays they lead them to write letters to the newspapers.</l>
+                     <l>A national thanksgiving cannot call forth a single rhyme or a single bar</l>
+                     <l>of music. Who can remember a solitary verse of thanksgiving, from any of</l>
+                     <l>our poets, in commemoration of any of the victories of the Great War?</l>
+                     <l>Who can recall even a fragment of verse in praise of the long-deferred</l>
+                     <l>coming of Peace?</l>
+                  </lg>
+                  <lg>
+                     <l>Very deeply significant is it that our only method of commemorating</l>
+                     <l>Armistice Day was by a two minutes silence. No song. No music. Nothing.</l>
+                     <l>The best thing we could do, we felt, was to keep quiet.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MANDALAY</head>
+               <p rend="justify">033.jpg (13K)</p>
+               <lg>
+                  <l>  By the old Moulmein Pagoda, lookin' eastward to the sea,</l>
+                  <l>  There's a Burma girl a-settin', and I know she thinks o' me;</l>
+                  <l>  For the wind is in the palm-trees, and the temple-bells they say:</l>
+                  <l>  'Come you back, you British soldier; come you back to Mandalay!'</l>
+                  <l>  Come you back to Mandalay,</l>
+                  <l>  Where the old Flotilla lay:</l>
+                  <l>  Can't you 'ear their paddles chunkin' from Rangoon to Mandalay?</l>
+                  <l>  On the road to Mandalay,</l>
+                  <l>  Where the flyin'-fishes play,</l>
+                  <l>  An' the dawn comes up like thunder outer China 'crost the Bay!</l>
+               </lg>
+               <lg>
+                  <l>  'Er petticoat was yaller an' 'er little cap was green,</l>
+                  <l>  An' 'er name was Supi-yaw-lat--jes' the same as Theebaw's Queen,</l>
+                  <l>  An' I seed her first a-smokin' of a whackin' white cheroot,</l>
+                  <l>  An' a-wastin' Christian kisses on an 'eathen idol's foot:</l>
+                  <l>      Bloomin' idol made o' mud--</l>
+                  <l>      Wot they called the Great Gawd Budd--</l>
+                  <l>      Plucky lot she cared for idols when I kissed 'er where she stud!</l>
+                  <l>      On the road to Mandalay...</l>
+               </lg>
+               <lg>
+                  <l>  When the mist was on the rice-fields an' the sun was droppin' slow,</l>
+                  <l>  She'd git 'er little banjo an' she'd sing <hi rend="italic">'Kulla-lo-lo!'</hi>
+                  </l>
+                  <l>  With 'er arm upon my shoulder an' 'er cheek agin my cheek</l>
+                  <l>  We useter watch the steamers an' the <hi rend="italic">hathis</hi>  pilin' teak.</l>
+                  <l>      Elephints a-pilin' teak</l>
+                  <l>      In the sludgy, squdgy creek,</l>
+                  <l>      Where the silence 'ung that 'eavy you was 'arf afraid to speak!</l>
+                  <l>      On the road to Mandalay...</l>
+               </lg>
+               <lg>
+                  <l>  But that's all shove be'ind me--long ago an' fur away,</l>
+                  <l>  An' there ain't no 'busses runnin' from the Bank to Mandalay;</l>
+                  <l>  An' I'm learnin' 'ere in London what the ten-year soldier tells:</l>
+                  <l>  'If you've 'eard the East a-callin', you won't never 'eed naught</l>
+                  <l>            else.'</l>
+                  <l>      No! you won't 'eed nothin' else</l>
+                  <l>      But them spicy garlic smells,</l>
+                  <l>      An' the sunshine an' the palm-trees an' the tinkly temple-bells;</l>
+                  <l>      On the road to Mandalay...</l>
+               </lg>
+               <lg>
+                  <l>  I am sick o' wastin' leather on these gritty pavin'-stones,</l>
+                  <l>  An' the blasted Henglish drizzle wakes the fever in my bones;</l>
+                  <l>  Tho' I walks with fifty 'ousemaids outer Chelsea to the Strand,</l>
+                  <l>  An' they talks a lot o' lovin', but wot do they understand?</l>
+                  <l>      Beefy face an' grubby 'and--</l>
+                  <l>      Law! wot do they understand?</l>
+                  <l>      I've a neater, sweeter maiden in a cleaner, greener land!</l>
+                  <l>      On the road to Mandalay ...</l>
+               </lg>
+               <lg>
+                  <l>  Ship me somewheres east of Suez, where the best is like the worst,</l>
+                  <l>  Where there aren't no Ten Commandments an' a man can raise a thirst;</l>
+                  <l>  For the temple-bells are callin', an' it's there that I would be--</l>
+                  <l>  By the old Moulmein Pagoda, looking lazy at the sea;</l>
+                  <l>         On the road to Mandalay,</l>
+                  <l>         Where the old Flotilla lay,</l>
+                  <l>         With our sick beneath the awnings when we went to Mandalay!</l>
+                  <l>         O the road to Mandalay,</l>
+                  <l>         Where the flyin'-fishes play,</l>
+                  <l>         An' the dawn comes up like thunder outer China 'crost the Bay!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE FROLICKSOME DUKE</head>
+               <p rend="justify">or</p>
+               <div type="div3">
+                  <head>THE TINKER'S GOOD FORTUNE</head>
+                  <p rend="justify">036.jpg (17K)</p>
+                  <lg>
+                     <l>  Now as fame does report a young duke keeps a court,</l>
+                     <l>  One that pleases his fancy with frolicksome sport:</l>
+                     <l>  But amongst all the rest, here is one I protest,</l>
+                     <l>  Which will make you to smile when you hear the true jest:</l>
+                     <l>  A poor tinker he found, lying drunk on the ground,</l>
+                     <l>  As secure in a sleep as if laid in a swound.</l>
+                  </lg>
+                  <lg>
+                     <l>  The Duke said to his men, William, Richard, and Ben,</l>
+                     <l>  Take him home to my palace, we'll sport with him then.</l>
+                     <l>  O'er a horse he was laid, and with care soon convey'd</l>
+                     <l>  To the palace, altho' he was poorly arrai'd:</l>
+                     <l>  Then they stript off his cloaths, both his shirt, shoes and hose,</l>
+                     <l>  And they put him to bed for to take his repose.</l>
+                  </lg>
+                  <lg>
+                     <l>  Having pull'd off his shirt, which was all over durt,</l>
+                     <l>  They did give him clean holland, this was no great hurt:</l>
+                     <l>  On a bed of soft down, like a lord of renown,</l>
+                     <l>  They did lay him to sleep the drink out of his crown.</l>
+                     <l>  In the morning when day, then admiring he lay,</l>
+                     <l>  For to see the rich chamber both gaudy and gay.</l>
+                  </lg>
+                  <lg>
+                     <l>  Now he lay something late, in his rich bed of state,</l>
+                     <l>  Till at last knights and squires they on him did wait;</l>
+                     <l>  And the chamberling bare, then did likewise declare,</l>
+                     <l>  He desired to know what apparel he'd ware:</l>
+                     <l>  The poor tinker amaz'd on the gentleman gaz'd,</l>
+                     <l>  And admired how he to this honour was rais'd.</l>
+                  </lg>
+                  <lg>
+                     <l>  Tho' he seem'd something mute, yet he chose a rich suit,</l>
+                     <l>  Which he straitways put on without longer dispute;</l>
+                     <l>  With a star on his side, which the tinker offt ey'd,</l>
+                     <l>  And it seem'd for to swell him "no" little with pride;</l>
+                     <l>  For he said to himself, Where is Joan my sweet wife?</l>
+                     <l>  Sure she never did see me so fine in her life.</l>
+                  </lg>
+                  <lg>
+                     <l>  From a convenient place, the right duke his good grace</l>
+                     <l>  Did observe his behaviour in every case.</l>
+                     <l>  To a garden of state, on the tinker they wait,</l>
+                     <l>  Trumpets sounding before him: thought he, this is great:</l>
+                     <l>  Where an hour or two, pleasant walks he did view,</l>
+                     <l>  With commanders and squires in scarlet and blew.</l>
+                  </lg>
+                  <lg>
+                     <l>  A fine dinner was drest, both for him and his guests,</l>
+                     <l>  He was plac'd at the table above all the rest,</l>
+                     <l>  In a rich chair "or bed," lin'd with fine crimson red,</l>
+                     <l>  With a rich golden canopy over his head:</l>
+                     <l>  As he sat at his meat, the musick play'd sweet,</l>
+                     <l>  With the choicest of singing his joys to compleat.</l>
+                  </lg>
+                  <lg>
+                     <l>  While the tinker did dine, he had plenty of wine,</l>
+                     <l>  Rich canary with sherry and tent superfine.</l>
+                     <l>  Like a right honest soul, faith, he took off his bowl,</l>
+                     <l>  Till at last he began for to tumble and roul</l>
+                     <l>  From his chair to the floor, where he sleeping did snore,</l>
+                     <l>  Being seven times drunker than ever before.</l>
+                  </lg>
+                  <lg>
+                     <l>  Then the duke did ordain, they should strip him amain,</l>
+                     <l>  And restore him his old leather garments again:</l>
+                     <l>  'T was a point next the worst, yet perform it they must,</l>
+                     <l>  And they carry'd him strait, where they found him at first;</l>
+                     <l>  There he slept all the night, as indeed well he might;</l>
+                     <l>  But when he did waken, his joys took their flight.</l>
+                  </lg>
+                  <lg>
+                     <l>  For his glory "to him" so pleasant did seem,</l>
+                     <l>  That he thought it to be but a meer golden dream;</l>
+                     <l>  Till at length he was brought to the duke, where he sought</l>
+                     <l>  For a pardon, as fearing he had set him at nought;</l>
+                     <l>  But his highness he said, Thou 'rt a jolly bold blade,</l>
+                     <l>  Such a frolick before I think never was plaid.</l>
+                  </lg>
+                  <lg>
+                     <l>  Then his highness bespoke him a new suit and cloak,</l>
+                     <l>  Which he gave for the sake of this frolicksome joak;</l>
+                     <l>  Nay, and five-hundred pound, with ten acres of ground,</l>
+                     <l>  Thou shalt never, said he, range the counteries round,</l>
+                     <l>  Crying old brass to mend, for I'll be thy good friend,</l>
+                     <l>  Nay, and Joan thy sweet wife shall my duchess attend.</l>
+                  </lg>
+                  <lg>
+                     <l>  Then the tinker reply'd, What! must Joan my sweet bride</l>
+                     <l>  Be a lady in chariots of pleasure to ride?</l>
+                     <l>  Must we have gold and land ev'ry day at command?</l>
+                     <l>  Then I shall be a squire I well understand:</l>
+                     <l>  Well I thank your good grace, and your love I embrace,</l>
+                     <l>  I was never before in so happy a case.</l>
+                  </lg>
+                  <p rend="justify">039.jpg (3K)</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE KNIGHT &amp; SHEPHERD'S DAUGHTER</head>
+               <p rend="justify">040.jpg (13K)</p>
+               <lg>
+                  <l>  There was a shepherd's daughter</l>
+                  <l>    Came tripping on the waye;</l>
+                  <l>  And there by chance a knighte shee mett,</l>
+                  <l>    Which caused her to staye.</l>
+               </lg>
+               <lg>
+                  <l>  Good morrowe to you, beauteous maide,</l>
+                  <l>    These words pronounced hee:</l>
+                  <l>  O I shall dye this daye, he sayd,</l>
+                  <l>    If Ive not my wille of thee.</l>
+               </lg>
+               <lg>
+                  <l>  The Lord forbid, the maide replyde,</l>
+                  <l>    That you shold waxe so wode!</l>
+                  <l>  "But for all that shee could do or saye,</l>
+                  <l>    He wold not be withstood."</l>
+               </lg>
+               <lg>
+                  <l>  Sith you have had your wille of mee,</l>
+                  <l>    And put me to open shame,</l>
+                  <l>  Now, if you are a courteous knighte,</l>
+                  <l>    Tell me what is your name?</l>
+               </lg>
+               <lg>
+                  <l>  Some do call mee Jacke, sweet heart,</l>
+                  <l>    And some do call mee Jille;</l>
+                  <l>  But when I come to the kings faire courte</l>
+                  <l>    They call me Wilfulle Wille.</l>
+               </lg>
+               <lg>
+                  <l>  He sett his foot into the stirrup,</l>
+                  <l>    And awaye then he did ride;</l>
+                  <l>  She tuckt her girdle about her middle,</l>
+                  <l>    And ranne close by his side.</l>
+               </lg>
+               <lg>
+                  <l>  But when she came to the brode water,</l>
+                  <l>    She sett her brest and swamme;</l>
+                  <l>  And when she was got out againe,</l>
+                  <l>    She tooke to her heels and ranne.</l>
+               </lg>
+               <lg>
+                  <l>  He never was the courteous knighte,</l>
+                  <l>    To saye, faire maide, will ye ride?</l>
+                  <l>  "And she was ever too loving a maide</l>
+                  <l>    To saye, sir knighte abide."</l>
+               </lg>
+               <lg>
+                  <l>  When she came to the kings faire courte,</l>
+                  <l>    She knocked at the ring;</l>
+                  <l>  So readye was the king himself</l>
+                  <l>    To let this faire maide in.</l>
+               </lg>
+               <lg>
+                  <l>  Now Christ you save, my gracious liege,</l>
+                  <l>    Now Christ you save and see,</l>
+                  <l>  You have a knighte within your courte,</l>
+                  <l>    This daye hath robbed mee.</l>
+               </lg>
+               <lg>
+                  <l>  What hath he robbed thee of, sweet heart?</l>
+                  <l>    Of purple or of pall?</l>
+                  <l>  Or hath he took thy gaye gold ring</l>
+                  <l>    From off thy finger small?</l>
+               </lg>
+               <lg>
+                  <l>  He hath not robbed mee, my liege,</l>
+                  <l>    Of purple nor of pall:</l>
+                  <l>  But he hath gotten my maiden head,</l>
+                  <l>    Which grieves mee worst of all.</l>
+               </lg>
+               <lg>
+                  <l>  Now if he be a batchelor,</l>
+                  <l>    His bodye He give to thee;</l>
+                  <l>  But if he be a married man,</l>
+                  <l>    High hanged he shall bee.</l>
+               </lg>
+               <lg>
+                  <l>  He called downe his merrye men all,</l>
+                  <l>    By one, by two, by three;</l>
+                  <l>  Sir William used to bee the first,</l>
+                  <l>    But nowe the last came hee.</l>
+               </lg>
+               <lg>
+                  <l>  He brought her downe full fortye pounde,</l>
+                  <l>    Tyed up withinne a glove:</l>
+                  <l>  Faire maide, He give the same to thee;</l>
+                  <l>    Go, seeke thee another love.</l>
+               </lg>
+               <lg>
+                  <l>  O Ile have none of your gold, she sayde,</l>
+                  <l>    Nor Ile have none of your fee;</l>
+                  <l>  But your faire bodye I must have,</l>
+                  <l>    The king hath granted mee.</l>
+               </lg>
+               <lg>
+                  <l>  Sir William ranne and fetched her then</l>
+                  <l>    Five hundred pound in golde,</l>
+                  <l>  Saying, faire maide, take this to thee,</l>
+                  <l>    Thy fault will never be tolde.</l>
+               </lg>
+               <lg>
+                  <l>  Tis not the gold that shall mee tempt,</l>
+                  <l>    These words then answered shee,</l>
+                  <l>  But your own bodye I must have,</l>
+                  <l>    The king hath granted mee.</l>
+               </lg>
+               <lg>
+                  <l>  Would I had dranke the water cleare,</l>
+                  <l>    When I did drinke the wine,</l>
+                  <l>  Rather than any shepherds brat</l>
+                  <l>    Shold bee a ladye of mine!</l>
+               </lg>
+               <lg>
+                  <l>  Would I had drank the puddle foule,</l>
+                  <l>    When I did drink the ale,</l>
+                  <l>  Rather than ever a shepherds brat</l>
+                  <l>    Shold tell me such a tale!</l>
+               </lg>
+               <lg>
+                  <l>  A shepherds brat even as I was,</l>
+                  <l>    You mote have let me bee,</l>
+                  <l>  I never had come to the kings faire courte,</l>
+                  <l>    To crave any love of thee.</l>
+               </lg>
+               <lg>
+                  <l>  He sett her on a milk-white steede,</l>
+                  <l>    And himself upon a graye;</l>
+                  <l>  He hung a bugle about his necke,</l>
+                  <l>    And soe they rode awaye.</l>
+               </lg>
+               <lg>
+                  <l>  But when they came unto the place,</l>
+                  <l>    Where marriage-rites were done,</l>
+                  <l>  She proved herself a dukes daughtèr,</l>
+                  <l>    And he but a squires sonne.</l>
+               </lg>
+               <lg>
+                  <l>  Now marrye me, or not, sir knight,</l>
+                  <l>    Your pleasure shall be free:</l>
+                  <l>  If you make me ladye of one good towne,</l>
+                  <l>    He make you lord of three.</l>
+               </lg>
+               <lg>
+                  <l>  Ah! cursed bee the gold, he sayd,</l>
+                  <l>    If thou hadst not been trewe,</l>
+                  <l>  I shold have forsaken my sweet love,</l>
+                  <l>    And have changed her for a newe.</l>
+               </lg>
+               <lg>
+                  <l>  And now their hearts being linked fast,</l>
+                  <l>    They joyned hand in hande:</l>
+                  <l>  Thus he had both purse, and person too,</l>
+                  <l>    And all at his commande.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>KING ESTMERE</head>
+               <p rend="justify">045.jpg (15K)</p>
+               <p rend="justify">estmere.jpg (161K)</p>
+               <lg>
+                  <l>  Hearken to me, gentlemen,</l>
+                  <l>    Come and you shall heare;</l>
+                  <l>  Ile tell you of two of the boldest brethren</l>
+                  <l>    That ever borne y-were.</l>
+               </lg>
+               <lg>
+                  <l>  The tone of them was Adler younge,</l>
+                  <l>    The tother was kyng Estmere;</l>
+                  <l>  The were as bolde men in their deeds,</l>
+                  <l>    As any were farr and neare.</l>
+               </lg>
+               <lg>
+                  <l>  As they were drinking ale and wine</l>
+                  <l>    Within kyng Estmeres halle:</l>
+                  <l>  When will ye marry a wyfe, brothèr,</l>
+                  <l>    A wyfe to glad us all?</l>
+               </lg>
+               <lg>
+                  <l>  Then bespake him kyng Estmere,</l>
+                  <l>    And answered him hastilee:</l>
+                  <l>  I know not that ladye in any land</l>
+                  <l>    That's able to marrye with mee.</l>
+               </lg>
+               <lg>
+                  <l>  Kyng Adland hath a daughter, brother,</l>
+                  <l>    Men call her bright and sheene;</l>
+                  <l>  If I were kyng here in your stead,</l>
+                  <l>    That ladye shold be my queene.</l>
+               </lg>
+               <lg>
+                  <l>  Saies, Reade me, reade me, deare brother,</l>
+                  <l>    Throughout merry Englànd,</l>
+                  <l>  Where we might find a messenger</l>
+                  <l>    Betwixt us towe to sende.</l>
+               </lg>
+               <lg>
+                  <l>  Saies, You shal ryde yourselfe, brothèr,</l>
+                  <l>    Ile beare you companye;</l>
+                  <l>  Many throughe fals messengers are deceived,</l>
+                  <l>    And I feare lest soe shold wee.</l>
+               </lg>
+               <lg>
+                  <l>  Thus the renisht them to ryde</l>
+                  <l>    Of twoe good renisht steeds,</l>
+                  <l>  And when the came to kyng Adlands halle,</l>
+                  <l>    Of redd gold shone their weeds.</l>
+               </lg>
+               <lg>
+                  <l>  And when the came to kyng Adlands hall</l>
+                  <l>    Before the goodlye gate,</l>
+                  <l>  There they found good kyng Adlànd</l>
+                  <l>    Rearing himselfe theratt.</l>
+               </lg>
+               <lg>
+                  <l>  Now Christ thee save, good kyng Adland;</l>
+                  <l>   Now Christ you save and see.</l>
+                  <l>  Sayd, You be welcome, kyng Estmere,</l>
+                  <l>   Right hartilye to mee.</l>
+               </lg>
+               <lg>
+                  <l>  You have a daughter, said Adler younge,</l>
+                  <l>   Men call her bright and sheene,</l>
+                  <l>  My brother wold marrye her to his wiffe,</l>
+                  <l>   Of Englande to be queene.</l>
+               </lg>
+               <lg>
+                  <l>  Yesterday was att my deere daughter</l>
+                  <l>   Syr Bremor the kyng of Spayne;</l>
+                  <l>  And then she nicked him of naye,</l>
+                  <l>   And I doubt sheele do you the same.</l>
+               </lg>
+               <lg>
+                  <l>  The kyng of Spayne is a foule paynim,</l>
+                  <l>   And 'leeveth on Mahound;</l>
+                  <l>  And pitye it were that fayre ladye</l>
+                  <l>   Shold marrye a heathen hound.</l>
+               </lg>
+               <lg>
+                  <l>  But grant to me, sayes kyng Estmere,</l>
+                  <l>   For my love I you praye;</l>
+                  <l>  That I may see your daughter deere</l>
+                  <l>   Before I goe hence awaye.</l>
+               </lg>
+               <lg>
+                  <l>  Although itt is seven yeers and more</l>
+                  <l>   Since my daughter was in halle,</l>
+                  <l>  She shall come once downe for your sake</l>
+                  <l>   To glad my guestes alle.</l>
+               </lg>
+               <lg>
+                  <l>  Downe then came that mayden fayre,</l>
+                  <l>    With ladyes laced in pall,</l>
+                  <l>  And halfe a hundred of bold knightes,</l>
+                  <l>    To bring her from bowre to hall;</l>
+                  <l>  And as many gentle squiers,</l>
+                  <l>    To tend upon them all.</l>
+               </lg>
+               <lg>
+                  <l>  The talents of golde were on her head sette,</l>
+                  <l>    Hanged low downe to her knee;</l>
+                  <l>  And everye ring on her small fingèr</l>
+                  <l>    Shone of the chrystall free.</l>
+               </lg>
+               <lg>
+                  <l>  Saies, God you save, my deere madam;</l>
+                  <l>    Saies, God you save and see.</l>
+                  <l>  Said, You be welcome, kyng Estmere,</l>
+                  <l>    Right welcome unto mee.</l>
+               </lg>
+               <lg>
+                  <l>  And if you love me, as you saye,</l>
+                  <l>    Soe well and hartilye,</l>
+                  <l>  All that ever you are comin about</l>
+                  <l>    Sooner sped now itt shal bee.</l>
+               </lg>
+               <lg>
+                  <l>  Then bespake her father deare:</l>
+                  <l>    My daughter, I saye naye;</l>
+                  <l>  Remember well the kyng of Spayne,</l>
+                  <l>    What he sayd yesterday.</l>
+               </lg>
+               <lg>
+                  <l>  He wold pull downe my hales and castles,</l>
+                  <l>     And reeve me of my life.</l>
+                  <l>  I cannot blame him if he doe,</l>
+                  <l>     If I reave him of his wyfe.</l>
+               </lg>
+               <lg>
+                  <l>  Your castles and your towres, father,</l>
+                  <l>     Are stronglye built aboute;</l>
+                  <l>  And therefore of the king of Spaine</l>
+                  <l>     Wee neede not stande in doubt.</l>
+               </lg>
+               <lg>
+                  <l>  Plight me your troth, nowe, kyng Estmère,</l>
+                  <l>     By heaven and your righte hand,</l>
+                  <l>  That you will marrye me to your wyfe,</l>
+                  <l>     And make me queene of your land.</l>
+               </lg>
+               <lg>
+                  <l>  Then kyng Estmere he plight his troth</l>
+                  <l>     By heaven and his righte hand,</l>
+                  <l>  That he wolde marrye her to his wyfe,</l>
+                  <l>     And make her queene of his land.</l>
+               </lg>
+               <lg>
+                  <l>  And he tooke leave of that ladye fayre,</l>
+                  <l>     To goe to his owne countree,</l>
+                  <l>  To fetche him dukes and lordes and knightes,</l>
+                  <l>     That marryed the might bee.</l>
+               </lg>
+               <lg>
+                  <l>  They had not ridden scant a myle,</l>
+                  <l>     A myle forthe of the towne,</l>
+                  <l>  But in did come the kyng of Spayne,</l>
+                  <l>     With kempès many one.</l>
+               </lg>
+               <lg>
+                  <l>  But in did come the kyng of Spayne,</l>
+                  <l>     With manye a bold barone,</l>
+                  <l>  Tone day to marrye kyng Adlands daughter,</l>
+                  <l>     Tother daye to carrye her home.</l>
+               </lg>
+               <lg>
+                  <l>  Shee sent one after kyng Estmere</l>
+                  <l>     In all the spede might bee,</l>
+                  <l>  That he must either turne againe and fighte,</l>
+                  <l>     Or goe home and loose his ladye.</l>
+               </lg>
+               <lg>
+                  <l>  One whyle then the page he went,</l>
+                  <l>     Another while he ranne;</l>
+                  <l>  Tull he had oretaken king Estmere,</l>
+                  <l>      I wis, he never blanne.</l>
+               </lg>
+               <lg>
+                  <l>  Tydings, tydings, kyng Estmere!</l>
+                  <l>     What tydinges nowe, my boye?</l>
+                  <l>  O tydinges I can tell to you,</l>
+                  <l>     That will you sore annoye.</l>
+               </lg>
+               <lg>
+                  <l>  You had not ridden scant a mile,</l>
+                  <l>     A mile out of the towne,</l>
+                  <l>  But in did come the kyng of Spayne</l>
+                  <l>     With kempès many a one:</l>
+               </lg>
+               <lg>
+                  <l>  But in did come the kyng of Spayne</l>
+                  <l>     With manye a bold barone,</l>
+                  <l>  Tone daye to marrye king Adlands daughter,</l>
+                  <l>     Tother daye to carry her home.</l>
+               </lg>
+               <lg>
+                  <l>  My ladye fayre she greetes you well,</l>
+                  <l>   And ever-more well by mee:</l>
+                  <l>  You must either turne againe and fighte,</l>
+                  <l>   Or goe home and loose your ladyè.</l>
+               </lg>
+               <lg>
+                  <l>  Saies, Reade me, reade me, deere brother,</l>
+                  <l>   My reade shall ryde at thee,</l>
+                  <l>  Whether it is better to turne and fighte,</l>
+                  <l>   Or goe home and loose my ladye.</l>
+               </lg>
+               <lg>
+                  <l>  Now hearken to me, sayes Adler yonge,</l>
+                  <l>   And your reade must rise at me,</l>
+                  <l>  I quicklye will devise a waye</l>
+                  <l>   To sette thy ladye free.</l>
+               </lg>
+               <lg>
+                  <l>  My mother was a westerne woman,</l>
+                  <l>   And learned in gramaryè,</l>
+                  <l>  And when I learned at the schole,</l>
+                  <l>   Something she taught itt mee.</l>
+               </lg>
+               <lg>
+                  <l>  There growes an hearbe within this field,</l>
+                  <l>   And iff it were but knowne,</l>
+                  <l>  His color, which is whyte and redd,</l>
+                  <l>   It will make blacke and browne:</l>
+               </lg>
+               <lg>
+                  <l>  His color, which is browne and blacke,</l>
+                  <l>   Itt will make redd and whyte;</l>
+                  <l>  That sworde is not in all Englande,</l>
+                  <l>   Upon his coate will byte.</l>
+               </lg>
+               <lg>
+                  <l>  And you shall be a harper, brother,</l>
+                  <l>    Out of the north countrye;</l>
+                  <l>  And He be your boy, soe faine of fighte,</l>
+                  <l>    And beare your harpe by your knee.</l>
+               </lg>
+               <lg>
+                  <l>  And you shal be the best harpèr,</l>
+                  <l>    That ever tooke harpe in hand;</l>
+                  <l>  And I wil be the best singèr,</l>
+                  <l>    That ever sung in this lande.</l>
+               </lg>
+               <lg>
+                  <l>  Itt shal be written on our forheads</l>
+                  <l>    All and in grammaryè,</l>
+                  <l>  That we towe are the boldest men,</l>
+                  <l>    That are in all Christentyè.</l>
+               </lg>
+               <lg>
+                  <l>  And thus they renisht them to ryde,</l>
+                  <l>    On tow good renish steedes;</l>
+                  <l>  And when they came to king Adlands hall,</l>
+                  <l>    Of redd gold shone their weedes.</l>
+               </lg>
+               <lg>
+                  <l>  And whan they came to kyng Adlands hall,</l>
+                  <l>    Untill the fayre hall yate,</l>
+                  <l>  There they found a proud portèr</l>
+                  <l>    Rearing himselfe thereatt.</l>
+               </lg>
+               <lg>
+                  <l>  Sayes, Christ thee save, thou proud portèr;</l>
+                  <l>    Sayes, Christ thee save and see.</l>
+                  <l>  Nowe you be welcome, sayd the portèr,</l>
+                  <l>    Of whatsoever land ye bee.</l>
+               </lg>
+               <lg>
+                  <l>  Wee beene harpers, sayd Adler younge,</l>
+                  <l>    Come out of the northe countrye;</l>
+                  <l>  Wee beene come hither untill this place,</l>
+                  <l>    This proud weddinge for to see.</l>
+               </lg>
+               <lg>
+                  <l>  Sayd, And your color were white and redd,</l>
+                  <l>    As it is blacke and browne,</l>
+                  <l>  I wold saye king Estmere and his brother,</l>
+                  <l>    Were comen untill this towne.</l>
+               </lg>
+               <lg>
+                  <l>  Then they pulled out a ryng of gold,</l>
+                  <l>    Layd itt on the porters arme:</l>
+                  <l>  And ever we will thee, proud porter,</l>
+                  <l>    Thow wilt saye us no harme.</l>
+               </lg>
+               <lg>
+                  <l>  Sore he looked on king Estmere,</l>
+                  <l>    And sore he handled the ryng,</l>
+                  <l>  Then opened to them the fayre hall yates,</l>
+                  <l>    He lett for no kind of thyng.</l>
+               </lg>
+               <lg>
+                  <l>  King Estmere he stabled his steede</l>
+                  <l>    Soe fayre att the hall bord;</l>
+                  <l>  The froth, that came from his brydle bitte,</l>
+                  <l>    Light in kyng Bremors beard.</l>
+               </lg>
+               <lg>
+                  <l>  Saies, Stable thy steed, thou proud harper,</l>
+                  <l>    Saies, Stable him in the stalle;</l>
+                  <l>  It doth not beseeme a proud harper</l>
+                  <l>    To stable 'him' in a kyngs halle.</l>
+               </lg>
+               <lg>
+                  <l>  My ladde he is no lither, he said,</l>
+                  <l>    He will doe nought that's meete;</l>
+                  <l>  And is there any man in this hall</l>
+                  <l>    Were able him to beate</l>
+               </lg>
+               <lg>
+                  <l>  Thou speakst proud words, sayes the king of Spaine,</l>
+                  <l>    Thou harper, here to mee:</l>
+                  <l>  There is a man within this halle</l>
+                  <l>    Will beate thy ladd and thee.</l>
+               </lg>
+               <lg>
+                  <l>  O let that man come downe, he said,</l>
+                  <l>    A sight of him wold I see;</l>
+                  <l>  And when hee hath beaten well my ladd,</l>
+                  <l>    Then he shall beate of mee.</l>
+               </lg>
+               <lg>
+                  <l>  Downe then came the kemperye man,</l>
+                  <l>    And looketh him in the eare;</l>
+                  <l>  For all the gold, that was under heaven,</l>
+                  <l>    He durst not neigh him neare.</l>
+               </lg>
+               <lg>
+                  <l>  And how nowe, kempe, said the Kyng of Spaine,</l>
+                  <l>    And how what aileth thee?</l>
+                  <l>  He saies, It is writt in his forhead</l>
+                  <l>    All and in gramaryè,</l>
+                  <l>  That for all the gold that is under heaven</l>
+                  <l>    I dare not neigh him nye.</l>
+               </lg>
+               <lg>
+                  <l>  Then Kyng Estmere pulld forth his harpe,</l>
+                  <l>    And plaid a pretty thinge:</l>
+                  <l>  The ladye upstart from the borde,</l>
+                  <l>    And wold have gone from the king.</l>
+               </lg>
+               <lg>
+                  <l>  Stay thy harpe, thou proud harper,</l>
+                  <l>    For Gods love I pray thee,</l>
+                  <l>  For and thou playes as thou beginns,</l>
+                  <l>    Thou'lt till my bryde from mee.</l>
+               </lg>
+               <lg>
+                  <l>  He stroake upon his harpe againe,</l>
+                  <l>    And playd a pretty thinge;</l>
+                  <l>  The ladye lough a loud laughter,</l>
+                  <l>    As shee sate by the king.</l>
+               </lg>
+               <lg>
+                  <l>  Saies, Sell me thy harpe, thou proud harper,</l>
+                  <l>    And thy stringes all,</l>
+                  <l>  For as many gold nobles 'thou shall have'</l>
+                  <l>    As heere bee ringes in the hall.</l>
+               </lg>
+               <lg>
+                  <l>  What wold ye doe with my harpe,' he sayd,'</l>
+                  <l>    If I did sell itt yee?</l>
+                  <l>  "To playe my wiffe and me a fitt,</l>
+                  <l>    When abed together wee bee."</l>
+               </lg>
+               <lg>
+                  <l>  Now sell me, quoth hee, thy bryde soe gay,</l>
+                  <l>    As shee sitts by thy knee,</l>
+                  <l>  And as many gold nobles I will give,</l>
+                  <l>    As leaves been on a tree.</l>
+               </lg>
+               <lg>
+                  <l>  And what wold ye doe with my bryde soe gay,</l>
+                  <l>    Iff I did sell her thee?</l>
+                  <l>  More seemelye it is for her fayre bodye</l>
+                  <l>    To lye by mee then thee.</l>
+               </lg>
+               <lg>
+                  <l>  Hee played agayne both loud and shrille,</l>
+                  <l>    And Adler he did syng,</l>
+                  <l>  "O ladye, this is thy owne true love;</l>
+                  <l>    Noe harper, but a kyng.</l>
+               </lg>
+               <lg>
+                  <l>  "O ladye, this is thy owne true love,</l>
+                  <l>    As playnlye thou mayest see;</l>
+                  <l>  And He rid thee of that foule paynim,</l>
+                  <l>    Who partes thy love and thee."</l>
+               </lg>
+               <lg>
+                  <l>  The ladye looked, the ladye blushte,</l>
+                  <l>    And blushte and lookt agayne,</l>
+                  <l>  While Adler he hath drawne his brande,</l>
+                  <l>    And hath the Sowdan slayne.</l>
+               </lg>
+               <lg>
+                  <l>  Up then rose the kemperye men,</l>
+                  <l>    And loud they gan to crye:</l>
+                  <l>  Ah; traytors, yee have slayne our kyng,</l>
+                  <l>    And therefore yee shall dye.</l>
+               </lg>
+               <lg>
+                  <l>  Kyng Estmere threwe the harpe asyde,</l>
+                  <l>    And swith he drew his brand;</l>
+                  <l>  And Estmere he, and Adler yonge</l>
+                  <l>    Right stiffe in slodr can stand.</l>
+               </lg>
+               <lg>
+                  <l>  And aye their swordes soe sore can byte,</l>
+                  <l>    Throughe help of Gramaryè,</l>
+                  <l>  That soone they have slayne the kempery men,</l>
+                  <l>    Or forst them forth to flee.</l>
+               </lg>
+               <lg>
+                  <l>  Kyng Estmere took that fayre ladye,</l>
+                  <l>    And marryed her to his wiffe,</l>
+                  <l>  And brought her home to merry England</l>
+                  <l>    With her to leade his life.</l>
+               </lg>
+               <p rend="justify">057.jpg (4K)</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>KING JOHN AND THE ABBOT OF CANTERBURY</head>
+               <p rend="justify">058.jpg (15K)</p>
+               <lg>
+                  <l>  An ancient story Ile tell you anon</l>
+                  <l>  Of a notable prince, that was called King John;</l>
+                  <l>  And he ruled England with maine and with might,</l>
+                  <l>  For he did great wrong, and maintein'd little right.</l>
+               </lg>
+               <lg>
+                  <l>  And Ile tell you a story, a story so merrye,</l>
+                  <l>  Concerning the Abbot of Canterbùrye;</l>
+                  <l>  How for his house-keeping, and high renowne,</l>
+                  <l>  They rode poste for him to fair London towne.</l>
+               </lg>
+               <lg>
+                  <l>  An hundred men, the king did heare say,</l>
+                  <l>  The abbot kept in his house every day;</l>
+                  <l>  And fifty golde chaynes, without any doubt,</l>
+                  <l>  In velvet coates waited the abbot about.</l>
+               </lg>
+               <lg>
+                  <l>  How now, father abbot, I heare it of thee,</l>
+                  <l>  Thou keepest a farre better house than mee,</l>
+                  <l>  And for thy house-keeping and high renowne,</l>
+                  <l>  I feare thou work'st treason against my crown.</l>
+               </lg>
+               <lg>
+                  <l>  My liege, quo' the abbot, I would it were knowne,</l>
+                  <l>  I never spend nothing, but what is my owne;</l>
+                  <l>  And I trust, your grace will doe me no deere,</l>
+                  <l>  For spending of my owne true-gotten geere.</l>
+               </lg>
+               <lg>
+                  <l>  Yes, yes, father abbot, thy fault it is highe,</l>
+                  <l>  And now for the same thou needest must dye;</l>
+                  <l>  For except thou canst answer me questions three,</l>
+                  <l>  Thy head shall be smitten from thy bodìe.</l>
+               </lg>
+               <lg>
+                  <l>  And first, quo' the king, when I'm in this stead,</l>
+                  <l>  With my crowne of golde so faire on my head,</l>
+                  <l>  Among all my liege-men so noble of birthe,</l>
+                  <l>  Thou must tell me to one penny what I am worthe.</l>
+               </lg>
+               <lg>
+                  <l>  Secondlye, tell me, without any doubt,</l>
+                  <l>  How soone I may ride the whole world about.</l>
+                  <l>  And at the third question thou must not shrink,</l>
+                  <l>  But tell me here truly what I do think.</l>
+               </lg>
+               <lg>
+                  <l>  O, these are hard questions for my shallow witt,</l>
+                  <l>  Nor I cannot answer your grace as yet:</l>
+                  <l>  But if you will give me but three weekes space,</l>
+                  <l>  Ile do my endeavour to answer your grace.</l>
+               </lg>
+               <lg>
+                  <l>  Now three weeks space to thee will I give,</l>
+                  <l>  And that is the longest time thou hast to live;</l>
+                  <l>  For if thou dost not answer my questions three,</l>
+                  <l>  Thy lands and thy livings are forfeit to mee.</l>
+               </lg>
+               <lg>
+                  <l>  Away rode the abbot all sad at that word,</l>
+                  <l>  And he rode to Cambridge, and Oxenford;</l>
+                  <l>  But never a doctor there was so wise,</l>
+                  <l>  That could with his learning an answer devise.</l>
+               </lg>
+               <lg>
+                  <l>  Then home rode the abbot of comfort so cold,</l>
+                  <l>  And he mett his shepheard a going to fold:</l>
+                  <l>  How now, my lord abbot, you are welcome home;</l>
+                  <l>  What newes do you bring us from good King John?</l>
+               </lg>
+               <lg>
+                  <l>  "Sad newes, sad newes, shepheard, I must give;</l>
+                  <l>  That I have but three days more to live:</l>
+                  <l>  For if I do not answer him questions three,</l>
+                  <l>  My head will be smitten from my bodie.</l>
+               </lg>
+               <lg>
+                  <l>  The first is to tell him there in that stead,</l>
+                  <l>  With his crowne of golde so fair on his head,</l>
+                  <l>  Among all his liege men so noble of birth,</l>
+                  <l>  To within one penny of all what he is worth.</l>
+               </lg>
+               <lg>
+                  <l>  The seconde, to tell him, without any doubt,</l>
+                  <l>  How soon he may ride this whole world about:</l>
+                  <l>  And at the third question I must not shrinke,</l>
+                  <l>  But tell him there truly what he does thinke."</l>
+               </lg>
+               <lg>
+                  <l>  Now cheare up, sire abbot, did you never hear yet,</l>
+                  <l>  That a fool he may learn a wise man witt?</l>
+                  <l>  Lend me horse, and serving men, and your apparel,</l>
+                  <l>  And I'll ride to London to answere your quarrel.</l>
+               </lg>
+               <lg>
+                  <l>  Nay frowne not, if it hath bin told unto mee,</l>
+                  <l>  I am like your lordship, as ever may bee:</l>
+                  <l>  And if you will but lend me your gowne,</l>
+                  <l>  There is none shall knowe us at fair London towne.</l>
+               </lg>
+               <lg>
+                  <l>  Now horses, and serving-men thou shalt have,</l>
+                  <l>  With sumptuous array most gallant and brave;</l>
+                  <l>  With crozier, and miter, and rochet, and cope,</l>
+                  <l>  Fit to appeare 'fore our fader the pope.</l>
+               </lg>
+               <lg>
+                  <l>  Now welcome, sire abbott, the king he did say,</l>
+                  <l>  'Tis well thou'rt come back to keep thy day;</l>
+                  <l>  For and if thou canst answer my questions three,</l>
+                  <l>  Thy life and thy living both saved shall bee.</l>
+               </lg>
+               <lg>
+                  <l>  And first, when thou seest me here in this stead,</l>
+                  <l>  With my crowne of gold so fair on my head,</l>
+                  <l>  Among all my liege-men so noble of birthe,</l>
+                  <l>  Tell me to one penny what I am worth.</l>
+               </lg>
+               <lg>
+                  <l>  "For thirty pence our Saviour was sold</l>
+                  <l>  Amonge the false Jewes, as I have bin told;</l>
+                  <l>  And twenty nine is the worth of thee,</l>
+                  <l>  For I thinke, thou art one penny worser than hee."</l>
+               </lg>
+               <lg>
+                  <l>  The king he laughed, and swore by St. Bittel,</l>
+                  <l>  I did not thinke I had been worth so littel!</l>
+                  <l>  --Now secondly tell me, without any doubt,</l>
+                  <l>  How soon I may ride this whole world about.</l>
+               </lg>
+               <lg>
+                  <l>  "You must rise with the sun, and ride with the same,</l>
+                  <l>  Until the next morning he riseth againe;</l>
+                  <l>  And then your grace need not make any doubt,</l>
+                  <l>  But in twenty-four hours you'll ride it about."</l>
+               </lg>
+               <lg>
+                  <l>  The king he laughed, and swore by St. Jone,</l>
+                  <l>  I did not think, it could be gone so soone!</l>
+                  <l>  --Now from the third question thou must not shrinke,</l>
+                  <l>  But tell me here truly what I do thinke.</l>
+               </lg>
+               <lg>
+                  <l>  "Yea, that shall I do, and make your grace merry:</l>
+                  <l>  You thinke I'm the Abbot of Canterbùry;</l>
+                  <l>  But I'm his poor shepheard, as plain you may see,</l>
+                  <l>  That am come to beg pardon for him and for mee."</l>
+               </lg>
+               <lg>
+                  <l>  The king he laughed, and swore by the masse,</l>
+                  <l>  He make thee lord abbot this day in his place!</l>
+                  <l>  "Now naye, my liege, be not in such speede,</l>
+                  <l>  For alacke I can neither write ne reade."</l>
+               </lg>
+               <lg>
+                  <l>  Four nobles a weeke, then I will give thee,</l>
+                  <l>  For this merry jest thou hast showne unto mee;</l>
+                  <l>  And tell the old abbot, when thou comest home,</l>
+                  <l>  Thou hast brought him a pardon from good King John.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BARBARA ALLEN'S CRUELTY</head>
+               <p rend="justify">063.jpg (8K)</p>
+               <p rend="justify">barbara.jpg (141K)</p>
+               <lg>
+                  <l>  In Scarlet towne where I was borne,</l>
+                  <l>    There was a faire maid dwellin,</l>
+                  <l>  Made every youth crye, Wel-awaye!</l>
+                  <l>    Her name was Barbara Allen.</l>
+               </lg>
+               <lg>
+                  <l>  All in the merrye month of May,</l>
+                  <l>    When greene buds they were swellin,</l>
+                  <l>  Yong Jemmye Grove on his death-bed lay,</l>
+                  <l>    For love of Barbara Allen.</l>
+               </lg>
+               <lg>
+                  <l>  He sent his man unto her then,</l>
+                  <l>    To the town where shee was dwellin;</l>
+                  <l>  You must come to my master deare,</l>
+                  <l>    Giff your name be Barbara Alien.</l>
+               </lg>
+               <lg>
+                  <l>  For death is printed on his face,</l>
+                  <l>    And ore his harte is stealin:</l>
+                  <l>  Then haste away to comfort him,</l>
+                  <l>    O lovelye Barbara Alien.</l>
+               </lg>
+               <lg>
+                  <l>  Though death be printed on his face,</l>
+                  <l>    And ore his harte is stealin,</l>
+                  <l>  Yet little better shall he bee</l>
+                  <l>    For bonny Barbara Alien.</l>
+               </lg>
+               <lg>
+                  <l>  So slowly, slowly, she came up,</l>
+                  <l>    And slowly she came nye him;</l>
+                  <l>  And all she sayd, when there she came,</l>
+                  <l>    Yong man, I think y'are dying.</l>
+               </lg>
+               <lg>
+                  <l>  He turned his face unto her strait,</l>
+                  <l>    With deadlye sorrow sighing;</l>
+                  <l>  O lovely maid, come pity mee,</l>
+                  <l>    Ime on my death-bed lying.</l>
+               </lg>
+               <lg>
+                  <l>  If on your death-bed you doe lye,</l>
+                  <l>    What needs the tale you are tellin;</l>
+                  <l>  I cannot keep you from your death;</l>
+                  <l>    Farewell, sayd Barbara Alien.</l>
+               </lg>
+               <lg>
+                  <l>  He turned his face unto the wall,</l>
+                  <l>    As deadlye pangs he fell in:</l>
+                  <l>  Adieu! adieu! adieu to you all,</l>
+                  <l>    Adieu to Barbara Allen.</l>
+               </lg>
+               <lg>
+                  <l>  As she was walking ore the fields,</l>
+                  <l>    She heard the bell a knellin;</l>
+                  <l>  And every stroke did seem to saye,</l>
+                  <l>    Unworthye Barbara Allen.</l>
+               </lg>
+               <lg>
+                  <l>  She turned her bodye round about,</l>
+                  <l>    And spied the corps a coming:</l>
+                  <l>  Laye down, lay down the corps, she sayd,</l>
+                  <l>    That I may look upon him.</l>
+               </lg>
+               <lg>
+                  <l>  With scornful eye she looked downe,</l>
+                  <l>    Her cheeke with laughter swellin;</l>
+                  <l>  Whilst all her friends cryd out amaine,</l>
+                  <l>    Unworthye Barbara Allen.</l>
+               </lg>
+               <lg>
+                  <l>  When he was dead, and laid in grave,</l>
+                  <l>    Her harte was struck with sorrowe,</l>
+                  <l>  O mother, mother, make my bed,</l>
+                  <l>    For I shall dye to-morrowe.</l>
+               </lg>
+               <lg>
+                  <l>  Hard-harted creature him to slight,</l>
+                  <l>    Who loved me so dearlye:</l>
+                  <l>  O that I had beene more kind to him</l>
+                  <l>    When he was alive and neare me!</l>
+               </lg>
+               <lg>
+                  <l>  She, on her death-bed as she laye,</l>
+                  <l>    Beg'd to be buried by him;</l>
+                  <l>  And sore repented of the daye,</l>
+                  <l>    That she did ere denye him.</l>
+               </lg>
+               <lg>
+                  <l>  Farewell, she sayd, ye virgins all,</l>
+                  <l>    And shun the fault I fell in:</l>
+                  <l>  Henceforth take warning by the fall</l>
+                  <l>    Of cruel Barbara Allen.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FAIR ROSAMOND</head>
+               <p rend="justify">067.jpg (9K)</p>
+               <p rend="justify">rosamond.jpg (198K)</p>
+               <lg>
+                  <l>  When as King Henry rulde this land,</l>
+                  <l>    The second of that name,</l>
+                  <l>  Besides the queene, he dearly lovde</l>
+                  <l>    A faire and comely dame.</l>
+               </lg>
+               <lg>
+                  <l>  Most peerlesse was her beautye founde,</l>
+                  <l>    Her favour, and her face;</l>
+                  <l>  A sweeter creature in this worlde</l>
+                  <l>    Could never prince embrace.</l>
+               </lg>
+               <lg>
+                  <l>  Her crisped lockes like threads of golde</l>
+                  <l>    Appeard to each mans sight;</l>
+                  <l>  Her sparkling eyes, like Orient pearles,</l>
+                  <l>    Did cast a heavenlye light.</l>
+               </lg>
+               <lg>
+                  <l>  The blood within her crystal cheekes</l>
+                  <l>    Did such a colour drive,</l>
+                  <l>  As though the lillye and the rose</l>
+                  <l>    For mastership did strive.</l>
+               </lg>
+               <lg>
+                  <l>  Yea Rosamonde, fair Rosamonde,</l>
+                  <l>    Her name was called so,</l>
+                  <l>  To whom our queene, dame Ellinor,</l>
+                  <l>    Was known a deadlye foe.</l>
+               </lg>
+               <lg>
+                  <l>  The king therefore, for her defence,</l>
+                  <l>    Against the furious queene,</l>
+                  <l>  At Woodstocke builded such a bower,</l>
+                  <l>    The like was never scene.</l>
+               </lg>
+               <lg>
+                  <l>  Most curiously that bower was built</l>
+                  <l>    Of stone and timber strong,</l>
+                  <l>  An hundred and fifty doors</l>
+                  <l>   Did to this bower belong:</l>
+               </lg>
+               <lg>
+                  <l>  And they so cunninglye contriv'd</l>
+                  <l>    With turnings round about,</l>
+                  <l>  That none but with a clue of thread,</l>
+                  <l>    Could enter in or out.</l>
+               </lg>
+               <lg>
+                  <l>  And for his love and ladyes sake,</l>
+                  <l>    That was so faire and brighte,</l>
+                  <l>  The keeping of this bower he gave</l>
+                  <l>    Unto a valiant knighte.</l>
+               </lg>
+               <lg>
+                  <l>  But fortune, that doth often frowne</l>
+                  <l>    Where she before did smile,</l>
+                  <l>  The kinges delighte and ladyes so</l>
+                  <l>    Full soon shee did beguile:</l>
+               </lg>
+               <lg>
+                  <l>  For why, the kinges ungracious sonne,</l>
+                  <l>    Whom he did high advance,</l>
+                  <l>  Against his father raised warres</l>
+                  <l>    Within the realme of France.</l>
+               </lg>
+               <lg>
+                  <l>  But yet before our comelye king</l>
+                  <l>    The English land forsooke,</l>
+                  <l>  Of Rosamond, his lady faire,</l>
+                  <l>    His farewelle thus he tooke:</l>
+               </lg>
+               <lg>
+                  <l>  "My Rosamonde, my only Rose,</l>
+                  <l>    That pleasest best mine eye:</l>
+                  <l>  The fairest flower in all the worlde</l>
+                  <l>    To feed my fantasye:</l>
+               </lg>
+               <lg>
+                  <l>  The flower of mine affected heart,</l>
+                  <l>    Whose sweetness doth excelle:</l>
+                  <l>  My royal Rose, a thousand times</l>
+                  <l>    I bid thee nowe farwelle!</l>
+               </lg>
+               <lg>
+                  <l>  For I must leave my fairest flower,</l>
+                  <l>    My sweetest Rose, a space,</l>
+                  <l>  And cross the seas to famous France,</l>
+                  <l>    Proud rebelles to abase.</l>
+               </lg>
+               <lg>
+                  <l>  But yet, my Rose, be sure thou shalt</l>
+                  <l>    My coming shortlye see,</l>
+                  <l>  And in my heart, when hence I am,</l>
+                  <l>    Ile beare my Rose with mee."</l>
+               </lg>
+               <lg>
+                  <l>  When Rosamond, that ladye brighte,</l>
+                  <l>    Did heare the king saye soe,</l>
+                  <l>  The sorrowe of her grieved heart</l>
+                  <l>    Her outward lookes did showe;</l>
+               </lg>
+               <lg>
+                  <l>  And from her cleare and crystall eyes</l>
+                  <l>    The teares gusht out apace,</l>
+                  <l>  Which like the silver-pearled dewe</l>
+                  <l>    Ranne downe her comely face.</l>
+               </lg>
+               <lg>
+                  <l>  Her lippes, erst like the corall redde,</l>
+                  <l>    Did waxe both wan and pale,</l>
+                  <l>  And for the sorrow she conceivde</l>
+                  <l>    Her vitall spirits faile;</l>
+               </lg>
+               <lg>
+                  <l>  And falling down all in a swoone</l>
+                  <l>    Before King Henryes face,</l>
+                  <l>  Full oft he in his princelye armes</l>
+                  <l>    Her bodye did embrace:</l>
+               </lg>
+               <lg>
+                  <l>  And twentye times, with watery eyes,</l>
+                  <l>    He kist her tender cheeke,</l>
+                  <l>  Untill he had revivde againe</l>
+                  <l>    Her senses milde and meeke.</l>
+               </lg>
+               <lg>
+                  <l>  Why grieves my Rose, my sweetest Rose?</l>
+                  <l>    The king did often say.</l>
+                  <l>  Because, quoth shee, to bloodye warres</l>
+                  <l>    My lord must part awaye.</l>
+               </lg>
+               <lg>
+                  <l>  But since your grace on forrayne coastes</l>
+                  <l>    Amonge your foes unkinde</l>
+                  <l>  Must goe to hazard life and limbe,</l>
+                  <l>    Why should I staye behinde?</l>
+               </lg>
+               <lg>
+                  <l>  Nay rather, let me, like a page,</l>
+                  <l>    Your sworde and target beare;</l>
+                  <l>  That on my breast the blowes may lighte,</l>
+                  <l>    Which would offend you there.</l>
+               </lg>
+               <lg>
+                  <l>  Or lett mee, in your royal tent,</l>
+                  <l>    Prepare your bed at nighte,</l>
+                  <l>  And with sweete baths refresh your grace,</l>
+                  <l>    Ar your returne from fighte.</l>
+               </lg>
+               <lg>
+                  <l>  So I your presence may enjoye</l>
+                  <l>    No toil I will refuse;</l>
+                  <l>  But wanting you, my life is death;</l>
+                  <l>    Nay, death Ild rather chuse!</l>
+               </lg>
+               <lg>
+                  <l>  "Content thy self, my dearest love;</l>
+                  <l>    Thy rest at home shall bee</l>
+                  <l>  In Englandes sweet and pleasant isle;</l>
+                  <l>    For travell fits not thee.</l>
+               </lg>
+               <lg>
+                  <l>  Faire ladies brooke not bloodye warres;</l>
+                  <l>    Soft peace their sexe delights;</l>
+                  <l>  Not rugged campes, but courtlye bowers;</l>
+                  <l>    Gay feastes, not cruell fights.'</l>
+               </lg>
+               <lg>
+                  <l>  My Rose shall safely here abide,</l>
+                  <l>    With musicke passe the daye;</l>
+                  <l>  Whilst I, amonge the piercing pikes,</l>
+                  <l>    My foes seeke far awaye.</l>
+               </lg>
+               <lg>
+                  <l>  My Rose shall shine in pearle, and golde,</l>
+                  <l>    Whilst Ime in armour dighte;</l>
+                  <l>  Gay galliards here my love shall dance,</l>
+                  <l>    Whilst I my foes goe fighte.</l>
+               </lg>
+               <lg>
+                  <l>  And you, Sir Thomas, whom I truste</l>
+                  <l>    To bee my loves defence;</l>
+                  <l>  Be careful of my gallant Rose</l>
+                  <l>    When I am parted hence."</l>
+               </lg>
+               <lg>
+                  <l>  And therewithall he fetcht a sigh,</l>
+                  <l>    As though his heart would breake:</l>
+                  <l>  And Rosamonde, for very grief,</l>
+                  <l>    Not one plaine word could speake.</l>
+               </lg>
+               <lg>
+                  <l>  And at their parting well they mighte</l>
+                  <l>    In heart be grieved sore:</l>
+                  <l>  After that daye faire Rosamonde</l>
+                  <l>    The king did see no more.</l>
+               </lg>
+               <lg>
+                  <l>  For when his grace had past the seas,</l>
+                  <l>    And into France was gone;</l>
+                  <l>  With envious heart, Queene Ellinor,</l>
+                  <l>    To Woodstocke came anone.</l>
+               </lg>
+               <lg>
+                  <l>  And forth she calls this trustye knighte,</l>
+                  <l>    In an unhappy houre;</l>
+                  <l>  Who with his clue of twined thread,</l>
+                  <l>    Came from this famous bower.</l>
+               </lg>
+               <lg>
+                  <l>  And when that they had wounded him,</l>
+                  <l>    The queene this thread did gette,</l>
+                  <l>  And went where Ladye Rosamonde</l>
+                  <l>    Was like an angell sette.</l>
+               </lg>
+               <lg>
+                  <l>  But when the queene with stedfast eye</l>
+                  <l>    Beheld her beauteous face,</l>
+                  <l>  She was amazed in her minde</l>
+                  <l>    At her exceeding grace.</l>
+               </lg>
+               <lg>
+                  <l>  Cast off from thee those robes, she said,</l>
+                  <l>    That riche and costlye bee;</l>
+                  <l>  And drinke thou up this deadlye draught,</l>
+                  <l>    Which I have brought to thee.</l>
+               </lg>
+               <lg>
+                  <l>  Then presentlye upon her knees</l>
+                  <l>    Sweet Rosamonde did fall;</l>
+                  <l>  And pardon of the queene she crav'd</l>
+                  <l>    For her offences all.</l>
+               </lg>
+               <lg>
+                  <l>  "Take pitty on my youthfull yeares,"</l>
+                  <l>    Faire Rosamonde did crye;</l>
+                  <l>  "And lett mee not with poison stronge</l>
+                  <l>    Enforced bee to dye.</l>
+               </lg>
+               <lg>
+                  <l>  I will renounce my sinfull life,</l>
+                  <l>    And in some cloyster bide;</l>
+                  <l>  Or else be banisht, if you please,</l>
+                  <l>    To range the world soe wide.</l>
+               </lg>
+               <lg>
+                  <l>  And for the fault which I have done,</l>
+                  <l>    Though I was forc'd thereto,</l>
+                  <l>  Preserve my life, and punish mee</l>
+                  <l>    As you thinke meet to doe."</l>
+               </lg>
+               <lg>
+                  <l>  And with these words, her lillie handes</l>
+                  <l>    She wrunge full often there;</l>
+                  <l>  And downe along her lovely face</l>
+                  <l>    Did trickle many a teare.</l>
+               </lg>
+               <lg>
+                  <l>  But nothing could this furious queene</l>
+                  <l>    Therewith appeased bee;</l>
+                  <l>  The cup of deadlye poyson stronge,</l>
+                  <l>    As she knelt on her knee,</l>
+               </lg>
+               <lg>
+                  <l>  Shee gave this comelye dame to drinke;</l>
+                  <l>    Who tooke it in her hand,</l>
+                  <l>  And from her bended knee arose,</l>
+                  <l>    And on her feet did stand:</l>
+               </lg>
+               <lg>
+                  <l>  And casting up her eyes to heaven,</l>
+                  <l>    She did for mercye calle;</l>
+                  <l>  And drinking up the poison stronge,</l>
+                  <l>    Her life she lost withalle.</l>
+               </lg>
+               <lg>
+                  <l>  And when that death through everye limbe</l>
+                  <l>    Had showde its greatest spite,</l>
+                  <l>  Her chiefest foes did plaine confesse</l>
+                  <l>    Shee was a glorious wight.</l>
+               </lg>
+               <lg>
+                  <l>  Her body then they did entomb,</l>
+                  <l>    When life was fled away,</l>
+                  <l>  At Godstowe, neare to Oxford towne,</l>
+                  <l>    As may be scene this day.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ROBIN HOOD AND GUY OF GISBORNE</head>
+               <p rend="justify">076.jpg (18K)</p>
+               <lg>
+                  <l>  When shaws beene sheene, and shradds full fayre,</l>
+                  <l>    And leaves both large and longe,</l>
+                  <l>  Itt is merrye walking in the fayre forrest</l>
+                  <l>    To heare the small birdes songe.</l>
+               </lg>
+               <lg>
+                  <l>  The woodweele sang, and wold not cease,</l>
+                  <l>    Sitting upon the spraye,</l>
+                  <l>  Soe lowde, he wakened Robin Hood,</l>
+                  <l>    In the greenwood where he lay.</l>
+               </lg>
+               <lg>
+                  <l>  Now by my faye, sayd jollye Robin,</l>
+                  <l>    A sweaven I had this night;</l>
+                  <l>  I dreamt me of tow wighty yemen,</l>
+                  <l>    That fast with me can fight.</l>
+               </lg>
+               <lg>
+                  <l>  Methought they did mee beate and binde,</l>
+                  <l>    And tooke my bow mee froe;</l>
+                  <l>  If I be Robin alive in this lande,</l>
+                  <l>    He be wroken on them towe.</l>
+               </lg>
+               <lg>
+                  <l>  Sweavens are swift, Master, quoth John,</l>
+                  <l>    As the wind that blowes ore a hill;</l>
+                  <l>  For if itt be never so loude this night,</l>
+                  <l>    To-morrow itt may be still.</l>
+               </lg>
+               <lg>
+                  <l>  Buske yee, bowne yee, my merry men all,</l>
+                  <l>    And John shall goe with mee,</l>
+                  <l>  For Ile goe seeke yond wight yeomen,</l>
+                  <l>    In greenwood where the bee.</l>
+               </lg>
+               <lg>
+                  <l>  Then the cast on their gownes of grene,</l>
+                  <l>    And tooke theyr bowes each one;</l>
+                  <l>  And they away to the greene forrest</l>
+                  <l>    A shooting forth are gone;</l>
+               </lg>
+               <lg>
+                  <l>  Until they came to the merry greenwood,</l>
+                  <l>    Where they had gladdest bee,</l>
+                  <l>  There were the ware of a wight yeoman,</l>
+                  <l>    His body leaned to a tree.</l>
+               </lg>
+               <lg>
+                  <l>  A sword and a dagger he wore by his side,</l>
+                  <l>    Of manye a man the bane;</l>
+                  <l>  And he was clad in his capull hyde</l>
+                  <l>    Topp and tayll and mayne.</l>
+               </lg>
+               <lg>
+                  <l>  Stand you still, master, quoth Litle John,</l>
+                  <l>    Under this tree so grene,</l>
+                  <l>  And I will go to yond wight yeoman</l>
+                  <l>    To know what he doth meane.</l>
+               </lg>
+               <lg>
+                  <l>  Ah! John, by me thou settest noe store,</l>
+                  <l>    And that I farley finde:</l>
+                  <l>  How offt send I my men beffore</l>
+                  <l>    And tarry my selfe behinde?</l>
+               </lg>
+               <lg>
+                  <l>  It is no cunning a knave to ken,</l>
+                  <l>    And a man but heare him speake;</l>
+                  <l>  And itt were not for bursting of my bowe.</l>
+                  <l>    John, I thy head wold breake.</l>
+               </lg>
+               <lg>
+                  <l>  As often wordes they breeden bale,</l>
+                  <l>    So they parted Robin and John;</l>
+                  <l>  And John is gone to Barnesdale;</l>
+                  <l>    The gates he knoweth eche one.</l>
+               </lg>
+               <lg>
+                  <l>  But when he came to Barnesdale,</l>
+                  <l>    Great heavinesse there hee hadd,</l>
+                  <l>  For he found tow of his owne fellòwes</l>
+                  <l>    Were slaine both in a slade.</l>
+               </lg>
+               <lg>
+                  <l>  And Scarlette he was flyinge a-foote</l>
+                  <l>    Fast over stocke and stone,</l>
+                  <l>  For the sheriffe with seven score men</l>
+                  <l>    Fast after him is gone.</l>
+               </lg>
+               <lg>
+                  <l>  One shoote now I will shoote, quoth John,</l>
+                  <l>    With Christ his might and mayne:</l>
+                  <l>  Ile make yond fellow that flyes soe fast,</l>
+                  <l>    To stopp he shall be fayne.</l>
+               </lg>
+               <lg>
+                  <l>  Then John bent up his long bende-bowe,</l>
+                  <l>    And fetteled him to shoote:</l>
+                  <l>  The bow was made of a tender boughe,</l>
+                  <l>    And fell down to his foote.</l>
+               </lg>
+               <lg>
+                  <l>  Woe worth, woe worth thee, wicked wood,</l>
+                  <l>    That ere thou grew on a tree;</l>
+                  <l>  For now this day thou art my bale,</l>
+                  <l>    My boote when thou shold bee.</l>
+               </lg>
+               <lg>
+                  <l>  His shoote it was but loosely shott,</l>
+                  <l>    Yet flewe not the arrowe in vaine,</l>
+                  <l>  For itt mett one of the sheriffes men,</l>
+                  <l>    Good William a Trent was slaine.</l>
+               </lg>
+               <lg>
+                  <l>  It had bene better of William a Trent</l>
+                  <l>    To have bene abed with sorrowe,</l>
+                  <l>  Than to be that day in the green wood slade</l>
+                  <l>    To meet with Little Johns arrowe.</l>
+               </lg>
+               <lg>
+                  <l>  But as it is said, when men be mett</l>
+                  <l>    Fyve can doe more than three,</l>
+                  <l>  The sheriffe hath taken little John,</l>
+                  <l>    And bound him fast to a tree.</l>
+               </lg>
+               <lg>
+                  <l>  Thou shalt be drawen by dale and downe,</l>
+                  <l>    And hanged hye on a hill.</l>
+                  <l>  But thou mayst fayle of thy purpose, quoth John,</l>
+                  <l>    If itt be Christ his will.</l>
+               </lg>
+               <lg>
+                  <l>  Let us leave talking of Little John,</l>
+                  <l>    And thinke of Robin Hood,</l>
+                  <l>  How he is gone to the wight yeoman,</l>
+                  <l>    Where under the leaves he stood.</l>
+               </lg>
+               <lg>
+                  <l>  Good morrowe, good fellowe, sayd Robin so fayre,</l>
+                  <l>    Good morrowe, good fellow, quoth he:</l>
+                  <l>   Methinkes by this bowe thou beares in thy hande</l>
+                  <l>    A good archere thou sholdst bee.</l>
+               </lg>
+               <lg>
+                  <l>  I am wilfull of my waye, quo' the yeman,</l>
+                  <l>    And of my morning tyde.</l>
+                  <l>  He lead thee through the wood, sayd Robin;</l>
+                  <l>    Good fellow, He be thy guide.</l>
+               </lg>
+               <lg>
+                  <l>  I seeke an outlàwe, the straunger sayd,</l>
+                  <l>    Men call him Robin Hood;</l>
+                  <l>  Rather Ild meet with that proud outlawe,</l>
+                  <l>    Than fortye pound so good.</l>
+               </lg>
+               <lg>
+                  <l>  Now come with me, thou wighty yeman,</l>
+                  <l>    And Robin thou soone shalt see:</l>
+                  <l>  But first let us some pastime find</l>
+                  <l>    Under the greenwood tree.</l>
+               </lg>
+               <lg>
+                  <l>  First let us some masterye make</l>
+                  <l>    Among the woods so even,</l>
+                  <l>  Wee may chance to meet with Robin Hood</l>
+                  <l>    Here att some unsett steven.</l>
+               </lg>
+               <lg>
+                  <l>  They cut them downe two summer shroggs,</l>
+                  <l>    That grew both under a breere,</l>
+                  <l>  And sett them threescore rood in twaine</l>
+                  <l>    To shoot the prickes y-fere:</l>
+               </lg>
+               <lg>
+                  <l>  Lead on, good fellowe, quoth Robin Hood,</l>
+                  <l>    Lead on, I doe bidd thee.</l>
+                  <l>  Nay by my faith, good fellowe, hee sayd,</l>
+                  <l>    My leader thou shalt bee.</l>
+               </lg>
+               <lg>
+                  <l>  The first time Robin shot at the pricke,</l>
+                  <l>    He mist but an inch it froe:</l>
+                  <l>  The yeoman he was an archer good,</l>
+                  <l>    But he cold never shoote soe.</l>
+               </lg>
+               <lg>
+                  <l>  The second shoote had the wightye yeman,</l>
+                  <l>    He shote within the garlànde:</l>
+                  <l>  But Robin he shott far better than hee,</l>
+                  <l>    For he clave the good pricke wande.</l>
+               </lg>
+               <lg>
+                  <l>  A blessing upon thy heart, he sayd;</l>
+                  <l>    Good fellowe, thy shooting is goode;</l>
+                  <l>  For an thy hart be as good as thy hand,</l>
+                  <l>    Thou wert better then Robin Hoode.</l>
+               </lg>
+               <lg>
+                  <l>  Now tell me thy name, good fellowe, sayd he,</l>
+                  <l>    Under the leaves of lyne.</l>
+                  <l>  Nay by my faith, quoth bolde Robin,</l>
+                  <l>    Till thou have told me thine.</l>
+               </lg>
+               <lg>
+                  <l>  I dwell by dale and downe, quoth hee,</l>
+                  <l>    And Robin to take Ime sworne;</l>
+                  <l>  And when I am called by my right name</l>
+                  <l>    I am Guye of good Gisborne.</l>
+               </lg>
+               <lg>
+                  <l>  My dwelling is in this wood, sayes Robin,</l>
+                  <l>    By thee I set right nought:</l>
+                  <l>  I am Robin Hood of Barnèsdale,</l>
+                  <l>    Whom thou so long hast sought.</l>
+               </lg>
+               <lg>
+                  <l>  He that hath neither beene kithe nor kin,</l>
+                  <l>    Might have scene a full fayre sight,</l>
+                  <l>  To see how together these yeomen went</l>
+                  <l>    With blades both browne and bright.</l>
+               </lg>
+               <lg>
+                  <l>  To see how these yeomen together they fought</l>
+                  <l>    Two howres of a summers day:</l>
+                  <l>  Yet neither Robin Hood nor Sir Guy</l>
+                  <l>    Them fettled to flye away.</l>
+               </lg>
+               <lg>
+                  <l>  Robin was reachles on a roote,</l>
+                  <l>    And stumbled at that tyde;</l>
+                  <l>  And Guy was quick and nimble with-all,</l>
+                  <l>    And hitt him ore the left side.</l>
+               </lg>
+               <lg>
+                  <l>  Ah deere Lady, sayd Robin Hood, 'thou</l>
+                  <l>    That art both mother and may,'</l>
+                  <l>  I think it was never mans destinye</l>
+                  <l>    To dye before his day.</l>
+               </lg>
+               <lg>
+                  <l>  Robin thought on our ladye deere,</l>
+                  <l>    And soone leapt up againe,</l>
+                  <l>  And strait he came with a 'backward' stroke,</l>
+                  <l>    And he Sir Guy hath slayne.</l>
+               </lg>
+               <lg>
+                  <l>  He took Sir Guys head by the hayre,</l>
+                  <l>    And sticked itt on his bowes end:</l>
+                  <l>  Thou hast beene a traytor all thy liffe,</l>
+                  <l>    Which thing must have an ende.</l>
+               </lg>
+               <lg>
+                  <l>  Robin pulled forth an Irish kniffe,</l>
+                  <l>    And nicked Sir Guy in the face,</l>
+                  <l>  That he was never on woman born,</l>
+                  <l>    Cold tell whose head it was.</l>
+               </lg>
+               <lg>
+                  <l>  Saies, Lye there, lye there, now Sir Guye,</l>
+                  <l>    And with me be not wrothe,</l>
+                  <l>  If thou have had the worst stroked at my hand,</l>
+                  <l>    Thou shalt have the better clothe.</l>
+               </lg>
+               <lg>
+                  <l>  Robin did off his gowne of greene,</l>
+                  <l>    And on Sir Guy did it throwe,</l>
+                  <l>  And hee put on that capull hyde,</l>
+                  <l>    That cladd him topp to toe.</l>
+               </lg>
+               <lg>
+                  <l>  The bowe, the arrowes, and litle home,</l>
+                  <l>    Now with me I will beare;</l>
+                  <l>  For I will away to Barnesdale,</l>
+                  <l>    To see how my men doe fare.</l>
+               </lg>
+               <lg>
+                  <l>  Robin Hood sett Guyes horne to his mouth.</l>
+                  <l>    And a loud blast in it did blow.</l>
+                  <l>  That beheard the sheriffe of Nottingham,</l>
+                  <l>    As he leaned under a lowe.</l>
+               </lg>
+               <lg>
+                  <l>  Hearken, hearken, sayd the sheriffe,</l>
+                  <l>    I heare now tydings good,</l>
+                  <l>  For yonder I heare Sir Guyes horne blowe,</l>
+                  <l>    And he hath slaine Robin Hoode.</l>
+               </lg>
+               <lg>
+                  <l>  Yonder I heare Sir Guyes home blowe,</l>
+                  <l>    Itt blowes soe well in tyde,</l>
+                  <l>  And yonder comes that wightye yeoman,</l>
+                  <l>    Cladd in his capull hyde.</l>
+               </lg>
+               <lg>
+                  <l>  Come hyther, come hyther, thou good Sir Guy,</l>
+                  <l>    Aske what thou wilt of mee.</l>
+                  <l>  O I will none of thy gold, sayd Robin,</l>
+                  <l>    Nor I will none of thy fee:</l>
+               </lg>
+               <lg>
+                  <l>  But now I have slaine the master, he sayes,</l>
+                  <l>    Let me go strike the knave;</l>
+                  <l>  This is all the rewarde I aske;</l>
+                  <l>    Nor noe other will I have.</l>
+               </lg>
+               <lg>
+                  <l>  Thou art a madman, said the sheriffe,</l>
+                  <l>    Thou sholdest have had a knights fee:</l>
+                  <l>  But seeing thy asking hath beene soe bad,</l>
+                  <l>    Well granted it shale be.</l>
+               </lg>
+               <lg>
+                  <l>  When Litle John heard his master speake,</l>
+                  <l>    Well knewe he it was his steven:</l>
+                  <l>  Now shall I be looset, quoth Litle John,</l>
+                  <l>    With Christ his might in heaven.</l>
+               </lg>
+               <lg>
+                  <l>  Fast Robin hee hyed him to Litle John,</l>
+                  <l>    He thought to loose him belive;</l>
+                  <l>  The sheriffe and all his companye</l>
+                  <l>    Fast after him did drive.</l>
+                  <l>  Stand abacke, stand abacke, sayd Robin;</l>
+                  <l>    Why draw you mee soe neere?</l>
+                  <l>  Itt was never the use in our countrye,</l>
+                  <l>    Ones shrift another shold heere.</l>
+               </lg>
+               <lg>
+                  <l>  But Robin pulled forth an Irysh kniffe,</l>
+                  <l>    And losed John hand and foote,</l>
+                  <l>  And gave him Sir Guyes bow into his hand,</l>
+                  <l>    And bade it be his boote.</l>
+               </lg>
+               <lg>
+                  <l>  Then John he took Guyes bow in his hand,</l>
+                  <l>    His boltes and arrowes eche one:</l>
+                  <l>  When the sheriffe saw Little John bend his bow,</l>
+                  <l>    He fettled him to be gone.</l>
+               </lg>
+               <lg>
+                  <l>  Towards his house in Nottingham towne</l>
+                  <l>    He fled full fast away;</l>
+                  <l>  And soe did all his companye:</l>
+                  <l>    Not one behind wold stay.</l>
+               </lg>
+               <lg>
+                  <l>  But he cold neither runne soe fast,</l>
+                  <l>    Nor away soe fast cold ryde,</l>
+                  <l>  But Litle John with an arrowe soe broad</l>
+                  <l>    He shott him into the 'back'-syde.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE BOY &amp; THE MANTLE</head>
+               <p rend="justify">087.jpg (11K)</p>
+               <p rend="justify">mantle.jpg (152K)</p>
+               <lg>
+                  <l>  In Carleile dwelt King Arthur,</l>
+                  <l>    A prince of passing might;</l>
+                  <l>  And there maintain'd his table round,</l>
+                  <l>    Beset with many a knight.</l>
+               </lg>
+               <lg>
+                  <l>  And there he kept his Christmas</l>
+                  <l>    With mirth and princely cheare,</l>
+                  <l>  When, lo! a straunge and cunning boy</l>
+                  <l>    Before him did appeare.</l>
+               </lg>
+               <lg>
+                  <l>  A kirtle and a mantle</l>
+                  <l>    This boy had him upon,</l>
+                  <l>  With brooches, rings, and owches,</l>
+                  <l>    Full daintily bedone.</l>
+               </lg>
+               <lg>
+                  <l>  He had a sarke of silk</l>
+                  <l>    About his middle meet;</l>
+                  <l>  And thus, with seemely curtesy,</l>
+                  <l>    He did King Arthur greet.</l>
+               </lg>
+               <lg>
+                  <l>  "God speed thee, brave King Arthur,</l>
+                  <l>    Thus feasting in thy bowre;</l>
+                  <l>  And Guenever thy goodly queen,</l>
+                  <l>    That fair and peerlesse flowre.</l>
+               </lg>
+               <lg>
+                  <l>  "Ye gallant lords, and lordings,</l>
+                  <l>    I wish you all take heed,</l>
+                  <l>  Lest, what ye deem a blooming rose,</l>
+                  <l>    Should prove a cankred weed."</l>
+               </lg>
+               <lg>
+                  <l>  Then straitway from his bosome</l>
+                  <l>    A little wand he drew;</l>
+                  <l>  And with it eke a mantle</l>
+                  <l>    Of wondrous shape and hew.</l>
+               </lg>
+               <lg>
+                  <l>  "Now have you here, King Arthur,</l>
+                  <l>   Have this here of mee,</l>
+                  <l>  And give unto thy comely queen,</l>
+                  <l>   All-shapen as you see.</l>
+               </lg>
+               <lg>
+                  <l>  "No wife it shall become,</l>
+                  <l>    That once hath been to blame."</l>
+                  <l>  Then every knight in Arthur's court</l>
+                  <l>    Slye glaunced at his dame.</l>
+               </lg>
+               <lg>
+                  <l>  And first came Lady Guenever,</l>
+                  <l>    The mantle she must trye.</l>
+                  <l>  This dame, she was new-fangled,</l>
+                  <l>    And of a roving eye.</l>
+               </lg>
+               <lg>
+                  <l>  When she had tane the mantle,</l>
+                  <l>    And all was with it cladde,</l>
+                  <l>  From top to toe it shiver'd down,</l>
+                  <l>    As tho' with sheers beshradde.</l>
+               </lg>
+               <lg>
+                  <l>  One while it was too long,</l>
+                  <l>    Another while too short,</l>
+                  <l>  And wrinkled on her shoulders</l>
+                  <l>    In most unseemly sort.</l>
+               </lg>
+               <lg>
+                  <l>  Now green, now red it seemed,</l>
+                  <l>    Then all of sable hue.</l>
+                  <l>  "Beshrew me," quoth King Arthur,</l>
+                  <l>    "I think thou beest not true."</l>
+               </lg>
+               <lg>
+                  <l>  Down she threw the mantle,</l>
+                  <l>    Ne longer would not stay;</l>
+                  <l>  But, storming like a fury,</l>
+                  <l>    To her chamber flung away.</l>
+               </lg>
+               <lg>
+                  <l>  She curst the whoreson weaver,</l>
+                  <l>    That had the mantle wrought:</l>
+                  <l>  And doubly curst the froward impe,</l>
+                  <l>    Who thither had it brought.</l>
+               </lg>
+               <lg>
+                  <l>  "I had rather live in desarts</l>
+                  <l>    Beneath the green-wood tree;</l>
+                  <l>  Than here, base king, among thy groomes,</l>
+                  <l>    The sport of them and thee."</l>
+               </lg>
+               <lg>
+                  <l>  Sir Kay call'd forth his lady,</l>
+                  <l>    And bade her to come near:</l>
+                  <l>  "Yet, dame, if thou be guilty,</l>
+                  <l>    I pray thee now forbear."</l>
+               </lg>
+               <lg>
+                  <l>  This lady, pertly gigling,</l>
+                  <l>    With forward step came on,</l>
+                  <l>  And boldly to the little boy</l>
+                  <l>    With fearless face is gone.</l>
+               </lg>
+               <lg>
+                  <l>  When she had tane the mantle,</l>
+                  <l>    With purpose for to wear;</l>
+                  <l>  It shrunk up to her shoulder,</l>
+                  <l>    And left her b--- side bare.</l>
+               </lg>
+               <lg>
+                  <l>  Then every merry knight,</l>
+                  <l>    That was in Arthur's court,</l>
+                  <l>  Gib'd, and laught, and flouted,</l>
+                  <l>    To see that pleasant sport.</l>
+               </lg>
+               <lg>
+                  <l>  Downe she threw the mantle,</l>
+                  <l>    No longer bold or gay,</l>
+                  <l>  But with a face all pale and wan,</l>
+                  <l>    To her chamber slunk away.</l>
+               </lg>
+               <lg>
+                  <l>  Then forth came an old knight,</l>
+                  <l>    A pattering o'er his creed;</l>
+                  <l>  And proffer'd to the little boy</l>
+                  <l>    Five nobles to his meed;</l>
+               </lg>
+               <lg>
+                  <l>  "And all the time of Christmass</l>
+                  <l>    Plumb-porridge shall be thine,</l>
+                  <l>  If thou wilt let my lady fair</l>
+                  <l>    Within the mantle shine."</l>
+               </lg>
+               <lg>
+                  <l>  A saint his lady seemed,</l>
+                  <l>    With step demure and slow,</l>
+                  <l>  And gravely to the mantle</l>
+                  <l>    With mincing pace doth goe.</l>
+               </lg>
+               <lg>
+                  <l>  When she the same had taken,</l>
+                  <l>    That was so fine and thin,</l>
+                  <l>  It shrivell'd all about her,</l>
+                  <l>    And show'd her dainty skin.</l>
+               </lg>
+               <lg>
+                  <l>  Ah! little did HER mincing,</l>
+                  <l>    Or HIS long prayers bestead;</l>
+                  <l>  She had no more hung on her,</l>
+                  <l>    Than a tassel and a thread.</l>
+               </lg>
+               <lg>
+                  <l>  Down she threwe the mantle,</l>
+                  <l>    With terror and dismay,</l>
+                  <l>  And, with a face of scarlet,</l>
+                  <l>    To her chamber hyed away.</l>
+               </lg>
+               <lg>
+                  <l>  Sir Cradock call'd his lady,</l>
+                  <l>    And bade her to come neare:</l>
+                  <l>  "Come, win this mantle, lady,</l>
+                  <l>    And do me credit here.</l>
+               </lg>
+               <lg>
+                  <l>  "Come, win this mantle, lady,</l>
+                  <l>    For now it shall be thine,</l>
+                  <l>  If thou hast never done amiss,</l>
+                  <l>    Sith first I made thee mine."</l>
+               </lg>
+               <lg>
+                  <l>  The lady, gently blushing,</l>
+                  <l>    With modest grace came on,</l>
+                  <l>  And now to trye the wondrous charm</l>
+                  <l>    Courageously is gone.</l>
+               </lg>
+               <lg>
+                  <l>  When she had tane the mantle,</l>
+                  <l>    And put it on her backe,</l>
+                  <l>  About the hem it seemed</l>
+                  <l>    To wrinkle and to cracke.</l>
+               </lg>
+               <lg>
+                  <l>  "Lye still," shee cryed, "O mantle!</l>
+                  <l>    And shame me not for nought,</l>
+                  <l>  I'll freely own whate'er amiss,</l>
+                  <l>    Or blameful I have wrought.</l>
+               </lg>
+               <lg>
+                  <l>  "Once I kist Sir Cradocke</l>
+                  <l>    Beneathe the green-wood tree:</l>
+                  <l>  Once I kist Sir Cradocke's mouth</l>
+                  <l>    Before he married mee."</l>
+               </lg>
+               <lg>
+                  <l>  When thus she had her shriven,</l>
+                  <l>    And her worst fault had told,</l>
+                  <l>  The mantle soon became her</l>
+                  <l>    Right comely as it shold.</l>
+               </lg>
+               <lg>
+                  <l>  Most rich and fair of colour,</l>
+                  <l>    Like gold it glittering shone:</l>
+                  <l>  And much the knights in Arthur's court</l>
+                  <l>    Admir'd her every one.</l>
+               </lg>
+               <lg>
+                  <l>  Then towards King Arthur's table</l>
+                  <l>    The boy he turn'd his eye:</l>
+                  <l>  Where stood a boar's head garnished</l>
+                  <l>    With bayes and rosemarye.</l>
+               </lg>
+               <lg>
+                  <l>  When thrice he o'er the boar's head</l>
+                  <l>    His little wand had drawne,</l>
+                  <l>  Quoth he, "There's never a cuckold's knife</l>
+                  <l>    Can carve this head of brawne."</l>
+               </lg>
+               <lg>
+                  <l>  Then some their whittles rubbed</l>
+                  <l>    On whetstone, and on hone:</l>
+                  <l>  Some threwe them under the table,</l>
+                  <l>    And swore that they had none.</l>
+               </lg>
+               <lg>
+                  <l>  Sir Cradock had a little knife,</l>
+                  <l>    Of steel and iron made;</l>
+                  <l>  And in an instant thro' the skull</l>
+                  <l>    He thrust the shining blade.</l>
+               </lg>
+               <lg>
+                  <l>  He thrust the shining blade</l>
+                  <l>    Full easily and fast;</l>
+                  <l>  And every knight in Arthur's court</l>
+                  <l>    A morsel had to taste.</l>
+               </lg>
+               <lg>
+                  <l>  The boy brought forth a horne,</l>
+                  <l>    All golden was the rim:</l>
+                  <l>  Saith he, "No cuckolde ever can</l>
+                  <l>    Set mouth unto the brim.</l>
+               </lg>
+               <lg>
+                  <l>  "No cuckold can this little horne</l>
+                  <l>    Lift fairly to his head;</l>
+                  <l>  But or on this, or that side,</l>
+                  <l>    He shall the liquor shed."</l>
+               </lg>
+               <lg>
+                  <l>  Some shed it on their shoulder,</l>
+                  <l>    Some shed it on their thigh;</l>
+                  <l>  And hee that could not hit his mouth,</l>
+                  <l>    Was sure to hit his eye.</l>
+               </lg>
+               <lg>
+                  <l>  Thus he, that was a cuckold,</l>
+                  <l>    Was known of every man:</l>
+                  <l>  But Cradock lifted easily,</l>
+                  <l>    And wan the golden can.</l>
+               </lg>
+               <lg>
+                  <l>  Thus boar's head, horn and mantle,</l>
+                  <l>    Were this fair couple's meed:</l>
+                  <l>  And all such constant lovers,</l>
+                  <l>    God send them well to speed.</l>
+               </lg>
+               <lg>
+                  <l>  Then down in rage came Guenever,</l>
+                  <l>    And thus could spightful say,</l>
+                  <l>  "Sir Cradock's wife most wrongfully</l>
+                  <l>    Hath borne the prize away.</l>
+               </lg>
+               <lg>
+                  <l>  "See yonder shameless woman,</l>
+                  <l>    That makes herselfe so clean:</l>
+                  <l>  Yet from her pillow taken</l>
+                  <l>    Thrice five gallants have been.</l>
+               </lg>
+               <lg>
+                  <l>  "Priests, clarkes, and wedded men,</l>
+                  <l>    Have her lewd pillow prest:</l>
+                  <l>  Yet she the wonderous prize forsooth</l>
+                  <l>    Must beare from all the rest."</l>
+               </lg>
+               <lg>
+                  <l>  Then bespake the little boy,</l>
+                  <l>    Who had the same in hold:</l>
+                  <l>  "Chastize thy wife, King Arthur,</l>
+                  <l>    Of speech she is too bold:</l>
+               </lg>
+               <lg>
+                  <l>  "Of speech she is too bold,</l>
+                  <l>    Of carriage all too free;</l>
+                  <l>  Sir King, she hath within thy hall</l>
+                  <l>    A cuckold made of thee.</l>
+               </lg>
+               <lg>
+                  <l>  "All frolick light and wanton</l>
+                  <l>    She hath her carriage borne:</l>
+                  <l>  And given thee for a kingly crown</l>
+                  <l>    To wear a cuckold's horne."</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

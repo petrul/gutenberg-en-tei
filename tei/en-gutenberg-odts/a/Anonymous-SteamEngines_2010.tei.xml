@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Steam Engines</title>
+            <author>Anonymous</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-03T19:59:00Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/a/Anonymous-SteamEngines_2010.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Anonymous</name>
+               <date>2024-01-03T19:59:00Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Steam Engines</head>
+         <author>Anonymous</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/a/Anonymous-SteamEngines_2010.odt</p>
+         <p>E-text prepared by Chris Curnow, Harry Lamé,<lb/>and the Online Distributed Proofreading Team<lb/>(<ptr target="http://www.pgdp.net"/>)<lb/>from page images generously made available by<lb/>Internet Archive<lb/>(<ptr target="http://www.archive.org"/>)</p>
+         <table rend="frame" xml:id="Table1">
+            <row>
+               <cell>Note:</cell>
+               <cell>Images of the original pages are available through Internet Archive. See <ptr target="http://www.archive.org/details/steamengines00newyrich"/>
+               </cell>
+            </row>
+         </table>
+         <pb/>
+         <div type="div1">
+            <head>Steam Engines</head>
+            <pb/>
+            <div type="div2">
+               <head>MACHINERY’S REFERENCE SERIES</head>
+               <lg>
+                  <l>EACH NUMBER IS A UNIT IN A SERIES ON ELECTRICAL AND</l>
+                  <l>STEAM ENGINEERING DRAWING AND MACHINE</l>
+                  <l>DESIGN AND SHOP PRACTICE</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>NUMBER 70</head>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>STEAM ENGINES</head>
+            <pb/>
+            <div type="div2">
+               <head>CONTENTS</head>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell>Action of Steam Engines</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Rating and General Proportions of Steam Engines</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Steam Engine Details</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Steam Engine Economy</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Types of Steam Engines</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Steam Engine Testing</cell>
+                     <cell>41</cell>
+                  </row>
+               </table>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <p rend="justify">Copyright, 1911, The Industrial Press, Publishers of Machinery,<lb/>49-55 Lafayette Street, New York City.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER I</label>
+               </head>
+               <div type="div3">
+                  <head>ACTION OF STEAM ENGINES</head>
+                  <p rend="justify">A steam engine is a device by means of which <hi rend="italic">heat</hi> is transformed into <hi rend="italic">work</hi>. Work may be defined as the result produced by a force acting through space, and is commonly measured in foot-pounds; a foot-pound represents the work done in raising 1 pound 1 foot in height. The rate of doing work is called <hi rend="italic">power</hi>. It has been found by experiment that there is a definite relation between heat and work, in the ratio of 1 thermal unit to 778 foot-pounds of work. The number 778 is commonly called the heat equivalent of work or the mechanical equivalent of heat.</p>
+                  <p rend="justify">Heat may be transformed into mechanical work through the medium of steam, by confining a given amount in a closed chamber, and then allowing it to expand by means of a movable wall (piston) fitted into one side of the chamber. Heat is given up in the process of expansion, as shown by the lowered pressure and temperature of the steam, and work has been done in moving the wall (piston) of the closed chamber against a resisting force or pressure. When the expansion of steam takes place without the loss of heat by radiation or conduction, the relation between the pressure and volume is practically constant; that is, if a given quantity of steam expands to twice its volume in a closed chamber of the kind above described, its final pressure will be one-half that of the initial pressure before expansion took place. A pound of steam at an absolute pressure of 20 pounds per square inch has a volume of practically 20 cubic feet, and a temperature of 228 degrees. If now it be expanded so that its volume is doubled (40 cubic feet), the pressure will drop to approximately 10 pounds per square inch and the temperature will be only about 190 degrees. The drop in temperature is due to the loss of heat which has been transformed into work in the process of expansion and in moving the wall (piston) of the chamber against a resisting force, as already noted.</p>
+               </div>
+               <div type="div3">
+                  <head>Principle of the Steam Engine</head>
+                  <p rend="justify">The steam engine makes use of a closed chamber with a movable wall in transforming the heat of steam into mechanical work in the manner just described. Fig. 1 shows a longitudinal section through an engine of simple design, and illustrates the principal parts and their relation to one another.</p>
+                  <p rend="justify">Longitudinal Section through the Ames High-speed Engine</p>
+                  <p rend="justify">Fig. 1. Longitudinal Section through the Ames High-speed Engine</p>
+                  <p rend="justify">The cylinder <hi rend="italic">A</hi>  is the closed chamber in which expansion takes place, and the piston <hi rend="italic">B</hi>, the movable wall. The cylinder is of cast iron, accurately bored and finished to a circular cross-section. The piston is carefully fitted to slide easily in the cylinder, being made practically steam tight by means of packing rings. The work generated in moving the piston is transferred to the crank-pin <hi rend="italic">H</hi>  by means of the piston-rod <hi rend="italic">C</hi>, and the connecting-rod <hi rend="italic">F</hi>. The piston-rod passes out of the cylinder through a stuffing box, which prevents the leakage of steam around it. The cross-head <hi rend="italic">D</hi>  serves to guide the piston-rod in a straight line, and also contains the wrist-pin <hi rend="italic">E</hi>  which joins the piston-rod and connecting-rod. The cross-head slides upon the guide-plate <hi rend="italic">G</hi>, which causes it to move in an accurate line, and at the same time takes the downward thrust from the connecting-rod.</p>
+                  <p rend="justify">The crank-pin is connected with the main shaft <hi rend="italic">I</hi>  by means of a crank arm, which in this case is made in the form of a disk in order to give a better balance. The balance wheel or flywheel <hi rend="italic">J</hi>  carries the crank past the dead centers at the ends of the stroke, and gives a uniform motion to the shaft. The various parts of the engine are carried on a rigid bed <hi rend="italic">K</hi>, usually of cast iron, which in turn is bolted to a foundation of brick or concrete. The power developed is taken off by means of a belted pulley attached to the main shaft, or, in certain cases, in the form of electrical energy from a direct-connected dynamo.</p>
+                  <p rend="justify">When in action, a certain amount of steam (1⁄4 to 1⁄3 of the total cylinder volume in simple engines) is admitted to one end of the cylinder, while the other is open to the atmosphere. The steam forces the piston forward a certain distance by its direct action at the boiler pressure. After the supply is shut off, the forward movement of the piston is continued to the end of the stroke by the expansion of the steam. Steam is now admitted to the other end of the cylinder, and the operation repeated on the backward or return stroke.</p>
+                  <p rend="justify">Section of Cylinder, showing Slide Valve</p>
+                  <p rend="justify">Fig. 2. Section of Cylinder, showing Slide Valve</p>
+                  <p rend="justify">An enlarged section of the cylinder showing the action of the valve for admitting and exhausting the steam is shown in Fig. 2. In this case the piston is shown in its extreme backward position, ready for the forward stroke. The steam chest <hi rend="italic">L</hi>  is filled with steam at boiler pressure, which is being admitted to the narrow space back of the piston through the valve <hi rend="italic">N</hi>, as indicated by the arrows. The exhaust port <hi rend="italic">M</hi>  is in communication with the other end of the cylinder and allows the piston to move forward without resistance, except that due to the piston-rod, which transfers the work done by the expanding steam to the crank-pin. The valve <hi rend="italic">N</hi>  is operated automatically by a crank or eccentric attached to the main shaft, and opens and closes the supply and exhaust ports at the proper time to secure the results described.</p>
+               </div>
+               <div type="div3">
+                  <head>Work Diagram</head>
+                  <p rend="justify">Having discussed briefly the general principle upon which an engine operates, the next step is to study more carefully the transformation of heat into work within the cylinder, and to become familiar with the graphical methods of representing it. Work has already been defined as the result of force acting through space, and the unit of work as the foot-pound, which is the work done in raising 1 pound 1 foot in height. For example, it requires 1 × 1 = 1 foot-pound to raise 1 pound 1 foot, or 1 × 10 = 10 foot-pounds to raise 1 pound 10 feet, or 10 × 1 = 10 foot-pounds to raise 10 pounds 1 foot, or 10 × 10 = 100 foot-pounds to raise 10 pounds 10 feet, etc. That is, the product of weight or force acting, times the distance moved through, represents work; and if the force is taken in pounds and the distance in feet, the result will be in foot-pounds. This result may be shown graphically by a figure called a work diagram.</p>
+                  <p rend="justify">A Simple Work Diagram</p>
+                  <p rend="justify">Fig. 3. A Simple Work Diagram</p>
+                  <p rend="justify">In Fig. 3, let distances on the line <hi rend="italic">OY</hi>  represent the force acting, and distances on <hi rend="italic">OX</hi>  represent the space moved through. Suppose the figure to be drawn to such a scale that <hi rend="italic">OY</hi>  is 5 feet in height, and <hi rend="italic">OX</hi>  10 feet long. Let each division on <hi rend="italic">OY</hi>  represent 1 pound pressure, and each division on <hi rend="italic">OX</hi>  1 foot of space moved through. If a pressure of 5 pounds acts through a distance of 10 feet, then an amount of 5 × 10 = 50 foot-pounds of work has been done. Referring to Fig. 3, it is evident that the height <hi rend="italic">OY</hi>  (the pressure acting), multiplied by the length <hi rend="italic">OX</hi>  (the distance moved through), gives 5 × 10 = 50 square feet, which is the area of the rectangle <hi rend="italic">YCXO</hi>; that is, the area of a rectangle may represent work done, if the height represents a force acting, and the length the distance moved through. If the diagram were drawn to a smaller scale so that the divisions were 1 inch in length instead of 1 foot, the area <hi rend="italic">YCXO</hi>  would still represent the work done, except each square inch would equal 1 foot-pound instead of each square foot, as in the present illustration.</p>
+                  <p rend="justify">Another Form of Work Diagram</p>
+                  <p rend="justify">Fig. 4. Another Form of Work Diagram</p>
+                  <p rend="justify">In Fig. 4  the diagram, instead of being rectangular in form, takes a different shape on account of different forces acting at different periods over the distance moved through. In the first case (Fig. 3), a uniform force of 5 pounds acts through a distance of 10 feet, and produces 5 × 10 = 50 foot-pounds of work. In the second case (Fig. 4), forces of 5 pounds, 4 pounds, 3 pounds, 2 pounds, and 1 pound, act through distances of 2 feet each, and produce (5 × 2) + (4 × 2) + (3 × 2) + (2 × 2) + (1 × 2) = 30 foot-pounds. This is also the area, in square feet, of the figure <hi rend="italic">Y54321XO</hi>, which is made up of the areas of the five small rectangles shown by the dotted lines. Another way of finding the total area of the figure shown in Fig. 4, and determining the work done, is to multiply the length by the average of the heights of the small rectangles. The average height is found by adding the several heights and dividing the sum by their number, as follows:</p>
+                  <table rend="frame" xml:id="Table3">
+                     <row>
+                        <cell>5 + 4 + 3 + 2 + 1</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>———————</cell>
+                        <cell> = 3, and 3 × 10 = 30 square feet, as before.</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <p rend="justify">This, then, means that the average force acting throughout the stroke is 3 pounds, and the total work done is 3 × 10 = 30 foot-pounds.</p>
+                  <p rend="justify">Work Diagram when Pressure drops Uniformly</p>
+                  <p rend="justify">Fig. 5. Work Diagram when Pressure drops Uniformly</p>
+                  <p rend="justify">In Fig. 5  the pressure drops uniformly from 5 pounds at the beginning to 0 at the end of the stroke. In this case also the area and work done are found by multiplying the length of the diagram by the average height, as follows:</p>
+                  <table rend="frame" xml:id="Table4">
+                     <row>
+                        <cell>5 + 0</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>———</cell>
+                        <cell> × 10 = 25 square feet,</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <p rend="justify">or 25 foot-pounds of work done.</p>
+                  <p rend="justify">The object of Figs. 3, 4  and 5  is to show how foot-pounds of work may be represented graphically by the areas of diagrams, and also to make it clear that this remains true whatever the form of the diagram. It is also evident that knowing the area, the average height or pressure may be found by dividing by the length, and <hi rend="italic">vice versa</hi>.</p>
+                  <p rend="justify">The Ideal Work Diagram of a Steam Engine</p>
+                  <p rend="justify">Fig. 6. The Ideal Work Diagram of a Steam Engine</p>
+                  <p rend="justify">Fig. 6  shows the form of work diagram which would be produced by the action of the steam in an engine cylinder, if no heat were lost by conduction and radiation. Starting with the piston in the position shown in Fig. 2, steam is admitted at a pressure represented by the height of the line <hi rend="italic">OY</hi>. As the piston moves forward, sufficient steam is admitted to maintain the same pressure. At the point <hi rend="italic">B</hi>  the valve closes and steam is cut off. The work done up to this time is shown by the rectangle <hi rend="italic">YBbO</hi>. From the point <hi rend="italic">B</hi>  to the end of the stroke <hi rend="italic">C</hi>, the piston is moved forward by the expansion of the steam, the pressure falling in proportion to the distance moved through, until at the end of the stroke it is represented by the vertical line <hi rend="italic">CX</hi>. At the point <hi rend="italic">C</hi>  the exhaust valve opens and the pressure drops to 0 (atmospheric pressure in this case).</p>
+                  <p rend="justify">As it is always desirable to find the work done by a complete stroke of the engine, it is necessary to find the average or mean pressure acting throughout the stroke. This can only be done by determining the area of the diagram and dividing by the length of the stroke. This gives what is called the mean ordinate, which multiplied by the scale of the drawing, will give the mean or average pressure. For example, if the area of the diagram is found to be 6 square inches, and its length is 3 inches, the mean ordinate will be 6 ÷ 3 = 2 inches. If the diagram is drawn to such a scale that 1 inch on <hi rend="italic">OY</hi>  represents 10 pounds, then the average or mean pressure will be 2 × 10 = 20 pounds, and this multiplied by the actual length of the piston stroke will give the work done in foot-pounds. The practical application of the above, together with the method of obtaining steam engine indicator diagrams and measuring the areas of the same, will be taken up in detail under the heading of Steam Engine Testing.</p>
+               </div>
+               <div type="div3">
+                  <head>Definitions Relating to Engine Diagrams</head>
+                  <p rend="justify">Before taking up the construction of an actual engine diagram, it is first necessary to become familiar with certain terms which are used in connection with it.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Cut-off.</hi>—The cut-off is the point in the stroke at which the admission valve closes and the expansion of steam begins.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ratio of Expansion.</hi>—This is the reciprocal of the cut-off, that is, if the cut-off is 1⁄4, the ratio of expansion is 4. In other words, it is the ratio of the final volume of the steam at the end of the stroke to its volume at the point of cut-off. For example, a cylinder takes steam at boiler pressure until the piston has moved one-fourth the length of its stroke; the valve now closes and expansion takes place until the stroke is completed. The one-fourth cylinderful of steam has become a cylinderful, that is, it has expanded to four times its original volume, and the ratio of expansion is said to be 4.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Point of Release.</hi>—This is the point in the stroke at which the exhaust valve opens and relieves the pressure acting on the piston. This takes place just before the end of the stroke in order to reduce the shock when the piston changes its direction of travel.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Compression.</hi>—This acts in connection with the premature release in order to reduce the shock at the end of the stroke. During the forward stroke of an engine the exhaust valve in front of the piston remains open as shown in Fig. 2. Shortly before the end of the stroke this closes, leaving a certain amount of steam in the cylinder. The continuation of the stroke compresses this steam, and by raising its pressure forms a cushion, which, in connection with the removal of the pressure back of the piston by release, brings the piston to a stop and causes it to reverse its direction without shock. High-speed engines require a greater amount of compression than those running at low speed.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Clearance</hi>.—This is the space between the cylinder head and the piston when the latter is at the end of its stroke; it also includes that portion of the steam port between the valve and the cylinder. Clearance is usually expressed as a percentage of the piston-displacement of the cylinder, and varies in different types of engines. The following table gives approximate values for engines of different design.</p>
+                  <p rend="justify">TABLE I. CLEARANCE OF STEAM ENGINES</p>
+                  <p rend="justify">Type of Engine</p>
+                  <p rend="justify">Per Cent Clearance</p>
+                  <p rend="justify">Corliss</p>
+                  <p rend="justify">1.5</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">3.5</p>
+                  <p rend="justify">Moderate-speed</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">8</p>
+                  <p rend="justify">High-speed</p>
+                  <p rend="justify">4</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">10</p>
+                  <p rend="justify">A large clearance is evidently objectionable because it represents a space which must be filled with steam at boiler pressure at the beginning of each stroke, and from which but a comparatively small amount of work is obtained. As compression increases, the amount of steam required to fill the clearance space diminishes, but on the other hand, increasing the compression reduces the mean effective pressure.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Initial Pressure.</hi>—This is the pressure in the cylinder up to the point of cut-off. It is usually slightly less than boiler pressure owing to “wire-drawing” in the steam pipe and ports.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Terminal Pressure.</hi>—This is the pressure in the cylinder at the time release occurs, and depends upon the initial pressure, the ratio of expansion, and the amount of cylinder condensation.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Back Pressure.</hi>—This is the pressure in the cylinder when the exhaust port is open, and is that against which the piston is forced during the working stroke. For example, in Fig. 2  the small space at the left of the piston is filled with steam at initial pressure, while the space at the right of the piston is exposed to the back pressure. The working pressure varies throughout the stroke, due to the expansion of the steam, while the back pressure remains constant, except for the effect of compression at the end of the stroke. The theoretical back pressure in a non-condensing engine (one exhausting into the atmosphere) is that of the atmosphere or 14.7 pounds per square inch above a vacuum, but in actual practice it is about 2 pounds above atmospheric pressure, or 17 pounds absolute, due to the resistance of exhaust ports and connecting pipes. In the case of a condensing engine (one exhausting into a condenser) the back pressure depends upon the efficiency of the condenser, averaging about 3 pounds absolute pressure in the best practice.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Effective Pressure.</hi>—This is the difference between the pressure on the steam side of the piston and that on the exhaust side, or in other words, the difference between the working pressure and the back pressure. This value varies throughout the stroke with the expansion of the steam.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Mean Effective Pressure.</hi>—It has just been stated that the effective pressure varies throughout the stroke. The mean effective pressure (M. E. P.) is the average of all the effective pressures, and this average multiplied by the length of stroke, gives the work done per stroke.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Line of Absolute Vacuum.</hi>—In the diagram shown in Fig. 6, the line <hi rend="italic">OX</hi>  is the line of absolute vacuum; that is, it is assumed that there is no pressure on the exhaust side of the piston. In other words, the engine is exhausting into a perfect vacuum.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Atmospheric Line.</hi>—This is a line drawn parallel to the line of absolute vacuum at such a distance above it as to represent 14.7 pounds pressure per square inch, according to the scale used.</p>
+               </div>
+               <div type="div3">
+                  <head>Construction of Ideal Diagram</head>
+                  <p rend="justify">Constructing a Steam Engine Work Diagram</p>
+                  <p rend="justify">Fig. 7. Constructing a Steam Engine Work Diagram</p>
+                  <p rend="justify">One of the first steps in the design of a steam engine is the construction of an ideal diagram, and the engine is planned to produce this as nearly as possible when in operation. First assume the initial pressure, the ratio of expansion, and the percentage of clearance, for the type of engine under consideration. Draw lines <hi rend="italic">OX</hi>  and <hi rend="italic">OY</hi>  at right angles as in Fig. 7. Make <hi rend="italic">OR</hi>  the same percentage of the stroke that the clearance is of the piston displacement; make <hi rend="italic">RX</hi>  equal to the length of the stroke (on a reduced scale). Erect the perpendicular <hi rend="italic">RA</hi>  of such a height that it shall represent, to scale, an absolute pressure per square inch equal to 0.95 of the boiler pressure. Draw in the dotted lines <hi rend="italic">AK</hi>  and <hi rend="italic">KX</hi>, and the atmospheric line <hi rend="italic">LH</hi>  at a height above <hi rend="italic">OX</hi>  to represent 14.7 pounds per square inch. Locate the point of cut-off, <hi rend="italic">B</hi>, according to the assumed ratio of expansion. Points on the expansion curve <hi rend="italic">BC</hi>  are found as follows: Divide the distance <hi rend="italic">BK</hi>  into any number of equal spaces, as shown by <hi rend="italic">a</hi>, <hi rend="italic">b</hi>, <hi rend="italic">c</hi>, <hi rend="italic">d</hi>, etc., and connect them with the point <hi rend="italic">O</hi>. Through the points of intersection with <hi rend="italic">BP</hi>, as <hi rend="italic">a´</hi>, <hi rend="italic">b´</hi>, <hi rend="italic">c´</hi>, <hi rend="italic">d´</hi>, etc., draw horizontal lines, and through <hi rend="italic">a</hi>, <hi rend="italic">b</hi>, <hi rend="italic">c</hi>, <hi rend="italic">d</hi>, etc., draw vertical lines. The intersection of corresponding horizontal and vertical lines will be points on the theoretical expansion line. If the engine is to be non-condensing, the theoretical work, or indicator diagram, as it is called, will be bounded by the lines <hi rend="italic">ABCHG</hi>.</p>
+                  <p rend="justify">The actual diagram will vary somewhat from the theoretical, as shown by the shaded lines. The admission line between <hi rend="italic">A</hi>  and <hi rend="italic">B</hi>  will slant downward slightly, and the point of cut-off will be rounded, owing to the slow closing of the valve. The first half of the expansion line will fall below the theoretical, owing to a drop in pressure caused by cylinder condensation, but the actual line will rise above the theoretical in the latter part of the stroke on account of re-evaporation, due to heat given out by the hot cylinder walls to the low-pressure steam. Instead of the pressure dropping abruptly at <hi rend="italic">C</hi>, release takes place just before the end of the stroke, and the diagram is rounded at <hi rend="italic">CF</hi>  instead of having sharp corners. The back pressure line <hi rend="italic">FD</hi>  is drawn slightly above the atmospheric line, a distance to represent about 2 pounds per square inch. At <hi rend="italic">D</hi>  the exhaust valve closes and compression begins, rounding the bottom of the diagram up to <hi rend="italic">E</hi>.</p>
+                  <p rend="justify">The area of the actual diagram, as shown by the shaded lines in Fig. 7, will be smaller than the theoretical, in about the following ratio:</p>
+                  <lg>
+                     <l>Large medium-speed engines, 0.90 of theoretical area.</l>
+                     <l>Small medium-speed engines, 0.85 of theoretical area.</l>
+                     <l>High-speed engines, 0.75 of theoretical area.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER II</label>
+               </head>
+               <div type="div3">
+                  <head>RATING AND GENERAL PROPORTIONS OF STEAM ENGINES</head>
+                  <p rend="justify">The capacity or power of a steam engine is rated in horsepower, one horsepower (H. P.) being the equivalent of 33,000 foot-pounds of work done per minute. The horsepower of a given engine may be computed by the formula:</p>
+                  <table rend="frame" xml:id="Table5">
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi rend="italic">APLN</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>H. P. = </cell>
+                        <cell>———</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>33,000</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">in which</p>
+                  <table rend="frame" xml:id="Table6">
+                     <row>
+                        <cell>
+                           <hi rend="italic">A</hi>
+                        </cell>
+                        <cell>=</cell>
+                        <cell>area of piston, in square inches,</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">P</hi>
+                        </cell>
+                        <cell>=</cell>
+                        <cell>mean effective pressure per square inch,</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">L</hi>
+                        </cell>
+                        <cell>=</cell>
+                        <cell>length of stroke, in feet,</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">N</hi>
+                        </cell>
+                        <cell>=</cell>
+                        <cell>number of strokes per minute = number of revolutions × 2.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The derivation of the above formula is easily explained, as follows: The area of the piston, in square inches, multiplied by the mean effective pressure, in pounds per square inch, gives the total force acting on the piston, in pounds. The length of stroke, in feet, times the number of strokes per minute gives the distance the piston moves through, in feet per minute. It has already been shown that the pressure in pounds multiplied by the distance moved through in feet, gives the foot-pounds of work done. Hence, <hi rend="italic">A</hi> × <hi rend="italic">P</hi> × <hi rend="italic">L</hi> × <hi rend="italic">N</hi> gives the foot-pounds of work done per minute by a steam engine. If one horsepower is represented by 33,000 foot-pounds per minute, the power or rating of the engine will be obtained by dividing the total foot-pounds of work done per minute by 33,000. For ease in remembering the formula given, it is commonly written</p>
+                  <table rend="frame" xml:id="Table7">
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi rend="italic">PLAN</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>H. P. = </cell>
+                        <cell>———</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>33,000</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">in which the symbols in the numerator of the second member spell the word “Plan.”</p>
+                  <p rend="justify">
+                     <hi rend="italic">Example</hi>:—Find the horsepower of the following engine, working under the conditions stated below:</p>
+                  <list rend="bulleted">
+                     <item>Diameter of cylinder, 12 inches.</item>
+                     <item>Length of stroke, 18 inches.</item>
+                     <item>Revolutions per minute, 300.</item>
+                     <item>Mean effective pressure (M. E. P.), 40 pounds.</item>
+                  </list>
+                  <p rend="justify">In this problem, then, <hi rend="italic">A</hi> = 113 square inches; <hi rend="italic">P</hi> = 40 pounds; <hi rend="italic">L</hi> = 1.5 feet; and <hi rend="italic">N</hi> = 600 strokes.</p>
+                  <p rend="justify">Substituting in the formula,</p>
+                  <table rend="frame" xml:id="Table8">
+                     <row>
+                        <cell> </cell>
+                        <cell>40 × 1.5 × 113 × 600</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>H. P. = </cell>
+                        <cell>—————————</cell>
+                        <cell> = 123.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>33,000</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The mean effective pressure may be found, approximately, for different conditions by means of the factors in the following table of ratios, covering ordinary practice. The rule used is as follows: Multiply the absolute initial pressure by the factor corresponding to the clearance and cut-off as found from Table II, and subtract the absolute back pressure from the result, assuming this to be 17 pounds for non-condensing engines, and 3 pounds for condensing.</p>
+                  <p rend="justify">TABLE II. FACTORS FOR FINDING MEAN EFFECTIVE PRESSURE</p>
+                  <p rend="justify">Percentage<lb/>of Clearance</p>
+                  <p rend="justify">Point of Cut-off</p>
+                  <p rend="justify">1⁄10</p>
+                  <p rend="justify">1⁄6</p>
+                  <p rend="justify">1⁄4</p>
+                  <p rend="justify">1⁄3</p>
+                  <p rend="justify">1⁄2</p>
+                  <p rend="justify">3⁄4</p>
+                  <p rend="justify">1.75</p>
+                  <p rend="justify">0.35</p>
+                  <p rend="justify">0.48</p>
+                  <p rend="justify">0.60</p>
+                  <p rend="justify">0.70</p>
+                  <p rend="justify">0.85</p>
+                  <p rend="justify">0.96</p>
+                  <p rend="justify">3.00</p>
+                  <p rend="justify">0.37</p>
+                  <p rend="justify">0.49</p>
+                  <p rend="justify">0.61</p>
+                  <p rend="justify">0.71</p>
+                  <p rend="justify">0.85</p>
+                  <p rend="justify">0.96</p>
+                  <p rend="justify">5.00</p>
+                  <p rend="justify">0.39</p>
+                  <p rend="justify">0.50</p>
+                  <p rend="justify">0.62</p>
+                  <p rend="justify">0.72</p>
+                  <p rend="justify">0.86</p>
+                  <p rend="justify">0.97</p>
+                  <p rend="justify">7.00</p>
+                  <p rend="justify">0.41</p>
+                  <p rend="justify">0.52</p>
+                  <p rend="justify">0.63</p>
+                  <p rend="justify">0.73</p>
+                  <p rend="justify">0.86</p>
+                  <p rend="justify">0.97</p>
+                  <p rend="justify">9.00</p>
+                  <p rend="justify">0.43</p>
+                  <p rend="justify">0.54</p>
+                  <p rend="justify">0.64</p>
+                  <p rend="justify">0.73</p>
+                  <p rend="justify">0.86</p>
+                  <p rend="justify">0.97</p>
+                  <p rend="justify">
+                     <hi rend="italic">Example 1</hi>:—A non-condensing engine having 3 per cent clearance, cuts off at 1⁄3 stroke; the initial pressure is 90 pounds gage. What is the M. E. P.?</p>
+                  <p rend="justify">The absolute initial pressure is 90 + 15 = 105 pounds. The factor for 3 per cent clearance and 1⁄3 cut-off, from Table II, is 0.71. Applying the rule we have: (105 × 0.71) - 17 = 57.5 pounds per square inch.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Example 2</hi>:—A condensing engine has a clearance of 5 per cent. It is supplied with steam at 140 pounds gage pressure, and has a ratio of expansion of 6. What is the M. E. P.?</p>
+                  <p rend="justify">The absolute initial pressure is 140 + 15 = 155. The factor for a ratio of expansion of 6 (1⁄6 cut-off) and 5 per cent clearance is 0.5, which gives (155 × 0.5) - 3 = 74.5 pounds per square inch.</p>
+                  <p rend="justify">The power of an engine computed by the method just explained is called the indicated horsepower (I. H. P.), and gives the total power developed, including that required to overcome the friction of the engine itself. The delivered or brake horsepower (B. H. P.) is that delivered by the engine after deducting from the indicated horsepower the power required to operate the moving parts. The brake horsepower commonly varies from 80 to 90 per cent of the indicated horsepower at full load, depending upon the type and size of engine.</p>
+                  <p rend="justify">In proportioning an engine cylinder for any given horsepower, the designer usually has the following data, either given or assumed, for the special type of engine under consideration: Initial pressure, back pressure, clearance, cut-off, and piston speed.</p>
+                  <p rend="justify">These quantities vary in different types of engines, but in the absence of more specific data the values in Table III  will be found useful. The back pressure may be taken as 17 pounds per square inch, absolute, for non-condensing engines, and as 3 pounds for condensing engines as previously stated.</p>
+                  <p rend="justify">TABLE III. PRESSURE, CLEARANCE, CUT-OFF AND PISTON SPEED<lb/>OF STEAM ENGINES</p>
+                  <p rend="justify">Type of Engine</p>
+                  <lg>
+                     <l>Initial</l>
+                     <l>Pressure,</l>
+                     <l>(Gage)</l>
+                  </lg>
+                  <p rend="justify">Clearance,<lb/>Per Cent</p>
+                  <lg>
+                     <l>Cut-off,</l>
+                     <l>Proportion</l>
+                     <l>of Stroke</l>
+                  </lg>
+                  <lg>
+                     <l>Piston Speed,</l>
+                     <l>Feet</l>
+                     <l>per Minute</l>
+                  </lg>
+                  <p rend="justify">Simple high-speed</p>
+                  <p rend="justify">80</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">90</p>
+                  <p rend="justify">4</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">10  </p>
+                  <p rend="justify">1⁄4</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">1⁄3</p>
+                  <p rend="justify">600</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">800</p>
+                  <p rend="justify">Simple medium-speed</p>
+                  <p rend="justify">80</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">90</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">8  </p>
+                  <p rend="justify">1⁄4</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">1⁄3</p>
+                  <p rend="justify">500</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">700</p>
+                  <p rend="justify">Simple Corliss</p>
+                  <p rend="justify">80</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">90</p>
+                  <p rend="justify">1.5</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">3.5</p>
+                  <p rend="justify">1⁄4</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">1⁄3</p>
+                  <p rend="justify">400</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">600</p>
+                  <p rend="justify">Compound high-speed</p>
+                  <p rend="justify">130</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">140</p>
+                  <p rend="justify">4</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">10  </p>
+                  <p rend="justify">1⁄10</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">1⁄8</p>
+                  <p rend="justify">600</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">800</p>
+                  <p rend="justify">Compound medium-speed</p>
+                  <p rend="justify">130</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">140</p>
+                  <p rend="justify">3</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">8  </p>
+                  <p rend="justify">1⁄10</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">1⁄8</p>
+                  <p rend="justify">500</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">700</p>
+                  <p rend="justify">Compound Corliss</p>
+                  <p rend="justify">130</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">140</p>
+                  <p rend="justify">1.5</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">3.5</p>
+                  <p rend="justify">1⁄10</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">1⁄8</p>
+                  <p rend="justify">400</p>
+                  <p rend="justify">to</p>
+                  <p rend="justify">600</p>
+                  <p rend="justify">The first step in proportioning the cylinder is to compute the approximate mean effective pressure from the assumed initial pressure, clearance, and cut-off, by the method already explained. Next assume the piston speed for the type of engine to be designed, and determine the piston area by the following formula:</p>
+                  <table rend="frame" xml:id="Table9">
+                     <row>
+                        <cell> </cell>
+                        <cell>33,000 H. P.</cell>
+                     </row>
+                     <row>
+                        <cell>A = </cell>
+                        <cell>——————————.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>M. E. P. × piston speed</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">This formula usually gives the diameter of the piston in inches and fractions of an inch, while it is desirable to make this dimension an even number of inches. This may be done by taking as the diameter the nearest whole number, and changing the piston speed to correspond. This is done by the use of the following equation.</p>
+                  <table rend="frame" xml:id="Table10">
+                     <row>
+                        <cell>First piston speed × first piston area</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>——————————————</cell>
+                        <cell> = new piston speed.</cell>
+                     </row>
+                     <row>
+                        <cell>new piston area</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <p rend="justify">In calculating the effective piston area, the area of the piston rod upon one side must be allowed for. The effective or average piston area will then be (2<hi rend="italic">A</hi> - <hi rend="italic">a</hi>)⁄2, in which <hi rend="italic">A</hi> = area of piston, <hi rend="italic">a</hi> = area of piston rod. This latter area must be assumed. After assuming a new piston diameter of even inches, its effective or average area must be used in determining the new piston speed. The length of stroke is commonly proportioned to the diameter of cylinder, and the piston speed divided by this will give the number of strokes per minute.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Example</hi>:—Find the diameter of cylinder, length of stroke, and revolutions per minute for a simple high-speed non-condensing engine of 200 I. H. P., with the following assumptions: Initial pressure, 90 pounds gage; clearance, 7 per cent; cut-off, 1⁄4; piston speed, 700 feet per minute; length of stroke, 1.5 times cylinder diameter.</p>
+                  <p rend="justify">By using the rules and formulas in the foregoing, we have:</p>
+                  <p rend="justify">M. E. P. = (90 + 15) × 0.63 - 17 = 49 pounds.</p>
+                  <table rend="frame" xml:id="Table11">
+                     <row>
+                        <cell> </cell>
+                        <cell>33,000 × 200</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">A</hi> = </cell>
+                        <cell>——————</cell>
+                        <cell> = 192.4 square inches.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>49 × 700</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The nearest piston diameter of even inches is 16, which corresponds to an area of 201 square inches. Assume a piston rod diameter of 21⁄2 inches, corresponding to an area of 4.9 square inches, from which the average or effective piston area is found to be (2 × 201) - 4.9⁄2 = 198.5 square inches.</p>
+                  <p rend="justify">Determining now the new piston speed, we have:</p>
+                  <table rend="frame" xml:id="Table12">
+                     <row>
+                        <cell>700 × 192.4</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>—————</cell>
+                        <cell> = 678.5 feet per minute.</cell>
+                     </row>
+                     <row>
+                        <cell>198.5</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Assuming the length of stroke to be 1.5 times the diameter of the cylinder, it will be 24 inches, or 2 feet.</p>
+                  <p rend="justify">This will call for 678.5 ÷ 2 = 340 strokes per minute, approximately, or 340 ÷ 2 = 170 revolutions per minute.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER III</label>
+               </head>
+               <div type="div3">
+                  <head>STEAM ENGINE DETAILS</head>
+                  <p rend="justify">Some of the most important details of a steam engine are those of its valve gear. The simplest form of valve is that known as the plain slide valve, and as nearly all others are a modification of this, it is essential that the designer should first familiarize himself with this particular type of valve in all its details of operation. After this has been done, a study of other forms of valves will be found a comparatively easy matter. The so called Corliss valve differs radically from the slide valve, but the results to be obtained and the terms used in its design are practically the same. The valve gear of a steam engine is made up of the valve or valves which admit steam to and exhaust it from the cylinder, and of the mechanism which governs the valve movements, the latter usually consisting of one or more eccentrics attached to the main shaft.</p>
+               </div>
+               <div type="div3">
+                  <head>The Slide Valve</head>
+                  <p rend="justify">Longitudinal Section of Slide Valve with Ports</p>
+                  <p rend="justify">Fig. 8. Longitudinal Section of Slide Valve with Ports</p>
+                  <p rend="justify">Fig. 8  shows a longitudinal section of a slide valve with the ports, bridges, etc. The valve is shown in mid-position in order that certain points relating to it may be more easily understood. The valve, <hi rend="italic">V</hi>, consists of a hollow casting, with ends projecting beyond the ports as shown; the lower face is smoothly finished and fitted to the valve seat <hi rend="italic">AB</hi>. In operation it slides back and forth, opening and closing the ports which connect the steam chest with the cylinder. Steam is admitted to the cylinder when either port <hi rend="italic">CD</hi>  or <hi rend="italic">DC</hi>  is opened, and is released when the ports are brought into communication with the exhaust port <hi rend="italic">MN</hi>. This is accomplished by the movement of the valve, which brings one of the cylinder ports and the exhaust port both under the hollow arch <hi rend="italic">K</hi>. The portions <hi rend="italic">DM</hi>  and <hi rend="italic">ND</hi>  of the valve seat are called the bridges.</p>
+                  <p rend="justify">Illustration showing Lead of Slide Valve</p>
+                  <p rend="justify">Fig. 9. Illustration showing Lead of Slide Valve</p>
+                  <p rend="justify">It will be seen by reference to Fig. 8  that the portions <hi rend="italic">OI</hi>  and <hi rend="italic">IO</hi>  are wider than the ports which they cover. This extra width is called the <hi rend="italic">lap</hi>, <hi rend="italic">OC</hi>  being the outside lap and <hi rend="italic">DI</hi>  the inside or exhaust lap. The object of outside lap is that the steam may be shut off after the piston has moved forward a certain distance, and be expanded during the remainder of the stroke. If there were no outside lap, steam would be admitted throughout the entire stroke and there would be no expansion. If there were no inside lap, exhaust would take place throughout the whole stroke, and the advantages of premature release and compression would be lost. Hence, outside lap affects the cut-off, and inside lap affects release and compression. A valve has <hi rend="italic">lead</hi>  when it begins to uncover the steam port before the end of the return stroke of the piston. This is shown in Fig. 9, where the piston <hi rend="italic">P</hi>  is just ready to start on its forward stroke as indicated by the arrow. The valve has already opened a distance equal to the lead, and the steam has had an opportunity to enter and fill the clearance space before the beginning of the stroke. The lead varies in different engines, being greater in high-speed than in low-speed types.</p>
+               </div>
+               <div type="div3">
+                  <head>The Eccentric</head>
+                  <p rend="justify">Diagrammatical View of Eccentric</p>
+                  <p rend="justify">Fig. 10. Diagrammatical View of Eccentric</p>
+                  <p rend="justify">Relations of Crank and Eccentric</p>
+                  <p rend="justify">Fig. 11. Relations of Crank and Eccentric</p>
+                  <p rend="justify">The slide valve is usually driven by an eccentric attached to the main shaft. A diagram of an eccentric is shown in Fig. 10. An eccentric is, in reality, a short crank with a crank-pin of such size that it surrounds the shaft. The arm of a crank is the distance between the center of the shaft, and the center of the crank-pin. The throw of an eccentric corresponds to this, and is the distance between the center of the shaft and the center of the eccentric disk, as shown at <hi rend="italic">a</hi>  in Fig. 10. The disk is keyed to the shaft, and as the shaft revolves, the center of the disk rotates about it as shown by the dotted line, and gives a forward and backward movement to the valve rod equal to twice the throw <hi rend="italic">a</hi>.</p>
+                  <p rend="justify">In Fig. 11  let <hi rend="italic">A</hi>  represent the center of the main shaft, <hi rend="italic">B</hi>  the crank-pin to which the connecting-rod is attached (see <hi rend="italic">H</hi>, 1), and the dotted circle through <hi rend="italic">B</hi>  the path of the crank-pin around the shaft. For simplicity, let the eccentric be represented in a similar manner by the crank <hi rend="italic">Ab</hi>, and its path by the dotted circle through <hi rend="italic">b</hi>. Fig. 12  shows a similar diagram with the piston <hi rend="italic">P</hi>  and the valve in the positions corresponding to the positions of the crank and eccentric in Fig. 11, and in the diagram at the right in Fig. 12. The piston is at the extreme left, ready to start on its forward stroke toward the right. The crank-pin <hi rend="italic">B</hi>  is at its extreme inner position. When the valve is at its mid-position, as in Fig. 8, the eccentric arm <hi rend="italic">Ab</hi>  will coincide with the line <hi rend="italic">AC</hi>, Fig. 11. If the eccentric is turned on the shaft sufficiently to bring the left-hand edge <hi rend="italic">O</hi>, Fig. 8, of the valve in line with the edge <hi rend="italic">C</hi>  of the port, the arm of the eccentric will have moved from its vertical position to that shown by the line <hi rend="italic">Ab´</hi>  in Fig. 11. The angle through which the eccentric has been turned from the vertical to bring about this result is called the <hi rend="italic">angular advance</hi>, and is shown by angle <hi rend="italic">CAb´</hi>  in Fig. 11. The angular advance evidently depends upon the amount of lap.</p>
+                  <p rend="justify">If the valve is to be given a lead, as indicated in Fig. 12, the eccentric must be turned still further on the shaft to open the valve slightly before the piston starts on its forward movement. This brings the eccentric to the position <hi rend="italic">Ab</hi>  shown in Fig. 11. The angle through which the eccentric is turned to give the necessary lead opening to the valve is called the <hi rend="italic">angle of lead</hi>, and is shown by angle <hi rend="italic">b´Ab</hi>. By reference to Fig. 11, it is seen that the total angle between the crank and the eccentric is 90 degrees, plus the angular advance, plus the angle of lead. This is the total angle of advance.</p>
+                  <p rend="justify">The relative positions of the piston and valve at different periods of the stroke are illustrated in Figs. 12 to 16. Fig. 12  shows the piston just beginning the forward stroke, the valve having uncovered the admission port an amount equal to the lead. The crank is in a horizontal position, and the eccentric has moved from the vertical an amount sufficient to move the valve toward the right a distance equal to the outside lap plus the lead. The arrows show that steam is entering the left-hand port and is being exhausted through the right-hand port.</p>
+                  <table rend="frame" xml:id="Table13">
+                     <row>
+                        <cell>Piston just beginning Forward Stroke</cell>
+                        <cell>Steam Port fully Opened</cell>
+                     </row>
+                     <row>
+                        <cell>Fig. 12. Piston just beginning Forward Stroke</cell>
+                        <cell>Fig. 13. Steam Port fully Opened</cell>
+                     </row>
+                     <row>
+                        <cell>Valve has started on Backward Stroke</cell>
+                        <cell>Both Steam Ports Closed</cell>
+                     </row>
+                     <row>
+                        <cell>Fig. 14. Valve has started on Backward Stroke</cell>
+                        <cell>Fig. 15. Both Steam Ports Closed</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Exhaust Begins</p>
+                  <p rend="justify">Fig. 16. Exhaust Begins</p>
+                  <p rend="justify">In Fig. 13  it is seen that the valve has traveled forward sufficiently to open the steam port to its fullest extent, and the piston has moved to the point indicated. The exhaust port is still wide open, and the relative positions of the crank and eccentric are shown in the diagram at the right. In Fig. 14  the eccentric has passed the horizontal position and the valve has started on its backward stroke, while the piston is still moving forward. The admission port is closed, cut-off having taken place, and the steam is expanding. The exhaust port is still partially open.</p>
+                  <p rend="justify">In Fig. 15  both ports are closed and compression is taking place in front of the piston while expansion continues back of it. Release occurs in Fig. 16  just before the piston reaches the end of its stroke. The eccentric crank is now in a vertical position, pointing downward, and exhaust is just beginning to take place through the left-hand port. This completes the different stages of a single stroke, the same features being repeated upon the return of the piston to its original position. The conditions of lap, lead, angular advance, etc., pertain to practically all valves, whatever their design.</p>
+               </div>
+               <div type="div3">
+                  <head>Different Types of Valves</head>
+                  <p rend="justify">In the following are shown some of the valves in common use, being, with the exception of the Corliss, modifications of the plain slide valve, and similar in their action.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Double-Ported Balanced Valve.</hi>—A valve of this type has already been shown in Fig. 2. This valve is flat in form, with two finished surfaces, and works between the valve-seat and a plate, the latter being prevented from pressing against the valve by special bearing surfaces which hold it about 0.002 inch away. The construction of the valve is such that when open the steam reaches the port through two openings as indicated by the arrows at the left. The object of this is to reduce the motion of the valve and quicken its action in admitting and cutting off steam.</p>
+                  <p rend="justify">Engine with Piston Valve</p>
+                  <p rend="justify">Fig. 17. Engine with Piston Valve</p>
+                  <p rend="justify">
+                     <hi rend="italic">Piston Valve.</hi>—The piston valve shown in Fig. 17  is identical in its action with the plain slide valve shown in Fig. 8, except that it is circular in section instead of being flat or rectangular. The advantage claimed for this type of valve is the greater ease in fitting cylindrical surfaces as compared with flat ones. The valve slides in special bushings which may be renewed when worn. Piston valves are also made with double ports.</p>
+                  <p rend="justify">Section through Cylinder of Engine of the Four-valve Type</p>
+                  <p rend="justify">Fig. 18. Section through Cylinder of Engine of the Four-valve Type</p>
+                  <p rend="justify">
+                     <hi rend="italic">Four-Valve Type.</hi>—Fig. 18  shows a horizontal section through the cylinder and valves of an engine of the four-valve type. The admission valves are shown at the top of the illustration and the exhaust valves at the bottom, although, in reality, they are at the sides of the cylinder. The advantage of an arrangement of this kind is that the valves may be set independently of each other and the work done by the two ends of the cylinder equalized. The various events, such as cut-off, compression, etc., may be adjusted without regard to each other, and in such a manner as to give the best results, a condition which is not possible with a single valve.</p>
+                  <p rend="justify">Different Types of Corliss Valves</p>
+                  <p rend="justify">Fig. 19. Different Types of Corliss Valves</p>
+                  <p rend="justify">Longitudinal Section through Corliss Engine</p>
+                  <p rend="justify">Fig. 20. Longitudinal Section through Corliss Engine</p>
+                  <p rend="justify">The Gridiron Valve</p>
+                  <p rend="justify">Fig. 21. The Gridiron Valve</p>
+                  <p rend="justify">
+                     <hi rend="italic">Gridiron Valve.</hi>—One of the principal objects sought in the design of a valve is quick action at the points of admission and cut-off. This requires the uncovering of a large port opening with a comparatively small travel of the valve. The gridiron valve shown in Fig. 21  is constructed especially for this purpose. This valve is of the four-valve type, one steam valve and one exhaust valve being shown in the section. Both the valve and its seat contain a number of narrow openings or ports, so that a short movement of the valve will open or close a comparatively large opening. For example, the steam valve in the illustration has 12 openings, so that if they are 1⁄4 inch in width each, a movement of 1⁄4 inch of the valve will open a space 12 × 1⁄4 = 3 inches in length.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Corliss Valve.</hi>—A section through an engine cylinder equipped with Corliss valves is shown in Fig. 20. There are four cylindrical valves in this type of engine, two steam valves at the top and two exhaust valves at the bottom. This arrangement is used to secure proper drainage. The action of the admission and exhaust valves is indicated by the arrows, the upper left-hand and the lower right-hand valve being open and the other two closed.</p>
+                  <p rend="justify">The Monarch Engine with Corliss Valve Gear</p>
+                  <lg>
+                     <l>Fig. 22. The Monarch Engine with Corliss Valve Gear.—A, Rod to Eccentric; B, Governor;</l>
+                     <l>C, Reach Rod; D, Radial Arm; E, Steam Valve; F, Bell-crank; G, Wrist Plate;</l>
+                     <l>H, Exhaust Valve; K, Dash-pot</l>
+                  </lg>
+                  <p rend="justify">Side and sectional views of different forms of this type of valve are shown in Fig. 19. They are operated by means of short crank-arms which are attached to a wrist-plate by means of radial arms or rods, as shown in Fig. 22. The wrist-plate, in turn, is given a partial backward and forward rotation by means of an eccentric attached to the main shaft and connected to the upper part of the wrist-plate by a rod as indicated. The exhaust valves are both opened and closed by the action of the wrist-plate and connecting rods. The steam valves are opened in this manner, but are closed by the suction of dash pots attached to the drop levers on the valve stems by means of vertical rods, as shown.</p>
+                  <p rend="justify">Fig 23</p>
+                  <p rend="justify">Fig 24</p>
+                  <p rend="justify">Fig. 23</p>
+                  <p rend="justify">Fig. 24</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">Fig 25</p>
+                  <p rend="justify">Fig 26</p>
+                  <p rend="justify">Fig. 25</p>
+                  <p rend="justify">Fig. 26</p>
+                  <p rend="justify">Figs. 23 to 26. Action of Corliss Valve Gear</p>
+                  <p rend="justify">The action of the steam or admission valves is best explained by reference to Figs. 23 to 26. Referring to Fig. 23, <hi rend="italic">A</hi>  is a bell-crank which turns loosely upon the valve stem <hi rend="italic">V</hi>. The lower left-hand extension of <hi rend="italic">A</hi>  carries the grab hook <hi rend="italic">H</hi>, while the upper extension is connected with the wrist-plate as indicated. Ordinarily the hook <hi rend="italic">H</hi>  is pressed inward by the spring <hi rend="italic">S</hi>, so that the longer arm of the hook is always pressed against the knock-off cam <hi rend="italic">C</hi>. The cam <hi rend="italic">C</hi>  also turns upon the valve stem <hi rend="italic">V</hi>  and is connected with the governor by means of a reach rod as indicated in Fig. 23  and shown in Fig. 22. The drop lever <hi rend="italic">B</hi>  is keyed to the valve stem <hi rend="italic">V</hi>, and is connected with the dash pot by a rod as indicated by the dotted line. This is also shown in Fig. 22. The end of the drop lever carries a steel block (shown shaded in Fig. 23), which engages with the grab hook <hi rend="italic">H</hi>.</p>
+                  <p rend="justify">Governor for Corliss Engine</p>
+                  <p rend="justify">Fig. 27. Governor for Corliss Engine</p>
+                  <p rend="justify">When in operation, the bell-crank is rotated in the direction of the arrow by the action of the wrist-plate and connecting-rod. As the bell-crank rotates, the grab hook engages the steel block at the end of the drop lever <hi rend="italic">B</hi>  and lifts it, thus causing the valve to open, and to remain so until the bell-crank has advanced so far that the longer arm of the grab hook <hi rend="italic">H</hi>  is pressed outward by the projection on the knock-off cam, as shown in Fig. 24. The drop lever now being released, the valve is quickly closed by the suction of the dash pot, which pulls the lever down to its original position by means of the rod previously mentioned.</p>
+                  <p rend="justify">Dash-pot for Corliss Engine</p>
+                  <p rend="justify">Fig. 28. Dash-pot for Corliss Engine</p>
+                  <p rend="justify">The governor operates by changing the point of cut-off through the action of the cam <hi rend="italic">C</hi>. With the cam in the position shown in Fig. 25, cut-off occurs earlier than in Fig. 24. Should the cam be turned in the opposite direction (clockwise), cut-off would take place later. A detailed view of the complete valve mechanism described is shown assembled in Fig. 26, with each part properly named. A detail of the governor is shown in Fig. 27. An increase in speed causes the revolving balls <hi rend="italic">BB</hi>  to swing outward, thus raising the weight <hi rend="italic">W</hi>  and the sleeve <hi rend="italic">S</hi>. This in turn operates the lever <hi rend="italic">L</hi>  through rod <hi rend="italic">R</hi>  and a bell-crank attachment, as shown in the right-hand view. An upward and downward movement of the balls, due to a change in speed of the engine, swings the lever <hi rend="italic">L</hi>  backward and forward as shown by the full and dotted lines. The ends of this lever are attached by means of reach-rods to the knock-off cams, this being shown more clearly in Fig. 22. The connections between the lever <hi rend="italic">L</hi>  and cam <hi rend="italic">C</hi>  are such that a raising of the balls, due to increased speed, will reduce the cut-off and thus slow down the engine. On the other hand, a falling of the balls will lengthen the cut-off through the same mechanism.</p>
+                  <p rend="justify">Mention has already been made of the dash pot which is used to close the valve suddenly after being released from the grab hook. The dash-pot rod is shown in Fig. 26, and indicated by dotted lines in Figs. 23  to 25. A detailed view of one form of dash pot is shown in Fig. 28. When the valve is opened, the rod attached to lever <hi rend="italic">B</hi>, Figs. 23  and 24, raises the piston <hi rend="italic">P</hi>, Fig. 28, and a partial vacuum is formed beneath it which draws the piston and connecting rod down by suction as soon as the lever <hi rend="italic">B</hi>  is released, and thus closes the valve suddenly and without shock. The strength of the suction and the air cushion for this piston are regulated by the inlet and outlet valves shown on the sides of the dash pot.</p>
+               </div>
+               <div type="div3">
+                  <head>Engine Details</head>
+                  <p rend="justify">Figs. 29 to 37 show various engine details, and illustrate in a simple way some of the more important principles involved in steam engine design.</p>
+                  <p rend="justify">Plan</p>
+                  <p rend="justify">Section</p>
+                  <p rend="justify">Figs. 29 and 30. Plan and Longitudinal Section of Adjustable Piston</p>
+                  <p rend="justify">A partial cross-section of an adjustable piston is shown in Fig. 29, and a longitudinal section of the same piston in Fig. 30. The principal feature to be emphasized is the method of automatic expansion employed to take up any wear and keep the piston tight. In setting up the piston a hand adjustment is made of the outer sleeve or ring <hi rend="italic">R</hi>  by means of the set-screws <hi rend="italic">AA</hi>. Ring <hi rend="italic">R</hi>  is made in several sections, so that it may be expanded in the form of a true circle. Further tightness is secured without undue friction by means of the packing ring <hi rend="italic">P</hi>  which fits in a groove in <hi rend="italic">R</hi>  and is forced lightly against the walls of the cylinder by a number of coil springs, one of which is shown at <hi rend="italic">S</hi>. As the cylinder and piston become worn, screws <hi rend="italic">A</hi>  are adjusted from time to time, and the fine adjustment for tightness is cared for by the packing ring <hi rend="italic">P</hi>  and the coil springs <hi rend="italic">S</hi>.</p>
+                  <p rend="justify">Typical Cross-Head</p>
+                  <p rend="justify">Fig. 31. A Typical Cross-head</p>
+                  <p rend="justify">The points to be brought out in connection with the cross-head are the methods of alignment and adjustment. A typical cross-head is shown in cross and longitudinal sections in Fig. 31. Alignment in a straight line, longitudinally, is secured by the cylindrical form of the bearing surfaces or shoes, shown at <hi rend="italic">S</hi>. These are sometimes made V-shaped in order to secure the same result. The wear on a cross-head comes on the surfaces <hi rend="italic">S</hi>, and is taken up by the use of screw wedges <hi rend="italic">W</hi>, shown in the longitudinal section. As the sliding surfaces become worn, the wedges are forced in slightly by screwing in the set-screws and clamping them in place by means of the check-nuts.</p>
+                  <p rend="justify">Methods Commonly Used for Taking Up Wear in a Connecting-rod</p>
+                  <p rend="justify">Figs. 32 and 33. Methods Commonly Used for Taking Up Wear in a Connecting-rod</p>
+                  <p rend="justify">The method commonly employed in taking up the wear in a connecting-rod is shown in Figs. 32  and 33. The wear at the wrist-pin is taken by the so called brasses, shown at <hi rend="italic">B</hi>  in the illustrations. The inner brass, in both cases, fits in a suitable groove, and is held stationary when once in place. The outer brass is adjustable, being forced toward the wrist-pin by a sliding wedge which is operated by one or more set-screws. In Fig. 32  the wedge is held in a vertical position, and is adjusted by two screws as shown. The arrangement made use of in Fig. 33  has the wedge passing through the rod in a horizontal position, and adjusted by means of a single screw, as shown in the lower view. With the arrangements shown, tightening up the brasses shortens the length of the rod. In practice the wedges at each end of the rod are so placed that tightening one shortens the rod, and tightening the other lengthens it, the total effect being to keep the connecting-rod at its original length.</p>
+                  <table rend="frame" xml:id="Table14">
+                     <row>
+                        <cell>Outboard Bearing for Corliss Type Engine</cell>
+                        <cell> </cell>
+                        <cell>Inner Bearing and Bed of Corliss Engine</cell>
+                     </row>
+                     <row>
+                        <cell>Fig. 34. Outboard Bearing for Corliss Type Engine</cell>
+                        <cell> </cell>
+                        <cell>Fig. 35. Inner Bearing and Bed of Corliss Engine</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Common Form of Throttling Governor</p>
+                  <p rend="justify">Fig. 36. Common Form of Throttling<lb/>Governor</p>
+                  <p rend="justify">A common form of outboard bearing for an engine of the slow-speed or Corliss type is illustrated in Fig. 34. The various adjustments for alignment and for taking up wear are the important points considered in this case. The plate <hi rend="italic">B</hi>  is fastened to the stone foundation by anchor bolts not shown. Sidewise movement is secured by loosening the bolts <hi rend="italic">C</hi>, which pass through slots in the bearing, and adjusting by means of the screws <hi rend="italic">S</hi>. Vertical adjustment is obtained by use of the wedge <hi rend="italic">W</hi>, which is forced in by the screw <hi rend="italic">A</hi>, as required. The inner bearing and bed piece of a heavy duty Corliss engine is shown in Fig. 35. The bearing in this case is made up of four sections, so arranged that either horizontal or vertical adjustment may be secured by the use of adjusting screws and check-nuts.</p>
+                  <p rend="justify">Engines of the slide-valve type are usually provided either with a fly-ball throttling governor, or a shaft governor. A common form of throttling governor is shown in Fig. 36. As the speed increases the balls <hi rend="italic">W</hi>  are thrown outward by the action of the centrifugal force, and being attached to arms hinged above them, any outward movement causes them to rise. This operates the spindle <hi rend="italic">S</hi>, which, in turn, partially closes the balanced valve in body <hi rend="italic">B</hi>, thus cutting down the steam supply delivered to the engine. The action of a throttling governor upon the work diagram of an engine is shown in Fig. 38. Let the full line represent the form of the diagram with the engine working at full load. Now, if a part of the load be thrown off, the engine will speed up slightly, causing the governor to act as described, thus bringing the admission and expansion lines into the lower positions, as shown in dotted lines.</p>
+                  <p rend="justify">The shaft governor is used almost universally on high-speed engines, and is shown in one form in Fig. 37. It consists, in this case, of two weights <hi rend="italic">W</hi>, hinged to the spokes of the wheel near the circumference by means of suitable arms. Attached to the arms, as shown, are coil springs <hi rend="italic">C</hi>. The ends of the arms beyond the weights are connected by means of levers <hi rend="italic">L</hi>  to the eccentric disk. When the engine speeds up, the weights tend to swing outward toward the rim of the wheel, the amount of the movement being regulated by the tension of the springs <hi rend="italic">C</hi>. As the arms move outward, the levers at the ends turn the eccentric disk on the shaft, the effect of which is to change the angle of advance and shorten the cut-off. When the speed falls below the normal, the weights move toward the center and the cut-off is lengthened. The effect of this form of governor on the diagram is shown in Fig. 39. The full line represents the diagram at full load, and the dotted line when the engine is under-loaded.</p>
+                  <p rend="justify">Shaft Governor for High-speed Engine</p>
+                  <p rend="justify">Fig. 37. Shaft Governor for High-speed Engine</p>
+                  <p rend="justify">Throttling Governor</p>
+                  <p rend="justify">Shaft Governor</p>
+                  <p rend="justify">Fig. 38. Action of Throttling Governor on Indicator Diagram</p>
+                  <p rend="justify">Fig. 39. Effect of Shaft Governor on Indicator Diagram</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">Increasing Power</p>
+                  <p rend="justify">Decreasing Steam Consumption</p>
+                  <p rend="justify">Fig. 40. Increasing Power of Engine by Condensing</p>
+                  <p rend="justify">Fig. 41. Decreasing Steam Consumption by Condensing</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER IV</label>
+               </head>
+               <div type="div3">
+                  <head>STEAM ENGINE ECONOMY</head>
+                  <p rend="justify">Under the general heading of steam engine economy, such items as cylinder condensation, steam consumption, efficiency, ratio of expansion, under- and over-loading, condensing, etc., are treated.</p>
+                  <p rend="justify">The principal waste of steam in the operation of an engine is due to condensation during the first part of the stroke. This condensation is due to the fact that during expansion and exhaust the cylinder walls and head and the piston are in contact with comparatively cool steam, and, therefore, give up a considerable amount of heat. When fresh steam is admitted at a high temperature, it immediately gives up sufficient heat to raise the cylinder walls to a temperature approximating that of the entering steam. This results in the condensation of a certain amount of steam, the quantity depending upon the time allowed for the transfer of heat, the area of exposed surface, and the temperature of the cylinder walls. During the period of expansion the temperature falls rapidly, and the steam being wet, absorbs a large amount of heat. After the exhaust valve opens, the drop in pressure allows the moisture that has collected on the cylinder walls to evaporate into steam, so that during the exhaust period but little heat is transferred. With the admission of fresh steam at boiler pressure, a mist is condensed on the cylinder walls, which greatly increases the rapidity with which heat is absorbed.</p>
+                  <p rend="justify">The amount of heat lost through cylinder condensation is best shown by a practical illustration. One horsepower is equal to 33,000 foot-pounds of work per minute, or 33,000 × 60 = 1,980,000 foot-pounds per hour. This is equivalent to 1,980,000 ÷ 778 = 2,550 heat units. The latent heat of steam at 90 pounds gage pressure is 881 heat units. Hence, 2,250 ÷ 881 = 2.9 pounds of steam at 90 pounds pressure is required per horsepower, provided there is no loss of steam, and all of the contained heat is changed into useful work. As a matter of fact, from 30 to 35 pounds of steam are required in the average simple non-condensing high-speed engine.</p>
+                  <p rend="justify">There are three remedies which are used to reduce the amount of cylinder condensation. The first to be used was called steam jacketing, and consisted in surrounding the cylinder with a layer of high-pressure steam, the idea being to keep the inner walls up to a temperature nearly equal to that of the incoming steam. This arrangement is but little used at the present time, owing both to the expense of operation and to its ineffectiveness as compared with other methods.</p>
+                  <p rend="justify">The second remedy is the use of superheated steam. It has been stated that the transfer of heat takes place much more rapidly when the interior surfaces are covered with a coating of moisture or mist. Superheated steam has a temperature considerably above the point of saturation at the given pressure; hence, it is possible to cool it a certain amount before condensation begins. This has the effect of reducing the transfer of heat for a short period following admission, and this is the time that condensation takes place most rapidly under ordinary conditions with saturated steam. This, in fact, is the principal advantage derived from the use of superheated steam, although it is also lighter for a given volume, and therefore, a less weight of steam is required, to fill the cylinder up to the point of cut-off. The economical degree of superheating is considered to be that which will prevent the condensation of any steam on the walls of the cylinder up to the point of cut-off, thus keeping them at all times free from moisture. The objections to superheated steam are its cutting effect in the passages through which it flows, and the difficulty experienced in lubricating the valves and cylinder at such a high temperature. The third and most effective remedy for condensation losses is that known as compounding, which will be treated under a separate heading in the following.</p>
+               </div>
+               <div type="div3">
+                  <head>Multiple Expansion Engines</head>
+                  <p rend="justify">It has been explained that cylinder condensation is due principally to the change in temperature of the interior surfaces of the cylinder, caused by the variation in temperature of the steam at initial and exhaust pressures. Therefore, if the temperature range be divided between two cylinders which are operated in series, the steam condensed in the first or high pressure cylinder will be re-evaporated and passed into the low-pressure cylinder as steam, where it will again be condensed and re-evaporated as it passes into the exhaust pipe. Theoretically, this should reduce the condensation loss by one-half, and if three cylinders are used, the loss should be only one-third of that in a simple engine. In actual practice the saving is not as great as this, but with the proper relation between the cylinders, these results are approximated.</p>
+                  <p rend="justify">Engines in which expansion takes place in two stages are called compound engines. When three stages are employed, they are called triple expansion engines. Compounding adds to the first cost of an engine, and also to the friction, so that in determining the most economical number of cylinders to employ, the actual relation between the condensation loss and the increased cost of the engine and the friction loss, must be considered. In the case of power plant work, it is now the practice to use compound engines for the large sizes, while triple expansion engines are more commonly employed in pumping stations. Many designs of multiple expansion engines are provided with chambers between the cylinders, called receivers. In engines of this type the exhaust is frequently reheated in the receivers by means of brass coils containing live steam. In the case of a cross-compound engine, a receiver is always used. In the tandem design it is often omitted, the piping between the two cylinders being made to answer the purpose.</p>
+                  <p rend="justify">The ratio of cylinder volumes in compound engines varies with different makers. The usual practice is to make the volume of the low-pressure cylinder from 2.5 to 3 times that of the high-pressure. The total ratio of expansion in a multiple expansion engine is the product of the ratios in each cylinder. For example, if the ratio of expansion is 4 in each cylinder in a compound engine, the total ratio will be 4 × 4 = 16. The effect of a triple-expansion engine is sometimes obtained in a measure by making the volume of the low-pressure cylinder of a compound engine 6 or 7 times that of the high-pressure. This arrangement produces a considerable drop in pressure at the end of the high-pressure stroke, with the result of throwing a considerable increase of work on the high-pressure cylinder without increasing its ratio of expansion, and at the same time securing a large total ratio of expansion in the engine.</p>
+                  <p rend="justify">In the case of vertical engines, the low-pressure cylinder is sometimes divided into two parts in order to reduce the size of cylinder and piston. In this arrangement a receiver of larger size than usual is employed, and the low-pressure cranks are often set at an angle with each other.</p>
+                  <p rend="justify">Another advantage gained by compounding is the possibility to expand the steam to a greater extent than can be done in a single cylinder engine, thus utilizing, as useful work, a greater proportion of the heat contained in the steam. This also makes it possible to employ higher initial pressures, in which there is a still further saving, because of the comparatively small amount of fuel required to raise the pressure from that of the common practice of 80 or 90 pounds for simple engines, to 120 to 140 pounds, which is entirely practical in the case of compound engines. With triple expansion, initial pressures of 180 pounds or more may be used to advantage. The gain from compounding may amount to about 15 per cent over simple condensing engines, taking steam at the same initial pressure. When compound condensing engines are compared with simple non-condensing engines, the gain in economy may run from 30 to 40 per cent.</p>
+                  <p rend="justify">TABLE IV. STEAM CONSUMPTION OF ENGINES</p>
+                  <p rend="justify">Kind of Engine</p>
+                  <p rend="justify">Pounds of Steam per Indicated<lb/>Horsepower per Hour</p>
+                  <p rend="justify">Non-<lb/>condensing</p>
+                  <p rend="justify">Condensing</p>
+                  <p rend="justify">Simple</p>
+                  <p rend="justify">{</p>
+                  <p rend="justify">High-speed</p>
+                  <p rend="justify">32</p>
+                  <p rend="justify">24</p>
+                  <p rend="justify">Medium-speed</p>
+                  <p rend="justify">30</p>
+                  <p rend="justify">23</p>
+                  <p rend="justify">Corliss</p>
+                  <p rend="justify">28</p>
+                  <p rend="justify">22</p>
+                  <p rend="justify">Compound</p>
+                  <p rend="justify">{</p>
+                  <p rend="justify">High-speed</p>
+                  <p rend="justify">26</p>
+                  <p rend="justify">20</p>
+                  <p rend="justify">Medium-speed</p>
+                  <p rend="justify">25</p>
+                  <p rend="justify">19</p>
+                  <p rend="justify">Corliss</p>
+                  <p rend="justify">24</p>
+                  <p rend="justify">18</p>
+               </div>
+               <div type="div3">
+                  <head>Steam Consumption and Ratio of Expansion</head>
+                  <p rend="justify">The steam consumption is commonly called the <hi rend="italic">water rate</hi>, and is expressed in pounds of dry steam required per indicated horsepower per hour. This quantity varies widely in different types of engines, and also in engines of the same kind working under different conditions. The water rate depends upon the “cylinder losses,” which are due principally to condensation, although the effects of clearance, radiation from cylinder and steam chest, and leakage around valves and piston, form a part of the total loss. Table IV gives the average water rate of different types of engines working at full load.</p>
+                  <p rend="justify">The most economical ratio of expansion depends largely upon the type of the engine. In the case of simple engines, the ratio is limited to 4 or 5 on account of excessive cylinder condensation in case of larger ratios. This limits the initial pressure to an average of about 90 pounds for engines of this type. In the case of compound engines, a ratio of from 8 to 10 is commonly employed to advantage, while with triple-expansion engines, ratios of 12 to 15 are found to give good results.</p>
+                  <p rend="justify">The <hi rend="italic">thermal efficiency</hi>  of an engine is the ratio of the heat transformed into work to the total heat supplied to the engine. In order to determine this, the <hi rend="italic">absolute</hi>  temperature of the steam at admission and exhaust pressures must be known. These pressures can be measured by a gage, and the corresponding temperatures taken from a steam table, or better, the temperatures can be measured direct by a thermometer. The absolute temperature is obtained by adding 461 to the reading in degrees Fahrenheit (F.). The formula for thermal efficiency is:</p>
+                  <table rend="frame" xml:id="Table15">
+                     <row>
+                        <cell>
+                           <hi rend="italic">T</hi>
+                           <hi rend="sub">1</hi> - <hi rend="italic">T</hi>
+                           <hi rend="sub">2</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>———</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">T</hi>
+                           <hi rend="sub">1</hi>
+                        </cell>
+                     </row>
+                  </table>
+                  <p rend="justify">in which</p>
+                  <table rend="frame" xml:id="Table16">
+                     <row>
+                        <cell>
+                           <hi rend="italic">T</hi>
+                           <hi rend="sub">1</hi>
+                        </cell>
+                        <cell> = </cell>
+                        <cell>absolute temperature of steam at initial pressure.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">T</hi>
+                           <hi rend="sub">2</hi>
+                        </cell>
+                        <cell> = </cell>
+                        <cell>absolute temperature of steam at exhaust pressure.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">
+                     <hi rend="italic">Example</hi>:—The temperature of the steam admitted to the cylinder of an engine is 340 degrees F., and that of the exhaust steam 220 degrees F. What is the thermal efficiency of the engine?</p>
+                  <table rend="frame" xml:id="Table17">
+                     <row>
+                        <cell> </cell>
+                        <cell>(340 + 461) - (220 + 461)</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Thermal efficiency = </cell>
+                        <cell>———————————</cell>
+                        <cell> = 0.15</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>340 + 461</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The <hi rend="italic">mechanical efficiency</hi> is the ratio of the delivered or brake horsepower to the indicated horsepower, and is represented by the equation:</p>
+                  <table rend="frame" xml:id="Table18">
+                     <row>
+                        <cell> </cell>
+                        <cell>B. H. P.</cell>
+                     </row>
+                     <row>
+                        <cell>Mechanical efficiency = </cell>
+                        <cell>———</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>I. H. P.</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table19">
+                     <row>
+                        <cell>in which </cell>
+                        <cell>B. H. P.</cell>
+                        <cell> = </cell>
+                        <cell>brake horsepower,</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>I. H. P.</cell>
+                        <cell> = </cell>
+                        <cell>indicated horsepower.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">All engines are designed to give the best economy at a certain developed indicated horsepower called full load. There must, of course, be more or less fluctuation in the load under practical working conditions, especially in certain cases, such as electric railway and rolling mill work. The losses, however, within a certain range on either side of the normal load, are not great in a well designed engine. The effect of increasing the load is to raise the initial pressure or lengthen the cut-off, depending upon the type of governor. This, in turn, raises the terminal pressure at the end of expansion, and allows the exhaust to escape at a higher temperature than before, thus lowering the thermal efficiency.</p>
+                  <p rend="justify">The effect of reducing the load is to lower the mean effective pressure. (See Figs. 38  and 39.) This, in throttling engines, is due to a reduction of initial pressure, and in the automatic engine to a shortening of the cut-off. The result in each case is an increase in cylinder condensation, and as the load becomes lighter, the friction of the engine itself becomes a more important part of the total indicated horsepower; that is, as the load becomes lighter, the mechanical efficiency is reduced.</p>
+               </div>
+               <div type="div3">
+                  <head>Effect of Condensing</head>
+                  <p rend="justify">So far as the design of the engine itself it concerned, there is no difference between a condensing and a non-condensing engine. The only difference is that in the first case the exhaust pipe from the engine is connected with a condenser instead of discharging into the atmosphere.</p>
+                  <p rend="justify">A condenser is a device for condensing the exhaust steam as fast as it comes from the engine, thus forming a partial vacuum and reducing the back pressure. The attaching of a condenser to an engine may be made to produce two results, as shown by the work diagrams illustrated in Figs. 40 and 41. In the first case the full line represents the diagram of the engine when running non-condensing, and the area of the diagram gives a measure of the work done. The effect of adding a condenser is to reduce the back pressure on an average of 10 to 12 pounds per square inch, which is equivalent to adding the same amount to the mean effective pressure. The effect of this on the diagram, when the cut-off remains the same, is shown by the dotted line in Fig. 40. The power of the engine per stroke is increased by an amount represented by the area enclosed by the dotted line and the bottom of the original diagram. Assuming the reduction in back pressure to be 10 pounds, which is often exceeded in the best practice, the gain in power by running condensing will be proportional to the increase in mean effective pressure under these conditions. For example, if the mean effective pressure is 40 pounds when running non-condensing, it will be increased to 40 + 10 = 50 pounds when running condensing, that is, it is 50⁄40 = 1.25 times as great as before. Therefore, if the engine develops 100 I. H. P. under the first condition, its final power will be increased to 100 × 1.25 = 125 I. H. P. under the second condition.</p>
+                  <p rend="justify">Fig. 41  shows the effect of adding a condenser and shortening the cut-off to keep the area of the diagram the same as before. The result in this case is a reduction in the quantity of steam required to develop the same indicated horsepower. The theoretical gain in economy under these conditions will run from about 28 to 30 per cent for simple, and from 20 to 22 per cent for compound engines. The actual gain will depend upon the cost and operation of the condenser which varies greatly in different localities.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER V</label>
+               </head>
+               <div type="div3">
+                  <head>TYPES OF STEAM ENGINES</head>
+                  <p rend="justify">There are various ways of classifying steam engines according to their construction, the most common, perhaps, being according to speed. If this classification is employed, they may be grouped under three general headings: High-speed, from 300 to 400 revolutions per minute; moderate-speed, from 100 to 200 revolutions; and slow-speed, from 60 to 90 revolutions; all depending, however, upon the length of stroke. This classification is again sub-divided according to valve mechanism, horizontal and vertical, simple and compound, etc. The different forms of engines shown in the following illustrations show representative types in common use for different purposes.</p>
+                  <p rend="justify">Ball Engine</p>
+                  <p rend="justify">Fig. 42. The Ball Engine</p>
+                  <p rend="justify">The Ball engine, as shown in Fig. 42, is a typical horizontal single valve high-speed engine with a direct-connected dynamo. It is very rigid in design and especially compact for the power developed. The valve is of the double-ported type shown in Fig. 2, having a cover plate for removing the steam pressure from the back of the valve. The piston is hollow with internal ribs similar to that shown in Fig. 29, and is provided with spring packing rings carefully fitted in place. The governor is of the shaft type, having only one weight instead of two, as shown in Fig. 37.</p>
+                  <p rend="justify">The Sturtevant Vertical Engine</p>
+                  <p rend="justify">Fig. 43. The Sturtevant Vertical Engine</p>
+                  <p rend="justify">The Sturtevant engine shown in Fig. 43  is a vertical high-speed engine of a form especially adapted to electrical work. Engines of this general design are made in a variety of sizes, and are often used on account of the small floor space required. In the matter of detail, such as valves, governors, etc., they do not differ materially from the high-speed horizontal engine.</p>
+                  <p rend="justify">Moderate Speed Engine of the Four-valve Type</p>
+                  <p rend="justify">Fig. 44. Moderate Speed Engine of the Four-valve Type</p>
+                  <p rend="justify">Fig. 44  illustrates a moderate-speed engine of the four-valve type. These engines are built either with flat valves, or with positively driven rotary or Corliss valves, the latter being used in the engine shown. It will be noticed that the drop-lever and dash-pot arrangement is omitted, the valves being both opened and closed by means of the wrist-plate and its connecting rods. This arrangement is used on account of the higher speed at which the engine is run, the regular Corliss valve gear being limited to comparatively low speeds. All engines of this make are provided with an automatic system of lubrication. The oil is pumped through a filter to a central reservoir, seen above the center of the engine, and from here delivered to all bearings by gravity. The pump is attached to the rocker arm, and therefore easily accessible for repairs.</p>
+                  <p rend="justify">The Harris Corliss Engine</p>
+                  <p rend="justify">Fig. 45. The Harris Corliss Engine</p>
+                  <p rend="justify">The standard Harris Corliss engine shown in Fig. 45, is typical of its class. It is provided with the girder type of frame, and with an outboard bearing mounted upon a stone foundation. The valve gear is of the regular Corliss type, driven by a single eccentric and wrist-plate. The dash pots are mounted on cast-iron plates set in the floor at the side of the engine, where they may be easily inspected. The governor is similar in construction to the one already described, and shown in Fig. 27. The four engines so far described are simple engines, the expansion taking place in a single cylinder. Figs. 46  to 48  show three different types of the compound engine.</p>
+                  <p rend="justify">The Skinner Tandem Engine</p>
+                  <p rend="justify">Fig. 46. The Skinner Tandem Engine</p>
+                  <p rend="justify">The engine shown in Fig. 46  is of a type known as the tandem compound. In this design the cylinders are in line, the low-pressure cylinder in front of the high-pressure, as shown. There is only one piston rod, the high-pressure and low-pressure pistons being mounted on the same rod. The general appearance of an engine of this design is the same as a simple engine, except for the addition of the high-pressure cylinder. The governor is of the shaft type and operates by changing the cut-off in the high-pressure cylinder. The cut-off in the low pressure cylinder is adjusted by hand to divide the load equally between the two cylinders for the normal load which the engine is to carry.</p>
+                  <p rend="justify">American Ball Duplex Compound Engine</p>
+                  <p rend="justify">Fig. 47. American Ball Duplex Compound Engine</p>
+                  <p rend="justify">The engine shown in Fig. 47  is known as a duplex compound. In this design the high-pressure cylinder is placed directly below the low-pressure cylinder, as indicated, and both piston rods are attached to the same cross-head. The remainder of the engine is practically the same as a simple engine of the same type.</p>
+                  <p rend="justify">The Monarch Corliss Engine</p>
+                  <p rend="justify">Fig. 48. The Monarch Corliss Engine</p>
+                  <p rend="justify">Fig. 48  shows a cross-compound engine of heavy design, built especially for rolling mill work. In this arrangement two complete engines are used, except for the main shaft and flywheel, which are common to both. The engine is so piped that the high-pressure cylinder exhausts into the low-pressure, through a receiver, the connection being under the floor and not shown in the illustration. One of the advantages of the cross-compound engine over other forms is that the cranks may be set 90 degrees apart, so that when one is on a dead center the other is approximately at its position of greatest effort.</p>
+               </div>
+               <div type="div3">
+                  <head>Selection of an Engine</head>
+                  <p rend="justify">The selection of an engine depends upon a number of conditions which vary to a considerable extent in different cases. Among these may be mentioned first cost, size and character of plant, available space, steam economy, and utilization of the exhaust steam. The question of first cost is usually considered in connection with that of operation, and items such as interest and depreciation are compared with the saving made through the saving in steam with high priced engines.</p>
+                  <p rend="justify">The principal use of the stationary engine is confined to the driving of electric generators and the furnishing of motive power in shops and factories. For the first of these uses, in cases where floor space is limited, as in office buildings, and where the power does not exceed about 100 I. H. P., the simple non-condensing high-speed engine is probably employed more than any other type. For larger installations, a saving may usually be made by the substitution of the moderate-speed four-valve engine. The question of simple and compound engines in this class of work depends largely upon the use made of the exhaust steam. In winter time the exhaust is nearly always utilized in the heating system, hence steam economy is not of great importance, and the simple engine answers all purposes at a smaller first cost. In localities where the heating season is comparatively short and fuel high, there is a decided advantage in using compound engines on account of their greater steam economy when operated within their economical range as regards load.</p>
+                  <p rend="justify">In large central plants where low cost of operation is always of first importance, it is common practice to use the best class of compound condensing engines of moderate or low speed. Those equipped with some form of Corliss valve gear are frequently found in this class of work. In the generation of power for shops and factories, where there is plenty of floor space, low-speed engines of the Corliss type are most commonly used. When space is limited, very satisfactory results may be obtained by using the moderate-speed four-valve engine. In deciding upon an engine for any particular case, the problem must be studied from all sides, and one be chosen which best answers the greatest number of requirements.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>CHAPTER VI</label>
+               </head>
+               <div type="div3">
+                  <head>STEAM ENGINE TESTING</head>
+                  <p rend="justify">The principal information sought in the usual test of a steam engine is:</p>
+                  <p rend="justify">1. The indicated horsepower developed under certain standard conditions.</p>
+                  <p rend="justify">2. The friction of the engine, from which is determined the mechanical efficiency.</p>
+                  <p rend="justify">3. The steam consumption per indicated horsepower.</p>
+                  <p rend="justify">4. The general action of the valves.</p>
+                  <p rend="justify">5. The pressure conditions in the cylinder at different periods of the stroke.</p>
+                  <p rend="justify">The ultimate object of an efficiency test is to determine the foot-pounds of work delivered by the engine per pound of coal burned in the boiler furnaces. The general method of finding the pounds of dry steam evaporated per pound of coal has been treated in Machinery’s Reference Series No. 67, “Boilers,” under the head of “Boiler Testing.” In the present case it is, therefore, only necessary to carry the process a step further and determine the foot-pounds of work developed per pound of steam.</p>
+                  <p rend="justify">The apparatus used in engine testing, in addition to that used in boiler testing, consists of a steam engine <hi rend="italic">indicator</hi>  and reducing device for taking diagrams, and a <hi rend="italic">planimeter</hi>  for measuring them afterwards. If the test is made independently of the boiler test, a calorimeter for measuring the amount of moisture in the steam should be added to the outfit.</p>
+                  <p rend="justify">It has already been shown how a diagram may be made to represent graphically the work done in a steam engine cylinder during one stroke of the piston. The diagrams shown thus far have been theoretical or ideal cards constructed from assumed relations of the pressure acting and the distance moved through by the piston. An indicator is a device for making a diagram of what actually takes place in an engine cylinder under working conditions. Such a diagram shows the points of admission, cut-off, and release, and indicates accurately the pressures acting upon both sides of the piston at all points of the stroke.</p>
+                  <p rend="justify">Steam Engine Indicator</p>
+                  <p rend="justify">Fig. 49. Steam Engine Indicator</p>
+                  <p rend="justify">A common form of steam engine indicator is shown in Fig. 49. It consists of a cylinder <hi rend="italic">C</hi>  which is placed in communication at <hi rend="italic">E</hi>  with one end of the engine cylinder by a proper pipe connection, provided with a quick opening and closing cock or valve. The cylinder <hi rend="italic">C</hi>  contains a piston, above which is placed a coil spring of such strength that a given pressure per square inch acting upon the lower side of the piston will compress the spring a definite and known amount. Extending through the cap or head of cylinder <hi rend="italic">C</hi>  is a stem attached to the piston below, and connected by suitable levers with a pencil point <hi rend="italic">P</hi>. The arrangement of the levers is such that a certain rise of the piston causes the point <hi rend="italic">P</hi>  to move upward in a vertical line a proportional amount.</p>
+                  <p rend="justify">The springs used above the piston vary in strength, and are designated as 20-pound, 40-pound, 60-pound, etc. A 20-pound spring is of such strength that a pressure of 20 pounds per square inch, acting beneath the piston in cylinder <hi rend="italic">C</hi>, will raise the pencil point 1 inch. With a 40-pound spring, a pressure of 40 pounds per square inch will be required to raise the pencil 1 inch, and so on for the other strengths of spring.</p>
+                  <p rend="justify">The hollow drum <hi rend="italic">D</hi>  rotates back and forth upon a vertical stem at its center, its motion being produced by the string <hi rend="italic">H</hi>, which is attached by means of a suitable reducing motion to the cross-head of the engine. The return motion to the drum is obtained from a coil spring contained within it and not shown. The paper upon which the diagram is to be drawn is wound around the drum <hi rend="italic">D</hi>, and held in place by the spring clip <hi rend="italic">F</hi>.</p>
+                  <p rend="justify">In taking an indicator card, the length of stroke must be reduced to come within the limits of the drum, that is, it must be somewhat less than the circumference of drum <hi rend="italic">D</hi>. In practice, the diagram is commonly made from 3 to 4 inches in length. There are a number of devices in use for reproducing the stroke of the engine on a smaller scale. The most accurate consists of a series of pulleys over which the cord passes on its way from the cross-head to the indicator drum.</p>
+                  <p rend="justify">The indicator is connected with the engine cylinder by means of special openings tapped close to the heads and either plugged or closed by means of stop-cocks when not in use. In some cases two indicators are used, one being connected to each end of the cylinder, while in others a single indicator is made to answer the purpose by being so piped that it can be connected with either end by means of a three-way cock. After the indicator is connected and the cord adjusted to give the proper motion to the drum, a card is attached, after which the three-way cock is opened and steam allowed to blow through the indicator to warm it up. The cock is now closed and the pencil pressed against the drum to get the so-called atmospheric line. The cock is again opened, and the pencil pressed lightly against the drum during one complete revolution of the engine. The cock is then thrown over to connect the indicator with the other end of the cylinder and the operation is repeated.</p>
+                  <p rend="justify">A Typical Indicator Diagram</p>
+                  <p rend="justify">Fig. 50. A Typical Indicator Diagram</p>
+                  <p rend="justify">The indicator card obtained in this way is shown in Fig. 50. It is sometimes preferred to take the diagrams of the two ends on separate cards, but it is simpler to take them both on the same one, and also easier to compare the working of the two ends of the cylinder.</p>
+                  <p rend="justify">Diagram for Illustrating Method of Computation</p>
+                  <p rend="justify">Fig. 51. Diagram for Illustrating Method of Computation</p>
+                  <p rend="justify">The analysis of a card for practical purposes is shown in Fig. 51. Suppose, for example, that the length of the diagram measures 3.6 inches; the distance to the point of cut-off is 1.2 inch; and the distance to the point of release is 3.3 inches. Then, by dividing 1.2 by 3.6, the cut-off is found to occur at 1.2 ÷ 3.6 = 1⁄3 of the stroke. Release occurs at 3.3 ÷ 3.6 = 0.92 of the stroke. Compression begins at (3.6 - 0.5) ÷ 3.6 = 0.86 of the stroke. The diagrams shown in Figs. 50  and 51  are from non-condensing engines, and the back-pressure line is therefore above the atmospheric line, as indicated.</p>
+                  <p rend="justify">The indicator diagram gives a means of determining the mean effective pressure, from which the power of the engine can be found from the previously given equation</p>
+                  <table rend="frame" xml:id="Table20">
+                     <row>
+                        <cell> </cell>
+                        <cell>APLN</cell>
+                     </row>
+                     <row>
+                        <cell>I. H. P. = </cell>
+                        <cell>———.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>33,000</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The method of determining the mean effective pressure is as follows: First measure the area of the card in square inches, by means of a planimeter (an instrument described later), and divide this area by the length in inches. This gives the mean ordinate; the mean ordinate, in turn, multiplied by the strength of spring used, will give the mean effective pressure in pounds per square inch. For example, suppose that the card shown in Fig. 51 is taken with a 60-pound spring, and that the area, as measured by a planimeter, is found to be 2.6 square inches. Dividing the area by the length gives 2.6 ÷ 3.6 = 0.722 inch as the mean ordinate, and this multiplied by the strength of spring gives a mean effective pressure of 0.722 × 60 = 43.3 pounds per square inch.</p>
+                  <p rend="justify">In practice, diagrams taken from the two ends of the cylinder usually vary more or less, due to inequalities in the valve action. Again, the effective area of the piston on the crank end is less than that on the head end, by an amount equal to the area of the piston rod. For these reasons it is customary to compute the mean effective pressure of all the cards separately, and take, for use in the formula, the average of the various computations. The corrected value of the piston area is, as already stated, equal to (2<hi rend="italic">A</hi>  - <hi rend="italic">a</hi>)⁄2, in which <hi rend="italic">A</hi>  is the area of the piston, and <hi rend="italic">a</hi>  the area of the piston rod. Substituting these values for <hi rend="italic">A</hi>  and <hi rend="italic">P</hi>  in the formula, together with the length of stroke and average number of revolutions per minute, the indicated horsepower is easily computed.</p>
+                  <p rend="justify">In making an ordinary test, diagrams are taken from both ends of the cylinder at 10-minute intervals for several hours, depending upon the accuracy required. The revolutions of the engine are counted for two or three-minute periods each time a pair of cards are taken, or still better, an automatic counter is used for the run, from which the average number of revolutions per minute may be determined.</p>
+                  <p rend="justify">The friction of the engine is determined by taking a pair of cards while “running light,” that is, with the belt thrown off, or the engine uncoupled, from the dynamo, if part of a direct-connected outfit. The friction load is then computed in horsepower from the indicator cards, and subtracted from the indicated horsepower when loaded. Thus we obtain the delivered or brake horsepower. The delivered horsepower divided by the indicated horsepower gives the mechanical efficiency. This may be expressed in the form of an equation as follows:</p>
+                  <table rend="frame" xml:id="Table21">
+                     <row>
+                        <cell>I. H. P. - friction loss</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>————————</cell>
+                        <cell> = mechanical efficiency.</cell>
+                     </row>
+                     <row>
+                        <cell>I. H. P.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>Planimeter</head>
+                  <p rend="justify">General Construction of Planimeter</p>
+                  <p rend="justify">Fig. 52. General Construction of Planimeter</p>
+                  <p rend="justify">The planimeter is an instrument for measuring areas in general, and especially for measuring the areas of indicator cards. Some forms give the mean effective pressure directly, without computations, by changing the scale to correspond with the spring used in the indicator. A planimeter of this type is shown in Fig. 52. The method of manipulating this instrument is as follows. Set the arm <hi rend="italic">BD</hi>  equal to the length of the card <hi rend="italic">EF</hi>, by means of the thumb screw <hi rend="italic">S</hi>, and set the wheel at zero on the scale, which must correspond to the spring used in the indicator. Next, place the point <hi rend="italic">D</hi>  at about the middle of the area to be measured, and set point <hi rend="italic">C</hi>  so that the arm <hi rend="italic">CB</hi>  shall be approximately at right angles with <hi rend="italic">BD</hi>. Then move <hi rend="italic">D</hi>  to the upper left-hand corner of the diagram, and with the left hand move <hi rend="italic">C</hi>  either to the right or left until the wheel comes back exactly to the zero point on the scale; then press the point firmly into the paper. Now, go around the outline of the diagram with point <hi rend="italic">D</hi>  from left to right, finishing exactly at the starting point. The mean effective pressure may now be read from the scale opposite the edge of the wheel.</p>
+                  <p rend="justify">When very accurate results are required, the tracer point <hi rend="italic">D</hi>  may be passed over the diagram several times, and the reading divided by the number of times it is thus passed around. With short cards, 3 inches and under in length, it is best to make the arm <hi rend="italic">BD</hi>  twice the length of the card, and go around the diagram twice, taking the reading directly from the scale as in the first case.</p>
+               </div>
+               <div type="div3">
+                  <head>Determining Steam Consumption</head>
+                  <p rend="justify">When it is desired to determine accurately the water rate of an engine, a boiler test should be carried on simultaneously with the test upon the engine, from which the pounds of dry steam supplied may be determined as described in Machinery’s Reference Series No. 67, “Boilers.” Knowing the average weight of steam supplied per hour for the run, and the average indicated horsepower developed during the same period, the water rate of the engine is easily computed. Sometimes the average cylinder condensation for a given type and make is known for certain standard conditions. In this case an approximation may be made from an indicator diagram which represents the average operation of the engine during the test.</p>
+                  <p rend="justify">Diagram for Calculating Steam Consumption</p>
+                  <p rend="justify">Fig. 53. Diagram for Calculating Steam Consumption</p>
+                  <p rend="justify">A diagram shows by direct measurement the pressure and volume at any point of the stroke, and the weight of steam per cubic foot for any given pressure may be taken directly from a steam table. The method, then, of finding the weight of steam at any point in the stroke is to find the volume in cubic feet, including the clearance and piston displacement to the given point, which must be taken at cut-off or later, and to multiply this by the weight per cubic foot corresponding to the pressure at the given point measured on the diagram. As this includes the steam used for compression, it must be corrected, as follows, to obtain the actual weight used per stroke. Take some convenient point on the compression curve, as <hi rend="italic">Q</hi>, in Fig. 53; measure its absolute pressure from the vacuum line <hi rend="italic">OX</hi>  and compute the weight of steam to this point. Subtract this weight from that computed above for the given point on the expansion line, and the result will be the weight of steam used per stroke. The best point on the expansion line to use for this purpose is just before release, both because the maximum amount of leakage has taken place, and also because of the re-evaporation of a portion of the steam condensed during admission. The actual computation of the steam consumption from an indicator diagram is best shown by a practical illustration.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Example</hi>—Let Fig. 53  represent a diagram taken from the head end of a 16 × 30-inch non-condensing engine, running at a speed of 150 revolutions per minute; the card is taken with a 60-pound spring; the clearance of the engine is 6 per cent; the average cylinder condensation is 20 per cent of the total steam consumption; the diameter of the piston rod is 3 inches.</p>
+                  <p rend="justify">Measuring the card with a planimeter shows the mean effective pressure to be 48.2 pounds. The area of the piston is 201 square inches; the area of the piston rod is 7 square inches; hence, the average piston area = (2 × 201) - 7⁄2 = 198 square inches, approximately. Then</p>
+                  <table rend="frame" xml:id="Table22">
+                     <row>
+                        <cell> </cell>
+                        <cell>198 × 48.2 × 2.5 × 300</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>I. H. P. = </cell>
+                        <cell>——————————</cell>
+                        <cell> = 217.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>33,000</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <p rend="justify">In Fig. 53, <hi rend="italic">GH</hi> is the atmospheric line; <hi rend="italic">OX</hi> is the line of vacuum or zero pressure, drawn so that <hi rend="italic">GO</hi> = 14.7 pounds on the scale; and <hi rend="italic">OY</hi> is the clearance line, so drawn that <hi rend="italic">ON</hi> = 0.06 <hi rend="italic">NX</hi>. The line <hi rend="italic">PQ</hi> is drawn from <hi rend="italic">OX</hi> to some point on the compression line, as at <hi rend="italic">Q</hi>. From <hi rend="italic">C</hi>, a point on the expansion line, just before release, the line <hi rend="italic">CF</hi> is drawn perpendicular to <hi rend="italic">OX</hi>. The following dimensions are now carefully measured from the actual diagram (not the one shown in the illustration), with the results given:</p>
+                  <table rend="frame" xml:id="Table23">
+                     <row>
+                        <cell>
+                           <hi rend="italic">OX</hi> = 3.71</cell>
+                        <cell>
+                           <hi rend="italic">OP</hi> = 0.42</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">NX</hi> = 3.50</cell>
+                        <cell>
+                           <hi rend="italic">CF</hi> = 0.81</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">OF</hi> = 3.20</cell>
+                        <cell>
+                           <hi rend="italic">QP</hi> = 0.81</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">On the indicator diagram, being taken with a 60-pound spring, all vertical distances represent pounds per square inch, in the ratio of 60 pounds per inch of height. The stroke of the engine is 30 inches or 2.5 feet. The length of the diagram <hi rend="italic">NX</hi> is 3.5 inches; hence, each inch in length represents 2.5⁄3.5 = 0.71 feet. From the above it is evident that vertical distances in Fig. 53 must be multiplied by 60 to reduce them to pounds pressure per square inch, and that horizontal distances must be multiplied by 0.71 to reduce them to feet. Making these reductions gives:</p>
+                  <table rend="frame" xml:id="Table24">
+                     <row>
+                        <cell>
+                           <hi rend="italic">OX</hi> = 2.63 feet.</cell>
+                        <cell>
+                           <hi rend="italic">OP</hi> = 0.30 foot.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">NX</hi> = 2.49 feet.</cell>
+                        <cell>
+                           <hi rend="italic">CF</hi> = 48.6 pounds.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">OF</hi> = 2.27 feet.</cell>
+                        <cell>
+                           <hi rend="italic">QP</hi> = 48.6 pounds.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">As a card from the head end of the cylinder is taken to avoid corrections for the piston rod, the area is 201 square inches or 1.4 square foot. With the above data the volume and weight of the steam in the cylinder can be computed at any point in the stroke. When the piston is at <hi rend="italic">C</hi>, the volume is 1.4 × 2.27 = 3.18 cubic feet. When the piston is at <hi rend="italic">Q</hi>, the volume is 1.4 × 0.30 = 0.42 cubic foot. From a steam table the weight of a cubic foot of steam at 48.6 pounds absolute pressure is found to be 0.116 pounds. Therefore, the weight of steam present when the piston is at <hi rend="italic">C</hi> is 3.18 × 0.116 = 0.369 pounds. The weight of steam present when the piston is at <hi rend="italic">Q</hi> is 0.42 × 0.116 = 0.049 pound. That is the weight of steam in the cylinder at release is 0.369 pound, and the weight kept at exhaust closure for compression is 0.049 pound.</p>
+                  <p rend="justify">The weight exhausted per stroke is therefore 0.369 - 0.049 = 0.32 pound. The number of strokes per hour is 150 × 2 × 60 = 18,000, from which the steam accounted for by the diagram is found to be 18,000 × 0.32 = 5760 pounds, or 5760 ÷ 217 = 26.5 pounds per indicated horsepower per hour. If the cylinder condensation for this type of engine is 20 per cent of the total steam consumption, the water rate will be 26.5 ÷ 0.8 = 33.1 pounds per indicated horsepower per hour.</p>
+                  <p rend="justify">In the present case it has been assumed, for simplicity, that the head- and crank-end diagrams were exactly alike, except for the piston rod. Ordinarily, the above process should be carried out for both head and crank ends, and the results averaged.</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">Transcriber's note:</p>
+                  <list rend="bulleted">
+                     <item>Inconsistencies have not been corrected (hyphenated vs non-hyphenated or spaced words), except horse-power (changed to horsepower) and cut off (changed to cut-off) as elsewhere.</item>
+                     <item>Minor typographical errors have been corrected.</item>
+                     <item>In-line multi-line formulas have been changed to single-line formulas, where necessary with the addition of brackets to prevent ambiguity.</item>
+                     <item>Most tables and illustrations have been moved to the paragraph where they are first discussed or mentioned.</item>
+                  </list>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
