@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fables in Rhyme for Little Folks / From the French of La Fontaine</title>
+            <author>Jean de La Fontaine</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T09:05:08Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/l/LaFontaineJeanDe-FablesInRhymeForLittleFolksFromTheFrenchOfLaFontaine_2008.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Jean de La Fontaine</name>
+               <date>2024-01-04T09:05:08Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Fables in Rhyme for Little Folks / From the French of La Fontaine</head>
+         <author>Jean de La Fontaine</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/l/LaFontaineJeanDe-FablesInRhymeForLittleFolksFromTheFrenchOfLaFontaine_2008.odt</p>
+         <head>Fables in Rhyme for Little Folks</head>
+         <p>Adapted from the French of <hi rend="bold">La Fontaine.</hi>
+            <lb/>Written by,<lb/>
+            <hi rend="bold">W. T. Larned</hi>
+            <lb/>Illustrated by,<lb/>
+            <hi rend="bold">John Rae</hi>.<lb/>0,1<lb/>
+            <lb/>
+         </p>
+         <p>E-Book Created by Tyler Anderson,<lb/>as a birthday present to little<lb/>Johnny James Webb, on his first Birthday.<lb/>
+            <lb/>I've arranged the images so they fit the story.<lb/>Spell-checked with www.thesolutioncafe.com</p>
+         <subtitle>
+            <hi rend="italic">To</hi>
+            <lb/>All Little Americans<lb/>
+            <hi rend="italic">With The Hope That</hi>
+            <lb/>
+            <hi rend="italic">They May Become Better Acquainted</hi>
+            <lb/>
+            <hi rend="italic">With</hi>
+            <lb/>Our Friends, The French</subtitle>
+         <p>
+            <lb/>0,2<lb/>
+         </p>
+         <pb/>
+         <div type="div1">
+            <head>Fables in Rhyme for Little Folks / From the French of La Fontaine</head>
+            <pb/>
+            <div type="div2">
+               <head>A Preface For Parents</head>
+               <p rend="justify">La Fontaine composed the most entertaining Fables ever written in any language, and made them a model of literary perfection; yet our translators and compilers have somehow neglected him. His Fables are lyric poetry of a high order, and this alone has doubtless been a barrier to a better acquaintance with his work when transferred to our own tongue. Done into prose, the Fables are no longer La Fontaine, but take their place with the many respectable, dull translations which English readers try to admire because they are classics--though the soul that made them such has been separated from the dead body.</p>
+               <p rend="justify">It has seemed to me that while the full enjoyment of La Fontaine must always be reserved for those who can read him in French, it might be possible at least to convey something of his originality and blithe spirit through the medium of light verse. In making the attempt I am fully aware of my temerity, and the criticism it will invite. To excuse the one and to meet the other I have taken refuge in the term "adaptation"--even though the word applies only in part to my paraphrases. Some of the Fables in this book are translations in a true sense, and keep closely to the text. From others I have erased such political, mythological and literary allusions (in which La Fontaine abounds) as are either obsolete or unintelligible to a child.</p>
+               <p rend="justify">But my chief literary sin--if sin it be--is twofold. In the first place I have departed wholly from the metrical arrangements of the originals--substituting therefore a variety of forms in line and stanza that more accord with the modern and American ear. In the second place I have had the hardihood--as in "The Lion and The Gnat"--to modify the elegance of the original with phrases more appropriate to our contemporary beasts. Animal talk, I feel sure, has lost something of its stateliness since the days when our French author overheard it. The Owl is no less pedantic perhaps, but the Lion certainly has declined in majesty--along with our human kings.</p>
+               <p rend="justify">For these offenses, La Fontaine--who forgave everyone--is bound to forgive me. The most good-humored Frenchmen, he could condone all faults but dullness. <hi rend="italic">That</hi>  offense against French fundamental principles invariably put him to sleep--whether the bore who button-holed him was a savant of the Sorbonne or just an ordinary ass.</p>
+               <p rend="justify">One thing more. This little collection from his 240 Fables is meant, first of all, for children. In assembling it no Fable was admitted that has not been approved by generations of the young and old. No apologue addressed to the mature intelligence alone, or framed to fit the society of his day, is here included.</p>
+               <p rend="justify">Many books which men have agreed to call classics are seldom taken down from the shelves. It is otherwise with La Fontaine. His Fables were eagerly read by the great men and women of his time, and are still read and enjoyed all the world over.</p>
+               <p rend="justify">The causes of this lasting popularity are not obscure. From the earliest period--whether in India, Greece, Arabia or Rome--the Fable has pleased and instructed mankind. It told important truths, easily perceived, in an entertaining way; and often said more in a few words than could be said through any other kind of writing. Now, no one person is the author of the Fables we know so well. Aesop did not write the Fables bearing his name. There is even reason to believe that Aesop is himself a Fable. At any rate, the things ascribed to him are the work of many hands, and have undergone many changes. These old stories of animals began to be written so long ago, and the history of them is so vague and confusing, that only in recent years have scholars at last been able to trace them, and to fix their authorship.</p>
+               <p rend="justify">The significant thing to keep in mind is that, for twentieth century readers, the best Fables are not merely the best ones ever written, but the best ones <hi rend="italic">re</hi>-written. In other words, the Fable was for centuries an old story in a rough state, and the writers who have made it most interesting are the writers who told it over again in a manner that makes it Art. A Greek named Babrius, of whom almost nothing is known, is remembered because he collected and versified some of the so-called Fables of Aesop. A Roman slave named Phaedrus also put these Fables into Latin verse; and his work to-day is a text book in our colleges.</p>
+               <p rend="justify">Among modern writers, it was reserved for La Fontaine to take these ancient themes and make them his own--just as Moliére, "taking his own wherever he found it," borrowed freely from the classics for his greatest plays; just as Shakespeare re-formed forgotten tales with the glow and splendor of surpassing genius, so La Fontaine turned to India, Greece, Italy, and furnishing the old Fables and facetious tales, refreshed them with his originality. Some of them were his own inventions, but for the most part they were "Aesop" and Phaedrus, made over by poetic art and vivified with a wit and humor characteristically French.</p>
+               <p rend="justify">But if La Fontaine's fame endures, it is not alone that he was the greatest lyric poet of a great literary period. Apart from the wit and fancy of his creations--apart from the philosophy, wisdom, and knowledge of human nature that so delighted Moliére, Boileau and Racine--his Fables disclose the goodness and simplicity of one who lived much with Nature, and cared nothing for the false splendors of the court. Living most of his life in the country, the woods, and streams and fields had been a constant source of inspiration. He saw animals through the eyes of a naturalist and poet; and when he came to make them talk, the little fishes "talked like little fishes--not like whales". With Shakespeare's banished Frenchman in the Forest of Arden, he<lb/>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Finds tongues in trees, books in the running brooks,</hi>
+                  <lb/>
+                  <hi rend="italic">Sermons in stones, and good in everything.</hi>
+               </p>
+               <p rend="justify">An anecdote often told of him aptly illustrates his habit of mind. He was late in coming to a fashionable dinner, and his excuse was this:</p>
+               <p rend="justify">"I hope you will pardon me," he said. "I was detained at the funeral of an ant, and I could not come until the ceremony was over."</p>
+               <p rend="justify">This was not a pleasantry, but the truth. He had been watching an ant-hill, and was so absorbed in observing a dead ant carried off by the living colonists for burial that he had forgotten his engagement.</p>
+               <p rend="justify">The first six volumes of the Fables--published in 1668, when he was 47, and in Paris--were an immediate and brilliant success, at a time when French genius was in full flower. But the literary men of that golden age got their pecuniary reward not from the public, but from patrons. Later in life, when La Fontaine at last was graciously recognized by the grand monarch, he appeared before the royal presence to receive his due. Even then, with his usual absentmindedness, he forgot to bring the book he was to present, and left behind him in the carriage the purse of gold the King bestowed upon him.</p>
+               <p rend="justify">However, the Fables brought him much in fame and friendship. Everybody loved La Fontaine. Favorite of great lords and ladies, the court of Louis XIV could not make him otherwise than natural. Poor and improvident, poverty had no pangs for him. No sorrow ever gave him a sleepless hour. To the last he lived up to his nickname--<hi rend="italic">Bon-homme.</hi>  And it is the gentle and good man who is always looking out at us at us from the fables he refashioned for all time.</p>
+               <p rend="justify">William Trowbridge Larned.<lb/>New York, July 1918.</p>
+               <lg>
+                  <l/>
+                  <l/>
+               </lg>
+               <lg>
+                  <l/>
+                  <l/>
+               </lg>
+               <div type="div3">
+                  <head>This book contains the following Fables<lb/>from the French of La Fontaine:</head>
+                  <lg>
+                     <l>
+                        <hi rend="bold">The Frog Who Wished To Be As Big As The Ox.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Grasshopper And The Ant.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Cat And The Fox.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Hen With The Golden Eggs.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Dog And His Image.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Acorn And The Pumpkin.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Raven And The Fox.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The City Mouse And The Country Mouse.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Lion And The Gnat.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Dove And The Ant.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Fox And The Grapes.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Ass In The Lion's Skin.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Fox And The Stork.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Monkey And The Cat.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Hare And The Tortoise.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Heron Who Was Hard To Please.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Raven Who Would Rival The Eagle.</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">The Miller, His Son And The Ass.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify"> </p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Frog Who Wished To Be As Big As The Ox.</hi>
+               </head>
+               <lg>
+                  <l>1,1</l>
+                  <l/>
+                  <l>There was a little Frog</l>
+                  <l>Whose home was in a bog,</l>
+                  <l>And he worried 'cause he wasn't big enough.</l>
+                  <l>He sees an ox and cries:</l>
+                  <l>"That's just about my size,</l>
+                  <l>
+                     <hi rend="italic">If I stretch myself--Say Sister, see me puff!"</hi>
+                  </l>
+                  <l>See me puff!</l>
+                  <l>So he blew, blew, blew,</l>
+                  <l>Saying: "Sister, will <hi rend="italic">that</hi> do?"</l>
+                  <l>But she shook her head. And then he lost his wits.</l>
+                  <l>For he stretched and puffed again</l>
+                  <l>Till he cracked beneath the strain,</l>
+                  <l>And burst, and flew about in little bits.</l>
+                  <l>1,3</l>
+                  <l>1,4</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Grasshopper And The Ant.</hi>
+               </head>
+               <lg>
+                  <l>2,1</l>
+                  <l/>
+                  <l>The Grasshopper, singing</l>
+                  <l>All summer long,</l>
+                  <l>Now found winter stinging,</l>
+                  <l>And ceased in his song.</l>
+                  <l>Not a morsel or crumb in his cupboard--</l>
+                  <l>So he shivered, and ceased in his song.</l>
+                  <l/>
+                  <l>Miss Ant was his neighbor;</l>
+                  <l>To her he went:</l>
+                  <l>"O, you're rich from labor,</l>
+                  <l>And I've not a cent.</l>
+                  <l>Lend me food, and I vow I'll return it,</l>
+                  <l>Though at present I have not a cent."</l>
+                  <l>Lend me food and I vow I'll return it.</l>
+                  <l>The Ant's not a lender,</l>
+                  <l>I must confess.</l>
+                  <l>Her heart's far from tender</l>
+                  <l>To one in distress.</l>
+                  <l>So she said: "Pray, how passed you the summer,</l>
+                  <l>That in winter you come to distress?"</l>
+                  <l/>
+                  <l>"I sang through the summer,"</l>
+                  <l>Grasshopper said.</l>
+                  <l>"But now I am glummer</l>
+                  <l>Because I've no bread."</l>
+                  <l>"So you <hi rend="italic">sang!"</hi> sneered the Ant. "That relieves me.</l>
+                  <l>Now it's winter--go <hi rend="italic">dance</hi> for your bread!"</l>
+                  <l>Poorhouse.</l>
+                  <l>He who will not work shall not eat.</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Cat And The Fox.</hi>
+               </head>
+               <lg>
+                  <l>3,1</l>
+                  <l/>
+                  <l>The Cat and the Fox once took a walk together,</l>
+                  <l>Sharpening their wits with talk about the weather</l>
+                  <l>And as their walking sharpened appetite, too;</l>
+                  <l>They also took some things they had no right to.</l>
+                  <l>Cream, that is so delicious when it thickens,</l>
+                  <l>Pleased the Cat best. The Fox liked little chickens.</l>
+                  <l/>
+                  <l>With stomachs filled, they presently grew prouder,</l>
+                  <l>And each began to try to talk the louder--</l>
+                  <l>Bragging about his skill, and strength, and cunning.</l>
+                  <l>"Pooh!" said the Fox. "You ought to see <hi rend="italic">me</hi> running.</l>
+                  <l>Besides, I have <hi rend="italic">a hundred tricks.</hi> You Cat, you!</l>
+                  <l>What can <hi rend="italic">you</hi> do when Mr. Dog comes at you?"</l>
+                  <l>"To tell the truth," the Cat said, "though it grieve me</l>
+                  <l>I've but <hi rend="italic">one</hi> trick. Yet that's enough--believe me!"</l>
+                  <l/>
+                  <l>There came a pack of fox-hounds--yelping, baying.</l>
+                  <l>"Pardon me", said the Cat. "I can't be staying.</l>
+                  <l>This is <hi rend="italic">my</hi> trick." And up a tree he scurried,</l>
+                  <l>Leaving the Fox below a trifle worried.</l>
+                  <l>Pardon me, said the Cat, I can't be staying.</l>
+                  <l>In vain he tried his hundred tricks and ruses</l>
+                  <l>(The sort of thing that Mr. Dog confuses)--</l>
+                  <l>Doubling, and seeking one hole, then another--</l>
+                  <l>Smoked out of each until he thought he'd smother.</l>
+                  <l>At last as he once more came out of cover,</l>
+                  <l>Two nimble dogs pounced on him--All was over!</l>
+                  <l>3,3</l>
+                  <l>Here Lieth Reynard Ye Fox Who Had Many Tricks: Yet Lacked One.</l>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Hen With The Golden Eggs.</hi>
+               </head>
+               <lg>
+                  <l>4,1</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">To this lesson in greed,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Pray, little ones, heed:</hi>
+                  </l>
+                  <l/>
+                  <l>Each day, we are told,</l>
+                  <l>A most wonderful Hen</l>
+                  <l>Laid an egg made of gold</l>
+                  <l>For this meanest of men.</l>
+                  <l>The meanest of men.</l>
+                  <l>So greedy was he,</l>
+                  <l>He was not satisfied.</l>
+                  <l>"What is <hi rend="italic">one</hi> egg to me?</l>
+                  <l>I want <hi rend="italic">all</hi> that' inside!"</l>
+                  <l>4,3</l>
+                  <l>He cut off her head,</l>
+                  <l>And began to explore.</l>
+                  <l>But the poor hen was dead.</l>
+                  <l>And could lay eggs no more.</l>
+                  <l>4,4</l>
+                  <l>4,5</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Dog And His Image.</hi>
+               </head>
+               <lg>
+                  <l>There he saw another one.</l>
+                  <l/>
+                  <l>A foolish Dog, who carried in his jaw</l>
+                  <l>A juicy bone,</l>
+                  <l>Looked down into a stream, and there he saw</l>
+                  <l>Another one,</l>
+                  <l>Splash! In he plunged... The image disappeared--</l>
+                  <l>The meat he <hi rend="italic">had</hi> was gone.</l>
+                  <l>Indeed, he nearly sank,</l>
+                  <l>And barely reached the bank.</l>
+                  <l>5,2</l>
+                  <l>5,3</l>
+                  <l>Dunce.</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Acorn and the Pumpkin.</hi>
+               </head>
+               <lg>
+                  <l>6,1</l>
+                  <l/>
+                  <l>Once there was a country bumpkin</l>
+                  <l>Who observed a great big pumpkin</l>
+                  <l>To a slender stem attached;</l>
+                  <l>While upon an oak tree nourished,</l>
+                  <l>Little acorns grew and flourished.</l>
+                  <l>"Bah!" said he. "That's badly matched."</l>
+                  <l>6,2</l>
+                  <l>"If, despite my humble station,</l>
+                  <l>
+                     <hi rend="italic">I</hi>'d a hand in this Creation,</l>
+                  <l>Pumpkins on the oaks would be;</l>
+                  <l>And the acorn, light and little,</l>
+                  <l>On this pumpkin stem so brittle</l>
+                  <l>Would be placed by clever Me."</l>
+                  <l>6,3</l>
+                  <l>Then, fatigued with so much thought, he</l>
+                  <l>Rest beneath the oak tree sought. He</l>
+                  <l>Soon in slumber found repose</l>
+                  <l>But, alas! An acorn, falling</l>
+                  <l>On the spot where he lay sprawling,</l>
+                  <l>Hit him--plump!--Upon the nose.</l>
+                  <l>Gosh! he said. Suppose a pumpkin came a-fallin on my face!</l>
+                  <l>Up he jumped--a wiser bumpkin.</l>
+                  <l>"Gosh!" he said. "Suppose a pumpkin</l>
+                  <l>Came a-fallin' on my face!</l>
+                  <l>After all, if <hi rend="italic">I</hi> had made things,</l>
+                  <l>I'll allow that I'm afraid things</l>
+                  <l>Might be some what out of place."</l>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Raven And The Fox.</hi>
+               </head>
+               <lg>
+                  <l>7,1</l>
+                  <l/>
+                  <l>Mr. Raven was perched upon a limb,</l>
+                  <l>And Reynard the Fox looked up at him;</l>
+                  <l>For the Raven held in his great big beak</l>
+                  <l>A morsel the Fox would go far to seek.</l>
+                  <l>You are a handsome bird.</l>
+                  <l>Said the Fox, in admiring tones: "My word!</l>
+                  <l>Sir Raven, you <hi rend="italic">are</hi> a handsome bird.</l>
+                  <l>Such feathers! If you would only <hi rend="italic">sing,</hi>
+                  </l>
+                  <l>The birds of these woods would call you King."</l>
+                  <l/>
+                  <l>The Raven, who did not see the joke,</l>
+                  <l>Forgot that his voice was just a croak.</l>
+                  <l>He opened his beak, in his foolish pride--</l>
+                  <l>And down fell the morsel the Fox had spied.</l>
+                  <l>7,3</l>
+                  <l>"Ha-ha!" said the Fox. "And now you see</l>
+                  <l>You should not listen to flattery.</l>
+                  <l>Vanity, Sir is a horrid vice--</l>
+                  <l>I'm sure the lesson is worth the price."</l>
+                  <l>7,4</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The City Mouse And The Country Mouse.</hi>
+               </head>
+               <lg>
+                  <l>8,1</l>
+                  <l/>
+                  <l>A City Mouse, with ways polite,</l>
+                  <l>A Country Mouse invited</l>
+                  <l>To sup with him and spend the night.</l>
+                  <l>Said Country Mouse: "De--lighted!"</l>
+                  <l>In truth it proved a royal treat,</l>
+                  <l>With everything that's good to eat.</l>
+                  <l>8,2</l>
+                  <l>Alas! When they had just begun</l>
+                  <l>To gobble their dinner,</l>
+                  <l>A knock was heard that made them run.</l>
+                  <l>The City Mouse seemed thinner.</l>
+                  <l>And as they scampered and turned tail,</l>
+                  <l>He saw the Country Mouse grow pale.</l>
+                  <l>A knock was heard.</l>
+                  <l>8,4</l>
+                  <l>8,5</l>
+                  <l>The knocking ceased. A false alarm!</l>
+                  <l>The City Mouse grew braver.</l>
+                  <l>"Come back!" he cried. "No, no! The farm,</l>
+                  <l>Where I'll not quake or quaver,</l>
+                  <l>Suits <hi rend="italic">me</hi>," replied the Country Mouse.</l>
+                  <l>"You're welcome to your city house."</l>
+                  <l>8,6</l>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Lion And The Gnat.</hi>
+               </head>
+               <lg>
+                  <l>9,1</l>
+                  <l/>
+                  <l>The Lion once said to the Gnat: "You brat,</l>
+                  <l>Clear out just as quick as you can, now--s'cat!</l>
+                  <l>If you meddle with me</l>
+                  <l>I will not guarantee</l>
+                  <l>That you won't be slammed perfectly flat--</l>
+                  <l>D'ye see?"</l>
+                  <l>If you meddle with me I will not guarantee that you won't be slammed perfectly flat.</l>
+                  <l>Said the Gnat: "Because you're called King--you thing!--</l>
+                  <l>You fancy that you will make <hi rend="italic">me</hi> take wing.</l>
+                  <l>Why, an ox weighs much more,</l>
+                  <l>Yet I drive him before</l>
+                  <l>When I get good and ready to sting.</l>
+                  <l>Now, roar!"</l>
+                  <l/>
+                  <l>Then loudly his trumpet he blew. And--whew!</l>
+                  <l>How fiercely and fast at his foe he flew.</l>
+                  <l>From the tail to the toes</l>
+                  <l>He draws blood as he goes.</l>
+                  <l>Then he starts in to sting and to chew</l>
+                  <l>His nose.</l>
+                  <l/>
+                  <l>Sir Lion was mad with the pain. In vain</l>
+                  <l>He roared and he foamed and he shook his mane.</l>
+                  <l>All the beasts that were nigh</l>
+                  <l>Fled in fear from his cry.</l>
+                  <l>But the Gnat only stung him again--</l>
+                  <l>In the eye.</l>
+                  <l/>
+                  <l>He looked and laughed as he saw--Haw, Haw!--</l>
+                  <l>The Lion self-torn by his tooth and claw,</l>
+                  <l>So His Majesty's hide</l>
+                  <l>With his own blood was dyed.</l>
+                  <l>Said the Gnat: "Shall I serve you up raw--</l>
+                  <l>Or fried?"</l>
+                  <l/>
+                  <l>It's finished. The Lion's loud roar is o'er.</l>
+                  <l>He's bitten and beaten, he's sick and sore.</l>
+                  <l>But a spider's web spread</l>
+                  <l>Trapped the Gnat as he sped</l>
+                  <l>With the news...He will never fight more--</l>
+                  <l>He's dead!</l>
+                  <l>9,3</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Dove And The Ant.</hi>
+               </head>
+               <lg>
+                  <l>10,1</l>
+                  <l/>
+                  <l>An Ant who in a brook would drink</l>
+                  <l>Fell off the bank. He tried</l>
+                  <l>To swim, and felt his courage sink--</l>
+                  <l>This ocean seemed so wide.</l>
+                  <l>But for a dove who flew above</l>
+                  <l>He would have drowned and died.</l>
+                  <l/>
+                  <l>The friendly Dove within her beak</l>
+                  <l>A bridge of grass-stem bore:</l>
+                  <l>On this the Ant, though worn and weak.</l>
+                  <l>Contrived to reach the shore</l>
+                  <l>Said he: "The tact of this kind act</l>
+                  <l>I'll cherish evermore."</l>
+                  <l/>
+                  <l>Behold! A barefoot wretch went by</l>
+                  <l>With slingshot in his hand.</l>
+                  <l>Said he: "You'll make a pigeon pie</l>
+                  <l>That will be kind of grand."</l>
+                  <l>He meant to murder the gentle bird--</l>
+                  <l>Who did not understand.</l>
+                  <l>Said me, You'll make a pigeon-pie.</l>
+                  <l>10,3</l>
+                  <l>The Ant then stung him on the heel</l>
+                  <l>(So quick to see the sling).</l>
+                  <l>He turned his head, and missed a meal:</l>
+                  <l>The pigeon pie took wing.</l>
+                  <l>And so the Dove lived on to love--</l>
+                  <l>Beloved by everything.</l>
+                  <l>Amor Vincit.</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Fox And The Grapes.</hi>
+               </head>
+               <lg>
+                  <l>11,1</l>
+                  <l/>
+                  <l>Rosy and ripe, and ready to box,</l>
+                  <l>The grapes hang high o'er the hungry Fox.--</l>
+                  <l>He pricks up his ears, and his eye he cocks.</l>
+                  <l>11,2</l>
+                  <l>Ripe and rosy, yet so high!--</l>
+                  <l>He gazes at them with a greedy eye,</l>
+                  <l>And knows he must eat and drink--or die.</l>
+                  <l/>
+                  <l>When the jump proves to be beyond his power--</l>
+                  <l>"Pooh!" says the Fox. "Let the pigs devour</l>
+                  <l>Fruit of <hi rend="italic">that</hi> sort. <hi rend="italic">Those grapes are sour!"</hi>
+                  </l>
+                  <l>Those grapes are sour!</l>
+                  <l>11,4</l>
+                  <l>11,5</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Ass In The Lion's Skin.</hi>
+               </head>
+               <lg>
+                  <l>For Sale.</l>
+                  <l/>
+                  <l>An Ass in The Lion's skin arrayed</l>
+                  <l>Made everybody fear.</l>
+                  <l>And this was queer,</l>
+                  <l>Because he was himself afraid.</l>
+                  <l>Yet everywhere he strayed</l>
+                  <l>The people ran like deer.</l>
+                  <l>12,2</l>
+                  <l>Ah, ah! He is betrayed:</l>
+                  <l>
+                     <hi rend="italic">No lion has that long and hairy ears.</hi>
+                  </l>
+                  <l>No lion has that long and hairy ear!</l>
+                  <l>Old Martin spied the tip; and country folk</l>
+                  <l>Who are not in the secret of the joke,</l>
+                  <l>With open mouths and eyes</l>
+                  <l>Stare at old Martin's prize--</l>
+                  <l>A Lion led to mill, with neck in yoke.</l>
+                  <l>12,4</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Fox And The Stork.</hi>
+               </head>
+               <lg>
+                  <l>13,1</l>
+                  <l/>
+                  <l>Old Father Fox, who was known to be mean,</l>
+                  <l>Invited Dame Stork in to dinner.</l>
+                  <l>There was nothing but soup that could scarcely be seen:--</l>
+                  <l>Soup <hi rend="italic">never</hi> was served any thinner.</l>
+                  <l>And the worst of it was, as I'm bound to relate,</l>
+                  <l>Father Fox dished it up on a <hi rend="italic">flat</hi> china plate.</l>
+                  <l>13,2</l>
+                  <l>Dame Stork, as you know, has a very long beak:</l>
+                  <l>Not a crumb or drop could she gather</l>
+                  <l>Had she pecked at the plate every day in the week.</l>
+                  <l>But as for the Fox--sly old Father:</l>
+                  <l>With his tongue lapping soup at a scandalous rate,</l>
+                  <l>He licked up the last bit and polished the plate.</l>
+                  <l/>
+                  <l>Pretty soon Mistress Stork spread a feast of her own;</l>
+                  <l>Father Fox was invited to share it.</l>
+                  <l>He came, and he saw, and he gave a great groan:</l>
+                  <l>The stork had known how to prepare it.</l>
+                  <l>She had meant to get even, and now was <hi rend="italic">her</hi> turn:</l>
+                  <l>Father Fox was invited <hi rend="italic">to eat from an urn.</hi>
+                  </l>
+                  <l>Father Fox was invited to eat from an urn.</l>
+                  <l>The urn's mouth was small, and it had a long neck;</l>
+                  <l>The food in it smelled most delightful.</l>
+                  <l>Dame Stork, with her beak in, proceeded to peck;</l>
+                  <l>But the Fox found that fasting is frightful.</l>
+                  <l>Home he sneaked. On his way there he felt his ears burn</l>
+                  <l>When he thought of the Stork and her tall, tricky urn.</l>
+                  <l>13,4</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Monkey And The Cat.</hi>
+               </head>
+               <lg>
+                  <l>14,1</l>
+                  <l/>
+                  <l>Jocko the Monkey, Mouser--his chum, the Cat,</l>
+                  <l>Had the same master. Both were sleek and fat,</l>
+                  <l>And mischievous. If anything went wrong,</l>
+                  <l>The neighbors where not blamed. Be sure of <hi rend="italic">that.</hi>
+                  </l>
+                  <l/>
+                  <l>Jocko, 'tis said was something of a thief;</l>
+                  <l>Mouser, if truth be told, would just as lief</l>
+                  <l>Much stolen cheese as chase the midnight mouse.</l>
+                  <l>The praise bestowed on <hi rend="italic">either</hi> must be brief.</l>
+                  <l/>
+                  <l>One day these rogues, stretched flat before the fire,</l>
+                  <l>Saw chestnuts roassting. "Ah! Could we conspire</l>
+                  <l>To jerk them out," said Jocko, "from the coals,</l>
+                  <l>We'd smash the shells and have our heart's desire.</l>
+                  <l>14,2</l>
+                  <l>"Come, Brother Mouser! This day 'tis your turn</l>
+                  <l>To do some bold and desperate thing to earn</l>
+                  <l>A reputation. You, who are so quick,</l>
+                  <l>Snatch out the nuts before they start to burn.</l>
+                  <l/>
+                  <l>"Alas! That I, a Monkey, was not made</l>
+                  <l>To play with fire. But <hi rend="italic">you</hi> are not afraid."</l>
+                  <l>So Mouser--pleased, like many a cat or man,</l>
+                  <l>With pretty words--sly Jocko's wish obeyed.</l>
+                  <l/>
+                  <l>Into the fire he put a practiced paw:</l>
+                  <l>Out came a chestnut clinging to his claw--</l>
+                  <l>Another and another. As they dropped</l>
+                  <l>Jocko devoured them, whether roast or raw.</l>
+                  <l>So Mouser--pleased--sly Joko's wish obeyed.</l>
+                  <l>A servant enters. Off the robbers run.</l>
+                  <l>Jocko, you may be sure, enjoyed the fun.</l>
+                  <l>But Mouser's paw is sadly singed--for what?</l>
+                  <l>Just to get nuts for Jocko. <hi rend="italic">He</hi> got none.</l>
+                  <l>14,4</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Hare And The Tortoise.</hi>
+               </head>
+               <lg>
+                  <l>I'll run you a race if you dare.</l>
+                  <l/>
+                  <l>Said the Tortoise one day to the Hare:</l>
+                  <l>"I'll run you a race if you dare.</l>
+                  <l>I'll bet you cannot</l>
+                  <l>Arrive at that spot</l>
+                  <l>As quickly as <hi rend="italic">I</hi> can get there."</l>
+                  <l/>
+                  <l>Quoth the Hare: "You are surely insane.</l>
+                  <l>Pray, <hi rend="italic">what</hi> has affected your brain?</l>
+                  <l>You seem pretty sick.</l>
+                  <l>Call a doctor in--quick,</l>
+                  <l>And let him prescribe for your pain."</l>
+                  <l/>
+                  <l>"Never mind," said the Tortoise. "Let's run!</l>
+                  <l>Will you bet me?" "Why, certainly." "Done!"</l>
+                  <l>While the slow Tortoise creeps</l>
+                  <l>Mr. Hare makes four leaps,</l>
+                  <l>And then loafs around in the sun.</l>
+                  <l/>
+                  <l>It seemed such a one-sided race,</l>
+                  <l>To win was almost a disgrace.</l>
+                  <l>So he frolicked about</l>
+                  <l>Then at last he set out--</l>
+                  <l>As the Tortoise was as nearing the place.</l>
+                  <l>15,2</l>
+                  <l>Too late! Though he sped like a dart,</l>
+                  <l>The Tortoise was first. She was smart:</l>
+                  <l>"You can surely run fast,"</l>
+                  <l>She remarked. "Yet you're last.</l>
+                  <l>It is better to get a good start."</l>
+                  <l>15,3</l>
+                  <l>15,4</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Heron Who Was Hard To Please.</hi>
+               </head>
+               <lg>
+                  <l>I'm known as a Heron as such, I live high.</l>
+                  <l/>
+                  <l>A long-legged Heron, with long neck and beak,</l>
+                  <l>Set out for a stroll by the bank of a creek.</l>
+                  <l>So clear was the water that if you looked sharp</l>
+                  <l>You could see the pike caper around with the carp.</l>
+                  <l>The Heron might quickly have speared enough fish</l>
+                  <l>To make for his dinner a capital dish.</l>
+                  <l>But he was a very particular bird:</l>
+                  <l>His food fixed "just so," at the hours he preferred.</l>
+                  <l>And hence he decided 'twas better to wait,</l>
+                  <l>Since his appetite grew when he supped rather late.</l>
+                  <l>Pretty soon he was hungry, and stalked to the bank.</l>
+                  <l>Where some pondfish were leaping--a fish of low rank.</l>
+                  <l>"Bah, Bah!" said the Bird. "Sup on these? No--not I.</l>
+                  <l>I'm known as a Heron: as such I live high."</l>
+                  <l>Then some gudgeon swam past that were tempting to see,</l>
+                  <l>But the Heron said hautily: "No--not for <hi rend="italic">me.</hi>
+                  </l>
+                  <l>For those I'd not bother to open my beak,</l>
+                  <l>If I had to hang 'round come next Friday a week."</l>
+                  <l>Thus bragged the big Bird. But he's bound to confess</l>
+                  <l>That he opened his elegant beak for much less.</l>
+                  <l>
+                     <hi rend="italic">Not another fish came.</hi> When he found all else fail,</l>
+                  <l>He was happy to happen upon a fat snail.</l>
+                  <l>16,2</l>
+                  <l>16,3</l>
+                  <l>16,4</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Raven Who Would Rival The Eagle.</hi>
+               </head>
+               <lg>
+                  <l>17,1</l>
+                  <l/>
+                  <l>An Eagle swooped from out the sky,</l>
+                  <l>And carried off a sheep.</l>
+                  <l>A Raven seeing him, said: "I</l>
+                  <l>Could do that too if I should try.</l>
+                  <l>His meal comes mighty cheap."</l>
+                  <l/>
+                  <l>Of all that well-fed flock was one</l>
+                  <l>As fat as fat could be.</l>
+                  <l>The Raven rose, and lit upon</l>
+                  <l>Her back. She seemed to weigh a ton--</l>
+                  <l>So very fat was she.</l>
+                  <l>17,2</l>
+                  <l>And, oh! Her wool was wondrous thick:</l>
+                  <l>It would have made a mat.</l>
+                  <l>The Raven's claws are caught, and stick!</l>
+                  <l>He's played himself a pretty trick--</l>
+                  <l>To fly with one so fat.</l>
+                  <l>The Raven's claws are caught, and stick.</l>
+                  <l>"Ba, ba!" "Caw, caw!" cry bird and beast.</l>
+                  <l>The shepherd comes at last:</l>
+                  <l>Sir Raven who would find a feast</l>
+                  <l>Is from the woolly one released,</l>
+                  <l>And in a cage kept fast.</l>
+                  <l>17,4</l>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify"> </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">The Miller, His Son And The Ass.</hi>
+               </head>
+               <lg>
+                  <l>The way that they started made everyone stare.</l>
+                  <l/>
+                  <l>A Miller and Son once set out for the fair,</l>
+                  <l>To sell a fine ass they had brought up with care;</l>
+                  <l>And the way that they started made everyone stare.</l>
+                  <l/>
+                  <l>To keep the Ass fresh, so the beast would sell dear</l>
+                  <l>On a pole they slung him. It surely seemed queer:</l>
+                  <l>He looked, with heels up, like some huge chandelier.</l>
+                  <l/>
+                  <l>One person who passed them cried out in great glee.</l>
+                  <l>"Was there anything ever so silly?" said he.</l>
+                  <l>"Can you guess who the greatest Ass is of those three?"</l>
+                  <l/>
+                  <l>The Miller at once put the brute on the ground;</l>
+                  <l>And the Ass, who had liked to ride t'other way round,</l>
+                  <l>Complained in language of curious sound.</l>
+                  <l/>
+                  <l>No matter. The Miller now made his Son ride,</l>
+                  <l>While he followed after or walked alongside.</l>
+                  <l>Then up came three merchants. The eldest one cried;</l>
+                  <l/>
+                  <l>"Get down there, young fellow! I never did see</l>
+                  <l>Such manners:--a gray-beard walks where <hi rend="italic">you</hi> should be.</l>
+                  <l>He should ride, you should follow. Just take that from <hi rend="italic">me!"</hi>
+                  </l>
+                  <l/>
+                  <l>"Dear Sirs," quoth the Miller, "I'd see you content."</l>
+                  <l>He climbed to the saddle; on foot the boy went...</l>
+                  <l>Three girls passed. Said one: "Do you see that old Gent?</l>
+                  <l>There he sits, like a bishop. I say it's a shame,</l>
+                  <l>While that boy trudging after seems more than half lame."</l>
+                  <l>"Little girl," said the Miller, "go back whence you came."</l>
+                  <l/>
+                  <l>Yet this young creature so worked on his mind</l>
+                  <l>That he wanted no woman to call him unkind:</l>
+                  <l>And he said to his Son: "Seat yourself here--behind."</l>
+                  <l>18,2</l>
+                  <l>With the Ass bearing double they jogged on again,</l>
+                  <l>And once more met a critic, who said: "It is plain</l>
+                  <l>Only dunces would give their poor donkey such pain.</l>
+                  <l/>
+                  <l>He will die with their weight: it's a shame and a sin.</l>
+                  <l>For their faithful servant they care not a pin.</l>
+                  <l>They'll have nothing to sell at the fair but <hi rend="italic">his skin."</hi>
+                  </l>
+                  <l/>
+                  <l>"Dear me!" said the Miller, "what <hi rend="italic">am</hi> I to do?</l>
+                  <l>Must I suit the whole world and the world's father, too?</l>
+                  <l>Yet it must end <hi rend="italic">some</hi> time--so I'll see the thing through."</l>
+                  <l/>
+                  <l>Both Father and Son now decided to walk,</l>
+                  <l>While the Ass marched in front with a strut and a stalk;</l>
+                  <l>Yet the people who passed them continued to talk.</l>
+                  <l/>
+                  <l>Said one to another: "Look there, if you please,</l>
+                  <l>How they wear out their shoes, while their Ass takes his ease.</l>
+                  <l>Were there ever, d'ye think, three such asses as these?"</l>
+                  <l>Said the Miller: "You're right. I'm an Ass! It is true.</l>
+                  <l>Too long have I listened to people like you.</l>
+                  <l>But now I am done with the whole kit and crew.</l>
+                  <l/>
+                  <l>"Let them blame me or praise me, keep silent or yell,</l>
+                  <l>My goings and comings they cannot compel.</l>
+                  <l>I will do as I please!"...So he did--and did well.</l>
+                  <l>18,3</l>
+               </lg>
+               <p rend="justify">
+                  <lb/>   </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>LRL Accelerators, The 184-Inch Synchrocyclotron</title>
+            <author>Lawrence Radiation Laboratory</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T09:05:44Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/l/LaboratoryLawrenceRadiation-LrlAcceleratorsThe184-InchSynchrocyclotron_2010.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Lawrence Radiation Laboratory</name>
+               <date>2024-01-04T09:05:44Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>LRL Accelerators, The 184-Inch Synchrocyclotron</head>
+         <author>Lawrence Radiation Laboratory</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/l/LaboratoryLawrenceRadiation-LrlAcceleratorsThe184-InchSynchrocyclotron_2010.odt</p>
+         <head>
+            <hi rend="italic">LRL Accelerators</hi>
+         </head>
+         <head>THE 184-INCH SYNCHROCYCLOTRON</head>
+         <pb/>
+         <div type="div1">
+            <head>LRL Accelerators, The 184-Inch Synchrocyclotron</head>
+            <pb/>
+            <div type="div2">
+               <head>LAWRENCE RADIATION LABORATORY</head>
+               <div type="div3">
+                  <head>UNIVERSITY OF CALIFORNIA, BERKELEY, CALIFORNIA</head>
+                  <p rend="justify">Synchrocyclotron Building</p>
+               </div>
+               <div type="div3">
+                  <head>Contents</head>
+                  <list rend="bulleted">
+                     <item> Page</item>
+                     <item>THE 184-INCH SYNCHROCYCLOTRON 2</item>
+                     <item>PRINCIPLE OF OPERATION OF A CONVENTIONAL CYCLOTRON 3</item>
+                     <item>THE PRINCIPLE OF PHASE STABILITY 6</item>
+                     <item>
+                        <p rend="justify">DESIGN AND CONSTRUCTION OF THE 184-INCH SYNCHROCYCLOTRON 8</p>
+                        <p rend="justify">Magnet 8<lb/>Vacuum System 9<lb/>Ion Source 10<lb/>Radiofrequency System 10<lb/>Internal Targets and Beam Extractor 12</p>
+                     </item>
+                     <item>
+                        <p rend="justify">CYCLOTRON EXPERIMENTS 15</p>
+                        <p rend="justify">Nuclear Physics 15<lb/>Biophysics 18<lb/>Nuclear Chemistry 19</p>
+                     </item>
+                     <item>BIBLIOGRAPHY 20</item>
+                     <item>APPENDIX 21</item>
+                  </list>
+               </div>
+               <div type="div3">
+                  <head>THE 184-INCH SYNCHROCYCLOTRON</head>
+                  <p rend="justify">His success with the 60-inch cyclotron in 1939 led Dr. E. O. Lawrence to propose a much more powerful accelerator, one which could produce new types of nuclear rearrangements and even create particles. Grants totaling $1,225,000 permitted work to start on the 184-inch cyclotron in August 1940.[1] It was designed to accelerate atomic particles to an energy of 100 million electron volts (Mev), five times that possible with the 60-inch machine.</p>
+                  <p rend="justify">  Fig. 1. The electromagnet under construction during the period 1940 to 1942.</p>
+                  <p rend="justify">Before the new cyclotron could be finished World War II began. Construction on the cyclotron was therefore halted. However, because of interest in separating the isotopes of uranium by the electromagnetic method, work on the giant magnet continued at an even faster pace. This magnet would contain 3700 tons of steel in its yoke and pole pieces, and 300 tons of copper in its exciting coils (Fig. 1). By May 1942 the magnet was completed. During that summer it was used in a pilot plant to separate the first significant amounts of U<hi rend="sup">235</hi>  ever obtained. The 184-inch magnet remained in use in a research and development program at Berkeley until the end of the war, supplying information to Oak Ridge, Tennessee, where a large separation plant had been erected.</p>
+                  <p rend="justify">Construction on the rest of the cyclotron was resumed in 1945. By that time a new principle had been discovered which made it possible to obtain ion beams of much higher energy than originally hoped for. Yet a considerably lower accelerating voltage could be used. This important discovery was made independently by Dr. V. Veksler in Russia and by Dr. Edwin M. McMillan, present Director of the Lawrence Radiation Laboratory. Before attempting to discuss this principle, we should first review the operation of a conventional cyclotron.</p>
+               </div>
+               <div type="div3">
+                  <head>PRINCIPLE OF OPERATION OF A CONVENTIONAL CYCLOTRON</head>
+                  <p rend="justify">Fig. 2. Basic parts of a cyclotron.</p>
+                  <p rend="justify">The main parts of a cyclotron are represented in Fig. 2. Charged particles (ions) are accelerated inside an evacuated tank. This is to prevent the beam from colliding with air molecules and being scattered. The vacuum tank is placed between the poles of an electromagnet, whose field bends the ion beam into a circular orbit.</p>
+                  <p rend="justify">The operation begins when the ions are introduced into the region between two accelerating electrodes, or "dees."[2]  Because the ions carry a positive electric charge, they are attracted toward that dee which is electrically negative at the moment. Were it not for the magnetic field, the ions would be accelerated in a straight line; instead they are deflected into a circular path back toward the dee gap. By the time the ions again reach the dee gap, the sign of the electric potential on the dees is reversed, so that now the ions are attracted toward the opposite dee.</p>
+                  <p rend="justify">As this process of alternating the electric potential is repeated, the ions gain speed and energy with each revolution. This causes them to spiral outward. Finally they strike a target inserted into their path or are extracted from the cyclotron for use as an external beam.</p>
+                  <p rend="justify">The time required for an ion to complete one loop remains constant as it spirals outward. This is because its velocity increases sufficiently to make up for the increased distance it travels during each turn. This means that the electric potential applied to the dees must alternate at a constant frequency, called the "resonant frequency."</p>
+                  <p rend="justify">The resonant frequency f is given by the relationship</p>
+                  <table rend="frame" xml:id="Table1">
+                     <row>
+                        <cell> </cell>
+                        <cell>f  =   </cell>
+                        <cell>
+                           <p rend="center">He</p>
+                           <p rend="center">2 π m c</p>
+                        </cell>
+                        <cell> </cell>
+                        <cell>(1)</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">where H, e, π, c, and m are constants. H is the strength of the magnetic field of the cyclotron, e is the electric charge carried by the ion, π equals 3.14, c is a conversion factor, and m is the mass of the ion. For example, the resonant frequency for protons accelerated in a 15,000-gauss magnetic field is 23.7 megacycles (Mc).[3] We call such a rapidly alternating potential a "radiofrequency voltage" and the electronic circuit for producing it a "radiofrequency oscillator."</p>
+                  <p rend="justify">The energy E of an ion emerging from the cyclotron is given by</p>
+                  <table rend="frame" xml:id="Table2">
+                     <row>
+                        <cell> </cell>
+                        <cell>E  =   </cell>
+                        <cell>
+                           <p rend="center">H<hi rend="sup">2</hi> R<hi rend="sup">2</hi>
+                           </p>
+                           <p rend="center">2<hi rend="sup"> </hi>
+                           </p>
+                        </cell>
+                        <cell rend="center"> </cell>
+                        <cell>
+                           <p rend="center">e<hi rend="sup">2</hi>
+                           </p>
+                           <p rend="center">mc<hi rend="sup">2</hi>
+                           </p>
+                        </cell>
+                        <cell> </cell>
+                        <cell>(2)</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">where H, e, and m are as defined above, and R is the radius at which the beam is extracted. From this equation we see that for a given type of ion (where e and m are constant), the energy depends on the diameter and strength of the magnet, but not directly upon the voltage applied to the dees.</p>
+                  <p rend="justify">The number of revolutions that an ion can make in a conventional cyclotron is limited to about 70 to 100. This is due to a very curious effect: as an ion is accelerated, its mass increases! [This phenomenon is explained by Einstein's special theory of relativity (see Fig. 3).] Referring back to Eq. (1), we see that if the ion mass (m) does not remain constant, but rather increases, then the resonant frequency (f) decreases. But since the dee potential continues alternating at a constant frequency, an ion soon begins to arrive "late" at the dee gap. By the time it has made about 70 to 100 turns an ion is so badly out of phase that it is no longer accelerated.</p>
+                  <p rend="justify">Suppose now that we want to obtain an energy of 10 Mev. Because an ion can make a maximum of about 100 turns, the accelerating potential would have to be about 100,000 volts. However, Professor Lawrence hoped to reach 100 Mev with the new 184-inch cyclotron. This meant that the accelerating voltage would have to be about 1,000,000 volts. Preventing such a high voltage from sparking promised to be one of many formidable engineering problems.</p>
+                  <p rend="justify">  Fig. 3. Graph showing how the mass of an object increases as its velocity approaches that of light.</p>
+               </div>
+               <div type="div3">
+                  <head>THE PRINCIPLE OF PHASE STABILITY</head>
+                  <p rend="justify">Fortunately, Drs. Veksler and McMillan showed that relatively low dee voltages can be used to accelerate ions to very high energies. This is possible if the oscillator frequency is continuously decreased to keep it in synchronism with the decreasing rotational frequency of the ions. This would allow an ion to make many revolutions without becoming out of phase. This principle of phase stability was experimentally verified with the 37-inch cyclotron before being incorporated into the design of the 184-inch machine. Because it utilizes this principle, this machine has usually been referred to as a "synchrocyclotron" or "frequency-modulated cyclotron." However, it is sometimes called simply a "cyclotron."</p>
+                  <p rend="justify">The 184-inch synchrocyclotron was first operated in November 1946. With a maximum dee voltage of only 20,000 volts, it accelerated deuterons to 190 Mev and alpha particles to 380 Mev.[4]  In 1949 it was modified to permit production of 350-Mev protons also.</p>
+                  <p rend="justify">Between 1955 and 1957 the synchrocyclotron was rebuilt so that now the following energies can be obtained:</p>
+                  <table rend="frame" xml:id="Table3">
+                     <row>
+                        <cell rend="center">Protons</cell>
+                        <cell rend="center">Deuterons</cell>
+                        <cell rend="center">Alpha Particles</cell>
+                        <cell rend="center">Helium-3 nuclei[5]</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">730 Mev</cell>
+                        <cell rend="center">460 Mev</cell>
+                        <cell rend="center">910 Mev</cell>
+                        <cell rend="center">1140 Mev</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">In reaching an energy of 730 Mev a proton, for example, makes 75,000 revolutions in just 6 milliseconds (msec). It travels a distance of 450 miles and attains a velocity of 152,000 miles per second, or 82% of the speed of light! During this brief journey its mass increases 75%, giving very convincing evidence for the validity of Einstein's theory. Similar data for other ions may be found in the appendix.</p>
+               </div>
+               <div type="div3">
+                  <head>DESIGN AND CONSTRUCTION OF THE 184-INCH SYNCHROCYCLOTRON</head>
+                  <div type="div4">
+                     <head>Magnet</head>
+                     <p rend="justify">During the rebuilding of the cyclotron, the diameter of the magnet pole pieces was increased from 184 to 188-3/4 inches. Also, the pole gap at the center was reduced from 21 to 14 inches. These changes increased the weight of steel in the magnet from 3700 to 4000 tons.</p>
+                     <p rend="justify">The main exciting coils, which contain 1300 turns of copper-bar conductor each, were not altered. Two auxiliary coils containing 425 turns each were added. This brought the total weight of copper from 300 to 340 tons. The coils are layer-wound around the pole pieces close to the pole gap. Other data about the coils are given in the appendix.</p>
+                     <p rend="justify">The effect of these modifications was to increase the field strength at the center of the pole gap from 15,000 to 23,400 gauss. This increase made it possible to obtain the higher-energy ions.</p>
+                     <p rend="justify">Power is supplied to the coils by two motor generator sets, which produce the direct current required for a steady magnetic field. The direct current from the motor generators is regulated so that the magnetic-field fluctuation is less than one part in 10,000. This is necessary if one wants an external beam of nearly uniform energy.</p>
+                     <p rend="justify">In order to prevent the beam from becoming unstable and striking the dee, the magnetic field must be strongest at the center and decrease radially (Fig. 4a). With flat pole faces the field does not decrease uniformly. To give the desired rate of decrease, the pole faces are shimmed with concentric steel rings of varying thickness, as shown in Fig. 4b. In a radially decreasing magnetic field, the lines of magnetic flux bow outward, as represented in Fig. 4b. Ions moving in a magnetic field are deflected at right angles to these flux lines. Ions above the midplane of the cyclotron are directed downward; those below the midplane are directed upward. In this way an ion oscillates about the midplane and vertical focusing is achieved.</p>
+                     <p rend="justify">  Fig. 4. (a) Plot of magnetic-field strength vs radius. The field strength decreases gradually out to a radius of about 83-in., after which it falls off sharply. This point marks the maximum usable radius for particle orbits. Further out they are unstable. (b) Magnetic flux lines are represented as broken arrows, and focusing forces as solid arrows. An ion above the midplane is directed downward, while an ion below the midplane is directed upward.</p>
+                     <p rend="justify">Radial focusing is accomplished in a somewhat analogous manner. If the magnetic field decreases with radius, radial restoring forces are established. An ion at too large a radius is directed inward, and an ion at too small a radius is directed outward. In this fashion, the ion oscillates about the synchronous orbit. Thus, radial focusing is achieved.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Vacuum System</head>
+                     <p rend="justify">The vacuum tank (acceleration chamber) is a steel box 20 × 25 ft and 4 ft high. It is evacuated to a pressure of 10<hi rend="sup">-5</hi> millimeter of mercury (about one 100-millionth of atmospheric pressure). The pumping equipment consists of six oil-diffusion pumps and four mechanical vacuum pumps. The pumping speed of the six 20-in. oil-diffusion pumps is a total of 20,000 liters/sec.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Ion Source</head>
+                     <p rend="justify">The ion source is a simple arc-type. Hydrogen gas is allowed to leak into the ion-source enclosure near a tungsten filament, which is heated to incandescence. Electrons emitted by the filament knock off electrons from hydrogen atoms, leaving free protons. The protons then escape into the acceleration chamber through a hole in the ion-source housing. Once inside, the protons are accelerated by the dee potential.</p>
+                     <p rend="justify">Deuterons or alpha particles are obtained in a similar fashion using deuterium or helium gas in place of hydrogen.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Radiofrequency System</head>
+                     <p rend="justify">The 184-inch synchrocyclotron has a single dee instead of the double-dee arrangement described above for illustrative purposes. The accelerating electric field is developed between the dee and a dummy dee which is grounded to the vacuum tank. Using a single dee does not change the principle of operation, yet it offers the advantage of allowing more space for auxiliary equipment inside the vacuum tank. Also, the construction is much simpler. The dummy dee is not essential for operation, but it does improve performance.</p>
+                     <p rend="justify">  Fig. 5. Radiofrequency cycle for accelerating protons. Sixty-four such cycles are repeated each second.</p>
+                     <p rend="justify">Radiofrequency power is supplied to the dee by a vacuum-tube oscillator. The frequency of oscillation must decrease during the acceleration cycle, as indicated above. For protons, the frequency at the start of acceleration is 36 megacycles (Mc). At the end of acceleration the frequency is only 18 Mc (see Fig. 5). This change in frequency is achieved by varying the electrical capacitance in the tuned circuit of the oscillator. (This is what you do when you dial a different station on a radio.) This tuned circuit, which is called the cyclotron resonator, is shown in Fig. 6.</p>
+                     <p rend="justify">  Fig. 6. Cyclotron resonator.</p>
+                     <p rend="justify">Because the frequency must change over such a wide range (from 36 to 18 Mc), the electrical capacitance must be varied by a factor of 20 to 1. This is done by a variable capacitor of unique design. It resembles two giant tuning forks. As the blades of the tuning forks vibrate, the capacitance is alternately increased and decreased by the required amount.</p>
+                     <p rend="justify">These two tuning forks must be kept in step with great precision. This is to prevent the oscillator from exciting lateral rf resonances. With a cyclotron of this size, this is a problem. These resonances, if excited, would cause loss of beam. The method for keeping the blades moving together is as follows: The blades are made to vibrate at their resonant frequency, which is approximately 64 cycles per second. One set of blades operates at its natural frequency as a tuning-fork oscillator. The second set of blades is driven from an amplified sample of the signal from the first; its natural period is adjusted automatically to equal that of the first. The amplitude of each set is regulated to within 0.003 in.; the phase angle between the blades is regulated to within 1 deg.</p>
+                     <p rend="justify">Ions are accelerated only when the radiofrequency is decreasing (Fig. 5). The remaining portion of the cycle is "dead time." Thus, 64 pulses, each of about 500 microseconds' duration, are obtained every second. The average ion current of a pulsed beam is much less than for a continuous beam, such as that obtained from a conventional cyclotron (see Table I). This is part of the price paid for higher energies.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Internal Targets and Beam Extractor</head>
+                     <p rend="justify">The simplest target is one placed inside the vacuum tank where the circulating beam will strike it. The target may be any substance that the physicist or chemist wants to irradiate. The target material is attached to a movable probe. If the experimenter wants to use the full-energy beam, he places the target at the maximum usable radius of the circulating beam (82 inches). However, if he desires to use ions having less than the maximum energy, he inserts the target further into the cyclotron so that it is intercepted sooner.</p>
+                     <p rend="justify">TABLE I</p>
+                     <p rend="justify">Comparison of external-beam energy and current for a<lb/>synchrocyclotron and a conventional cyclotron</p>
+                     <p rend="justify">184-Inch Synchrocyclotron</p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">Protons</p>
+                     <p rend="justify">Deuterons</p>
+                     <p rend="justify">Alpha particles</p>
+                     <p rend="justify">Beam energy — maximum (Mev)</p>
+                     <p rend="justify">730</p>
+                     <p rend="justify">460</p>
+                     <p rend="justify">910</p>
+                     <p rend="justify">Beam intensity — peak current (μa)[a]</p>
+                     <p rend="justify">120</p>
+                     <p rend="justify">120</p>
+                     <p rend="justify">40</p>
+                     <p rend="justify">Beam intensity — average current (μa)</p>
+                     <p rend="justify">0.75</p>
+                     <p rend="justify">0.75</p>
+                     <p rend="justify">0.25</p>
+                     <p rend="justify">60-Inch Cyclotron</p>
+                     <p rend="justify">Beam energy — maximum (Mev)</p>
+                     <p rend="justify">12</p>
+                     <p rend="justify">24</p>
+                     <p rend="justify">48</p>
+                     <p rend="justify">Beam intensity — peak current (μa)</p>
+                     <p rend="justify">100</p>
+                     <p rend="justify">150</p>
+                     <p rend="justify">100</p>
+                     <p rend="justify">Beam intensity — average current (μa)</p>
+                     <p rend="justify">70</p>
+                     <p rend="justify">80</p>
+                     <p rend="justify">60</p>
+                     <p rend="justify">[a] μa = microampere</p>
+                     <p rend="justify">  Fig. 7. Plan view of the cyclotron, showing the method for obtaining an external beam of protons, deuterons, or alpha particles.</p>
+                     <p rend="justify">Some experiments require an external beam of protons, deuterons, or alpha particles. A beam of this type can be brought out of the machine by means of a LeCouteur regenerator (Fig. 7). The construction of the regenerator is very simple. It is made of a number of steel laminations of various sizes. What the regenerator does is perturb the magnetic field of the cyclotron at one radial position. Each time the beam passes through the regenerator it receives a kick. With each kick the beam builds up its radial amplitude, until finally it enters a magnetic channel. This channel focuses the beam and steers it outside the main magnetic field. Once outside, the beam travels through an evacuated tube, which is integral with the main vacuum tank. By means of a steering magnet, the beam can be sent into either the physics cave or the medical cave. (These experimental areas are called "caves" because they are rooms inside the massive concrete shielding wall.)</p>
+                     <p rend="justify">Other experiments may require an external beam of mesons.[6]  A meson beam is obtained in the following way (Fig. 8): A movable target such as a block of carbon is placed inside the cyclotron near the end of the outward-spiraling proton beam. When the proton beam hits this target, a shower of mesons is produced. These mesons are bent in various directions by the main magnetic field. Some of them pass through a thin metal window in the vacuum-tank wall and are focused by a magnetic lens into a beam. This meson beam then travels through a hole in the concrete shielding wall into the meson cave. The maximum intensity of this extracted meson beam depends on both the charge and energy desired. Beams of more than 100,000 mesons per second have been obtained through an aperture 4 × 4 in. in the shielding wall.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>CYCLOTRON EXPERIMENTS</head>
+                  <div type="div4">
+                     <head>Nuclear Physics</head>
+                     <p rend="justify">About 86% of the operating time of the 184-inch synchrocyclotron is devoted to experiments in nuclear physics. Most of the experiments study the production and interaction of π mesons. These particles are considered to be essential factors in the intense but short-range forces that bind the nucleus together. The three types of π mesons are designated according to their electric charge as π<hi rend="sup">+</hi>, π<hi rend="sup">0</hi>, and π<hi rend="sup">-</hi>.[7] These mesons materialize only in high-energy nuclear collisions.</p>
+                     <p rend="justify">  Fig. 8. Method for obtaining external meson beam.</p>
+                     <p rend="justify">Of great importance are those experiments that determine the probability of producing each of the three types of mesons in a nuclear collision. This type of experiment is repeated for different beam energies and target elements. Other experiments measure the energy and direction of emission of π mesons from a target.</p>
+                     <p rend="justify">  Fig. 9. A typical experiment. Scintillation counters at A, B, C, D, and E record the passage of charged particles.</p>
+                     <p rend="justify">A typical π-meson experiment is represented in Fig. 9. The purpose of this experiment was to detect the spin directions of protons as they are knocked out of a liquid hydrogen target by a π-meson beam. (Like the earth, a proton spins on its axis.) An extracted proton beam from the cyclotron enters the physics cave from the left, striking a polyethylene target and producing π mesons. A beam of these mesons is formed by a series of two bending magnets and three focusing magnets. This beam passes through a carbon absorber to remove unwanted particles. The meson beam then strikes the liquid hydrogen target. A few of the incoming mesons scatter, knocking protons out of the liquid hydrogen. Scintillation counters at A and B record the passage of a proton, thus defining its direction. The scattered mesons are counted by a scintillation counter at C. A few of the protons scatter off the carbon target and are detected by counters at E and D. From the detection of such events, the spin directions (polarization) of the recoil protons can be analyzed. In this way, more is learned about the fundamental π-proton interaction.</p>
+                     <p rend="justify">Further studies of the interactions of π mesons are made in the meson cave. Other experiments performed there are concerned with μ mesons. The μ meson (muon) is a particle created in the decay of a π meson and is the principal constituent of cosmic rays striking the surface of the earth. The muon is unstable, eventually undergoing a radioactive decay into an electron. Although the muon does not experience nuclear forces, it can interact weakly with nuclei. The behavior of the muon is well understood, but its role as one of the elementary particles is unknown. That is, if the muon did not exist, what effect would this have on the structure of matter? The answer to this question, among others, is being sought by physicists using the 184-inch cyclotron.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Biophysics</head>
+                     <p rend="justify">Experiments in biophysics are conducted in the medical cave. In these the interest lies not in nuclear interactions but in the effect of ionizing radiation on living tissue. High-energy beams of particles can be used for selective destruction of specific areas of the brain. This permits physiological mapping of the functions of the brain in experimental animals. It further offers a therapeutic approach to the treatment of brain tumors. One of the important investigational programs is concerned with the relationship of the pituitary gland to the growth rate of certain cancers and to some endocrine disorders.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Nuclear Chemistry</head>
+                     <p rend="justify">For techniques of radiochemistry to be employed successfully, high interaction rates (and therefore high beam intensities) are needed. For this reason, chemistry targets are usually inserted right into the cyclotron so that they can be bombarded directly by the circulating beam. After the bombardment is completed the target is removed from the cyclotron. It is then taken to a chemistry laboratory and subjected to detailed chemical procedures. Individual elements are removed, and the radioactive isotopes of each element are identified by quantitative counting techniques. In some cases a mass spectrometer is used to analyze the products. Many deductions about the nature of the breakup of the target nucleus can be drawn from the pattern of the observed radioactive products. Sometimes the nucleus splits almost in half. This is called fission. More frequently smaller parts of the nucleus are split off. Two general types of reactions, known as spallation and fragmentation, are distinguished. One of the goals of this research is to learn more about the constitution of the nucleus and of the forces which bind the particles in the interior of the nucleus.</p>
+                  </div>
+                  <div type="div4">
+                     <head>FOOTNOTES:</head>
+                     <p rend="justify">[1] The grants were as follows: Rockefeller Foundation—$1,150,000; John and Mary Markle Foundation—$25,000; The Research Corporation—$50,000. The University of California added a guarantee of $175,000 to bring the total building fund to $1,400,000.</p>
+                     <p rend="justify">[2]  In the first cyclotrons the electrodes were shaped like the letter "D."</p>
+                     <p rend="justify">[3]  We have the values H = 15,000 gauss, e = 4.8 × 10<hi rend="sup">-10</hi>  electrostatic units, and m = 1.6 × 10<hi rend="sup">-24</hi>  gram. To find f, we write</p>
+                     <p rend="justify">f  </p>
+                     <table rend="frame" xml:id="Table4">
+                        <row>
+                           <cell>=   </cell>
+                           <cell>
+                              <p rend="center">15,000 (4.8) 10<hi rend="sup">-10</hi>
+                              </p>
+                              <p rend="center">2 (3.14)(1.6) 10<hi rend="sup">-24</hi>  (3) 10<hi rend="sup">10</hi>
+                              </p>
+                           </cell>
+                           <cell>  ,</cell>
+                        </row>
+                     </table>
+                     <p rend="justify"> </p>
+                     <p rend="justify">f  </p>
+                     <p rend="justify">=  23.7 Mc.</p>
+                     <p rend="justify">[4]  A deuteron is the nucleus of an atom of heavy hydrogen and contains one proton and one neutron; it carries a single positive electric charge. An alpha particle is the nucleus of a helium atom and is made up of two protons and two neutrons; it carries two positive charges.</p>
+                     <p rend="justify">[5]  The machine is equipped for helium-3 operation, but to date it has not been used for that purpose.</p>
+                     <p rend="justify">[6]  Mesons are elementary particles intermediate in mass between the electron and proton.</p>
+                     <p rend="justify">[7]  It may be interesting to note that the π<hi rend="sup">0</hi>  meson was discovered with this cyclotron in 1950. This was the first particle to be discovered with an accelerator. All particles that had been previously discovered were observed first in cosmic rays or some other form of natural radiation.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>BIBLIOGRAPHY</head>
+                  <list rend="numbered">
+                     <item>Gerald A. Behman, Particle Accelerators: I. Bibliography, II. List of Accelerator Installations, UCRL-8050, January 1, 1958.</item>
+                     <item>Samuel Glasstone, The Acceleration of Charged Particles, in <hi rend="italic">Sourcebook on Atomic Energy</hi>, Second Edition (Van Nostrand, Princeton, 1958), Ch. IX.</item>
+                     <item>M. S. Livingston, <hi rend="italic">High-Energy Accelerators</hi> (Interscience Publishers, New York, 1954).</item>
+                     <item>M. Stanley Livingston and Edwin M. McMillan, History of the Cyclotron, Physics Today <hi rend="italic">12</hi>, 18-34 (October 1959).</item>
+                     <item>E. M. McMillan, Particle Accelerators, in <hi rend="italic">Experimental Nuclear Physics</hi>, Emilio Segrè, Editor, Vol. III (Wiley, New York, 1959), Part XIII.</item>
+                     <item>Bob H. Smith <hi rend="italic">et al.</hi>, The Electrical Aspects of the UCRL 740-Mev Synchrocyclotron, UCRL-3779 Rev., October 2, 1957.</item>
+                     <item>Robert L. Thornton, Frequency-Modulation and Radiofrequency System for the Modified Berkeley Cyclotron, UCRL-3362, April 3, 1956.</item>
+                     <item>Robert R. Wilson, Particle Accelerators, Scientific American <hi rend="italic">198</hi>, 64-76 (March 1958).</item>
+                  </list>
+               </div>
+               <div type="div3">
+                  <head>APPENDIX</head>
+                  <div type="div4">
+                     <head>SUMMARY OF SPECIFICATIONS</head>
+                     <table rend="frame" xml:id="Table5">
+                        <row>
+                           <cell>Present fields of research</cell>
+                           <cell>% of time</cell>
+                        </row>
+                        <row>
+                           <cell>Nuclear physics</cell>
+                           <cell>86</cell>
+                        </row>
+                        <row>
+                           <cell>Nuclear chemistry</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>Biophysics</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>Scheduled operation</cell>
+                           <cell>156 hours/week</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>Performance</head>
+                     <div type="div5">
+                        <head>Internal Beams</head>
+                        <table rend="frame" xml:id="Table6">
+                           <row>
+                              <cell> </cell>
+                              <cell>Protons</cell>
+                              <cell>Deuterons</cell>
+                              <cell>Alpha particles</cell>
+                              <cell>Helium-3 ions</cell>
+                           </row>
+                           <row>
+                              <cell>Maximum energy (Mev)</cell>
+                              <cell>730</cell>
+                              <cell>460</cell>
+                              <cell>910</cell>
+                              <cell>1140</cell>
+                           </row>
+                           <row>
+                              <cell>Energy spread (Mev)</cell>
+                              <cell>55</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Beam intensity</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Average current (μa)</cell>
+                              <cell>0.75</cell>
+                              <cell>0.75</cell>
+                              <cell>0.25</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Peak current (μa)</cell>
+                              <cell>120</cell>
+                              <cell>120</cell>
+                              <cell>40</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Beam radius, maximum (in.)</cell>
+                              <cell>82</cell>
+                              <cell>82</cell>
+                              <cell>82</cell>
+                              <cell>82</cell>
+                           </row>
+                           <row>
+                              <cell>Time required for acceleration (msec)</cell>
+                              <cell>6</cell>
+                              <cell>4.5</cell>
+                              <cell>4.5</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Number of revolutions during acceleration</cell>
+                              <cell>75,000</cell>
+                              <cell>60,000</cell>
+                              <cell>60,000</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Distance traveled during acceleration (miles)</cell>
+                              <cell>450</cell>
+                              <cell>360</cell>
+                              <cell>360</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Velocity at maximum energy (% of speed of light)</cell>
+                              <cell>82</cell>
+                              <cell>60</cell>
+                              <cell>60</cell>
+                              <cell>69</cell>
+                           </row>
+                           <row>
+                              <cell>Mass increase at maximum energy (% of rest mass)</cell>
+                              <cell>75</cell>
+                              <cell>25</cell>
+                              <cell>25</cell>
+                              <cell>40</cell>
+                           </row>
+                           <row>
+                              <cell>Range of full-energy particles (in. of aluminum)</cell>
+                              <cell>37</cell>
+                              <cell>12</cell>
+                              <cell>7</cell>
+                              <cell> </cell>
+                           </row>
+                        </table>
+                     </div>
+                     <div type="div5">
+                        <head>External Beams</head>
+                        <p rend="justify"> </p>
+                        <p rend="justify">Physics cave</p>
+                        <p rend="justify">Meson cave</p>
+                        <p rend="justify"> </p>
+                        <p rend="justify">Protons</p>
+                        <p rend="justify">Neutrons</p>
+                        <p rend="justify">π<hi rend="sup">+</hi>
+                        </p>
+                        <p rend="justify">π<hi rend="sup">+</hi>
+                        </p>
+                        <p rend="justify">π<hi rend="sup">-</hi>
+                        </p>
+                        <p rend="justify">Energy (Mev)</p>
+                        <p rend="justify">730</p>
+                        <p rend="justify"> </p>
+                        <p rend="justify">310</p>
+                        <p rend="justify">100</p>
+                        <p rend="justify">250</p>
+                        <p rend="justify">100</p>
+                        <p rend="justify">300</p>
+                        <p rend="justify">Energy spread (Mev)</p>
+                        <p rend="justify">14</p>
+                        <p rend="justify"> </p>
+                        <p rend="justify"> </p>
+                        <p rend="justify">10</p>
+                        <p rend="justify">20</p>
+                        <p rend="justify">10</p>
+                        <p rend="justify">30</p>
+                        <p rend="justify">Beam area (cm<hi rend="sup">2</hi>)</p>
+                        <p rend="justify">25</p>
+                        <p rend="justify"> </p>
+                        <p rend="justify">40</p>
+                        <p rend="justify">100</p>
+                        <p rend="justify">100</p>
+                        <p rend="justify">100</p>
+                        <p rend="justify">100</p>
+                        <p rend="justify">Flux (particles/cm<hi rend="sup">2</hi>-sec)</p>
+                        <p rend="justify">2×10<hi rend="sup">10</hi>
+                        </p>
+                        <p rend="justify">5×10<hi rend="sup">5</hi>
+                        </p>
+                        <p rend="justify">5×10<hi rend="sup">4</hi>
+                        </p>
+                        <p rend="justify">1000</p>
+                        <p rend="justify">100</p>
+                        <p rend="justify">1500</p>
+                        <p rend="justify">1000</p>
+                        <p rend="justify">Acceleration chamber (vacuum tank)</p>
+                        <p rend="justify">Size</p>
+                        <p rend="justify">length (ft)</p>
+                        <p rend="justify">25</p>
+                        <p rend="justify">width (ft)</p>
+                        <p rend="justify">20</p>
+                        <p rend="justify">height (ft)</p>
+                        <p rend="justify">4</p>
+                        <p rend="justify">Material: mild steel</p>
+                        <p rend="justify">Operating pressure (mm Hg)</p>
+                        <p rend="justify">10<hi rend="sup">-5</hi>
+                        </p>
+                        <p rend="justify">Vacuum pumps: six 20-in. oil-diffusion pumps with 8-in. boosters:<lb/>one Beach-Russ 750-cfm; one Kinney 300-cfm; two Kinney 105-cfm.</p>
+                        <p rend="justify">Pumping speed of oil-diffusion pumps (liters/sec)</p>
+                        <p rend="justify">20,000</p>
+                        <p rend="justify">Magnet</p>
+                        <p rend="justify">Core diameter (in.)</p>
+                        <p rend="justify">184</p>
+                        <p rend="justify">Pole-tip diameter (in.)</p>
+                        <p rend="justify">188.75</p>
+                        <p rend="justify">Pole gap at center (in.)</p>
+                        <p rend="justify">14</p>
+                        <p rend="justify">Magnetic field strength (gauss)</p>
+                        <p rend="justify">at center</p>
+                        <p rend="justify">23,400</p>
+                        <p rend="justify">at radius of 82.2 in., where n = 0.2</p>
+                        <p rend="justify">22,275</p>
+                        <p rend="justify">Weight of steel (tons)</p>
+                        <p rend="justify">4,000</p>
+                        <table rend="frame" xml:id="Table7">
+                           <row>
+                              <cell>Magnet coils</cell>
+                              <cell>Main coils</cell>
+                              <cell>Auxiliary coils</cell>
+                           </row>
+                           <row>
+                              <cell>material</cell>
+                              <cell>solid copper<lb/>(1/4 × 4 in.)</cell>
+                              <cell>hollow copper<lb/>(1-3/16 × 1-1/16 in.)</cell>
+                           </row>
+                           <row>
+                              <cell>weight of copper (tons)</cell>
+                              <cell>300</cell>
+                              <cell>40</cell>
+                           </row>
+                           <row>
+                              <cell>number of turns (total)</cell>
+                              <cell>2,600</cell>
+                              <cell>425</cell>
+                           </row>
+                           <row>
+                              <cell>ampere turns</cell>
+                              <cell>1.9 × 10<hi rend="sup">6</hi>
+                              </cell>
+                              <cell>1.1 × 10<hi rend="sup">6</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>current (amp)</cell>
+                              <cell>1600</cell>
+                              <cell>2800</cell>
+                           </row>
+                           <row>
+                              <cell>voltage (v)</cell>
+                              <cell>550</cell>
+                              <cell>560</cell>
+                           </row>
+                           <row>
+                              <cell>power (kw)</cell>
+                              <cell>900</cell>
+                              <cell>1600</cell>
+                           </row>
+                           <row>
+                              <cell>coolant</cell>
+                              <cell>oil</cell>
+                              <cell>water</cell>
+                           </row>
+                        </table>
+                        <p rend="justify">Radiofrequency system</p>
+                        <p rend="justify">Dee system</p>
+                        <p rend="justify">number of dees</p>
+                        <p rend="justify">1</p>
+                        <p rend="justify">size</p>
+                        <p rend="justify"> </p>
+                        <p rend="justify">length (in.)</p>
+                        <p rend="justify">126</p>
+                        <p rend="justify">width (in.)</p>
+                        <p rend="justify">180</p>
+                        <p rend="justify">height (in.)</p>
+                        <p rend="justify">48</p>
+                        <p rend="justify">material: 1/64-in.-thick copper, stretched over a stainless steel frame</p>
+                        <p rend="justify">dee aperture (in.)</p>
+                        <p rend="justify">4-3/16</p>
+                        <p rend="justify">Oscillator</p>
+                        <table rend="frame" xml:id="Table8">
+                           <row>
+                              <cell>type: self-excited grounded-grid</cell>
+                              <cell>10</cell>
+                           </row>
+                           <row>
+                              <cell>tube: one Machlett ML5681</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>dc input, operating condition (kw)</cell>
+                              <cell>10</cell>
+                           </row>
+                           <row>
+                              <cell>dee bias, maximum dc (v)</cell>
+                              <cell>2000</cell>
+                           </row>
+                        </table>
+                        <table rend="frame" xml:id="Table9">
+                           <row>
+                              <cell> </cell>
+                              <cell>Protons</cell>
+                              <cell>Deuterons</cell>
+                              <cell>Alpha particles</cell>
+                           </row>
+                           <row>
+                              <cell>rf duty cycle (%)</cell>
+                              <cell>38</cell>
+                              <cell>28</cell>
+                              <cell>28</cell>
+                           </row>
+                           <row>
+                              <cell>dee-to-ground voltage, peak (kv)</cell>
+                              <cell>9</cell>
+                              <cell>6</cell>
+                              <cell>6</cell>
+                           </row>
+                        </table>
+                        <p rend="justify">Frequency-modulation system</p>
+                        <table rend="frame" xml:id="Table10">
+                           <row>
+                              <cell>type: vibrating-reed (tuning-fork) capacitor</cell>
+                              <cell>number of units: two (two blades each)</cell>
+                           </row>
+                        </table>
+                        <table rend="frame" xml:id="Table11">
+                           <row>
+                              <cell>blades</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>size</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>width (in.)</cell>
+                              <cell>45</cell>
+                           </row>
+                           <row>
+                              <cell>length (in.)</cell>
+                              <cell>32</cell>
+                           </row>
+                           <row>
+                              <cell>thickness: tapered from 1.4 to 0.06 in.</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>weight (lb)</cell>
+                              <cell>500</cell>
+                           </row>
+                           <row>
+                              <cell>vibrational frequency (cps)</cell>
+                              <cell>64</cell>
+                           </row>
+                           <row>
+                              <cell>electrical capacitance (μμf)</cell>
+                              <cell>300 to 6,500</cell>
+                           </row>
+                           <row>
+                              <cell>peak-to-peak excursion (in.)</cell>
+                              <cell>1</cell>
+                           </row>
+                           <row>
+                              <cell>minimum separation of blade and stator (mils)</cell>
+                              <cell>50</cell>
+                           </row>
+                        </table>
+                        <table rend="frame" xml:id="Table12">
+                           <row>
+                              <cell> </cell>
+                              <cell>Protons</cell>
+                              <cell>Deuterons</cell>
+                              <cell>Alpha particles</cell>
+                           </row>
+                           <row>
+                              <cell>frequency sweep (Mc)</cell>
+                              <cell>36-18</cell>
+                              <cell>18-13.5</cell>
+                              <cell>18-13.5</cell>
+                           </row>
+                        </table>
+                        <p rend="justify">Ion source: conventional open-arc type</p>
+                        <p rend="justify">Beam extractor</p>
+                        <p rend="justify">LeCouteur-type regenerator combined with magnetic channel</p>
+                        <p rend="justify">Building and facilities</p>
+                        <p rend="justify">Room dimensions</p>
+                        <p rend="justify">diameter (ft)</p>
+                        <p rend="justify">160</p>
+                        <p rend="justify">height (ft)</p>
+                        <p rend="justify">90</p>
+                        <p rend="justify">Crane</p>
+                        <p rend="justify">type: radial</p>
+                        <p rend="justify"> </p>
+                        <p rend="justify">capacity (tons)</p>
+                        <p rend="justify">30</p>
+                        <p rend="justify">overhead span (ft)</p>
+                        <p rend="justify">77</p>
+                        <p rend="justify">Concrete shielding: 15 ft thick on sides, 4 ft on top</p>
+                        <p rend="justify">History</p>
+                        <table rend="frame" xml:id="Table13">
+                           <row>
+                              <cell>Design started: January 1940.</cell>
+                           </row>
+                           <row>
+                              <cell>Construction started: August 1940.</cell>
+                           </row>
+                           <row>
+                              <cell>First operation</cell>
+                           </row>
+                           <row>
+                              <cell>for deuterons and alpha particles: November 1946.</cell>
+                           </row>
+                           <row>
+                              <cell>for protons: December 1948.</cell>
+                           </row>
+                           <row>
+                              <cell>Rebuilt: 1955-1957.</cell>
+                           </row>
+                        </table>
+                        <p rend="justify">Synchrocyclotron Building</p>
+                        <p rend="justify">Pub. No. 2d</p>
+                        <p rend="justify">5M<lb/>June 1964</p>
+                        <p rend="justify">
+                           <figure>
+                              <binaryObject xml:id="d3e3370" encoding="base64" mimeType="image/jpg">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</binaryObject>
+                           </figure>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>Transcriber's Note</head>
+                     <p rend="justify">Text footnotes have been moved to the end of the chapters, before the bibliography and appendix.</p>
+                     <p rend="justify">The following changes have been made to the printed text:</p>
+                     <p rend="justify">Page 15: added closing quote (<hi rend="italic">are called "caves" because</hi>)<lb/>Page 19: <hi rend="italic">iostopes</hi>  corrected to <hi rend="italic">isotopes</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

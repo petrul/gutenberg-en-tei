@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King Horn, Floriz and Blauncheflur, The Assumption of Our Lady</title>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T08:49:04Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/k/KingHornFlorizAndBlauncheflurTheAssumptionOfOurLady_2013.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2024-01-04T08:49:04Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>King Horn, Floriz and Blauncheflur, The Assumption of Our Lady</head>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/k/KingHornFlorizAndBlauncheflurTheAssumptionOfOurLady_2013.odt</p>
+         <p>This text includes characters that require UTF-8 (Unicode) file encoding:</p>
+         <p>Ȝ ȝ (yogh)<lb/>ħ (h with stroke)<lb/>łł (l with slash, see below)<lb/>ā ē ī ō ū ȳ ǣ (vowels with macron or “long” mark)<lb/>ẹ̄ ę̄ and ǭ ọ̄, each representing open/closed pairs<lb/>e͞o (eo with shared macron) used as a stand-in for e᷍o</p>
+         <p>If any of these characters do not display properly—in particular, if the diacritic does not appear directly above the letter—or if the apostrophes and quotation marks in this paragraph appear as garbage, you may have an incompatible browser or unavailable fonts. First, make sure that the browser’s “character set” or “file encoding” is set to Unicode (UTF-8). You may also need to change your browser’s default font.</p>
+         <p>Combinations such as <hi rend="bold">ȳ̆</hi>  (y with breve and macron) or <hi rend="bold">ọ̄</hi>  (o with under-dot and macron) may not display as intended in all browsers. These forms are rare.</p>
+         <p>Except for yogh, h-stroke and paired ł, unusual letters appear only in the editorial material (introduction, notes and glossary). For this e-text, the printed book’s circumflex accents have been shown as macrons—that is, ǣ instead of æ̂ and similar—except for “true” circumflexes in modern French citations and the word “rôle”. The character shown here as e͞o was printed as “eo” joined by a single circumflex. In the Trentham MS. of Floriz and Blauncheflur, and a few times in the Assumption, some letters were printed with “end flourishes” (see Introduction under “Manuscripts”). They are printed as g<hi rend="sup">+</hi>, k<hi rend="sup">+</hi>, n<hi rend="sup">)</hi>  and similar. In the same passages, the double letter “ll” printed with a joining wavy line is shown as łł.</p>
+         <p>Footnotes have been numbered continuously through the Introduction, and separately for each of the three original texts. For mechanical reasons, some footnotes in the primary text will seem to be out of order. Line numbering is by multiples of 4.</p>
+         <p>Typographical errors are shown in the text with mouse-hover popups. Errors are listed again at the end of each file. Within correction popups, italics representing editorial expansions are shown with {braces}.</p>
+         <p>See the end of the e-text  for details about differences between the e-text and the printed book.</p>
+         <p>FIRST EDITED IN 1866<lb/>BY J. RAWSON LUMBY,</p>
+         <p>AND NOW RE-EDITED FROM THE MANUSCRIPTS,<lb/>WITH INTRODUCTION, NOTES, AND GLOSSARY,<lb/>BY<lb/>GEORGE H. McKNIGHT.</p>
+         <p>
+            <hi rend="italic">Published for</hi>
+            <lb/>THE EARLY ENGLISH TEXT SOCIETY<lb/>
+            <hi rend="italic">by the</hi>
+            <lb/>OXFORD UNIVERSITY PRESS<lb/>LONDON   NEW YORK   TORONTO</p>
+         <p>First Published (Edited by J. Rawson Lumby) 1866<lb/>Re-edited by George H. McKnight 1901<lb/>Reprinted (1901 Version) 1962</p>
+         <p>
+            <hi rend="bold">Original Series</hi>, No. 14</p>
+         <p>Reprinted in Great Britain by Richard Clay and Company, Ltd.,<lb/>Bungay, Suffolk.</p>
+         <pb/>
+         <div type="div1">
+            <head>CONTENTS. /x/</head>
+            <p>All sections except the general Preface and the Glossary are in separate files, one for each text.</p>
+            <table rend="frame" xml:id="Table1">
+               <row>
+                  <cell> </cell>
+                  <cell>PAGE</cell>
+               </row>
+               <row>
+                  <cell>PREFACE</cell>
+                  <cell>vi</cell>
+               </row>
+               <row>
+                  <cell>INTRODUCTION</cell>
+                  <cell>vii</cell>
+               </row>
+               <row>
+                  <cell>King Horn</cell>
+                  <cell>vii</cell>
+               </row>
+               <row>
+                  <cell>Floris and Blancheflur</cell>
+                  <cell>xxx</cell>
+               </row>
+               <row>
+                  <cell>The Assumption of Our Lady</cell>
+                  <cell>xlv</cell>
+               </row>
+               <row>
+                  <cell>KING HORN, FROM THREE MSS.:</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>CAMBR. UNIV. MS. Gg. 4. 27. 2</cell>
+                  <cell>1</cell>
+               </row>
+               <row>
+                  <cell>LAUD MISC. MS. 108</cell>
+                  <cell>1</cell>
+               </row>
+               <row>
+                  <cell>HARL. MS. 2253</cell>
+                  <cell>1</cell>
+               </row>
+               <row>
+                  <cell>FLORIS AND BLAUNCHEFLUR, FROM THREE MSS.:</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>TRENTHAM MS</cell>
+                  <cell>71</cell>
+               </row>
+               <row>
+                  <cell>MS. COTT. VITELL. D. III</cell>
+                  <cell>74, 84</cell>
+               </row>
+               <row>
+                  <cell>CAMBRIDGE MS. Gg. 4. 27. 2</cell>
+                  <cell>80</cell>
+               </row>
+               <row>
+                  <cell>THE ASSUMPTION OF OUR LADY, FROM THREE MSS.:</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>CAMBR. UNIV. MS. Gg. 4. 27. 2</cell>
+                  <cell>111</cell>
+               </row>
+               <row>
+                  <cell>BRIT. MUS. ADD. MS. 10,036</cell>
+                  <cell>111</cell>
+               </row>
+               <row>
+                  <cell>HARL. MS. 2382</cell>
+                  <cell>118</cell>
+               </row>
+               <row>
+                  <cell>NOTES</cell>
+                  <cell>137</cell>
+               </row>
+               <row>
+                  <cell>King Horn</cell>
+                  <cell>137</cell>
+               </row>
+               <row>
+                  <cell>Floris and Blancheflur</cell>
+                  <cell>146</cell>
+               </row>
+               <row>
+                  <cell>The Assumption of Our Lady</cell>
+                  <cell>147</cell>
+               </row>
+               <row>
+                  <cell>GLOSSARY</cell>
+                  <cell>155</cell>
+               </row>
+            </table>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>PREFACE.</head>
+            <p>The triple labour involved in editing three independent works in one volume will, it is hoped, serve as an excuse for some of the shortcomings of the present publication. Under the circumstances it has been impossible to make the work as definitive as might have been the case with a single text. For example, while I have been able to print the three existing manuscript texts of King Horn, of the other two poems, the textual material is not nearly so complete.</p>
+            <p>The texts, it is hoped, are accurately printed. The credit for this is due, in large measure, to Dr. Furnivall,—who has read with the MSS. the proofs of all the British Museum texts,—and to the proof-readers at Oxford and Cambridge. The notes to King Horn represent a good deal of labour, and may, I trust, prove useful. The glossary, though not so complete as that in Wissmann’s excellent critical edition of King Horn, is intended to fit the volume, and to supply explanation of words and uses of words not intelligible to ordinary readers of Early English Texts.</p>
+            <p>It is my pleasant duty to acknowledge assistance from various quarters. I am indebted to the libraries of the British Museum and Cambridge University, and the Bodleian library at Oxford for the use of manuscripts; also to the Duke of Sutherland for permission to copy the text of Floris and Blauncheflur from the manuscript in his private library; also to the Cornell University library for conveniences placed at my disposal in the preparation of this volume. I must also acknowledge timely words of advice from Prof. J. M. Hart, notes on Layamon from Dr. B. S. Monroe, and assistance in proof-reading by Prof. W. Strunk, jr. But above all I must acknowledge the less apparent work of Dr. Furnivall in preparing the texts for press, a work the amount of which one who has not edited for the E.E.T.S. is not likely to realize.</p>
+            <p>G. H. M. K.</p>
+            <p>
+               <hi rend="italic">Ithaca, N.Y., July 8, 1901.</hi>
+            </p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>King Horn, Floriz and Blauncheflur, The Assumption of Our Lady</head>
+            <pb/>
+            <div type="div2">
+               <head>GLOSSARY.</head>
+               <div type="div3">
+                  <head>ABBREVIATIONS.</head>
+                  <p rend="justify">Add.   Brit. Mus. Add. MS. of Ass.</p>
+                  <p rend="justify">Ass.   Assumption of our Lady.</p>
+                  <p rend="justify">C.   Cambridge Univ. MS. Gg. 4. 27. 2. of King Horn and Assumption.</p>
+                  <p rend="justify">Cott.   Cottonian MS. of Floriz and Bl.</p>
+                  <p rend="justify">F. &amp; B.   Floriz and Blancheflur.</p>
+                  <p rend="justify">H.   Harleian MSS. of King Horn and of Assumption.</p>
+                  <p rend="justify">KH.   King Horn.</p>
+                  <p rend="justify">L.   Laud Misc. MS. 108 of King Horn.</p>
+                  <p rend="justify">OE.   Old English.</p>
+                  <p rend="justify">OF.   Old French.</p>
+                  <p rend="justify">T.   Trentham MS. of Floriz and Bl.</p>
+                  <p rend="justify">V.   Cottonian MS. of Floriz and Bl.</p>
+                  <p rend="justify">Yogh ȝ and thorn þ are alphabetized as “g” and “t”. I and J are alphabetized together. U/V as a vowel is alphabetized before V as a consonant.</p>
+                  <p rend="justify"> a   b   c   d   e   f   g   h   i   l   m <lb/> n   o   p   q   r   s   t   u   v   w   y </p>
+                  <p rend="justify">abegge, abeie, <hi rend="italic">see</hi>  beien.</p>
+                  <p rend="justify">abide, <hi rend="italic">see</hi>  bide.</p>
+                  <p rend="justify">acupement, <hi rend="italic">sb.</hi>  accusation, F. &amp; B. 664, 670, etc., C. OF. <hi rend="italic">acoupement</hi>.</p>
+                  <p rend="justify">Adam, Ass. 429, 461, 465 Add.</p>
+                  <p rend="justify">Admiral, <hi rend="italic">sb.</hi>  emir, F. &amp; B. 164, 170 C.; amirel, amirayl, F. &amp; B. 175, 179 Cott.; Admirad, amyraud, Admyrold, KH. 95.</p>
+                  <p rend="justify">adrenche, <hi rend="italic">see</hi>  drenche.</p>
+                  <p rend="justify">adriȝe, <hi rend="italic">see</hi>  dreȝe.</p>
+                  <p rend="justify">adrinke, <hi rend="italic">see</hi>  drinke.</p>
+                  <p rend="justify">adun, <hi rend="italic">adv.</hi>  down, KH. 458 C, 485 C; adune, adowne, adoune, KH. 1608 C L H; adun, adoun, KH. 1610.</p>
+                  <p rend="justify">age, <hi rend="italic">sb.</hi>  be of ——, KH. 1420, F. &amp; B. 37 T, of age. Cf. KH. 1420 Note.</p>
+                  <p rend="justify">aȝenes, <hi rend="italic">see</hi>  ȝen.</p>
+                  <p rend="justify">agesse, <hi rend="italic">see</hi>  gesse.</p>
+                  <p rend="justify">agrise, <hi rend="italic">see</hi>  grise.</p>
+                  <p rend="justify">Ailbrus, Aylbrus, <hi rend="italic">see</hi>  Aþelbrus.</p>
+                  <p rend="justify">Ailmar, Aylmar, Almair, Eylmer, King of Westernesse, KH. 169, 233, 359, 526, 538, 549, 729, 733, 747, 753, 1331, 1514, 1614, etc. OE. <hi rend="italic">Aeþelmær</hi>.</p>
+                  <p rend="justify">al, <hi rend="italic">adv.</hi>  all, quite, KH. 38 L H.</p>
+                  <p rend="justify">alle veile, everywhere, KH. 262 L.</p>
+                  <p rend="justify">Allof, father of Horn, KH. 4, 33, 73 H.</p>
+                  <p rend="justify">also, <hi rend="italic">conj.</hi>  as, KH. 32, 1102 etc. OE. <hi rend="italic">eal swā</hi>.</p>
+                  <p rend="justify">angussus, <hi rend="italic">adj.</hi>  full of anguish, F. &amp; B. 366 C. OF. <hi rend="italic">angoissous</hi>.</p>
+                  <p rend="justify">anhitte, <hi rend="italic">see</hi>  hitten.</p>
+                  <p rend="justify">apliȝt, <hi rend="italic">adv.</hi>  on one’s faith; aplyȝt, F. &amp; B. 88 T; aplyst, F. &amp; B. 200 Cott.; apliȝt, F. &amp; B. 649 C. OE. <hi rend="italic">on</hi>  + <hi rend="italic">pliht</hi>.</p>
+                  <p rend="justify">aquelde, <hi rend="italic">see</hi>  quelle.</p>
+                  <p rend="justify">aquite, <hi rend="italic">see</hi>  quite.</p>
+                  <p rend="justify">araȝte, <hi rend="italic">see</hi>  areche.</p>
+                  <p rend="justify">areche, <hi rend="italic">v.</hi>  explain, recount; <hi rend="italic">infin.</hi>, KH. 1308 C.; 3 <hi rend="italic">sing. pret.</hi>  araȝte, F. &amp; B. 812 C. OE. <hi rend="italic">areccean</hi>.</p>
+                  <p rend="justify">arecche, <hi rend="italic">see</hi>  recche.</p>
+                  <p rend="justify">areche ?, <hi rend="italic">see</hi>  reche.</p>
+                  <p rend="justify">aredde, <hi rend="italic">infin.</hi>  rid, deliver, F. &amp; B. 689 C. OE. <hi rend="italic">ahreddan</hi>.</p>
+                  <p rend="justify">Arnoldin, Arnoldyn, KH. 1561, 1613, 1618.</p>
+                  <p rend="justify">aroum, <hi rend="italic">adv.</hi>  apart; aroom<hi rend="sup">)</hi>, F. &amp; B. 824 T; aroum, Cott. Cf. Gen. &amp; Ex. 4000, 4021. OE. <hi rend="italic">on rum</hi>, apart.</p>
+                  <p rend="justify">arre, <hi rend="italic">see</hi>  er.</p>
+                  <p rend="justify">arson, <hi rend="italic">sb.</hi>  saddle bow; <hi rend="italic">n. s.</hi>, F. &amp; B. 369 T. OF. <hi rend="italic">arçon</hi>.</p>
+                  <p rend="justify">aslawe, <hi rend="italic">see</hi>  slon.</p>
+                  <p rend="justify">asoke, <hi rend="italic">see</hi>  sake.</p>
+                  <p rend="justify">assoine, <hi rend="italic">infin.</hi>  prevent, F. &amp; B. 423 T.</p>
+                  <p rend="justify">at, <hi rend="italic">prep.</hi>  from. KH. 619 etc. OE. <hi rend="italic">æt</hi>.</p>
+                  <p rend="justify">atel, <hi rend="italic">adj.</hi>  dreadful, cruel, F. &amp; B. 113 Cott. OE. <hi rend="italic">atol</hi>, <hi rend="italic">eatol</hi>.</p>
+                  <p rend="justify">Aþelbrus, Aylbrous, Ailbrus, etc., KH. 239, 257, 282, 309, 351, 385, 481, 495, 501, 1621, 1627.</p>
+                  <p rend="justify">Aþulf, Haþulf, ayol, KH. 27, 29, 300, 309, 311, 316, 537, etc. OE. <hi rend="italic">Æthelwulf</hi>, <hi rend="italic">Aþulf</hi>, or <hi rend="italic">Eadwulf</hi>.</p>
+                  <p rend="justify">aton, <hi rend="italic">adj.</hi>  (at + one) agreed, KH. 997 C H.</p>
+                  <p rend="justify">at wite, <hi rend="italic">v.</hi>  find fault with, twit; <hi rend="italic">infin.</hi>  F. &amp; B. 490 C.; 3 <hi rend="italic">s. pret.</hi>  atwist, F. &amp; B. 490 C. OE. <hi rend="italic">ætwītan</hi>.</p>
+                  <p rend="justify">awreke, <hi rend="italic">v.</hi>  avenge; <hi rend="italic">infin.</hi>, F. &amp; B. 731 C.; 3 <hi rend="italic">s. pret.</hi>  awrek, KH. 952 H. OE. <hi rend="italic">wrecan</hi>.</p>
+                  <p rend="justify">axede, askede, 3 <hi rend="italic">s. pret.</hi>  asked, KH. 43; askede H, axede C, acsede L. OE. <hi rend="italic">āscian</hi>, <hi rend="italic">āxian</hi>.</p>
+                  <p rend="justify">aye, <hi rend="italic">see</hi>  eie.</p>
+                  <p rend="justify">Babylon, <hi rend="italic">dat.</hi>  F. &amp; B. 147 T; Babyloyn, 190 T, 191 T; -loigne, 119 C.; babyloyne, 147 T, 191 T; Babyloyne, 153 T; Babilloine, 172 C.; Babiloyne, 181 Cott.; Babilloigne, 120, 129 C.; Babilloine, 129 C, etc. French version has <hi rend="italic">Babiloine</hi>, 406, 505, etc.</p>
+                  <p rend="justify">bale, <hi rend="italic">sb.</hi>  bale, calamity, F. &amp; B. 821 C. OE. <hi rend="italic">bealu</hi>.</p>
+                  <p rend="justify">barbecan, <hi rend="italic">sb.</hi>  outer work of a fortress, F. &amp; B. 207 C. OF. <hi rend="italic">barbecane</hi>.</p>
+                  <p rend="justify">barm, <hi rend="italic">sb.</hi>  lap, bosom; in bearme, KH. 752. OE. <hi rend="italic">bearm</hi>.</p>
+                  <p rend="justify">barnage, <hi rend="italic">sb.</hi>  baronage, F. &amp; B. 639 C. OF. <hi rend="italic">baronage</hi>.</p>
+                  <p rend="justify">bede, <hi rend="italic">sb.</hi>  prayer, Ass. 89 C, 95 Add., 332 H, 486 Add. etc. OE. <hi rend="italic">bēd</hi>.</p>
+                  <p rend="justify">bede, <hi rend="italic">v.</hi>  present, offer; <hi rend="italic">infin.</hi>, KH. 492; 2 <hi rend="italic">pl. pres.</hi>, KH. 977 C L. OE. <hi rend="italic">bēodan</hi>.</p>
+                  <p rend="justify">beien, <hi rend="italic">v.</hi>  buy; 3 <hi rend="italic">s. pret.</hi>  boȝte, KH. 1442 C. abeie, <hi rend="italic">v.</hi>  atone for, expiate; <hi rend="italic">infin.</hi>  abeie C; abeye L, KH. 116; abugge C H; abygge L 1155; 3 <hi rend="italic">s. pret.</hi>  aboute L; abohte H, KH. 1493. OE. <hi rend="italic">bycgan</hi>.</p>
+                  <p rend="justify">belamy, <hi rend="italic">sb.</hi>  good friend, F. &amp; B. 633 C. OF. <hi rend="italic">bel ami</hi>. </p>
+                  <p rend="justify">belde, <hi rend="italic">see</hi>  bolde. </p>
+                  <p rend="justify">belete, <hi rend="italic">see</hi>  leten.</p>
+                  <p rend="justify">bemeneþ, <hi rend="italic">see</hi>  bimene.</p>
+                  <p rend="justify">bene, <hi rend="italic">sb.</hi>  petition, KH. 590 C L. OE. <hi rend="italic">bēn</hi>.</p>
+                  <p rend="justify">beode, <hi rend="italic">v.</hi>  offer; <hi rend="italic">infin.</hi>, F. &amp; B. 369 C.; 3 <hi rend="italic">s. pret.</hi>  bed, F. &amp; B. 733 C. OE. <hi rend="italic">bēodan</hi>.</p>
+                  <p rend="justify">Berild, byrild, beryld, Byryld, KH. 816, 817, 825, 837, 845, 877, 878.</p>
+                  <p rend="justify">berwe, <hi rend="italic">v.</hi>  protect; <hi rend="italic">infin.</hi>, KH. 980 L. OE. <hi rend="italic">beorgan</hi>.</p>
+                  <p rend="justify">beyne, <hi rend="italic">num.</hi>  both, KH. 949 H. OE. <hi rend="italic">bēgen</hi>.</p>
+                  <p rend="justify">bi, by, <hi rend="italic">prep.</hi>  by, along, in, KH. 5, 20, etc. OE. <hi rend="italic">be</hi>.</p>
+                  <p rend="justify">bicolwede, <hi rend="italic">see</hi>  colwen.</p>
+                  <p rend="justify">bidde, <hi rend="italic">v.</hi>  pray, beg; <hi rend="italic">infin.</hi>  bidde, bydde, KH. 1263; 1 <hi rend="italic">s. pres.</hi>  bidde, Ass. 135 C, 143 Add.; bid, 170 C; 3 <hi rend="italic">s. pres.</hi>  biddeþ, F. &amp; B. 588 C.; byddeþ, F. &amp; B. 1081 T; 3 <hi rend="italic">s. pret.</hi>  bad, bed, KH. 85, 1272; bad, badde, Ass. 90 C, 95 Add., 329, C; <hi rend="italic">pp.</hi>  ibede, F. &amp; B. 579 C.; ybede, 859 T. OE. <hi rend="italic">biddan</hi>.</p>
+                  <p rend="justify">bide, abide, <hi rend="italic">v.</hi>  (1) wait, (2) expect, (3) wait for, KH. 910, 1099, 1564. OE. <hi rend="italic">ābīdan</hi>.</p>
+                  <p rend="justify">bidene, by dene, <hi rend="italic">adv.</hi>  at once, F. &amp; B. 60 T, Ass. 347 Add.</p>
+                  <p rend="justify">bihelde, biholde, <hi rend="italic">v.</hi>  look on, behold, F. &amp; B. 102 Cott., KH 639. OE. <hi rend="italic">bihealdan</hi>.</p>
+                  <p rend="justify">biheue, <hi rend="italic">adj.</hi>  profitable, Ass. 676 Add. OE. <hi rend="italic">behēfe</hi>.</p>
+                  <p rend="justify">bihoten, <hi rend="italic">v.</hi>  promise; 3 <hi rend="italic">s. pret.</hi>  bihet, KH. 500. OE. <hi rend="italic">hātan</hi>.</p>
+                  <p rend="justify">biknewe, <hi rend="italic">pp.</hi>, <hi rend="italic">see</hi>  knowe.</p>
+                  <p rend="justify">bileue, <hi rend="italic">see</hi>  leue.</p>
+                  <p rend="justify">biliue, bliue, <hi rend="italic">adv.</hi>  quickly, KH. 350 L, 502 C, 771 C, 1042 C; blyue, Ass. 776 Add. OE. <hi rend="italic">bī līfe</hi>.</p>
+                  <p rend="justify">bimene, <hi rend="italic">v.</hi>  bemoan, lament; <hi rend="italic">infin.</hi>, F. &amp; B. 72 Cott.; 3 <hi rend="italic">s. pres.</hi>  bemeneþ, F. &amp; B. 957 T. OE. <hi rend="italic">bimǣnan</hi>.</p>
+                  <p rend="justify">binom, 3 <hi rend="italic">s. pret.</hi>  took away from, F. &amp; B. 112 Cott.; <hi rend="italic">pp.</hi>  binomen, benome, Ass. 271 A, 273 C. OE. <hi rend="italic">biniman</hi>.</p>
+                  <p rend="justify">birine, <hi rend="italic">see</hi>  reyne.</p>
+                  <p rend="justify">bisemen, <hi rend="italic">v.</hi>  befit, beseem; 3 <hi rend="italic">s. pres.</hi>  bisemeþ C, byseme L, bysemeþ H, KH. 518. Icel. <hi rend="italic">sǣma</hi>.</p>
+                  <p rend="justify">bispac, <hi rend="italic">see</hi>  speke.</p>
+                  <p rend="justify">biswike, <hi rend="italic">see</hi>  swike.</p>
+                  <p rend="justify">bite, <hi rend="italic">infin.</hi>  bite, partake of as food, KH. 1211 L, H. OE. <hi rend="italic">bītan</hi>.</p>
+                  <p rend="justify">biteche, 1 <hi rend="italic">s. pres.</hi>  entrust, KH. 613 L, H. OE. <hi rend="italic">tǣcan</hi>.</p>
+                  <p rend="justify">bitide, <hi rend="italic">see</hi>  tide.</p>
+                  <p rend="justify">biþinne, <hi rend="italic">prep.</hi>  within, KH. 1122 C, 1387 C.</p>
+                  <p rend="justify">bitwexe, <hi rend="italic">prep.</hi>  between, KH. 454 C. OE. <hi rend="italic">betweox</hi>, <hi rend="italic">betwux</hi>.</p>
+                  <p rend="justify">biwente, <hi rend="italic">see</hi>  wende.</p>
+                  <p rend="justify">biwreien, <hi rend="italic">see</hi>  wreien.</p>
+                  <p rend="justify">Blancheflour, Blauncheflur, etc., <hi rend="italic">nom.</hi>  18 T, 46 T, 22 V, 34 V; <hi rend="italic">dat.</hi>  20 T, 22 T, 36 T, 58 T, 114 T, 122 T, 34, 46, 48, 64, 96, 102, 112 etc., C. Fr. <hi rend="italic">Blanceflors, Blanceflor</hi>.</p>
+                  <p rend="justify">blenche, <hi rend="italic">infin.</hi>  overturn, KH. 1525 C L; ouerblenche, 1525 H. OE. <hi rend="italic">blencan</hi>.</p>
+                  <p rend="justify">blesse, <hi rend="italic">infin.</hi>  bless, KH. 17 L H. OE. <hi rend="italic">bletsian</hi>.</p>
+                  <p rend="justify">blessing, <hi rend="italic">sb.</hi>  blessing, KH. 170 C. OE. <hi rend="italic">bletsung</hi>.</p>
+                  <p rend="justify">blethelyche, <hi rend="italic">adv.</hi>  blithely. OE. <hi rend="italic">blīðelīce</hi>.</p>
+                  <p rend="justify">ble[y]ne, <hi rend="italic">sb.</hi>  whale, KH. 727 L. OF. <hi rend="italic">baleine</hi>.</p>
+                  <p rend="justify">bliþe, blyþe, <hi rend="italic">adj.</hi>  blithe, KH. 1, 141, etc.</p>
+                  <p rend="justify">blynne, <hi rend="italic">see</hi>  linnen.</p>
+                  <p rend="justify">bode, <hi rend="italic">dat. sing.</hi>  message, Ass. 146 C; <hi rend="italic">accus.</hi>  bodes, Ass. 126 Add. OE. <hi rend="italic">bod</hi>.</p>
+                  <p rend="justify">bold, bald, baud, <hi rend="italic">adj.</hi>  bold; <hi rend="italic">sing.</hi>  KH. 96; <hi rend="italic">pl.</hi>  belde, bolde, KH. 640. OE. <hi rend="italic">beald</hi>.</p>
+                  <p rend="justify">bone, <hi rend="italic">sb.</hi>  prayer, boon, Ass. 522 H, 27 C, 329 C, 441 C. ON. <hi rend="italic">bōn</hi>.</p>
+                  <p rend="justify">boneyres, <hi rend="italic">adj.</hi>  devoted, good looking, debonair, KH. 968 L. OF. <hi rend="italic">bonaire</hi>.</p>
+                  <p rend="justify">bord, <hi rend="italic">sb.</hi>  (ship) board; <hi rend="italic">dat. sing.</hi>  borde, KH. 119, 123.</p>
+                  <p rend="justify">bord, <hi rend="italic">sb.</hi>  table, F. &amp; B. 103 C, KH. 269, 1605.</p>
+                  <p rend="justify">bote, <hi rend="italic">sb.</hi>  remedy, redress, F. &amp; B. 821 C. OE. <hi rend="italic">bōt</hi>.</p>
+                  <p rend="justify">bote, KH. 1364 L; <hi rend="italic">v.</hi>  baddest, or scribal error.</p>
+                  <p rend="justify">bote, <hi rend="italic">see</hi>  bute.</p>
+                  <p rend="justify">braide, breide, 3 <hi rend="italic">s. pret.</hi>  draw, brandish, F. &amp; B. 289 T, 1014 T. OE. <hi rend="italic">brægd</hi>.</p>
+                  <p rend="justify">breche, <hi rend="italic">dat. sing.</hi>  breeches, F. &amp; B. 258 C. OE. <hi rend="italic">brēc</hi>.</p>
+                  <p rend="justify">breme, <hi rend="italic">adj.</hi>  valiant, spirited, famous, F. &amp; B. 792 C, 1071 T. OE. <hi rend="italic">brēme</hi>.</p>
+                  <p rend="justify">brenie, brunie, <hi rend="italic">sb.</hi>  coat of mail, KH. 627, 765, 897, 1310. OE. <hi rend="italic">byrne</hi>.</p>
+                  <p rend="justify">bruken, <hi rend="italic">v.</hi>  use, enjoy; <hi rend="italic">imper.</hi>  3 <hi rend="italic">sing.</hi>  bruc C, brouke L, brouc H, KH. 220. OE. <hi rend="italic">brūcan</hi>.</p>
+                  <p rend="justify">brun, <hi rend="italic">sb.</hi>  beer (?); of a brun C, of þe broune L, H, KH. 1202.</p>
+                  <p rend="justify">brymme, <hi rend="italic">sb.</hi>  edge, shore, KH. 204 C.</p>
+                  <p rend="justify">buȝe, <hi rend="italic">v.</hi>  bow, writhe, twist, let fall (Mätzner); <hi rend="italic">infin.</hi>  buȝe C, unbowe H, KH. 458. OE. <hi rend="italic">būgan</hi>.</p>
+                  <p rend="justify">bulmeþ, 3 <hi rend="italic">sing. pres.</hi>  boils, F. &amp; B. 305 C. Probable error for welmeþ. Cf. <hi rend="italic">ȝelle</hi>.</p>
+                  <p rend="justify">bur, <hi rend="italic">sb.</hi>  bower, women’s quarters, KH. 285. OE. <hi rend="italic">būr</hi>.</p>
+                  <p rend="justify">burdon, <hi rend="italic">sb.</hi>  staff, KH. 1141. OF. <hi rend="italic">burdoun</hi>.</p>
+                  <p rend="justify">burgeis, <hi rend="italic">sb.</hi>  burgess, citizen, F. &amp; B. 115 C, 155 T, etc. Bugays, F. &amp; B. 207 T. OF. <hi rend="italic">burgeis</hi>.</p>
+                  <p rend="justify">burȝ, bureȝ, boruh, <hi rend="italic">sb.</hi>  castle, F. &amp; B. 176, 181, 182 C.; boruh, F. &amp; B. 190 Cott. OE. <hi rend="italic">burg</hi>, <hi rend="italic">burh</hi>.</p>
+                  <p rend="justify">burles, <hi rend="italic">sb.</hi>  tomb, sepulchre, F. &amp; B. 63 Cott. OE. <hi rend="italic">byrgels</hi>.</p>
+                  <p rend="justify">bute, bote, but, <hi rend="italic">conj.</hi>  but, unless, KH. 26 L, 69, 207 C, 37 L, H, etc. OE. <hi rend="italic">būtan</hi>, except, unless.</p>
+                  <p rend="justify">buxom, <hi rend="italic">adj.</hi>  flexible, obedient, Ass. 410 H. OE. <hi rend="italic">būhsum</hi>.</p>
+                  <p rend="justify">byȝete, <hi rend="italic">sb.</hi>  acquisition, F. &amp; B. 202 T, and Cott. OE. <hi rend="italic">begietan</hi>.</p>
+                  <p rend="justify">bygone, <hi rend="italic">pp.</hi>  surrounded, F. &amp; B. 371 T. OE. <hi rend="italic">bigān</hi>.</p>
+                  <p rend="justify">byne, (?), F. &amp; B. 1010 T.</p>
+                  <p rend="justify">cacche, <hi rend="italic">v.</hi>  catch; <hi rend="italic">infin.</hi>  KH. 1307, 1465 H; 3 <hi rend="italic">pl. pret.</hi>  kaute, KH. 944 L.; <hi rend="italic">infin.</hi>  bikeche, KH. 328 L. OF. <hi rend="italic">cachier</hi>.</p>
+                  <p rend="justify">can, <hi rend="italic">v.</hi>  can, know; 3 <hi rend="italic">s. subj. pres.</hi>  cunne; conne, KH. 602 C, H; <hi rend="italic">infin.</hi>  konne, KH. 598 L; 3 <hi rend="italic">pl. pret.</hi>  couþ, couth, F. &amp; B. 33 T, 157 T. OE. <hi rend="italic">cann</hi>.</p>
+                  <p rend="justify">care, <hi rend="italic">sb.</hi>  care, sorrow, KH. 279. OE. <hi rend="italic">cearu</hi>.</p>
+                  <p rend="justify">catel, <hi rend="italic">sb.</hi>  property, capital, F. &amp; B. 150 T, 988 T. OF. <hi rend="italic">catel</hi>.</p>
+                  <p rend="justify">kele, <hi rend="italic">infin.</hi>  cool, F. &amp; B. 995 T. OE. <hi rend="italic">cēlan</hi>.</p>
+                  <p rend="justify">kelwe, <hi rend="italic">see</hi>  colmie.</p>
+                  <p rend="justify">ken, kenne, kunne, <hi rend="italic">sb.</hi>  race, people, KH. 156, 190, 1358. OE. <hi rend="italic">cynn</hi>.</p>
+                  <p rend="justify">kende, cunde, <hi rend="italic">sb.</hi>  birth, kind, Nature, KH. 451, 1479 C, L; F. &amp; B. 677 C, 960 T. OE. <hi rend="italic">cynd</hi>.</p>
+                  <p rend="justify">kene, <hi rend="italic">adj.</hi>  keen, brave, KH. 42, 97, 178, 539, 1208, etc. OE. <hi rend="italic">cēn</hi>.</p>
+                  <p rend="justify">kepe, <hi rend="italic">v.</hi>  (1) keep, (2) guard, protect, KH. 800, 1288 C H, Ass. 49 Add., 52 Add., 271 Add. OE. <hi rend="italic">cēpan</hi>.</p>
+                  <p rend="justify">kep, <hi rend="italic">sb.</hi>  heed, care, Ass. 72 C, 78 Add.</p>
+                  <p rend="justify">kerue, <hi rend="italic">v.</hi>  carve, KH. 249. OE. <hi rend="italic">ceorfan</hi>.</p>
+                  <p rend="justify">Cesar, F. &amp; B. 181 T. French version has <hi rend="italic">Cesar</hi>, v. 494.</p>
+                  <p rend="justify">chaere, <hi rend="italic">sb.</hi>  throne (?), KH. 1353. OF. <hi rend="italic">chaere</hi>.</p>
+                  <p rend="justify">ycharged, <hi rend="italic">pp.</hi>  loaded, F. &amp; B. 343 T. OF. <hi rend="italic">charger</hi>.</p>
+                  <p rend="justify">chelde, kolde, kelde, <hi rend="italic">infin.</hi>  become cold, KH. 1230. OE. <hi rend="italic">cealdian</hi>.</p>
+                  <p rend="justify">chepinge, <hi rend="italic">sb.</hi>  market, fair, F. &amp; B. 186, 188 Cott. OE. <hi rend="italic">cēapung</hi>.</p>
+                  <p rend="justify">chere, <hi rend="italic">sb.</hi>  mien, facial expression, KH. 1143, 1165 L. OF. <hi rend="italic">chere</hi>.</p>
+                  <p rend="justify">child, <hi rend="italic">sb.</hi>  (1) child, (2) youth, KH. 10, 13, 27, 99, etc. OE. <hi rend="italic">cild</hi>.</p>
+                  <p rend="justify">Claris, Clarice, Clariȝ, Clarys, F. &amp; B. 895 T, 901 T, 905 T, 915 T, 931 T, etc.; C. 479, 485, 529, etc. French has Claris, 2125, 2131, 2115, 2339, etc.</p>
+                  <p rend="justify">cleche, <hi rend="italic">infin.</hi>  reach (with nails), KH. 1027 H ; <hi rend="italic">pp.</hi>  ycliȝt, Ass. 719 Add.</p>
+                  <p rend="justify">clef, scribal blunder (?), <hi rend="italic">c</hi>  + <hi rend="italic">lef</hi>, KH. 161 L.</p>
+                  <p rend="justify">clenchen, <hi rend="italic">infin.</hi>  make to clink, KH. 1596.</p>
+                  <p rend="justify">clene, <hi rend="italic">adj.</hi>  pure, F. &amp; B. 297 C. OE. <hi rend="italic">clǣne</hi>.</p>
+                  <p rend="justify">clepe, clepen, clepede, clupede, cleped, icluped, etc., <hi rend="italic">v.</hi>  call, KH. 239, 840 L; F. &amp; B. 137 T, 287 T, 137 T, 837 T; 607 C, 140 C, etc.; Ass. 707 H, 847 Add., 73 C, 180 C, etc. OE. <hi rend="italic">cleopian</hi>.</p>
+                  <p rend="justify">clergie, <hi rend="italic">sb.</hi>  learned knowledge, F. &amp; B. Cf. Hausknecht’s note.</p>
+                  <p rend="justify">cleppe, clippe, cluppe, klippt, klepte, iclupt, etc., <hi rend="italic">v.</hi>  embrace, KH. 1297 H, 1450; F. &amp; B. 549 C, 594 C, 614 C, 806 T, 512 C, etc. OE. <hi rend="italic">clyppan</hi>.</p>
+                  <p rend="justify">ycliȝt, <hi rend="italic">see</hi>  cleche.</p>
+                  <p rend="justify">knaue, <hi rend="italic">sb.</hi>  boy, servant, KH. 1012 C, 1095 C; F. &amp; B. 166 T. OE. <hi rend="italic">cnafa</hi>.</p>
+                  <p rend="justify">knowe, <hi rend="italic">v.</hi>  (1) know, (2) recognize, KH. 1294; (3) beon biknowe of = acknowledge (cf. Mätzner, KH. 983 Note; Lay. II. 355, III. 51; Alisaunder 724, etc.); <hi rend="italic">pp.</hi>  was iknowe C, was by cnowe L, was biknowe H, KH. 1059 = confessed. OE. <hi rend="italic">cnāwan</hi>, <hi rend="italic">becnāwan</hi>.</p>
+                  <p rend="justify">knyhty, <hi rend="italic">v.</hi>  knight, KH. 488 H, 547, 682.</p>
+                  <p rend="justify">colmie, kelwe, <hi rend="italic">adj.</hi>  sooty, KH. 1162, <hi rend="italic">see</hi>  colwen.</p>
+                  <p rend="justify">colwen, bicolwede, <hi rend="italic">v.</hi>  smear, blacken, KH. 1144, 1162.</p>
+                  <p rend="justify">con, <hi rend="italic">v. auxil.</hi>  = did, KH. 817 H, 825 H, 938 H, 1470 H, 1549 H, 1632 H; 3 <hi rend="italic">s. pluperf.</hi>  couþe, 1634 H, <hi rend="italic">see</hi>  gan.</p>
+                  <p rend="justify">icore, <hi rend="italic">pp.</hi>  chosen, F. &amp; B. 268 C. OE. <hi rend="italic">gecoren</hi>.</p>
+                  <p rend="justify">creyde, 3 <hi rend="italic">s. pret.</hi>  cried, KH. 1362 L. OF. <hi rend="italic">crier</hi>.</p>
+                  <p rend="justify">crois, <hi rend="italic">sb.</hi>  cross, KH. 1405 C H; croyȝ, KH. 1398 H. OF. <hi rend="italic">crois</hi>.</p>
+                  <p rend="justify">crowch, <hi rend="italic">sb.</hi>  cross, KH. 1398 L, 1405 L. Lat. <hi rend="italic">crucem</hi>.</p>
+                  <p rend="justify">crude, <hi rend="italic">infin.</hi>  press, crowd, KH 1385. OE. <hi rend="italic">crūdan</hi>.</p>
+                  <p rend="justify">crune, <hi rend="italic">sb.</hi>  skull, head, KH. 1607. ON. <hi rend="italic">kruna</hi>.</p>
+                  <p rend="justify">culuart, <hi rend="italic">adj.</hi>  false, faithless, F. &amp; B. 210, 329 C. OF. <hi rend="italic">culvert</hi>.</p>
+                  <p rend="justify">cupe, <hi rend="italic">sb.</hi>  basket, F. &amp; B. 435, 438, 452, 471 C, etc. OE. <hi rend="italic">cȳpe</hi>, Lat. <hi rend="italic">cūpa</hi>.</p>
+                  <p rend="justify">cuppe, cupe, coupe, <hi rend="italic">sb.</hi>  cup, KH. 250, 479; coupe, F. &amp; B. 163 T, 181 T, 208 T, etc. OE. <hi rend="italic">cuppa</hi>.</p>
+                  <p rend="justify">Cutberd, Cuberd, Cubert, KH. 876, 833, 851 C, 882, 895, 912, 938, 948, 965 L, 981. OE. <hi rend="italic">Cūþbeorht</hi>.</p>
+                  <p rend="justify">cuþe, 1 <hi rend="italic">s. pret.</hi>  knew, Ass. 39 C; 3 <hi rend="italic">pl. pret.</hi>  couthe, Ass. 290 C.</p>
+                  <p rend="justify">cuþe, cowþe, couþe, 3 <hi rend="italic">s. pret. subj.</hi>  could, KH. 371.</p>
+                  <p rend="justify">dales, <hi rend="italic">pl.</hi>  valleys, dales, KH. 168. OE. <hi rend="italic">dæl</hi>.</p>
+                  <p rend="justify">dar, <hi rend="italic">v.</hi>  dare, 3 <hi rend="italic">s. pres.</hi>  durþ, KH. 408 H; 3 <hi rend="italic">s. pret.</hi>  dorte, dorste, F. &amp; B. 167 C, 204 T; 3 <hi rend="italic">s. pret. subj.</hi>  þorte, F. &amp; B. 216 C, KH. 408 C. OE. <hi rend="italic">dearr</hi>, <hi rend="italic">dorste</hi>.</p>
+                  <p rend="justify">Daris, Dares, Dayre, daye, Darys, doyres, Darie, F. &amp; B. 561, 570, 599, 737, 816. French has <hi rend="italic">Daires</hi>, <hi rend="italic">nom.</hi>  1470, 1531, 1853, etc. <hi rend="italic">Dairon</hi>, <hi rend="italic">accus.</hi>  1931.</p>
+                  <p rend="justify">dawes, <hi rend="italic">pl.</hi>  days, KH. 999 L; <hi rend="italic">nom. sing.</hi>  day. OE. <hi rend="italic">pl.</hi>
+                     <hi rend="italic">dagas</hi>.</p>
+                  <p rend="justify">ded, deed, <hi rend="italic">sb.</hi>  death, KH. 345 L.; <hi rend="italic">dat. sing.</hi>  deede, F. &amp; B. 46 T.</p>
+                  <p rend="justify">deie, deye, deȝe, <hi rend="italic">infin.</hi>, KH. 115. ON. <hi rend="italic">deyja</hi>.</p>
+                  <p rend="justify">del, <hi rend="italic">sb.</hi>  part, portion, deal, Ass. 212 C, 218 A, 261 A; <hi rend="italic">dell</hi>, 225 C. OE. <hi rend="italic">dǣl</hi>.</p>
+                  <p rend="justify">ideld, <hi rend="italic">p. pl.</hi>  separated, F. &amp; B. 598 C. OE. <hi rend="italic">dǣlan</hi>.</p>
+                  <p rend="justify">demure, demere, <hi rend="italic">sb.</hi>  delay, F. &amp; B. 591 C. and Cott. OF. <hi rend="italic">demeurer</hi>.</p>
+                  <p rend="justify">denie, <hi rend="italic">v.</hi>  din, rattle, KH. 628. OE. <hi rend="italic">dynian</hi>.</p>
+                  <p rend="justify">dent, dunt, <hi rend="italic">sb.</hi>  stroke, blow, KH. 164 C, 607, 647, 913, 920, 933, 946. OE. <hi rend="italic">dynt</hi>.</p>
+                  <p rend="justify">deol, dole, <hi rend="italic">sb.</hi>  grief, KH. 1128, 1129. OF. <hi rend="italic">doel</hi>, <hi rend="italic">duel</hi>.</p>
+                  <p rend="justify">dere, <hi rend="italic">adj.</hi>  dear, beloved, KH. 161 L, etc. OE. <hi rend="italic">dēore</hi>.</p>
+                  <p rend="justify">derie, dere, <hi rend="italic">infin.</hi>  injure, harm, KH. 840, F. &amp; B. 378 T, Ass. 162 C. OE. <hi rend="italic">derian</hi>.</p>
+                  <p rend="justify">derne, <hi rend="italic">adj.</hi>  secret, hidden, Ass. 856 Add. OE. <hi rend="italic">dierne</hi>.</p>
+                  <p rend="justify">deuise, 2 <hi rend="italic">s. pres. subj.</hi>  devise, KH. 253 L, H. OF. <hi rend="italic">deviser</hi>.</p>
+                  <p rend="justify">direwurþe, <hi rend="italic">adj.</hi>  precious, F. &amp; B. 289 C. OE. <hi rend="italic">de͞orwyrðe</hi>.</p>
+                  <p rend="justify">don, dede, dude, <hi rend="italic">v.</hi>  (1) cause to, KH. 148, 284, 1069, Ass. 462 Add., 474 Add., etc. (2) put, KH. 360, 745, 1332 C; F. &amp; B. 46 T, 200 T, 69 C.; Ass. 61 Add., etc. (3) <hi rend="italic">intens.</hi>  do, did, KH. 1003 (?), F. &amp; B. 16 C, Ass. 17 Add., 80 C, etc. (cf. dede let wed, F. &amp; B. 1065 T). OE. <hi rend="italic">dōn</hi>, <hi rend="italic">dyde</hi>.</p>
+                  <p rend="justify">dreden, 3 <hi rend="italic">pl. pret.</hi>  fear, dread, KH. 130; dradde C, adred L; <hi rend="italic">pp.</hi>  adred H; 1 <hi rend="italic">sing. pres.</hi>  of drede. C L; adrede H, KH. 307. OE. <hi rend="italic">drǣdan</hi>.</p>
+                  <p rend="justify">dreȝe, adriȝe, <hi rend="italic">infin.</hi>  suffer, endure, KH. 1115. OE. <hi rend="italic">dre͞ogan</hi>.</p>
+                  <p rend="justify">dreme, <hi rend="italic">sb.</hi>  sound, F. &amp; B. 37 C, 397 T. OE. <hi rend="italic">drēam</hi>.</p>
+                  <p rend="justify">drenche, <hi rend="italic">v.</hi>  drown; <hi rend="italic">infin.</hi>  adrenche, KH. 111 C H, 1526; to drenche, KH. 1045 L; <hi rend="italic">pp.</hi>  adrent, KH. 1053 C; drenched, KH. 1054 L. OE. <hi rend="italic">drencan</hi>.</p>
+                  <p rend="justify">dright, driȝte, <hi rend="italic">sb.</hi>  lord, Ass. 275 C, KH. 1406 C. OE. <hi rend="italic">drihten</hi>.</p>
+                  <p rend="justify">idriȝt, <hi rend="italic">pp.</hi>  troubled, Ass. 190 C. OE. <hi rend="italic">gedreccan</hi>.</p>
+                  <p rend="justify">drinke, <hi rend="italic">v.</hi>  drink; <hi rend="italic">infin.</hi>  adrinke, adrynke, drown, KH. 111 L, 1045 C H. OE. <hi rend="italic">drincan</hi>.</p>
+                  <p rend="justify">druerie, drury, <hi rend="italic">sb.</hi>  love, F. &amp; B. 382 C, 820 T. OF. <hi rend="italic">druerie</hi>.</p>
+                  <p rend="justify">dun, doun, down, <hi rend="italic">sb.</hi>  dune, hill, KH. 168. OE. <hi rend="italic">dūn</hi>.</p>
+                  <p rend="justify">dunt, <hi rend="italic">see</hi>  dent.</p>
+                  <p rend="justify">dureþ, 3 <hi rend="italic">sing. pres.</hi>  extendeth, F. &amp; B. 173 C. OF. <hi rend="italic">durer</hi>.</p>
+                  <p rend="justify">durþ, <hi rend="italic">see</hi>  dar.</p>
+                  <p rend="justify">dute, <hi rend="italic">v.</hi>  fear, be afraid; <hi rend="italic">infin.</hi>  duti, F. &amp; B. 4 C, 192 Cott.; 1 <hi rend="italic">sing. pres.</hi>  dute, doute, KH. 362; 2 <hi rend="italic">pl. imper.</hi>  douȝt, dute, F. &amp; B. 817 T, 531 C. OF. <hi rend="italic">douter</hi>.</p>
+                  <p rend="justify">dyȝcte, <hi rend="italic">infin.</hi>  arrange, KH. 904 L; <hi rend="italic">pp.</hi>  idiȝt, F. &amp; B. 23, 260 C. OE. <hi rend="italic">dihtan</hi>.</p>
+                  <p rend="justify">ede, <hi rend="italic">see</hi>  ȝede.</p>
+                  <p rend="justify">Edmound, seynt, Ass. 893 Add.</p>
+                  <p rend="justify">eidel, <hi rend="italic">sb.</hi>  anything, F. &amp; B. 813 C. OE. <hi rend="italic">ǣnig dǣl</hi>.</p>
+                  <p rend="justify">eie, aye, <hi rend="italic">sb.</hi>  fear, F. &amp; B. 791 T. OE. <hi rend="italic">ege</hi>.</p>
+                  <p rend="justify">eke, <hi rend="italic">adv.</hi>  also, KH. 17, 99, 1474, etc. OE. <hi rend="italic">e͞ac</hi>.</p>
+                  <p rend="justify">enchesone, <hi rend="italic">sb.</hi>  occasion, F. &amp; B. 78 T. OF. <hi rend="italic">enchaisoun</hi>.</p>
+                  <p rend="justify">engynne, <hi rend="italic">sb.</hi>  device, scheme, artifice, F. &amp; B. 313 T; engin, Ass. 755, 759 C. OF. <hi rend="italic">engin</hi>.</p>
+                  <p rend="justify">Enneas, F. &amp; B. 177 T. French version <hi rend="italic">Eneas</hi>, 489.</p>
+                  <p rend="justify">entermeten, <hi rend="italic">infin.</hi>  meddle with, F. &amp; B. 167 C. OF. <hi rend="italic">entremetre</hi>.</p>
+                  <p rend="justify">er, arre, her, or, <hi rend="italic">conj.</hi>  before, ere, KH. 136 H, 567 C; arre, 567 L.</p>
+                  <p rend="justify">Ermenild, <hi rend="italic">see</hi>  Reynild, KH. 979 H. Cf. Eormenhild, daughter of Eorcenbriht, king of Kent, Leechdoms iii, index.</p>
+                  <p rend="justify">erndinge, <hi rend="italic">sb.</hi>  result of undertaking. OE. <hi rend="italic">ǣrendung</hi>.</p>
+                  <p rend="justify">erne, <hi rend="italic">v.</hi>  run; <hi rend="italic">infin.</hi>  vrne, erne, KH. 936; 3 <hi rend="italic">s. pret.</hi>  arnde C, rende L, ernde H, KH. 1314; <hi rend="italic">pp.</hi>  iorne C, hy ȝouren L, yorne H, KH. 1228. OE. <hi rend="italic">yrnan</hi>.</p>
+                  <p rend="justify">escheker, <hi rend="italic">sb.</hi>  chess board, F. &amp; B. 344 C, etc. OF. <hi rend="italic">eschekier</hi>.</p>
+                  <p rend="justify">Estnesse, KH. 1018 L H, 1295 L.</p>
+                  <p rend="justify">eþe, yþe, <hi rend="italic">adv.</hi>  easily, KH. 61, 891. OE. <hi rend="italic">e͞aðe</hi>.</p>
+                  <p rend="justify">eþelikeste, <hi rend="italic">superl.</hi>  most precious, F. &amp; B. 274 C. OE. <hi rend="italic">æðel</hi>.</p>
+                  <p rend="justify">Eue, Ass. 461 Add.</p>
+                  <p rend="justify">euene, eueneliche, <hi rend="italic">adv.</hi>  equally, symmetrically, KH. 100.</p>
+                  <p rend="justify">euerich, <hi rend="italic">adj.</hi>  every, KH. 230. OE. <hi rend="italic">ǣfrǣlc</hi>.</p>
+                  <p rend="justify">eure ȝut, ever yet, KH. 842.</p>
+                  <p rend="justify">fable, <hi rend="italic">sb.</hi>  story, KH. 762 L.</p>
+                  <p rend="justify">fader, <hi rend="italic">sb.</hi>  father; <hi rend="italic">gen. sing.</hi>  fader, C H; faderes L, KH. 116; fader, 1622 H.</p>
+                  <p rend="justify">fairhede, fayrhede, feyrhade, <hi rend="italic">sb.</hi>  fairness, KH. 89.</p>
+                  <p rend="justify">falle, <hi rend="italic">v.</hi>  fall; bifalle, biualle, happen, occur, become; <hi rend="italic">infin.</hi>, KH. 105, 186; <hi rend="italic">pp.</hi>  450 C, L.</p>
+                  <p rend="justify">fawe, fain, F. &amp; B. 986 T. OE. <hi rend="italic">fægn</hi>.</p>
+                  <p rend="justify">fay, <hi rend="italic">sb.</hi>  faith, Ass. 576 C. OF. <hi rend="italic">fei</hi>.</p>
+                  <p rend="justify">fayne, <hi rend="italic">adj.</hi>  glad, F. &amp; B. 97 T. OE. <hi rend="italic">fægn</hi>.</p>
+                  <p rend="justify">fayne, <hi rend="italic">adv.</hi>  gladly, F. &amp; B. 286 T.</p>
+                  <p rend="justify">fecche, fette, <hi rend="italic">infin.</hi>  fetch, Ass. 129 C, 137 Add.; 3 <hi rend="italic">pl. pret.</hi>  fett, Ass. 456 C. OE. <hi rend="italic">fetian</hi>.</p>
+                  <p rend="justify">feere, <hi rend="italic">see</hi>  fere.</p>
+                  <p rend="justify">feire, <hi rend="italic">sb.</hi>  market, fair, F. &amp; B. 179 C. OF. <hi rend="italic">feire</hi>.</p>
+                  <p rend="justify">felaurade, <hi rend="italic">sb.</hi>  company, KH. 180 H. ON. <hi rend="italic">fēlagi</hi>.</p>
+                  <p rend="justify">yfelde, 3 <hi rend="italic">pl. pret.</hi>  feel, KH. 58. OE. <hi rend="italic">gefēlan</hi>.</p>
+                  <p rend="justify">fele, vele, <hi rend="italic">adj.</hi>  many, KH. 60, 1425 C, 1464 H. OE. <hi rend="italic">fela</hi>.</p>
+                  <p rend="justify">felle, <hi rend="italic">v.</hi>  fell, slay; <hi rend="italic">infin.</hi>, KH. 66; 3 <hi rend="italic">pl. pret.</hi>  felde, KH. 58.</p>
+                  <p rend="justify">felle, <hi rend="italic">sb.</hi>  skin, KH. 1015 L. OE. <hi rend="italic">fell</hi>.</p>
+                  <p rend="justify">felle, <hi rend="italic">adj. pl.</hi>  fierce, cruel, fell, KH. 1581 L, Ass. 574 C, 684 Add. OE. <hi rend="italic">fel</hi>.</p>
+                  <p rend="justify">felun, <hi rend="italic">adj.</hi>  savage, cruel, F. &amp; B. 210, 329 C. OF. <hi rend="italic">felon</hi>, <hi rend="italic">felun</hi>.</p>
+                  <p rend="justify">fende, feond, <hi rend="italic">sb.</hi>  fiend, devil; <hi rend="italic">dat. sing.</hi>  KH. 1480 L, Ass. 164 C. OE. <hi rend="italic">fēond</hi>.</p>
+                  <p rend="justify">feo, <hi rend="italic">dat. sing.</hi>  money, expense, F. &amp; B. 25 C. OE. <hi rend="italic">feo(h)</hi>.</p>
+                  <p rend="justify">fer, <hi rend="italic">adj.</hi>  unharmed, sound, KH. 161 C, H; Ass. 67 C, 72 A. OE. <hi rend="italic">fēre</hi>, Icel. <hi rend="italic">færr</hi>.</p>
+                  <p rend="justify">veracle, <hi rend="italic">sb.</hi>  company, KH. 180 C. OE. <hi rend="italic">ferræden</hi>.</p>
+                  <p rend="justify">ferde, <hi rend="italic">sb.</hi>  host, army; <hi rend="italic">dat. sing.</hi>, Ass. 116 Add. OE. <hi rend="italic">ferd</hi>, <hi rend="italic">fyrd</hi>.</p>
+                  <p rend="justify">ferde, 3 <hi rend="italic">s. pret.</hi>  went, KH. 663, 805, 1010. uerden, 3 <hi rend="italic">pl. pret.</hi>  behaved, F. &amp; B. 24 C. OE. <hi rend="italic">fēran</hi>.</p>
+                  <p rend="justify">fere, ifere, <hi rend="italic">sb.</hi>  companion, comrade; <hi rend="italic">sing. accus.</hi>  fere, Ass. 78 C, 84 Add., 78 Add.; ifere 46 C; <hi rend="italic">dat. sing.</hi>  ifere C, fere L, yfere H, KH. 1209; <hi rend="italic">plur.</hi>  feren, KH. 21, 53 H, 88, 108, 235 L, etc.; ifere C, yfere L, KH. 235; ferene, Ass. 406 C. OE. <hi rend="italic">fēra</hi>, <hi rend="italic">gefēra</hi>.</p>
+                  <p rend="justify">fere, feere, <hi rend="italic">sb.</hi>  companionship, F. &amp; B. 5, 81, 280 T, etc. OE. <hi rend="italic">gefēr</hi>.</p>
+                  <p rend="justify">ferli, ferlich, <hi rend="italic">sb.</hi>  miracle, wonder, F. &amp; B. 456 C, Ass. 732 Add. OE. <hi rend="italic">fǣrlīc</hi>.</p>
+                  <p rend="justify">ferli, ferly, <hi rend="italic">adj.</hi>  (1) fearful, (2) unexpected, sudden, (3) rare, wonderful, Ass. 327, Add. 347 C.</p>
+                  <p rend="justify">fett, <hi rend="italic">see</hi>  fecche.</p>
+                  <p rend="justify">Fikenhild, fykenyld, fykenild, fokenild, Fykenhild, Fekenyld, etc., KH. 28, 30, 731, 1336, 1493, 1509, 1513, 1516, 1543, 1554, 1567, 1589, 1613; <hi rend="italic">gen.</hi>  1554, 1607.</p>
+                  <p rend="justify">fine, <hi rend="italic">infin.</hi>  end, KH. 274. OF. <hi rend="italic">finer</hi>.</p>
+                  <p rend="justify">fiþeleres, fyþelers, <hi rend="italic">sb.</hi>  fiddler; <hi rend="italic">nom. pl.</hi>  KH. 1592. OE. <hi rend="italic">fiðelere</hi>.</p>
+                  <p rend="justify">fle, <hi rend="italic">infin.</hi>  flay, KH. 1468 C. OE. <hi rend="italic">flēan</hi>.</p>
+                  <p rend="justify">fleme, <hi rend="italic">sb.</hi>  fugitive, exile, KH. 1363 C, L. OE. <hi rend="italic">flēma</hi>.</p>
+                  <p rend="justify">fleoten, flete, <hi rend="italic">v.</hi>  flow, float, swim; <hi rend="italic">infin.</hi>  flete, L; fleoten H, KH. 165; flette 811 L; 3 <hi rend="italic">s. pret.</hi>  flet, KH. 203 H; 3 <hi rend="italic">pl. pret.</hi>  fletten, 811 H; <hi rend="italic">pp.</hi>  bi flette, KH. 1504 C. OE. <hi rend="italic">flēotan</hi>.</p>
+                  <p rend="justify">flitte, flecte, flette, 2 <hi rend="italic">s. subj. pres.</hi>  leave, depart, KH. 757. ON. <hi rend="italic">flytta</hi>.</p>
+                  <p rend="justify">Floris, Florys, Floreys, Florens, Floyres, Floriȝ, Florice, Floures, Florisse, etc., F. &amp; B. 40 T, 44 T, 49 T, 56 T, 65 T, etc. French version has <hi rend="italic">Floires</hi>, <hi rend="italic">Floire</hi>.</p>
+                  <p rend="justify">flotterede, 3 <hi rend="italic">sing. pret.</hi>  was tossed in the waves, KH. 135 H.</p>
+                  <p rend="justify">flur, flour, <hi rend="italic">sb.</hi>  flower, KH. 15, F. &amp; B. 780 T, 482 C, etc.</p>
+                  <p rend="justify">flyten, <hi rend="italic">infin.</hi>  combat, KH. 903 H. OE. <hi rend="italic">flītan</hi>.</p>
+                  <p rend="justify">fode, foode, <hi rend="italic">sb.</hi>  food, child, KH. 1436, F. &amp; B. 149 T.</p>
+                  <p rend="justify">foȝel, foul, <hi rend="italic">sb.</hi>  bird, KH. 139, 1506; F. &amp; B. 277 Cambr., etc. OE. <hi rend="italic">fugol</hi>.</p>
+                  <p rend="justify">fole, <hi rend="italic">sb.</hi>  foal, horse, KH. 623. OE. <hi rend="italic">fōla</hi>.</p>
+                  <p rend="justify">follyche, KH. 98 L. (?). OE. <hi rend="italic">fūllīce</hi>.</p>
+                  <p rend="justify">fond, <hi rend="italic">pret. sing.</hi>  found, KH. 39. OE. <hi rend="italic">findan</hi>.</p>
+                  <p rend="justify">fonde, <hi rend="italic">v.</hi>  try, experience, prove; <hi rend="italic">infin.</hi>, KH. 163 C H, 782, 1634 H; F. &amp; B. 2 T, 55 T, 158, 399 C, etc.; 3 <hi rend="italic">sing. pret.</hi>  fonde, fondede, KH. 1634 C. OE. <hi rend="italic">fandian</hi>.</p>
+                  <p rend="justify">fonge, underfonge, <hi rend="italic">v.</hi>  receive, take; <hi rend="italic">infin.</hi>  fonge, KH. 345 C L, 163 L, 769; F. &amp; B. 300, 395 C. etc.; vnderfonge, KH. 607 H, 255, 976 C, etc. OE. <hi rend="italic">fōn</hi>.</p>
+                  <p rend="justify">forbere, <hi rend="italic">infin.</hi>  do without, dispense with, Ass. 60 C, 66 Add. OE. <hi rend="italic">forberan</hi>.</p>
+                  <p rend="justify">forbod, forbode, <hi rend="italic">acc. sing.</hi>  forbiddal, prohibition, KH. 82.</p>
+                  <p rend="justify">fordo, <hi rend="italic">pp.</hi>  destroyed, F. &amp; B. 308 C. OE. <hi rend="italic">fordōn</hi>.</p>
+                  <p rend="justify">foreward, forewart, <hi rend="italic">sb.</hi>  agreement, pledge, KH. 482, 586 H; F. &amp; B. 426 C. OE. <hi rend="italic">foreweard</hi>.</p>
+                  <p rend="justify">forȝolde, <hi rend="italic">pp.</hi>  paid for, F. &amp; B. 388 T. OE. <hi rend="italic">forgieldan</hi>.</p>
+                  <p rend="justify">forgone, <hi rend="italic">pp.</hi>  distressed, Ass. 829 Add.</p>
+                  <p rend="justify">forhele, 2 <hi rend="italic">sing. imper.</hi>  conceal, Ass. 192 Add. OE. <hi rend="italic">forhelan</hi>.</p>
+                  <p rend="justify">forleie, forlauȝt, <hi rend="italic">pp.</hi>  commit adultery, F. &amp; B. 301 Cambr., 618 T. OE. <hi rend="italic">forlicgan</hi>.</p>
+                  <p rend="justify">forlesen, <hi rend="italic">see</hi>  lesen.</p>
+                  <p rend="justify">forliued, <hi rend="italic">pp.</hi>  mislived, F. &amp; B. 99 Cott.</p>
+                  <p rend="justify">forloren, <hi rend="italic">see</hi>  lesen.</p>
+                  <p rend="justify">fort (for + to), until, F. &amp; B. 66, 122 C.; fort he = for to þe.</p>
+                  <p rend="justify">forþinkeþ, 3 <hi rend="italic">sing. pres., reflex.</hi>, repent, Ass. 538 Add., 813 Add. ON. <hi rend="italic">fyrirþykkja</hi>.</p>
+                  <p rend="justify">forto, forte, <hi rend="italic">conj.</hi>  in order to, KH. 25.</p>
+                  <p rend="justify">forto, <hi rend="italic">prep.</hi>  to, for to, KH. 166 L.</p>
+                  <p rend="justify">fremde, fremede, <hi rend="italic">sb.</hi>  foreigner, stranger, KH. 68. OE. <hi rend="italic">fremede</hi>.</p>
+                  <p rend="justify">fremde, <hi rend="italic">adj.</hi>  strange, foreign, Ass. 181 C. OE. <hi rend="italic">fremede</hi>, <hi rend="italic">fremde</hi>.</p>
+                  <p rend="justify">frume, atte, first, F. &amp; B. 135, 179, 345 C. OE. <hi rend="italic">fruma</hi>.</p>
+                  <p rend="justify">ful, foul, foule, <hi rend="italic">adj.</hi>  foul, dirty, KH. 1143. OE. <hi rend="italic">fūl</hi>.</p>
+                  <p rend="justify">fulde, 3 <hi rend="italic">sing. pret.</hi>  filled, KH. 1202. OE. <hi rend="italic">fyllan</hi>.</p>
+                  <p rend="justify">funde, fonde, founde, <hi rend="italic">v.</hi>  go, KH. 109, 143, 780, 888, 942, 1372. OE. <hi rend="italic">fundian</hi>.</p>
+                  <p rend="justify">fundlyng, fundyng, etc., <hi rend="italic">sb.</hi>  foundling, KH. 234 C H, 242 C, 450.</p>
+                  <p rend="justify">furst, <hi rend="italic">sb.</hi>  space of time, respite, F. &amp; B. 638 C. OE. <hi rend="italic">fyrst</hi>.</p>
+                  <p rend="justify">furthermost, foremost, F. &amp; B. 1059 T.</p>
+                  <p rend="justify">fus, <hi rend="italic">adj.</hi>  ready, F. &amp; B. 368 C. OE. <hi rend="italic">fūs</hi>.</p>
+                  <p rend="justify">fyȝen, fissen, <hi rend="italic">infin.</hi>  fish, KH. 1216. OE. <hi rend="italic">fiscian</hi>.</p>
+                  <p rend="justify">gabbe, joking, F. &amp; B. 785 T.</p>
+                  <p rend="justify">gabbest, 2 <hi rend="italic">sing. pres.</hi>  (1) ridicule, (2) deceive, (3) chatter, F. &amp; B. 235 T. ON. <hi rend="italic">gabba</hi>.</p>
+                  <p rend="justify">gabbing, <hi rend="italic">nom. sing.</hi>, (1) deceit, (2) babble, F. &amp; B. 236, T and Cott.</p>
+                  <p rend="justify">galeie, <hi rend="italic">sb.</hi>  galley, KH. 199, 1084 C, 1086 H. OF. <hi rend="italic">galee</hi>.</p>
+                  <p rend="justify">game, <hi rend="italic">sb.</hi>  joy, pleasure, KH. 211. OE. <hi rend="italic">gamen</hi>, <hi rend="italic">gomen</hi>.</p>
+                  <p rend="justify">gan, <hi rend="italic">v. auxil.</hi>  did; gan, gon, KH. 257, 268, 312 C, 318 C, etc.; <hi rend="italic">plur.</hi>  gunne, gonne, gunnen, gonnen, KH. 55, 65, 193, 675, 1090, etc.; <hi rend="italic">imper.</hi>  gyn, KH. 329 H, 396 H; bigyn, KH. 329 L; bigan, began, did, KH. 127, 146 L, 203 C, 1271 H; con, did, KH. 372 H, 817 H, 825 H, 938 H, 1049 H, 1470 H, 1632 H, etc.; <hi rend="italic">pluperf.</hi>  couþe, KH. 1634 H.</p>
+                  <p rend="justify">ȝare, <hi rend="italic">adv.</hi>  quickly, KH. 497 C, 960 C, 1453 L. OE. <hi rend="italic">gearu</hi>.</p>
+                  <p rend="justify">garysone, garisone, <hi rend="italic">sb.</hi>  treasure, F. &amp; B. 206, T and Cott. OE. <hi rend="italic">gersum</hi>, <hi rend="italic">gersuma</hi>. OF. <hi rend="italic">garison</hi>. Cf. <hi rend="italic">gersume</hi>.</p>
+                  <p rend="justify">ȝede, yede, eode, <hi rend="italic">v. pret.</hi>  went; 3 <hi rend="italic">sing.</hi>  ȝede C, eode H, KH. 621, 622; yede Ass. 636 H; 3 <hi rend="italic">pl.</hi>  yede L, ede H, KH. 117; ȝede C, yede L, eoden H, KH. 167, 621; yede Ass. 634 H, ȝede Ass. 843 Add., ȝeden Ass. 849 Add., F. &amp; B. 444 C.</p>
+                  <p rend="justify">gegges, <hi rend="italic">sb.</hi>  frivolous women (?), F. &amp; B. 439 C.</p>
+                  <p rend="justify">ȝelde, yelde, <hi rend="italic">v.</hi>  (1) yield, (2) pay for; <hi rend="italic">infin.</hi>, KH. 514 C H, Ass. 249 C, 255 Add.; <hi rend="italic">pp.</hi>  iȝolde C, yolde L, ȝolde H, KH. 681; iȝolde C, hyȝolde L, yȝolde H, KH. 490; F. &amp; B. 161 T, 809 C; 2 <hi rend="italic">sing. subj.</hi>  or <hi rend="italic">imper.</hi>  ȝeld, pay for, KH. 1066. OE. <hi rend="italic">gieldan</hi>.</p>
+                  <p rend="justify">ȝelle = welle (?), F. &amp; B. 621 T.</p>
+                  <p rend="justify">ȝem, 2 <hi rend="italic">sing. imper.</hi>  protect, care for. OE. <hi rend="italic">gīeman</hi>.</p>
+                  <p rend="justify">ȝeme, <hi rend="italic">sb.</hi>  care, F. &amp; B. 38 C.</p>
+                  <p rend="justify">ȝen, against; aȝeyn KH. 60, aȝenes C, ayenes L, aȝeyn H, KH. 82. OE. <hi rend="italic">gegn</hi>, <hi rend="italic">gēn</hi>.</p>
+                  <p rend="justify">ȝend, gonde, <hi rend="italic">prep.</hi>  throughout, KH. 1078; <hi rend="italic">adv.</hi>  yonder, far away; ȝent, KH. 1261 H; gonde, beyond, F. &amp; B. 210 C. OE. <hi rend="italic">geond</hi>.</p>
+                  <p rend="justify">geng, <hi rend="italic">dat. sing.</hi>  company, Ass. 220 C. OE. <hi rend="italic">genge</hi>.</p>
+                  <p rend="justify">gent, <hi rend="italic">adj.</hi>  noble, F. &amp; B. 47 Cott. OF. <hi rend="italic">gent</hi>.</p>
+                  <p rend="justify">ȝere, yere, <hi rend="italic">sb.</hi>  year; <hi rend="italic">pl.</hi>  ȝere C, yere L, KH. 102. OE. <hi rend="italic">ge͞ar</hi>.</p>
+                  <p rend="justify">ȝerne, <hi rend="italic">v.</hi>  desire, ask for; 1 <hi rend="italic">sing. pres.</hi>  ȝerne C H, herne L, KH. 985; <hi rend="italic">infin.</hi>  KH. 1495 L, 1517 C. OE. <hi rend="italic">geornian</hi>.</p>
+                  <p rend="justify">ȝerne, <hi rend="italic">adj.</hi>  willing, desirous, eager, KH. 1165 C, 1472 H, etc. OE. <hi rend="italic">georn</hi>.</p>
+                  <p rend="justify">ȝerne, <hi rend="italic">adv.</hi>  eagerly, F. &amp; B. 127, 375, 588 C. OE. <hi rend="italic">georne</hi>.</p>
+                  <p rend="justify">(þureȝ) gersume, reward, F. &amp; B. 405, 419, 773 C. Cf. <hi rend="italic">garisone</hi>.</p>
+                  <p rend="justify">gesninge, gestinge, iustinge, <hi rend="italic">sb.</hi>  entertainment, F. &amp; B. 82, 125, 164 C., 175 Cott.</p>
+                  <p rend="justify">gesse, <hi rend="italic">infin.</hi>  guess (?), agesse C, agesce L, gesse H, KH. 1267.</p>
+                  <p rend="justify">ȝeuen, <hi rend="italic">v.</hi>  give, KH. 170, 172, etc. OE. <hi rend="italic">giefan</hi>, <hi rend="italic">gifan</hi>.</p>
+                  <p rend="justify">gigours, <hi rend="italic">nom. plur.</hi>  violin players, KH. 1592 C. OF. <hi rend="italic">gigueour</hi>.</p>
+                  <p rend="justify">ginne, gynne, <hi rend="italic">sb.</hi>? (1) contrivance, scheme. (2) tool, penis, KH. 1574 C H; F. &amp; B. 131, 195, 206, 258 C., etc.; F. &amp; B. 1032, 1048 T. ON. <hi rend="italic">ginna</hi>, Lat. <hi rend="italic">ingenium</hi>.</p>
+                  <p rend="justify">ginnur, <hi rend="italic">sb.</hi>  engineer, workman, F. &amp; B. 324 C.</p>
+                  <p rend="justify">gle, glewe, <hi rend="italic">sb.</hi>  song, joy, KH. 1352 C H; Ass. 483 Add. OE. <hi rend="italic">glēoẉ</hi>, <hi rend="italic">glīw</hi>.</p>
+                  <p rend="justify">glede, <hi rend="italic">sb.</hi>  coal, KH. 532 L H. OE. <hi rend="italic">glēd</hi>.</p>
+                  <p rend="justify">gleowinge, glewinge, gleynge, <hi rend="italic">sb.</hi>  play, KH. 1588.</p>
+                  <p rend="justify">glide, <hi rend="italic">infin.</hi>  (1) glide, (2) slip away, KH. 146 L, 1127. OE. <hi rend="italic">glīdan</hi>.</p>
+                  <p rend="justify">gloue, glouen, <hi rend="italic">acc. plur.</hi>  gloves, KH. 848. OE. <hi rend="italic">glōfa</hi>.</p>
+                  <p rend="justify">Godhild, Godild, Godyld, Godylt, KH. 7, 72, 75, 158, 159, 1458.</p>
+                  <p rend="justify">Godmod, Horn’s assumed name, KH. 821, 833, 879, 883, 895, 911, 925, 949, 952, 965, 987.</p>
+                  <p rend="justify">ȝonge, ȝynge, <hi rend="italic">adj.</hi>  young, KH. 137, etc. OE. <hi rend="italic">geong</hi>.</p>
+                  <p rend="justify">ȝore, <hi rend="italic">adv.</hi>  long ago, F. &amp; B. 174 C. OE. <hi rend="italic">gēara</hi>.</p>
+                  <p rend="justify">grace, <hi rend="italic">sb.</hi>  virtue, power, KH. 605. OF. <hi rend="italic">grace</hi>.</p>
+                  <p rend="justify">grame, <hi rend="italic">sb.</hi>  anger, wrath, F. &amp; B. 712 C.; Ass. 515 H, Ass. 738 Add. OE. <hi rend="italic">grama</hi>.</p>
+                  <p rend="justify">igraue, hygraue, ygraued, <hi rend="italic">pp.</hi>  scratched, engraved, KH. 599. OF. <hi rend="italic">grafan</hi>.</p>
+                  <p rend="justify">grede, <hi rend="italic">v.</hi>  cry out; <hi rend="italic">infin.</hi>  F. &amp; B. 454 C.; 3 <hi rend="italic">sing. pret.</hi>  gredde, KH. 1282 H. OE. <hi rend="italic">grædan</hi>.</p>
+                  <p rend="justify">greding, <hi rend="italic">sb.</hi>  clamour, lamentation, Ass. 213 Add.</p>
+                  <p rend="justify">greithe, greþi, <hi rend="italic">infin.</hi>  prepare, make ready, Ass. 120 C, 128 Add. ON. <hi rend="italic">greiða</hi>.</p>
+                  <p rend="justify">grete, <hi rend="italic">infin.</hi>  weep, KH. 957 C L. OE. <hi rend="italic">grētan</hi>.</p>
+                  <p rend="justify">gripe, <hi rend="italic">infin.</hi>  grip, seize, KH. 55. OE. <hi rend="italic">grīpan</hi>.</p>
+                  <p rend="justify">grisen, <hi rend="italic">v.</hi>  feel horror; <hi rend="italic">infin.</hi>  agrise C L; agryse H, KH. 925; 3 <hi rend="italic">sing. pret.</hi>  gros C, agros L, H, KH. 1410. OE. <hi rend="italic">āgrīsan</hi>.</p>
+                  <p rend="justify">grom, <hi rend="italic">sb.</hi>  boy; <hi rend="italic">nom. sing.</hi>  grom, KH. 1035 L H; <hi rend="italic">nom. pl.</hi>  grome, KH. 175, F. &amp; B. 111 T. ON. <hi rend="italic">gromr</hi>.</p>
+                  <p rend="justify">grunde, grounde, <hi rend="italic">sb.</hi>; <hi rend="italic">dat. sing.</hi>  ground, bottom, KH. 110, 144, 352, 1242.</p>
+                  <p rend="justify">gume, <hi rend="italic">sb.</hi>  man; <hi rend="italic">nom. sing.</hi>  gume, F. &amp; B. 261 C.; <hi rend="italic">nom. plur.</hi>  gomes, KH. 24, gumes C, gomen H; grome L, KH. 175. OE. <hi rend="italic">guma</hi>.</p>
+                  <p rend="justify">halke, <hi rend="italic">dat. sing.</hi>  corner, KH. 1167 C L. OE. <hi rend="italic">healoc</hi>. </p>
+                  <p rend="justify">Harild, Alrid, Ayld, Aþyld, KH. 815, 877, 878.</p>
+                  <p rend="justify">harwed, 1 <hi rend="italic">sing. pret.</hi>  harrowed, Ass. 463 Add. OE. <hi rend="italic">hergian</hi>.</p>
+                  <p rend="justify">hatere, <hi rend="italic">sb.</hi>  garments, Ass. 149 C. OE. <hi rend="italic">hæteru</hi>.</p>
+                  <p rend="justify">hatte, 3 <hi rend="italic">sing. pret.</hi>  became hot, KH. 646 C. OE. <hi rend="italic">hǣtan</hi>.</p>
+                  <p rend="justify">heele, 1 <hi rend="italic">sing. pres.</hi>  conceal, F. &amp; B. 820 T, 533 C. OE. <hi rend="italic">helan</hi>.</p>
+                  <p rend="justify">heete, 3 <hi rend="italic">sing. pret.</hi>  was named, F. &amp; B. 1004 T. Cf. <hi rend="italic">hoten</hi>.</p>
+                  <p rend="justify">helde, <hi rend="italic">v.</hi>, <hi rend="italic">see</hi>  holde.</p>
+                  <p rend="justify">helde, <hi rend="italic">sb.</hi>  faith, allegiance, F. &amp; B. 397 C. OE. <hi rend="italic">hyldo</hi>.</p>
+                  <p rend="justify">heleþ, 3 <hi rend="italic">sing. imper.</hi>  conceal, Ass. 188 C, <hi rend="italic">see</hi>  heele.</p>
+                  <p rend="justify">hende, <hi rend="italic">adj.</hi>  (1) prompt, gracious, alert, KH. 391, 1197, 1345, etc., F. &amp; B. 156 T, etc.; (2) near, ready, KH. 1217 H. OE. <hi rend="italic">(ȝe)hende</hi>.</p>
+                  <p rend="justify">henne, hanne, hennes, <hi rend="italic">adv.</hi>  hence, KH. 50, 337, 341 C.</p>
+                  <p rend="justify">hente, <hi rend="italic">v.</hi>  grasp, receive, get; <hi rend="italic">infin.</hi>  KH. 1032 H; 1 <hi rend="italic">pl. pret.</hi>  KH. 919 L; <hi rend="italic">pp.</hi>  hent, Ass. 453 C.</p>
+                  <p rend="justify">hepe, <hi rend="italic">dat. sing.</hi>  throng, crowd, F. &amp; B. 466 C. OE. <hi rend="italic">hēap</hi>.</p>
+                  <p rend="justify">her, <hi rend="italic">see</hi>  er.</p>
+                  <p rend="justify">here, <hi rend="italic">poss. pron.</hi>  their; <hi rend="italic">nom. sing.</hi>, KH. 9, etc.</p>
+                  <p rend="justify">heren, <hi rend="italic">v.</hi>  hire; 3 <hi rend="italic">sing. pret.</hi>  hurede C, herde L, herde L H, KH. 806. OE. <hi rend="italic">hȳrian</hi>.</p>
+                  <p rend="justify">heste, <hi rend="italic">dat. sing.</hi>  command, hest, F. &amp; B. 610 C. Cf. Skeat.</p>
+                  <p rend="justify">het, 3 <hi rend="italic">sing. pret.</hi>  bade, F. &amp; B. 608, 619 C. OE. <hi rend="italic">hātan</hi>.</p>
+                  <p rend="justify">heynde, <hi rend="italic">sb.</hi>  hind (?), KH. 686 L. OE. <hi rend="italic">hind</hi>.</p>
+                  <p rend="justify">hiȝe, <hi rend="italic">v.</hi>  hasten, hie; 3 <hi rend="italic">sing. pret.</hi>  KH. 1042 C. OE. <hi rend="italic">higian</hi>.</p>
+                  <p rend="justify">hiȝhede, <hi rend="italic">sb.</hi>  height, F. &amp; B. 327 C.</p>
+                  <p rend="justify">hitten, <hi rend="italic">v.</hi>  hit, strike; 1 <hi rend="italic">sing. pres.</hi>  anhitte C; <hi rend="italic">infin.</hi>  hette L, KH. 758. ON. <hi rend="italic">hitta</hi>.</p>
+                  <p rend="justify">hol, <hi rend="italic">adj.</hi>  safe, KH. 161 C H etc. OE. <hi rend="italic">hāl</hi>.</p>
+                  <p rend="justify">holde, helde, <hi rend="italic">v.</hi>  hold, KH. 323, 482. OE. <hi rend="italic">healdan</hi>.</p>
+                  <p rend="justify">holde, <hi rend="italic">adj.</hi>, <hi rend="italic">accus. pl.</hi>  faithful, KH. 1339 L H. OE. <hi rend="italic">hold</hi>.</p>
+                  <p rend="justify">holt, <hi rend="italic">adj.</hi>  lame, halt, Ass. 516 H. OE. <hi rend="italic">healt</hi>, <hi rend="italic">halt</hi>.</p>
+                  <p rend="justify">hondhabbing, having in the hand, in the act, <hi rend="italic">en flagrant delit</hi>, F. &amp; B. 668 C. OE. <hi rend="italic">hondhæbbende</hi>.</p>
+                  <p rend="justify">Horn, 9, 74, 121, 128, 135, 184, etc.; horn child 121 L, 128 C, 173, etc.; Horns 123 L; horn þe ȝynge 137 H; Hor 185 L, 397 L, 459 L, 558 L.</p>
+                  <p rend="justify">hoten, <hi rend="italic">v.</hi>  be called; 1 <hi rend="italic">sing. pres.</hi>  hote, KH. 821; 3 <hi rend="italic">sing. pret.</hi>  het C, hihte H, KH. 9, 27 C; <hi rend="italic">pp.</hi>  ihote C, hote L, yhote H, KH. 215, 1125 C. OE. <hi rend="italic">hātan</hi>.</p>
+                  <p rend="justify">houe, 2 <hi rend="italic">sing. pret.</hi>  raised, KH. 1359 C H; ȝoue L. OE. <hi rend="italic">hebban</hi>.</p>
+                  <p rend="justify">hurne, <hi rend="italic">dat. sing.</hi>  corner, KH. 1471 H. OE. <hi rend="italic">hyrne</hi>.</p>
+                  <p rend="justify">hynde, <hi rend="italic">adj.</hi>  kind (?), F. &amp; B. 355 T.</p>
+                  <p rend="justify">I—, I lome, etc., <hi rend="italic">see</hi>  lome, etc.</p>
+                  <p rend="justify">Ierusalem, Ass. 475 C, 594 Add.</p>
+                  <p rend="justify">Iewes, Iewis, Iewys, <hi rend="italic">nom. sing.</hi>  Iewe, Ass. 620 Add., 564 H, Iew 674 Add.; <hi rend="italic">dat. sing.</hi>  Iewe, Ass. 530 H, Iew, Ass. 620 Add.; <hi rend="italic">gen. sing.</hi>  Iewis, Ass. 553 H, etc.</p>
+                  <p rend="justify">Almost everything in this entry is wrong. As printed:<lb/>Iewes, Iewis, Iewys, <hi rend="italic">nom. sing.</hi>  Iewe, Ass. 620 Add., 674 H [<hi rend="italic">564 H corresponds to 674 Add.</hi>], Iew 674 Add.; <hi rend="italic">dat. sing.</hi>  Iewe, Ass. 530 C, Iew, Ass. 620 Add. [<hi rend="italic">this is wrong, but the correct form has not been identified</hi>]; <hi rend="italic">gen. sing.</hi>  Iewis, Ass. 553 C, etc.</p>
+                  <p rend="justify">Ihesu, Ass. 51 Add., 324 C, 388 Add., Ihesus 481 C, Iesus 486 C; <hi rend="italic">gen.</hi>  Ihesus 624 Add., Crist 76 C, Ihesu crist 248 T, etc.</p>
+                  <p rend="justify">ilk, ylk, <hi rend="italic">adj.</hi>  same; <hi rend="italic">dat. sing.</hi>  ilke, KH. 948 C, ylke F. &amp; B. 78 T, vlke C, hulke L, KH. 1285, etc. OE. <hi rend="italic">ilca</hi>.</p>
+                  <p rend="justify">ynde, India, Ass. 611 C, 775 Add., 807 Add.</p>
+                  <p rend="justify">Iogelours L, iogelers H; <hi rend="italic">nom. pl.</hi>  jugglers, KH. 1592. OF. <hi rend="italic">jongleor</hi>.</p>
+                  <p rend="justify">Iohan, Ion, Ass. 14 C, 15 Add., 49 C, 52 Add., 55 Add., 77 C, 224 C, 228 Add., etc.; <hi rend="italic">nom. sing.</hi>  seynt Ione, 820 Add.</p>
+                  <p rend="justify">Iosaphath, Iosephas, Iosephat, Ass. 472 C, 581 C, 754 Add.</p>
+                  <p rend="justify">Irisse, yrisse, yrisshe, Hyrische, KH. 1080, 1302 L, 1382, 1464.</p>
+                  <p rend="justify">Irlond, hirelonde, yrlonde, KH. 810 L, 1078 C, 1633 C H.</p>
+                  <p rend="justify">lacchen, <hi rend="italic">v.</hi>  catch, take; <hi rend="italic">infin.</hi>  lacchen, KH. 686 L, lache KH. 702 L; 3 <hi rend="italic">sing. pret.</hi>  laȝte C, laucte L, lahte H, KH. 259; 3 <hi rend="italic">pl. pret.</hi>  laucte, KH. 943 L, by laucte 705 L; 3 <hi rend="italic">pl. pret.</hi>  of laucte, 943 L. OE. <hi rend="italic">(ȝe)læccan</hi>.</p>
+                  <p rend="justify">laȝe, lawe, <hi rend="italic">sb.</hi>  (1) law, (2) religion, (3) custom, KH. 69 C H, 1190. OE. <hi rend="italic">lagu</hi>.</p>
+                  <p rend="justify">largeliche, <hi rend="italic">adv.</hi>  liberally, F. &amp; B. 71 C. OF. <hi rend="italic">large</hi>.</p>
+                  <p rend="justify">laste, leste, <hi rend="italic">v.</hi>  last, endure, KH. 6, 433 L, etc. OE. <hi rend="italic">lǣstan</hi>.</p>
+                  <p rend="justify">lay, ley, <hi rend="italic">sb.</hi>  law, religion, KH. 69 L, 1642 H, Ass. 686 Add. OF. <hi rend="italic">lei</hi>.</p>
+                  <p rend="justify">lef, leue, leof, luef, <hi rend="italic">adj.</hi>  dear, KH. 126 L, 342, 695, 754, 1013, 1457, etc.; F. &amp; B. 151 C., 321 C., etc.; Ass. 40 C, 167 C, 42 Add., 173 Add., etc. OE. <hi rend="italic">lēof</hi>.</p>
+                  <p rend="justify">lef, leue, leof, lyfe, <hi rend="italic">sb.</hi>  dear one, darling, F. &amp; B. 108 T, 89, 103 Cott., 312 T, 831 T, 542 C. OE. <hi rend="italic">lēof</hi>.</p>
+                  <p rend="justify">leue, <hi rend="italic">v.</hi>  believe, F. &amp; B. 325 T. OE. <hi rend="italic">lēfan</hi>, <hi rend="italic">lȳfan</hi>.</p>
+                  <p rend="justify">bileue, <hi rend="italic">v.</hi>  remain; <hi rend="italic">infin.</hi>  KH. 381, F. &amp; B. 103 Cott., 51 C.; 3 <hi rend="italic">sing. pret.</hi>  bilefte, Ass. 57 T, bileft 63 Add., 151 Add.; 3 <hi rend="italic">pl. pret.</hi>  bileft, Ass. 759 Add., etc. OE. <hi rend="italic">belǣfan</hi>.</p>
+                  <p rend="justify">leiȝe, leyhe, <hi rend="italic">v.</hi>  laugh; <hi rend="italic">infin.</hi>  leyhe L (lyþe H?), KH. 372; 3 <hi rend="italic">sing. pret.</hi>  lowe L, loh KH. 373, louȝe C, lowe L H, KH, 1600; 3 <hi rend="italic">plur. pret.</hi>  lowȝ, F. &amp; B. 1053 T, 776 C. OE. <hi rend="italic">hlehhan</hi>.</p>
+                  <p rend="justify">leme, <hi rend="italic">sb.</hi>  light, brightness, F. &amp; B. 198 C, Ass. 607 H. OE. <hi rend="italic">lēoma</hi>.</p>
+                  <p rend="justify">lemman, leman, <hi rend="italic">sb.</hi>  dear one, leman, KH. 463, 589, 721. OE. <hi rend="italic">le͞ofmon</hi>.</p>
+                  <p rend="justify">lene, <hi rend="italic">v.</hi>  lend, KH. 491. OE. <hi rend="italic">lǣnan</hi>.</p>
+                  <p rend="justify">leng, <hi rend="italic">compar.</hi>  longer, KH. 1183 etc. OE. <hi rend="italic">leng</hi>.</p>
+                  <p rend="justify">lep, lepe, <hi rend="italic">sb.</hi>  basket, F. &amp; B. 465 C., 738, 740, 741 T, 753 T, 758 T. OE. <hi rend="italic">le͞ap</hi>.</p>
+                  <p rend="justify">lere, <hi rend="italic">sb.</hi>  cheek, F. &amp; B. 501 C. OE <hi rend="italic">hlēor</hi>.</p>
+                  <p rend="justify">lere, <hi rend="italic">v.</hi>  teach, KH. 257, F. &amp; B. 148 C, Ass. 896 Add. OE. <hi rend="italic">lǣran</hi>.</p>
+                  <p rend="justify">lese, leose, forlese, <hi rend="italic">v.</hi>  lose; <hi rend="italic">infin.</hi>  leose C. forlese L, forleose H, KH. 707; <hi rend="italic">pp.</hi>  forloren, KH. 511 C. OE. <hi rend="italic">forle͞osan</hi>.</p>
+                  <p rend="justify">leste, luste, <hi rend="italic">v.</hi>  listen, KH. 355, 505, 1355 C. OE. <hi rend="italic">hlystan</hi>.</p>
+                  <p rend="justify">leste, luste, <hi rend="italic">v.</hi>  desire, hanker, lust, KH. 426, 433, 918, 1298. OE. <hi rend="italic">lystan</hi>.</p>
+                  <p rend="justify">lesing, lesyng, <hi rend="italic">sb.</hi>  falsehood, F. &amp; B. 84 T, 233 T, 585 C. OE. <hi rend="italic">le͞asung</hi>.</p>
+                  <p rend="justify">lete, late, <hi rend="italic">v.</hi>  let, permit, leave, lose, KH. 1124 C, 1330 L; belete, leave behind, F. &amp; B. 201 T, 1593; forlete, desert, KH. 232, F. &amp; B. 201 Cott. OE. <hi rend="italic">lǣtan</hi>.</p>
+                  <p rend="justify">let, lette, <hi rend="italic">v.</hi>  hinder, retard, impede, KH. 100, F. &amp; B. 333 T, 25 C. OE. <hi rend="italic">lettan</hi>.</p>
+                  <p rend="justify">yliche, iliche, <hi rend="italic">sb.</hi>  like, equal, KH. 20, 305, 331, etc. OE. <hi rend="italic">gelīca</hi>.</p>
+                  <p rend="justify">licte, lyhte, <hi rend="italic">v.</hi>  alight, KH. 51 etc; 3 <hi rend="italic">sing. pret.</hi>  aliȝte, KH. 51 C. OE. <hi rend="italic">lihtan</hi>.</p>
+                  <p rend="justify">linne, lynne, blynne, <hi rend="italic">v.</hi>  cease, KH. 329, 372, 1068. OE. <hi rend="italic">linnan</hi>.</p>
+                  <p rend="justify">list, <hi rend="italic">sb.</hi>  art, KH. 251, 1577. OE. <hi rend="italic">list</hi>.</p>
+                  <p rend="justify">lite, lyte, <hi rend="italic">adj.</hi>, <hi rend="italic">adv.</hi>  little, KH. 1004, 678 L, 1211 C. ON. <hi rend="italic">lītt</hi>.</p>
+                  <p rend="justify">liþe, lyþe, <hi rend="italic">v.</hi>  listen, KH. 2, 354, 372 H, 436 L. ON. <hi rend="italic">hlȳða</hi>.</p>
+                  <p rend="justify">lodlike, <hi rend="italic">adj.</hi>  loathsome, hateful, KH. 1415 L.</p>
+                  <p rend="justify">lofte, <hi rend="italic">sb.</hi>  loft, upstairs, women’s apartments, KH. 974 C. OE. <hi rend="italic">loft</hi>. ON. <hi rend="italic">lopt</hi>. The peculiar turn of meaning is Scandinavian.</p>
+                  <p rend="justify">loke, loky, <hi rend="italic">v.</hi>  watch, guard, KH. 800, 1180, 1181 L H, 1419 L H, Ass. 47 C. OE. <hi rend="italic">lōcian</hi>.</p>
+                  <p rend="justify">loking, lokyng, <hi rend="italic">sb.</hi>  care, watch, KH. 360.</p>
+                  <p rend="justify">ilome, <hi rend="italic">adv.</hi>  frequently, F. &amp; B. 96 Cott. OE. <hi rend="italic">gelōme</hi>.</p>
+                  <p rend="justify">londiss, <hi rend="italic">adj.</hi>  native, KH. 671. Cf. vnlondisshe, KH. 672 H. OE. <hi rend="italic">lendisc</hi>.</p>
+                  <p rend="justify">longest, 3 <hi rend="italic">sing. pres.</hi>  belongest, KH. 1406 C. OE. <hi rend="italic">longian</hi>.</p>
+                  <p rend="justify">lore, <hi rend="italic">sb.</hi>  teaching, bidding, KH. 472. OE. <hi rend="italic">lār</hi>.</p>
+                  <p rend="justify">loþe, <hi rend="italic">adj.</hi>  hateful, KH. 1140, 1283. OE. <hi rend="italic">lāð</hi>.</p>
+                  <p rend="justify">Lumbardy, F. &amp; B. 179 T. French version has (En)Lombardie 49.</p>
+                  <p rend="justify">lure, <hi rend="italic">v.</hi>  (1) lour, look sullen (?), (2) lie in wait, set trap (?), KH. 286, 1312.</p>
+                  <p rend="justify">luste, <hi rend="italic">impers.</hi>  be pleasing, F. &amp; B. 378 C.</p>
+                  <p rend="justify">lut, <hi rend="italic">sb.</hi>  little, KH. 658 H. OE. <hi rend="italic">lȳt</hi>.</p>
+                  <p rend="justify">luþere, <hi rend="italic">adj.</hi>  evil, bad; <hi rend="italic">nom. plur.</hi>, KH. 530 C. OE. <hi rend="italic">lȳðer</hi>. Cf. <hi rend="italic">of þan luþer folke</hi>  (= accursed), Lay. 29576 B.</p>
+                  <p rend="justify">lyst, <hi rend="italic">sb.</hi>  desire, pleasure, Ass. 2 Add. OE. <hi rend="italic">lyst</hi>.</p>
+                  <p rend="justify">maine, meyne, meigne, <hi rend="italic">sb.</hi>  household, Ass. 110 C, 417, 475, 569, 573 Add.; F. &amp; B. 782 C, 1059 T. OF. <hi rend="italic">maisnee</hi>.</p>
+                  <p rend="justify">maister, <hi rend="italic">sb.</hi>  leader, KH. 659; maister-king, KH. 659 L, 680. OF. <hi rend="italic">maistre</hi>.</p>
+                  <p rend="justify">make, <hi rend="italic">sb.</hi>  wife, spouse, KH. 1523, F. &amp; B. 78 Cott., 303 T. OE. <hi rend="italic">gemaca</hi>.</p>
+                  <p rend="justify">make, <hi rend="italic">v.</hi>  pretend to be, F. &amp; B. 76 T.</p>
+                  <p rend="justify">male, <hi rend="italic">sb.</hi>  bag, pouch, F. &amp; B. 689 T. OF. <hi rend="italic">male</hi>.</p>
+                  <p rend="justify">manrede, <hi rend="italic">sb.</hi>  homage, F. &amp; B. 395 C. OE. <hi rend="italic">manrǣden</hi>.</p>
+                  <p rend="justify">Marie, Marye, <hi rend="italic">gen.</hi>  Maries, Ass. 29 C, 31 Add., 239 C, 241 Add., 253 C, 498 H, 500 H, 546 C, etc.; seynt Marye, F. &amp; B. 248 T; seynte-marie, F. &amp; B. 49 V.</p>
+                  <p rend="justify">may, <hi rend="italic">sb.</hi>  may, maid, KH. 329, 979 H, 1019 H, 1516 H; F. &amp; B. 201 T, 393 T, 46, 102 C., etc.; Ass. 4 C, etc. OE. <hi rend="italic">mǣg</hi>.</p>
+                  <p rend="justify">me, <hi rend="italic">indef. pron.</hi>  one, KH. 1008 C H, 1126 C; F. &amp; B. 671, 672, 699 C., etc. OE. <hi rend="italic">man(n)</hi>.</p>
+                  <p rend="justify">mede, <hi rend="italic">sb.</hi>  mead, meadow, F. &amp; B. 434 C. OE. <hi rend="italic">mǣd</hi>.</p>
+                  <p rend="justify">mede, <hi rend="italic">sb.</hi>  reward, KH. 288 L, 500, 1498 L, Ass. 638 Add. OE. <hi rend="italic">mēd</hi>.</p>
+                  <p rend="justify">meene, <hi rend="italic">v.</hi>  mourn, lament, 1 <hi rend="italic">sing. pres.</hi>  F. &amp; B. 273 T. OE. <hi rend="italic">(bi)mǣnan</hi>.</p>
+                  <p rend="justify">meigne, meyne, <hi rend="italic">see</hi>  maine.</p>
+                  <p rend="justify">meniuer, <hi rend="italic">sb.</hi>  a kind of fur, F. &amp; B. 110 C. Cf. Hausknecht’s Note. Lat. <hi rend="italic">minutus varius</hi>.</p>
+                  <p rend="justify">menske, <hi rend="italic">sb.</hi>  honour, F. &amp; B. 56 T. OE. <hi rend="italic">menniscu</hi>, humanity; Icel. <hi rend="italic">menska</hi>, honour.</p>
+                  <p rend="justify">mesauenture, <hi rend="italic">sb.</hi>  ill luck, KH. 344 C L. OF. <hi rend="italic">aventure</hi>.</p>
+                  <p rend="justify">mest, <hi rend="italic">superl. adj.</hi>  most, KH. 26.</p>
+                  <p rend="justify">mester, mystere, <hi rend="italic">sb.</hi>  (1) office, trade, (2) need, necessity, KH. 243, 581. OF. <hi rend="italic">mestier</hi>.</p>
+                  <p rend="justify">mete, <hi rend="italic">v.</hi>  meet, encounter, 3 <hi rend="italic">plur. pret.</hi>  metten. KH. 169. OE. <hi rend="italic">mētan</hi>.</p>
+                  <p rend="justify">ymete, <hi rend="italic">adj.</hi>  fit, reasonable, KH. 1401 L. OE. <hi rend="italic">gemǣte</hi>.</p>
+                  <p rend="justify">mete, <hi rend="italic">v.</hi>  dream, KH. 1522. OE. <hi rend="italic">mǣtan</hi>.</p>
+                  <p rend="justify">meting, metyng, <hi rend="italic">sb.</hi>  dream, KH. 699. OE. <hi rend="italic">mǣtan</hi>.</p>
+                  <p rend="justify">mid, <hi rend="italic">prep.</hi>  with, KH. 22 L, 25 L, etc. OE. <hi rend="italic">mid</hi>.</p>
+                  <p rend="justify">middelerd, <hi rend="italic">sb.</hi>  earth, world, F. &amp; B. 272 C. OE. <hi rend="italic">middangeard</hi>.</p>
+                  <p rend="justify">misliken, <hi rend="italic">v.</hi>  misplease, KH. 455. OE. <hi rend="italic">mislīcian</hi>.</p>
+                  <p rend="justify">mod, <hi rend="italic">sb.</hi>  mood, mind, KH. 297, 1579 C H. OE. <hi rend="italic">mōd</hi>.</p>
+                  <p rend="justify">modi, mody, <hi rend="italic">adj.</hi>  full of passion, angry, KH. 748. OE. <hi rend="italic">mōdiȝ</hi>.</p>
+                  <p rend="justify">Modi, Mody, KH. 1023, 1094, 1121 L, 1331 L, 1626.</p>
+                  <p rend="justify">molde, <hi rend="italic">sb.</hi>  earth, KH. 335, F. &amp; B. 343 T. OE. <hi rend="italic">molde</hi>.</p>
+                  <p rend="justify">mone, ymone, <hi rend="italic">sb.</hi>  companion, KH. 560, 840 C L. OE. <hi rend="italic">gemāna</hi>.</p>
+                  <p rend="justify">mone, <hi rend="italic">sb.</hi>  companionship, communion, participation, KH. 890 L, 1149 C.</p>
+                  <p rend="justify">mote, moste, <hi rend="italic">v.</hi>  may, might, was to; mote, KH. 197, 218 C, 829; moste, KH. 67 C, 186; munthe (?), KH. 1508 L.</p>
+                  <p rend="justify">Mountargis, F. &amp; B. 66 T. French version, Montoire, 174, 316, etc.</p>
+                  <p rend="justify">murne, <hi rend="italic">adj.</hi>  troubled, KH. 748. OE. <hi rend="italic">(un)murne</hi>.</p>
+                  <p rend="justify">Murry, Murri, morye, moye, moy, Mory, mury, KH. 4, 33, 73, 921, 1431. Cf. Maurius (Maurus), son of Aruiragus, Lay. 9895 ff. He defeats the invading Picts, and sets up a stone with runes to commemorate the victory.</p>
+                  <p rend="justify">nabod  (ne + abod).</p>
+                  <p rend="justify">neb, nebbe, <hi rend="italic">sb.</hi>  face, F. &amp; B. 615 C, 890 T. OE. <hi rend="italic">nebb</hi>.</p>
+                  <p rend="justify">nime, <hi rend="italic">v.</hi>  take; <hi rend="italic">infin.</hi>  nyme, Ass. 121 C; 2 <hi rend="italic">sing. subjunct.</hi>  or <hi rend="italic">imper.</hi>  nym, KH. 1205 L; 1 <hi rend="italic">sing. pres.</hi>  nime, KH. 713 L; 3 <hi rend="italic">sing. pret.</hi>  nam, nom, KH. 619, 1269, Ass. 33 C, 35, 59 Add., etc.; 3 <hi rend="italic">pl. pret.</hi>  neme C, nomen L H, KH. 64; <hi rend="italic">pp.</hi>  ynome, Ass. 6 C; vndernome, F. &amp; B. 128 T, 189 T, 219 T, 227 T, 920 T, etc.; nam = went, Ass. 53 C. Cf. vndernom. OE. <hi rend="italic">niman</hi>.</p>
+                  <p rend="justify">niþing, <hi rend="italic">sb.</hi>  wretch, villain, evil man, KH. 210. OE. <hi rend="italic">nīðing</hi>.</p>
+                  <p rend="justify">noȝ, enough, KH. 196; inoȝe C, hy nowe L, ynowe H. OE. <hi rend="italic">genōh</hi>.</p>
+                  <p rend="justify">nonskyns, <hi rend="italic">adj.</hi>  of no kind, F. &amp; B. 226 T. OE. <hi rend="italic">nānes cynnes</hi>.</p>
+                  <p rend="justify">noþing, <hi rend="italic">adv.</hi>  not at all, KH. 290 C.</p>
+                  <p rend="justify">Nubil, F. &amp; B. 665 C. French, (de) Nubie, 2492.</p>
+                  <p rend="justify">O, <hi rend="italic">prep.</hi>  until, KH. 134 H. OE. <hi rend="italic">oð</hi>.</p>
+                  <p rend="justify">of drede, <hi rend="italic">see</hi>  dreden.</p>
+                  <p rend="justify">of reche, <hi rend="italic">see</hi>  reche.</p>
+                  <p rend="justify">on, <hi rend="italic">prep.</hi>  on, in; on mi lokyng, KH. 360 C; on kneuling, KH. 503 L.</p>
+                  <p rend="justify">onde, <hi rend="italic">sb.</hi>  envy, Ass. 424 C. OE. <hi rend="italic">anda</hi>, <hi rend="italic">onda</hi>.</p>
+                  <p rend="justify">one, <hi rend="italic">sb.</hi>  alone, solitary; hou one KH. 364 L, is one 559 L, go one 559 C, al one C, alon L, ys one H 650. Cf. Bradley-Stratmann.</p>
+                  <p rend="justify">oppe, <hi rend="italic">prep.</hi>  upon, KH. 466, 480 L.</p>
+                  <p rend="justify">or, <hi rend="italic">see</hi>  er, or oþer.</p>
+                  <p rend="justify">ord, <hi rend="italic">sb.</hi>  point, beginning; <hi rend="italic">dat. sing.</hi>  orde C H, horde L, KH. 662; <hi rend="italic">dat. sing.</hi>  ord H, hord L, KH. 1475; <hi rend="italic">accus. sing.</hi>, F. &amp; B. 48 C. OE. <hi rend="italic">ord</hi>.</p>
+                  <p rend="justify">ore, <hi rend="italic">sb.</hi>  favour, grace, KH. 695, 1629 C, F. &amp; B. 173 C. OE. <hi rend="italic">ār</hi>.</p>
+                  <p rend="justify">orfreys, <hi rend="italic">sb.</hi>  orfrey, gold fringe, F. &amp; B. 371 T. OE. <hi rend="italic">orfreis</hi>.</p>
+                  <p rend="justify">Orgas, F. &amp; B. 101 T. French, <hi rend="italic">Li dus Joras</hi>, 357.</p>
+                  <p rend="justify">oþer, <hi rend="italic">num.</hi>  second, KH. 201. OE. <hi rend="italic">ōðer</hi>.</p>
+                  <p rend="justify">oþer, <hi rend="italic">conj.</hi>  or, KH. 44. OE. <hi rend="italic">oððe</hi>.</p>
+                  <p rend="justify">oþer, <hi rend="italic">pr.</hi>  other, KH. 28. OE. <hi rend="italic">ōðer</hi>.</p>
+                  <p rend="justify">otter (buterfliȝe C), <hi rend="italic">sb.</hi>  butterfly (?), F. &amp; B. 772 T.</p>
+                  <p rend="justify">oueral, <hi rend="italic">adv.</hi>  everywhere, KH. 262 H. Cf. Germ. <hi rend="italic">überall</hi>.</p>
+                  <p rend="justify">out londisse, <hi rend="italic">adj.</hi>  foreign, KH. 635 L.</p>
+                  <p rend="justify">ower, <hi rend="italic">gen. plur.</hi>  your, F. &amp; B. 534 C. OE. <hi rend="italic">e͞ower</hi>.</p>
+                  <p rend="justify">paene, <hi rend="italic">adj.</hi>  pagan, KH. 159 C.</p>
+                  <p rend="justify">payn, peynim, payen, pain, paynim, paen, etc., <hi rend="italic">sb.</hi>  paien, pagan, heathen, KH. 45, 63, 82, 87, 193, 935, 948, 950, 1412, etc.</p>
+                  <p rend="justify">paynime, <hi rend="italic">sb.</hi>  heathen land, KH. 859.</p>
+                  <p rend="justify">page, <hi rend="italic">sb.</hi>  boy, servant, KH. 1012 L H, 1379 H. OF. <hi rend="italic">page</hi>.</p>
+                  <p rend="justify">pal, palle, <hi rend="italic">sb.</hi>  costly sort of cloth, F. &amp; B. 822 T, and Cott.; Ass. 631 H, 795 Add. OE. <hi rend="italic">pæll</hi>, OF. <hi rend="italic">pal</hi>.</p>
+                  <p rend="justify">parage, <hi rend="italic">sb.</hi>  high birth, F. &amp; B. 256, 269 C., etc. OF. <hi rend="italic">parage</hi>.</p>
+                  <p rend="justify">paramur, <hi rend="italic">adv.</hi>  passionately, F. &amp; B. 486 C., etc.</p>
+                  <p rend="justify">Paryse, <hi rend="italic">nom. sing.</hi>, F. &amp; B. 168 T. Fr. <hi rend="italic">Paris</hi>, 449, etc.</p>
+                  <p rend="justify">pel, pelle, <hi rend="italic">sb.</hi>  skin, KH. 421, 1582 L. OF. <hi rend="italic">pel</hi>.</p>
+                  <p rend="justify">pelte, pulte, pylte, 3 <hi rend="italic">sing. pret.</hi>  pushed, KH. 1529.</p>
+                  <p rend="justify">pilegrim C, pylegrim L, pelryne H, KH. 1236 pilgrim. OF. <hi rend="italic">pelegrin</hi>.</p>
+                  <p rend="justify">Petir, Petyr, Peter, Petre, Ass. 317, 327, 580, 581, 638, 639, 673 Add., 464, 470, 529 C, 499, 563 H, etc.</p>
+                  <p rend="justify">ipight, <hi rend="italic">pp.</hi>  placed, F. &amp; B. 117, 183 C.</p>
+                  <p rend="justify">pine, pyne, <hi rend="italic">v.</hi>  pain; <hi rend="italic">infin.</hi>  KH. 726 C; 1 <hi rend="italic">sing. pres.</hi>, KH. 1280 L; <hi rend="italic">pp.</hi>  pined C, pyned H, KH. 1280. OE. <hi rend="italic">pīnian</hi>.</p>
+                  <p rend="justify">pyne, <hi rend="italic">sb.</hi>  pain, torture, KH. 277 C H, Ass. 426, 458 Add. OE. <hi rend="italic">pīn</hi>.</p>
+                  <p rend="justify">plawe, <hi rend="italic">sb.</hi>  sport, fight, KH. 1170 H. Cf. Bradley-Stratmann, <hi rend="italic">plaȝe</hi>.</p>
+                  <p rend="justify">pleie, pleye, <hi rend="italic">v.</hi>  play, KH. 25, 200, 363. OE. <hi rend="italic">plegian</hi>.</p>
+                  <p rend="justify">pleing C, pleyhunge L, pleyȝyng H, KH. 34, playing.</p>
+                  <p rend="justify">plener, plenere, <hi rend="italic">adj.</hi>  full, F. &amp; B. 179 C., 188 Cott. OF. <hi rend="italic">plenier</hi>.</p>
+                  <p rend="justify">pliȝte, <hi rend="italic">v.</hi>  plight; <hi rend="italic">infin.</hi>  pliȝte, plyȝte, plyhte, KH. 321; 2 <hi rend="italic">sing. imper.</hi>  plist, plyct, plyht, KH. 440; 1 <hi rend="italic">sing. pres. indic.</hi>  pliȝte C, plicte L, plyhte H, KH. 716; <hi rend="italic">pp.</hi>  ipliȝt, F. &amp; B. 141 C. OE. <hi rend="italic">plihtan</hi>.</p>
+                  <p rend="justify">pomel, <hi rend="italic">sb.</hi>  pommel, F. &amp; B. 209, 213 Cott. OF. <hi rend="italic">pomel</hi>.</p>
+                  <p rend="justify">porter, <hi rend="italic">sb.</hi>  doorkeeper, F. &amp; B. 329 C. OF. <hi rend="italic">portier</hi>.</p>
+                  <p rend="justify">posse, <hi rend="italic">v.</hi>  push; <hi rend="italic">infin.</hi>  KH. 1087 C; 3 <hi rend="italic">sing. pret.</hi>  puste, KH. 1153 H; pugde 1156 L. OF. <hi rend="italic">pousser</hi>.</p>
+                  <p rend="justify">poure, pure, <hi rend="italic">infin.</hi>  pore, look, KH. 1172 C L.</p>
+                  <p rend="justify">prede, <hi rend="italic">sb.</hi>  pride, KH. 1497 L. OE. <hi rend="italic">prȳta</hi>.</p>
+                  <p rend="justify">prime, <hi rend="italic">sb.</hi>  first quarter of the day, name of one of the offices of the Church, after ‘lauds,’ KH. 1040; <hi rend="italic">at prime tide</hi>, KH. 905.</p>
+                  <p rend="justify">pris, prys, <hi rend="italic">sb.</hi>  value, worth, KH. 968 C, F. &amp; B. 310, 350, 750 C., 1028 T. OF. <hi rend="italic">pris</hi>.</p>
+                  <p rend="justify">pruesse, <hi rend="italic">sb.</hi>  brave deed, prowess, KH. 588. OF. <hi rend="italic">proesse</hi>.</p>
+                  <p rend="justify">pugde, <hi rend="italic">see</hi>  posse.</p>
+                  <p rend="justify">quantyse, <hi rend="italic">sb.</hi>  cleverness, F. &amp; B. 543 T.</p>
+                  <p rend="justify">qued, <hi rend="italic">sb.</hi>  bad, Ass. 174 C, 197, 465 Add. etc. OE. <hi rend="italic">cwēd</hi>.</p>
+                  <p rend="justify">quelle, <hi rend="italic">v.</hi>  kill; <hi rend="italic">infin.</hi>  KH. 65, 656 C; 2 <hi rend="italic">sing. imper.</hi>  quel, F. &amp; B. 1008 T, aquel 725 C.; 3 <hi rend="italic">sing. pret.</hi>  quelde, F. &amp; B. 904 T, aquelde KH. 929 L H, aquelde H, quelde C, KH. 1064. OE. <hi rend="italic">cwellan</hi>.</p>
+                  <p rend="justify">queme, <hi rend="italic">v.</hi>  please, KH. 517. OE. <hi rend="italic">cwēman</hi>.</p>
+                  <p rend="justify">queme, <hi rend="italic">adj.</hi>  pleasing, KH. 501 L. OE. <hi rend="italic">(ge)cwēme</hi>.</p>
+                  <p rend="justify">queþe, <hi rend="italic">v.</hi>  say; 3 <hi rend="italic">sing. pret.</hi>  quaþe, quoþ H, KH. 137, etc. OE. <hi rend="italic">cweðan</hi>.</p>
+                  <p rend="justify">quic, quike, <hi rend="italic">adj.</hi>  alive, KH. 92 C, 1468 C, 1478 H. OE. <hi rend="italic">cwic</hi>.</p>
+                  <p rend="justify">quite, aquite, <hi rend="italic">pp.</hi>  through with, quit of, F. &amp; B. 171, 724 C., 180 Cott. OF. <hi rend="italic">aquiter</hi>.</p>
+                  <p rend="justify">qware, where, KH. 735 L.</p>
+                  <p rend="justify">rake, <hi rend="italic">infin.</hi>  hasten, KH. 1126 L, 1158 L. OE. <hi rend="italic">rācian</hi>.</p>
+                  <p rend="justify">rape, <hi rend="italic">sb.</hi>  haste, KH. 586 C, 1532 C.</p>
+                  <p rend="justify">rathe, <hi rend="italic">adv.</hi>  soon, quickly, KH. 1407 L, F. &amp; B. 24 T, 193 T, etc. OE. <hi rend="italic">hræð</hi>.</p>
+                  <p rend="justify">recche, rekke, <hi rend="italic">v.</hi>  reck, care for; 3 <hi rend="italic">sing. pres.</hi>  recche C, reche L, yrecche H, KH. 370; 3 <hi rend="italic">sing. subj.</hi>  arecche, KH. 710 H; 1 <hi rend="italic">sing. pres.</hi>  rekke, F. &amp; B. 96 T. OE. <hi rend="italic">reccan</hi>.</p>
+                  <p rend="justify">reche, areche, ofreche, þorhreche, <hi rend="italic">v.</hi>  reach; <hi rend="italic">infin.</hi>  areche, KH. 1308 C; of reche, gain, KH. 1375 C L; þorhreche, traverse, KH. 1375 H; <hi rend="italic">pp.</hi>  araȝt, F. &amp; B. 687 C, rauȝt F. &amp; B. 974 T. OE. <hi rend="italic">rǣcan</hi>.</p>
+                  <p rend="justify">rede, reed, reede, <hi rend="italic">sb.</hi>  counsel, opinion, F. &amp; B. 45 T, 50 T, 53 T, 314 T, Ass. 294, 298 Add., etc. OE. <hi rend="italic">rǣd</hi>.</p>
+                  <p rend="justify">rede, <hi rend="italic">v.</hi>  (1) read, (2) counsel, advise; <hi rend="italic">infin.</hi>  KH. 308, 511 L, 881, 966 L, F. &amp; B. 21 T, 148, 151 C.; 1 <hi rend="italic">sing. pres.</hi>  KH. 966 C, F. &amp; B. 75 T; <hi rend="italic">pp.</hi>  rad, Ass. 891 Add., irad F. &amp; B. 578 C., yredde 858 T. OE. <hi rend="italic">rǣdan</hi>.</p>
+                  <p rend="justify">rein, <hi rend="italic">sb.</hi>  rain, KH. 11.</p>
+                  <p rend="justify">reme, <hi rend="italic">sb.</hi>  coast (?), OE. <hi rend="italic">rima</hi>; or realm (?), OF. <hi rend="italic">reaume</hi>, KH. 1625 H (reaume 1623 L).</p>
+                  <p rend="justify">rende, <hi rend="italic">see</hi>  erne.</p>
+                  <p rend="justify">rende, <hi rend="italic">v.</hi>  rend, tear; 3 <hi rend="italic">sing. pret.</hi>  rente C H, to rente L, KH. 775.</p>
+                  <p rend="justify">rente, <hi rend="italic">sb.</hi>  pay, wages, KH. 984 C L. OF. <hi rend="italic">rente</hi>.</p>
+                  <p rend="justify">reue, <hi rend="italic">sb.</hi>  reeve, guard, KH. 1418. OE. <hi rend="italic">(ge)rēfa</hi>.</p>
+                  <p rend="justify">reue, reyue, <hi rend="italic">infin.</hi>  rob, plunder, F. &amp; B. 209 C., Ass. 168 Add. OE. <hi rend="italic">re͞afian</hi>.</p>
+                  <p rend="justify">rewe, <hi rend="italic">infin.</hi>  rue, repent, KH. 398. OE. <hi rend="italic">hrēowan</hi>.</p>
+                  <p rend="justify">rewlich, <hi rend="italic">adj.</hi>  sad, KH. 1129. OE. <hi rend="italic">hre͞owlīc</hi>.</p>
+                  <p rend="justify">reyne, ryne, birine, <hi rend="italic">infin.</hi>  rain, KH. 11.</p>
+                  <p rend="justify">Reynes C, reny L, Raynis H, KH. 1023.</p>
+                  <p rend="justify">Reynild, Hermenyl, hermenylde, ermenyld, KH. 973, 1636. ON. <hi rend="italic">Ragnhilda</hi>, OE. Eormenhild, daughter of Eorcenbriht, king of Kent.</p>
+                  <p rend="justify">riche, <hi rend="italic">sb.</hi>  kingdom, KH. 20. OE. <hi rend="italic">rīce</hi>.</p>
+                  <p rend="justify">rigge, <hi rend="italic">sb.</hi>  back, KH. 1138. OE. <hi rend="italic">hrycg</hi>.</p>
+                  <p rend="justify">rime, ryme, <hi rend="italic">sb.</hi>  rime, speech, KH. 860, 1461.</p>
+                  <p rend="justify">rive, <hi rend="italic">adj.</hi>  abundant, F. &amp; B. 73 Cott. OE. <hi rend="italic">rīf</hi>.</p>
+                  <p rend="justify">riuen, ariuen, <hi rend="italic">v.</hi>  arrive, land; <hi rend="italic">infin.</hi>  ariue C, aryue H, KH. 193; <hi rend="italic">pp.</hi>  riued, KH. 162 L, 193 L, ariued, aryued, KH. 40, 162.</p>
+                  <p rend="justify">riȝte, <hi rend="italic">adv.</hi>  direct, at once, KH. 1428 C.</p>
+                  <p rend="justify">roche, <hi rend="italic">sb.</hi>  rock, KH. 79.</p>
+                  <p rend="justify">rode, <hi rend="italic">sb.</hi>  cross, rood, KH. 346, Ass. 12, 19 C, 44 C, 46 Add., 270 C, etc. OE. <hi rend="italic">rōd</hi>.</p>
+                  <p rend="justify">roþer, <hi rend="italic">sb.</hi>  rudder, KH. 202. OE. <hi rend="italic">rōðer</hi>.</p>
+                  <p rend="justify">roune, rowne, <hi rend="italic">sb.</hi>  counsel, KH. 1378. OE. <hi rend="italic">rūn</hi>.</p>
+                  <p rend="justify">runde, rounde, 3 <hi rend="italic">sing. pret.</hi>  whispered, F. &amp; B. 716 C., 999 T. OE. <hi rend="italic">rūnian</hi>.</p>
+                  <p rend="justify">Rymenhild, rimenild, rymenyld, reymnyld, rymenild, reymild, reymyld, Rymyld, rimenyld, etc., KH. 264, 293, 393, 472, 600, 652, 691, 738, 741, 1510, etc. Rimhild, OE. <hi rend="italic">nomen mulieris</hi>.</p>
+                  <p rend="justify">ryue, <hi rend="italic">sb.</hi>  shore, KH. 142.</p>
+                  <p rend="justify">sake, <hi rend="italic">v.</hi>  contend, fight; 3 <hi rend="italic">pl. pret.</hi>  asoke C, forsoken L H, KH. 69, gave up. OE. <hi rend="italic">sacan</hi>.</p>
+                  <p rend="justify">sale, <hi rend="italic">sb.</hi>  hall, KH. 1187 C H. OE. <hi rend="italic">sal</hi>.</p>
+                  <p rend="justify">salyley, scribal error (?), KH. 199 L.</p>
+                  <p rend="justify">Sarazin, sarazyn, KH. 42, 636, 645, 671, 1415, 1477 H, 1479.</p>
+                  <p rend="justify">scene, schene, <hi rend="italic">adj.</hi>  beautiful, KH. 97 L, 178 L, F. &amp; B. 263 C. OE. <hi rend="italic">scēne</hi>.</p>
+                  <p rend="justify">schauntillun, <hi rend="italic">sb.</hi>  model, F. &amp; B. 325 C.</p>
+                  <p rend="justify">schenche, <hi rend="italic">v.</hi>  give, serve, dispense; <hi rend="italic">infin.</hi>  schenche, shenche, KH. 1186; 2 <hi rend="italic">sing. subjunct.</hi>  or <hi rend="italic">imper.</hi>  shenh, KH. 1199 H. OE. <hi rend="italic">scencan</hi>.</p>
+                  <p rend="justify">schende, <hi rend="italic">v.</hi>  (1) scold, (2) injure; <hi rend="italic">infin.</hi>  KH. 747 L, 724; 3 <hi rend="italic">sing. pret.</hi>  schente, schende, shende, KH. 340. OE. <hi rend="italic">scendan</hi>.</p>
+                  <p rend="justify">schete, <hi rend="italic">v.</hi>  shoot, KH. 1011. OE. <hi rend="italic">sce͞otan</hi>.</p>
+                  <p rend="justify">schillen, <hi rend="italic">v.</hi>  sound; 3 <hi rend="italic">sing. pres.</hi>  shilleþ, KH. 224 L. OE. <hi rend="italic">scillan</hi>.</p>
+                  <p rend="justify">schonde, <hi rend="italic">sb.</hi>  harm, disgrace, KH. 746, 760 C, F. &amp; B. 942 T. OE. <hi rend="italic">scand</hi>, <hi rend="italic">sceand</hi>.</p>
+                  <p rend="justify">schrede, <hi rend="italic">v.</hi>  clothe; 3 <hi rend="italic">sing. pret.</hi>  schredde L, sredde H, KH. 625, schredde C L, shredde H, KH. 896; 3 <hi rend="italic">pl. pret.</hi>  schrudde C, schurde L, KH. 1582. OE. <hi rend="italic">scrȳdan</hi>.</p>
+                  <p rend="justify">schrewe, <hi rend="italic">sb.</hi>  shrew, evil person, KH. 60. OE. <hi rend="italic">scre͞awa</hi>, barn mouse.</p>
+                  <p rend="justify">schulle, <hi rend="italic">adv.</hi>  shrill, sonorous, KH. 221 C. OE. <hi rend="italic">scylle</hi>, <hi rend="italic">scelle</hi>.</p>
+                  <p rend="justify">sclauyne, <hi rend="italic">sb.</hi>  pilgrim’s cloak, KH. 1134, 1137, 1310. OF. <hi rend="italic">esclavine</hi>.</p>
+                  <p rend="justify">scrippe, <hi rend="italic">sb.</hi>  scrip, sack, KH. 1141. ON. <hi rend="italic">skreppa</hi>.</p>
+                  <p rend="justify">scur, <hi rend="italic">sb.</hi>  shower, F. &amp; B. 73 Cott. OE. <hi rend="italic">scūr</hi>.</p>
+                  <p rend="justify">sekerly, <hi rend="italic">see</hi>  sikirli.</p>
+                  <p rend="justify">senpere, <hi rend="italic">sb.</hi>  bridge keeper (?), F. &amp; B. 500 T, 513 T.</p>
+                  <p rend="justify">sere, <hi rend="italic">sb.</hi>  apparel (?), contrivance (?), Ass. 704 Add. OE. <hi rend="italic">searo</hi>.</p>
+                  <p rend="justify">seriauns, <hi rend="italic">sb.</hi>  sergeant, man at arms, F. &amp; B. 218 C. OF. <hi rend="italic">sergant</hi>, <hi rend="italic">serjant</hi>.</p>
+                  <p rend="justify">serie, <hi rend="italic">infin.</hi>  dispense, KH. 1489 C. OE. <hi rend="italic">scerwen</hi>, ‘a scattering.’</p>
+                  <p rend="justify">seyne, <hi rend="italic">sb.</hi>  snare, fishing net, KH. 726 L. OE. <hi rend="italic">segne</hi>, OF. <hi rend="italic">seine</hi>.</p>
+                  <p rend="justify">shrelle, <hi rend="italic">infin.</hi>  cry, F. &amp; B. 756 T.</p>
+                  <p rend="justify">sib, sibbe, <hi rend="italic">sb.</hi>  kinsman, kindred, KH. 68, Ass. 181 C, 185 Add., 585 H. OE. <hi rend="italic">sibb</hi>.</p>
+                  <p rend="justify">side, syde, <hi rend="italic">sb.</hi>  (1) side, (2) shore, KH. 35, 145. OE. <hi rend="italic">sīde</hi>.</p>
+                  <p rend="justify">sike, syke, syken, <hi rend="italic">v.</hi>  sigh, KH. 456; 3 <hi rend="italic">sing. pres.</hi>  sykes, F. &amp; B. 113 T; 3 <hi rend="italic">sing. pret.</hi>  syȝt, syȝte, F. &amp; B. 256, 270 T, 417, 431 C. OE. <hi rend="italic">sīcan</hi>.</p>
+                  <p rend="justify">sikirli, sekerly, <hi rend="italic">adv.</hi>  certainly, Ass. 390 Add., F. &amp; B. 92 T. OE. <hi rend="italic">sicor</hi>.</p>
+                  <p rend="justify">siþe, syþe, <hi rend="italic">sb.</hi>  time, KH. 374 C, 1446, F. &amp; B. 196 T. OE. <hi rend="italic">sīð</hi>.</p>
+                  <p rend="justify">sithen, <hi rend="italic">conj.</hi>  since, Ass. 283, 422 Add. OE. <hi rend="italic">siððan</hi>.</p>
+                  <p rend="justify">siþþe, sitthe, sithen, <hi rend="italic">adv.</hi>  afterwards, KH. 1185 C, 1238, Ass. 542 Add., 434 C. OE. <hi rend="italic">siððan</hi>.</p>
+                  <p rend="justify">skeete, soon, quickly, F. &amp; B. 1005 T. OE. <hi rend="italic">scēot</hi>, ON. <hi rend="italic">ski͞otr</hi>.</p>
+                  <p rend="justify">skille, skyle, <hi rend="italic">sb.</hi>  right, reason, Ass. 312 H, 352 Add. Icel. <hi rend="italic">skil</hi>.</p>
+                  <p rend="justify">slitte, <hi rend="italic">sb.</hi>  opening in garment, pocket, F. &amp; B. 348 C.</p>
+                  <p rend="justify">slon, <hi rend="italic">v.</hi>  slay; <hi rend="italic">infin.</hi>  slen C, slon L, slo H, KH. 91, 47; 3 <hi rend="italic">pl. pret.</hi>  sloȝen C, slowe L, slowen H, KH. 195; <hi rend="italic">pp.</hi>  aslaȝe C, yslawe L H, KH. 94. OE. <hi rend="italic">slēan</hi>.</p>
+                  <p rend="justify">sloo, <hi rend="italic">sb.</hi>  slough, Ass. 507 H. OE. <hi rend="italic">slōh</hi>.</p>
+                  <p rend="justify">smerte, <hi rend="italic">v.</hi>  pain, KH. 1602. OE. <hi rend="italic">smeortan</hi>.</p>
+                  <p rend="justify">snelle, <hi rend="italic">adj.</hi>  quick, KH. 1581 C. OE. <hi rend="italic">snell</hi>.</p>
+                  <p rend="justify">so, <hi rend="italic">conj.</hi>  as, KH. 14, 15, etc.</p>
+                  <p rend="justify">soler, <hi rend="italic">sb.</hi>  upper room, summer room, F. &amp; B. 173. OF. <hi rend="italic">solier</hi>, Lat. <hi rend="italic">solarium</hi>.</p>
+                  <p rend="justify">sond, sonde, <hi rend="italic">sb.</hi>  (1) message, (2) dish at table, Ass. 634 H, 798 Add., F. &amp; B. 1072 T.</p>
+                  <p rend="justify">sonde, <hi rend="italic">sb.</hi>  messenger, KH. 281, 287, (ysonde 287 L), 992 H, 1005 C H, etc., F. &amp; B. 796 C., Ass. 106 C, 682 Add. OE. <hi rend="italic">sand</hi>, <hi rend="italic">sond</hi>.</p>
+                  <p rend="justify">sore, <hi rend="italic">sb.</hi>  pain, KH. 75 L H. OE. <hi rend="italic">sār</hi>.</p>
+                  <p rend="justify">sore, <hi rend="italic">adv.</hi>  much, very, KH. 73, 362. OE. <hi rend="italic">sāre</hi>.</p>
+                  <p rend="justify">soth, soþ, soþe, <hi rend="italic">adj.</hi>  true, F. &amp; B. 321 T, etc. OE. <hi rend="italic">sōð</hi>.</p>
+                  <p rend="justify">soune, <hi rend="italic">sb.</hi>  sound, KH. 224 H. Fr. <hi rend="italic">son</hi>.</p>
+                  <p rend="justify">soune, <hi rend="italic">adv.</hi>  clearly, KH. 224 L.</p>
+                  <p rend="justify">Spaine, Spayne, Spaygne, Speine, F. &amp; B. 413, 769 C., 1046 T.</p>
+                  <p rend="justify">spede, <hi rend="italic">sb.</hi>  speed, good luck, KH. 491. OE. <hi rend="italic">spēd</hi>.</p>
+                  <p rend="justify">spede, <hi rend="italic">infin.</hi>  speed, have good fortune, KH. 852 C H, F. &amp; B. 1026 T. OE. <hi rend="italic">speke</hi>, <hi rend="italic">bispac</hi>, <hi rend="italic">spēdan</hi>.</p>
+                  <p rend="justify">spell, spelle, <hi rend="italic">sb.</hi>  tale, KH. 1015 H, 1106. OE. <hi rend="italic">spell</hi>.</p>
+                  <p rend="justify">spille, spylle, <hi rend="italic">v.</hi>  perish, kill, KH. 208, 720 L, F. &amp; B. 1007 T; <hi rend="italic">pp.</hi>  ispild, killed, Ass. 19 C. OE. <hi rend="italic">spillan</hi>.</p>
+                  <p rend="justify">squire, <hi rend="italic">sb.</hi>  square, F. &amp; B. 325 C. OF. <hi rend="italic">esqvarre</hi>.</p>
+                  <p rend="justify">stage, <hi rend="italic">sb.</hi>  upper floor of a house, F. &amp; B. 218, 270 C. OF. <hi rend="italic">estage</hi>.</p>
+                  <p rend="justify">stede, <hi rend="italic">sb.</hi>  horse, steed, KH. 51. OE. <hi rend="italic">stēda</hi>.</p>
+                  <p rend="justify">stede, <hi rend="italic">sb.</hi>  place, KH. 273, Ass. 730, 866 Add. OE. <hi rend="italic">stede</hi>.</p>
+                  <p rend="justify">steke, <hi rend="italic">v.</hi>  pierce; 2 <hi rend="italic">sing. pres.</hi>  stikkest, F. &amp; B. 98 Cott.</p>
+                  <p rend="justify">stere, <hi rend="italic">sb.</hi>  rudder, ship, KH. 107 C, 1471 C. OE. <hi rend="italic">stēor</hi>.</p>
+                  <p rend="justify">stere, <hi rend="italic">v.</hi>  lead, command, KH. 464 C, L. OE. <hi rend="italic">ste͞oran</hi>.</p>
+                  <p rend="justify">sterne, <hi rend="italic">adj.</hi>  stern, insolent, KH. 935 C, 784 H. OE. <hi rend="italic">sterne</hi>, <hi rend="italic">styrne</hi>.</p>
+                  <p rend="justify">sterte, <hi rend="italic">v.</hi>  start, leap, F. &amp; B. 457 C. ON. <hi rend="italic">sterta</hi>.</p>
+                  <p rend="justify">sterue, <hi rend="italic">v.</hi>  die, KH. 829, 980 C, 984 H, 1253 C. OE. <hi rend="italic">steorfan</hi>.</p>
+                  <p rend="justify">steuene, <hi rend="italic">sb.</hi>  voice, KH. 1453 L, F. &amp; B. 54 C., Ass. 73, 239 C, 79, 245 Add., etc. OE. <hi rend="italic">stefn</hi>.</p>
+                  <p rend="justify">steyȝ, 3 <hi rend="italic">sing. pret.</hi>  climbed, F. &amp; B. 892 C. OE. <hi rend="italic">stīgan</hi>.</p>
+                  <p rend="justify">stonde, <hi rend="italic">infin.</hi>  spring up, rise, KH. 809 L, H. Cf. Lay. 20509.</p>
+                  <p rend="justify">stonge, 3 <hi rend="italic">pl. pret.</hi>  pierced, KH. 1475 L H, Ass. 447 Add. OE. <hi rend="italic">stingan</hi>.</p>
+                  <p rend="justify">store, <hi rend="italic">adj.</hi>, <hi rend="italic">nom. plur.</hi>  great, strong, F. &amp; B. 19 C. OE. <hi rend="italic">stor</hi>.</p>
+                  <p rend="justify">stounde, stunde, <hi rend="italic">sb.</hi>  point of time, period of time, F. &amp; B. 327 T, Ass. 635, 727 Add., KH. 181 C, 351, 791, 1030, 1371. OE. <hi rend="italic">stund</hi>.</p>
+                  <p rend="justify">striken, 3 <hi rend="italic">pl. pret.</hi>  struck, stripped (Stratmann)?, striken L H, strike C, KH. 1089. OE. <hi rend="italic">strīcan</hi>.</p>
+                  <p rend="justify">sture, <hi rend="italic">infin.</hi>  stir, move, KH. 1541 H. OE. <hi rend="italic">styrian</hi>.</p>
+                  <p rend="justify">Sture, name of a river, KH. 729, 1551.</p>
+                  <p rend="justify">Suddene, Sodenne, Sudenne, Suddenne, KH. 155, 189, 542, 929, 1062, 1351, 1370, 1389, 1463, 1637.</p>
+                  <p rend="justify">sundry, <hi rend="italic">adj.</hi>  separate, apart, Ass. 148, 364 Add. OE. <hi rend="italic">syndrig</hi>.</p>
+                  <p rend="justify">sune, 2 <hi rend="italic">sing. subj. pres.</hi>  sound, KH. 223 C. OF. <hi rend="italic">soner</hi>.</p>
+                  <p rend="justify">swage, <hi rend="italic">infin.</hi>  assuage, abate, F. &amp; B. 38 T. OF. <hi rend="italic">asuager</hi>.</p>
+                  <p rend="justify">swere, swire, suire, <hi rend="italic">sb.</hi>  neck, KH. 796, 1144, 1291, F. &amp; B. 1016 T. OE. <hi rend="italic">swira</hi>, <hi rend="italic">sweora</hi>.</p>
+                  <p rend="justify">sweting, <hi rend="italic">sb.</hi>  favourite, KH. 234 L.</p>
+                  <p rend="justify">sweuen, <hi rend="italic">sb.</hi>  dream, KH. 710, 723. OE. <hi rend="italic">swefen</hi>.</p>
+                  <p rend="justify">sweuening, <hi rend="italic">sb.</hi>  dream, KH. 774.</p>
+                  <p rend="justify">swike, swyke, <hi rend="italic">infin.</hi>  deceive; biswike C L, bysuyke H, KH. 306; biswike C, swike L, byswyke H, KH. 711. OE. <hi rend="italic">swīcan</hi>.</p>
+                  <p rend="justify">swilc, swihc, such, etc., such. OE. <hi rend="italic">swylce</hi>.</p>
+                  <p rend="justify">swiþe, swyþe, suþe, <hi rend="italic">adv.</hi>  (1) very, KH. 96, 98 L H, 172, 192, etc., Ass. 355 C, F. &amp; B. 87, 280 C.; (2) soon, quickly, rapid, KH. 129 L H, 374 L, 435 L, 289, 845, 1042, etc., F. &amp; B. 148, 308 C., Ass. 612, 671 H, 839 Add., etc. OE. <hi rend="italic">swīðe</hi>.</p>
+                  <p rend="justify">iswoȝe, yswowe, <hi rend="italic">pp.</hi>  in a faint, KH. 458, 914.</p>
+                  <p rend="justify">swoȝning C, swohinge L, swowenynge H, <hi rend="italic">sb.</hi>  fainting spell, swoon, KH. 474.</p>
+                  <p rend="justify">swongen, 3 <hi rend="italic">pl. pret.</hi>  suspended, (?) Ass. 443 Add. OE. <hi rend="italic">swingan</hi>.</p>
+                  <p rend="justify">swymme, swemme, <hi rend="italic">infin.</hi>  move on water, KH. 203. OE. <hi rend="italic">swimman</hi>.</p>
+                  <p rend="justify">take, <hi rend="italic">v.</hi>  take, give, KH. 568, 834, 1134, 1204, F. &amp; B. 207 T, 159 C., Ass. 48, 682 Add., 572 H, etc.; bitak, KH. 839 C, bytoke L, bitoke H, KH. 1179. Cf. teche, biteche. ON. <hi rend="italic">taka</hi>.</p>
+                  <p rend="justify">targeþ, <hi rend="italic">v.</hi>  delay, F. &amp; B. 226 Cott. OF. <hi rend="italic">targier</hi>.</p>
+                  <p rend="justify">te, ten, <hi rend="italic">v.</hi>  draw; <hi rend="italic">infin.</hi>  te, Ass. 282 C, ten KH. 767 T, teon 767 H; 3 <hi rend="italic">sing. pret.</hi>  teȝ, F. &amp; B. 617 C.; 2 <hi rend="italic">sing. imper.</hi>  te, KH. 327 L. OE. <hi rend="italic">tēon</hi>.</p>
+                  <p rend="justify">teche, <hi rend="italic">v.</hi>  usually ‘teach,’ sometimes ‘give’ (cf. take); <hi rend="italic">infin.</hi>  teche, give, Ass. 46 C; 1 <hi rend="italic">sing. pres.</hi>  biteche, KH. 619 L H.</p>
+                  <p rend="justify">tendeþ, <hi rend="italic">v.</hi>  set on fire, burn, F. &amp; B. 672 C. OE. <hi rend="italic">(on)tendan</hi>.</p>
+                  <p rend="justify">tene, teone, <hi rend="italic">sb.</hi>  injustice, harm, KH. 367, 727; anger, F. &amp; B. 902 T. OE. <hi rend="italic">te͞ona</hi>.</p>
+                  <p rend="justify">terme, <hi rend="italic">sb.</hi>  term, period, F. &amp; B. 432 Cambr. OF. <hi rend="italic">terme</hi>.</p>
+                  <p rend="justify">teyse, <hi rend="italic">sb.</hi>  measure of three yards, F. &amp; B. 201, 203 Cott. OF. <hi rend="italic">toise</hi>.</p>
+                  <p rend="justify">þar, <hi rend="italic">v.</hi>  need, KH. 408 L. OE. <hi rend="italic">þearf</hi>.</p>
+                  <p rend="justify">þat, (1) <hi rend="italic">demonstr.</hi>  the, that, KH. 27, 28; (2) <hi rend="italic">rel.</hi>  that, KH. 2, 22; (3) <hi rend="italic">conj.</hi>  that, KH. 33 L; (4) <hi rend="italic">comp. rel.</hi>  him, who, KH. 1064 C.</p>
+                  <p rend="justify">the, <hi rend="italic">infin.</hi>  prosper, thrive, F. &amp; B. 566 T. OE. <hi rend="italic">ðēon</hi>.</p>
+                  <p rend="justify">þinke, <hi rend="italic">v.</hi>  seem; <hi rend="italic">infin.</hi>  KH. 1233; 3 <hi rend="italic">sing. pres.</hi>  þinkþ, KH. 1405 C, etc.; þincheþ, F. &amp; B. 169 C.; of þinke, misplease, repent, <hi rend="italic">infin.</hi>, KH. 112, 1046 C H, 1136. OE. <hi rend="italic">þyncean</hi>.</p>
+                  <p rend="justify">þo, <hi rend="italic">adv.</hi>  then, KH. 52, etc. OE. <hi rend="italic">ða</hi>.</p>
+                  <p rend="justify">þole, þolie, <hi rend="italic">v.</hi>  endure, suffer; <hi rend="italic">infin.</hi>, F. &amp; B. 422, 677, 678, 737 C., Ass. 22, 215 C, 26, 217, 219 Add.; 3 <hi rend="italic">sing. pret.</hi>, F. &amp; B. 580 C., etc. OE. <hi rend="italic">þolian</hi>.</p>
+                  <p rend="justify">Thomas, F. &amp; B. 611 C, 659, 775, 796, 807, 821 Add.</p>
+                  <p rend="justify">þorhreche, <hi rend="italic">see</hi>  reche.</p>
+                  <p rend="justify">þral, þralle, <hi rend="italic">sb.</hi>  slave, thrall, KH. 449. OE. <hi rend="italic">þrǣl</hi>.</p>
+                  <p rend="justify">þroȝe, <hi rend="italic">sb.</hi>  period of time, KH. 354, 1036. OE. <hi rend="italic">þrāge</hi>.</p>
+                  <p rend="justify">þrottene, þrettene, <hi rend="italic">num.</hi>  thirteen. OE. <hi rend="italic">þrēotȳne</hi>.</p>
+                  <p rend="justify">þulke (þe + ulke), the same, F. &amp; B. 746 C., etc.</p>
+                  <p rend="justify">þurston, KH. 875, 1057. Seems to be Norse. A frequent name of Hus Carls. Thurstan (Turstayn) is one of two tax collectors sent by Hardicanute to Worcester.</p>
+                  <p rend="justify">tide, <hi rend="italic">sb.</hi>  time, KH. 1563. OE. <hi rend="italic">tīd</hi>.</p>
+                  <p rend="justify">tide, bitide, <hi rend="italic">v.</hi>  happen, betide; <hi rend="italic">infin.</hi>, KH. 212 L H, 218 C; 3 <hi rend="italic">sing. pres.</hi>, tit, tyt, KH. 1442 L H; bitide, <hi rend="italic">infin.</hi>  KH. 218 L H, 575. OE. <hi rend="italic">tīdian</hi>.</p>
+                  <lg>
+                     <l>Printed on two lines with superfluous “OE.”:</l>
+                     <l>tide, bitide, <hi rend="italic">v.</hi>  happen, betide; <hi rend="italic">infin.</hi>, KH. 212 L H, 218 C; 3 <hi rend="italic">sing. pres.</hi>, OE.</l>
+                     <l>tit, tyt, KH. 1442 L H; bitide, <hi rend="italic">infin.</hi>  KH. 218 L H, 575. OE. <hi rend="italic">tīdian</hi>.</l>
+                  </lg>
+                  <p rend="justify">timing, tymyng, <hi rend="italic">sb.</hi>  success, KH. 1701 C H. OE. <hi rend="italic">tīmian</hi>.</p>
+                  <p rend="justify">tire, tyre, <hi rend="italic">infin.</hi>  tear, F. &amp; B. 736 C., 1017 T. OE. <hi rend="italic">teran</hi>.</p>
+                  <p rend="justify">tiþing, tidinge, etc., <hi rend="italic">sb.</hi>  tiding, KH. 138, 1058, 1318.</p>
+                  <p rend="justify">to, (1) <hi rend="italic">prep.</hi>  to, KH. 2; (2) <hi rend="italic">adv.</hi>  too, KH. 37 L H; (3) <hi rend="italic">prefix</hi>  apart, asunder.</p>
+                  <p rend="justify">to-brake, 3 <hi rend="italic">sing. pret.</hi>  broke apart, F. &amp; B. 133 T.</p>
+                  <p rend="justify">to-draȝe, to drawe, <hi rend="italic">infin.</hi>  draw to pieces (cf. draw and quarter), KH. 1612; 3 <hi rend="italic">pl. pret.</hi>  KH. 195. Cf. <hi rend="italic">alle þa chirchen he to droh</hi>, Lay. 29135 A.</p>
+                  <p rend="justify">toȝenes, <hi rend="italic">see</hi>  ȝen.</p>
+                  <p rend="justify">to-shake, <hi rend="italic">v.</hi>  shake to pieces. Ass. 356 C.</p>
+                  <p rend="justify">trende, 3 <hi rend="italic">sing. pret.</hi>  roll, KH. 460 H. OE. <hi rend="italic">trendan</hi>.</p>
+                  <p rend="justify">trewage, truage, <hi rend="italic">sb.</hi>  tribute, homage, KH. 1618. OF. <hi rend="italic">truage</hi>.</p>
+                  <p rend="justify">trewþe, <hi rend="italic">sb.</hi>  truth, troth, KH. 321. OE. <hi rend="italic">trēowð</hi>.</p>
+                  <p rend="justify">Troye, <hi rend="italic">dat. sing.</hi>, F. &amp; B. 178 T.</p>
+                  <p rend="justify">Tune, <hi rend="italic">sb.</hi>  town, city, KH. 168. OE. <hi rend="italic">tūn</hi>.</p>
+                  <p rend="justify">tweie, tueye, tweyne, <hi rend="italic">num.</hi>  two, twain, KH. 943 H, 955. OE. <hi rend="italic">twēgen</hi>.</p>
+                  <p rend="justify">twie, twye, <hi rend="italic">adv.</hi>  twice, KH. 1570 C L. OE. <hi rend="italic">tuwa</hi>, <hi rend="italic">twiwa</hi>.</p>
+                  <p rend="justify">tytte, 3 <hi rend="italic">sing. pret.</hi>  pull tightly (Bradley-Stratmann).</p>
+                  <p rend="justify">vȝten, <hi rend="italic">sb.</hi>  morning, dawn, KH. 1474. OE. <hi rend="italic">ūhte</hi>.</p>
+                  <p rend="justify">uncuþe, vncouþe, <hi rend="italic">adj.</hi>  unknown, KH. 781. OE. <hi rend="italic">cūð</hi>.</p>
+                  <p rend="justify">vnderfonge, <hi rend="italic">see</hi>  fonge.</p>
+                  <p rend="justify">vnderȝete, <hi rend="italic">v.</hi>  perceive, learn; <hi rend="italic">infin.</hi>  F. &amp; B. 49 T; 3 <hi rend="italic">sing. pret.</hi>  vnderȝat, F. &amp; B. 35 C., etc.; <hi rend="italic">pp.</hi>, F. &amp; B. 292 T, and Cott. 556 C. OE. <hi rend="italic">undergietan</hi>.</p>
+                  <p rend="justify">vndern, <hi rend="italic">sb.</hi>  noon, F. &amp; B. 511 T; ondarne, Cott. OE. <hi rend="italic">undern</hi>.</p>
+                  <p rend="justify">vndernome, <hi rend="italic">pp.</hi>  journeyed, F. &amp; B. 189, 219 T; vndernome, set out, gone, 920 T. Cf. noome, gone, F. &amp; B. 227 T.</p>
+                  <p rend="justify">vndrestode, 3 <hi rend="italic">sing. pret.</hi>  received, Ass. 564 Add.</p>
+                  <p rend="justify">vnmete, <hi rend="italic">adv.</hi>  violently, Ass. 354 C. OE. <hi rend="italic">unmete</hi>.</p>
+                  <p rend="justify">vnmeþ, <hi rend="italic">sb.</hi>  immoderation, F. &amp; B. 675 C. OE. <hi rend="italic">unmet</hi>.</p>
+                  <p rend="justify">vnneþes, <hi rend="italic">adv.</hi>  with difficulty, F. &amp; B. 63 T. OE. <hi rend="italic">une͞aðe</hi>.</p>
+                  <p rend="justify">unorne, <hi rend="italic">adj.</hi>  old, ugly, KH. 348, 1646 C. OE. <hi rend="italic">unorne</hi>.</p>
+                  <p rend="justify">vnpliȝt, <hi rend="italic">sb.</hi>  peril, Ass. 194 Add.</p>
+                  <p rend="justify">unspurne, <hi rend="italic">infin.</hi>  kick open, KH. 1159. OE. <hi rend="italic">spurnan</hi>.</p>
+                  <p rend="justify">vnwemmed, <hi rend="italic">adj.</hi>  spotless, Ass. 537 C. OE. <hi rend="italic">wamm</hi>.</p>
+                  <p rend="justify">vrne, <hi rend="italic">see</hi>  erne.</p>
+                  <p rend="justify">utrage, <hi rend="italic">sb.</hi>  error for truage (?), KH. 1618 L.</p>
+                  <p rend="justify">verde, <hi rend="italic">see</hi>  ferde.</p>
+                  <p rend="justify">verdoune, <hi rend="italic">sb.</hi>  troop, company (?), Ass. 455, 457 H.</p>
+                  <p rend="justify">vertu, <hi rend="italic">sb.</hi>  power, strength, F. &amp; B. 370 T. OF. <hi rend="italic">vertu</hi>.</p>
+                  <p rend="justify">vie, <hi rend="italic">sb.</hi>  life, Ass. 879, 889, 891 Add. OF. <hi rend="italic">vie</hi>.</p>
+                  <p rend="justify">warysoun, <hi rend="italic">sb.</hi>  reward, F. &amp; B. 1051 T, <hi rend="italic">see</hi>  gersume, garisone.</p>
+                  <p rend="justify">wat, water, KH. 634 L.</p>
+                  <p rend="justify">waxe, wexe, <hi rend="italic">v.</hi>  grow, wax; <hi rend="italic">infin.</hi>, KH. 101, 268 C, 312 C; 3 <hi rend="italic">sing. pret.</hi>  wex, KH. 268 L. OE. <hi rend="italic">weaxan</hi>.</p>
+                  <p rend="justify">wed-broþer, <hi rend="italic">sb.</hi>  pledged brother, KH. 300 L. Cf. Lay. 14469 and Note 32209. Sax. Chron. 30, brother by baptism. Wace has for Layamon’s wed-broðer, in one instance ‘cousin,’ in another ‘nephew.’ Cf. also Plummer, Two Saxon Chronicles, p. 25, bottom. ON. <hi rend="italic">veð brōðar</hi>.</p>
+                  <p rend="justify">wedde, <hi rend="italic">v.</hi>  wed, marry; <hi rend="italic">infin.</hi>, KH. 1021; 3 <hi rend="italic">sing. pret.</hi>  wedde (wax mad?); <hi rend="italic">pp.</hi>  wedde, KH. 316 C, L. OE. <hi rend="italic">weddian</hi>.</p>
+                  <p rend="justify">wede, <hi rend="italic">sb.</hi>  clothes, KH. 1132. OE. <hi rend="italic">wǣd</hi>.</p>
+                  <p rend="justify">wel, <hi rend="italic">adv.</hi>, (1) well, KH. 374 etc., (2) very, KH. 74 L, 97 L, 98 C, 131, F. &amp; B. 147 C. OE. <hi rend="italic">wēl</hi>.</p>
+                  <p rend="justify">welde, wolde, <hi rend="italic">infin.</hi>  wield, rule, KH. 324, 452 L, 972 L, F. &amp; B. 207 T. OE. <hi rend="italic">wealdan</hi>.</p>
+                  <p rend="justify">wem, <hi rend="italic">sb.</hi>  spot, stain, Ass. 647 Add. OE. <hi rend="italic">wamm</hi>.</p>
+                  <p rend="justify">wende, <hi rend="italic">v.</hi>  turn, wend, go; <hi rend="italic">infin.</hi>, KH. 971 C L, F. &amp; B. 60 C.; 2 <hi rend="italic">sing. imper.</hi>  went C H, wend L; go, KH. 343, 755 C, 759 C H; <hi rend="italic">pp.</hi>  wend H, I wend C, turned, KH. 1170; went, turned, Ass. 346 Add.; biwente C, bywende L, bywente H; 3 <hi rend="italic">sing. pret.</hi>  turned around, KH. 339. OE. <hi rend="italic">wendan</hi>.</p>
+                  <p rend="justify">wendling, <hi rend="italic">sb.</hi>  vagrant (?), KH. 754 L.</p>
+                  <p rend="justify">wene, <hi rend="italic">v.</hi>  think, KH. 131, 313, 1204, 1207, 1213, 1365. OE. <hi rend="italic">wēnan</hi>.</p>
+                  <p rend="justify">wene, weene, <hi rend="italic">sb.</hi>  (1) thought, F. &amp; B. 651 C.; (2) doubt, F. &amp; B. 197 T, 181 Cott. OE. <hi rend="italic">wēn</hi>.</p>
+                  <p rend="justify">were, 2 <hi rend="italic">sing. pres. subj.</hi>  wear. OE. <hi rend="italic">werian</hi>.</p>
+                  <p rend="justify">werie, werye, <hi rend="italic">infin.</hi>  protect, KH. 839. OE. <hi rend="italic">werian</hi>.</p>
+                  <p rend="justify">werne, wurne, <hi rend="italic">v.</hi>  prevent, KH.; <hi rend="italic">infin.</hi>, KH. 938 L H, 1166 C, 1496 L, 1518 C. OE. <hi rend="italic">wyrnan</hi>.</p>
+                  <p rend="justify">werþe, <hi rend="italic">v.</hi>  become, shall be; 2 <hi rend="italic">sing. pres.</hi>  wurstu C, worstu L, worþest þou H, KH. 342; 3 <hi rend="italic">sing. pres.</hi>  wurþ C, worþ L H, KH. 490, 728. worþe, KH. 509. OE. <hi rend="italic">weorðan</hi>.</p>
+                  <p rend="justify">westernesse, westnesse, westene londe, westnesse londe, westnisse, KH. 172, 182, 228, 808, 993, 1017, 1088 C H, 1268, 1295 C H, 1615 C H.</p>
+                  <p rend="justify">whannes, wenne, whenne, <hi rend="italic">inter. adv.</hi>  whence, KH. 175. OE. <hi rend="italic">hwanne</hi>, <hi rend="italic">hwenne</hi>.</p>
+                  <p rend="justify">weturly, wytterli, <hi rend="italic">adv.</hi>  surely, F. &amp; B. 819 T, Cott. ON. <hi rend="italic">vitrliga</hi>.</p>
+                  <p rend="justify">wif, <hi rend="italic">sb.</hi>  woman, Ass. 18 C. OE. <hi rend="italic">wīf</hi>.</p>
+                  <p rend="justify">wiȝt, <hi rend="italic">sb.</hi>  (1) bit, KH. 535; (2) being, person, KH. 715. OE. <hi rend="italic">wiht</hi>.</p>
+                  <p rend="justify">wis, ywis, <hi rend="italic">adv.</hi>  certainly, indeed; KH. 131 C, 54 L H, 131 L H, 210 C, etc.</p>
+                  <p rend="justify">wise, <hi rend="italic">sb.</hi>  guise, KH. 378. OF. <hi rend="italic">guise</hi>.</p>
+                  <p rend="justify">wise, wisse, <hi rend="italic">v.</hi>  conduct, direct, KH. 253 C, 443, 807 L, 1575. OE. <hi rend="italic">wīsian</hi>.</p>
+                  <p rend="justify">wit, witte, wytte, <hi rend="italic">sb.</hi>  intelligence, understanding, wit, KH. 188, 692 C, 1164. OE. <hi rend="italic">witt</hi>.</p>
+                  <p rend="justify">wite, <hi rend="italic">v.</hi>  1 know; <hi rend="italic">infin.</hi>  KH. 309, 471 L, F. &amp; B. 170, 609, 620 C.; 1 <hi rend="italic">sing. pres.</hi>  wole, Ass. 332 Add.; 2 <hi rend="italic">pl. pres.</hi>  woot, F. &amp; B. 940 T; 2 <hi rend="italic">pl. subj.</hi>  weete, F. &amp; B. 1031 T; 2 <hi rend="italic">sing. subj.</hi>  wite, 755 C.: 3 <hi rend="italic">sing. pret.</hi>  wiste, C L, nust H, KH. 84. Cf. also Ass. 32 C, 240 Add., etc. OE. <hi rend="italic">witan</hi>.</p>
+                  <p rend="justify">wite, iwite, <hi rend="italic">v.</hi>  2 guard, keep; 2 <hi rend="italic">sing. subj.</hi>  white, KH. 1569 H; <hi rend="italic">infin.</hi>  wite, F. &amp; B. 555, 756 C. OE. <hi rend="italic">wītan</hi>, <hi rend="italic">gewītan</hi>.</p>
+                  <p rend="justify">wiþerling C, wiþering L, wytherlyng H, <hi rend="italic">sb.</hi>  enemy, foe, KH. 160.</p>
+                  <p rend="justify">wiþsegge, <hi rend="italic">v.</hi>  deny, KH. 1368. OE. <hi rend="italic">secgan</hi>.</p>
+                  <p rend="justify">wode, <hi rend="italic">adj.</hi>  mad, KH. 950 L. OE. <hi rend="italic">wōd</hi>.</p>
+                  <p rend="justify">woȝe, wowe, awowen, wowen, <hi rend="italic">infin.</hi>  woo, KH. 578, 847, 1517 C. OE. <hi rend="italic">wōgian</hi>.</p>
+                  <p rend="justify">woȝe, wowe, <hi rend="italic">sb.</hi>  wall, KH. 1048. OE. <hi rend="italic">wāg</hi>.</p>
+                  <p rend="justify">wolde, <hi rend="italic">see</hi>  welde.</p>
+                  <p rend="justify">won, <hi rend="italic">sb.</hi>  store, quantity, pomp (?); wiþ ryche won, KH. 962 H, F. &amp; B. 386 C.</p>
+                  <p rend="justify">wonde, <hi rend="italic">v.</hi>  hesitate, delay, KH. 355, 788. OE. <hi rend="italic">wandian</hi>.</p>
+                  <p rend="justify">wone, wonie, wune, <hi rend="italic">v.</hi>  dwell, be accustomed to; <hi rend="italic">infin.</hi>  KH. 783, 1456, F. &amp; B. 218 Cott., Ass. 184 C; <hi rend="italic">pp.</hi>  wonede, KH. 80 L H, iwuned, F. &amp; B. 567 C., etc. OE. <hi rend="italic">wunian</hi>.</p>
+                  <p rend="justify">wone, wune, <hi rend="italic">sb.</hi>  custom, practice, F. &amp; B. 557 C., 90 Cott., Ass. 20 Add. OE. <hi rend="italic">(ge)wuna</hi>.</p>
+                  <p rend="justify">wood, <hi rend="italic">adj.</hi>  mad, F. &amp; B. 936, 994 T. OE. <hi rend="italic">wōd</hi>.</p>
+                  <p rend="justify">worship, <hi rend="italic">sb.</hi>  dignity, honour, F. &amp; B. 1030 T. OE. <hi rend="italic">weorðscipe</hi>.</p>
+                  <p rend="justify">worstu, thou shalt be, <hi rend="italic">see</hi>  werþe.</p>
+                  <p rend="justify">wreche, <hi rend="italic">sb.</hi>  vengeance, KH. 1376. OE. <hi rend="italic">wrǣc</hi>.</p>
+                  <p rend="justify">wreie, wreye, <hi rend="italic">v.</hi>  (1) bewray, (2) accuse, KH. 1338, 1341 L, F. &amp; B. 816 T. biwreie, bewray, accuse, KH. 380 C. OE. <hi rend="italic">wrēgan</hi>.</p>
+                  <p rend="justify">wreke, <hi rend="italic">infin.</hi>  avenge, Ass. 726 Add., F. &amp; B. 919 T; awreke, 640 C. OE. <hi rend="italic">wrecan</hi>.</p>
+                  <p rend="justify">wringe, <hi rend="italic">v.</hi>  wring, twist; <hi rend="italic">infin.</hi>  wringe, wrynge, KH. 1142 H; 3 <hi rend="italic">sing. pret.</hi>  wrong, 1142 C; <hi rend="italic">pr. part.</hi>  wringinde C, wringende L, wryngynde H, KH. 118. OE. <hi rend="italic">wringan</hi>.</p>
+                  <p rend="justify">wroþe, <hi rend="italic">adj.</hi>  fearful, afraid, KH. 366, 1304. OE. <hi rend="italic">wrāð</hi>.</p>
+                  <p rend="justify">wunder, wonder, <hi rend="italic">sb.</hi>  wonder, harm, KH. 1335, 1536. OE. <hi rend="italic">wundor</hi>. Cf. Mätzner, King Horn, 1247 Note, 1422 Note.</p>
+                  <p rend="justify">wyȝte, <hi rend="italic">adj.</hi>  brave, dexterous, KH. 1080 L, 1302 L.</p>
+                  <p rend="justify">wynne, <hi rend="italic">sb.</hi>  joy, pleasure, F. &amp; B. 333 T. OE. <hi rend="italic">wynn</hi>.</p>
+                  <p rend="justify">y-, <hi rend="italic">see</hi>  i-.</p>
+                  <div type="div4">
+                     <head>Differences between this e-text and the printed book</head>
+                     <p rend="justify">Sidenotes giving leaf-and-column information were often abbreviated for space. The forms “lf.” and “bk.” have been silently regularized to “leaf” and “back”. The full word “leaf” has been supplied where missing, except in references to the Trentham MS., where it was consistently omitted in the original.</p>
+                     <p rend="justify">Notes were variously printed in the side margin or at the bottom of the page, depending on space constraints. They have been treated as footnotes or sidenotes according to their function: information about the text or MS. (footnote), leaf- or column numbering (sidenote), narrative summary (sidenote). Where more than one MS was used, narrative sidenotes are shown at the beginning of each group of lines.</p>
+                     <p rend="justify">The recurring words “No gap in MS.” are in the original; they are generally followed by one or more blank lines inserted to keep the texts parallel. The words are retained in <hi rend="italic">King Horn</hi>  to preserve the editor’s line numbering; in the other texts they were retained only when needed to prevent ambiguity.</p>
+                     <p rend="justify">Each page of <hi rend="italic">King Horn</hi>  was divided into three: the Cambridge and Laud versions in adjoining columns, and the Harleian across the bottom, with lines printed in pairs separated by a | divider. For this e-text, the Harleian text has been separated into single lines to match the other two. General sidenotes were originally printed in the Harleian section.</p>
+                     <div type="div5">
+                        <head>Other Texts</head>
+                        <p rend="justify">At time of preparation, the three diagrams shown in the Introduction were available online at The Internet Archive:</p>
+                        <p rend="justify">Wissmann on King Horn:<lb/>
+                           <ptr target="http://www.archive.org/details/dasliedvonkingh00wissgoog"/>  (page n16)</p>
+                        <p rend="justify">Herzog on Floris and Blancheflur in Scandinavia:<lb/>
+                           <ptr target="http://www.archive.org/details/diebeidensagenk00herzgoog"/>  (page n100)</p>
+                        <p rend="justify">Hausknecht on Floris and Blancheflur:<lb/>
+                           <ptr target="http://www.archive.org/details/florisandblaunc00hausgoog"/>  (page n131)</p>
+                        <p rend="justify">In the Introduction to Floris and Blancheflur, the English passages printed alongside the French version are from Hausknecht’s edition.</p>
+                     </div>
+                     <div type="div5">
+                        <head>Inconsistencies</head>
+                        <div type="div6">
+                           <head>Preface:</head>
+                           <p rend="justify">The forms “H Z”, “HZ.” and “H. Z.” (for “Haupt’s Zeitschrift für deutsches Alterthum”) each appear once.</p>
+                           <p rend="justify">The term “X type” (of OE. rime) appears both with and without period, and in both bold and ordinary type.</p>
+                           <p rend="justify">Some references to Hempl’s test have “<hi rend="italic">-wǭ-</hi>, <hi rend="italic">-wō-</hi>” instead of the expected “<hi rend="italic">-wǭ-</hi>, <hi rend="italic">-wọ̄-</hi>”. These are shown as printed.</p>
+                           <p rend="justify">In a few paragraphs, the abbreviation “O.E.” has been silently regularized to “OE.”</p>
+                        </div>
+                        <div type="div6">
+                           <head>General:</head>
+                           <p rend="justify">The abbreviations “V.” and “Cott.” (see beginning of Glossary) refer to the same MS., Cott. Vitell. D. III.</p>
+                           <p rend="justify">“MS. Gg. 4. 27. 2.” is written both with and without final period (full stop).</p>
+                           <p rend="justify">When the editor is writing in his own voice, the Introduction uses “æ” while the notes use “ae”. Middle English is always “æ” (one letter); Latin is always “ae” (two letters).</p>
+                           <p rend="justify">The Laud MS. always has “c<hi rend="italic">r</hi>ist...” instead of the more common “c<hi rend="italic">ri</hi>st...”</p>
+                           <p rend="justify">In the Notes, anomalous quotation marks such as ‘R. H.’ for R. H. (without quotes) are unchanged.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

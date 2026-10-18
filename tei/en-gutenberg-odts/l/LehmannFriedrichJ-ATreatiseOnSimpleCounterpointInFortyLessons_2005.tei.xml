@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Treatise on Simple Counterpoint in Forty Lessons</title>
+            <author>Friedrich J. Lehmann</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T09:30:09Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/l/LehmannFriedrichJ-ATreatiseOnSimpleCounterpointInFortyLessons_2005.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Friedrich J. Lehmann</name>
+               <date>2024-01-04T09:30:09Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>A Treatise on Simple Counterpoint in Forty Lessons</head>
+         <author>Friedrich J. Lehmann</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/l/LehmannFriedrichJ-ATreatiseOnSimpleCounterpointInFortyLessons_2005.odt</p>
+         <p>SEVENTH EDITION</p>
+         <head>A Treatise on<lb/>Simple Counterpoint<lb/>in<lb/>Forty Lessons</head>
+         <p>By</p>
+         <p>Friedrich J. Lehmann</p>
+         <p>Instructor of Theory in the Oberlin Conservatory of Music Author of "Lessons in Harmony"</p>
+         <p>G. SCHIRMER, INC.<lb/>NEW YORK</p>
+         <pb/>
+         <div type="div1">
+            <head>PREFACE</head>
+            <p>The purpose of this work is to supply the need in the Oberlin Conservatory of Music of a text-book on Simple Counterpoint containing a definite assignment of lessons, and affording more practice than usual in combining species.</p>
+            <p>It is a treatise on strict counterpoint, but strict in a limited sense only. In two-part counterpoint with other than the first species in both parts, dissonances are permitted under certain conditions, and in three- and four-part writing the unprepared seventh and ninth, and the six-four chord, are allowed in certain ways.</p>
+            <p>While the illustrations have been written in close score, it is nevertheless urged that all exercises be written out in open score, as the movement of the different parts is thus more clearly seen.</p>
+            <p>The use of the C-clefs is left optional with the teacher.</p>
+            <p>A knowledge of harmony is presupposed, hence nothing is said pertaining to it.</p>
+            <p>The author wishes to express his indebtedness to Professor A.E. Heacox for his help and advice.</p>
+            <p>F.J. LEHMANN.</p>
+            <p>Oberlin, Ohio, <hi rend="italic">Jan. 6, 1907.</hi>
+            </p>
+            <p>TABLE OF CONTENTS</p>
+            <table rend="frame" xml:id="Table1">
+               <row role="label">
+                  <cell> </cell>
+                  <cell rend="start bold">PAGE</cell>
+               </row>
+               <row>
+                  <cell>SIMPLE COUNTERPOINT</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>LESSON I. Definitions and Illustrations.</cell>
+                  <cell>1-2</cell>
+               </row>
+               <row>
+                  <cell>SIMPLE COUNTERPOINT IN TWO PARTS</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>First Species: Note against Note. Examples and Exercises.</cell>
+                  <cell>3-5</cell>
+               </row>
+               <row>
+                  <cell>LESSON II. Second Species: Two Notes against One. Examples and Exercises.</cell>
+                  <cell>6-9</cell>
+               </row>
+               <row>
+                  <cell>LESSON III. Second Species in Both Parts. Examples. Second Species Mixed in Both Parts. Examples and Exercises.</cell>
+                  <cell>9-11</cell>
+               </row>
+               <row>
+                  <cell>LESSON IV. Third Species: Four Notes against One. First Species against Six Notes. Second Species Continuously in Both Parts. Examples and Exercises.</cell>
+                  <cell>11-15</cell>
+               </row>
+               <row>
+                  <cell>LESSON V. Third Species in Both Parts; Mixed. Third Species Continuously in Both Parts. Two Notes against Four; Two against Six; Three against Six. Examples and Exercises.</cell>
+                  <cell>15-17</cell>
+               </row>
+               <row>
+                  <cell>LESSON VI. Fourth Species: Two Notes Syncopated against One. Three Notes Syncopated against One. Two Notes against Four; Two against Six; Three against Six. Examples and Exercises.</cell>
+                  <cell>17-19</cell>
+               </row>
+               <row>
+                  <cell>LESSON VII. Fourth Species (continued). Mixed, in Both Parts. Three Notes Syncopated against One. Examples and Exercises.</cell>
+                  <cell>19-20</cell>
+               </row>
+               <row>
+                  <cell>LESSON VIII. Fourth Species (continued). Two Notes Syncopated against Two; Two against Four; Two against Six; Three against Six. Examples and Exercises.</cell>
+                  <cell>20-22</cell>
+               </row>
+               <row>
+                  <cell>LESSON IX. Fifth Species: Florid Counterpoint. Examples and Exercises.</cell>
+                  <cell>22-24</cell>
+               </row>
+               <row>
+                  <cell>LESSON X. Florid Counterpoint (continued). Combining Fifth Species with Second; with Third; with Fourth; with Fifth. Examples and Exercises.</cell>
+                  <cell>24-25</cell>
+               </row>
+               <row>
+                  <cell>SIMPLE COUNTERPOINT IN THREE PARTS</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>LESSON XI. First Species in All Parts. Examples and Exercises.</cell>
+                  <cell>26-28</cell>
+               </row>
+               <row>
+                  <cell>LESSON XII. Second Species in One Part. Examples and Exercises.</cell>
+                  <cell>28-31</cell>
+               </row>
+               <row>
+                  <cell>LESSON XIII. Second Species in Two or More Parts. First and Second Species Mixed in All Parts. Second Species in All Parts. Examples and Exercises.</cell>
+                  <cell>31-33</cell>
+               </row>
+               <row>
+                  <cell>LESSON XIV. Third Species in One Part. Second Species in All Parts. Examples and Exercises.</cell>
+                  <cell>33-34</cell>
+               </row>
+               <row>
+                  <cell>LESSON XV. Third Species in Two or More Parts. First and Third Species Mixed in All Parts. Examples and Exercises.</cell>
+                  <cell>34-36</cell>
+               </row>
+               <row>
+                  <cell>LESSON XVI. Third Species (continued). Mixing First, Second, and Third Species in All Parts. Third Species in All Parts. Examples and Exercises.</cell>
+                  <cell>36-37</cell>
+               </row>
+               <row>
+                  <cell>LESSON XVII. Fourth Species in One Part. Three Notes Syncopated in One Part. Combining First, Second, and Third Species. Examples, and Exercises.</cell>
+                  <cell>37-39</cell>
+               </row>
+               <row>
+                  <cell>LESSON XVIII. Fourth Species (continued). Mixed in All Parts. Combining First, Second, and Fourth Species, and First, Third, and Fourth. Examples and Exercises.</cell>
+                  <cell>40-41</cell>
+               </row>
+               <row>
+                  <cell>LESSON XIX. Fifth Species in One Part. Examples and Exercises.</cell>
+                  <cell>41</cell>
+               </row>
+               <row>
+                  <cell>LESSON XX. Fifth Species (continued). Combining First, Second, and Fifth; First, Third, and Fifth; First, Fourth, and Fifth; Fifth in Two Parts. Example and Exercises.</cell>
+                  <cell>42-43</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXI. Combining the Various Species: Second, Third, and Fourth; Second, Third, and Fifth; Second, Fourth, and Fifth; Third, Fifth, and Fifth; Fourth, Fifth, and Fifth. Examples and Exercises.</cell>
+                  <cell>44-45</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXII. Fifth Species in All Parts. Examples and Exercises.</cell>
+                  <cell>45</cell>
+               </row>
+               <row>
+                  <cell>SIMPLE COUNTERPOINT IN FOUR PARTS</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>LESSON XXIII. First Species in All Parts. Examples and Exercises.</cell>
+                  <cell>46</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXIV. Second Species in One Part. Examples and Exercises.</cell>
+                  <cell>47</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXV. Third Species in One Part. Second Species Mixed in Three Parts. Examples and Exercises.</cell>
+                  <cell>47-48</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXVI. Third Species (continued). Mixed in Three Parts. Second Species Continuously in Two Parts. Examples and Exercises.</cell>
+                  <cell>48-49</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXVII. Fourth Species in One Part. A Cantus Firmus with First, Second, and Third Species in the Other Three Parts. Examples and Exercises.</cell>
+                  <cell>49-50</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXVIII. Fourth Species (continued). A given Cantus Firmus, with First, Second, and Fourth Species; with First, Third, and Fourth; with Fourth Species Mixed. Examples and Exercises.</cell>
+                  <cell>50-51</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXIX. Fifth Species in One Part. Examples and Exercises.</cell>
+                  <cell>52</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXX. Fifth Species in Two Parts. Mixing Second, Third, and Fourth Species in All Parts. Combining First, Second, Third, and Fourth Species. Examples and Exercises.</cell>
+                  <cell>52-54</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXXI. Fifth Species in Three or Four Parts. Examples and Exercises.</cell>
+                  <cell>54-55</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXXII. Fifth Species in All Parts, with Imitation. Examples and Exercises.</cell>
+                  <cell>55</cell>
+               </row>
+               <row>
+                  <cell>FLORID MELODIES AS CANTI FIRMI</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>LESSON XXXIII. Two-part Florid Counterpoint. Free Harmonization. Examples and Exercises.</cell>
+                  <cell>55-58</cell>
+               </row>
+               <row>
+                  <cell>LESSONS XXXIV and XXXV. Three-part Florid Counterpoint. Free Harmonization. Examples and Exercises.</cell>
+                  <cell>58-59</cell>
+               </row>
+               <row>
+                  <cell>LESSON XXXVI. Three-part Florid Counterpoint (continued). Exercise in Original Writing.</cell>
+                  <cell>59</cell>
+               </row>
+               <row>
+                  <cell>LESSONS XXXVII to XL. Four-part Florid Counterpoint, Example and Exercises.</cell>
+                  <cell>60</cell>
+               </row>
+            </table>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>A Treatise on Simple Counterpoint in Forty Lessons</head>
+            <pb/>
+            <div type="div2">
+               <head>SIMPLE COUNTERPOINT</head>
+               <div type="div3">
+                  <head>LESSON I</head>
+                  <p rend="justify">Counterpoint is the art of combining two or more melodies of equal melodic individuality.</p>
+                  <p rend="justify">In simple counterpoint all parts must remain in the same relative position to one another.</p>
+                  <p rend="justify">The Cantus Firmus is a given melodic phrase that is to receive contrapuntal treatment, that is, one or more parts are to be added above or below it.</p>
+                  <p rend="justify">The Counterpoint is any part other than the Cantus Firmus.</p>
+                  <p rend="justify">Intervals are harmonic or melodic.</p>
+                  <p rend="justify">An Harmonic interval is the difference in pitch between two tones sounding at the same time.</p>
+                  <p rend="justify">A Melodic interval is the difference in pitch between two tones sounded in succession by the same voice. [Fig. 1.]</p>
+                  <table rend="frame" xml:id="Table2">
+                     <row>
+                        <cell>Fig.<lb/>1.</cell>
+                        <cell>Fig. 1.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Harmonic intervals are divided into Consonances and Dissonances.</p>
+                  <p rend="justify">Consonances are classed as perfect or imperfect.</p>
+                  <p rend="justify">The Perfect consonances are the Unison, Fifth, and Octave. [Fig. 2<hi rend="italic">a</hi>.]</p>
+                  <p rend="justify">The Imperfect consonances are the Major and Minor Thirds and Sixths. [Fig. 2<hi rend="italic">b</hi>.]</p>
+                  <p rend="justify">All other intervals are dissonances.</p>
+                  <table rend="frame" xml:id="Table3">
+                     <row>
+                        <cell>Fig.<lb/>2.</cell>
+                        <cell>Fig. 2.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">A Diatonic progression is one in which both name and pitch are changed. [Fig. 3<hi rend="italic">a</hi>.]</p>
+                  <p rend="justify">A Chromatic progression is one in which the pitch is changed a semitone, while the name remains the same. [Fig. 3<hi rend="italic">b</hi>.]</p>
+                  <table rend="frame" xml:id="Table4">
+                     <row>
+                        <cell>Fig.<lb/>3.</cell>
+                        <cell>Fig. 3.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Progression from one chord to another is called Harmonic progression; from one tone to another, Melodic progression.</p>
+                  <p rend="justify">In melodic progression all major, minor, perfect and diminished intervals are allowed except the major and minor seventh. The minor seventh may, however, be used when harmony does not change (<hi rend="italic">a</hi>). [Fig. 4.]</p>
+                  <table rend="frame" xml:id="Table5">
+                     <row>
+                        <cell>Fig.<lb/>4.</cell>
+                        <cell>Fig. 4.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">In counterpoint there are Five Species, or orders. When the counterpoint has one note for each note of the cantus firmus, it is of the First Species (<hi rend="italic">a</hi>); if it has two notes for each note of the cantus firmus, it is the Second Species (<hi rend="italic">b</hi>); if four notes, the Third Species (<hi rend="italic">c</hi>); if two notes syncopated, the Fourth Species (<hi rend="italic">d</hi>); and a mixture of these species is the Fifth Species, or Florid Counterpoint (<hi rend="italic">e</hi>). [Fig. 5.]</p>
+                  <table rend="frame" xml:id="Table6">
+                     <row>
+                        <cell>Fig.<lb/>5.</cell>
+                        <cell>Fig. 5.</cell>
+                     </row>
+                  </table>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SIMPLE COUNTERPOINT IN TWO PARTS</head>
+               <div type="div3">
+                  <head>FIRST SPECIES</head>
+                  <p rend="justify">Two-part counterpoint comprises a cantus firmus and a counterpoint. [Fig. 6.]</p>
+                  <table rend="frame" xml:id="Table7">
+                     <row>
+                        <cell>Fig.<lb/>6.</cell>
+                        <cell>Fig. 6.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Although in two-part counterpoint we have to deal with intervals, rather than harmonies, still the harmonic progressions represented by these intervals should be regarded.</p>
+                  <p rend="justify">The exercises should begin and close with tonic harmony. At the beginning the unison, fifth or octave, and at the close the unison or octave, are permitted. [Fig. 7.]</p>
+                  <table rend="frame" xml:id="Table8">
+                     <row>
+                        <cell>Fig.<lb/>7.</cell>
+                        <cell>Fig. 7.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">After the first measure it is better to use imperfect consonances only. The perfect consonances, however, may be used sparingly when a more melodious counterpoint is thereby obtained.</p>
+                  <p rend="justify">The unison may be used in the first and last measures only. [Fig. 7.]</p>
+                  <p rend="justify">All progressions must be diatonic, and parts should not cross.</p>
+                  <p rend="justify">The repetition of a note in a lower part should be avoided wherever possible. In a higher part, repetition to the extent of three notes in succession is allowed.</p>
+                  <p rend="justify">Do not use more than three thirds or sixths in succession. [Fig. 8.]</p>
+                  <table rend="frame" xml:id="Table9">
+                     <row>
+                        <cell>Fig.<lb/>8.</cell>
+                        <cell>Fig. 8.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Successive similar skips, except the minor third (<hi rend="italic">a</hi>), in one direction, are to be avoided. Successive skips of a fourth are good when the tones are the fifths of the triads on I, IV and vii°. The last tone should return one degree (<hi rend="italic">b</hi>). [Fig. 9.]</p>
+                  <p rend="justify">Do not move more than an octave in one direction in two skips. [Fig. 9<hi rend="italic">c</hi>.]</p>
+                  <table rend="frame" xml:id="Table10">
+                     <row>
+                        <cell>Fig.<lb/>9.</cell>
+                        <cell>Fig. 9.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Covered fifths and octaves, except from I to V, or V to I, are forbidden. [Fig. 10.]</p>
+                  <table rend="frame" xml:id="Table11">
+                     <row>
+                        <cell>Fig.<lb/>10.</cell>
+                        <cell>Fig. 10.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Both parts skipping in contrary motion to a fifth or octave should be avoided in two-part writing. [Fig. 11.]</p>
+                  <table rend="frame" xml:id="Table12">
+                     <row>
+                        <cell>Fig.<lb/>11.</cell>
+                        <cell>Fig. 11.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Avoid consecutive perfect intervals. [Fig. 12.]</p>
+                  <table rend="frame" xml:id="Table13">
+                     <row>
+                        <cell>Fig.<lb/>12.</cell>
+                        <cell>Fig. 12.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The augmented fourth (Tritone) is not only considered bad as a melodic interval by some authorities, but its appearance between different parts in successive intervals is also prohibited. This prohibition, however, holds good only when the chords in which it appears are in fundamental position, as in Fig. 13<hi rend="italic">a</hi>. This is shown by the fact, that if one part skips as at <hi rend="italic">b</hi>, there is no unpleasant effect.</p>
+                  <table rend="frame" xml:id="Table14">
+                     <row>
+                        <cell>Fig.<lb/>13.</cell>
+                        <cell>Fig. 13.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Avoid consecutive major thirds in major keys. In minor keys they are good. [Fig. 14.]</p>
+                  <table rend="frame" xml:id="Table15">
+                     <row>
+                        <cell>Fig.<lb/>14.</cell>
+                        <cell>Fig. 14.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Use adjacent voices in writing, and do not exceed the vocal compass of a voice.</p>
+                  <p rend="justify">Modulation may be resorted to within the exercises, but only to nearly related keys; for example, in C, to G, F, a, e, or d.</p>
+                  <p rend="justify">At the close parts should proceed stepwise to the unison, or octave. [Fig. 15<hi rend="italic">a</hi>.]</p>
+                  <p rend="justify">A close as in Fig. 15<hi rend="italic">b</hi>  may be used occasionally. In this case the leading-tone is better in the higher part.</p>
+                  <table rend="frame" xml:id="Table16">
+                     <row>
+                        <cell>Fig.<lb/>15.</cell>
+                        <cell>Fig. 15.</cell>
+                     </row>
+                  </table>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To each of the following canti firmi write two counterpoints above, and two below.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table17">
+                        <row>
+                           <cell>Fig.<lb/>16.</cell>
+                           <cell>Fig. 16.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON II</head>
+                  <div type="div4">
+                     <head>SECOND SPECIES</head>
+                     <table rend="frame" xml:id="Table18">
+                        <row>
+                           <cell>Fig.<lb/>17.</cell>
+                           <cell>Fig. 17.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">All rules for the first species must be observed.</p>
+                     <p rend="justify">Two notes are written in the counterpoint to one of the cantus firmus, except in the last measure. [Fig. 18<hi rend="italic">a</hi>.] In the last measure but one the first species may sometimes be used. [Fig. 18<hi rend="italic">b</hi>.]</p>
+                     <table rend="frame" xml:id="Table19">
+                        <row>
+                           <cell>Fig.<lb/>18.</cell>
+                           <cell>Fig. 18.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Repetition of a note in any but the first species is forbidden. [Fig. 19.]</p>
+                     <table rend="frame" xml:id="Table20">
+                        <row>
+                           <cell>Fig.<lb/>19.</cell>
+                           <cell>Fig. 19.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The counterpoint may begin on the first or the second half of the measure, preference being given to the second half. When it begins on the first half it must be a unison, fifth, or octave; when on the second half, it may be any consonance. [Fig. 20.]</p>
+                     <table rend="frame" xml:id="Table21">
+                        <row>
+                           <cell>Fig.<lb/>20.</cell>
+                           <cell>Fig. 20.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">After the first measure the interval on the first beat should be an imperfect consonance, as in the first species, but the fifth, or octave, may be used occasionally.</p>
+                     <p rend="justify">In this and succeeding lessons, all notes in the measure not belonging to the harmony implied on the first beat, must be treated as dissonances, e.g., those belonging to the implied harmony may be left by a skip (<hi rend="italic">a</hi>) or stepwise progression (<hi rend="italic">b</hi>) unless dissonant with the cantus firmus; then avoid their use; if foreign to it, whether consonant (<hi rend="italic">c</hi>) with the C.F. or not (<hi rend="italic">d</hi>), they must be treated as embellishments or passing-tones. [Fig. 21.]</p>
+                     <table rend="frame" xml:id="Table22">
+                        <row>
+                           <cell>Fig.<lb/>21.</cell>
+                           <cell>Fig. 21.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The embellishment may be used as follows: when above the principal tone, it may be a semitone (<hi rend="italic">a</hi>) or a whole tone (<hi rend="italic">b</hi>) distant from it; and when below, a semitone (<hi rend="italic">c</hi>). [Fig. 22.]</p>
+                     <table rend="frame" xml:id="Table23">
+                        <row>
+                           <cell>Fig.<lb/>22.</cell>
+                           <cell>Fig. 22.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">When the counterpoint is below the cantus firmus, the fifth of the chord needs special treatment. It is permitted on the weak beat when the lower is treated as an harmonic passing-tone.</p>
+                     <p rend="justify">An harmonic passing-tone is the second of three tones belonging to the same chord. [Fig. 23<hi rend="italic">a</hi>.] While the third tone should be a member of the chord containing the fifth as an harmonic passing-tone, the chord above it may change as in Fig. 23<hi rend="italic">b</hi>.</p>
+                     <p rend="justify">The fifth is permitted on the strong beat when it is only an implied fifth (six-four chord); that is, the third and fifth appear on the strong beat, and the root does not come in until the second half of the measure. [Fig. 23<hi rend="italic">c</hi>.]</p>
+                     <table rend="frame" xml:id="Table24">
+                        <row>
+                           <cell>Fig.<lb/>23.</cell>
+                           <cell>Fig. 23.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The unison is permitted on the weak beat. [Fig. 24.]</p>
+                     <table rend="frame" xml:id="Table25">
+                        <row>
+                           <cell>Fig.<lb/>24.</cell>
+                           <cell>Fig. 24.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Avoid broken-chord effects, that is, do not use more than three tones belonging to the same chord in succession. [Fig. 25.]</p>
+                     <table rend="frame" xml:id="Table26">
+                        <row>
+                           <cell>Fig.<lb/>25.</cell>
+                           <cell>Fig. 25.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Avoid frequent skipping of parts. [Fig. 26.]</p>
+                     <table rend="frame" xml:id="Table27">
+                        <row>
+                           <cell>Fig.<lb/>26.</cell>
+                           <cell>Fig. 26.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Parts may cross occasionally, but should return immediately [Fig. 27.]</p>
+                     <table rend="frame" xml:id="Table28">
+                        <row>
+                           <cell>Fig.<lb/>27.</cell>
+                           <cell>Fig. 27.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Consecutive fifths or octaves on consecutive strong beats are bad; but they are good on the weak beats <hi rend="italic">if the second fifth or octave is approached in the opposite direction from the first</hi>. [Fig. 28.]</p>
+                     <table rend="frame" xml:id="Table29">
+                        <row>
+                           <cell>Fig.<lb/>28.</cell>
+                           <cell>Fig. 28.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">In minor the sixth degree may occasionally be raised on the strong beat, if it is desired to proceed upward to the raised seventh degree. [Fig. 29.]</p>
+                     <table rend="frame" xml:id="Table30">
+                        <row>
+                           <cell>Fig.<lb/>29.</cell>
+                           <cell>Fig. 29.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">In the last measure but one, both the supertonic and leading tone should appear. [Fig. 30.]</p>
+                     <table rend="frame" xml:id="Table31">
+                        <row>
+                           <cell>Fig.<lb/>30.</cell>
+                           <cell>Fig. 30.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">
+                        <hi rend="italic">Three</hi> notes may be written to one of the cantus firmus, as in Fig. 31. For this no new rules are required.</p>
+                     <table rend="frame" xml:id="Table32">
+                        <row>
+                           <cell>Fig.<lb/>31.</cell>
+                           <cell>Fig. 31.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The cadences in Fig. 32 are good. It will be seen that the cadences of the first species may also be used.</p>
+                     <table rend="frame" xml:id="Table33">
+                        <row>
+                           <cell>Fig.<lb/>32.</cell>
+                           <cell>Fig. 32.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write two counterpoints above and two below in the first species.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write two above and two below in the second species.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table34">
+                        <row>
+                           <cell>Fig.<lb/>33.</cell>
+                           <cell>Fig. 33.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON III</head>
+                  <div type="div4">
+                     <head>SECOND SPECIES IN BOTH PARTS[A]</head>
+                     <table rend="frame" xml:id="Table35">
+                        <row>
+                           <cell>Fig.<lb/>34.</cell>
+                           <cell>Fig. 34.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">[A] In this and similar cases the term "species" will be understood as referring simply to the number of notes, or to the note-combinations, of the contrapuntal part or parts in question. "Second species in both parts" means, therefore, that both parts progress in half-notes.</p>
+                     <p rend="justify">When writing second species in both parts no cantus firmus is used, both parts being original. One part begins on the first beat, the other may begin on either the first or second beat. [Fig. 35.]</p>
+                     <table rend="frame" xml:id="Table36">
+                        <row>
+                           <cell>Fig.<lb/>35.</cell>
+                           <cell>Fig. 35.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The interval formed by the two notes appearing on the second beat should be a consonance, or one of the following dissonances: The augmented fourth, the diminished fifth, the minor or diminished seventh when properly resolved, and the perfect fourth when approached in contrary motion.</p>
+                     <p rend="justify">All tones not belonging to the harmony implied on the first beat, must be treated as dissonances. [Fig. 36.]</p>
+                     <table rend="frame" xml:id="Table37">
+                        <row>
+                           <cell>Fig.<lb/>36.</cell>
+                           <cell>Fig. 36.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The seventh or ninth of the implied harmony of a measure, when approached in an upward direction, may be used in either part, provided it is consonant with the other part, or comes within the requirements of the exceptions. [Fig. 37.]</p>
+                     <p rend="justify">The passing major seventh and its root may appear on the weak beat, even when approached in similar motion as in Fig. 37<hi rend="italic">a</hi>. The seventh must then be treated as a passing-tone.</p>
+                     <table rend="frame" xml:id="Table38">
+                        <row>
+                           <cell>Fig.<lb/>37.</cell>
+                           <cell>Fig. 37.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The cadences in Fig. 38 are good when writing second species in both parts. Those having the second species in one part only, may also be used.</p>
+                     <table rend="frame" xml:id="Table39">
+                        <row>
+                           <cell>Fig.<lb/>38.</cell>
+                           <cell>Fig. 38.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Writing the second species in both parts will, in this lesson, be confined to a mixture of the first and second species, as in Fig. 39.</p>
+                     <p rend="justify">In this do not use the second species more than four measures continuously in one part. It will be noticed that the second species may occasionally be used in both parts. In later lessons opportunity will be given to write it continuously in both parts.</p>
+                     <table rend="frame" xml:id="Table40">
+                        <row>
+                           <cell>Fig.<lb/>39.</cell>
+                           <cell>Fig. 39.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">Write two eight-measure phrases mixing the first and second species. [Fig. 39.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi>  write one counterpoint above and one below, three notes to the measure. [Fig. 31.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write one above and one below, in the second species.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table41">
+                        <row>
+                           <cell>Fig.<lb/>40.</cell>
+                           <cell>Fig. 40.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON IV</head>
+                  <div type="div4">
+                     <head>THIRD SPECIES</head>
+                     <table rend="frame" xml:id="Table42">
+                        <row>
+                           <cell>Fig.<lb/>41.</cell>
+                           <cell>Fig. 41.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">In this species, four notes are written in the counterpoint to each note of the cantus firmus. The counterpoint may begin on the first, second, or fourth quarter. The second quarter is, however, the most usual. [Fig. 42.]</p>
+                     <table rend="frame" xml:id="Table43">
+                        <row>
+                           <cell>Fig.<lb/>42.</cell>
+                           <cell>Fig. 42.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The exercises should begin and end with tonic harmony.</p>
+                     <p rend="justify">When the counterpoint begins on the first quarter it must form a perfect consonance with the cantus firmus. When on the second or fourth quarter, any consonance may be used.</p>
+                     <p rend="justify">All previous rules are to be regarded, unless exceptions are made.</p>
+                     <p rend="justify">At least one of the first three quarter-notes of a measure should be left degreewise. [Fig. 43.]</p>
+                     <table rend="frame" xml:id="Table44">
+                        <row>
+                           <cell>Fig.<lb/>43.</cell>
+                           <cell>Fig. 43.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The last quarter of a measure is usually left degreewise. If approached by a skip or by a degreewise progression of at least two quarter-notes, it may be left by a skip in the opposite direction from which it was approached. A skip of a third in the same direction is also good when this skip is preceded by a skip of a third (<hi rend="italic">d</hi>). [Fig. 44.]</p>
+                     <table rend="frame" xml:id="Table45">
+                        <row>
+                           <cell>Fig.<lb/>44.</cell>
+                           <cell>Fig. 44.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Parts may cross occasionally.</p>
+                     <p rend="justify">The use of non-harmonic tones, as in Fig. 45, is good in either part. At <hi rend="italic">a</hi>  the passing-tone, instead of progressing directly to the adjacent chord-tone, skips a third to the other side of it and then returns. The embellishment is treated in the same way, but is most effective when the principal tone is the leading-tone, as at <hi rend="italic">b</hi>. In both cases the counterpoint should continue degreewise through the chord-tone. [Fig. 45.]</p>
+                     <table rend="frame" xml:id="Table46">
+                        <row>
+                           <cell>Fig.<lb/>45.</cell>
+                           <cell>Fig. 45.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The fifth, when in the lower part, may be used on any but the first quarter, provided it is treated as a passing-tone, e.g., approached and left by stepwise progression in one direction.</p>
+                     <table rend="frame" xml:id="Table47">
+                        <row>
+                           <cell>Fig.<lb/>46.</cell>
+                           <cell>Fig. 46.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Consecutive fifths and octaves are forbidden when appearing on the accented beats of successive measures; between prominent notes of successive measures not more than four quarters apart; and between a prominent note of one measure and the first quarter of the next. [Fig. 47.]</p>
+                     <table rend="frame" xml:id="Table48">
+                        <row>
+                           <cell>Fig.<lb/>47.</cell>
+                           <cell>Fig. 47.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Oblique motion to the unison is bad. It is permitted if it continues in the same direction through the unison. [Fig. 48.]</p>
+                     <table rend="frame" xml:id="Table49">
+                        <row>
+                           <cell>Fig.<lb/>48.</cell>
+                           <cell>Fig. 48.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The unison may be used on any but the first quarter of a measure.</p>
+                     <p rend="justify">Frequent repetition of a figure as in Fig. 49  is not good.</p>
+                     <table rend="frame" xml:id="Table50">
+                        <row>
+                           <cell>Fig.<lb/>49.</cell>
+                           <cell>Fig. 49.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The embellishment may be used either above or below, whether a semitone or a whole tone; but when it is a whole tone below, it is most satisfactory as the ninth of the implied chord. [Fig. 50.]</p>
+                     <table rend="frame" xml:id="Table51">
+                        <row>
+                           <cell>Fig.<lb/>50.</cell>
+                           <cell>Fig. 50.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">In minor the sixth and seventh degrees of the scale are raised both ascending and descending, when used in harmonies containing the leading-tone as a chord-tone. They are unaltered both ascending and descending in harmonies containing the sixth degree of the scale as a chord-tone. In other harmonies they are raised in ascending only.</p>
+                     <p rend="justify">The sixth or seventh degrees may be chromatically altered with only one note intervening. [Fig. 51.]</p>
+                     <table rend="frame" xml:id="Table52">
+                        <row>
+                           <cell>Fig.<lb/>51.</cell>
+                           <cell>Fig. 51.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Six notes may be written to one of the cantus firmus, as in Fig. 52.</p>
+                     <table rend="frame" xml:id="Table53">
+                        <row>
+                           <cell>Fig.<lb/>52.</cell>
+                           <cell>Fig. 52.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The cadences in Fig. 53 are good.</p>
+                     <table rend="frame" xml:id="Table54">
+                        <row>
+                           <cell>Fig.<lb/>53.</cell>
+                           <cell>Fig. 53.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write three counterpoints above and three below, in the third species.</p>
+                     <p rend="justify">Write two eight-measure phrases, using second species continuously in both parts. [Fig. 34.]</p>
+                  </div>
+                  <div type="div4">
+                     <head>Cantus Firmus</head>
+                     <table rend="frame" xml:id="Table55">
+                        <row>
+                           <cell>Fig.<lb/>54.</cell>
+                           <cell>Fig. 54.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON V</head>
+                  <div type="div4">
+                     <head>THIRD SPECIES IN BOTH PARTS</head>
+                     <table rend="frame" xml:id="Table56">
+                        <row>
+                           <cell>Fig.<lb/>55.</cell>
+                           <cell>Fig. 55.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The suggestions given for writing second species in both parts apply here, except that when both parts move degreewise, any interval may come on the second and fourth quarters, preferably a consonance. The third quarter is treated the same as the second half when writing the second species in both parts.</p>
+                     <p rend="justify">The augmented fourth, and diminished fifth and seventh, may be approached in similar motion. [Fig. 56.]</p>
+                     <table rend="frame" xml:id="Table57">
+                        <row>
+                           <cell>Fig.<lb/>56.</cell>
+                           <cell>Fig. 56.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The augmented fourth following the perfect fourth, as in Fig. 56<hi rend="italic">a</hi>, is good.</p>
+                     <p rend="justify">The minor seventh, and the major and minor ninth of a chord, may be used freely on any but the first quarter, but must be consonant with the other part. [Fig. 57.]</p>
+                     <table rend="frame" xml:id="Table58">
+                        <row>
+                           <cell>Fig.<lb/>57.</cell>
+                           <cell>Fig. 57.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The first and third species may be mixed, as in Fig. 58.</p>
+                     <table rend="frame" xml:id="Table59">
+                        <row>
+                           <cell>Fig.<lb/>58.</cell>
+                           <cell>Fig. 58.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The second species may be used in one part and the third in the other, also six notes in one part and two in the other, and six in one and three in the other. All tones appearing simultaneously, must comply with the suggestions for tones appearing on the weak beat given in previous lessons, where both parts have other than the first species. [Fig. 59.]</p>
+                     <table rend="frame" xml:id="Table60">
+                        <row>
+                           <cell>Fig.<lb/>59.</cell>
+                           <cell>Fig. 59.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The cadences in Fig. 60 are good, and will suggest others.</p>
+                     <table rend="frame" xml:id="Table61">
+                        <row>
+                           <cell>Fig.<lb/>60.</cell>
+                           <cell>Fig. 60.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write one counterpoint above and one below, in the third species.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write counterpoints in six notes, one above and one below. [Fig. 52.]</p>
+                     <p rend="justify">Write one eight-measure phrase, mixing the first and third species. [Fig. 58.]</p>
+                     <p rend="justify">Write two eight-measure phrases, using third species in both parts. [Fig. 55.]</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table62">
+                        <row>
+                           <cell>Fig.<lb/>61.</cell>
+                           <cell>Fig. 61.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON VI</head>
+                  <div type="div4">
+                     <head>FOURTH SPECIES</head>
+                     <table rend="frame" xml:id="Table63">
+                        <row>
+                           <cell>Fig.<lb/>62.</cell>
+                           <cell>Fig. 62.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">This species is the same as the second, except that the last note of the measure is tied to the first note of the next, forming a syncopation. As in the second species, the first note of the counterpoint should form a unison, octave or fifth, and when the counterpoint begins on the second half it may also be an imperfect consonance.</p>
+                     <p rend="justify">When the counterpoint begins on the first half, the second half is treated the same as the second half of succeeding measures, described in the next paragraph.</p>
+                     <p rend="justify">After the first measure, the second half of the measure should contain a consonance (Fig. 63<hi rend="italic">a</hi>), the first half a consonance (<hi rend="italic">b</hi>), or dissonance (<hi rend="italic">c</hi>), preferably the latter, in which case a suspension is formed. This is the most desirable form of syncopation. When the first half contains a dissonance, the counterpoint must descend—or ascend in retardation (<hi rend="italic">d</hi>)—one degree to an imperfect consonance (<hi rend="italic">c</hi>). When the first half is a consonance, it may be left by a skip to some other chord-tone (<hi rend="italic">e</hi>), or by degreewise progression (<hi rend="italic">f</hi>). In the latter case the second note is non-harmonic, and therefore should not be used to prepare a syncopation except as in Fig. 63<hi rend="italic">d</hi>  (Retardation of the root in I<hi rend="sub">6</hi>).</p>
+                     <table rend="frame" xml:id="Table64">
+                        <row>
+                           <cell>Fig.<lb/>63.</cell>
+                           <cell>Fig. 63.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">When writing three notes to one in the fourth species, the suspension may resolve on the second beat (<hi rend="italic">a</hi>), or the third (<hi rend="italic">b</hi>). In the latter case, the suspension skips (<hi rend="italic">c</hi>) to some other chord-tone, before resolving. The resolution to the leading-tone (<hi rend="italic">d</hi>) forms an important exception to this rule. [Fig. 64.]</p>
+                     <table rend="frame" xml:id="Table65">
+                        <row>
+                           <cell>Fig.<lb/>64.</cell>
+                           <cell>Fig. 64.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The fifth may be used in the lower part if it becomes the preparation of a suspension (Fig. 65<hi rend="italic">a</hi>). It may also be used in the lower part, as in Fig. 65<hi rend="italic">b</hi>, provided it resolves by skipping to the third of the chord.</p>
+                     <p rend="justify">In skipping from the fifth to the root, or the reverse, in the lower part, do so in an upward direction. The fifth, when treated as an harmonic passing-tone, may, however, be approached either ascending or descending.</p>
+                     <table rend="frame" xml:id="Table66">
+                        <row>
+                           <cell>Fig.<lb/>65.</cell>
+                           <cell>Fig. 65.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The retardation should be used only when prepared by the leading-tone. It rises a semitone in resolving. [Fig. 66.]</p>
+                     <table rend="frame" xml:id="Table67">
+                        <row>
+                           <cell>Fig.<lb/>66.</cell>
+                           <cell>Fig. 66.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The following dissonant intervals may be used on the first half of the measure:—When the counterpoint is above, the fourth and seventh in suspension, and second and fifth in retardation; and when below, the second in suspension, and the fourth and seventh in retardation. [Fig. 67.]</p>
+                     <table rend="frame" xml:id="Table68">
+                        <row>
+                           <cell>Fig.<lb/>67.</cell>
+                           <cell>Fig. 67.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Consecutive fifths on consecutive strong beats of the measure are good when one of the tones of the second fifth is prepared, as in Fig. 68.</p>
+                     <table rend="frame" xml:id="Table69">
+                        <row>
+                           <cell>Fig.<lb/>68.</cell>
+                           <cell>Fig. 68.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The following cadences are good:</p>
+                     <table rend="frame" xml:id="Table70">
+                        <row>
+                           <cell>Fig.<lb/>69.</cell>
+                           <cell>Fig. 69.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">Write one eight-measure phrase with two notes to the measure in one part and six in the other; one with three notes in one and six in the other; and one with two notes in one part and four in the other. (Fig. 59.) In combining the species in this and succeeding lessons the student may place any species in any part.</p>
+                     <p rend="justify">To the cantus firmus write two counterpoints above and two below, in the fourth species.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Cantus Firmus</head>
+                     <table rend="frame" xml:id="Table71">
+                        <row>
+                           <cell>Fig.<lb/>70.</cell>
+                           <cell>Fig. 70.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON VII</head>
+                  <div type="div4">
+                     <head>FOURTH SPECIES (Continued)</head>
+                     <p rend="justify">The first and fourth species may be mixed as in Fig. 71. Rules for writing other than the first species in both parts are to be regarded.</p>
+                     <table rend="frame" xml:id="Table72">
+                        <row>
+                           <cell>Fig.<lb/>71.</cell>
+                           <cell>Fig. 71.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write two counterpoints above and two below, in the fourth species.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write two above and two below, three half-notes to the measure, with syncopations.</p>
+                     <p rend="justify">Write two eight-measure phrases, mixing the first and fourth species.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table73">
+                        <row>
+                           <cell>Fig.<lb/>72.</cell>
+                           <cell>Fig. 72.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON VIII</head>
+                  <div type="div4">
+                     <head>COMBINING THE FOURTH SPECIES WITH THE OTHERS</head>
+                     <p rend="justify">All previous rules for combining species still apply.</p>
+                     <p rend="justify">In combining the fourth species with other than the first, the following intervals may be used on the first half of the measure, in addition to those mentioned in Lesson VI: When the counterpoint is below, the fourth, fifth and seventh in suspension, and the ninth in retardation; and when above, the fifth in suspension, and the seventh in retardation; but in every such case the part having other than the fourth species must skip to some other chord-tone before resolving the suspension. [Fig. 73.]</p>
+                     <table rend="frame" xml:id="Table74">
+                        <row>
+                           <cell>Fig.<lb/>73.</cell>
+                           <cell>Fig. 73.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The leading-tone may be doubled as in Fig. 74. Here the leading-tone that is prepared skips to some other chord-tone, while the new leading-tone remains stationary.</p>
+                     <table rend="frame" xml:id="Table75">
+                        <row>
+                           <cell>Fig.<lb/>74.</cell>
+                           <cell>Fig. 74.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The minor or diminished seventh, major or minor ninth, may be used as preparation of a suspension in either part, provided it is approached by a skip in an upward direction, and is consonant with the other part, or is one of the permitted dissonances. [Fig. 75.]</p>
+                     <table rend="frame" xml:id="Table76">
+                        <row>
+                           <cell>Fig.<lb/>75.</cell>
+                           <cell>Fig. 75.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The fourth species may be combined with the second or third species, and two or three notes syncopated may be written in one part with six in the other. [Fig. 76.]</p>
+                     <table rend="frame" xml:id="Table77">
+                        <row>
+                           <cell>Fig.<lb/>76.</cell>
+                           <cell>Fig. 76.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To the cantus firmus write one counterpoint above and one below, in the fourth species.</p>
+                     <p rend="justify">Write one eight-measure phrase each, of the following combinations: The fourth species with the second; the fourth with the third; two notes syncopated against six notes; and three notes syncopated against six notes. Write some in major and some in minor. [Fig. 76.]</p>
+                  </div>
+                  <div type="div4">
+                     <head>Cantus Firmus</head>
+                     <table rend="frame" xml:id="Table78">
+                        <row>
+                           <cell>Fig.<lb/>77.</cell>
+                           <cell>Fig. 77.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON IX</head>
+                  <div type="div4">
+                     <head>FIFTH SPECIES: FLORID COUNTERPOINT</head>
+                     <table rend="frame" xml:id="Table79">
+                        <row>
+                           <cell>Fig.<lb/>78.</cell>
+                           <cell>Fig. 78.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Florid counterpoint is a mixture of the second, third and fourth species.</p>
+                     <p rend="justify">In addition to these species eighth-notes may be used in groups of two on the second and fourth quarters of the measure. Both notes should be approached and left stepwise, with the exception that the first may be taken by a skip. [Fig. 79.]</p>
+                     <table rend="frame" xml:id="Table80">
+                        <row>
+                           <cell>Fig.<lb/>79.</cell>
+                           <cell>Fig. 79.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Not more than one and one-half measures of any one species should be used continuously in one part. [Fig. 80.]</p>
+                     <table rend="frame" xml:id="Table81">
+                        <row>
+                           <cell>Fig.<lb/>80.</cell>
+                           <cell>Fig. 80.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">In the use of quarter-notes it is necessary to exercise care. They may be used on the first half when preceded by quarter-notes, when the entire measure is filled, or when they precede a half-note which is the preparation of a suspension. On the second half they are always good. [Fig. 81.]</p>
+                     <table rend="frame" xml:id="Table82">
+                        <row>
+                           <cell>Fig.<lb/>81.</cell>
+                           <cell>Fig. 81.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">For the present the suspension should not be less than a half-note or its rhythmic equivalent in the ornamental resolution.</p>
+                     <p rend="justify">In this species the suspension may resolve ornamentally, that is, it may have some note or notes interpolated between the suspension and its resolution. The relative position of the suspension and its resolution must remain the same as in the regular resolution. [Fig. 82.]</p>
+                     <p rend="justify">When the suspension is left by a leap, the note skipped to should be consonant with the other part (<hi rend="italic">b</hi>). When eighth-notes are used, as at <hi rend="italic">a</hi>, they must be approached and left stepwise.</p>
+                     <p rend="justify">The suspension, instead of being sustained as a half-note, may be repeated on the second quarter, as at <hi rend="italic">c</hi>. In this case it is best to continue stepwise through the tone of resolution.</p>
+                     <p rend="justify">At <hi rend="italic">d</hi>  the resolution, instead of coming on the second half, appears on the quarters on either side. This is good.</p>
+                     <table rend="frame" xml:id="Table83">
+                        <row>
+                           <cell>Fig.<lb/>82.</cell>
+                           <cell>Fig. 82.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The ornamental resolution may be used in either part.</p>
+                     <p rend="justify">Use the suspension freely.</p>
+                     <p rend="justify">The solutions should be musical, and are to be written over and over again until such are secured.</p>
+                     <p rend="justify">All cadences of the second, third and fourth species, or any combination of these, may be used.</p>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To canti firmi <hi rend="italic">a</hi> and <hi rend="italic">b</hi> write two counterpoints above and two below, in the fifth species</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table84">
+                        <row>
+                           <cell>Fig.<lb/>83.</cell>
+                           <cell>Fig. 83.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON X</head>
+                  <div type="div4">
+                     <head>FLORID COUNTERPOINT (Continued)</head>
+                     <p rend="justify">When florid counterpoint is combined with other than first species, the dotted half followed by a quarter-note (<hi rend="italic">a</hi>), or two eighth-notes (<hi rend="italic">b</hi>), is good. Also, a rhythmic figure, as at <hi rend="italic">c</hi>, where a half-note occupies the second and third quarters, may be used. [Fig. 84.]</p>
+                     <table rend="frame" xml:id="Table85">
+                        <row>
+                           <cell>Fig.<lb/>84.</cell>
+                           <cell>Fig. 84.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">Write one eight-measure phrase, each, of the following combinations: The fifth species with the second; the fifth with the third; and the fifth with the fourth. Write also two eight-measure phrases with fifth species in both parts. [Fig. 85.]</p>
+                     <table rend="frame" xml:id="Table86">
+                        <row>
+                           <cell>Fig.<lb/>85.</cell>
+                           <cell>Fig. 85.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SIMPLE COUNTERPOINT IN THREE PARTS</head>
+               <div type="div3">
+                  <head>LESSON XI</head>
+                  <div type="div4">
+                     <head>FIRST SPECIES</head>
+                     <table rend="frame" xml:id="Table87">
+                        <row>
+                           <cell>Fig.<lb/>86.</cell>
+                           <cell>Fig. 86.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Regard all rules for two-part counterpoint, unless otherwise mentioned.</p>
+                     <p rend="justify">If possible, each measure should contain a complete chord. When in the first species it becomes necessary to double an interval, let it be preferably the root. The third should be doubled only when a decidedly smoother melodic progression is thereby obtained; and when both thirds are in outer parts, each should be approached and left stepwise in one direction (Fig. 87). The doubling of the fifth is, of course, impossible, since it necessitates the omission of the third.</p>
+                     <table rend="frame" xml:id="Table88">
+                        <row>
+                           <cell>Fig.<lb/>87.</cell>
+                           <cell>Fig. 87.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">All triads may be used in their first inversion.</p>
+                     <p rend="justify">Diminished and augmented triads, however, are best used in their first inversion.</p>
+                     <p rend="justify">The six-four chord may be used at the close as the cadencing tonic six-four chord. Do not approach the root and fifth in similar motion, as at <hi rend="italic">b</hi>. [Fig. 88.]</p>
+                     <table rend="frame" xml:id="Table89">
+                        <row>
+                           <cell>Fig.<lb/>88.</cell>
+                           <cell>Fig. 88.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The dominant seventh may be used in any but its second inversion, the fifth being omitted.[A] The seventh requires no preparation. Other chords of the seventh are better not used until second species and later.</p>
+                     <p rend="justify">If possible, let the chord in the first measure appear complete. The last chord but one should be complete, unless some form of V or V<hi rend="sub">7</hi>  is used. [Fig. 89.]</p>
+                     <table rend="frame" xml:id="Table90">
+                        <row>
+                           <cell>Fig.<lb/>89.</cell>
+                           <cell>Fig. 89.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Consecutive major thirds may be used when three or more parts are employed. [Fig. 90.]</p>
+                     <table rend="frame" xml:id="Table91">
+                        <row>
+                           <cell>Fig.<lb/>90.</cell>
+                           <cell>Fig. 90.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">A note may now be repeated in the lowest part when it becomes the seventh of a dominant seventh-chord. [Fig. 91.]</p>
+                     <table rend="frame" xml:id="Table92">
+                        <row>
+                           <cell>Fig.<lb/>91.</cell>
+                           <cell>Fig. 91.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">In writing, use soprano, alto and tenor, or alto, tenor and bass; and do not separate upper parts more than an octave. For a chord or two they may (for the sake of better voice-leading) separate a tenth.</p>
+                     <p rend="justify">All hidden fifths and octaves are bad, except between I and V and V and I. [Fig. 92<hi rend="italic">a</hi>, <hi rend="italic">b</hi>.]</p>
+                     <p rend="justify">[A]  In severely strict counterpoint all parts above the lowest must be consonant with it. Dissonances, when entering simultaneously with it, must be treated as suspensions, and when used in the progression of a part from one chord to another, should be treated as passing-tones or embellishments. This excludes the use of the unprepared seventh and ninth; all diminished and augmented triads except in their first inversion; and all six-four chords, except when the lowest part is treated as a passing-tone.</p>
+                     <p rend="justify">The perfect fifth following the diminished fifth is good when taken in an upward direction stepwise in the higher parts. [Fig. 92<hi rend="italic">c</hi>.]</p>
+                     <table rend="frame" xml:id="Table93">
+                        <row>
+                           <cell>Fig.<lb/>92.</cell>
+                           <cell>Fig. 92.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">All cadences used in harmony are good.</p>
+                     <p rend="justify">Unless otherwise mentioned, put the cantus firmus in any part, but avoid its continued use in the same part.</p>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To canti firmi <hi rend="italic">a</hi> and <hi rend="italic">b</hi> write the first species in all parts. Write each three times, setting the cantus firmus in a different part in each solution. This necessitates transposing the cantus firmus, when setting it in the other parts.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table94">
+                        <row>
+                           <cell>Fig.<lb/>93.</cell>
+                           <cell>Fig. 93.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XII</head>
+                  <div type="div4">
+                     <head>THE SECOND SPECIES</head>
+                     <table rend="frame" xml:id="Table95">
+                        <row>
+                           <cell>Fig.<lb/>94.</cell>
+                           <cell>Fig. 94.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The second species is written in one part and the first in the other two.</p>
+                     <p rend="justify">All suggestions made for the second species in two-part counterpoint are to be observed, unless otherwise mentioned. Those regarding consecutive perfect intervals are especially to be observed.</p>
+                     <p rend="justify">The fifth, when in the lowest voice, should be used as in two-part counterpoint, except when used in V<hi rend="sup">4</hi>
+                        <hi rend="sub">3</hi>  or the cadencing tonic six-four chord.</p>
+                     <p rend="justify">The V<hi rend="sup">4</hi>
+                        <hi rend="sub">3</hi>  chord may be used on the weak beat, necessitating the omission of the third. [Fig. 95<hi rend="italic">a</hi>.]</p>
+                     <p rend="justify">The third may be omitted (<hi rend="italic">b</hi>), or doubled (<hi rend="italic">c</hi>), on the weak beat in this and succeeding species. [Fig. 95.]</p>
+                     <table rend="frame" xml:id="Table96">
+                        <row>
+                           <cell>Fig.<lb/>95.</cell>
+                           <cell>Fig. 95.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The minor or diminished seventh may be approached by a skip in an upward direction on the weak beat in any part. This usually necessitates the omission of some other chord-member on the weak beat.</p>
+                     <p rend="justify">The major or minor ninth may also be used in the same way, except in the lowest part, provided it is at least a ninth above the root. [Fig. 96.]</p>
+                     <table rend="frame" xml:id="Table97">
+                        <row>
+                           <cell>Fig.<lb/>96.</cell>
+                           <cell>Fig. 96.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The progression from vii°<hi rend="sub">6</hi> to V in root-position or any inversion in the same measure, is good. [Fig. 97.] Use <hi rend="italic">b</hi> and <hi rend="italic">c</hi> only when using other than first species in two or more parts.</p>
+                     <table rend="frame" xml:id="Table98">
+                        <row>
+                           <cell>Fig.<lb/>97.</cell>
+                           <cell>Fig. 97.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Each measure should usually contain a complete chord. If not complete on the first beat, bring the missing interval in on the second. [Fig. 98.]</p>
+                     <table rend="frame" xml:id="Table99">
+                        <row>
+                           <cell>Fig.<lb/>98.</cell>
+                           <cell>Fig. 98.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The cadences in Fig. 99 are good, and will suggest others. The use of the fourth species is permitted as at <hi rend="italic">a</hi>. A note may be repeated in the final cadence in all species as at <hi rend="italic">b</hi>.</p>
+                     <table rend="frame" xml:id="Table100">
+                        <row>
+                           <cell>Fig.<lb/>99.</cell>
+                           <cell>Fig. 99.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write the first species in all parts, as previously directed.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write second species in one part. Write three times, changing cantus firmus and counterpoint about so that they will appear in each part in turn.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table101">
+                        <row>
+                           <cell>Fig.<lb/>100.</cell>
+                           <cell>Fig. 100.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XIII</head>
+                  <div type="div4">
+                     <head>SECOND SPECIES IN TWO PARTS</head>
+                     <table rend="frame" xml:id="Table102">
+                        <row>
+                           <cell>Fig.<lb/>101.</cell>
+                           <cell>Fig. 101.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The suggestions for second species in both parts, in two-part counterpoint, apply for the two parts having the second species in three-part counterpoint.</p>
+                     <p rend="justify">Accidental harmonies sometimes appear on the weak beat. All tones in this accidental harmony foreign to the chord on the strong beat must be treated as dissonances. This must be regarded whenever two or more parts have other than the first species. [Fig. 102.]</p>
+                     <table rend="frame" xml:id="Table103">
+                        <row>
+                           <cell>Fig.<lb/>102.</cell>
+                           <cell>Fig. 102.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">At Fig. 102<hi rend="italic">a</hi>, the accidental harmony <hi rend="italic">f-a-c</hi> is on the weak beat. The <hi rend="italic">f</hi> and <hi rend="italic">a</hi>, being foreign to the chord <hi rend="italic">c-e-g</hi> on the strong beat, are correctly treated as dissonances. At <hi rend="italic">b</hi>, the <hi rend="italic">f</hi> and <hi rend="italic">a</hi> are left by skip, which is not permitted.</p>
+                     <p rend="justify">The second species may be written continuously in all parts; the tones appearing on the weak beat must be harmonically related to one another, and those foreign to the chord on the strong beat must be treated as dissonances. [Fig. 103.]</p>
+                     <table rend="frame" xml:id="Table104">
+                        <row>
+                           <cell>Fig.<lb/>103.</cell>
+                           <cell>Fig. 103.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The first and second species may be mixed, as in Fig. 104.</p>
+                     <table rend="frame" xml:id="Table105">
+                        <row>
+                           <cell>Fig.<lb/>104.</cell>
+                           <cell>Fig. 104.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The cadences in Fig. 105 are good, and will suggest others. Those with first species in all parts may also be used.</p>
+                     <table rend="frame" xml:id="Table106">
+                        <row>
+                           <cell>Fig.<lb/>105.</cell>
+                           <cell>Fig. 105.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write a counterpoint in the second species in one part. Write three settings, as directed in the previous lesson.</p>
+                     <p rend="justify">Write two eight-measure phrases mixing the first and second species in all parts.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write counterpoints in the second species in the other two parts. Write two settings, with the cantus firmus in different parts.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table107">
+                        <row>
+                           <cell>Fig.<lb/>106.</cell>
+                           <cell>Fig. 106.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XIV</head>
+                  <div type="div4">
+                     <head>THIRD SPECIES</head>
+                     <table rend="frame" xml:id="Table108">
+                        <row>
+                           <cell>Fig.<lb/>107.</cell>
+                           <cell>Fig. 107.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The suggestions for third species in two-part counterpoint, as well as those for writing the second species in three-part counterpoint, apply when writing third species in three-part counterpoint.</p>
+                     <p rend="justify">The cadences at Fig. 108  are good, and will suggest others.</p>
+                     <table rend="frame" xml:id="Table109">
+                        <row>
+                           <cell>Fig.<lb/>108.</cell>
+                           <cell>Fig. 108.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write third species in one part. Write three settings as previously directed.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write second species in two parts, as previously directed.</p>
+                     <p rend="justify">Write one eight-measure phrase, using second species in all parts.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table110">
+                        <row>
+                           <cell>Fig.<lb/>109.</cell>
+                           <cell>Fig. 109.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XV</head>
+                  <div type="div4">
+                     <head>THIRD SPECIES IN TWO OR MORE PARTS</head>
+                     <table rend="frame" xml:id="Table111">
+                        <row>
+                           <cell>Fig.<lb/>110.</cell>
+                           <cell>Fig. 110.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Previous suggestions when two or more parts have other than first species, apply here.</p>
+                     <p rend="justify">In using the ninth of a chord it is well to keep it at least a seventh distant from the third, as well as a ninth above the root, except in the case of the dominant ninth in minor keys, where it may be separated by only an augmented second ([b]). [Fig. 111.]</p>
+                     <table rend="frame" xml:id="Table112">
+                        <row>
+                           <cell>Fig.<lb/>111.</cell>
+                           <cell>Fig. 111.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">In writing the third species in all parts, notes appearing simultaneously should be harmonically related. Treat all tones foreign to the chord on the first quarter as dissonances.</p>
+                     <p rend="justify">The cadences in Fig. 112  are good.</p>
+                     <table rend="frame" xml:id="Table113">
+                        <row>
+                           <cell>Fig.<lb/>112.</cell>
+                           <cell>Fig. 112.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write third species in one part, as previously directed.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write third species in two parts, as in Fig. 110<hi rend="italic">b</hi>. Write twice, changing the cantus firmus about.</p>
+                     <p rend="justify">Write one eight-measure phrase, mixing first and third species as in Fig. 110<hi rend="italic">a</hi>.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table114">
+                        <row>
+                           <cell>Fig.<lb/>113.</cell>
+                           <cell>Fig. 113.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XVI</head>
+                  <div type="div4">
+                     <head>THIRD SPECIES (Continued)</head>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To the cantus firmus write third species in one part, as previously directed.</p>
+                     <p rend="justify">Write one eight-measure phrase, mixing first and third species; also one mixing first, second and third. [Fig. 114.]</p>
+                     <p rend="justify">Write one eight-measure phrase, using third species in all parts. [Fig. 110<hi rend="italic">c</hi>.]</p>
+                     <table rend="frame" xml:id="Table115">
+                        <row>
+                           <cell>Fig.<lb/>114.</cell>
+                           <cell>Fig. 114.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>Cantus Firmus</head>
+                     <table rend="frame" xml:id="Table116">
+                        <row>
+                           <cell>Fig.<lb/>115.</cell>
+                           <cell>Fig. 115.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XVII</head>
+                  <div type="div4">
+                     <head>FOURTH SPECIES</head>
+                     <table rend="frame" xml:id="Table117">
+                        <row>
+                           <cell>Fig.<lb/>116.</cell>
+                           <cell>Fig. 116.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">When the syncopation is a suspension or retardation, it is treated the same as in harmony.</p>
+                     <p rend="justify">The retardation should always be prepared by the leading-tone.</p>
+                     <p rend="justify">When the syncopated note belongs to the harmony of the measure, it may be left by a skip or stepwise progression. [Fig. 117.]</p>
+                     <table rend="frame" xml:id="Table118">
+                        <row>
+                           <cell>Fig.<lb/>117.</cell>
+                           <cell>Fig. 117.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The third may be omitted on the strong beat in this species, provided the part having fourth species skips to the missing third, as at Fig. 117<hi rend="italic">a</hi>.</p>
+                     <p rend="justify">Consecutive fifths, but not octaves, are saved by the suspension. Whenever they occur, do not use the note of resolution as preparation of a suspension, or tie it into the next measure (<hi rend="italic">a</hi>), since it is really the passing seventh, and that does not lend itself well to either of the above, except in sequence as at <hi rend="italic">b</hi>. [Fig. 118.]</p>
+                     <table rend="frame" xml:id="Table119">
+                        <row>
+                           <cell>Fig.<lb/>118.</cell>
+                           <cell>Fig. 118.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The seventh or ninth of a chord, except the major seventh, may be used as preparation of a suspension when approached by a skip in an upward direction, as in Fig. 119.</p>
+                     <table rend="frame" xml:id="Table120">
+                        <row>
+                           <cell>Fig.<lb/>119.</cell>
+                           <cell>Fig. 119.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">This species may also be written in triple rhythm. [Fig. 120.]</p>
+                     <table rend="frame" xml:id="Table121">
+                        <row>
+                           <cell>Fig.<lb/>120.</cell>
+                           <cell>Fig. 120.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The cadences in Fig. 121 are good, as well as those of the second species.</p>
+                     <table rend="frame" xml:id="Table122">
+                        <row>
+                           <cell>Fig.<lb/>121.</cell>
+                           <cell>Fig. 121.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write fourth species in one part. Write three settings, as usual.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write fourth species in one part in triple rhythm. Write three settings, as above.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write second species in one part and third in the other. [Fig. 122.]</p>
+                     <table rend="frame" xml:id="Table123">
+                        <row>
+                           <cell>Fig.<lb/>122.</cell>
+                           <cell>Fig. 122.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table124">
+                        <row>
+                           <cell>Fig.<lb/>123.</cell>
+                           <cell>Fig. 123.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XVIII</head>
+                  <div type="div4">
+                     <head>FOURTH SPECIES (Continued)</head>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">Write two eight-measure phrases, using the fourth species mixed in all parts. [Fig. 124<hi rend="italic">a</hi>.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi>  write second species in one part and fourth in the other. [Fig. 124<hi rend="italic">b</hi>.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write third species in one part and fourth in the other. [Fig. 124<hi rend="italic">c</hi>.]</p>
+                     <p rend="justify">Fig.<lb/>124.</p>
+                     <p rend="justify">Fig. 124., part 1</p>
+                     <p rend="justify">Fig. 124, part 2</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table125">
+                        <row>
+                           <cell>Fig.<lb/>125.</cell>
+                           <cell>Fig. 125.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XIX</head>
+                  <div type="div4">
+                     <head>FIFTH SPECIES</head>
+                     <table rend="frame" xml:id="Table126">
+                        <row>
+                           <cell>Fig.<lb/>126.</cell>
+                           <cell>Fig. 126.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">No suggestions other than have already been given for two- and three-part counterpoint are necessary for this species.</p>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To canti firmi <hi rend="italic">a</hi> and <hi rend="italic">b</hi> write fifth species in one part. Write each three times, as usual.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table127">
+                        <row>
+                           <cell>Fig.<lb/>127.</cell>
+                           <cell>Fig. 127.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XX</head>
+                  <div type="div4">
+                     <head>FIFTH SPECIES (Continued)</head>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write second species in one part and fifth in the other. [Fig. 128<hi rend="italic">a</hi>.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write third species in one part and fifth in the other. [<hi rend="italic">b</hi>.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">c</hi>  write fourth species in one part and fifth in the other. [<hi rend="italic">c</hi>].</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">d</hi>  write fifth species in two parts. [<hi rend="italic">d</hi>.]</p>
+                     <p rend="justify">Fig.<lb/>128.</p>
+                     <p rend="justify">Fig. 128. part 1.</p>
+                     <p rend="justify">Fig. 128. part 2.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table128">
+                        <row>
+                           <cell>Fig.<lb/>129.</cell>
+                           <cell>Fig. 129.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXI</head>
+                  <div type="div4">
+                     <head>COMBINING THE VARIOUS SPECIES</head>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">Write one eight-measure phrase each, of the following combinations: (1) 2nd, 3rd and 4th species (Fig. 130<hi rend="italic">a</hi>); (2) 2nd, 3rd and fifth species (<hi rend="italic">b</hi>) (3) 3rd, 5th and 5th species (<hi rend="italic">c</hi>); (4) 2nd, 4th and 5th species (<hi rend="italic">d</hi>); (5) 4th, 5th and 5th species (<hi rend="italic">e</hi>).</p>
+                     <table rend="frame" xml:id="Table129">
+                        <row>
+                           <cell>Fig.<lb/>130.</cell>
+                           <cell>Fig. 130. part 1.</cell>
+                        </row>
+                        <row>
+                           <cell/>
+                           <cell>Fig. 130. part 2</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXII</head>
+                  <div type="div4">
+                     <head>FIFTH SPECIES IN ALL PARTS</head>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">Write five eight-measure phrases with fifth species in all parts, making use of imitation at the beginning as in Fig. 131. The imitation need only be relative and continue for three or four notes. It is also well, when a part uses a striking melodic figure, to have some other part imitate it immediately after.</p>
+                     <table rend="frame" xml:id="Table130">
+                        <row>
+                           <cell>Fig.<lb/>131.</cell>
+                           <cell>Fig. 131.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SIMPLE COUNTERPOINT IN FOUR PARTS</head>
+               <div type="div3">
+                  <head>LESSON XXIII</head>
+                  <table rend="frame" xml:id="Table131">
+                     <row>
+                        <cell>Fig.<lb/>132.</cell>
+                        <cell>Fig. 132.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">No new suggestions are needed, except as follows: All covered fifths and octaves permitted in harmony are allowed here. When the cantus firmus is in the lowest part and the choice of the last chord but one is V<hi rend="sup">4</hi>
+                     <hi rend="sub">3</hi> or vii°<hi rend="sub">6</hi>, use the latter, as in Fig. 133.</p>
+                  <table rend="frame" xml:id="Table132">
+                     <row>
+                        <cell>Fig.<lb/>133.</cell>
+                        <cell>Fig. 133.</cell>
+                     </row>
+                  </table>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To canti firmi <hi rend="italic">a</hi> and <hi rend="italic">b</hi> write the first species in the other parts. Write each four times, setting the cantus firmus in each part in turn.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table133">
+                        <row>
+                           <cell>Fig.<lb/>134.</cell>
+                           <cell>Fig. 134.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXIV</head>
+                  <table rend="frame" xml:id="Table134">
+                     <row>
+                        <cell>Fig.<lb/>135.</cell>
+                        <cell>Fig. 135.</cell>
+                     </row>
+                  </table>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write the first species in all parts, as in the previous lesson.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write the second species in one part. Write four times, and change with each solution, so that both the cantus firmus and the second species will appear in each part. [Fig. 135.]</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table135">
+                        <row>
+                           <cell>Fig.<lb/>136.</cell>
+                           <cell>Fig. 136.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXV</head>
+                  <table rend="frame" xml:id="Table136">
+                     <row>
+                        <cell>Fig.<lb/>137.</cell>
+                        <cell>Fig. 137.</cell>
+                     </row>
+                  </table>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write second species in one part as previously directed.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write the first and second species mixed in the other three parts. [Fig. 137<hi rend="italic">a</hi>.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">c</hi>  write third species in one part, as directed for the second species (<hi rend="italic">b</hi>).</p>
+                     <table rend="frame" xml:id="Table137">
+                        <row>
+                           <cell>Fig.<lb/>138.</cell>
+                           <cell>Fig. 138.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXVI</head>
+                  <table rend="frame" xml:id="Table138">
+                     <row>
+                        <cell>Fig.<lb/>139.</cell>
+                        <cell>Fig. 139.</cell>
+                     </row>
+                  </table>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write the second species in two parts and the first in the others. Write twice, changing the parts about. [Fig. 139<hi rend="italic">a</hi>.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write third species in one part as previously directed.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">c</hi>  write third species mixed in the other three parts, as at Fig. 139<hi rend="italic">b</hi>.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table139">
+                        <row>
+                           <cell>Fig.<lb/>140.</cell>
+                           <cell>Fig. 140.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXVII</head>
+                  <table rend="frame" xml:id="Table140">
+                     <row>
+                        <cell>Fig.<lb/>141.</cell>
+                        <cell>Fig. 141.</cell>
+                     </row>
+                  </table>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write the first, second and third species in the other three parts. Write twice, changing the parts about [Fig. 141<hi rend="italic">a</hi>.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write fourth species in one part, as directed in previous lessons. [Fig. 141<hi rend="italic">b</hi>.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">c</hi>  write third species mixed in the other three parts. [Fig. 139<hi rend="italic">b</hi>.]</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table141">
+                        <row>
+                           <cell>Fig.<lb/>142.</cell>
+                           <cell>Fig. 142.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXVIII</head>
+                  <table rend="frame" xml:id="Table142">
+                     <row>
+                        <cell>Fig.<lb/>143.</cell>
+                        <cell>Fig. 143, part 1.</cell>
+                     </row>
+                     <row>
+                        <cell/>
+                        <cell>Fig. 143, part 2.</cell>
+                     </row>
+                  </table>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write the fourth species in one part, as usual.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write first, second and fourth species in the other three parts. [Fig. 143<hi rend="italic">a</hi>.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">c</hi>  write the first, third and fourth species in the other three parts. [Fig. 143<hi rend="italic">b</hi>.]</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">c</hi>  write fourth species mixed in the other parts. [Fig. 143<hi rend="italic">c</hi>.]</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table143">
+                        <row>
+                           <cell>Fig.<lb/>144.</cell>
+                           <cell>Fig. 144.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXIX</head>
+                  <table rend="frame" xml:id="Table144">
+                     <row>
+                        <cell>Fig.<lb/>145.</cell>
+                        <cell>Fig. 145.</cell>
+                     </row>
+                  </table>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To canti firmi <hi rend="italic">a</hi> and <hi rend="italic">b</hi> write fifth species in one part, as before.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table145">
+                        <row>
+                           <cell>Fig.<lb/>146.</cell>
+                           <cell>Fig. 146.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXX</head>
+                  <table rend="frame" xml:id="Table146">
+                     <row>
+                        <cell>Fig.<lb/>147.</cell>
+                        <cell>Fig. 147. part 1.</cell>
+                     </row>
+                     <row>
+                        <cell/>
+                        <cell>Fig. 147. part 2</cell>
+                     </row>
+                  </table>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To the cantus firmus write the fifth species in two parts. Write four times, changing the cantus firmus into every part. [Fig. 147<hi rend="italic">a</hi>.]</p>
+                     <p rend="justify">Write one eight-measure phrase mixing the second, third and fourth species (<hi rend="italic">b</hi>). Also write one exercise combining the first, second, third and fourth species (<hi rend="italic">c</hi>).</p>
+                  </div>
+                  <div type="div4">
+                     <head>Cantus Firmus</head>
+                     <table rend="frame" xml:id="Table147">
+                        <row>
+                           <cell>Fig.<lb/>148.</cell>
+                           <cell>Fig. 148.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXXI</head>
+                  <table rend="frame" xml:id="Table148">
+                     <row>
+                        <cell>Fig.<lb/>149.</cell>
+                        <cell>Fig. 149.</cell>
+                     </row>
+                  </table>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To the cantus firmus write the fifth species in all of the other parts. [Fig. 149<hi rend="italic">a</hi>.]</p>
+                     <p rend="justify">Write four eight-measure phrases with the fifth species in all parts. [Fig. 149<hi rend="italic">b</hi>.]</p>
+                  </div>
+                  <div type="div4">
+                     <head>Cantus Firmus</head>
+                     <table rend="frame" xml:id="Table149">
+                        <row>
+                           <cell>Fig.<lb/>150.</cell>
+                           <cell>Fig. 150.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXXII</head>
+                  <table rend="frame" xml:id="Table150">
+                     <row>
+                        <cell>Fig.<lb/>151.</cell>
+                        <cell>Fig. 151.</cell>
+                     </row>
+                  </table>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">Write six eight-measure phrases, using the fifth species in all the parts. Let the parts begin one after the other in imitation. [Fig. 151.]</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXXIII</head>
+                  <div type="div4">
+                     <head>FLORID MELODIES AS CANTI FIRMI<lb/>FREE HARMONIZATION IN TWO-PART COUNTERPOINT</head>
+                     <table rend="frame" xml:id="Table151">
+                        <row>
+                           <cell>Fig.<lb/>152.</cell>
+                           <cell>Fig. 152.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Thus far, all notes in the measure foreign to the harmony on the first beat were treated as dissonances. Now, the cantus firmus may be harmonized at pleasure, the only restriction being that any tone foreign to the chord with which it enters must be treated as a dissonance. [Fig. 152.]</p>
+                     <p rend="justify">It is not necessary that each part be strictly florid, but that the effect of the parts as a whole should be so. This applies from this point to the end of these lessons.</p>
+                     <p rend="justify">The suspension may now be a quarter-note, or its rhythmic equivalent. It then comes on the first (<hi rend="italic">a</hi>) or third (<hi rend="italic">b</hi>) quarter of the measure, and the resolution on the quarter following. The preparation should be as long as, or longer than, the suspension. [Fig. 153.]</p>
+                     <table rend="frame" xml:id="Table152">
+                        <row>
+                           <cell>Fig.<lb/>153.</cell>
+                           <cell>Fig. 153.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The eighth-note as in Fig. 154<hi rend="italic">a</hi> is good. It should be used only on the second half of a weak beat, and be preceded by a dotted quarter-note. Sixteenth-notes may be used in place of the eighth-note, but should be approached and left step-wise. [Fig. 154<hi rend="italic">b</hi>.]</p>
+                     <table rend="frame" xml:id="Table153">
+                        <row>
+                           <cell>Fig.<lb/>154.</cell>
+                           <cell>Fig. 154.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The first species may be employed occasionally in the course of an exercise.</p>
+                     <p rend="justify">Make plentiful use of imitation.</p>
+                     <p rend="justify">When more than one line of a choral is used, it may be treated by having the other parts continue through the holds, as at <hi rend="italic">a</hi>, or letting them rest, as at <hi rend="italic">b</hi>. [Fig. 155.]</p>
+                     <p rend="justify">When, in place of the hold, the movement continues, it is necessary to interpolate a full measure in place of the hold. [Fig. 155  and Fig. 159.]</p>
+                     <table rend="frame" xml:id="Table154">
+                        <row>
+                           <cell>Fig.<lb/>155.</cell>
+                           <cell>Fig. 155.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">The note under the hold may be continued the extra measure, or the part may rest and then reënter. All that is required is that it begin after the lapse of one measure, i.e., when the line ends on the accent the next line begins on the weak beat of the measure following, and if it ends on the weak beat then on the accent of the next measure.</p>
+                     <p rend="justify">The interval at any hold except the last of a choral may be either a perfect (<hi rend="italic">a</hi>) or imperfect consonance (<hi rend="italic">b</hi>). [Fig. 156.]</p>
+                     <table rend="frame" xml:id="Table155">
+                        <row>
+                           <cell>Fig.<lb/>156.</cell>
+                           <cell>Fig. 156.</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">Modulation often occurs at the holds. If so, make it clear.</p>
+                     <p rend="justify">In this and in succeeding lessons set the cantus firmus in any part, and transpose if necessary.</p>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi> write two counterpoints above and two below.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi>  write one above and one below, with both parts resting at the hold. Also do the same <hi rend="italic">with the counterpoint continuing at the hold</hi>. [Fig. 155<hi rend="italic">a</hi>, <hi rend="italic">b</hi>.]</p>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table156">
+                        <row>
+                           <cell>Fig.<lb/>157.</cell>
+                           <cell>Fig. 157.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXXIV</head>
+                  <div type="div4">
+                     <head>FREE HARMONIZATION IN THREE-PART COUNTERPOINT</head>
+                     <p rend="justify">When writing in three or more parts, it is well to let a part rest occasionally, and, when it reënters, have it imitate one of the other parts. [Fig. 158.]</p>
+                     <table rend="frame" xml:id="Table157">
+                        <row>
+                           <cell>Fig.<lb/>158.</cell>
+                           <cell>Fig. 158.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To cantus firmus <hi rend="italic">a</hi> write two counterpoints above and two below in two-part counterpoint.</p>
+                     <p rend="justify">Write two original eight-measure phrases in two-part counterpoint.</p>
+                     <p rend="justify">To cantus firmus <hi rend="italic">b</hi>  write one example in three-part counterpoint with continuous movement at the hold. [Fig. 159.]</p>
+                     <table rend="frame" xml:id="Table158">
+                        <row>
+                           <cell>Fig.<lb/>159.</cell>
+                           <cell>Fig. 159.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table159">
+                        <row>
+                           <cell>Fig.<lb/>160.</cell>
+                           <cell>Fig. 160.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXXV</head>
+                  <p rend="justify">To canti firmi <hi rend="italic">a</hi> and <hi rend="italic">b</hi> write two parts. Write each three times, setting the cantus firmus in all parts in turn. Write one of the solutions of the choral with continuous movement at the hold.</p>
+                  <div type="div4">
+                     <head>Canti Firmi</head>
+                     <table rend="frame" xml:id="Table160">
+                        <row>
+                           <cell>Fig.<lb/>161.</cell>
+                           <cell>Fig. 161.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXXVI</head>
+                  <p rend="justify">Write two eight-measure phrases, and one sixteen-measure phrase, of original counterpoint in three parts.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXXVII</head>
+                  <div type="div4">
+                     <head>FREE HARMONIZATION IN FOUR-PART COUNTERPOINT</head>
+                     <table rend="frame" xml:id="Table161">
+                        <row>
+                           <cell>Fig.<lb/>162.</cell>
+                           <cell>Fig. 162.</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">To the cantus firmus write three parts.</p>
+                     <p rend="justify">Write two sixteen-measure phrases of original four-part counterpoint, one major and one minor.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Cantus Firmus</head>
+                     <table rend="frame" xml:id="Table162">
+                        <row>
+                           <cell>Fig.<lb/>163.</cell>
+                           <cell>Fig. 163.</cell>
+                        </row>
+                     </table>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXXVIII</head>
+                  <p rend="justify">In this and the following lessons have the parts in some of the exercises begin one after the other in imitation. [Fig. 151.]</p>
+                  <div type="div4">
+                     <head>EXERCISES</head>
+                     <p rend="justify">Write two eight-measure phrases, and one sixteen-measure phrase, of original four-part counterpoint.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>LESSON XXXIX</head>
+                  <p rend="justify">Write two sixteen-measure phrases of original four-part counterpoint.</p>
+               </div>
+               <div type="div3">
+                  <head>LESSON XL</head>
+                  <p rend="justify">Write an original exercise in four-part counterpoint, extended to thirty-two measures.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

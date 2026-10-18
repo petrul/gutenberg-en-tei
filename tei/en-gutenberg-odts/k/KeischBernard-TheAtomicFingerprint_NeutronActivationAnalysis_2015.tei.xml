@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Atomic Fingerprint: Neutron Activation Analysis</title>
+            <author>Bernard Keisch</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T08:40:23Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/k/KeischBernard-TheAtomicFingerprint_NeutronActivationAnalysis_2015.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Bernard Keisch</name>
+               <date>2024-01-04T08:40:23Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Atomic Fingerprint: Neutron Activation Analysis</head>
+         <author>Bernard Keisch</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/k/KeischBernard-TheAtomicFingerprint_NeutronActivationAnalysis_2015.odt</p>
+         <head>The Atomic Fingerprint:<lb/>Neutron Activation Analysis</head>
+         <author>
+            <hi rend="bold">by</hi>
+            <lb/>
+            <hi rend="bold">Bernard Keisch</hi>
+         </author>
+         <pb/>
+         <div type="div1">
+            <head>CONTENTS /x/</head>
+            <p>INTRODUCTION 4</p>
+            <p>WHAT IS NEUTRON ACTIVATION ANALYSIS?  5</p>
+            <p>THE SENSITIVITY OF NEUTRON ACTIVATION ANALYSIS  10</p>
+            <p>HOW AND WHERE TO USE IT  19</p>
+            <p>In a Physics Laboratory  19</p>
+            <p>In a Hospital  28</p>
+            <p>In a Plastics Plant  32</p>
+            <p>In a Museum  35</p>
+            <p>In a Criminology Laboratory  42</p>
+            <p>SUMMING UP: WHAT LIES AHEAD  46</p>
+            <p>APPENDIX  49</p>
+            <p>READING LIST  52</p>
+            <p>MOTION PICTURES  54</p>
+            <p>
+               <hi rend="bold">U. S. Energy Research and Development Administration</hi>
+               <lb/>
+               <hi rend="bold">Office of Public Affairs</hi>
+               <lb/>
+               <hi rend="bold">Washington, D.C. 20545</hi>
+            </p>
+            <p>Library of Congress Catalog Card Number: 79-182556<lb/>1972</p>
+            <p>Photograph, spiral galaxy</p>
+            <p>The U. S. Energy Research and Development Administration publishes a series of booklets for the general public.</p>
+            <p>Please write to the following address for a title list or for information on a specific subject:</p>
+            <p>USERDA—Technical Information Center</p>
+            <p>P. O. Box 62</p>
+            <p>Oak Ridge, Tennessee 37830</p>
+            <p>Photograph: shelf with china</p>
+            <p>A 19th century photograph restored by neutron activation. This picture, which is in the collection of the Smithsonian Institution, was exposed to neutrons in a nuclear reactor and then placed in contact with modern photographic film. The original, which had been taken by William Henry Fox Talbot who began his career in 1834, is badly faded.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>INTRODUCTION</head>
+            <p>You are a physicist investigating the properties of semiconductors, which are materials used to make transistors. The electrical properties of one specimen are not quite like the others that you’ve studied. What makes this specimen different?</p>
+            <p>OR</p>
+            <p>You are a physician treating a patient who, because of a severe calcium deficiency, has been suffering from osteoporosis (a softening of the bones). Are you on the right track with your treatment?</p>
+            <p>OR</p>
+            <p>You are an analytical chemist working for a plastics manufacturer. You have been asked by the plant superintendent to determine why some of the plastic coming from the plant has been discolored.</p>
+            <p>OR</p>
+            <p>You are a curator working with the ancient coin collection in a large museum. A donor has just given the museum a group of 50 gold coins presumably about 1500 years old. Are they genuine?</p>
+            <p>OR</p>
+            <p>You are a scientist working in the criminology laboratory of a large metropolitan city. A detective brings you a minute sample of paint taken from the clothing of a hit-and-run victim. He has a suspect whose automobile paint seems to match that sample. Can you determine his guilt or innocence?</p>
+            <p>Neutron activation analysis can be used to solve each of these problems and many more. The solutions to these particular problems are explained on pages 19-46.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>The Atomic Fingerprint:<lb/>Neutron Activation Analysis<lb/>by Bernard Keisch</head>
+            <pb/>
+            <div type="div2">
+               <head>WHAT IS NEUTRON ACTIVATION ANALYSIS?</head>
+               <p rend="justify">To understand neutron activation analysis, you should be acquainted with a few basic concepts. The nuclei of atoms are stable only when they contain certain numbers of neutrons and protons. The number of protons in an atom’s nucleus determines an element’s identity; the number of neutrons usually determines whether or not that atom is radioactive or nonradioactive (stable).[1]</p>
+               <p rend="justify">Thus, while all sodium atoms contain 11 protons, only those sodium atoms that contain 12 neutrons are stable. A radioactive sodium atom contains a different number of neutrons. For other elements, there may be more than one number of neutrons that results in stability; for instance, there are 10 stable atoms (isotopes) of tin, each containing a different number of neutrons in their nuclei.</p>
+               <p rend="justify">The fact that nuclei can absorb additional neutrons, which, in many cases, results in the conversion of a stable nucleus to a radioactive one, makes neutron activation analysis possible. Because radioactive nuclei decay in unique ways and yield radiations that are often distinct and can be measured even in very small amounts, measurements of these radiations can determine the kind and the number of radioactive atoms that are present.</p>
+               <p rend="justify">In the most common type of activation analysis, the neutron bombardment of a sample is performed in a nuclear reactor where the neutrons that strike the target atoms have been slowed down so that they have very little energy of motion. In this case, the usual reaction between the target atoms and a neutron results in the capture of the neutron and this creates a nucleus with an atomic weight of one more unit than it started with. Thus for sodium as found in nature (symbol ²³Na)</p>
+               <p rend="justify">sodium-23 + a neutron → radioactive sodium-24 + gamma rays[2]</p>
+               <p rend="justify">The numbers denote the atomic weight of the atom, which is the total number of protons and neutrons in its nucleus.</p>
+               <p rend="justify">In a nuclear reactor, there are many, many neutrons that can be used in this reaction; approximately 10¹² to 10¹⁴ (10¹² is a million million; 10¹⁴ is a hundred times 10¹²) pass through each square centimeter of target area every second. Not all these will strike the nuclei of sodium atoms. Of those that do, not all will be captured. A mathematical relationship that tells how many atoms of sodium-24 will be created in a cubic centimeter of the target in one second is:</p>
+               <p rend="justify">N₂₄ = N₂₃φσt</p>
+               <p rend="justify">where N₂₄ is the number of sodium-24 atoms created during each second in a cubic centimeter of the target; N₂₃ is the number of atoms of sodium-23 in a cubic centimeter of the target; φ is the number of neutrons crossing a square centimeter per second (called the neutron flux); t is the time in seconds that the target is in the reactor; and σ is a number that represents the probability that the conversion of sodium-23 to sodium-24 will occur. This last number is called a “cross section” and it is expressed in “barns”. One barn is equal to 10<hi rend="sup">-24</hi>  square centimeter, which is approximately the cross-sectional area of a typical atomic nucleus.</p>
+               <p rend="justify">In an activation analysis experiment, the analyst wants to determine the number of target atoms (N₂₃ in the above example). He can measure how long the target was in the nuclear reactor; there are ways of measuring the neutron flux, φ; and the cross section is fixed and generally known for each target nucleus. So, by measuring the number of radioactive atoms created (N₂₄), he can calculate the number of target atoms. See the figure on the next two pages.</p>
+               <p rend="justify">Actually, to get the most accurate results, there are certain practical tricks he can use that increase the accuracy. Some of these will become apparent in later sections of this booklet.</p>
+               <p rend="justify">The most important of these “tricks” is the use of a “standard” or “comparator”. This comparator is similar in form and composition to the sample to be measured but contains a <hi rend="italic">known</hi>  quantity of the element to be determined. The steps used for the analysis are simple.</p>
+               <p rend="justify">1. Put the sample and comparator together into a reactor and bombard them with neutrons.</p>
+               <p rend="justify">2. Remove them and measure the radioactivity produced from the sample.</p>
+               <p rend="justify">3. Compare the radioactivity of the sample and the comparator and calculate the amount of the element in the sample as a proportion:</p>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell>Radioactivity in sample</cell>
+                  </row>
+                  <row>
+                     <cell>Radioactivity in comparator</cell>
+                  </row>
+               </table>
+               <p rend="justify">=</p>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell>Quantity of element in sample</cell>
+                  </row>
+                  <row>
+                     <cell>Quantity of element in comparator</cell>
+                  </row>
+               </table>
+               <div type="div3">
+                  <head>Neutron Activation Analysis: Detecting Sodium in a Sample of Plastic</head>
+                  <p rend="justify">Step 1. Weigh a sample and a standard in quartz tubes.</p>
+                  <p rend="justify">Piece of plastic; Standard = sodium carbonate</p>
+                  <p rend="justify">Step 2. Seal tubes in package for reactor irradiation.</p>
+                  <p rend="justify">Sealed aluminium can; Sealed quartz tubes; Sample; Standard</p>
+                  <p rend="justify">Step 3. Bombard with neutrons for about 3 hours in a reactor.</p>
+                  <p rend="justify">Neutrons</p>
+                  <p rend="justify">Step 4. Remove sample and standard from tubes and place in separate plastic containers to measure gamma rays.</p>
+                  <p rend="justify">Pulse height analyser; Sample; Standard; Gamma rays from Na-24; same container, distance, detector; Sodium iodide scintillator</p>
+                  <p rend="justify">Step 5. Obtain gamma-ray spectrum for sodium-24 in both sample and standard.</p>
+                  <p rend="justify">(chart) Energy vs. Sample spectrum; Energy —→Standard spectrum</p>
+                  <p rend="justify">Step 6. Use standard to calculate 1.37 MeV gamma rays counted per minute per gram of sodium (c/m/gNa).</p>
+                  <p rend="justify">c/m/gNa =</p>
+                  <table rend="frame" xml:id="Table3">
+                     <row>
+                        <cell>counts/minute measured in 1.37 peak (shaded area above)</cell>
+                     </row>
+                     <row>
+                        <cell>grams of sodium known to be in standard (step 1.)</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Step 7. Use c/m/gNa and 1.37 MeV gamma rays counted per minute in sample to calculate grams of sodium in sample.</p>
+                  <p rend="justify">grams Na in sample =</p>
+                  <table rend="frame" xml:id="Table4">
+                     <row>
+                        <cell>counts/minute measured in sample</cell>
+                     </row>
+                     <row>
+                        <cell>c/m/gNa (step 6.)</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Step 8. Calculate percent sodium in sample.</p>
+                  <p rend="justify">% sodium =</p>
+                  <table rend="frame" xml:id="Table5">
+                     <row>
+                        <cell>grams sodium in sample (step 7.)</cell>
+                     </row>
+                     <row>
+                        <cell>weight of sample (step 1.)</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">× 100</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE SENSITIVITY[3] OF NEUTRON ACTIVATION ANALYSIS</head>
+               <p rend="justify">There are several factors that determine the sensitivity of the method. Some are variable within limits and some, like the cross section, are fixed. Time is variable to a degree, partially determined by the half-life of the nuclide created and with an upper practical limit determined by how long we want to wait for an analysis.</p>
+               <p rend="justify">The crucial step in the analytical procedure is the measurement of the number of radioactive atoms that were created.</p>
+               <p rend="justify">1. How do we measure how many radioactive atoms are present?</p>
+               <p rend="justify">2. Since there will usually be a mixture of elements in a target, and many of these will be made radioactive, how can we tell one from another?</p>
+               <p rend="justify">3. Since radioactive atoms are constantly “disappearing” by radioactive decay, how do we obtain the number of atoms created from a measurement made some time after the bombardment has taken place? And what of those atoms disintegrating while others are still being created in the reactor?</p>
+               <p rend="justify">Radioactive atoms almost always decay by emitting negatively charged beta particles usually accompanied by gamma rays. Instruments can detect these kinds of radiation, and it is by measuring the radiation that we determine how many radioactive atoms are present. To do this we have to know the types of radiation emitted by the radioactive atoms we are trying to measure. Fortunately each kind of radioactive atom decays with a unique “pattern” scientists call a “decay scheme”. The figure on the next page  shows a simplified decay scheme for manganese-56, which is produced by activation of manganese, and a diagram showing what the decay scheme means.</p>
+               <p rend="justify">Until a few years ago, it was difficult to measure the number of gamma rays of a particular energy that were being emitted by a mixture of radioactive isotopes unless there were only a few such gamma rays with very different energies. Today instruments are available that can really pick them out of a complex mixture. Thus it is usually possible to “separate” with electronic instruments the radioactive element we are interested in measuring. Some of the examples below will show how this might be accomplished.</p>
+               <p rend="justify">Each radioactive nuclide[4]  also has a characteristic half-life,[5]  which is a measure of how fast the radioactive atoms change (transmute) to atoms of another element. In a reactor, even while they are being produced in the target, atoms of the radioactive nuclide are decaying with the particular half-life of the nuclide. The mathematical laws that govern this process tell us that the number of atoms determines the amount of decay; i.e., the more atoms there are, the greater the amount of decay in a given period of time. (The fraction that decays in that time is constant.) As a result, the target eventually becomes “saturated”, that is, the rate of production equals the rate of decay. When the irradiation is first begun, the number of radioactive atoms increases steadily. But eventually, this rate of increase slows down until, at saturation, further irradiation no longer increases the number of radioactive atoms present in the target.</p>
+               <p rend="justify">The energy of a gamma ray is equal to the energy difference between the two levels involved in the gamma-ray emission.</p>
+               <p rend="justify">An energy level diagram. The slanted arrows indicate radioactive decay by beta-particle emission. In each case, manganese-56 decays to a certain energy level of iron-56. On the right the energy of each level is indicated. Following a beta emission to a high-energy (excited) state in iron-56, one or more gamma rays are emitted until the nucleus is de-excited to the level marked zero. The vertical arrows indicate gamma rays emitted during the de-excitation process. The energy of each gamma ray is the difference between the levels involved in the change. The numbers above the vertical arrows indicate the relative proportions of gamma rays of different energies emitted from that level.</p>
+               <p rend="justify">The mathematical relationship that describes the irradiation process exactly is:</p>
+               <p rend="justify">A₀ = Nφσ (1 - e<hi rend="sup">-λt</hi>)</p>
+               <p rend="justify">where A₀ is the radioactivity produced (disintegrations per cubic centimeter per second); N is the number of target atoms per cubic centimeter in the sample; φ is the neutron flux (neutrons per square centimeter per second); σ is the cross section for the reaction (square centimeters); λ is the disintegration constant[6]  for the radioactive atoms produced (number per second); the number “e” is the base of natural logarithms; and t is the irradiation time in seconds. Note that for short irradiation times (t very small), 1-e<hi rend="sup">-λt</hi>  approximates λt, while for long irradiations (t very large), 1-e<hi rend="sup">-λt</hi>  approximates 1.</p>
+               <p rend="justify">Graph: Decay scheme for manganese-56</p>
+               <p rend="justify">This summarizes what the decay scheme or energy level diagram shows in terms of the relative amounts of betas and gammas emitted in the decay of manganese-56. Thus, you could observe more than three times as many gamma rays having an energy of 0.847 MeV than of 1.811 MeV, etc. Note that while one, and only one, beta is emitted in the decay of one atom of manganese-56, two gammas can sometimes be emitted in one decay.</p>
+               <p rend="justify">Of course, when the target is removed from the reactor, the number of radioactive atoms begins to decrease according to the characteristic half-life of the nuclide. The mathematical expression that describes the process of radioactive decay of a single nuclide is:</p>
+               <p rend="justify">A<hi rend="sub">t</hi>  = A₀e<hi rend="sup">-λt</hi>
+               </p>
+               <p rend="justify">where A<hi rend="sub">t</hi>  is the radioactivity of an isotope at some time, t, after the end of the irradiation, and A₀ is the radioactivity at the end of the irradiation.</p>
+               <p rend="justify">Fraction of saturation sodium-24 activity _vs_ Time of irradiation (hours)</p>
+               <p rend="justify">The activation of sodium-23 to sodium-24, which has a half-life of 15 hours. The horizontal line marked 1.0 represents the “saturation” activity level for a sample of sodium of a certain size in a constant neutron flux. Note that after about 120 hours, the activity of the sample is within 1% of the value at saturation, which is the most active that sample will ever become at a given φ. Note also that after the first 15 hours (1 half-life) the sample is exactly half way to its value at saturation. Thus long irradiations are useful to increase the sensitivity of the analysis, but only up to a certain point.</p>
+               <p rend="justify">The result of all this is that the sensitivity of an analysis depends in practice on a number of practical as well as theoretical factors:</p>
+               <p rend="justify">1. The cross section of the target element.</p>
+               <p rend="justify">2. The half-life of the radioactive isotope produced.</p>
+               <p rend="justify">3. The time available for irradiation.</p>
+               <p rend="justify">4. The flux of neutrons available for irradiation.</p>
+               <p rend="justify">5. The promptness with which we can begin measuring radioactivity and the efficiency of this measurement.</p>
+               <p rend="justify">6. Possible interferences due to the presence of elements yielding the same radioactive elements or those yielding very similar radiations.</p>
+               <p rend="justify">In the next section of this booklet, there are several examples that will show you how all this works in practice. But to summarize what these factors mean in terms of sensitivity let us look at the chart in the figure on page 18. Here all the elements are arranged in a periodic table. The sensitivities are shaded in coded ranges representing measurable quantities. They are calculated on the basis that there are no interferences, that the neutron flux is 10¹⁴ neutrons per square centimeter per second, and that we can measure 100 gamma rays per minute without much difficulty assuming a gamma-ray detector efficiency[7]  of 10%. The elements labeled β yield radioisotopes that emit few or no gamma rays and can only be analyzed by neutron activation using appropriate chemical separation procedures followed by beta radioactivity measurements. Such chemical separation procedures (to remove unwanted radioactive isotopes of other elements) are also sometimes useful to improve the sensitivity of the analysis of gamma-ray emitters if necessary.</p>
+               <p rend="justify">Graph: “Fraction of Sodium-24 remaining” vs. “Time of decay (hours)”</p>
+               <p rend="justify">The radioactive decay curve of sodium-24. The vertical scale is not linear but logarithmic. Thus, each factor of two in radioactivity occupies the same distance along the vertical axis. When two samples are being analyzed for sodium by activation analysis, they must be compared at the same time after they have been removed from the neutron flux. If this period of time is different, then a correction must be applied to one of them, based on the decay curve shown here, to allow for the difference in decay time for the two. Waiting too long after the irradiation is completed results in much poorer sensitivity for the analysis depending on the half-life of the activation product. In this case, after 2 days it takes approximately ten times as much sodium to yield the same radioactivity as it would if the sample were measured when it was fresh out of the reactor.</p>
+               <p rend="justify">It is not practical to determine a few elements, shown in black squares, by activation analysis. Some others, like oxygen and nitrogen (labeled HE), can be measured by using other projectiles like fast (more energetic) neutrons, or protons or deuterons[8]  produced in a device called an accelerator. Other elements, those shown in white squares, can be detected with such great sensitivity, that one can find some in almost everything. For example, if you had a cube of “pure” aluminum only 1 millimeter on a side, you could detect gold in it if there were only one atom of gold for every fifty billion atoms of aluminum.</p>
+               <p rend="justify">While it isn’t often that you would want to find a gold needle in an aluminum haystack, the next section presents some practical applications. Imagine yourself as the person with the problem in these situations.</p>
+               <p rend="justify">Periodic table of elements, with sensitivity code</p>
+               <p rend="justify">* Th and U are radioactive but with such long half-lives that<lb/>neutron activation analysis can be used for their determination.</p>
+               <p rend="justify">† µg = Microgram (one-millionth of a gram)</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HOW AND WHERE TO USE IT</head>
+               <div type="div3">
+                  <head>In a Physics Laboratory</head>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">The Problem</hi>
+                     </head>
+                     <p rend="justify">You are a physicist investigating the properties of semiconductors, which are materials used to make transistors. When you apply a voltage to one specimen of silicon (a semiconductor), it doesn’t behave quite like the others that you’ve studied. The electrical properties of this odd specimen are unusual and interesting and could lead to a new type of transistor. What makes this specimen different from the others? Very small amounts of impurities can cause large changes in the electrical properties of semiconductors. You would like to obtain a chemical analysis of the material, but your colleagues in chemistry tell you they would have to dissolve a good size part of your sample to analyze it and you are reluctant to give it up. How do you do it?</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">The Solution</hi>
+                     </head>
+                     <p rend="justify">You decide to try neutron activation analysis. You realize you won’t be able to detect all the elements, but many of those that might affect semiconductor performance could be detected quite easily.</p>
+                     <p rend="justify">What will you need? A source of neutrons to activate the material and a gamma-ray spectrometer to measure the radiation from the material afterwards. This spectrometer detects and measures gamma rays and sorts them according to their energy. You find that your friend down the hall, who is a nuclear physicist, has a gamma-ray spectrometer that incorporates a lithium-drifted germanium crystal as a detector and a pulse height analyzer. The germanium detector is a device that senses the gamma rays that enter it and gives electrical signals related to the energy of the gamma rays. It was invented only a few years ago and has a very fine resolution. That is, it can easily “pick out” gamma rays that are only slightly different in energy. For example, for gamma rays with energies of approximately 1 MeV (million electron volts), it is not unusual to distinguish between gamma rays that differ by only 2 or 3 tenths of a percent. The pulse height analyzer is an electronic device that sorts the electrical pulses from the detector according to their energy.</p>
+                     <p rend="justify">Gamma-ray detector</p>
+                     <p rend="justify">A lithium-drifted germanium-crystal gamma-ray detector. The large container is a reservoir of liquid nitrogen that keeps the detector cooled to a temperature of -196° Centigrade (321° below zero, Fahrenheit). The lead brick shield keeps out most of the gamma rays that come from naturally radioactive materials in the room. The plastic slots hold cards upon which the samples are mounted for counting. Sometimes the detector is arranged vertically and samples are placed on shelves above it.</p>
+                     <p rend="justify">Gamma-ray detector</p>
+                     <p rend="justify">What about the neutrons for the irradiation? Although there isn’t a suitable nuclear reactor[9]  in your city, there is one at a university only an hour away by jet. Since it may take a few hours to get the sample to the counter after irradiation, you won’t be able to look for short-lived activation products, i.e., those with half-lives of up to an hour. However, this will exclude only a few elements from detection.</p>
+                     <p rend="justify">Pulse-height analyzer</p>
+                     <p rend="justify">A pulse-height analyzer used for gamma-ray spectrometry. A gamma-ray spectrum is displayed on the television screen. Data is printed out automatically on the electric typewriter and also may be plotted as a graph on the paper to the left. In other systems, data may be coded onto punched paper tape as well. Such tape may be “read” by a computer that can be programmed to use the data to calculate what radioactive isotopes are present and their quantities.</p>
+                     <p rend="justify">Now you are ready to begin the analysis. This will be a qualitative analysis since you are merely looking for a significantly different element in that silicon crystal. How much of it is present is only of secondary interest. Therefore, if you find anything different, you will rely on an approximate calculation to tell you “how much”.</p>
+                     <p rend="justify">Nuclear reactor</p>
+                     <p rend="justify">This is called a “swimming pool” reactor because the nuclear fuel, built into metal rods, is held in a framework at the bottom of a deep pool of water. The water serves as a shield to protect workers from the radiation and also helps the reactor “go” by slowing down neutrons to make them more likely to interact with the target atoms. “Swimming pool” reactors are frequently used for neutron activation analysis and typically provide neutron fluxes of over 10¹³ (10 million million) neutrons per square centimeter per second.</p>
+                     <p rend="justify">Quartz capsules</p>
+                     <p rend="justify">These sealed quartz capsules contain samples to be irradiated in a nuclear reactor. They are about to be placed in the aluminum can, which will be sealed and positioned at the end of an aluminum pole, close to the core of a “swimming pool” reactor. Often samples are placed in plastic tubes and are carried in and out of a reactor by air pressure in a pneumatic tube system.</p>
+                     <p rend="justify">You carefully scrape off a small amount of material, weigh it on a sensitive balance, and put it into a short piece of pure quartz tubing. You do the same with an ordinary piece of silicon for comparison and then seal both tubes with an oxygen-gas torch. Although the tubes are both ¼ inch in diameter and about 1 inch long, the first tube is just slightly longer so you will be able to determine which is which after the irradiation.</p>
+                     <p rend="justify">Off it goes to the reactor in a carefully wrapped package along with instructions to irradiate the tubes for 12 hours in a neutron flux of about 10¹³ neutrons per square centimeter per second and to return them as quickly as possible after they are removed from the reactor.</p>
+                     <p rend="justify">The following week, the samples are delivered about 4 hours after they were removed from the reactor. Working quickly but carefully, you note that they are radioactive but easily handled by ordinary laboratory techniques. You break the quartz tubes one at a time and attach each of the two pieces of silicon to a card with self-sticking tape. Then you place each card, in turn, on a holder close to the gamma-ray detector for a period of 10 minutes. A spectrum, which is a graph of the quantity of radiation recorded in each increment of energy over the range observed for each of the samples, is plotted automatically at the end of the counting period and you may now compare the compositions of the two samples. (See the figure on the next two pages.)</p>
+                     <p rend="justify">The two spectra are virtually identical except that the suspect sample has one obviously different peak in channel 157 and a somewhat smaller peak in channel 183. Referring to an energy calibration curve for the pulse height analyzer, you find that these channels correspond to 0.559 and 0.657 MeV respectively. A search of a table of nuclides, arranged by gamma-ray energy, reveals that this combination is emitted by arsenic-76, which would be the activation product for arsenic. Other data also indicate that for arsenic there should be a number of smaller peaks, including some corresponding to energies of 1.216, 1.228, 0.624, and 1.441 MeV. A closer look at the spectrum of the suspect sample reveals that these are also present.</p>
+                     <p rend="justify">Finally, noting that the half-life of arsenic-76 is approximately 27 hours, you wait a day and count the sample again in the same position as the previous count. A decrease in the heights of the 0.559 and 0.657 MeV peaks, by a little less than half in 24 hours, confirms that arsenic is the unusual element in this sample. It may not be the only impurity causing the peculiar behavior of this semiconductor, but it does seem a likely candidate.</p>
+                     <p rend="justify">Graph: “Counts in 20 minutes per 3.8 KeV channel” _vs_ “Channel Number”</p>
+                     <p rend="justify">The gamma-ray spectrum obtained after activation of a sample of “pure” silicon having “ordinary” properties of this type of semiconductor. Only very small quantities of various trace impurities are indicated.</p>
+                     <p rend="justify">Graph: “Counts in 20 minutes per 3.8 KeV channel” _vs_ “Channel number”</p>
+                     <p rend="justify">The gamma-ray spectrum obtained after activation of a sample of silicon having “unusual” electrical properties. While most of the spectrum is identical with that obtained from the ordinary material, there is an interesting difference.</p>
+                     <p rend="justify">Using the equation given on page 12, the approximate known values for half-life, sample weight, neutron flux, and periods of irradiation and decay after irradiation, and an estimated value for the number of arsenic-76 atoms measured by the gamma-ray spectrometer, you calculate that the arsenic content of the sample is approximately 44 parts per million (ppm). (See appendix.)</p>
+                     <p rend="justify">With this information as a starting point, you are now ready to proceed with further research on the properties of your semiconductor, e.g., if you double the concentration of arsenic, how will that affect its properties?</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>In a Hospital</head>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">The Problem</hi>
+                     </head>
+                     <p rend="justify">You are a physician treating a patient who, because of a severe calcium deficiency, has been suffering from osteoporosis (a softening of the bones). You think you are on the right track with your treatment, but you would like to be sure in order to know whether you should continue the treatment or try something else. You would have your answer if you knew that the calcium content of his skeleton had stopped decreasing. How can you determine the amount of calcium in a living human being?</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">The Solution</hi>
+                     </head>
+                     <p rend="justify">You know that the usual techniques for determining calcium in the bones are not very useful. They are either too inaccurate to show that your patient’s calcium loss has been stopped or can only be used to measure the calcium content of the bones in his extremities. The latter is not satisfactory because these few bones may not be representative of the rest of his skeleton.</p>
+                     <p rend="justify">Recently, however, there have been reports of neutron activation analysis of whole persons, in which the calcium content of their bones has been measured with unusually good reliability. This has been accomplished by scientists and doctors working at the University of Washington School of Medicine in Seattle.</p>
+                     <p rend="justify">You manage to obtain an appointment for your patient and you accompany him to the hospital for the analysis. There he is placed on a rotating platform with his head encircled by a plastic helmet and his arms and legs submerged in a water-filled plastic container. See the photograph on the next page. The platform is located in a beam of neutrons emanating from a beryllium target 15 feet away, which is being bombarded by deuterons from a 22-MeV cyclotron. The purpose of the water is to surround the bones in that part of the subject’s skeleton with a neutron moderator equivalent to the body tissue surrounding the rest of his skeleton. (A neutron moderator slows down the neutrons and thus makes them more likely to activate the calcium in the bones.) On each side of the patient, there are two plastic containers permanently filled with a solution containing a known quantity of calcium. These serve as standards for the analysis.</p>
+                     <p rend="justify">The beam of neutrons is turned on for 35 to 40 seconds. It is then interrupted while platform and patient are rotated 180 degrees. The irradiation is resumed so that a uniform dose of neutrons bombards the patient from both front and back.</p>
+                     <p rend="justify">During the irradiation your patient receives a dose of radiation equivalent to approximately 10 ordinary chest X rays and one of the calcium isotopes in his bones (calcium-48) is activated to calcium-49. The latter has a half-life of only 8.8 minutes and so counting must begin soon after the irradiation.</p>
+                     <p rend="justify">Patient</p>
+                     <p rend="justify">A patient in position for whole body irradiation with neutrons generated by an accelerator. His arms and legs are surrounded by plexiglas containers filled with water and his head is encased in a plexiglas helmet. On either side of him are containers, which serve as standards, filled with an aqueous solution of a calcium salt. The patient is standing on a turntable that is rotated 180 degrees after half the irradiation is completed so that the dose of neutrons is uniformly distributed to the front and the back of the patient.</p>
+                     <p rend="justify">Patient</p>
+                     <p rend="justify">A patient in position for whole-body gamma-ray spectrometry. The detectors are scintillation crystals that produce pulses of light proportional in intensity to the energy of the gamma ray absorbed in the crystal. The patient is scanned from head to foot in approximately 12½ minutes at a rate that is varied to compensate for the gradual decay of the calcium-49 radioactivity during this period. Near the patient’s head are two calcium standard solutions in plexiglas containers.</p>
+                     <p rend="justify">The patient lies down in a padded aluminum box and, only 4 minutes after the irradiation is concluded, a ring of 4 gamma-ray scintillation detectors[10]  begin to measure the gamma rays emitted by his body. These detectors, which are each 4 inches thick and 9⅜ inches in diameter, pass over his body from head to foot. This takes 12½ minutes and since the calcium-49 is decaying with a half-life of 8.8 minutes, the detectors are made to scan at a gradually decreasing rate to compensate for the reduced radioactivity during the later parts of the counting period. The figure on the next page  shows the gamma-ray spectrum for the patient. Notice the peak corresponding to an energy of 3.1 MeV. Because there are small contributions to this energy peak from other activated products in the body, repeat counts are taken later (after the calcium-49 has decayed) so that these contributions can be measured and subtracted.</p>
+                     <p rend="justify">Twenty minutes after the irradiation period, the radioactivity of the calcium standards is measured by the same instrument. The ratio of the counts from your patient’s body to that of the standards is 0.210; this serves as an index of the calcium content of his body on this day. Because of the care taken to make the analysis repeatable, this index is probably accurate to about 1 or 2%.</p>
+                     <p rend="justify">Your patient’s disease usually results in a decrease of approximately 3% of the calcium in his body per year. Thus, by making the same measurement a year from now, you will be able to tell if your treatment is a success by noting that the calcium level in your patient’s bones has stopped decreasing at a dangerous rate.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>In a Plastics Plant</head>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">The Problem</hi>
+                     </head>
+                     <p rend="justify">You are an analytical chemist working for a company that makes plastic. It is 11:30 a.m. and you have been called by the plant superintendent because some of the plastic coming from the plant has been showing a yellowish-brown discoloration. There seem to be only a few possible reasons for it, but no easy way to tell which one is correct. One possibility is that a copper tank, in which the plastic is prepared, is somehow being corroded by excess acid in the raw material and minute quantities of dissolved copper are discoloring the plastic. You could prove that this is the cause if you could find copper in the plastic, but the plant superintendent wants the answer immediately because a few hours delay in production will jeopardize a valuable contract, and ordinary chemical analysis would take several hours. How can you quickly determine if there is copper present in the plastic?</p>
+                     <p rend="justify">Graph: “Counts per 12.5 minutes/50 KeV channel” _vs_ “Channel no.”</p>
+                     <p rend="justify">A portion of the gamma-ray spectrum obtained after neutron activation of a human body. The area in the 3.10-MeV peak, which is above the background due to sodium and chlorine activities, is a measure of the quantity of calcium in the body of the subject. A computer may make the necessary corrections due to the background (which results from overlapping of part of the other gamma-ray peaks).</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">The Solution</hi>
+                     </head>
+                     <p rend="justify">One reason that ordinary analytical methods are so slow, in this case, is because the amount of copper you are looking for is so small that you would have to dissolve a large amount of plastic to get enough copper to measure. You know that nearly all the plastic is carbon, hydrogen, and oxygen and that none of these elements are easily made radioactive when they are bombarded with low-energy neutrons. You look in a table to see if copper is easily activated. You find that there are two stable isotopes of copper having atomic weights of 63 and 65. Each of these is easily activated, giving radioactive isotopes, copper-64 and copper-66. The latter has a half-life of about 5 minutes and emits gamma rays with energies of 1.039 MeV, which are easy to measure.</p>
+                     <p rend="justify">In the research building next door, there is a small reactor that can irradiate encapsulated samples with low-energy neutrons at the rate of a million million neutrons per square centimeter per second (10¹² neutrons/cm²/sec). You calculate that if you irradiate only one tenth of a gram of the plastic for 10 minutes, and if the plastic contains only one part of copper in one million parts of plastic, then at the end of the irradiation the radioactive copper formed will be emitting over 400 gamma rays per second. There is a pneumatic tube that can remove the irradiated sample in 20 seconds, and you decide that it will take only a minute or two to remove the sample from its capsule and get it into a gamma-ray counter located nearby. The counter is a scintillation counter that is connected to a pulse-height analyzer.</p>
+                     <p rend="justify">If you count for only 10 minutes you will detect about 1000 gamma rays of the right energy (allowing for the inefficiencies of the detector system). This sounds like it should do the job. But does the good plastic contain copper too? And how much does it take to produce the discoloration?</p>
+                     <p rend="justify">You decide to use neutron activation analysis and to analyze samples of faulty plastic, normal plastic, and a small piece of copper foil, which you have weighed and sealed in a small polyethylene bag as a standard. Your results are shown in the table below.</p>
+                     <table rend="frame" xml:id="Table6">
+                        <row role="label">
+                           <cell rend="start bold">Sample</cell>
+                           <cell rend="start bold">Counts in 10 minutes[11]</cell>
+                        </row>
+                        <row>
+                           <cell>0.1 grams faulty plastic</cell>
+                           <cell>100,000</cell>
+                        </row>
+                        <row>
+                           <cell>0.1 grams good plastic</cell>
+                           <cell>1,000</cell>
+                        </row>
+                        <row>
+                           <cell>0.1 milligrams of pure copper</cell>
+                           <cell>1,000,000</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">It worked! The faulty plastic contains 100 times as much copper as the good plastic, specifically 100 parts per million. (If 0.1 milligrams of pure copper gave 1,000,000 counts, then the 0.1 grams of faulty plastic contains (100,000/1,000,000) · 0.1 milligrams or 0.01 milligrams of copper. This is one ten thousandth of the weight of the plastic or 0.01% or 100 ppm.) You relay the information to the plant superintendent almost before he finishes his lunch. He now knows what to do and the crisis is over.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>In a Museum</head>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">The Problem</hi>
+                     </head>
+                     <p rend="justify">You are a curator working with the ancient coin collection of a large museum. A donor has just given the museum a group of 50 gold coins presumably about 1500 years old. After months of careful study, you have satisfied yourself that most of those coins are genuine specimens of that period. Judging from your experience, you decide that a small group of five are definite forgeries.</p>
+                     <p rend="justify">However, there are three others that you suspect are also fakes, but you are not quite certain. You know that both genuine minters and forgers often tried to save money by diluting their gold with less expensive metals such as silver and copper. Since the chances are slim that the forger’s product has the same concentration of gold, silver, and copper as the genuine coins, you realize that a chemical analysis would help you decide if the doubtful pieces were real or fake.</p>
+                     <p rend="justify">An accurate chemical analysis would require a sample of such size that the coin would be ruined as a museum specimen. You need an analytical method that can be applied to an infinitesimal sample.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">The Solution</hi>
+                     </head>
+                     <p rend="justify">You are not a scientist but you’ve heard about neutron activation analysis. Therefore, you contact a radiochemist at a local university who is an expert in this field.</p>
+                     <p rend="justify">He decides to use a sampling technique developed by scientists at Brookhaven National Laboratory for sampling metal objects of archaeological interest. You obtain from him a set of 50 quartz plates that have been ground on one side. Following his instructions, you carefully scrape away a small area on the edge of each coin. You then rub each freshly cleaned area across the ground surface of one plate leaving a minute streak of metal similar to a pencil mark.</p>
+                     <p rend="justify">At the scientist’s laboratory, each plate is carefully placed inside a quartz tube. No attempt is made to weigh the tiny streak of metal since you wish only to compare the ratios of the metal concentrations. However, because the samples make a rather bulky package, the scientist is concerned with the uniformity of the neutron flux that each sample will “see”. He therefore also places in each tube an exactly equal weight of a gold—silver—copper alloy wire (of known proportions) to act as a standard neutron-flux monitor. The tubes are then sealed and taken to a reactor to be irradiated for 12 hours.</p>
+                     <p rend="justify">After the samples are removed from the reactor, the scientist carefully breaks open each of the quartz tubes and places the sample and the standard piece of wire in separate numbered plastic capsules with lids. For an accurate comparison, each capsule is prepared in the same manner. About 4 hours after the samples are removed from the reactor, he begins the radioactivity measurements.</p>
+                     <p rend="justify">The sample capsules are loaded into an automatic sample-changing mechanism that places each one into an identical position above a lithium-drifted germanium detector. (See the chapter beginning on page 19.) Gamma-ray spectra are collected all day, first from a sample, then from its accompanying standard. Each count takes 2 minutes, and 3 minutes are required between counts for data printout and sample changing. A typical gamma-ray spectrum looks like the one in the figure on the next page. Notice that only gold (gold-198) and copper (copper-64) show up in this short counting time. Later on, radioactivity from silver (silver-110<hi rend="italic">m</hi>) can be measured using a longer counting time. This can be done because while the activation products from copper and gold have relatively short half-lives (12.8 hours and 2.7 days, respectively), that from silver has a half-life of 270 days. To increase the sensitivity of the analysis for silver, the scientist repackages and re-irradiates the samples and wires for 100 hours. Silver-110<hi rend="italic">m</hi>  is one of <hi rend="italic">two</hi>  radioactive isotopes of silver that have the <hi rend="italic">same</hi>  mass. In this case, one has a higher energy than the other and decays in a different way. This is known as an isomeric state and it occurs for many other elements as well as for silver.</p>
+                     <p rend="justify">Graph: “Counts in one minute per 3.1 KeV channel” _vs_ “Channel”</p>
+                     <p rend="justify">The spectrum obtained from a streak of metal on a quartz plate after a 3-hour exposure to neutrons in a reactor and a 6-hour delay before counting. The activation products of gold and copper are obviously present and are easily measured in only 1 minute.</p>
+                     <p rend="justify">Graph: “Counts per 100 minutes per 3.2 KeV channel” _vs_ “Channel number”</p>
+                     <p rend="justify">The spectrum obtained from the same streak of metal after re-exposure to neutrons for 100 hours and a delay of approximately 2 months before counting. Activation products from gold and copper have decayed away and the gamma-ray spectrum of silver-110m is now observed. In this case the sample is closer to the detector than for the earlier measurement and the measurement takes 100 minutes.</p>
+                     <p rend="justify">Two months later, the scientist repeats the procedure of counting the samples and standards, except that this time the plastic capsules are closer to the detector, each count is for 100 minutes, and the sample changer operates for about a week. A typical spectrum looks like that in the figure on page 39.</p>
+                     <p rend="justify">The scientist can now compute ratios for the three elements in each sample and compare them with the standard, but he decides that a computer could do it faster and with fewer errors. The data collected during the two series of counts are therefore sent to a data processing center where, in a matter of minutes, a computer does the following for each of 50 samples:</p>
+                     <p rend="justify">1. Finds the 0.411-MeV gamma-ray peak for gold-198.</p>
+                     <p rend="justify">2. Determines the total counts in the peak.</p>
+                     <p rend="justify">3. Repeats the process for the corresponding wire standard.</p>
+                     <p rend="justify">4. Corrects the total count for the wire for the small amount of radioactive decay that occurred in the few minutes between the sample count and the standard count.</p>
+                     <p rend="justify">5. Computes the ratio: [total count for sample/total count for standard (corrected)]</p>
+                     <p rend="justify">6. Repeats all the above for the 0.511-MeV gamma ray for copper-64 and (in the longer counts) for the 0.658-MeV gamma ray for silver-110.</p>
+                     <p rend="justify">7. Computes the ratios: [sample to standard (for copper)/sample to standard (for gold)] and [sample to standard (for silver)/sample to standard (for gold)].</p>
+                     <p rend="justify">8. Tabulates and prints the ratios found in Step 7.</p>
+                     <p rend="justify">Graph: Number of coins at indicated ratios vs. Copper/gold ratio</p>
+                     <p rend="justify">Radioactivity ratios for 50 “gold” coins. Above are the silver to gold ratios. There are two groups of genuine coins. Five known forgeries show considerably higher ratios than the genuine coins. Two of the suspect coins also show high ratios but the third, suspect A, shows a ratio that falls into one of the genuine groups. Below are the copper to gold ratios. Again there are two groups of genuine coins. (The same coins make up the two groups here as above.) The five known forgeries again show higher ratios than the genuine ones and again the same two suspects appear to be forgeries. Suspect A, however, shows a ratio similar to one group of the genuine specimens. One therefore concludes that suspect A is genuine and that B and C are not.</p>
+                     <p rend="justify">For example, suppose for <hi rend="italic">sample 1</hi>  there are 20,000 counts in the 0.412-MeV peak (gold), 190 counts in the 0.511-MeV peak (copper), and 450 counts in the 0.654-MeV peak (silver). Suppose also that <hi rend="italic">standard 1</hi>  yielded 10,000, 500, and 400 counts for these three peaks (corrected for decay), respectively. Then the ratio for gold would be (20,000/10,000) = 2.00, the ratio for copper would be (190/500) = 0.380, and the ratio for silver would be (450/400) = 1.13.</p>
+                     <p rend="justify">Finally, the activity ratio of copper to gold would be (0.380/2.00) = 0.190, and the activity ratio of silver to gold would be (1.13/2.00) = 0.565.</p>
+                     <p rend="justify">Because each sample was irradiated with an identical standard, and counted in an identical arrangement, the last two ratios will be the same for different samples if, and only if, the concentrations of gold, silver, and copper in those samples are in identical proportions. This will be true no matter where in the reactor or for how long the irradiation took place.</p>
+                     <p rend="justify">Now the scientist presents the data to you. You immediately see that (a) the good coins fall into two groups, one with a silver to gold activity ratio of approximately 0.56 and a copper to gold ratio of approximately 0.20 and a second group with these ratios approximately 0.51 and 0.18; (b) the coins you were certain were forgeries have distinctly higher ratios ranging from 0.60 to 0.65 for silver to gold and from 0.23 to 0.30 for copper to gold; and (c) of the three suspected coins, two have ratios that fall into the range of the known forgeries, but one, with ratios of 0.552 and 0.198, is probably genuine.</p>
+                     <p rend="justify">You present the result to the museum director in the form of a graph (see the figure on page 41) and a few weeks later, 43 coins are added to the permanent exhibits of the museum, while 7 are discarded.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>In a Criminology Laboratory</head>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">The Problem</hi>
+                     </head>
+                     <p rend="justify">You are a scientist working in the criminology laboratory of a large metropolitan city. A detective brings you a minute sample of paint taken from the clothing of a hit-and-run victim. He has a suspect whose automobile paint seems to match that sample. The suspect was found in his parked automobile, not far from the scene of the accident. He seems to fit the description given by two witnesses, and he is extremely nervous. You scrape a small sample of paint from a recently damaged area of the suspect’s car, and, (with the aid of a microscope) find that the pigment content seems to be the same as that taken from the victim’s clothing. But, are they really from the same paint?</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">The Solution</hi>
+                     </head>
+                     <p rend="justify">You know that paint, like almost everything else, contains very small quantities of impurities that are present only by accident and do not affect its properties as a useful material. The trace impurities, as they are called, will vary from batch to batch of the same paint. Very rarely will a match be obtained in both type and concentration of trace impurities in two samples if they are not from the same batch.</p>
+                     <p rend="justify">By measuring a sufficient number of different elements, the probability of accidentally matching two samples can be as rare as the duplication of fingerprints in two individuals. Matching of trace impurities is often called a “fingerprint” method.</p>
+                     <p rend="justify">With neutron activation analysis, you can obtain the “fingerprints” of the two samples to see if they match. Although this kind of evidence may be difficult to use as proof in court, a positive match will let the detective know that he is on the right track. Also, the suspect might confess if he is confronted with the evidence and realizes that he is “caught”. On the other hand, a mismatch will clear the suspect completely and the detective will know to look elsewhere for the criminal.</p>
+                     <p rend="justify">You seal each sample in a tiny polyethylene bag about ½ inch square. One sample is taken from the victim’s clothing and the second, about the same size as the first, taken from the damaged area of the automobile. In preparing these samples, you handle all the materials with clean forceps because you realize that the most minute dirt from your fingers will be detected in the analysis.</p>
+                     <p rend="justify">The two bags are irradiated together for 1 hour in a nearby reactor and 2 hours later you begin counting the samples with a high-resolution, lithium-drifted-germanium, gamma-ray spectrometer. This will give you a match (or mismatch) for elements that yield radioisotopes of fairly short half-life such as manganese (2.56 hours), copper (12.8 hours), sodium (15 hours), arsenic (27.7 hours), etc. You plan on “counting” the samples again later on, if the first counts match, so that you can check on radioisotopes with longer half-lives such as iron (45 days), chromium (27 days), silver (270 days), cobalt (5 years), etc.</p>
+                     <p rend="justify">The two gamma-ray spectra you obtain look like those in the figure on the opposite page. The gamma rays from the irradiated paint taken from the victim’s clothing indicate the presence of the common elements sodium, potassium, and copper, but gold, lanthanum, and europium are also conspicuously present. The gamma rays from the other sample also reveal sodium, potassium, and gold but in rather different proportions. More striking is the absence of copper and the two rare earths, and the presence of manganese and arsenic, which were not indicated in the first sample.</p>
+                     <p rend="justify">The paint samples definitely do not match. Therefore, you inform the detective that his suspect is innocent after all. You’ve solved your problem, but he still has his. Perhaps the same technique will provide positive proof when he finds the real culprit.</p>
+                     <p rend="justify">Graph: “Counts/10 min per 3.3 KeV channel (arbitrary scale)” _vs_ “Channel number”</p>
+                     <p rend="justify">Graph: “Counts/10 min per 3.3 KeV channel (arbitrary scale)” _vs_ “Channel number”</p>
+                     <p rend="justify">Gamma-ray spectra of two samples of paint. These two spectra are obviously different and, therefore, could not have come from the same source.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SUMMING UP: WHAT LIES AHEAD</head>
+               <p rend="justify">These five situations are intended to show why neutron activation analysis is used, when it can be applied, and how it works.</p>
+               <p rend="justify">In the real world, there are often many reasons <hi rend="italic">why</hi>  this kind of analysis is used. As in the situations described here, it may be the only workable method. Sometimes there may be a choice of methods, but activation analysis is used because it has certain peculiar advantages or because it happens to be the most convenient. There are other times, however, when other analytical methods can and should be used. Such situations arise when the element sought is not easily activated, or when a satisfactory alternative method exists that is more economical or more convenient. The points to remember about the use of activation analysis are that:</p>
+               <p rend="justify">1. In many cases, no elaborate sample preparation procedure is required.</p>
+               <p rend="justify">2. For many elements, it is the most sensitive analytical technique known.</p>
+               <p rend="justify">The diversity of <hi rend="italic">applications</hi>  in which activation analysis is used is enormous and will probably continue to be. The examples given here represent only a tiny fraction of circumstances in which the method has been used. Consider that it has been used successfully:</p>
+               <p rend="justify">1. In the microscopic world of biology and medicine;</p>
+               <p rend="justify">2. For meteorites arriving from the vast reaches of space;</p>
+               <p rend="justify">3. In the production lines of consumer products;</p>
+               <p rend="justify">4. For precious samples of moon rocks;</p>
+               <p rend="justify">5. In the most “down-to-earth” business of hunting for new mineral sources;</p>
+               <p rend="justify">6. For exploring the causes of Napoleon’s death nearly 150 years earlier (see photograph on next page). Today, there is virtually no field of science and technology that is untouched by this method.</p>
+               <p rend="justify">The illustrations of <hi rend="italic">procedures</hi>  used in the situations described in this booklet are typical of some in use today. There are many other situations that require still other techniques. One of the most exciting, which will be used with increasing frequency in the future, involves the use of computers. It has been shown that data collected by high-resolution gamma-ray spectrometers can be “fed” directly to a computer. The computer can be programmed to identify unknown components and to determine the concentrations of elements of interest to the analyst. It is entirely possible to include corrections for radioactive decay, possible interferences from other elements present, and many other factors. It appears quite likely that the kinds of analyses described here (as well as others) may someday be accomplished automatically, with far smaller chances for error and probably more economically.</p>
+               <p rend="justify">Hair sample</p>
+               <p rend="justify">Samples of Napoleon’s hair. Neutron activation analysis of these hairs revealed that he had been poisoned with arsenic. (He died, however, not from arsenic poisoning, but from acute mercury intoxication.)</p>
+               <p rend="justify">Other newer techniques that may find increased usage in the future are exemplified by the method for activation analysis of the whole human body. The use of neutrons produced by nuclear machines (such as cyclotrons or other particle accelerators) or produced by compact, portable isotopic sources will make neutron activation analysis even more versatile. Isotopic sources produce neutrons as the result of a nuclear reaction. One such reaction uses alpha particles emitted by polonium-210 (or some other alpha emitter) to bombard the element beryllium. A different kind of isotopic source is the man-made radioisotope californium-252 that decays by fissioning (splitting) spontaneously and produces neutrons in the process. (One milligram of californium-252 will spontaneously produce over 10⁹ neutrons per second.) While californium-252 is quite expensive at present, it is likely that production costs will be significantly reduced in the future.</p>
+               <p rend="justify">With computers, more convenient radiation sources, and continuing improvements in the technology of gamma-ray detectors and nuclear electronics, neutron activation analysis will become more and more a routine tool of the analyst.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>APPENDIX</head>
+               <p rend="justify">Calculation of arsenic concentration with no standard for comparison.</p>
+               <p rend="justify">1. Determination of arsenic-76 activity produced from <hi rend="italic">1</hi>  microgram of arsenic at the time it comes out of the reactor.</p>
+               <p rend="justify">We use the equation from page 12:</p>
+               <p rend="justify">A₀ = Nφσ (1 - e<hi rend="sup">-λt</hi>)</p>
+               <p rend="justify">where N is the number of target atoms. (One microgram of arsenic contains (10<hi rend="sup">-6</hi>  gram/75 grams per mole[12]) × 6.02 × 10²³ atoms per mole which is 8 × 10¹⁵ atoms of arsenic.)</p>
+               <p rend="justify">φ is the neutron flux. (This would be known to the reactor operator. It is usually measured by inserting materials of known composition and measuring their activation. In this case, φ = 10¹³ neutrons per square centimeter per second.)</p>
+               <p rend="justify">σ is the activation cross section. (Neutron cross sections have been measured and tabulated by scientists. For the activation of arsenic-75 to arsenic-76, the cross section is known to be 4.2 × 10<hi rend="sup">-24</hi>  square centimeter.)</p>
+               <p rend="justify">λ is the disintegration constant for arsenic-76. (Here, λ = (ln 2[13]/t<hi rend="sub">½</hi>,(in hours); t<hi rend="sub">½</hi>, the half-life for arsenic-76, is 26.6 hours so λ = (0.693/26.6) = 0.026.)</p>
+               <p rend="justify">t is the time of the irradiation. (Here t is 12 hours.)</p>
+               <p rend="justify">Therefore: A₀, the activity of arsenic-76,</p>
+               <p rend="justify">= 8 × 10¹⁵ × 10¹³ × 4.2 × 10<hi rend="sup">-24</hi>  × (1 - e<hi rend="sup">-0.026 × 12</hi>)</p>
+               <p rend="justify">(Note: e is a physical constant, 2.71+)</p>
+               <p rend="justify">= 9 × 10⁴ disintegrations per second per microgram</p>
+               <p rend="justify">2. Determination of activity of arsenic measured in the sample and corrected back to the time of removal from the reactor.</p>
+               <p rend="justify">We use the equation:</p>
+               <p rend="justify">A₁ =</p>
+               <table rend="frame" xml:id="Table7">
+                  <row>
+                     <cell>R</cell>
+                  </row>
+                  <row>
+                     <cell>E × F</cell>
+                  </row>
+               </table>
+               <p rend="justify">e<hi rend="sup">λt</hi>
+               </p>
+               <p rend="justify">where R is the measured count rate. (In this case, R is the number of counts per second observed in the 0.559-MeV gamma-ray peak, which is 5300 counts in 20 minutes or 4.4 counts per second.)</p>
+               <p rend="justify">E is the efficiency of the detector. (In this case, it is the number of counts observed in the 0.559 peak for each 0.559-MeV gamma ray emitted by a radioactive material at the sample distance. This is known for the detector being used by making other measurements and, for the set-up used here, is 0.010.)</p>
+               <p rend="justify">F is the average number of 0.559-MeV gamma rays emitted in each disintegration of arsenic-76. (This can be deduced from the decay scheme of arsenic-76. See the decay scheme for manganese-56 on page 13. In the decay of arsenic-76 the number of 0.559-MeV gamma rays emitted per disintegration is approximately 0.41.)</p>
+               <p rend="justify">λ is the disintegration constant for arsenic-76. (0.026, see page 49.)</p>
+               <p rend="justify">t is the decay time. (This is the number of hours from the time the sample was removed from the reactor to the time it was counted, or 5 hours.)</p>
+               <p rend="justify">Therefore, A₁, the activity of arsenic-76 produced in the sample at the time of removal from the reactor,</p>
+               <p rend="justify">=</p>
+               <table rend="frame" xml:id="Table8">
+                  <row>
+                     <cell>4.4 counts per second</cell>
+                  </row>
+                  <row>
+                     <cell>0.010 × 0.41</cell>
+                  </row>
+               </table>
+               <p rend="justify">e<hi rend="sup">0.026 × 5 hours</hi>
+               </p>
+               <p rend="justify">= 1200 disintegrations per second</p>
+               <p rend="justify">3. Calculation of arsenic concentration in the sample.</p>
+               <p rend="justify">We use the equation:</p>
+               <p rend="justify">Concentration in parts per million =</p>
+               <table rend="frame" xml:id="Table9">
+                  <row>
+                     <cell>A₁</cell>
+                  </row>
+                  <row>
+                     <cell>A₀ × W</cell>
+                  </row>
+               </table>
+               <p rend="justify">10⁶</p>
+               <p rend="justify">where A₁ and A₀ were determined above and W is the weight of sample analyzed or 300 micrograms (0.0003 gram).</p>
+               <p rend="justify">Therefore the concentration is</p>
+               <table rend="frame" xml:id="Table10">
+                  <row>
+                     <cell>1200</cell>
+                  </row>
+                  <row>
+                     <cell>9 × 10⁴ × 300</cell>
+                  </row>
+               </table>
+               <p rend="justify">× 10⁶ = 44 parts per million.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FOOTNOTES</head>
+               <p rend="justify">[1]There are exceptions. For a few elements there are no stable nuclei. In some cases, there are other differences that make certain atoms radioactive.</p>
+               <p rend="justify">[2]These gamma rays (called prompt gamma rays because they are instantaneously produced when the neutron is captured) can also be used for analysis and sometimes are, but we will not be discussing this type of analysis in this booklet.</p>
+               <p rend="justify">[3]Sensitivity in this case means how small an amount of an unknown element can be detected.</p>
+               <p rend="justify">[4]Nuclide is a general term applicable to all atomic forms of elements. Whereas isotopes are the various forms of a single element (hence are a family of nuclides) and all have the same atomic number and number of protons, nuclides comprise all the isotopic forms of all the elements.</p>
+               <p rend="justify">[5]The half-life of a radioactive nuclide is the time it takes for half the nuclei in a large sample to undergo decay. Note that after half of them are gone, a second half-life period will reduce the <hi rend="italic">remainder</hi>  by one half, leaving one quarter of the original number.</p>
+               <p rend="justify">[6]The disintegration constant is related to the half-life, T<hi rend="sub">½</hi>, by the expression: λ = natural logarithm of 2/half-life, or</p>
+               <p rend="justify">λ =</p>
+               <table rend="frame" xml:id="Table11">
+                  <row>
+                     <cell>ln 2</cell>
+                  </row>
+                  <row>
+                     <cell>T<hi rend="sub">½</hi>
+                     </cell>
+                  </row>
+               </table>
+               <p rend="justify">=</p>
+               <table rend="frame" xml:id="Table12">
+                  <row>
+                     <cell>0.693</cell>
+                  </row>
+                  <row>
+                     <cell>T<hi rend="sub">½</hi>
+                     </cell>
+                  </row>
+               </table>
+               <p rend="justify">[7]The detector efficiency is the ratio of the number of gamma rays detected to the number emitted by the sample.</p>
+               <p rend="justify">[8]A deuteron is the nucleus of a heavy hydrogen (deuterium) atom and consists of one neutron and one proton.</p>
+               <p rend="justify">[9]Not all nuclear reactors are appropriate for this work. For example, reactors designed for electric power production do not have the means built into them for inserting and removing small samples for a “short” period of irradiation.</p>
+               <p rend="justify">[10]A scintillation detector is a crystalline device, usually sodium iodide containing a small amount of thallium, which has the property of emitting light when energy is absorbed from nuclear radiation.</p>
+               <p rend="justify">[11]After a 10-minute irradiation and a 3-minute delay before counting, corrected for decay to a common time.</p>
+               <p rend="justify">[12]One mole is the atomic weight of an atom or molecule expressed in grams, or the weight of 6.02 × 10²³ atoms or molecules per mole.</p>
+               <p rend="justify">[13]ln 2 is the natural logarithm of 2.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>READING LIST</head>
+               <div type="div3">
+                  <head>General Information About Nuclear Science</head>
+                  <p rend="justify">
+                     <hi rend="bold italic">Secrets of the Nucleus</hi>, Joseph S. Levinger, McGraw-Hill Book Company, New York, 1967, 127 pp., $0.50.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Working With Atoms</hi>, Otto R. Frisch, Basic Books, Inc., Publishers, New York, 1965, 96 pp., $3.50.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">The Atom and Its Nucleus</hi>, George Gamow, Prentice-Hall, Inc., Englewood Cliffs, New Jersey, 1961, 153 pp., $1.95.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Inside the Nucleus</hi>, Irving Adler, The John Day Company, Inc., New York, 1963, 192 pp., $4.95.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Radioisotopes and Radiation</hi>, John H. Lawrence, Bernard Manowitz, and Benjamin S. Loeb, Dover Publications, Inc., New York, 1964, 131 pp., $2.50.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Sourcebook on Atomic Energy</hi>  (third edition), Samuel Glasstone, Van Nostrand Reinhold Company, New York, 1967, 883 pp., $15.00.</p>
+                  <p rend="justify">The Semiconductor Revolution in Nuclear Radiation Counting, J. M. Hollander and I. Perlman, <hi rend="bold italic">Science</hi>, 154: 84 (October 7, 1966).</p>
+               </div>
+               <div type="div3">
+                  <head>About Activation Analysis</head>
+                  <div type="div4">
+                     <head>Popular Level</head>
+                     <p rend="justify">Neutron Activation Analysis, Vincent P. Guinn, <hi rend="bold italic">International Science and Technology, Prototype Issue,</hi> 74 (1961).</p>
+                     <p rend="justify">Distribution of Arsenic in Napoleon’s Hair, Hamilton Smith, Sten Forshufvud, and Anders Wassen, <hi rend="bold italic">Nature</hi>, 194: 725 (May 26, 1962).</p>
+                     <p rend="justify">Nuclear Activation Analysis, Richard E. Wainerdi and Norman P. DuBeau, <hi rend="bold italic">Science</hi>, 139: 1027 (March 15, 1963).</p>
+                     <p rend="justify">Neutron Activation Analysis, W. H. Wahl and H. H. Kramer, <hi rend="bold italic">Scientific American</hi>, 68: 210 (April 1967).</p>
+                  </div>
+                  <div type="div4">
+                     <head>Technical Level</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">Activation Analysis Handbook</hi>, Robert C. Koch, Academic Press, Inc., New York, 1960, 219 pp., $8.00.</p>
+                     <p rend="justify">Neutron Activation Experiments in Radiochemistry, K. S. Vorres, <hi rend="bold italic">Journal of Chemical Education</hi>, 37: 391 (August 1960).</p>
+                     <p rend="justify">Radioactivation Analysis, H. J. M. Bowen and E. Gibbons, Oxford University Press, London, England, 1963, 295 pp., $8.00.</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Neutron Irradiation and Activation Analysis</hi>, Denis Taylor, Van Nostrand Reinhold Company, New York, 1964, 185 pp., $8.95.</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Guide to Activation Analysis</hi>, William A. Lyon (Ed.), Van Nostrand Reinhold Company, New York, 1964, 186 pp., $5.95.</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Advances in Activation Analysis</hi>, Volume 1, J. M. A. Lenihan and S. J. Thomson (Eds.), Academic Press, Inc., New York, 1969, 233 pp., $9.50.</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Activation Analysis; Principles and Applications</hi>, J. M. A. Lenihan and S. J. Thomson (Eds.), Academic Press, Inc., New York, 1965, 211 pp., $8.50.</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Modern Trends in Activation Analysis</hi>, Volumes 1 and 2, J. R. DeVoe and P. D. LaFleur (Eds.), National Bureau of Standards Special Publication Number 312, U. S. Government Printing Office, Washington, D. C., 1969, 2005 pp., $8.50.</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Pottery Analysis by Neutron Activation</hi>, I. Perlman and F. Assaro, <hi rend="italic">Archaeometry</hi>, 11: 21 (1969).</p>
+                  </div>
+                  <div type="div4">
+                     <head>Bibliographies</head>
+                     <p rend="justify">
+                        <hi rend="bold italic">Activation Analysis: A Bibliography</hi>, G. J. Lutz, R. J. Boreni, R. S. Maddock, and W. W. Meinke (Eds.), National Bureau of Standards Technical Note 467, U. S. Government Printing Office, Washington, D. C., 1969, $8.50.</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Forensic Science: A Bibliography of Activation Analysis Papers</hi>, G. J. Lutz (Ed.), National Bureau of Standards Technical Note 519, U. S. Government Printing Office, Washington, D. C., 1970, $0.50.</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Determination of Light Elements in Metals: A Bibliography of Activation Analysis Papers</hi>, G. J. Lutz (Ed.), National Bureau of Standards Technical Note 524, U. S. Government Printing Office, Washington, D. C., 1970, $0.75.</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Pollution Analysis: A Bibliography of the Literature of Activation Analysis Papers</hi>, G. J. Lutz (Ed.), U. S. Government Printing Office, 1971, $0.45.</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">14-MeV Neutron Generators in Activation Analysis: A Bibliography</hi>, G. J. Lutz (Ed.), U. S. Government Printing Office, 1971, $1.00.</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Oceanography: A Bibliography of Selected Activation Analysis Literature</hi>, G. J. Lutz (Ed.), U. S. Government Printing Office, Washington, D. C., 1971, $0.50.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>MOTION PICTURES</head>
+                  <p rend="justify">Available for loan without charge from the USERDA-TIC Film Library, P. O. Box 62, Oak Ridge, TN 37830.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">The Nuclear Witness: Activation Analysis in Crime Investigation</hi>, 28 minutes, color, 1966. This film illustrates the application of activation analysis to the investigation of criminal cases involving murder, burglary, and narcotics peddling.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Nuclear Fingerprinting of Ancient Pottery</hi>, 20 minutes, color, 1970. Animated sequences are used to explain several of the analytical techniques. Part of the film shows how the research is actually done in the laboratory.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">The Atomic Fingerprint</hi>, 12½ minutes, color, 1964. The principles of neutron activation analysis are explained and the machines used in this work are shown. Some of its applications in crime detection, geology and soil science, analysis of art and archaeological objects, oil refining, agriculture, electronics, biology and medicine, and the space sciences are illustrated.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Neutron Activation Analysis</hi>, 40 minutes, color, 1964. This film describes the nature, potentialities, and applications of neutron activation analysis. The kinds of neutron sources used and the counting techniques are shown. Examples of applications in crime detection, geology and geochemistry, agriculture, medicine, the petroleum and chemical industries, and the semiconductor industry are shown.</p>
+                  <table rend="frame" xml:id="Table13">
+                     <row role="label">
+                        <cell> </cell>
+                        <cell rend="start bold">Photo Credits</cell>
+                     </row>
+                     <row>
+                        <cell>Cover</cell>
+                        <cell>Federal Bureau of Investigation</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>Smithsonian Institution</cell>
+                     </row>
+                     <row>
+                        <cell>30 &amp; 31</cell>
+                        <cell>University Hospital, University of Washington</cell>
+                     </row>
+                     <row>
+                        <cell>47</cell>
+                        <cell>Dr. Sten Forshufvud</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Bernard Keisch</p>
+               </div>
+               <div type="div3">
+                  <head>The Author</head>
+                  <p rend="justify">Dr. Bernard Keisch received his B.S. degree from Rensselaer Polytechnic Institute and his Ph.D. from Washington University. He is now a Senior Fellow at the Carnegie-Mellon Institute of Research at Carnegie-Mellon University in Pittsburgh. He is presently engaged in a project that deals with the applications of nuclear technology to art identification. This is sponsored by the National Gallery of Art and in the past has also received support from the U. S. Atomic Energy Commission and the National Science Foundation. Previously he was a nuclear research chemist with the Phillips Petroleum Company and senior scientist at the Nuclear Science and Engineering Corporation. He has contributed articles on art authentication to a number of journals. For ERDA, in addition to this booklet, he has written <hi rend="bold italic">The Mysterious Box: Nuclear Science and Art</hi>, <hi rend="bold italic">Lost Worlds: Nuclear Science and Archaeology</hi>, and <hi rend="bold italic">Secrets of the Past: Nuclear Energy Applications in Art and Archaeology</hi>.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A word about ERDA....</head>
+               <p rend="justify">The mission of the U. S. Energy Research &amp; Development Administration (ERDA) is to develop all energy sources, to make the Nation basically self-sufficient in energy, and to protect public health and welfare and the environment. ERDA programs are divided into six major categories:</p>
+               <p rend="justify">· CONSERVATION OF ENERGY—More efficient use of existing energy sources, development of alternate fuels and engines for automobiles to reduce dependence on petroleum, and elimination of wasteful habits of energy consumption.</p>
+               <p rend="justify">· FOSSIL ENERGY—Expansion of coal production and the development of technologies for converting coal to synthetic gas and liquid fuels, improvement of oil drilling methods and of techniques for converting shale deposits to usable oil.</p>
+               <p rend="justify">· SOLAR, GEOTHERMAL, AND ADVANCED ENERGY SYSTEMS—Research on solar energy to heat, cool, and eventually electrify buildings, on conversion of underground heat sources to gas and electricity, and on fusion reactors for the generation of electricity.</p>
+               <p rend="justify">· ENVIRONMENT AND SAFETY—Investigation of health, safety, and environmental effects of the development of energy technologies, and research on management of wastes from energy production.</p>
+               <p rend="justify">· NUCLEAR ENERGY—Expanding medical, industrial and research applications and upgrading reactor technologies for the generation of electricity, particularly using the breeder concept.</p>
+               <p rend="justify">· NATIONAL SECURITY—Production and administration of nuclear materials serving both civilian and military needs.</p>
+               <p rend="justify">ERDA programs are carried out by contract and cooperation with industry, university communities, and other government agencies. For more information, write to USERDA-Technical Information Center, P. O. Box 62, Oak Ridge, Tennessee 37830.</p>
+               <p rend="justify">ERDA Seal</p>
+               <lg>
+                  <l>United States</l>
+                  <l>Energy Research and Development Administration</l>
+                  <l>Office of Public Affairs</l>
+                  <l>Washington, D.C. 20545</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Transcriber’s Notes</head>
+               <list rend="bulleted">
+                  <item>Retained publication information from the printed edition: this eBook is public-domain in the country of publication.</item>
+                  <item>Where possible, UTF superscript and subscript numbers are used; some e-reader fonts may not support these characters.</item>
+                  <item>In the text version only, text in italics is delimited by _underscores_.</item>
+                  <item>In the text version only, superscript text is preceded by caret and delimited by ^{brackets}.</item>
+                  <item>In the text version only, subscripted text is preceded by underscore and delimited by _{brackets}.</item>
+                  <item>In the text version only, added a brief label to each illustration; and for graphs, provided tabular summaries of the data where possible.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
