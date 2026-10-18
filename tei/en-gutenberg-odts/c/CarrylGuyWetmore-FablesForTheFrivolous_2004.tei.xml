@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fables for the Frivolous</title>
+            <author>Guy Wetmore Carryl</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T01:43:01Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/c/CarrylGuyWetmore-FablesForTheFrivolous_2004.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Guy Wetmore Carryl</name>
+               <date>2024-01-04T01:43:01Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Fables for the Frivolous</head>
+         <author>Guy Wetmore Carryl</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/c/CarrylGuyWetmore-FablesForTheFrivolous_2004.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>Fables for the Frivolous</head>
+            <lg>
+               <l> FABLES FOR THE FRIVOLOUS</l>
+               <l/>
+               <l>(With Apologies to La Fontaine)</l>
+               <l/>
+               <l> By GUY WETMORE CARRYL</l>
+               <l/>
+               <l>With Illustrations by Peter Newell</l>
+               <l/>
+               <l/>
+               <l>1898</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>  FABLES FOR THE FRIVOLOUS</l>
+               <l/>
+               <l/>
+               <l>TO</l>
+               <l>MY FATHER</l>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table1">
+               <row>
+                  <cell rend="justify">NOTE:<lb/>I have pleasure in acknowledging the courteous permission<lb/>the editors to reprint in this form such of the following fables<lb/>were originally published in Harper's periodicals, in Life,<lb/>and Munsey's Magazine.                                             <lb/>                                                                G. W. C.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l>CONTENTS</l>
+               <l/>
+               <l>THE AMBITIOUS FOX AND THE UNAPPROACHABLE GRAPES</l>
+               <l/>
+               <l>THE PERSEVERING TORTOISE AND THE PRETENTIOUS HARE<lb/>
+               </l>
+               <l>THE PATRICIAN PEACOCKS AND THE OVERWEENING JAY</l>
+               <l/>
+               <l>THE ARROGANT FROG AND THE SUPERIOR BULL</l>
+               <l/>
+               <l>THE DOMINEERING EAGLE AND THE INVENTIVE BRATLING</l>
+               <l/>
+               <l>THE ICONOCLASTIC RUSTIC AND THE APROPOS ACORN</l>
+               <l/>
+               <l>THE UNUSUAL GOOSE AND THE IMBECILIC WOODCUTTER</l>
+               <l/>
+               <l>THE RUDE RAT AND THE UNOSTENTATIOUS OYSTER</l>
+               <l/>
+               <l>THE URBAN RAT AND THE SUBURBAN RAT</l>
+               <l/>
+               <l>THE IMPECUNIOUS CRICKET AND THE FRUGAL ANT</l>
+               <l/>
+               <l>THE PAMPERED LAPDOG AND THE MISGUIDED ASS</l>
+               <l/>
+               <l>THE VAINGLORIOUS OAK AND THE MODEST BULRUSH<lb/>
+               </l>
+               <l>THE INHUMAN WOLF AND THE LAMB SANS GENE</l>
+               <l/>
+               <l>THE SYCOPHANTIC FOX AND THE GULLIBLE RAVEN</l>
+               <l/>
+               <l>THE MICROSCOPIC TROUT AND THE MACHIAVELIAN FISHERMAN</l>
+               <l/>
+               <l>THE CONFIDING PEASANT AND THE MALADROIT BEAR</l>
+               <l/>
+               <l>THE PRECIPITATE COCK AND THE UNAPPRECIATED PEARL</l>
+               <l/>
+               <l>THE ABBREVIATED FOX AND HIS SCEPTICAL COMRADES<lb/>
+               </l>
+               <l>THE HOSPITABLE CALEDONIAN AND THE THANKLESS VIPER</l>
+               <l/>
+               <l>THE IMPETUOUS BREEZE AND THE DIPLOMATIC SUN<lb/>
+               </l>
+            </lg>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <lg>
+               <l>  ILLUSTRATIONS</l>
+               <l/>
+               <l>"THE FOX RETREATED OUT OF RANGE"</l>
+               <l/>
+               <l>"HE STROVE TO GROW ROTUNDER"</l>
+               <l/>
+               <l>"AN ACORN FELL ABRUPTLY"</l>
+               <l/>
+               <l>"SAID SHE, 'GET UP, YOU BRUTE YOU!'"</l>
+               <l/>
+               <l>"'J'ADMIRE,' SAID HE, 'TON BEAU PLUMAGE'"</l>
+               <l/>
+               <l>"AND SO A WEIGHTY ROCK SHE AIMED"</l>
+            </lg>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table2">
+               <row>
+                  <cell rend="center">THE AMBITIOUS FOX<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE UNAPPROACHABLE GRAPES<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  A farmer built around his crop<lb/>    A wall, and crowned his labors<lb/>  By placing glass upon the top<lb/>    To lacerate his neighbors,<lb/>       Provided they at any time<lb/>       Should feel disposed the wall to climb.<lb/>
+                     <lb/>  He also drove some iron pegs<lb/>    Securely in the coping,<lb/>  To tear the bare, defenceless legs<lb/>    Of brats who, upward groping,<lb/>       Might steal, despite the risk of fall,<lb/>       The grapes that grew upon the wall.<lb/>
+                     <lb/>  One day a fox, on thieving bent,<lb/>    A crafty and an old one,<lb/>  Most shrewdly tracked the pungent scent<lb/>    That eloquently told one<lb/>       That grapes were ripe and grapes were good<lb/>       And likewise in the neighborhood.<lb/>
+                     <lb/>  He threw some stones of divers shapes<lb/>    The luscious fruit to jar off:<lb/>  It made him ill to see the grapes<lb/>    So near and yet so far off.<lb/>       His throws were strong, his aim was fine,<lb/>       But "Never touched me!" said the vine.<lb/>
+                     <lb/>  The farmer shouted, "Drat the boys!"<lb/>    And, mounting on a ladder,<lb/>  He sought the cause of all the noise;<lb/>    No farmer could be madder,<lb/>      Which was not hard to understand<lb/>      Because the glass had cut his hand.<lb/>
+                     <lb/>  His passion he could not restrain,<lb/>    But shouted out, "You're thievish!"<lb/>  The fox replied, with fine disdain,<lb/>    "Come, country, don't be peevish."<lb/>       (Now "country" is an epithet<lb/>       One can't forgive, nor yet forget.)<lb/>
+                     <lb/>  The farmer rudely answered back<lb/>    With compliments unvarnished,<lb/>  And downward hurled the bric-à-brac<lb/>    With which the wall was garnished,<lb/>       In view of which demeanor strange,<lb/>       The fox retreated out of range.<lb/>
+                     <lb/>  "I will not try the grapes to-day,"<lb/>    He said. "My appetite is<lb/>  Fastidious, and, anyway,<lb/>    I fear appendicitis."<lb/>       (The fox was one of the élite<lb/>      Who call it site instead of seet.)<lb/>
+                     <lb/>  The moral is that if your host<lb/>    Throws glass around his entry<lb/>  You know it isn't done by most<lb/>    Who claim to be the gentry,<lb/>       While if he hits you in the head<lb/>       You may be sure he's underbred.<lb/>
+                     <lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <lg>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table3">
+               <row>
+                  <cell rend="center">THE PERSEVERING TORTOISE<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE PRETENTIOUS HARE<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center"> <lb/>  Once a turtle, finding plenty<lb/>    In seclusion to bewitch,<lb/>  Lived a dolce far niente<lb/>    Kind of life within a ditch;<lb/>  Rivers had no charm for him,<lb/>    As he told his wife and daughter,<lb/>  "Though my friends are in the swim,<lb/>    Mud is thicker far than water."<lb/>
+                     <lb/>  One fine day, as was his habit,<lb/>    He was dozing in the sun,<lb/>  When a young and flippant rabbit<lb/>    Happened by the ditch to run:<lb/>  "Come and race me," he exclaimed,<lb/>    "Fat inhabitant of puddles.<lb/>  Sluggard! You should be ashamed.<lb/>    Such a life the brain befuddles."<lb/>
+                     <lb/>  This, of course, was banter merely,<lb/>    But it stirred the torpid blood<lb/>  Of the turtle, and severely<lb/>    Forth he issued from the mud.<lb/>  "Done!" he cried. The race began,<lb/>    But the hare resumed his banter,<lb/>  Seeing how his rival ran<lb/>    In a most unlovely canter.<lb/>
+                     <lb/>  Shouting, "Terrapin, you're bested!<lb/>    You'd be wiser, dear old chap,<lb/>  If you sat you down and rested<lb/>    When you reach the second lap."<lb/>  Quoth the turtle, "I refuse.<lb/>    As for you, with all your talking,<lb/>  Sit on any lap you choose.<lb/>    I shall simply go on walking."<lb/>
+                     <lb/>  Now this sporting proposition<lb/>    Was, upon its face, absurd;<lb/>  Yet the hare, with expedition,<lb/>    Took the tortoise at his word,<lb/>  Ran until the final lap,<lb/>    Then, supposing he'd outclassed him,<lb/>  Laid him down and took a nap<lb/>    And the patient turtle passed him!<lb/>
+                     <lb/>  Plodding on, he shortly made the<lb/>    Line that marked the victor's goal;<lb/>  Paused, and found he'd won, and laid the<lb/>    Flattering unction to his soul.<lb/>  Then in fashion grandiose,<lb/>    Like an after-dinner speaker,<lb/>  Touched his flipper to his nose,<lb/>    And remarked, "Ahem! Eureka!"<lb/>
+                     <lb/>  And THE MORAL (lest you miss one)<lb/>    Is: There's often time to spare,<lb/>  And that races are (like this one)<lb/>    Won not always by a hair.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table4">
+               <row>
+                  <cell rend="center">THE PATRICIAN PEACOCKS<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE OVERWEENING JAY<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  Once a flock of stately peacocks<lb/>    Promenaded on a green,<lb/>  There were twenty-two or three cocks,<lb/>    Each as proud as seventeen,<lb/>  And a glance, however hasty,<lb/>    Showed their plumage to be tasty;<lb/>  Wheresoever one was placed, he<lb/>    Was a credit to the scene.<lb/>
+                     <lb/>  Now their owner had a daughter<lb/>    Who, when people came to call,<lb/>  Used to say, "You'd reelly oughter<lb/>    See them peacocks on the mall."<lb/>  Now this wasn't to her credit,<lb/>    And her callers came to dread it,<lb/>  For the way the lady said it<lb/>    Wasn't recherché at all.<lb/>
+                     <lb/>  But a jay that overheard it<lb/>    From his perch upon a fir<lb/>  Didn't take in how absurd it<lb/>    Was to every one but her;<lb/>  When they answered, "You don't tell us!"<lb/>    And to see the birds seemed zealous<lb/>  He became extremely jealous,<lb/>    Wishing, too, to make a stir.<lb/>
+                     <lb/>  As the peacocks fed together<lb/>    He would join them at their lunch,<lb/>  Culling here and there a feather<lb/>    Till he'd gathered quite a bunch;<lb/>  Then this bird, of ways perfidious,<lb/>    Stuck them on him most fastidious<lb/>  Till he looked uncommon hideous,<lb/>    Like a Judy or a Punch.<lb/>
+                     <lb/>  But the peacocks, when they saw him,<lb/>    One and all began to haul,<lb/>  And to harry and to claw him<lb/>    Till the creature couldn't crawl;<lb/>  While their owner's vulgar daughter,<lb/>    When her startled callers sought her,<lb/>  And to see the struggle brought her,<lb/>    Only said, "They're on the maul."<lb/>
+                     <lb/>  It was really quite revolting<lb/>    When the tumult died away,<lb/>  One would think he had been moulting<lb/>    So dishevelled was the jay;<lb/>  He was more than merely slighted,<lb/>    He was more than disunited,<lb/>  He'd been simply dynamited<lb/>    In the fervor of the fray.<lb/>
+                     <lb/>  And THE MORAL of the verses<lb/>    Is: That short men can't be tall.<lb/>  Nothing sillier or worse is<lb/>    Than a jay upon a mall.<lb/>  And the jay opiniative<lb/>    Who, because he's imitative,<lb/>  Thinks he's highly decorative<lb/>    Is the biggest jay of all.<lb/>
+                     <lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table5">
+               <row>
+                  <cell rend="center">THE ARROGANT FROG<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE SUPERIOR BULL<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  Once, on a time and in a place<lb/>    Conducive to malaria,<lb/>  There lived a member of the race<lb/>    Of Rana Temporaria;<lb/>      Or, more concisely still, a frog<lb/>      Inhabited a certain bog.<lb/>
+                     <lb/>  A bull of Brobdingnagian size,<lb/>    Too proud for condescension,<lb/>  One morning chanced to cast his eyes<lb/>    Upon the frog I mention;<lb/>      And, being to the manner born,<lb/>      Surveyed him with a lofty scorn.<lb/>
+                     <lb/>  Perceiving this, the bactrian's frame<lb/>    With anger was inflated,<lb/>  Till, growing larger, he became<lb/>    Egregiously elated;<lb/>      For inspiration's sudden spell<lb/>      Had pointed out a way to swell.<lb/>
+                     <lb/>  "Ha! ha!" he proudly cried, "a fig<lb/>    For this, your mammoth torso!<lb/>  Just watch me while I grow as big<lb/>    As you--or even more so!"<lb/>      To which magniloquential gush<lb/>      His bullship simply answered "Tush!"<lb/>
+                     <lb/>  Alas! the frog's success was slight,<lb/>    Which really was a wonder,<lb/>  In view of how with main and might<lb/>    He strove to grow rotunder!<lb/>      And, standing patiently the while,<lb/>      The bull displayed a quiet smile.<lb/>
+                     <lb/>[Illustration: "HE STROVE TO GROW ROTUNDER"]<lb/>
+                     <lb/>  But ah, the frog tried once too oft<lb/>    And, doing so, he busted;<lb/>  Whereat the bull discreetly coughed<lb/>    And moved away, disgusted,<lb/>      As well he might, considering<lb/>      The wretched taste that marked the thing.<lb/>
+                     <lb/>      THE MORAL: Everybody knows<lb/>      How ill a wind it is that blows.<lb/>
+                     <lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table6">
+               <row>
+                  <cell rend="center">THE DOMINEERING EAGLE<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE INVENTIVE BRATLING<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  O'er a small suburban borough<lb/>    Once an eagle used to fly,<lb/>  Making observations thorough<lb/>    From his station in the sky,<lb/>  And presenting the appearance<lb/>    Of an animated V,<lb/>  Like the gulls that lend coherence<lb/>    Unto paintings of the sea.<lb/>
+                     <lb/>  Looking downward at a church in<lb/>    This attractive little shire,<lb/>  He beheld a smallish urchin<lb/>    Shooting arrows at the spire;<lb/>  In a spirit of derision,<lb/>    "Look alive!" the eagle said;<lb/>  And, with infinite precision,<lb/>    Dropped a feather on his head.<lb/>
+                     <lb/>  Then the boy, annoyed distinctly<lb/>    By the freedom of the bird,<lb/>  Voiced his anger quite succinctly<lb/>    In a single scathing word;<lb/>  And he sat him on a barrow,<lb/>    And he fashioned of this same<lb/>  Eagle's feather such an arrow<lb/>    As was worthy of the name.<lb/>
+                     <lb/>  Then he tried his bow, and, stringing<lb/>    It with caution and with care,<lb/>  Sent that arrow singing, winging<lb/>    Towards the eagle in the air.<lb/>  Straight it went, without an error,<lb/>    And the target, bathed in blood,<lb/>  Lurched, and lunged, and fell to terra<lb/>     Firma, landing with a thud.<lb/>
+                     <lb/>  "Bird of freedom," quoth the urchin,<lb/>    With an unrelenting frown,<lb/>  "You shall decorate a perch in<lb/>    The menagerie in town;<lb/>  But of feathers quite a cluster<lb/>    I shall first remove for Ma:<lb/>  Thanks to you, she'll have a duster<lb/>    For her precious objets d'art."<lb/>
+                     <lb/>  And THE MORAL is that pride is<lb/>    The precursor of a fall.<lb/>  Those beneath you to deride is<lb/>    Not expedient at all.<lb/>  Howsoever meek and humble<lb/>    Your inferiors may be,<lb/>  They perchance may make you tumble,<lb/>    So respect them.  Q. E. D.<lb/>
+                     <lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table7">
+               <row>
+                  <cell rend="center">THE ICONOCLASTIC RUSTIC<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE APROPOS ACORN<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  Reposing 'neath some spreading trees,<lb/>    A populistic bumpkin<lb/>  Amused himself by offering these<lb/>    Reflections on a pumpkin:<lb/>  "I would not, if the choice were mine,<lb/>  Grow things like that upon a vine,<lb/>  For how imposing it would be<lb/>  If pumpkins grew upon a tree."<lb/>
+                     <lb/>  Like other populists, you'll note,<lb/>    Of views enthusiastic,<lb/>  He'd learned by heart, and said by rote<lb/>    A creed iconoclastic;<lb/>  And in his dim, uncertain sight<lb/>  Whatever wasn't must be right,<lb/>  From which it follows he had strong<lb/>  Convictions that what was, was wrong.<lb/>
+                     <lb/>  As thus he sat beneath an oak<lb/>    An acorn fell abruptly<lb/>  And smote his nose: whereat he spoke<lb/>    Of acorns most corruptly.<lb/>  "Great Scott!" he cried. "The Dickens!" too,<lb/>  And other authors whom he knew,<lb/>  And having duly mentioned those,<lb/>  He expeditiously arose.<lb/>
+                     <lb/>  Then, though with pain he nearly swooned,<lb/>    He bathed his organ nasal<lb/>  With arnica, and soothed the wound<lb/>    With extract of witch hazel;<lb/>  And surely we may well excuse<lb/>  The victim if he changed his views:<lb/>  "If pumpkins fell from trees like that,"<lb/>  He murmured, "Where would I be at?"<lb/>
+                     <lb/>  Of course it's wholly clear to you<lb/>    That when these words he uttered<lb/>  He proved conclusively he knew<lb/>    Which side his bread was buttered;<lb/>  And, if this point you have not missed,<lb/>  You'll learn to love this populist,<lb/>  The only one of all his kind<lb/>  With sense enough to change his mind.<lb/>
+                     <lb/>  THE MORAL: In the early spring<lb/>  A pumpkin-tree would be a thing<lb/>  Most gratifying to us all,<lb/>  But how about the early fall?<lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <lg>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table8">
+               <row>
+                  <cell rend="center">THE UNUSUAL GOOSE<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE IMBECILIC WOODCUTTER<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  A woodcutter bought him a gander,<lb/>    Or at least that was what he supposed,<lb/>  As a matter of fact, 'twas a slander<lb/>    As a later occurrence disclosed;<lb/>  For they locked the bird up in the garret<lb/>    To fatten, the while it grew old,<lb/>  And it laid there a twenty-two carat<lb/>    Fine egg of the purest of gold!<lb/>
+                     <lb/>  There was much unaffected rejoicing<lb/>    In the home of the woodcutter then,<lb/>  And his wife, her exuberance voicing,<lb/>    Proclaimed him most lucky of men.<lb/>  "'Tis an omen of fortune, this gold egg,"<lb/>    She said, "and of practical use,<lb/>  For this fowl doesn't lay any old egg,<lb/>    She's a highly superior goose."<lb/>
+                     <lb/>  Twas this creature's habitual custom,<lb/>    This laying of superfine eggs,<lb/>  And they made it their practice to dust 'em<lb/>    And pack them by dozens in kegs:<lb/>  But the woodcutter's mind being vapid<lb/>    And his foolishness more than profuse,<lb/>  In order to get them more rapid<lb/>    He slaughtered the innocent goose.<lb/>
+                     <lb/>  He made her a gruel of acid<lb/>    Which she very obligingly ate,<lb/>  And at once with a touchingly placid<lb/>    Demeanor succumbed to her fate.<lb/>  With affection that passed the platonic<lb/>    They buried her under the moss,<lb/>  And her epitaph wasn't ironic<lb/>    In stating, "We mourn for our loss."<lb/>
+                     <lb/>  And THE MORAL: It isn't much use,<lb/>    As the woodcutter found to be true,<lb/>  To lay for an innocent goose<lb/>    Just because she is laying for you.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table9">
+               <row>
+                  <cell rend="center">THE RUDE RAT<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE UNOSTENTATIOUS OYSTER<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  Upon the shore, a mile or more<lb/>    From traffic and confusion,<lb/>  An oyster dwelt, because he felt<lb/>    A longing for seclusion;<lb/>  Said he: "I love the stillness of<lb/>    This spot. It's like a cloister."<lb/>  (These words I quote because, you note,<lb/>    They rhyme so well with oyster.)<lb/>
+                     <lb/>  A prying rat, believing that<lb/>    She needed change of diet,<lb/>  In search of such disturbed this much-<lb/>    To-be-desired quiet.<lb/>  To say the least, this tactless beast<lb/>    Was apt to rudely roister:<lb/>  She tapped his shell, and called him--well,<lb/>    A name that hurt the oyster.<lb/>
+                     <lb/>  "I see," she cried, "you're open wide,<lb/>    And, searching for a reason,<lb/>  September's here, and so it's clear<lb/>    That oysters are in season."<lb/>  She smiled a smile that showed this style<lb/>    Of badinage rejoiced her,<lb/>  Advanced a pace with easy grace,<lb/>    And sniffed the silent oyster.<lb/>
+                     <lb/>  The latter's pride was sorely tried,<lb/>    He thought of what he could say,<lb/>  Reflected what the common lot<lb/>    Of vulgar molluscs would say;<lb/>  Then caught his breath, grew pale as death,<lb/>    And, as his brow turned moister,<lb/>  Began to close, and nipped her nose!<lb/>    Superb, dramatic oyster!<lb/>
+                     <lb/>  We note with joy that oi polloi,<lb/>    Whom maidens bite the thumb at,<lb/>  Are apt to try some weak reply<lb/>    To things they should be dumb at.<lb/>  THE MORAL, then, for crafty men<lb/>    Is: When a maid has voiced her<lb/>  Contemptuous heart, don't think you're smart,<lb/>    But shut up--like the oyster.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table10">
+               <row>
+                  <cell rend="center">THE URBAN RAT<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE SUBURBAN RAT<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  A metropolitan rat invited<lb/>    His country cousin in town to dine:<lb/>  The country cousin replied, "Delighted."<lb/>    And signed himself, "Sincerely thine."<lb/>  The town rat treated the country cousin<lb/>                       To half a dozen<lb/>                         Kinds of wine.<lb/>
+                     <lb/>  He served him terrapin, kidneys devilled,<lb/>    And roasted partridge, and candied fruit;<lb/>  In Little Neck Clams at first they revelled,<lb/>    And then in Pommery, sec and brut;<lb/>  The country cousin exclaimed: "Such feeding<lb/>                       Proclaims your breeding<lb/>                         Beyond dispute!"<lb/>
+                     <lb/>  But just as, another bottle broaching,<lb/>    They came to chicken en casserole<lb/>  A ravenous cat was heard approaching,<lb/>    And, passing his guest a finger-bowl,<lb/>  The town rat murmured, "The feast is ended."<lb/>                      And then descended<lb/>                        The nearest hole.<lb/>
+                     <lb/>  His cousin followed him, helter-skelter,<lb/>    And, pausing beneath the pantry floor,<lb/>  He glanced around at their dusty shelter<lb/>    And muttered, "This is a beastly bore.<lb/>  My place as an epicure resigning,<lb/>                      I'll try this dining<lb/>                        In town no more.<lb/>
+                     <lb/>  "You must dine some night at my rustic cottage;<lb/>    I'll warn you now that it's simple fare:<lb/>  A radish or two, a bowl of pottage,<lb/>    And the wine that's known as ordinaire,<lb/>  But for holes I haven't to make a bee-line,<lb/>                       No prowling feline<lb/>                         Molests me there.<lb/>
+                     <lb/>  "You smile at the lot of a mere commuter,<lb/>    You think that my life is hard, mayhap,<lb/>  But I'm sure than you I am far acuter:<lb/>    I ain't afraid of no cat nor trap."<lb/>  The city rat could but meekly stammer,<lb/>                       "Don't use such grammar,<lb/>                         My worthy chap."<lb/>
+                     <lb/>  He dined next night with his poor relation,<lb/>    And caught dyspepsia, and lost his train,<lb/>  He waited an hour in the lonely station,<lb/>    And said some things that were quite profane.<lb/>  "I'll never," he cried, in tones complaining,<lb/>                        "Try entertaining<lb/>                          That rat again."<lb/>
+                     <lb/>  It's easy to make a memorandum<lb/>    About THE MORAL these verses teach:<lb/>  De gustibus non est disputandum;<lb/>    The meaning of which Etruscan speech<lb/>  Is wheresoever you're hunger quelling<lb/>                      Pray keep your dwelling<lb/>                      In easy reach.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table11">
+               <row>
+                  <cell rend="center">THE IMPECUNIOUS CRICKET<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE FRUGAL ANT<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  There was an ant, a spinster ant,<lb/>    Whose virtues were so many<lb/>  That she became intolerant<lb/>    Of those who hadn't any:<lb/>  She had a small and frugal mind<lb/>    And lived a life ascetic,<lb/>  Nor was her temperament the kind<lb/>    That's known as sympathetic.<lb/>
+                     <lb/>  I skip details. Suffice to say<lb/>    That, knocking at her wicket,<lb/>  There chanced to come one autumn day<lb/>    A common garden cricket<lb/>  So ragged, poor, and needy that,<lb/>    Without elucidation,<lb/>  One saw the symptoms of a bat<lb/>    Of several months' duration.<lb/>
+                     <lb/>  He paused beside her door-step, and,<lb/>    With one pathetic gesture,<lb/>  He called attention with his hand<lb/>    To both his shoes and vesture.<lb/>  "I joined," said he, "an opera troupe.<lb/>    They suddenly disbanded,<lb/>  And left me on the hostel stoop,<lb/>    Lugubriously stranded.<lb/>
+                     <lb/>  "I therefore lay aside my pride<lb/>    And frankly ask for clothing."<lb/>  "Begone!" the frugal ant replied.<lb/>    "I look on you with loathing.<lb/>  Your muddy shoes have spoiled the lawn,<lb/>    Your hands have soiled the fence, too.<lb/>  If you need money, go and pawn<lb/>    Your watch--if you have sense to."<lb/>
+                     <lb/>  THE MORAL is: Albeit lots<lb/>  Of people follow Dr. Watts,<lb/>  The sluggard, when his means are scant,<lb/>  Should seek an uncle, not an ant!<lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table12">
+               <row>
+                  <cell rend="center">THE PAMPERED LAPDOG<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE MISGUIDED ASS<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  A woolly little terrier pup<lb/>    Gave vent to yelps distressing,<lb/>  Whereat his mistress took him up<lb/>    And soothed him with caressing,<lb/>      And yet he was not in the least<lb/>      What one would call a handsome beast.<lb/>
+                     <lb/>  He might have been a Javanese,<lb/>    He might have been a Jap dog,<lb/>  And also neither one of these,<lb/>    But just a common lapdog,<lb/>      The kind that people send, you know,<lb/>      Done up in cotton, to the Show.<lb/>
+                     <lb/>  At all events, whate'er his race,<lb/>    The pretty girl who owned him<lb/>  Caressed his unattractive face<lb/>    And petted and cologned him,<lb/>      While, watching her with mournful eye,<lb/>      A patient ass stood silent by.<lb/>
+                     <lb/>  "If thus," he mused, "the feminine<lb/>    And fascinating gender<lb/>  Is led to love, I, too, can win<lb/>    Her protestations tender."<lb/>      And then the poor, misguided chap<lb/>      Sat down upon the lady's lap.<lb/>
+                     <lb/>  Then, as her head with terror swam,<lb/>    "This method seems to suit you,"<lb/>  Observed the ass, "so here I am."<lb/>    Said she, "Get up, you brute you!"<lb/>      And promptly screamed aloud for aid:<lb/>      No ass was ever more dismayed.<lb/>
+                     <lb/>[Illustration: "SAID SHE, 'GET UP, YOU BRUTE YOU!'"]<lb/>
+                     <lb/>  They took the ass into the yard<lb/>    And there, with whip and truncheon,<lb/>  They beat him, and they beat him hard,<lb/>    From breakfast-time till luncheon.<lb/>      He only gave a tearful gulp,<lb/>      Though almost pounded to a pulp.<lb/>
+                     <lb/>  THE MORAL is (or seems, at least,<lb/>    To be): In etiquette you<lb/>  Will find that while enough's a feast<lb/>    A surplus will upset you.<lb/>   Toujours, toujours la politesse, if<lb/>      The quantity be not excessive.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table13">
+               <row>
+                  <cell rend="center">THE VAINGLORIOUS OAK<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE MODEST BULRUSH<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  A bulrush stood on a river's rim,<lb/>    And an oak that grew near by<lb/>  Looked down with cold hauteur on him,<lb/>    And addressed him this way: "Hi!"<lb/>  The rush was a proud patrician, and<lb/>   He retorted, "Don't you know,<lb/>  What the veriest boor should understand,<lb/>              That 'Hi' is low?"<lb/>
+                     <lb/>  This cutting rebuke the oak ignored.<lb/>    He returned, "My slender friend,<lb/>  I will frankly state that I'm somewhat bored<lb/>    With the way you bow and bend."<lb/>  "But you quite forget," the rush replied,<lb/>    "It's an art these bows to do,<lb/>  An art I wouldn't attempt if I'd<lb/>               Such boughs as you."<lb/>
+                     <lb/>  "Of course," said the oak, "in my sapling days<lb/>    My habit it was to bow,<lb/>  But the wildest storm that the winds could raise<lb/>    Would never disturb me now.<lb/>  I challenge the breeze to make me bend,<lb/>    And the blast to make me sway."<lb/>  The shrewd little bulrush answered, "Friend,<lb/>                Don't get so gay."<lb/>
+                     <lb/>  And the words had barely left his mouth<lb/>    When he saw the oak turn pale,<lb/>  For, racing along south-east-by-south,<lb/>    Came ripping a raging gale.<lb/>  And the rush bent low as the storm went past,<lb/>    But stiffly stood the oak,<lb/>  Though not for long, for he found the blast<lb/>                No idle joke.<lb/>
+                     <lb/>    *    *    *    *    *    *    *    *<lb/>  Imagine the lightning's gleaming bars,<lb/>    Imagine the thunder's roar,<lb/>  For that is exactly what eight stars<lb/>    Are set in a row here for!<lb/>  The oak lay prone when the storm was done,<lb/>    While the rush, still quite erect,<lb/>  Remarked aside, "What under the sun<lb/>               Could one expect?"<lb/>
+                     <lb/>  And THE MORAL, I'd have you understand,<lb/>    Would have made La Fontaine blush,<lb/>  For it's this: Some storms come early, and<lb/>               Avoid the rush!<lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table14">
+               <row>
+                  <cell rend="center">THE INHUMAN WOLF<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE LAMB SANS GENE<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  A gaunt and relentless wolf, possessed<lb/>    Of a quite insatiable thirst,<lb/>  Once paused at a stream to drink and rest,<lb/>  And found that, bound on a similar quest,<lb/>    A lamb had arrived there first.<lb/>
+                     <lb/>  The lamb was a lamb of a garrulous mind<lb/>    And frivolity most extreme:<lb/>  In the fashion common to all his kind,<lb/>  He cantered in front and galloped behind.<lb/>    And troubled the limpid stream.<lb/>
+                     <lb/>  "My friend," said the wolf, with a winsome air,<lb/>    "Your capers I can't admire."<lb/>  "Go to!" quoth the lamb. (Though he said not where,<lb/>  He showed what he meant by his brazen stare<lb/>    And the way that he gambolled higher.)<lb/>
+                     <lb/>  "My capers," he cried, "are the kind that are<lb/>    Invariably served with lamb.<lb/>  Remember, this is a public bar,<lb/>  And I'll do as I please. If your drink I mar,<lb/>    I don't give a tinker's ----."<lb/>
+                     <lb/>  He paused and glanced at the rivulet,<lb/>    And that pause than speech was worse,<lb/>  For his roving eye a saw-mill met,<lb/>  And, near it, the word which should be set<lb/>    At the end of the previous verse.<lb/>
+                     <lb/>  Said the wolf: "You are tough and may bring remorse,<lb/>    But of such is the world well rid.<lb/>  I've swallowed your capers, I've swallowed your sauce,<lb/>  And it's plain to be seen that my only course<lb/>    Is swallowing you."  He did.<lb/>
+                     <lb/>  THE MORAL: The wisest lambs they are<lb/>    Who, when they're assailed by thirst,<lb/>  Keep well away from a public bar;<lb/>  For of all black sheep, or near, or far,<lb/>    The public bar-lamb's worst!<lb/>
+                     <lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table15">
+               <row>
+                  <cell rend="center">THE SYCOPHANTIC FOX<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE GULLIBLE RAVEN<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  A raven sat upon a tree,<lb/>    And not a word he spoke, for<lb/>  His beak contained a piece of Brie,<lb/>    Or, maybe, it was Roquefort:<lb/>      We'll make it any kind you please--<lb/>      At all events, it was a cheese.<lb/>
+                     <lb/>  Beneath the tree's umbrageous limb<lb/>    A hungry fox sat smiling;<lb/>  He saw the raven watching him,<lb/>    And spoke in words beguiling.<lb/>      "J'admire," said he, "ton beau plumage."<lb/>      (The which was simply persiflage.)<lb/>
+                     <lb/>  Two things there are, no doubt you know,<lb/>    To which a fox is used:<lb/>  A rooster that is bound to crow,<lb/>    A crow that's bound to roost,<lb/>      And whichsoever he espies<lb/>     He tells the most unblushing lies.<lb/>
+                     <lb/>  "Sweet fowl," he said, "I understand<lb/>    You're more than merely natty,<lb/>  I hear you sing to beat the band<lb/>    And Adelina Patti.<lb/>      Pray render with your liquid tongue<lb/>      A bit from 'Gotterdammerung.'"<lb/>
+                     <lb/>  This subtle speech was aimed to please<lb/>    The crow, and it succeeded:<lb/>  He thought no bird in all the trees<lb/>    Could sing as well as he did.<lb/>      In flattery completely doused,<lb/>      He gave the "Jewel Song" from "Faust."<lb/>
+                     <lb/>[Illustration: "'J'ADMIRE,' SAID HE, 'TON BEAU PLUMAGE'"]<lb/>
+                     <lb/>  But gravitation's law, of course,<lb/>    As Isaac Newton showed it,<lb/>  Exerted on the cheese its force,<lb/>    And elsewhere soon bestowed it.<lb/>      In fact, there is no need to tell<lb/>      What happened when to earth it fell.<lb/>
+                     <lb/>  I blush to add that when the bird<lb/>    Took in the situation<lb/>  He said one brief, emphatic word,<lb/>    Unfit for publication.<lb/>      The fox was greatly startled, but<lb/>      He only sighed and answered "Tut."<lb/>
+                     <lb/>  THE MORAL is: A fox is bound<lb/>    To be a shameless sinner.<lb/>  And also: When the cheese comes round<lb/>    You know it's after dinner.<lb/>      But (what is only known to few)<lb/>      The fox is after dinner, too.<lb/>
+                     <lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table16">
+               <row>
+                  <cell rend="center">THE MICROSCOPIC TROUT<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE MACHIAVELIAN FISHERMAN<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>
+                     <lb/>  A fisher was casting his flies in a brook,<lb/>    According to laws of such sciences,<lb/>  With a patented reel and a patented hook<lb/>    And a number of other appliances;<lb/>  And the thirty-fifth cast, which he vowed was the last<lb/>    (It was figured as close as a decimal),<lb/>  Brought suddenly out of the water a trout<lb/>    Of measurements infinitesimal.<lb/>
+                     <lb/>  This fish had a way that would win him a place<lb/>    In the best and most polished society,<lb/>  And he looked at the fisherman full in the face<lb/>    With a visible air of anxiety:<lb/>  He murmered "Alas!" from his place in the grass,<lb/>    And then, when he'd twisted and wriggled, he<lb/>  Remarked in a pet that his heart was upset<lb/>    And digestion all higgledy-piggledy.<lb/>
+                     <lb/>  "I request," he observed, "to be instantly flung<lb/>    Once again in the pool I've been living in."<lb/>  The fisherman said, "You will tire out your tongue.<lb/>    Do you see any signs of my giving in?<lb/>  Put you back in the pool? Why, you fatuous fool,<lb/>    I have eaten much smaller and thinner fish.<lb/>  You're not salmon or sole, but I think, on the whole,<lb/>    You're a fairly respectable dinner-fish."<lb/>
+                     <lb/>  The fisherman's cook tried her hand on the trout<lb/>    And with various herbs she embellished him;<lb/>  He was lovely to see, and there isn't a doubt<lb/>    That the fisherman's family relished him,<lb/>  And, to prove that they did, both his wife and his kid<lb/>    Devoured the trout with much eagerness,<lb/>  Avowing no dish could compare with that fish,<lb/>    Notwithstanding his singular meagreness.<lb/>
+                     <lb/>  And THE MORAL, you'll find, is although it is kind<lb/>    To grant favors that people are wishing for,<lb/>  Still a dinner you'll lack if you chance to throw back<lb/>    In the pool little trout that you're fishing for;<lb/>  If their pleading you spurn you will certainly learn<lb/>    That herbs will deliciously vary 'em:<lb/>  It is needless to state that a trout on a plate<lb/>    Beats several in the aquarium.</cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table17">
+               <row>
+                  <cell rend="center">THE CONFIDING PEASANT<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE MALADROIT BEAR<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  A peasant had a docile bear,<lb/>    A bear of manners pleasant,<lb/>  And all the love she had to spare<lb/>    She lavished on the peasant:<lb/>      She proved her deep affection plainly<lb/>      (The method was a bit ungainly).<lb/>
+                     <lb/>  The peasant had to dig and delve,<lb/>    And, as his class are apt to,<lb/>  When all the whistles blew at twelve<lb/>    He ate his lunch, and napped, too,<lb/>      The bear a careful outlook keeping<lb/>      The while her master lay a-sleeping.<lb/>
+                     <lb/>  As thus the peasant slept one day,<lb/>    The weather being torrid,<lb/>  A gnat beheld him where he lay<lb/>    And lit upon his forehead,<lb/>      And thence, like all such winged creatures,<lb/>      Proceeded over all his features.<lb/>
+                     <lb/>  The watchful bear, perceiving that<lb/>    The gnat lit on her master,<lb/>  Resolved to light upon the gnat<lb/>    And plunge him in disaster;<lb/>      She saw no sense in being lenient<lb/>      When stones lay round her, most convenient.<lb/>
+                     <lb/>  And so a weighty rock she aimed<lb/>    With much enthusiasm:<lb/>  "Oh, lor'!" the startled gnat exclaimed,<lb/>    And promptly had a spasm:<lb/>      A natural proceeding this was,<lb/>      Considering how close the miss was.<lb/>
+                     <lb/>[Illustration: AND SO A WEIGHTY ROCK SHE AIMED]<lb/>
+                     <lb/>  Now by his dumb companion's pluck,<lb/>    Which caused the gnat to squall so,<lb/>  The sleeping man was greatly struck<lb/>    (And by the bowlder, also).<lb/>      In fact, his friends who idolized him<lb/>      Remarked they hardly recognized him.<lb/>
+                     <lb/>  Of course the bear was greatly grieved,<lb/>    But, being just a dumb thing,<lb/>  She only thought: "I was deceived,<lb/>    But still, I did hit something!"<lb/>      Which showed this masculine achievement<lb/>      Had somewhat soothed her deep bereavement.<lb/>
+                     <lb/>  THE MORAL: If you prize your bones<lb/>  Beware of females throwing stones.<lb/>
+                     <lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table18">
+               <row>
+                  <cell rend="center">THE PRECIPITATE COCK<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE UNAPPRECIATED PEARL<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>
+                     <lb/>  A rooster once pursued a worm<lb/>    That lingered not to brave him,<lb/>  To see his wretched victim squirm<lb/>    A pleasant thrill it gave him;<lb/>  He summoned all his kith and kin,<lb/>    They hastened up by legions,<lb/>  With quaint, expressive gurgles in<lb/>    Their oesophageal regions.<lb/>
+                     <lb/>  Just then a kind of glimmering<lb/>    Attracting his attention,<lb/>  The worm became too small a thing<lb/>    For more than passing mention:<lb/>  The throng of hungry hens and rude<lb/>    He skilfully evaded.<lb/>  Said he, "I' faith, if this be food,<lb/>    I saw the prize ere they did."<lb/>
+                     <lb/>  It was a large and costly pearl,<lb/>    Belonging in a necklace,<lb/>  And dropped by some neglectful girl:<lb/>    Some people are so reckless!<lb/>  The cock assumed an air forlorn,<lb/>    And cried, "It's really cruel.<lb/>  I thought it was a grain of corn:<lb/>    It's nothing but a jewel."<lb/>
+                     <lb/>  He turned again to where his clan<lb/>    In one astounding tangle<lb/>  With eager haste together ran<lb/>    To slay the helpless angle,<lb/>  And sighed, "He was of massive size.<lb/>    I should have used discretion.<lb/>  Too late! Around the toothsome prize<lb/>    A bargain-sale's in session."<lb/>
+                     <lb/>  The worm's remarks upon his plight<lb/>    Have never been recorded,<lb/>  But any one may know how slight<lb/>    Diversion it afforded;<lb/>  For worms and human beings are<lb/>    Unanimous that, when pecked,<lb/>  To be the prey of men they far<lb/>    Prefer to being hen-pecked.<lb/>
+                     <lb/>  THE MORAL: When your dinner comes<lb/>    Don't leave it for your neighbors,<lb/>  Because you hear the sound of drums<lb/>    And see the gleam of sabres;<lb/>  Or, like the cock, you'll find too late<lb/>    That ornaments external<lb/>  Do not for certain indicate<lb/>    A bona fide kernel.<lb/>
+                     <lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table19">
+               <row>
+                  <cell rend="center">THE ABBREVIATED FOX<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> HIS SCEPTICAL COMRADES<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>  A certain fox had a Grecian nose<lb/>    And a beautiful tail. His friends<lb/>  Were wont to say in a jesting way<lb/>    A divinity shaped his ends.<lb/>  The fact is sad, but his foxship had<lb/>    A fault we should all eschew:<lb/>  He was so deceived that he quite believed<lb/>    What he heard from friends was true.<lb/>
+                     <lb/>  One day he found in a sheltered spot<lb/>    A trap with stalwart springs<lb/>  That was cunningly planned to supply the demand<lb/>   For some of those tippet things.<lb/>  The fox drew nigh, and resolved to try<lb/>    The way that the trap was set:<lb/>  (When the trap was through with this interview<lb/>    There was one less tippet to get!)<lb/>
+                     <lb/>  The fox returned to his doting friends<lb/>    And said, with an awkward smile,<lb/>  "My tail I know was comme il faut,<lb/>    And served me well for a while."<lb/>  When his comrades laughed at his shortage aft<lb/>    He added, with scornful bow,<lb/>  "Pray check your mirth, for I hear from Worth<lb/>    They're wearing them shorter now."<lb/>
+                     <lb/>  But one of his friends, a bookish chap,<lb/>    Replied, with a thoughtful frown,<lb/>  "You know to-day the publishers say<lb/>    That the short tale won't go down;<lb/>  And, upon my soul, I think on the whole,<lb/>   That the publishers' words are true.<lb/>  I should hate, good sir, to part my fur<lb/>    In the middle, as done by you."<lb/>
+                     <lb/>  And another added these truthful words<lb/>    In the midst of the eager hush,<lb/>  "We can part our hair 'most anywhere<lb/>    So long as we keep the brush."<lb/>
+                     <lb/>  THE MORAL is this: It is never amiss<lb/>    To treasure the things you've penned:<lb/>  Preserve your tales, for, when all else fails,<lb/>    They'll be useful things--in the end.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table20">
+               <row>
+                  <cell rend="center">THE HOSPITABLE CALEDONIAN<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE THANKLESS VIPER<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>
+                     <lb/>  A Caledonian piper<lb/>    Who was walking on the wold<lb/>  Nearly stepped upon a viper<lb/>    Rendered torpid by the cold;<lb/>  By the sight of her admonished,<lb/>    He forbore to plant his boot,<lb/>  But he showed he was astonished<lb/>    By the way he muttered "Hoot!"<lb/>
+                     <lb/>  Now this simple-minded piper<lb/>    Such a kindly nature had<lb/>  That he lifted up the viper<lb/>    And bestowed her in his plaid.<lb/>  "Though the Scot is stern, at least he<lb/>    No unhappy creature spurns,<lb/>  'Sleekit, cowrin, tim'rous beastie,'"<lb/>    Quoth the piper (quoting Burns).<lb/>
+                     <lb/>  This was unaffected kindness,<lb/>    But there was, to state the fact,<lb/>  Just a slight soupçon of blindness<lb/>    In his charitable act.<lb/>  If you'd watched the piper, shortly<lb/>    You'd have seen him leap aloft,<lb/>  As this snake, of ways uncourtly,<lb/>    Bit him suddenly and oft.<lb/>
+                     <lb/>  There was really no excuse for<lb/>    This, the viper's cruel work,<lb/>  And the piper found a use for<lb/>    Words he'd never learned at kirk;<lb/>  But the biting was so thorough<lb/>    That although the doctors tried,<lb/>  Not the best in Edinburgh<lb/>    Could assist him, and he died.<lb/>
+                     <lb/>  And THE MORAL is: The piper<lb/>    Of the matter made a botch;<lb/>  One can hardly blame the viper<lb/>    If she took a nip of Scotch,<lb/>  For she only did what he did,<lb/>    And his nippie wasn't small,<lb/>  Otherwise, you see, he needed<lb/>    Not have seen the snake at all.<lb/>
+                     <lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <table rend="frame" xml:id="Table21">
+               <row>
+                  <cell rend="center">THE IMPETUOUS BREEZE<lb/>
+                     <lb/> AND<lb/>
+                     <lb/> THE DIPLOMATIC SUN<lb/>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="center">
+                     <lb/>
+                     <lb/>  A Boston man an ulster had,<lb/>    An ulster with a cape that fluttered:<lb/>  It smacked his face, and made him mad,<lb/>    And polyglot remarks he uttered:<lb/>      "I bought it at a bargain," said he,<lb/>      "I'm tired of the thing already."<lb/>
+                     <lb/>  The wind that chanced to blow that day<lb/>    Was easterly, and rather strong, too:<lb/>  It loved to see the galling way<lb/>    That clothes vex those whom they belong to:<lb/>      "Now watch me," cried this spell of weather,<lb/>      "I'll rid him of it altogether."<lb/>
+                     <lb/>  It whirled the man across the street,<lb/>    It banged him up against a railing,<lb/>  It twined the ulster round his feet,<lb/>    But all of this was unavailing:<lb/>      For not without resource it found him:<lb/>      He drew the ulster closer round him.<lb/>
+                     <lb/>  "My word!" the man was heard to say,<lb/>    "Although I like not such abuse, it's<lb/>  Not strange the wind is strong to-day,<lb/>    It always is in Massachusetts.<lb/>      Such weather threatens much the health of<lb/>      Inhabitants this Commonwealth of."<lb/>
+                     <lb/>  The sun, emerging from a rift<lb/>    Between the clouds, observed the victim,<lb/>  And how the wind beset and biffed,<lb/>    Belabored, buffeted, and kicked him.<lb/>      Said he, "This wind is doubtless new here:<lb/>      'Tis quite the freshest ever blew here."<lb/>
+                     <lb/>  And then he put forth all his strength,<lb/>    His warmth with might and main exerted,<lb/>  Till upward in its tube at length<lb/>    The mercury most nimbly spurted.<lb/>      Phenomenal the curious sight was,<lb/>      So swift the rise in Fahrenheit was.<lb/>
+                     <lb/>  The man supposed himself at first<lb/>    The prey of some new mode of smelting:<lb/>  His pulses were about to burst,<lb/>    His every limb seemed slowly melting,<lb/>      And, as the heat began to numb him,<lb/>      He cast the ulster wildly from him.<lb/>
+                     <lb/>  "Impulsive breeze, the use of force,"<lb/>    Observed the sun, "a foolish act is,<lb/>  Perceiving which, you see, of course.<lb/>    How highly efficacious tact is."<lb/>      The wondering wind replied, "Good gracious!<lb/>      You're right about the efficacious."<lb/>
+                     <lb/>  THE MORAL deals, as morals do,<lb/>    With tact, and all its virtues boasted,<lb/>  But still I can't forget, can you,<lb/>    That wretched man, first chilled, then roasted?<lb/>      Bronchitis seized him shortly after,<lb/>      And that's no cause for vulgar laughter.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <lg>
+               <l/>
+               <l/>
+               <l/>
+            </lg>
+            <p rend="justify">THE END<lb/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

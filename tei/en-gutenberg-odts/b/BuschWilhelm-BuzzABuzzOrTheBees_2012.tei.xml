@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Buzz a Buzz; Or, The Bees</title>
+            <author>Wilhelm Busch</author>
+            <author>THE AUTHOR OF MY BEE BOOK</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T01:23:54Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/b/BuschWilhelm-BuzzABuzzOrTheBees_2012.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Wilhelm Busch</name>
+               <date>2024-01-04T01:23:54Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Buzz a Buzz; Or, The Bees</head>
+         <author>Wilhelm Busch</author>
+         <author>THE AUTHOR OF MY BEE BOOK</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/b/BuschWilhelm-BuzzABuzzOrTheBees_2012.odt</p>
+         <head>BUZZ A BUZZ</head>
+         <head>OR THE BEES</head>
+         <head>Buzz a Buzz<lb/>or<lb/>The Bees</head>
+         <subtitle>Done freely into<lb/>English</subtitle>
+         <author>BY THE AUTHOR<lb/>OF MY BEE BOOK</author>
+         <subtitle>from the German<lb/>of<lb/>Wilhelm Busch.</subtitle>
+         <subtitle>London: GRIFFITH &amp; FARRAN.<lb/>Chester: PHILLIPSON &amp; GOLDER.</subtitle>
+         <pb/>
+         <div type="div1">
+            <head>Preface.</head>
+            <div type="div2">
+               <head>EXPLANATORY.</head>
+               <p>I must say a few words in explanation of the somewhat novel form which my new "Bee-Book" has taken, and which, doubtless, will be a surprise to the many Bee-Friends who are waiting with exemplary patience for the second edition of my original "Bee-Book," soon about to appear after an interval of thirty years from the publication of the first edition.</p>
+               <p>I happened last year to be at the Cologne Station, waiting for the train, and employed my spare time in looking over the book stall for something to read on my way to Aix-la-Chapelle. The stall was covered with books about the late War. I had returned from a visit to the Battle Fields of 1870, and was sick of the subject. I wanted something of a more peaceful nature, and I was turning away, without making a purchase, when a book met my eye entitled <hi rend="italic">Schnurrdiburr</hi>. What that might mean I knew not, but the second title, <hi rend="italic">oder die Bienen</hi>, was intelligible, and had attraction enough for me. I opened it, and saw it was profusely illustrated with very comical cuts. I paid my Thaler and carried away my prize.</p>
+               <p>The cuts are reproduced in the book which my readers have in their hands. The verses were written up to the pictures rather than translated from the German text; for alas! my German is very limited; enough for travelling purposes, but hardly enough to enable me to read a Bee-Book either serious or comical.</p>
+               <div type="div3">
+                  <head>RIDENTEM DICERE VERUM QUID VETAT?</head>
+                  <p>There is much truth lying hid under these comical stories; still more in the illustrations; and the notes which I have appended may be found useful even by serious Bee-Masters.</p>
+                  <p>I promise my readers that they shall have the second edition of "My Bee Book" as perfect as I can make it, and with as little delay as possible.</p>
+                  <p>I trust it may be much nearer perfection than the first edition, published under great difficulties, could be, and I hope it may have as many purchasers as this its forerunner.</p>
+                  <p>W. C. C.</p>
+                  <p>
+                     <hi rend="italic">Frodsham, Cheshire,</hi>
+                     <lb/>
+                     <hi rend="italic">September, 1872.</hi>
+                     <lb/>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Buzz a Buzz; Or, The Bees</head>
+            <pb/>
+            <div type="div2">
+               <head>Prelude.</head>
+               <lg>
+                  <l>Hail Muse etc.! Bring me Peggy,</l>
+                  <l>  My antient steed, now somewhat leggy;</l>
+                  <l>  Not him who on Parnassus green</l>
+                  <l>  Erst fed, and drank of Hippocrene;</l>
+                  <l>  But such, as to supply the trade,</l>
+                  <l>  At Nuremburg by scores are made.—</l>
+                  <l>  I mount him, and will now indite</l>
+                  <l>  A Bee-book for my own delight,</l>
+                  <l>  I'll sing of Johnny Dull: his pig,</l>
+                  <l>  Made by his bees exceeding big;</l>
+                  <l>  And of his daughter fair Christine,</l>
+                  <l>  Of her queer lover Dicky Dean,</l>
+                  <l>  And of his nephew rogue Eugene—</l>
+                  <l>  Of honey-robbers I will tell,</l>
+                  <l>  And bears, and bull-frogs, ghosts as well—</l>
+                  <l>  All which my readers may discover</l>
+                  <l>  Who con this true tale ten times over—</l>
+                  <l>  Or make ten other Bee Friends buy it;</l>
+                  <l>  For three and six I can supply it.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fytte I. Bee Life.</head>
+               <lg>
+                  <l>All hail! thou lovely month of May,</l>
+                  <l>  With parti-coloured flowers gay!</l>
+                  <l>  And hail to you, my darling Bees;</l>
+                  <l>  Much wealth you gain on days like these.</l>
+                  <l>  From morn to eve a humming sound</l>
+                  <l>  About the bee-house circles round.</l>
+               </lg>
+               <lg>
+                  <l>The sentinels, in armour bright,</l>
+                  <l>  Keep watch and ward throughout the night;</l>
+                  <l>  And drive away, constrained by oath,</l>
+                  <l>  The mice, and toads, and Death's head moth.</l>
+               </lg>
+               <lg>
+                  <l>At early dawn 'tis quite a treat</l>
+                  <l>  To see them work, they are so neat;</l>
+                  <l>  Some clean their house with brooms and mops,</l>
+                  <l>  And others empty out the slops.</l>
+               </lg>
+               <lg>
+                  <l>The architects, by rule and line,</l>
+                  <l>  Their future cells with skill define;</l>
+                  <l>  The ever toiling workers these—</l>
+                  <l>  Meanwhile the Queen, she takes her ease;</l>
+                  <l>  Sole mother of the winged nation,</l>
+                  <l>  Her only work is propagation.</l>
+               </lg>
+               <lg>
+                  <l>The egg she lays; the nurses hatch</l>
+                  <l>  That egg, and in the cradle watch.</l>
+                  <l>  The babe to swaddle, and prepare</l>
+                  <l>  The pap-boat, is their constant care.</l>
+               </lg>
+               <lg>
+                  <l>All day, in regal state, the Queen</l>
+                  <l>  Encircled by her court is seen;</l>
+                  <l>  Their backs they never rudely turn:</l>
+                  <l>  Good manners they by instinct learn.</l>
+               </lg>
+               <lg>
+                  <l>And when night comes she goes to bed,</l>
+                  <l>  And on the pillow lays her head;</l>
+                  <l>  Whilst by her side her faithful drone</l>
+                  <l>  Profoundly snores, for they are one.</l>
+               </lg>
+               <lg>
+                  <l>They send for letters ere they rise;</l>
+                  <l>  For just at ten they ope their eyes.</l>
+               </lg>
+               <lg>
+                  <l>The post office is in a flower,</l>
+                  <l>  Which opens at a certain hour,</l>
+                  <l>  Miss Crocus keeps it, fresh and fair;</l>
+                  <l>  The tresses of her flowing hair</l>
+                  <l>  They glitter like the purest gold;</l>
+                  <l>  And by her saffron cakes are sold.</l>
+               </lg>
+               <lg>
+                  <l>Near is the pothouse where both grog</l>
+                  <l>  Is served to Bumble-Bees, and prog;</l>
+                  <l>  And when the Bumble-Bees get groggy,</l>
+                  <l>  Their intellect, like men's, is foggy.</l>
+               </lg>
+               <lg>
+                  <l>On rose leaves they their letters write,</l>
+                  <l>  Here's one they either wrote or might.</l>
+                  <l>  "Great Queen, we hope you'll swarm to day";</l>
+                  <l>  "For 'is a lovely first of May."</l>
+               </lg>
+               <lg>
+                  <l>The messenger this letter takes,</l>
+                  <l>  And eke a store of saffron cakes.</l>
+               </lg>
+               <lg>
+                  <l>The Drones they neither work, nor can</l>
+                  <l>  Do aught but sleep on a divan;</l>
+                  <l>  And smoke their pipes through all the day;</l>
+                  <l>  Chibouks these love, and those a clay.</l>
+                  <l>  Such is their life—who would not be</l>
+                  <l>  A happy little worker Bee;</l>
+                  <l>  A Queen's too high for me,—a Drone,</l>
+                  <l>  Such laziness I let alone.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fytte II. The Pig.</head>
+               <lg>
+                  <l>Now Johnny Dull had once a pig,—</l>
+                  <l>  'T was far from fat, its bones were big.</l>
+                  <l>  To scratch his hide with all his might</l>
+                  <l>  Was this poor piggie's sole delight.</l>
+               </lg>
+               <lg>
+                  <l>Once on a time it so fell out</l>
+                  <l>  He in the garden roamed about:</l>
+                  <l>  He chanced to have an itching mood;</l>
+                  <l>  The bee house quite convenient stood—</l>
+               </lg>
+               <lg>
+                  <l>His hide he scratched; the bees rushed out,</l>
+                  <l>  And stung him well from tail to snout—</l>
+                  <l>  Ugh! Ugh! Ugh! Ugh! poor piggie cried,</l>
+                  <l>  Feeling these daggers pierce his hide.</l>
+               </lg>
+               <lg>
+                  <l>John Dull, who heard the awful clatter,</l>
+                  <l>  Said, "Bless the pig! why what's the matter?"</l>
+               </lg>
+               <lg>
+                  <l>He came,—he saw—, his porker, that</l>
+                  <l>  Was erst all lean, was now all fat.</l>
+               </lg>
+               <lg>
+                  <l>It chanced a pig-jobber that way</l>
+                  <l>  Was passing by; he stopped to say</l>
+                  <l>  "How much friend Dull for that fat pig?"</l>
+                  <l>  "Just ten pounds ten, for he is big"—</l>
+                  <l>  "Done"—"done again"—the bargain's struck—</l>
+                  <l>  John Dull he found himself in luck,</l>
+               </lg>
+               <lg>
+                  <l>And blest his bees, and in their praise</l>
+                  <l>  He chanted forth these jocund lays.</l>
+               </lg>
+               <lg>
+                  <l>Fly forth, dear Bees, 'tis morn, fly forth</l>
+                  <l>  To South, to North, to West, to East;</l>
+                  <l>  And cull from every fragrant flower</l>
+                  <l>  A honied feast.</l>
+               </lg>
+               <lg>
+                  <l>Fly Home, dear Bees, 'tis Eve, fly home!</l>
+                  <l>  From North, from South, from East, from West;</l>
+                  <l>  Store in your cells your luscious spoil,</l>
+                  <l>  And sweetly rest.</l>
+               </lg>
+               <lg>
+                  <l>The air is clear the day is warm,</l>
+                  <l>  John Dull sits watching for a swarm;</l>
+               </lg>
+               <lg>
+                  <l>What's this? he thought; while I've been talking</l>
+                  <l>  My bees are all prepared for walking,</l>
+                  <l>  Staves in their hands, and on his back</l>
+                  <l>  Each carries his provision pack.</l>
+               </lg>
+               <lg>
+                  <l>He strains his sight into the hole;</l>
+                  <l>  "They'll swarm to day—upon my soul."</l>
+               </lg>
+               <lg>
+                  <l>His brain swims round, his eyes feel heavy,</l>
+                  <l>  He sees no more the increasing levee.</l>
+               </lg>
+               <lg>
+                  <l>His nose, as down and down it drops,</l>
+                  <l>  His half used pipe of 'bacca stops.—</l>
+               </lg>
+               <lg>
+                  <l>Buzz, buzz!—Hum, hum! a joyful sound,</l>
+                  <l>  Echoes the teeming hive around.</l>
+                  <l>  All gather at the trumpet's clang</l>
+                  <l>  To hear their noble Queen's harangue.—</l>
+               </lg>
+               <lg>
+                  <l>"Up children up, to swarm prepare"</l>
+                  <l>  "The honey thief sits stinking there."</l>
+                  <l>  "And we who love the scent of roses"</l>
+                  <l>  "Have stale tobacco in our noses."</l>
+                  <l>  "We toil, we sweat from early May"</l>
+                  <l>  "To lay up for a rainy day."</l>
+                  <l>  "Our cells we fill, and at the Fall"</l>
+                  <l>  "He sulphers us, and takes it all."</l>
+                  <l>  "So let us one and all deride"</l>
+                  <l>  "This honey thief, this Bee-i-cide."</l>
+                  <l>  "Up children, up! to swarm prepare"</l>
+                  <l>  "Whilst Master Dull sits snoring there."</l>
+                  <l>  "A devil he, upon my troth:"</l>
+                  <l>  "Buzz! buzz! Hum! Hum! The swarm is off!"</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fytte III. The Rivals.</head>
+               <lg>
+                  <l>"Nothing like soup," is still the cry</l>
+                  <l>In each well ordered family;</l>
+                  <l>So on Christine the duty fell</l>
+                  <l>To cull the herbs they love so well;</l>
+                  <l>And every morn, the charming maid</l>
+                  <l>Within her father's garden strayed,</l>
+                  <l>Parsley to pluck, wherewith to make</l>
+                  <l>The soup, which they at noon should take.</l>
+               </lg>
+               <lg>
+                  <l>Her father's garden marched, I ween,</l>
+                  <l>  With that of Mr. Richard Dean;</l>
+                  <l>  A school-master by trade was he,</l>
+                  <l>  And she esteemed him—maidenly.</l>
+                  <l>  But by degrees, within her soul</l>
+                  <l>  A softer, tenderer passion stole;</l>
+                  <l>  Love—full of joy and full of sorrow,</l>
+                  <l>  Sunshine to day, and storm to-morrow,—</l>
+                  <l>  Love may forget a parsley bed,</l>
+                  <l>  And dream of golden flowers instead.</l>
+               </lg>
+               <lg>
+                  <l>And so the maiden stooped to cull a</l>
+                  <l>  Crocus, and an auricula.</l>
+                  <l>  These flowers, together-bound, she placed</l>
+                  <l>  Just half a foot above her waist.</l>
+               </lg>
+               <lg>
+                  <l>Then sat her down beneath the shade,</l>
+                  <l>  And thought about him—happy maid.</l>
+                  <l>  Now Mr. Dull a nephew had,</l>
+                  <l>  A most audacious, awkward lad;</l>
+                  <l>  Some fifteen summers he had seen</l>
+                  <l>  And still was very, very green.</l>
+               </lg>
+               <lg>
+                  <l>Christine he eyed, and with desire</l>
+                  <l>  He felt his little soul on fire.</l>
+                  <l>  With cat like pace behind the wall</l>
+                  <l>  He crept (he was not near as tall.)</l>
+               </lg>
+               <lg>
+                  <l>Leapt up, and from the affrighted Miss</l>
+                  <l>  Ravished the much desired kiss.</l>
+               </lg>
+               <lg>
+                  <l>"Stop little monster", and a whack</l>
+                  <l>  Descended on his upturned back—</l>
+                  <l>  (The place I cannot more define</l>
+                  <l>  Within the limits of a line)</l>
+                  <l>  —Side, I should add, but wherefore tell</l>
+                  <l>  What every school-boy knows so well.</l>
+                  <l>  Dick Dean so roundly plied the stick</l>
+                  <l>  That rogue Eugene skedaddled quick.</l>
+               </lg>
+               <lg>
+                  <l>Then Richard raised the fainting maid,</l>
+                  <l>  And many a tender thing he said;</l>
+                  <l>  Her chin he chucked, his arm he placed</l>
+                  <l>  About her little taper waist;</l>
+               </lg>
+               <lg>
+                  <l>Her flowers admired, and begged them too:</l>
+                  <l>  Christine, she knew not what to do;</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>But blushed assent; the flowers he took,</l>
+                  <l>  And thanked her with an ardent look.</l>
+               </lg>
+               <lg>
+                  <l>"Sweets are repaid by sweets I wiss",</l>
+                  <l>  He said, and he too had a kiss.</l>
+                  <l>  "Adieu and—au revoir—" to night</l>
+               </lg>
+               <lg>
+                  <l>Pray let us meet, my heart's delight,</l>
+                  <l>  Behind your father's Bee-house, when</l>
+                  <l>  The Church-clock shall have sounded ten.</l>
+                  <l>  Eugene, still smarting with the cane,</l>
+                  <l>  His heart on fire, with jealous pain,</l>
+               </lg>
+               <lg>
+                  <l>O'erheard the place of assignation,</l>
+                  <l>  And crept out from his hidden station;</l>
+                  <l>  Rushed to the Bee-house, found John Dull</l>
+                  <l>  Asleep, and snoring like a bull.</l>
+                  <l>  "Wake, Uncle, wake" in startling tone</l>
+                  <l>  He shouted, "for your swarm is gone."</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fytte IV. The Swarm.</head>
+               <lg>
+                  <l>John Dull, awakened from his slumber,</l>
+                  <l>  Observed his stock's diminished number;</l>
+                  <l>  His apple trees he searched, and found</l>
+                  <l>  The swarm some ten feet from the ground;</l>
+               </lg>
+               <lg>
+                  <l>Got his bee dress, his hive, and ladder;</l>
+                  <l>  No Bee master was ever gladder.</l>
+               </lg>
+               <lg>
+                  <l>Mounted, and without any trip</l>
+                  <l>  Got all the bees within the skip—</l>
+               </lg>
+               <lg>
+                  <l>"Well done I have them;" as he spoke</l>
+                  <l>  The ladder's top-most rung it broke,</l>
+               </lg>
+               <lg>
+                  <l>Crack! Crack! and, as I hope to thrive,</l>
+                  <l>  The same befel the other five;</l>
+               </lg>
+               <p rend="justify">The bees rush forth and quit the hive!<lb/>
+               </p>
+               <lg>
+                  <l>John on his knees, and free from harm</l>
+                  <l>  Marked well the disappearing swarm.</l>
+               </lg>
+               <lg>
+                  <l>Two boys were making pies of dirt</l>
+                  <l>  Close by, and playing with a squirt;</l>
+                  <l>  They squirted at the bees to stop 'em,</l>
+                  <l>  Squirted in vain; they could not drop 'em.</l>
+               </lg>
+               <lg>
+                  <l>Old Sally met them with her mop,</l>
+                  <l>  And Sammy trumpeted, stop! stop!</l>
+               </lg>
+               <lg>
+                  <l>And Dick and Bob and Bill they screeched,</l>
+                  <l>  But not a sound these flyers reached—</l>
+               </lg>
+               <lg>
+                  <l>A Sweep upon the chimney top</l>
+                  <l>  Showered soot upon them, and cried "Stop!"</l>
+               </lg>
+               <lg>
+                  <l>When they had cleared the churches roof,</l>
+                  <l>  Sam Dutton put his gun to proof;</l>
+               </lg>
+               <lg>
+                  <l>John Dull came panting up behind</l>
+                  <l>  And could no other stopper find;</l>
+               </lg>
+               <lg>
+                  <l>He stamped and swore and scratched his head,</l>
+                  <l>  "A pretty dance I have been led,"</l>
+                  <l>  "Confound the bees; I've got a warming"</l>
+                  <l>  Some way I'll find to stop their swarming;</l>
+                  <l>  A hive I'll build as big as two,</l>
+                  <l>  Sold by Mancubrian P.tt.gr.w.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fytte V. The Patent Monster Hive.</head>
+               <lg>
+                  <l>Adverse events reveal the real man,</l>
+                  <l>So Horace wrote, refute this truth who can.</l>
+               </lg>
+               <lg>
+                  <l>And John Dull to its full completion wrought</l>
+                  <l>  The inspiration of his sudden thought.</l>
+                  <l>  "Room for the swarm!" This is great Nature's law,</l>
+                  <l>  And so he built two monstrous hives of straw.—</l>
+               </lg>
+               <lg>
+                  <l>"Good morning neighbour" from across the fence</l>
+                  <l>  Cried out Dick Dean. "May I without offence"</l>
+                  <l>  "Ask what your making." "Why these blessed bees,"</l>
+                  <l>  "I find them creatures plaguey hard to please."</l>
+               </lg>
+               <lg>
+                  <l>"Plaguey! dont say so—they're a real pleasure,"</l>
+                  <l>  "I love to watch them when I have the leisure;"</l>
+                  <l>  "Besides each scholar knows in antient days,"</l>
+                  <l>  "How Maro sung his little darlings praise."</l>
+                  <l>  "And when the Roman legions brought alarm"</l>
+                  <l>  "To every inmate of his Mantuan farm,—"</l>
+                  <l>  "Smiling he stood, amidst his winged host;"</l>
+                  <l>  "The mailed warriors fled and left him at his post."</l>
+               </lg>
+               <lg>
+                  <l>"All this I know—Beekeeping would be charming,"</l>
+                  <l>  "If there was never such a thing as swarming."</l>
+               </lg>
+               <lg>
+                  <l>"But grubs my friend! your bees are sure to breed,"</l>
+                  <l>  "Swarms come from grubs, as corn crops come from seed."</l>
+                  <l>  "Grubs you must have; and when your swarming's done,"</l>
+                  <l>  "Two hives you'll find, where erst you had but one."</l>
+               </lg>
+               <lg>
+                  <l>"Bother the grubs; I know a better way,"</l>
+                  <l>  "My patent monster hives, they are the things to pay."</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fytte VI. The Bear.</head>
+               <lg>
+                  <l>Eugene would often take his lunch,</l>
+                  <l>  Of dry black bread a monstrous hunch,</l>
+                  <l>  Into a wood—ere he got through it</l>
+                  <l>  He wished he'd some nice honey to it—</l>
+                  <l>  When all at once it chanced a bee</l>
+                  <l>  He saw creep up a hollow tree;</l>
+                  <l>  Another came, then two, and three.</l>
+                  <l>  "Hurrah! there's honey here for me,"</l>
+                  <l>  Eugene exclaimed, "No more I'll eat</l>
+                  <l>  This nasty bread, but have a treat."—</l>
+               </lg>
+               <lg>
+                  <l>"Honey for ever!" up he clomb</l>
+                  <l>  To the trees fork—the honey comb</l>
+                  <l>  He saw below him in the beech</l>
+                  <l>  Hollowed by age, beyond his reach—</l>
+               </lg>
+               <lg>
+                  <l>His hold he missed and sad to tell</l>
+                  <l>  Down midst the honey combs he fell;</l>
+               </lg>
+               <lg>
+                  <l>Into the cakes his boots went crush,</l>
+                  <l>  As though it were mere muddy slush.</l>
+               </lg>
+               <lg>
+                  <l>Honey he found but every school-boy knows</l>
+                  <l>  He cannot eat his sweetmeats with his clothes.</l>
+               </lg>
+               <lg>
+                  <l>Another Bee Hunter that way</l>
+                  <l>  One Mister Bruin chanced to stray;</l>
+                  <l>  A dancing Bear by trade was he,</l>
+                  <l>  But fond of honey—certainly!</l>
+               </lg>
+               <lg>
+                  <l>"If I smell right here's honey comb";</l>
+                  <l>  He said, or thought; then upwards clomb.</l>
+               </lg>
+               <lg>
+                  <l>Eugene below, half dead with fear,</l>
+                  <l>  Saw the bears hinder's drawing near,</l>
+               </lg>
+               <p rend="justify">With both hands gripped him tight and had a<lb/>
+               </p>
+               <lg>
+                  <l>Mount upwards by this living ladder;</l>
+                  <l>  Sure never little lad was gladder.</l>
+               </lg>
+               <lg>
+                  <l>Meanwhile John Dull, a spying round,</l>
+                  <l>  The self same honey tree had found;</l>
+               </lg>
+               <lg>
+                  <l>Up to the fork himself he reared</l>
+                  <l>  When Bruin's ugly mug appeared.</l>
+                  <l>  Augh, back he fell through utter fright;</l>
+                  <l>  Close to his tail did Braun alight;</l>
+                  <l>  And by Braun's heels Braun's parasite.</l>
+               </lg>
+               <lg>
+                  <l>Braun seized John Dull with either claw,</l>
+                  <l>  Just as himself was seized before;</l>
+               </lg>
+               <lg>
+                  <l>John pulling out his hunting knife</l>
+                  <l>  Cut off his tail to save his life;</l>
+               </lg>
+               <lg>
+                  <l>Sam Dutton here did interveen,</l>
+                  <l>  "To shoot that grizzly bear I mean"!</l>
+                  <l>  But Braun was nowhere to be seen.</l>
+               </lg>
+               <lg>
+                  <l>Early next morn came sawyers two,</l>
+                  <l>  And sawed the Honey tree right through;</l>
+               </lg>
+               <p rend="justify">There stuck the boots of young Eugene;<lb/>
+               </p>
+               <lg>
+                  <l>He drew them out, and licked them clean;</l>
+                  <l>  Such blacking ne'er before was seen!</l>
+                  <l>  While John Dull, from the luscious store,</l>
+                  <l>  Filled twenty honey pots or more.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fytte VII. The Frog.</head>
+               <lg>
+                  <l>"The appetite with eating grows"—</l>
+                  <l>  This truth my little story shows.</l>
+                  <l>  For many a day the rogue Eugene</l>
+                  <l>  To John Dull's bee-hives creeps unseen;</l>
+                  <l>  Smokes them,—Puff!—Puff!—then boldly takes</l>
+                  <l>  The much desired honey cakes.</l>
+               </lg>
+               <lg>
+                  <l>When lo! one day the angry swarm</l>
+                  <l>  Out on him rushed—the day was warm;</l>
+                  <l>  They covered him from top to toe,</l>
+                  <l>  Behind, before, above, below,</l>
+                  <l>  They buzzed, they crawled, they stung him,—Oh!</l>
+               </lg>
+               <lg>
+                  <l>Eugene half stifled, for his nose</l>
+                  <l>  And mouth were covered like his clothes,</l>
+                  <l>  Rushed to the nearest water-pit,</l>
+                  <l>  And took a header into it;</l>
+               </lg>
+               <lg>
+                  <l>Rose through the Bee-besprinkled foam,</l>
+                  <l>  And ran, all dripping, to his home.</l>
+               </lg>
+               <lg>
+                  <l>Felt quite unwell! The doctor came</l>
+                  <l>  And to his illness gave a name.</l>
+               </lg>
+               <lg>
+                  <l>"By aid of careful auscultation,"</l>
+                  <l>  "And thinking on his late natation,"</l>
+                  <l>  "I think, I think that I deskiver,"</l>
+                  <l>  "A frog within this dear boy's liver."</l>
+               </lg>
+               <lg>
+                  <l>"I'll get him up." A bee he took,</l>
+                  <l>  Impaled it on a fishing-hook;</l>
+               </lg>
+               <lg>
+                  <l>Played it within his open jaws,</l>
+                  <l>  A bite! and up the frog he draws;</l>
+               </lg>
+               <lg>
+                  <l>Frog to the open window took,</l>
+                  <l>  And cut the line close by the hook;</l>
+               </lg>
+               <lg>
+                  <l>Frog to the pool, rejoicing, hopped;</l>
+                  <l>  And plump into the water dropped.</l>
+                  <l>  Then chanted his Batrachian lay</l>
+                  <l>  Quite in th' Artistophanic way;</l>
+                  <l>  "Brekekekek, coax, coax,</l>
+                  <l>  Coax, coax, Brekekekek."</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fytte VIII. The Ghost.</head>
+               <lg>
+                  <l>Forbidden fruit is sweet they say;</l>
+                  <l>  And so its gathered every day;</l>
+                  <l>  And should this fruit be sweet before,</l>
+                  <l>  Forbid it, and 'tis ten times more.</l>
+                  <l>  Eugene oft coveted the pot</l>
+                  <l>  Of honey that John Dull had got</l>
+                  <l>  Placed on the shelf above his head,</l>
+                  <l>  For safety, when he went to bed;</l>
+               </lg>
+               <lg>
+                  <l>John slept, John snored; then ope'd his eyes</l>
+                  <l>  And stared about him with surprise.</l>
+               </lg>
+               <lg>
+                  <l>"What's this I see come crawling on?"</l>
+                  <l>  "Sure, 'tis a strange phenomenon."</l>
+               </lg>
+               <lg>
+                  <l>A winged beast, with tail, and claws</l>
+                  <l>  On his four feet, which end in paws.</l>
+               </lg>
+               <lg>
+                  <l>With stealthy pace on on it crawled,</l>
+                  <l>  John turned upon his face, and bawled.</l>
+               </lg>
+               <lg>
+                  <l>John's hair as this strange beast drew near</l>
+                  <l>  His night cap raised for very fear.</l>
+               </lg>
+               <lg>
+                  <l>On its hind legs itself it reared,</l>
+                  <l>  As it its squalling master neared,</l>
+               </lg>
+               <p rend="justify">Nearer still nearer—till he got<lb/>
+               </p>
+               <p rend="justify">The much desired honey pot.<lb/>
+               </p>
+               <lg>
+                  <l>Turns tail and runs; whilst Johnnie sits</l>
+                  <l>  Bolt up, divested of his wits.</l>
+               </lg>
+               <lg>
+                  <l>A pearly drop on every hair</l>
+                  <l>  Hangs pendant, not from heat, but fear.</l>
+               </lg>
+               <lg>
+                  <l>Eugene his garret sought, and there</l>
+                  <l>  Ate honey, like his friend the bear,</l>
+                  <l>  The pot he emptied mighty soon,</l>
+                  <l>  Using his paws instead of spoon.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fytte IX. The Honey Thief.</head>
+               <lg>
+                  <l>The flowers which Christine culled at morn</l>
+                  <l>  At eve were withered, and forlorn.</l>
+               </lg>
+               <lg>
+                  <l>These withered flowers Dick sadly took,</l>
+                  <l>  And placed them in his music book;</l>
+                  <l>  Then put the book upon the table,</l>
+                  <l>  And pressed, the best that he was able.</l>
+               </lg>
+               <lg>
+                  <l>The pressed flowers took a wondrous shape,</l>
+                  <l>  Which seemed the human form to ape;</l>
+                  <l>  And in these specimens, Christine</l>
+                  <l>  Is imaged, and her Dicky Dean.</l>
+               </lg>
+               <lg>
+                  <l>Ten sounded from the old church tower—</l>
+                  <l>  Before the last stroke of the hour,</l>
+                  <l>  Close by the bee-house Richard Dean,</l>
+                  <l>  His last new coat on, might be seen;</l>
+                  <l>  Christine, arrayed in all her charms,</l>
+                  <l>  Was there, and rushed into his arms.</l>
+               </lg>
+               <lg>
+                  <l>"Hist! what's that sound?" alack! alack!</l>
+                  <l>  A thief, with crotchet at his back—</l>
+                  <l>  A Honey thief—ill may he thrive.</l>
+               </lg>
+               <p rend="justify">Each crept into a monster hive.<lb/>
+               </p>
+               <lg>
+                  <l>The thief peered round; "This will I take"—</l>
+                  <l>  "This big one will my fortune make."</l>
+               </lg>
+               <lg>
+                  <l>Then hoisted Dicky, hive and all,</l>
+                  <l>  Upon his back so lean, so tall—</l>
+               </lg>
+               <lg>
+                  <l>"Halt," shouted Dicky, and the head</l>
+                  <l>  Of his strange monture bonneted;</l>
+               </lg>
+               <lg>
+                  <l>Held him down tight, and with a stick</l>
+                  <l>  Passed 'twixt his legs, secured him quick.</l>
+               </lg>
+               <lg>
+                  <l>And Christine, what must she have felt</l>
+                  <l>  While Bruin round about her smelt?</l>
+                  <l>  Out of the hive she softly stole;</l>
+               </lg>
+               <lg>
+                  <l>In crept the bear and through the hole</l>
+                  <l>  At the hive's top he poked his nose;</l>
+                  <l>  Christine her ready courage shows,</l>
+               </lg>
+               <lg>
+                  <l>She through his nose ring passed a stick,</l>
+                  <l>  Which from the ground she happed to pick.</l>
+               </lg>
+               <lg>
+                  <l>Poor Bruin rolled upon his back,</l>
+                  <l>  And grunted out alas! alack!</l>
+               </lg>
+               <lg>
+                  <l>So after all these strange alarms,</l>
+                  <l>  Again Dick rushed into her arms.</l>
+               </lg>
+               <lg>
+                  <l>John Dull by chance came strolling by,</l>
+                  <l>  His hives upset first met his eye;</l>
+                  <l>  He saw they both were tenanted—</l>
+                  <l>  Amazed he looked, then scratched his head;</l>
+               </lg>
+               <lg>
+                  <l>Peered all around, espied Christine</l>
+                  <l>  And her own true love Dicky Dean;</l>
+                  <l>  Behind the bee house they were placed,</l>
+                  <l>  And Dicky's arm was round her waist.</l>
+               </lg>
+               <lg>
+                  <l>"Come here" he cried "you little chit,"</l>
+                  <l>  "I understand it not a bit"—</l>
+                  <l>  Upon their knees they both fell down,</l>
+                  <l>  And the whole mystery made known.</l>
+               </lg>
+               <lg>
+                  <l>The father heard them all declare,</l>
+                  <l>  Then gave his blessing to the pair.</l>
+                  <l>  "Bless you my Christine: Dick I bless"</l>
+                  <l>  "With stores of wedded happiness."</l>
+               </lg>
+               <lg>
+                  <l>Then came the dramatis personae;</l>
+                  <l>  The tall, the short, the fat, the bony.</l>
+               </lg>
+               <lg>
+                  <l>Sam Dutton thought to get a shot,</l>
+                  <l>  Now Bruin could no longer trot.</l>
+                  <l>  But Sally interposed her mop,</l>
+                  <l>  And to his shooting put a stop.</l>
+               </lg>
+               <lg>
+                  <l>The night watch came, and 'twixt them bore</l>
+                  <l>  The skewer'd thief to the prison door.</l>
+               </lg>
+               <lg>
+                  <l>And came the bear leader as well,</l>
+                  <l>  And took poor Bruin to his cell.</l>
+               </lg>
+               <lg>
+                  <l>Sam with his trumpet blew a rally,</l>
+                  <l>  And Hip, Hurrah! cried ancient Sally.</l>
+               </lg>
+               <lg>
+                  <l>Long live both empty hives and full,</l>
+                  <l>  Long live Dick Dean and Johnny Dull.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fytte X. The Queen Bee's Fete.</head>
+               <lg>
+                  <l>The night is warm, and many a nose</l>
+                  <l>  Upturned, is snoring in repose;</l>
+                  <l>  Whilst every tree and every flower</l>
+                  <l>  Rejoices in that witching hour.</l>
+                  <l>  And o'er John Dull his garden beds,</l>
+                  <l>  The moon her gentle influence sheds.</l>
+               </lg>
+               <lg>
+                  <l>'Tis May the first, the Queen bee's fête!</l>
+                  <l>  And she, in all her regal state,</l>
+                  <l>  Beneath her fairy hall of roses</l>
+                  <l>  With her beloved drone reposes.</l>
+               </lg>
+               <lg>
+                  <l>She nods a sign; the bombardier</l>
+                  <l>  Awakes the echoes far and near.</l>
+               </lg>
+               <lg>
+                  <l>Whilst tinkle, tinkle, clang! clang! bang!</l>
+                  <l>  The Court musicians' strain out-rang.</l>
+                  <l>  The fly he blows the shrill trompette,</l>
+                  <l>  The gnat the softer clarionette;</l>
+                  <l>  The grasshopper, a fiddler he—</l>
+                  <l>  The drummer is the bumble bee.—</l>
+               </lg>
+               <lg>
+                  <l>The Willow-beetle, such a swell,</l>
+                  <l>  With young Sabina waltzes well;</l>
+               </lg>
+               <lg>
+                  <l>Liz too and Kitty have their swains,</l>
+                  <l>  Who one and all are taking pains</l>
+                  <l>  To make themselves agreeable,</l>
+                  <l>  Each to his own peculiar belle.</l>
+               </lg>
+               <lg>
+                  <l>The Stag-Beetle, that beau precise,</l>
+                  <l>  Regales his partner with an ice.</l>
+               </lg>
+               <lg>
+                  <l>The Moon, upon the Apple Tree,</l>
+                  <l>  Surveys, well pleased, the revelry.</l>
+               </lg>
+               <lg>
+                  <l>Two cockchafers soon quit the dance;</l>
+                  <l>  They cannot bear the piercing glance</l>
+                  <l>  Of their fair partners—see them set</l>
+                  <l>  Within a private cabinet.</l>
+                  <l>  They smoke, they sing, they drink until</l>
+                  <l>  Their little polished paunch they fill.</l>
+               </lg>
+               <lg>
+                  <l>Their homes they cannot find—alas!</l>
+                  <l>  They tumble backward on the grass.</l>
+                  <l>  "To whit" "To whoo" policeman Owl,</l>
+                  <l>  The wisest of all feathered fowl,</l>
+                  <l>  Hoots out; "why here's a precious go,"</l>
+                  <l>  "Drunk and incapable, ho! ho!"</l>
+               </lg>
+               <lg>
+                  <l>"So come along, I know you well;"—</l>
+                  <l>  He said, and drove them to his cell.</l>
+                  <l>  Were they discharged? No, never more,</l>
+                  <l>  That cell it was an abattoir.</l>
+                  <l>  The owl supped on the elder Brother,</l>
+                  <l>  And for his breakfast ate the other.</l>
+                  <l>  So you, who think a dance divine,</l>
+                  <l>  Mind—never take excess of wine.</l>
+               </lg>
+               <lg>
+                  <l>The Evening star went flicker—flick—</l>
+                  <l>  Over the bedroom candlestick;</l>
+                  <l>  And round its silver radiance shed</l>
+                  <l>  To light the sleepy moon to bed.</l>
+               </lg>
+               <lg>
+                  <l>I've done—I doff my riding gear,</l>
+                  <l>  And order Pegasus—HIS BEER.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Notes on Buzz-a-Buzz,</head>
+               <div type="div3">
+                  <head>APIARIAN, CLASSICAL, POETICAL, AND NONDESCRIPT.</head>
+                  <div type="div4">
+                     <head>P R E L U D E.</head>
+                     <p rend="justify">Hail Muse! &amp;c.—An Invocation to the Muses, both terse and expressive. Possibly not quite original, as I have a dim recollection that a certain obscure poet called Byron, whose works are now well nigh forgotten, made use of it.</p>
+                     <p rend="justify">Peggy.—A name dear to the writer, as that of the first pony which he ever had of his very own—the gift of a kind Godfather—of a different sex indeed from Pegasus. There is, therefore, some hopes that the breed may have been preserved, but, as far as my experience goes, I may regretfully say,</p>
+                     <p rend="justify">Quando ullam inveniam parem.</p>
+                     <p rend="justify">I have, alas, grown stout; and it requires a strong cob to carry twenty stone, and go lively under it as well. Such a mount fetches a long price, which does not suit a short purse; and such Godfathers, alas! <hi rend="italic">abierunt ad plures</hi>; their successors give no such gifts to their Godchildren.</p>
+                     <p rend="justify">Parnassus Green.—Not at all the same sort of place as Paddington Green. The latter is now familiarly haunted by our Comic song writers, those most dolorous of all funny men. Parnassus Green stands, from the necessity of rhyme, for Green Parnassus.</p>
+                     <p rend="justify">Hippocrene.—The first horse drinking fountain, and produced, moreover, by a stamp of Peggy's hoof. This would be a good subject for a drinking fountain of the present day. I make a present of the idea to any young sculptor who has a commission from one of our merchant princes, and is hard up for a subject. The most approved receipt for developing a poetic temperament was to sleep on Parnassus, and drink of Hippocrene in the morn. Persius has it,</p>
+                     <lg>
+                        <l>"Non fonte labra prolui caballino,</l>
+                        <l>Nec in bicipiti somniasse Parnasso</l>
+                        <l>Memini, ut repente sic poeta prodirem."</l>
+                     </lg>
+                     <p rend="justify">No more have I; and perhaps some of my readers may say that I should have done better had I waited for a sleep on Parnassus, and a drink of Hippocrene before I began to write. All I can say is, I hope to take one next year, if I visit Greece.</p>
+                     <p rend="justify">Fytte I.—<hi rend="italic">Page 1-7.</hi>—The fun of this first Fytte will be "real nuts" to every Bee-master. The whole economy of a Hive is viewed from a human stand-point. The sentinels watching with their own stings in their hands as lances; the early labours of the chamber and house maids; the architects setting out the day's work; the swaddling clothes and pap boat for the Grub Royal; the State of the Queen; the idleness of the drones: all is well told, at least in the wood cuts.</p>
+                     <p rend="justify">"Pig in the Garden strayed around."—<hi rend="italic">Page 8.</hi>—A very improper place for Pig to take his constitutional walk. The wicket gate which leads to your Hives should be always properly secured, or results very different from the fattening of a pig may be produced. For what is possible, though not very probable, see one of the early chapters of Maryatt's Mr. Midshipman Easy.</p>
+                     <p rend="justify">"Was erst all lean, was now all fat."—<hi rend="italic">Page 10.</hi>—The alteration of the animal tissue in consequence of a sting is very wonderful; it is certainly not fat which is deposited. So that this method of getting Bacon Pigs ready for market, though it would save corn, would not be satisfactory to the Bacon Curer when he puts his flitches in salt, still less to the cook, when frying a rasher.</p>
+                     <p rend="justify">"Fly forth, dear Bee, 'tis morn, fly forth."—<hi rend="italic">Page 11.</hi>—I shall be obliged to any one of my many friends, skilled in Musical Composition, if they will set this original Bee song. The prelude and refrain offer a fine opportunity for a Buzz-a-Buzz effect. On receipt of a satisfactory production I will forward to the Composer a bound copy of <hi rend="italic">Buzz-a-Buzz</hi>, with the translator's autograph. Inestimable reward!</p>
+                     <p rend="justify">John Dull sits waiting for a Swarm.—<hi rend="italic">Page 11.</hi>—as I have done for many an hour, and lost the swarm after all. John Dull drops asleep whilst watching. I have often ceased watching just as the swarm was about to rise. The Bees choose their own time, which is not always that which the Bee master would for them. But the whole subject of swarming, and how to regulate it, or prevent it, will be fully treated of in the forthcoming second edition of "My Bee Book."</p>
+                     <p rend="justify">"This honey thief, this Bee-i-cide."—<hi rend="italic">Page 14.</hi>—This latter word is the invention of the learned Doctor Cumming, the Times' Bee-master. See a most stunning article on his Bee-Book in the Saturday Review, the second or third number for December, 1864. The proverbial thickness of a Scotchman's skin can alone have preserved him from dying from the effects of this stinging article. "Docte Commenas utriusque linquœ" say I.</p>
+                     <p rend="justify">"Cull a Crocus and an Auricula."—<hi rend="italic">Page 17.</hi>—The last word was indeed a difficult one to hitch into rhyme. It has, however, been, I think, successfully overcome. I might have added another line, and made a triplet,</p>
+                     <p rend="justify">"Flowers which her Richard loved particular,"</p>
+                     <p rend="justify">but I had compassion on the ears of my readers.</p>
+                     <p rend="justify">"The place I Cannot more define,<lb/>"Within the limits of a line."—<hi rend="italic">Page 19.</hi>
+                        <lb/>I well remember, when an Eton boy, walking in the playing fields with a late revered and beloved prelate, then a Fellow of Eton, whose memory is dear to every Etonian who knew him, as that of a kind friend and finished scholar,—such as alas! seem extinct in these degenerate days. He was living in a picturesque old house, "The Warf," now destroyed, that his two sons, then at Eton, might still have the benefit of home associations. His daughters, and their French governess, accompanied us in this well-remembered stroll. Mademoiselle was very curious as to how the Eton boys were punished. She wanted all the details, and asked if they were whipped on their backs. The question made us all look foolish, but Dr. L. with a twinkle of his eyes, which marked his appreciation of the <hi rend="italic">situation</hi>, answered, "A little lower down, Mademoiselle, a little lower down."</p>
+                     <p rend="justify">"Fetched His Bee Dress, his Hive, his Ladder."—<hi rend="italic">Page 23.</hi>—A veritable Guy Mr. Dull looks in his defensive armour! A simpler and equally efficient dress may be made of a black net bag, large enough to be drawn over a straw or felt hat, with a brim sufficiently wide to keep the net away from the prominent organ, the nose, and long enough to be buttoned into the Bee-master's coat. A couple of elastic bands round the wrists will prevent the Bees crawling up his sleeves, the same round the ancles will secure the most timorous Bee master. "A Lady's dress I cannot pretend to regulate." See "My Bee Book," where many instances of the effect of stings are given. When swarming, Bees are particularly gentle, and never sting, except when some are crushed. A true Bee-master will despise such defensive armour, but trust rather to his gentleness and knowledge of the habits of his Bees for his immunity from stings. Should he be stung, nevertheless, in spite of all precautions, let him instantly extract the sting, and apply a drop of honey to the place. This will immediately allay the smarting pain, and the swelling, except in certain places, as the eye or lip, be trifling. <hi rend="italic">Eau de Luce</hi>  as it is commonly called, that is, strong ammonia, is another excellent remedy; a small bottle should be kept in every apiary in the box of "needments." But above all, let the Bee-master eschew gloves, specially when delicate operations are to be performed. A cat might as soon expect to catch mice in mittens, as a Bee-master to capture a Queen with hands encased in, and fingers stiffened by, thick woollen gloves, as recommended by some.</p>
+                     <p rend="justify">"Some way I'll find to stop this Swarming."—<hi rend="italic">Page 29.</hi>—It is not to be done by monster hives, or ventilation, or by adding supers. If the Bees will swarm, they will. They are a stiff-necked generation, and know their own business, at least they think so, better than we men can teach it them. Our objects, however, are slightly different. Their's to propagate and preserve their species: ours to secure the maximum amount of honey in any given locality. I have known a swarm sent forth from a <hi rend="italic">Ruche a l'air libre</hi>, a French Hive, which I worked in New Zealand. The Combs and Bees were entirely exposed to the external air, which was not then particularly warm. But a swarm was ready to go, so off they went. For full particulars of this remarkable instance see "My Bee Book," second edition. To regulate, not to prevent swarming should be the Bee-master's aim. More of this hereafter. I here give, by the kindness of Mr. Alfred Neighbour, illustrations of the sort of hive by which alone this can be accomplished, viz., the Bar Frame hive. Originally of German invention, it, with various modifications, has been widely adopted both on the Continent and in America; and every Bee-master in England who claims the title of scientific, would do well to supply himself at once. Each honey comb, it will be seen, is built in a separate bar frame like a picture. They are ranged to the number of 9, 11, or 13, in a strong box, and each is both moveable and interchangeable with those of any other hive. Swarming may be checked in any particular stock by cutting out the Queen Cells. The great production of drones can be regulated by limiting the amount of drone cell in any hive, and altogether prevented by removing it all from a stock hive, about the purity of whose strain there is the least doubt; whilst again, it may be encouraged in a pure blooded stock hive, by inserting at the proper time an additional bar containing drone comb. Any man handy with tools may make them for himself at the cost of the materials, and they will last a lifetime. I can supply my friends with as many as they require at half a guinea, for which they pay double or treble in the shops; whilst those who think nothing can be good except it is high-priced, and do not like the trouble of making their own hives, may go to any cost they like. The preceding woodcut represents a hive on this principle, but with certain modifications, which may be obtained of Mr. Neighbour, 149, Regent-street, and will suit the class of Bee keepers last mentioned. Mr. Neighbour has, I may mention, made arrangements for supplying Ligurian Queens of the greatest purity.</p>
+                     <p rend="justify">"A dancing Bear by trade was he,<lb/>"And Honey loved exceedingly."—<hi rend="italic">Page 35.</hi>
+                        <lb/>This "Bar" story is an addition to, and improvement on, one which I recollect to have read in some American publication. A man who had dropped into a hollow tree is hoisted up by the same "living ladder." He, if I remember rightly, grasped the hinders of the Bear with one hand, and with the other prodded him with his Bowie knife, so as to change his descending into an ascending motion.</p>
+                     <p rend="justify">Honey Cakes.—The French use the word <hi rend="italic">Gateaux</hi>. I wish the name "Honey Cakes" were universally adopted by Bee-masters. It would supply a meaning which the word "comb" does not at all. A honey comb may be as dry as dust, whilst the "honey cake" places before the eyes of the imagination a full comb well sealed over, with here and there a drop of clear honey oozing out, as a sample of the store within. Perfectly sealed honey cakes may be kept without deterioration through the winter, by wrapping them up separately in clean writing paper, and then packing them away in a tin, each cake being placed as it stood in the hive. If Bar-Frame Hives are used, the cakes should not be cut away from the frame till wanted; they should be stored away in some close box, fitted to receive them.</p>
+                     <p rend="justify">"And Cover Him From Top To Toe."—<hi rend="italic">Page 43.</hi>—Bee literature contains many instances of persons having been completely enveloped in a swarm of Bees, who by remaining perfectly still did not receive a single sting. Old Thorley, in his Μελισσολογια tells the story of his maid-servant being so covered in a manner very quaint and charming. Perfect quiet under these circumstances is essential to, and will secure, safety; whilst any thing which can enrage 20,000 soldiers, armed with a poisoned dart, may lead to fatal results. Since I wrote the above, a story has appeared in the newspapers, and is, I fear a true one, as names, dates and places are given, of a sting having been fatal to a lady accustomed to the management of bees. Any person who has this idiosyncrasy had better give bees a wide berth.</p>
+                     <p rend="justify">"I Deskiver."—<hi rend="italic">Page 44.</hi>—There was evidently a taste of Milesian blood in this learned doctor. 'Tis fortunate that it was so, for "discover" and "liver" would not rhyme.</p>
+                     <p rend="justify">"Brekekekex, Coax, Coax,<lb/>"Coax, Coax, Brekekekex."—<hi rend="italic">Page 46.</hi>
+                        <lb/>Is the refrain of the well-known chorus in the Frogs of Aristophanes. Any one with an accurate ear, who has been so happy as to assist at a chorus of Bull Frogs in full song in the sweet spring tide, sacred to love and melody, must have felt how accurately the great Comic Poet noted down their song. I do not believe that in the two thousand years which have elapsed since that time there has been a single note altered in their love ditty. I have never been in Greece, and so cannot testify to the musical powers of the Frogs of Bœotia; but I have had that pleasure both in Spain and in the neighbourhood of Constantinople: in both instances under very favourable circumstances, which I will relate. In June, 1855, during the Crimean war, I was at Constantinople, the guest of Lord Napier, then Chief Secretary to the British Embassy in that city. He was residing at that lovely place, Therapia, the summer retreat of our Ambassador and his suite. I had pitched my little tent in a grass meadow, close to Lord Napier's snug house. His hospitality by day was unbounded, but straitened as he was for room by night, he was not sorry to entertain a guest who delighted in camping out, and brought with him the means of doing so. Not fifty yards from my tent was a dark stagnant pool, overshadowed by trees, and every night and all night long the Bull frogs, from their reedy habitations, sang "Brekekekex, Coax, Coax," whilst above the water, and in and out of the dark shadows of the trees, the fire flies flickered about in their ever varying gambols. It was as though Taglioni, resplendent with Jewels, had been dancing her very best to the strains of a Scotch bag-pipe. Again, I was in the noble town of Seville at Easter, 1867, twelve years later, during which time I had been hard at work in England, and "no holiday had seen," so by that time I needed one. Not a hundred yards from the glorious Cathedral, behind the Alcazar, the old Palace of the Moors, is a large orange garden, and in the midst of it a square tank, of Moorish work, used for irrigation. The garden was tenanted by a widow woman who owned a dozen or so magnificent stall-fed milch cows, and thither I resorted early every morning, after visiting the Cathedral, for the sake of a glass of new milk, and a lesson in Spanish from her two little daughters aged respectively nine and ten, Incarnacion (the last c pronounced th) and Salud. Commend me to two chattering little girls, when their shyness has once worn off, as the best teachers of a new language. One glorious morning I was sitting on the edge of the aforesaid tank, inhaling the delicious perfume of the orange blossoms, when a Frog struck up his "Brekekekex, Coax Coax" from the still water, and at the same time the air was resonant with the sweet song of the Nightingale. I pride myself on knowing somewhat of the languages of Birds, Beasts, and (Fishes? No! they are mutum pecus, but let us say) Bull Frogs so I listened attentively, and found the Nightingale and Bull Frog, were each of them serenading his own wife, arboreal, and aquatic. Each wife thought her husband the very best singer in the world: that not a note of his song could be altered for the better; and both Nightingale and Bull Frog thought the other singer a bore. I noted down the whole of this musical contest at the time. It is quite in the way of one of Virgil's Amœbœan Bucolics. Not Corydon and Thyrsis, but Batrachos and Philomela were contending for the prize. It is too long to insert here, but may be had of my publishers, under the title of "Bull Frog and Nightingale;" an Apologue, price 6d. But the sum of the whole matter is this: I do not believe, "pace Darwinii nostri dicatur," that natural selection, and conjugal preference has had the effect of altering or improving the Nightingale's song in the last two thousand years. It could not be louder or better, and I trust may last my time unchanged, whilst on the evidence of Aristophanes' chorus we know that Bull Frogs, then, as now, sang "Brekekekex, Coax, Coax," <hi rend="italic">and that song only</hi>.</p>
+                     <p rend="justify">The Honey Pot.—<hi rend="italic">Page 47-52.</hi>—This Fytte, comical as it is in itself, is particularly valuable as instructing the untravelled Britisher in the peculiarities of a German bedstead; far too short for all who have not by some Procrustœan process been reduced to the normal height of five feet, no inches! the upper sheet sown to the coverlid, with no possibility of tucking it in, and liable to fall off the sleeper altogether. No blankets, but a mountain of feather-bed piled above, which either stifles you in summer, or rolling off, leaves you to freeze in the winter. Yet in such a bed as this what wonderful positions Mr. Dull managed to assume under the influence of fear. Imitate him, my gentle reader, if you are still young and active, and then you will appreciate his contortions.</p>
+                     <p rend="justify">"A Honey Thief, ill may he thrive."—<hi rend="italic">Page 55.</hi>—Every Bee keeper will echo this wish. I know no sight more piteous than an apiary the night after it has been plundered. Light Hives upset, and lying, with the combs all broken, on the ground. The Bees crawling about in wild confusion around their violated homes, lately so neat, and now the very picture of desolation. In vain they attempt to repair the damage which the spoiler's hand has created; whilst the stands where the heavy stocks stood the evening before, are one and all tenantless. Many devices to protect Hives from robbers have been tried. Wooden boxes are tightly screwed to the bottom board from below, whilst the bottom board itself is strongly bolted to the stand. This will indeed protect a hive from anything but a powerful crow bar. But the remedy is worse than the disease, as it prevents your ever changing or cleaning the bottom board, and is, in many ways, inconvenient. The best preservative I can think of is to have a savage dog, savage to all but his master, with a strong chain, not fastened to his kennel, but ending in an iron ring, which can slide along a small pole placed horizontally about a foot from the ground in front of the Hives. I have seen this mode of defence adopted in Germany for the protection of the valuable Leech ponds, which are there fattened for the market. It answers for the defence of Leeches, and if so, why not for Bees.</p>
+                     <p rend="justify">"Many a nose, upturned, was Snoring in Repose."—<hi rend="italic">Page 66.</hi>—My readers will doubtless remember, as I confess to have done when penning the above line, the opening of Southey's Thalaba, and the inimitable parody thereof in the Rejected Addresses. When a thing has been done excellently well, it is folly to again attempt the same with a certainty of failure before our eyes. We verse makers do not steal from each other; we are all one brotherhood, and <hi rend="italic">Corbies nae pike out corbies e'en</hi>. But we convey—<hi rend="italic">conveys</hi>  the word, says glorious Will.</p>
+                     <p rend="justify">"And between them bore,<lb/>"The felon to the prison door."—<hi rend="italic">Page 66.</hi>
+                        <lb/>This mode of removing a captive would have suited that extinct species of our protective force, that of the Dogberry and Verges order, and may be recommended to our new police as more merciful, and less grating to the feelings of a prisoner than the present mode of "running a man in;" especially as they generally get hold of the wrong person. A police sedan would enable the innocent captive to conceal his features from the tail of little boys and idle quidnuncs, specially if he were carried like our honey thief head downwards.</p>
+                     <p rend="justify">The last Chapter is like the first, written in the style of the Butterfly's Ball and the Grasshopper's feast, and is, it seems to me, no less admirable. If I pride myself on anything in this translation it is on the concluding lines:</p>
+                     <lg>
+                        <l>"The evening star went flicker—flick—</l>
+                        <l>Over the bedroom candlestick;</l>
+                        <l>And round its silver radiance shed</l>
+                        <l>To light the sleepy moon to bed."</l>
+                     </lg>
+                     <p rend="justify">"I've done I doff my riding gear,<lb/>"And order Pegasus—HIS BEER."—<hi rend="italic">Page 72.</hi>
+                        <lb/>Baierische Bier is infinitely superior to any Hippocrene. But no drink in the world can hold a candle to genuine "Wienische Bier," as it comes cool drawn from the cellar. The Romans knew not beer, and so had to put up with "Falernian," or even the "vile Cœcubum." I say put up, for the wine that now goes by the name of Falernian is detestable. I suppose, however, that two thousand years ago it was far more carefully made, as I trust it may again be in "Italia Unita." The Romans, knew not beer, but the Greeks had tasted it, though brewed by the hands of barbarians. In Xenophon's Retreat of the Ten Thousand we are told that they came upon a race of people from whom they got</p>
+                     <p rend="justify">Ἐκ κριθῶν μέθυ.</p>
+                     <p rend="justify">Let us then leave Pegasus to enjoy his drink of barley wine, though like Baron Munchausen's famous steed, he hath not the wherewithal to stow away his beer. My dear old Peggy, alluded to in the first of this series of notes, and therefore the fittest subject for a wind up, was, when hard worked, very fond of a quart of good ale, with half a quartern loaf broken into it; she would drink up the ale at a draught, then quickly munch the sop, and start with fresh vigour for another ten-mile trot.</p>
+                  </div>
+                  <div type="div4">
+                     <head>CORRIGENDA.</head>
+                     <p rend="justify">The reader is asked to excuse the following errors, excusable—as for the sake of having its original wood blocks, the work, with the exception of the notes, was printed abroad.</p>
+                     <p rend="justify">Page 6, for <hi rend="italic">'ts</hi>  read <hi rend="italic">t'is</hi>.</p>
+                     <p rend="justify">Page 35 should be—</p>
+                     <lg>
+                        <l>"But every sweet-toothed school-boy knows,</l>
+                        <l>  He can't eat honey with his toes."</l>
+                     </lg>
+                     <p rend="justify">Page 36, for <hi rend="italic">hinder's</hi>  read <hi rend="italic">hinders</hi>.</p>
+                     <p rend="justify">Page 70, for <hi rend="italic">Ap le Tree</hi>  read <hi rend="italic">Apple Tree</hi>.</p>
+                     <div type="div5">
+                        <head>PHILLIPSON AND GOLDER, PRINTERS, CHESTER.</head>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

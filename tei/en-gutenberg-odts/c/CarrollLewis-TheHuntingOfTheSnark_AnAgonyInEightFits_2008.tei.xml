@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Hunting of the Snark: An Agony in Eight Fits</title>
+            <author>Lewis Carroll</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T01:42:51Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/c/CarrollLewis-TheHuntingOfTheSnark_AnAgonyInEightFits_2008.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Lewis Carroll</name>
+               <date>2024-01-04T01:42:51Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Hunting of the Snark: An Agony in Eight Fits</head>
+         <author>Lewis Carroll</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/c/CarrollLewis-TheHuntingOfTheSnark_AnAgonyInEightFits_2008.odt</p>
+         <head>THE HUNTING OF THE SNARK</head>
+         <head>an Agony in Eight Fits</head>
+         <author>by<lb/>Lewis Carroll</author>
+         <subtitle>THE MILLENNIUM FULCRUM EDITION 1.2</subtitle>
+         <p>
+            <hi rend="bold">Inscribed to a dear Child:</hi>
+            <lb/>
+            <hi rend="bold">in memory of golden summer hours</hi>
+            <lb/>
+            <hi rend="bold">and whispers of a summer sea.</hi>
+            <lb/>
+            <lb/>
+         </p>
+         <p>Girt with a boyish garb for boyish task,<lb/>    Eager she wields her spade: yet loves as well<lb/>Rest on a friendly knee, intent to ask<lb/>    The tale he loves to tell.</p>
+         <p>Rude spirits of the seething outer strife,<lb/>    Unmeet to read her pure and simple spright,<lb/>Deem, if you list, such hours a waste of life,<lb/>    Empty of all delight!</p>
+         <p>Chat on, sweet Maid, and rescue from annoy<lb/>    Hearts that by wiser talk are unbeguiled.<lb/>Ah, happy he who owns that tenderest joy,<lb/>    The heart-love of a child!</p>
+         <p>Away, fond thoughts, and vex my soul no more!<lb/>    Work claims my wakeful nights, my busy days—<lb/>Albeit bright memories of that sunlit shore<lb/>    Yet haunt my dreaming gaze!</p>
+         <pb/>
+         <div type="div1">
+            <head>Contents /x/</head>
+            <table rend="frame" xml:id="Table1">
+               <row>
+                  <cell>PREFACE</cell>
+               </row>
+               <row>
+                  <cell>Fit the First THE LANDING</cell>
+               </row>
+               <row>
+                  <cell>Fit the Second THE BELLMAN’S SPEECH</cell>
+               </row>
+               <row>
+                  <cell>Fit the Third THE BAKER’S TALE</cell>
+               </row>
+               <row>
+                  <cell>Fit the fourth THE HUNTING</cell>
+               </row>
+               <row>
+                  <cell>Fit the Fifth THE BEAVER’S LESSON</cell>
+               </row>
+               <row>
+                  <cell>Fit the Sixth THE BARRISTER’S DREAM</cell>
+               </row>
+               <row>
+                  <cell>Fit the Seventh THE BANKER’S FATE</cell>
+               </row>
+               <row>
+                  <cell>Fit the Eighth THE VANISHING</cell>
+               </row>
+            </table>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>PREFACE</head>
+            <p>If—and the thing is wildly possible—the charge of writing nonsense were ever brought against the author of this brief but instructive poem, it would be based, I feel convinced, on the line (in p.4)</p>
+            <p>“Then the bowsprit got mixed with the rudder sometimes.”</p>
+            <p>In view of this painful possibility, I will not (as I might) appeal indignantly to my other writings as a proof that I am incapable of such a deed: I will not (as I might) point to the strong moral purpose of this poem itself, to the arithmetical principles so cautiously inculcated in it, or to its noble teachings in Natural History—I will take the more prosaic course of simply explaining how it happened.</p>
+            <p>The Bellman, who was almost morbidly sensitive about appearances, used to have the bowsprit unshipped once or twice a week to be revarnished, and it more than once happened, when the time came for replacing it, that no one on board could remember which end of the ship it belonged to. They knew it was not of the slightest use to appeal to the Bellman about it—he would only refer to his Naval Code, and read out in pathetic tones Admiralty Instructions which none of them had ever been able to understand—so it generally ended in its being fastened on, anyhow, across the rudder. The helmsman used to stand by with tears in his eyes; he knew it was all wrong, but alas! Rule 42 of the Code, “No one shall speak to the Man at the Helm,” had been completed by the Bellman himself with the words “and the Man at the Helm shall speak to no one.” So remonstrance was impossible, and no steering could be done till the next varnishing day. During these bewildering intervals the ship usually sailed backwards.</p>
+            <p>As this poem is to some extent connected with the lay of the Jabberwock, let me take this opportunity of answering a question that has often been asked me, how to pronounce “slithy toves.” The “i” in “slithy” is long, as in “writhe”; and “toves” is pronounced so as to rhyme with “groves.” Again, the first “o” in “borogoves” is pronounced like the “o” in “borrow.” I have heard people try to give it the sound of the “o” in “worry”. Such is Human Perversity.</p>
+            <p>This also seems a fitting occasion to notice the other hard words in that poem. Humpty-Dumpty’s theory, of two meanings packed into one word like a portmanteau, seems to me the right explanation for all.</p>
+            <p>For instance, take the two words “fuming” and “furious.” Make up your mind that you will say both words, but leave it unsettled which you will first. Now open your mouth and speak. If your thoughts incline ever so little towards “fuming,” you will say “fuming-furious;” if they turn, by even a hair’s breadth, towards “furious,” you will say “furious-fuming;” but if you have the rarest of gifts, a perfectly balanced mind, you will say “frumious.”</p>
+            <p>Supposing that, when Pistol uttered the well-known words—</p>
+            <p>“Under which king, Bezonian? Speak or die!”</p>
+            <p>Justice Shallow had felt certain that it was either William or Richard, but had not been able to settle which, so that he could not possibly say either name before the other, can it be doubted that, rather than die, he would have gasped out “Rilchiam!”</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>The Hunting of the Snark: An Agony in Eight Fits</head>
+            <pb/>
+            <div type="div2">
+               <head>Fit the First<lb/>THE LANDING</head>
+               <lg>
+                  <l>“Just the place for a Snark!” the Bellman cried,</l>
+                  <l>    As he landed his crew with care;</l>
+                  <l>Supporting each man on the top of the tide</l>
+                  <l>    By a finger entwined in his hair.</l>
+               </lg>
+               <lg>
+                  <l>“Just the place for a Snark! I have said it twice:</l>
+                  <l>    That alone should encourage the crew.</l>
+                  <l>Just the place for a Snark! I have said it thrice:</l>
+                  <l>    What I tell you three times is true.”</l>
+               </lg>
+               <lg>
+                  <l>The crew was complete: it included a Boots—</l>
+                  <l>    A maker of Bonnets and Hoods—</l>
+                  <l>A Barrister, brought to arrange their disputes—</l>
+                  <l>    And a Broker, to value their goods.</l>
+               </lg>
+               <lg>
+                  <l>A Billiard-marker, whose skill was immense,</l>
+                  <l>    Might perhaps have won more than his share—</l>
+                  <l>But a Banker, engaged at enormous expense,</l>
+                  <l>    Had the whole of their cash in his care.</l>
+               </lg>
+               <lg>
+                  <l>There was also a Beaver, that paced on the deck,</l>
+                  <l>    Or would sit making lace in the bow:</l>
+                  <l>And had often (the Bellman said) saved them from wreck,</l>
+                  <l>    Though none of the sailors knew how.</l>
+               </lg>
+               <lg>
+                  <l>There was one who was famed for the number of things</l>
+                  <l>    He forgot when he entered the ship:</l>
+                  <l>His umbrella, his watch, all his jewels and rings,</l>
+                  <l>    And the clothes he had bought for the trip.</l>
+               </lg>
+               <lg>
+                  <l>He had forty-two boxes, all carefully packed,</l>
+                  <l>    With his name painted clearly on each:</l>
+                  <l>But, since he omitted to mention the fact,</l>
+                  <l>    They were all left behind on the beach.</l>
+               </lg>
+               <lg>
+                  <l>The loss of his clothes hardly mattered, because</l>
+                  <l>    He had seven coats on when he came,</l>
+                  <l>With three pairs of boots—but the worst of it was,</l>
+                  <l>    He had wholly forgotten his name.</l>
+               </lg>
+               <lg>
+                  <l>He would answer to “Hi!” or to any loud cry,</l>
+                  <l>    Such as “Fry me!” or “Fritter my wig!”</l>
+                  <l>To “What-you-may-call-um!” or “What-was-his-name!”</l>
+                  <l>     But especially “Thing-um-a-jig!”</l>
+               </lg>
+               <lg>
+                  <l>While, for those who preferred a more forcible word,</l>
+                  <l>    He had different names from these:</l>
+                  <l>His intimate friends called him “Candle-ends,”</l>
+                  <l>     And his enemies “Toasted-cheese.”</l>
+               </lg>
+               <lg>
+                  <l>“His form is ungainly—his intellect small—”</l>
+                  <l>     (So the Bellman would often remark)</l>
+                  <l>“But his courage is perfect! And that, after all,</l>
+                  <l>    Is the thing that one needs with a Snark.”</l>
+               </lg>
+               <lg>
+                  <l>He would joke with hyenas, returning their stare</l>
+                  <l>    With an impudent wag of the head:</l>
+                  <l>And he once went a walk, paw-in-paw, with a bear,</l>
+                  <l>    “Just to keep up its spirits,” he said.</l>
+               </lg>
+               <lg>
+                  <l>He came as a Baker: but owned, when too late—</l>
+                  <l>    And it drove the poor Bellman half-mad—</l>
+                  <l>He could only bake Bridecake—for which, I may state,</l>
+                  <l>    No materials were to be had.</l>
+               </lg>
+               <lg>
+                  <l>The last of the crew needs especial remark,</l>
+                  <l>    Though he looked an incredible dunce:</l>
+                  <l>He had just one idea—but, that one being “Snark,”</l>
+                  <l>     The good Bellman engaged him at once.</l>
+               </lg>
+               <lg>
+                  <l>He came as a Butcher: but gravely declared,</l>
+                  <l>    When the ship had been sailing a week,</l>
+                  <l>He could only kill Beavers. The Bellman looked scared,</l>
+                  <l>    And was almost too frightened to speak:</l>
+               </lg>
+               <lg>
+                  <l>But at length he explained, in a tremulous tone,</l>
+                  <l>    There was only one Beaver on board;</l>
+                  <l>And that was a tame one he had of his own,</l>
+                  <l>    Whose death would be deeply deplored.</l>
+               </lg>
+               <lg>
+                  <l>The Beaver, who happened to hear the remark,</l>
+                  <l>    Protested, with tears in its eyes,</l>
+                  <l>That not even the rapture of hunting the Snark</l>
+                  <l>    Could atone for that dismal surprise!</l>
+               </lg>
+               <lg>
+                  <l>It strongly advised that the Butcher should be</l>
+                  <l>    Conveyed in a separate ship:</l>
+                  <l>But the Bellman declared that would never agree</l>
+                  <l>    With the plans he had made for the trip:</l>
+               </lg>
+               <lg>
+                  <l>Navigation was always a difficult art,</l>
+                  <l>    Though with only one ship and one bell:</l>
+                  <l>And he feared he must really decline, for his part,</l>
+                  <l>    Undertaking another as well.</l>
+               </lg>
+               <lg>
+                  <l>The Beaver’s best course was, no doubt, to procure</l>
+                  <l>    A second-hand dagger-proof coat—</l>
+                  <l>So the Baker advised it—and next, to insure</l>
+                  <l>    Its life in some Office of note:</l>
+               </lg>
+               <lg>
+                  <l>This the Banker suggested, and offered for hire</l>
+                  <l>    (On moderate terms), or for sale,</l>
+                  <l>Two excellent Policies, one Against Fire,</l>
+                  <l>    And one Against Damage From Hail.</l>
+               </lg>
+               <lg>
+                  <l>Yet still, ever after that sorrowful day,</l>
+                  <l>    Whenever the Butcher was by,</l>
+                  <l>The Beaver kept looking the opposite way,</l>
+                  <l>    And appeared unaccountably shy.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fit the Second<lb/>THE BELLMAN’S SPEECH</head>
+               <lg>
+                  <l>The Bellman himself they all praised to the skies—</l>
+                  <l>    Such a carriage, such ease and such grace!</l>
+                  <l>Such solemnity, too! One could see he was wise,</l>
+                  <l>    The moment one looked in his face!</l>
+               </lg>
+               <lg>
+                  <l>He had bought a large map representing the sea,</l>
+                  <l>    Without the least vestige of land:</l>
+                  <l>And the crew were much pleased when they found it to be</l>
+                  <l>    A map they could all understand.</l>
+               </lg>
+               <lg>
+                  <l>“What’s the good of Mercator’s North Poles and Equators,</l>
+                  <l>    Tropics, Zones, and Meridian Lines?”</l>
+                  <l>So the Bellman would cry: and the crew would reply</l>
+                  <l>    “They are merely conventional signs!</l>
+               </lg>
+               <lg>
+                  <l>“Other maps are such shapes, with their islands and capes!</l>
+                  <l>    But we’ve got our brave Captain to thank:”</l>
+                  <l>(So the crew would protest) “that he’s bought us the best—</l>
+                  <l>    A perfect and absolute blank!”</l>
+               </lg>
+               <lg>
+                  <l>This was charming, no doubt; but they shortly found out</l>
+                  <l>    That the Captain they trusted so well</l>
+                  <l>Had only one notion for crossing the ocean,</l>
+                  <l>    And that was to tingle his bell.</l>
+               </lg>
+               <lg>
+                  <l>He was thoughtful and grave—but the orders he gave</l>
+                  <l>    Were enough to bewilder a crew.</l>
+                  <l>When he cried “Steer to starboard, but keep her head larboard!”</l>
+                  <l>     What on earth was the helmsman to do?</l>
+               </lg>
+               <lg>
+                  <l>Then the bowsprit got mixed with the rudder sometimes:</l>
+                  <l>    A thing, as the Bellman remarked,</l>
+                  <l>That frequently happens in tropical climes,</l>
+                  <l>    When a vessel is, so to speak, “snarked.”</l>
+               </lg>
+               <lg>
+                  <l>But the principal failing occurred in the sailing,</l>
+                  <l>    And the Bellman, perplexed and distressed,</l>
+                  <l>Said he had hoped, at least, when the wind blew due East,</l>
+                  <l>    That the ship would not travel due West!</l>
+               </lg>
+               <lg>
+                  <l>But the danger was past—they had landed at last,</l>
+                  <l>    With their boxes, portmanteaus, and bags:</l>
+                  <l>Yet at first sight the crew were not pleased with the view,</l>
+                  <l>    Which consisted of chasms and crags.</l>
+               </lg>
+               <lg>
+                  <l>The Bellman perceived that their spirits were low,</l>
+                  <l>    And repeated in musical tone</l>
+                  <l>Some jokes he had kept for a season of woe—</l>
+                  <l>    But the crew would do nothing but groan.</l>
+               </lg>
+               <lg>
+                  <l>He served out some grog with a liberal hand,</l>
+                  <l>    And bade them sit down on the beach:</l>
+                  <l>And they could not but own that their Captain looked grand,</l>
+                  <l>    As he stood and delivered his speech.</l>
+               </lg>
+               <lg>
+                  <l>“Friends, Romans, and countrymen, lend me your ears!”</l>
+                  <l>     (They were all of them fond of quotations:</l>
+                  <l>So they drank to his health, and they gave him three cheers,</l>
+                  <l>    While he served out additional rations).</l>
+               </lg>
+               <lg>
+                  <l>“We have sailed many months, we have sailed many weeks,</l>
+                  <l>    (Four weeks to the month you may mark),</l>
+                  <l>But never as yet (’tis your Captain who speaks)</l>
+                  <l>    Have we caught the least glimpse of a Snark!</l>
+               </lg>
+               <lg>
+                  <l>“We have sailed many weeks, we have sailed many days,</l>
+                  <l>    (Seven days to the week I allow),</l>
+                  <l>But a Snark, on the which we might lovingly gaze,</l>
+                  <l>    We have never beheld till now!</l>
+               </lg>
+               <lg>
+                  <l>“Come, listen, my men, while I tell you again</l>
+                  <l>    The five unmistakable marks</l>
+                  <l>By which you may know, wheresoever you go,</l>
+                  <l>    The warranted genuine Snarks.</l>
+               </lg>
+               <lg>
+                  <l>“Let us take them in order. The first is the taste,</l>
+                  <l>    Which is meagre and hollow, but crisp:</l>
+                  <l>Like a coat that is rather too tight in the waist,</l>
+                  <l>    With a flavour of Will-o’-the-wisp.</l>
+               </lg>
+               <lg>
+                  <l>“Its habit of getting up late you’ll agree</l>
+                  <l>    That it carries too far, when I say</l>
+                  <l>That it frequently breakfasts at five-o’clock tea,</l>
+                  <l>    And dines on the following day.</l>
+               </lg>
+               <lg>
+                  <l>“The third is its slowness in taking a jest.</l>
+                  <l>    Should you happen to venture on one,</l>
+                  <l>It will sigh like a thing that is deeply distressed:</l>
+                  <l>    And it always looks grave at a pun.</l>
+               </lg>
+               <lg>
+                  <l>“The fourth is its fondness for bathing-machines,</l>
+                  <l>    Which is constantly carries about,</l>
+                  <l>And believes that they add to the beauty of scenes—</l>
+                  <l>    A sentiment open to doubt.</l>
+               </lg>
+               <lg>
+                  <l>“The fifth is ambition. It next will be right</l>
+                  <l>    To describe each particular batch:</l>
+                  <l>Distinguishing those that have feathers, and bite,</l>
+                  <l>    And those that have whiskers, and scratch.</l>
+               </lg>
+               <lg>
+                  <l>“For, although common Snarks do no manner of harm,</l>
+                  <l>    Yet, I feel it my duty to say,</l>
+                  <l>Some are Boojums—” The Bellman broke off in alarm,</l>
+                  <l>    For the Baker had fainted away.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fit the Third<lb/>THE BAKER’S TALE</head>
+               <lg>
+                  <l>They roused him with muffins—they roused him with ice—</l>
+                  <l>    They roused him with mustard and cress—</l>
+                  <l>They roused him with jam and judicious advice—</l>
+                  <l>    They set him conundrums to guess.</l>
+               </lg>
+               <lg>
+                  <l>When at length he sat up and was able to speak,</l>
+                  <l>    His sad story he offered to tell;</l>
+                  <l>And the Bellman cried “Silence! Not even a shriek!”</l>
+                  <l>     And excitedly tingled his bell.</l>
+               </lg>
+               <lg>
+                  <l>There was silence supreme! Not a shriek, not a scream,</l>
+                  <l>    Scarcely even a howl or a groan,</l>
+                  <l>As the man they called “Ho!” told his story of woe</l>
+                  <l>    In an antediluvian tone.</l>
+               </lg>
+               <lg>
+                  <l>“My father and mother were honest, though poor—”</l>
+                  <l>     “Skip all that!” cried the Bellman in haste.</l>
+                  <l>“If it once becomes dark, there’s no chance of a Snark—</l>
+                  <l>    We have hardly a minute to waste!”</l>
+               </lg>
+               <lg>
+                  <l>“I skip forty years,” said the Baker, in tears,</l>
+                  <l>    “And proceed without further remark</l>
+                  <l>To the day when you took me aboard of your ship</l>
+                  <l>    To help you in hunting the Snark.</l>
+               </lg>
+               <lg>
+                  <l>“A dear uncle of mine (after whom I was named)</l>
+                  <l>    Remarked, when I bade him farewell—”</l>
+                  <l>“Oh, skip your dear uncle!” the Bellman exclaimed,</l>
+                  <l>    As he angrily tingled his bell.</l>
+               </lg>
+               <lg>
+                  <l>“He remarked to me then,” said that mildest of men,</l>
+                  <l>    “‘If your Snark be a Snark, that is right:</l>
+                  <l>Fetch it home by all means—you may serve it with greens,</l>
+                  <l>    And it’s handy for striking a light.</l>
+               </lg>
+               <lg>
+                  <l>“‘You may seek it with thimbles—and seek it with care;</l>
+                  <l>    You may hunt it with forks and hope;</l>
+                  <l>You may threaten its life with a railway-share;</l>
+                  <l>    You may charm it with smiles and soap—’”</l>
+               </lg>
+               <lg>
+                  <l>(“That’s exactly the method,” the Bellman bold</l>
+                  <l>    In a hasty parenthesis cried,</l>
+                  <l>“That’s exactly the way I have always been told</l>
+                  <l>    That the capture of Snarks should be tried!”)</l>
+               </lg>
+               <lg>
+                  <l>“‘But oh, beamish nephew, beware of the day,</l>
+                  <l>    If your Snark be a Boojum! For then</l>
+                  <l>You will softly and suddenly vanish away,</l>
+                  <l>    And never be met with again!’</l>
+               </lg>
+               <lg>
+                  <l>“It is this, it is this that oppresses my soul,</l>
+                  <l>    When I think of my uncle’s last words:</l>
+                  <l>And my heart is like nothing so much as a bowl</l>
+                  <l>    Brimming over with quivering curds!</l>
+               </lg>
+               <lg>
+                  <l>“It is this, it is this—” “We have had that before!”</l>
+                  <l>     The Bellman indignantly said.</l>
+                  <l>And the Baker replied “Let me say it once more.</l>
+                  <l>    It is this, it is this that I dread!</l>
+               </lg>
+               <lg>
+                  <l>“I engage with the Snark—every night after dark—</l>
+                  <l>    In a dreamy delirious fight:</l>
+                  <l>I serve it with greens in those shadowy scenes,</l>
+                  <l>    And I use it for striking a light:</l>
+               </lg>
+               <lg>
+                  <l>“But if ever I meet with a Boojum, that day,</l>
+                  <l>    In a moment (of this I am sure),</l>
+                  <l>I shall softly and suddenly vanish away—</l>
+                  <l>    And the notion I cannot endure!”</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fit the fourth<lb/>THE HUNTING</head>
+               <lg>
+                  <l>The Bellman looked uffish, and wrinkled his brow.</l>
+                  <l>    “If only you’d spoken before!</l>
+                  <l>It’s excessively awkward to mention it now,</l>
+                  <l>    With the Snark, so to speak, at the door!</l>
+               </lg>
+               <lg>
+                  <l>“We should all of us grieve, as you well may believe,</l>
+                  <l>    If you never were met with again—</l>
+                  <l>But surely, my man, when the voyage began,</l>
+                  <l>    You might have suggested it then?</l>
+               </lg>
+               <lg>
+                  <l>“It’s excessively awkward to mention it now—</l>
+                  <l>    As I think I’ve already remarked.”</l>
+                  <l>And the man they called “Hi!” replied, with a sigh,</l>
+                  <l>    “I informed you the day we embarked.</l>
+               </lg>
+               <lg>
+                  <l>“You may charge me with murder—or want of sense—</l>
+                  <l>    (We are all of us weak at times):</l>
+                  <l>But the slightest approach to a false pretence</l>
+                  <l>    Was never among my crimes!</l>
+               </lg>
+               <lg>
+                  <l>“I said it in Hebrew—I said it in Dutch—</l>
+                  <l>    I said it in German and Greek:</l>
+                  <l>But I wholly forgot (and it vexes me much)</l>
+                  <l>    That English is what you speak!”</l>
+               </lg>
+               <lg>
+                  <l>“’Tis a pitiful tale,” said the Bellman, whose face</l>
+                  <l>    Had grown longer at every word:</l>
+                  <l>“But, now that you’ve stated the whole of your case,</l>
+                  <l>    More debate would be simply absurd.</l>
+               </lg>
+               <lg>
+                  <l>“The rest of my speech” (he explained to his men)</l>
+                  <l>    “You shall hear when I’ve leisure to speak it.</l>
+                  <l>But the Snark is at hand, let me tell you again!</l>
+                  <l>    ’Tis your glorious duty to seek it!</l>
+               </lg>
+               <lg>
+                  <l>“To seek it with thimbles, to seek it with care;</l>
+                  <l>    To pursue it with forks and hope;</l>
+                  <l>To threaten its life with a railway-share;</l>
+                  <l>    To charm it with smiles and soap!</l>
+               </lg>
+               <lg>
+                  <l>“For the Snark’s a peculiar creature, that won’t</l>
+                  <l>    Be caught in a commonplace way.</l>
+                  <l>Do all that you know, and try all that you don’t:</l>
+                  <l>    Not a chance must be wasted to-day!</l>
+               </lg>
+               <lg>
+                  <l>“For England expects—I forbear to proceed:</l>
+                  <l>    ’Tis a maxim tremendous, but trite:</l>
+                  <l>And you’d best be unpacking the things that you need</l>
+                  <l>    To rig yourselves out for the fight.”</l>
+               </lg>
+               <lg>
+                  <l>Then the Banker endorsed a blank cheque (which he crossed),</l>
+                  <l>    And changed his loose silver for notes.</l>
+                  <l>The Baker with care combed his whiskers and hair,</l>
+                  <l>    And shook the dust out of his coats.</l>
+               </lg>
+               <lg>
+                  <l>The Boots and the Broker were sharpening a spade—</l>
+                  <l>    Each working the grindstone in turn:</l>
+                  <l>But the Beaver went on making lace, and displayed</l>
+                  <l>    No interest in the concern:</l>
+               </lg>
+               <lg>
+                  <l>Though the Barrister tried to appeal to its pride,</l>
+                  <l>    And vainly proceeded to cite</l>
+                  <l>A number of cases, in which making laces</l>
+                  <l>    Had been proved an infringement of right.</l>
+               </lg>
+               <lg>
+                  <l>The maker of Bonnets ferociously planned</l>
+                  <l>    A novel arrangement of bows:</l>
+                  <l>While the Billiard-marker with quivering hand</l>
+                  <l>    Was chalking the tip of his nose.</l>
+               </lg>
+               <lg>
+                  <l>But the Butcher turned nervous, and dressed himself fine,</l>
+                  <l>    With yellow kid gloves and a ruff—</l>
+                  <l>Said he felt it exactly like going to dine,</l>
+                  <l>    Which the Bellman declared was all “stuff.”</l>
+               </lg>
+               <lg>
+                  <l>“Introduce me, now there’s a good fellow,” he said,</l>
+                  <l>    “If we happen to meet it together!”</l>
+                  <l>And the Bellman, sagaciously nodding his head,</l>
+                  <l>    Said “That must depend on the weather.”</l>
+               </lg>
+               <lg>
+                  <l>The Beaver went simply galumphing about,</l>
+                  <l>    At seeing the Butcher so shy:</l>
+                  <l>And even the Baker, though stupid and stout,</l>
+                  <l>    Made an effort to wink with one eye.</l>
+               </lg>
+               <lg>
+                  <l>“Be a man!” said the Bellman in wrath, as he heard</l>
+                  <l>    The Butcher beginning to sob.</l>
+                  <l>“Should we meet with a Jubjub, that desperate bird,</l>
+                  <l>    We shall need all our strength for the job!”</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fit the Fifth<lb/>THE BEAVER’S LESSON</head>
+               <lg>
+                  <l>They sought it with thimbles, they sought it with care;</l>
+                  <l>    They pursued it with forks and hope;</l>
+                  <l>They threatened its life with a railway-share;</l>
+                  <l>    They charmed it with smiles and soap.</l>
+               </lg>
+               <lg>
+                  <l>Then the Butcher contrived an ingenious plan</l>
+                  <l>    For making a separate sally;</l>
+                  <l>And had fixed on a spot unfrequented by man,</l>
+                  <l>    A dismal and desolate valley.</l>
+               </lg>
+               <lg>
+                  <l>But the very same plan to the Beaver occurred:</l>
+                  <l>    It had chosen the very same place:</l>
+                  <l>Yet neither betrayed, by a sign or a word,</l>
+                  <l>    The disgust that appeared in his face.</l>
+               </lg>
+               <lg>
+                  <l>Each thought he was thinking of nothing but “Snark”</l>
+                  <l>     And the glorious work of the day;</l>
+                  <l>And each tried to pretend that he did not remark</l>
+                  <l>    That the other was going that way.</l>
+               </lg>
+               <lg>
+                  <l>But the valley grew narrow and narrower still,</l>
+                  <l>    And the evening got darker and colder,</l>
+                  <l>Till (merely from nervousness, not from goodwill)</l>
+                  <l>    They marched along shoulder to shoulder.</l>
+               </lg>
+               <lg>
+                  <l>Then a scream, shrill and high, rent the shuddering sky,</l>
+                  <l>    And they knew that some danger was near:</l>
+                  <l>The Beaver turned pale to the tip of its tail,</l>
+                  <l>    And even the Butcher felt queer.</l>
+               </lg>
+               <lg>
+                  <l>He thought of his childhood, left far far behind—</l>
+                  <l>    That blissful and innocent state—</l>
+                  <l>The sound so exactly recalled to his mind</l>
+                  <l>    A pencil that squeaks on a slate!</l>
+               </lg>
+               <lg>
+                  <l>“’Tis the voice of the Jubjub!” he suddenly cried.</l>
+                  <l>    (This man, that they used to call “Dunce.”)</l>
+                  <l>“As the Bellman would tell you,” he added with pride,</l>
+                  <l>    “I have uttered that sentiment once.</l>
+               </lg>
+               <lg>
+                  <l>“’Tis the note of the Jubjub! Keep count, I entreat;</l>
+                  <l>    You will find I have told it you twice.</l>
+                  <l>’Tis the song of the Jubjub! The proof is complete,</l>
+                  <l>    If only I’ve stated it thrice.”</l>
+               </lg>
+               <lg>
+                  <l>The Beaver had counted with scrupulous care,</l>
+                  <l>    Attending to every word:</l>
+                  <l>But it fairly lost heart, and outgrabe in despair,</l>
+                  <l>    When the third repetition occurred.</l>
+               </lg>
+               <lg>
+                  <l>It felt that, in spite of all possible pains,</l>
+                  <l>    It had somehow contrived to lose count,</l>
+                  <l>And the only thing now was to rack its poor brains</l>
+                  <l>    By reckoning up the amount.</l>
+               </lg>
+               <lg>
+                  <l>“Two added to one—if that could but be done,”</l>
+                  <l>     It said, “with one’s fingers and thumbs!”</l>
+                  <l>Recollecting with tears how, in earlier years,</l>
+                  <l>    It had taken no pains with its sums.</l>
+               </lg>
+               <lg>
+                  <l>“The thing can be done,” said the Butcher, “I think.</l>
+                  <l>    The thing must be done, I am sure.</l>
+                  <l>The thing shall be done! Bring me paper and ink,</l>
+                  <l>    The best there is time to procure.”</l>
+               </lg>
+               <lg>
+                  <l>The Beaver brought paper, portfolio, pens,</l>
+                  <l>    And ink in unfailing supplies:</l>
+                  <l>While strange creepy creatures came out of their dens,</l>
+                  <l>    And watched them with wondering eyes.</l>
+               </lg>
+               <lg>
+                  <l>So engrossed was the Butcher, he heeded them not,</l>
+                  <l>    As he wrote with a pen in each hand,</l>
+                  <l>And explained all the while in a popular style</l>
+                  <l>    Which the Beaver could well understand.</l>
+               </lg>
+               <lg>
+                  <l>“Taking Three as the subject to reason about—</l>
+                  <l>    A convenient number to state—</l>
+                  <l>We add Seven, and Ten, and then multiply out</l>
+                  <l>    By One Thousand diminished by Eight.</l>
+               </lg>
+               <lg>
+                  <l>“The result we proceed to divide, as you see,</l>
+                  <l>    By Nine Hundred and Ninety Two:</l>
+                  <l>Then subtract Seventeen, and the answer must be</l>
+                  <l>    Exactly and perfectly true.</l>
+               </lg>
+               <lg>
+                  <l>“The method employed I would gladly explain,</l>
+                  <l>    While I have it so clear in my head,</l>
+                  <l>If I had but the time and you had but the brain—</l>
+                  <l>    But much yet remains to be said.</l>
+               </lg>
+               <lg>
+                  <l>“In one moment I’ve seen what has hitherto been</l>
+                  <l>    Enveloped in absolute mystery,</l>
+                  <l>And without extra charge I will give you at large</l>
+                  <l>    A Lesson in Natural History.”</l>
+               </lg>
+               <lg>
+                  <l>In his genial way he proceeded to say</l>
+                  <l>    (Forgetting all laws of propriety,</l>
+                  <l>And that giving instruction, without introduction,</l>
+                  <l>    Would have caused quite a thrill in Society),</l>
+               </lg>
+               <lg>
+                  <l>“As to temper the Jubjub’s a desperate bird,</l>
+                  <l>    Since it lives in perpetual passion:</l>
+                  <l>Its taste in costume is entirely absurd—</l>
+                  <l>    It is ages ahead of the fashion:</l>
+               </lg>
+               <lg>
+                  <l>“But it knows any friend it has met once before:</l>
+                  <l>    It never will look at a bribe:</l>
+                  <l>And in charity-meetings it stands at the door,</l>
+                  <l>    And collects—though it does not subscribe.</l>
+               </lg>
+               <lg>
+                  <l>“Its’ flavour when cooked is more exquisite far</l>
+                  <l>    Than mutton, or oysters, or eggs:</l>
+                  <l>(Some think it keeps best in an ivory jar,</l>
+                  <l>    And some, in mahogany kegs:)</l>
+               </lg>
+               <lg>
+                  <l>“You boil it in sawdust: you salt it in glue:</l>
+                  <l>    You condense it with locusts and tape:</l>
+                  <l>Still keeping one principal object in view—</l>
+                  <l>    To preserve its symmetrical shape.”</l>
+               </lg>
+               <lg>
+                  <l>The Butcher would gladly have talked till next day,</l>
+                  <l>    But he felt that the lesson must end,</l>
+                  <l>And he wept with delight in attempting to say</l>
+                  <l>    He considered the Beaver his friend.</l>
+               </lg>
+               <lg>
+                  <l>While the Beaver confessed, with affectionate looks</l>
+                  <l>    More eloquent even than tears,</l>
+                  <l>It had learned in ten minutes far more than all books</l>
+                  <l>    Would have taught it in seventy years.</l>
+               </lg>
+               <lg>
+                  <l>They returned hand-in-hand, and the Bellman, unmanned</l>
+                  <l>    (For a moment) with noble emotion,</l>
+                  <l>Said “This amply repays all the wearisome days</l>
+                  <l>    We have spent on the billowy ocean!”</l>
+               </lg>
+               <lg>
+                  <l>Such friends, as the Beaver and Butcher became,</l>
+                  <l>    Have seldom if ever been known;</l>
+                  <l>In winter or summer, ’twas always the same—</l>
+                  <l>    You could never meet either alone.</l>
+               </lg>
+               <lg>
+                  <l>And when quarrels arose—as one frequently finds</l>
+                  <l>    Quarrels will, spite of every endeavour—</l>
+                  <l>The song of the Jubjub recurred to their minds,</l>
+                  <l>    And cemented their friendship for ever!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fit the Sixth<lb/>THE BARRISTER’S DREAM</head>
+               <lg>
+                  <l>They sought it with thimbles, they sought it with care;</l>
+                  <l>    They pursued it with forks and hope;</l>
+                  <l>They threatened its life with a railway-share;</l>
+                  <l>    They charmed it with smiles and soap.</l>
+               </lg>
+               <lg>
+                  <l>But the Barrister, weary of proving in vain</l>
+                  <l>    That the Beaver’s lace-making was wrong,</l>
+                  <l>Fell asleep, and in dreams saw the creature quite plain</l>
+                  <l>    That his fancy had dwelt on so long.</l>
+               </lg>
+               <lg>
+                  <l>He dreamed that he stood in a shadowy Court,</l>
+                  <l>    Where the Snark, with a glass in its eye,</l>
+                  <l>Dressed in gown, bands, and wig, was defending a pig</l>
+                  <l>    On the charge of deserting its sty.</l>
+               </lg>
+               <lg>
+                  <l>The Witnesses proved, without error or flaw,</l>
+                  <l>    That the sty was deserted when found:</l>
+                  <l>And the Judge kept explaining the state of the law</l>
+                  <l>    In a soft under-current of sound.</l>
+               </lg>
+               <lg>
+                  <l>The indictment had never been clearly expressed,</l>
+                  <l>    And it seemed that the Snark had begun,</l>
+                  <l>And had spoken three hours, before any one guessed</l>
+                  <l>    What the pig was supposed to have done.</l>
+               </lg>
+               <lg>
+                  <l>The Jury had each formed a different view</l>
+                  <l>    (Long before the indictment was read),</l>
+                  <l>And they all spoke at once, so that none of them knew</l>
+                  <l>    One word that the others had said.</l>
+               </lg>
+               <lg>
+                  <l>“You must know—” said the Judge: but the Snark exclaimed “Fudge!”</l>
+                  <l>     That statute is obsolete quite!</l>
+                  <l>Let me tell you, my friends, the whole question depends</l>
+                  <l>    On an ancient manorial right.</l>
+               </lg>
+               <lg>
+                  <l>“In the matter of Treason the pig would appear</l>
+                  <l>    To have aided, but scarcely abetted:</l>
+                  <l>While the charge of Insolvency fails, it is clear,</l>
+                  <l>    If you grant the plea ‘never indebted.’</l>
+               </lg>
+               <lg>
+                  <l>“The fact of Desertion I will not dispute;</l>
+                  <l>    But its guilt, as I trust, is removed</l>
+                  <l>(So far as related to the costs of this suit)</l>
+                  <l>    By the Alibi which has been proved.</l>
+               </lg>
+               <lg>
+                  <l>“My poor client’s fate now depends on your votes.”</l>
+                  <l>     Here the speaker sat down in his place,</l>
+                  <l>And directed the Judge to refer to his notes</l>
+                  <l>    And briefly to sum up the case.</l>
+               </lg>
+               <lg>
+                  <l>But the Judge said he never had summed up before;</l>
+                  <l>    So the Snark undertook it instead,</l>
+                  <l>And summed it so well that it came to far more</l>
+                  <l>    Than the Witnesses ever had said!</l>
+               </lg>
+               <lg>
+                  <l>When the verdict was called for, the Jury declined,</l>
+                  <l>    As the word was so puzzling to spell;</l>
+                  <l>But they ventured to hope that the Snark wouldn’t mind</l>
+                  <l>    Undertaking that duty as well.</l>
+               </lg>
+               <lg>
+                  <l>So the Snark found the verdict, although, as it owned,</l>
+                  <l>    It was spent with the toils of the day:</l>
+                  <l>When it said the word “GUILTY!” the Jury all groaned,</l>
+                  <l>    And some of them fainted away.</l>
+               </lg>
+               <lg>
+                  <l>Then the Snark pronounced sentence, the Judge being quite</l>
+                  <l>    Too nervous to utter a word:</l>
+                  <l>When it rose to its feet, there was silence like night,</l>
+                  <l>    And the fall of a pin might be heard.</l>
+               </lg>
+               <lg>
+                  <l>“Transportation for life” was the sentence it gave,</l>
+                  <l>    “And <hi rend="italic">then</hi>  to be fined forty pound.”</l>
+                  <l>The Jury all cheered, though the Judge said he feared</l>
+                  <l>    That the phrase was not legally sound.</l>
+               </lg>
+               <lg>
+                  <l>But their wild exultation was suddenly checked</l>
+                  <l>    When the jailer informed them, with tears,</l>
+                  <l>Such a sentence would have not the slightest effect,</l>
+                  <l>    As the pig had been dead for some years.</l>
+               </lg>
+               <lg>
+                  <l>The Judge left the Court, looking deeply disgusted:</l>
+                  <l>    But the Snark, though a little aghast,</l>
+                  <l>As the lawyer to whom the defense was entrusted,</l>
+                  <l>    Went bellowing on to the last.</l>
+               </lg>
+               <lg>
+                  <l>Thus the Barrister dreamed, while the bellowing seemed</l>
+                  <l>    To grow every moment more clear:</l>
+                  <l>Till he woke to the knell of a furious bell,</l>
+                  <l>    Which the Bellman rang close at his ear.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fit the Seventh<lb/>THE BANKER’S FATE</head>
+               <lg>
+                  <l>They sought it with thimbles, they sought it with care;</l>
+                  <l>    They pursued it with forks and hope;</l>
+                  <l>They threatened its life with a railway-share;</l>
+                  <l>    They charmed it with smiles and soap.</l>
+               </lg>
+               <lg>
+                  <l>And the Banker, inspired with a courage so new</l>
+                  <l>    It was matter for general remark,</l>
+                  <l>Rushed madly ahead and was lost to their view</l>
+                  <l>    In his zeal to discover the Snark</l>
+               </lg>
+               <lg>
+                  <l>But while he was seeking with thimbles and care,</l>
+                  <l>    A Bandersnatch swiftly drew nigh</l>
+                  <l>And grabbed at the Banker, who shrieked in despair,</l>
+                  <l>    For he knew it was useless to fly.</l>
+               </lg>
+               <lg>
+                  <l>He offered large discount—he offered a cheque</l>
+                  <l>    (Drawn “to bearer”) for seven-pounds-ten:</l>
+                  <l>But the Bandersnatch merely extended its neck</l>
+                  <l>    And grabbed at the Banker again.</l>
+               </lg>
+               <lg>
+                  <l>Without rest or pause—while those frumious jaws</l>
+                  <l>    Went savagely snapping around—</l>
+                  <l>He skipped and he hopped, and he floundered and flopped,</l>
+                  <l>    Till fainting he fell to the ground.</l>
+               </lg>
+               <lg>
+                  <l>The Bandersnatch fled as the others appeared</l>
+                  <l>    Led on by that fear-stricken yell:</l>
+                  <l>And the Bellman remarked “It is just as I feared!”</l>
+                  <l>     And solemnly tolled on his bell.</l>
+               </lg>
+               <lg>
+                  <l>He was black in the face, and they scarcely could trace</l>
+                  <l>    The least likeness to what he had been:</l>
+                  <l>While so great was his fright that his waistcoat turned white—</l>
+                  <l>    A wonderful thing to be seen!</l>
+               </lg>
+               <lg>
+                  <l>To the horror of all who were present that day.</l>
+                  <l>    He uprose in full evening dress,</l>
+                  <l>And with senseless grimaces endeavoured to say</l>
+                  <l>    What his tongue could no longer express.</l>
+               </lg>
+               <lg>
+                  <l>Down he sank in a chair—ran his hands through his hair—</l>
+                  <l>    And chanted in mimsiest tones</l>
+                  <l>Words whose utter inanity proved his insanity,</l>
+                  <l>    While he rattled a couple of bones.</l>
+               </lg>
+               <lg>
+                  <l>“Leave him here to his fate—it is getting so late!”</l>
+                  <l>     The Bellman exclaimed in a fright.</l>
+                  <l>“We have lost half the day. Any further delay,</l>
+                  <l>    And we sha’n’t catch a Snark before night!”</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Fit the Eighth<lb/>THE VANISHING</head>
+               <lg>
+                  <l>They sought it with thimbles, they sought it with care;</l>
+                  <l>    They pursued it with forks and hope;</l>
+                  <l>They threatened its life with a railway-share;</l>
+                  <l>    They charmed it with smiles and soap.</l>
+               </lg>
+               <lg>
+                  <l>They shuddered to think that the chase might fail,</l>
+                  <l>    And the Beaver, excited at last,</l>
+                  <l>Went bounding along on the tip of its tail,</l>
+                  <l>    For the daylight was nearly past.</l>
+               </lg>
+               <lg>
+                  <l>“There is Thingumbob shouting!” the Bellman said,</l>
+                  <l>    “He is shouting like mad, only hark!</l>
+                  <l>He is waving his hands, he is wagging his head,</l>
+                  <l>    He has certainly found a Snark!”</l>
+               </lg>
+               <lg>
+                  <l>They gazed in delight, while the Butcher exclaimed</l>
+                  <l>    “He was always a desperate wag!”</l>
+                  <l>They beheld him—their Baker—their hero unnamed—</l>
+                  <l>    On the top of a neighboring crag.</l>
+               </lg>
+               <lg>
+                  <l>Erect and sublime, for one moment of time.</l>
+                  <l>    In the next, that wild figure they saw</l>
+                  <l>(As if stung by a spasm) plunge into a chasm,</l>
+                  <l>    While they waited and listened in awe.</l>
+               </lg>
+               <lg>
+                  <l>“It’s a Snark!” was the sound that first came to their ears,</l>
+                  <l>    And seemed almost too good to be true.</l>
+                  <l>Then followed a torrent of laughter and cheers:</l>
+                  <l>    Then the ominous words “It’s a Boo-”</l>
+               </lg>
+               <lg>
+                  <l>Then, silence. Some fancied they heard in the air</l>
+                  <l>    A weary and wandering sigh</l>
+                  <l>Then sounded like “-jum!” but the others declare</l>
+                  <l>    It was only a breeze that went by.</l>
+               </lg>
+               <lg>
+                  <l>They hunted till darkness came on, but they found</l>
+                  <l>    Not a button, or feather, or mark,</l>
+                  <l>By which they could tell that they stood on the ground</l>
+                  <l>    Where the Baker had met with the Snark.</l>
+               </lg>
+               <lg>
+                  <l>In the midst of the word he was trying to say,</l>
+                  <l>    In the midst of his laughter and glee,</l>
+                  <l>He had softly and suddenly vanished away—-</l>
+                  <l>    For the Snark <hi rend="italic">was</hi>  a Boojum, you see.</l>
+               </lg>
+               <p rend="justify">THE END</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

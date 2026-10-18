@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Oak Ridge ALGOL Compiler for the Control Data Corporation 1604 / Preliminary Programmer's Manual</title>
+            <author>L. L. Bumgarner</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T01:10:57Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/b/BumgarnerLL-TheOakRidgeAlgolCompilerForTheControlDataCorporation1604PreliminaryProgrammersManual_2015.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>L. L. Bumgarner</name>
+               <date>2024-01-04T01:10:57Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Oak Ridge ALGOL Compiler for the Control Data Corporation 1604 / Preliminary Programmer's Manual</head>
+         <author>L. L. Bumgarner</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/b/BumgarnerLL-TheOakRidgeAlgolCompilerForTheControlDataCorporation1604PreliminaryProgrammersManual_2015.odt</p>
+         <p>
+            <hi rend="bold">ORNL-3460</hi>
+            <lb/>
+            <hi rend="bold">UC-32—Mathematics and Computers</hi>
+            <lb/>
+            <hi rend="bold">TID-4500 (23rd ed.)</hi>
+         </p>
+         <head>THE OAK RIDGE ALGOL COMPILER FOR THE CONTROL DATA CORPORATION 1604<lb/>PRELIMINARY PROGRAMMER'S MANUAL</head>
+         <p>
+            <hi rend="bold">L. L. Bumgarner</hi>
+         </p>
+         <p>
+            <hi rend="bold">OAK RIDGE NATIONAL LABORATORY</hi>
+            <lb/>operated by<lb/>UNION CARBIDE CORPORATION<lb/>for the<lb/>U.S. ATOMIC ENERGY COMMISSION</p>
+         <p>Printed in USA. Price: $1.25 Available from the<lb/>Office of Technical Services<lb/>U. S. Department of Commerce<lb/>Washington 25, D. C.</p>
+         <p>
+            <hi rend="bold">LEGAL NOTICE</hi>
+         </p>
+         <p>This report was prepared as an account of Government sponsored work. Neither the United States, nor the Commission, nor any person acting on behalf of the Commission:</p>
+         <p>A. Makes any warranty or representation, expressed or implied, with respect to the accuracy, completeness, or usefulness of the information contained in this report, or that the use of any information, apparatus, method, or process disclosed in this report may not infringe privately owned rights; or</p>
+         <p>B. Assumes any liabilities with respect to the use of, or for damages resulting from the use of any information, apparatus, method, or process disclosed in this report.</p>
+         <p>As used in the above, “person acting on behalf of the Commission” includes any employee or contractor of the Commission, or employee of such contractor, to the extent that such employee or contractor of the Commission, or employee of such contractor prepares, disseminates, or provides access to, any information pursuant to his employment or contract with the Commission, or his employment with such contractor.</p>
+         <p>ORNL-3460</p>
+         <p>Contract No. W-7405-eng-26</p>
+         <p>Mathematics Division</p>
+         <p>THE OAK RIDGE ALGOL COMPILER FOR THE CONTROL DATA CORPORATION<lb/>1604—PRELIMINARY PROGRAMMER’S MANUAL</p>
+         <p>L. L. Bumgarner</p>
+         <p>DATE ISSUED<lb/>JAN 30 1964</p>
+         <p>OAK RIDGE NATIONAL LABORATORY<lb/>Oak Ridge, Tennessee<lb/>operated by<lb/>UNION CARBIDE CORPORATION<lb/>for the<lb/>U.S. ATOMIC ENERGY COMMISSION</p>
+         <pb/>
+         <div type="div1">
+            <head>CONTENTS /x/</head>
+            <p>I. Introduction 1</p>
+            <p>II. Language Restrictions  2</p>
+            <p>III. Modes of Operation of the Compiler  4</p>
+            <p>IV. Input-Output and Intermediate Tape  5</p>
+            <p>Input-Output  5</p>
+            <p>READ  5</p>
+            <p>PAGE  7</p>
+            <p>Lists and the List Declaration  7</p>
+            <p>PRINT  9</p>
+            <p>WRITE  9</p>
+            <p>PUNCH  10</p>
+            <p>Formats and the Format Declaration  10</p>
+            <p>INPUT  11</p>
+            <p>OUTPUT  12</p>
+            <p>Intermediate Tape Procedures  13</p>
+            <p>BINREAD  13</p>
+            <p>BINWRITE  14</p>
+            <p>ENDFILE  14</p>
+            <p>REWIND  14</p>
+            <p>BACKUP  14</p>
+            <p>Tape-Checking Procedures  14</p>
+            <p>EOF  15</p>
+            <p>READERR  15</p>
+            <p>WRITERR  15</p>
+            <p>V. The <hi rend="italic">External</hi> Declaration  16</p>
+            <p>VI. Standard Procedures  16</p>
+            <p>VII. Error Checking and Diagnostics  17</p>
+            <p>VIII. Running Programs  19</p>
+            <p>ALGOL Control System  20</p>
+            <p>EOP Card  20</p>
+            <p>Compile and Execute: ALGO  21</p>
+            <p>PROGRAM Card  22</p>
+            <p>Compile/Execute: ALDAP  22</p>
+            <p>ALDAP Control Statement  22</p>
+            <p>Job Deck: ALDAP Compilation/Execution  23</p>
+            <p>Examples  25</p>
+            <p>APPENDICES</p>
+            <p>A. Adjuncts to Algol 60  30</p>
+            <p>B. Hardware Representation  32</p>
+            <p>C. Structure of Procedure Calling Sequence  35</p>
+            <p>D. Internal Representation of Strings  37</p>
+            <p>E. Program Efficiency  38</p>
+            <p>F. Controversial Features of Algol 60  40</p>
+            <p>G. Fortran Subprograms in an Algol Program  41</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>The Oak Ridge ALGOL Compiler for the Control Data Corporation 1604 / Preliminary Programmer's Manual</head>
+            <pb/>
+            <div type="div2">
+               <head>THE OAK RIDGE ALGOL COMPILER FOR THE CONTROL DATA CORPORATION 1604—PRELIMINARY PROGRAMMER’S MANUAL</head>
+               <p rend="justify">L. L. Bumgarner</p>
+               <div type="div3">
+                  <head>ABSTRACT</head>
+                  <p rend="justify">This document is a preliminary programmer’s manual for use of the Control Data 1604 Algol Compiler. The compiler was constructed by the Programming Research Group of the Mathematics Division in cooperation with Control Data Corporation. A knowledge of Algol 60 is assumed. Included are descriptions of input-output facilities and details for operation under the monitor system.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>I.</label>
+                  <hi rend="italic">Introduction</hi>
+               </head>
+               <p rend="justify">This document is to serve as a programmer’s manual for the Algol compiler constructed as a cooperative project by Control Data Corporation and the Mathematics Division of Oak Ridge National Laboratory. The compiler is designed for the Control Data 1604 and 1604-A computers. The document is preliminary in that the compiler is not thoroughly tested and may undergo further development.</p>
+               <p rend="justify">The reader is assumed to be familiar with Algol 60. The defining descriptions are the two reports on Algol 60 available in the following references:</p>
+               <p rend="justify">1. P. Naur et al, “Report on the Algorithmic Language Algol 60,” <hi rend="italic">Comm. Assoc. Comp. Mach., 3</hi>  (1960), No. 5, 299-314.</p>
+               <p rend="justify">2. P. Naur et al, “Revised Report on the Algorithmic Language Algol 60,” <hi rend="italic">Comm. Assoc. Comp. Mach., 6</hi>  (1963), No. 1, 1-17.</p>
+               <p rend="justify">The second report clears up certain ambiguities that appeared in the first report. The reports are not easy reading for the novice. The following expositions are more readable:</p>
+               <p rend="justify">1. Baumann, Bauer, Feliciano and Samelson, <hi rend="italic">Introduction to Algol</hi>, Prentice-Hall, Inc. (to be published in late 1963).</p>
+               <p rend="justify">2. Bottenbruch, H., “Structure and Use of Algol 60,” <hi rend="italic">Jour. Assoc. Comp. Mach., 9</hi>  (1962), No. 2, 161-221, and ORNL-3148.</p>
+               <p rend="justify">The Baumann publication also contains the revised Algol 60 report.</p>
+               <p rend="justify">Throughout this document various examples of statements and declarations appear without the semicolon which is always required for separating them. This is to avoid the implication that the semicolon is part of the statement or the declaration. In sentences, a comma or period may appear where a semicolon or other delimiter would be indicated in the context of a program.</p>
+               <p rend="justify">Word delimiters rendered in bold-face type in the Algol report are herein indicated by underlining.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>II.</label>
+                  <hi rend="italic">Language Restrictions</hi>
+               </head>
+               <p rend="justify">The compiler correctly handles programs written in Algol 60 subject to the following restrictions.</p>
+               <p rend="justify">1. The use of an <hi rend="italic">integer label as an actual parameter</hi>  will cause an incorrect program to be compiled.</p>
+               <p rend="justify">2. A GO TO statement with an <hi rend="italic">undefined switch designator</hi>  as the designational expression will cause incorrect operation of the final program.</p>
+               <p rend="justify">3. <hi rend="italic">Type</hi>  restrictions:</p>
+               <p rend="justify">(a) The exponentiation expression x ↑ y will have type <hi rend="italic">real</hi>  unless x is of type <hi rend="italic">integer</hi>  and y is a non-negative integer constant. This differs slightly from the definition in the Algol report but will generally cause no difficulty.</p>
+               <p rend="justify">(b) In the construction</p>
+               <p rend="justify">&lt;if clause&gt; &lt;simple arithmetic expression&gt;</p>
+               <p rend="justify">
+                  <hi rend="italic">else</hi>  &lt;arithmetic expression&gt;</p>
+               <p rend="justify">the arithmetic expressions must have the same type, or else an incorrect program will be compiled. For example, in the statement</p>
+               <p rend="justify">x := <hi rend="italic">if</hi>  a &lt; b <hi rend="italic">then</hi>  z <hi rend="italic">else</hi>  w</p>
+               <p rend="justify">z and w should both be declared <hi rend="italic">real</hi>  or both <hi rend="italic">integer</hi>.</p>
+               <p rend="justify">(c) In a procedure call (procedure statement or function call) each actual parameter having an arithmetic value must have the same type as the corresponding formal parameter in the procedure declaration. The type of the formal parameter is that designated in the specification part if it appears there. If a formal parameter representing an arithmetic quantity does not appear in the specification part, it is assumed to be specified <hi rend="italic">real</hi>. Full use of specifications is desirable for descriptive purposes and for optimization.</p>
+               <p rend="justify">
+                  <hi rend="italic">Caution.</hi>  Restriction (c) is more likely to cause errors than the other restrictions. It is very easy to write P(1,2) when the parameters of P are specified <hi rend="italic">real</hi>, but incorrect coding will result. The call P(1.0,2.0) works correctly.</p>
+               <p rend="justify">4. <hi rend="italic">Standard procedure names</hi>  (see section VI) <hi rend="italic">used as parameters</hi>  in procedure calls will cause an incorrect program to be compiled. A call, therefore, such as</p>
+               <p rend="justify">P(sin)</p>
+               <p rend="justify">is incorrect. Note, however, that a call of the type</p>
+               <p rend="justify">Q(sin(x))</p>
+               <p rend="justify">causes no trouble. The case P(sin) can be programmed in another way. Make the declaration</p>
+               <p rend="justify">
+                  <hi rend="italic">real procedure</hi>  sin 1 (t); <hi rend="italic">real</hi>  t;</p>
+               <p rend="justify">sin 1 := sin(t).</p>
+               <p rend="justify">The call</p>
+               <p rend="justify">P(sin 1)</p>
+               <p rend="justify">is then correct.</p>
+               <p rend="justify">5. <hi rend="italic">Arrays called by value</hi>  are not handled. If an array identifier appears in the value part, an incorrect program will be compiled.</p>
+               <p rend="justify">6. <hi rend="italic">“Dynamic” own arrays</hi>  are not handled. This means that all <hi rend="italic">own</hi>  arrays are treated as having constant subscript bounds; this constitutes one possible interpretation of the Algol 60 report. An <hi rend="italic">own</hi>  array may be declared with variable subscript bounds, but only one allocation of storage will be made, and if the bounds change, this will be ignored.</p>
+               <p rend="justify">7. <hi rend="italic">Recursive procedures</hi>  are not handled. This restriction encompasses all cases of a function designator appearing in the actual parameter part of a call of the same function, unless that function is a standard function. Thus f(f(x)) is not permitted in general, but sin(sin(x)) is allowed.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>III.</label>
+                  <hi rend="italic">Modes of Operation of the Compiler</hi>
+               </head>
+               <p rend="justify">There are two distinct modes of operation: ALGO and ALDAP.</p>
+               <p rend="justify">ALGO is a compile-and-execute mode in which the two phases cannot be separated. The Algol program is translated into a machine language program in core memory, and execution of the program immediately and automatically follows. There is no assembly program phase.</p>
+               <p rend="justify">ALDAP makes use of the CODAP assembly program facilities. It is possible to compile procedures separately and reference them from an Algol program. The procedures may be written in Algol, CODAP or Fortran. This provision is made possible with the aid of the <hi rend="italic">external</hi>  declaration discussed in section V.</p>
+               <p rend="justify">The ALGO mode provides significantly faster compilation than the ALDAP mode for most programs. The target programs produced in the two modes are essentially the same. In the ALGO mode, program checkout may be done at the Algol language level. In the ALDAP mode, checkout may also be done at the machine and assembly language levels, and modifications may be made at these levels.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>IV.</label>
+                  <hi rend="italic">Input-Output and Intermediate Tape</hi>
+               </head>
+               <p rend="justify">There are seven standard procedures for input-output, five for intermediate tape, and three for checking tape conditions. Two declarations, <hi rend="italic">format</hi> and <hi rend="italic">list</hi>, are additions to the language.</p>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Input-Output</hi>
+                  </head>
+                  <p rend="justify">The input-output procedures are: READ, PAGE, PRINT, WRITE, PUNCH, INPUT, and OUTPUT.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">READ</hi>
+                  </head>
+                  <p rend="justify">The READ procedure is used to input numbers and Boolean values. A READ statement has the form</p>
+                  <p rend="justify">READ (V1, V2, ..., Vn)</p>
+                  <p rend="justify">where n is any positive integer and each Vk is a variable. For example, the statement</p>
+                  <p rend="justify">READ (X, Y, A[1], B[1])</p>
+                  <p rend="justify">will input values into the four variables listed. For inputing values into an array, a statement such as the following might be used:</p>
+                  <p rend="justify">
+                     <hi rend="italic">for</hi>  I := 1 <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  100 <hi rend="italic">do</hi>  READ (A[I]) .</p>
+                  <p rend="justify">The READ procedure inputs numbers and truth values. A number must be a legal Algol number (although an E may be substituted for the symbol ₁₀). For input into a Boolean variable, the truth values <hi rend="italic">true</hi>  and <hi rend="italic">false</hi>  are accepted; also, a non-negative number or a plus sign is interpreted as <hi rend="italic">false</hi>  and a negative number or a minus sign is interpreted as <hi rend="italic">true</hi>. A blank is read as zero.</p>
+                  <p rend="justify">With the READ procedure, the type of a number on a data card does not have to be the same as the type of the variable to which it is assigned. Any necessary type conversions are done automatically. If N is the next number in the data, the statement</p>
+                  <p rend="justify">READ (V)</p>
+                  <p rend="justify">is equivalent to the statement</p>
+                  <p rend="justify">V := N .</p>
+                  <p rend="justify">The data cards are free field. The number of values per card, the length of numbers, and the number of spaces are arbitrary. A comma, however, must follow each number, <hi rend="italic">including the last one on the last data card</hi>.</p>
+                  <p rend="justify">In reading a value into a subscripted variable, the current value of the subscript expression is not affected by that READ statement. For example, in the statement</p>
+                  <p rend="justify">READ (I, A[I])</p>
+                  <p rend="justify">the old value of I is used in A[I].</p>
+                  <p rend="justify">The READ procedure will input data from the standard input medium only.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">PAGE</hi>
+                  </head>
+                  <p rend="justify">The PAGE procedure is used to cause a page ejection on the standard output medium. PAGE has no parameters. It is called by simply writing</p>
+                  <p rend="justify">PAGE .</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Lists and the List Declaration</hi>
+                  </head>
+                  <p rend="justify">The input and output procedures described in the rest of this section, as well as the binary read and write procedures, make use of the concept of a list. A <hi rend="italic">list</hi>[1] is a sequence of expressions. An example is</p>
+                  <p rend="justify">U + V, C[0], <hi rend="italic">if</hi>  B <hi rend="italic">then</hi>  X <hi rend="italic">else</hi>  Y .</p>
+                  <p rend="justify">It may be inconvenient in some cases to write down all of the expressions explicitly. The <hi rend="italic">loop expression</hi>[1]  may be used as a shorthand device in a list. It is an Algol-like construction of which the following is an example:</p>
+                  <p rend="justify">
+                     <hi rend="italic">for</hi>  I := 1 <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  1000 <hi rend="italic">do</hi>  A[I] .</p>
+                  <p rend="justify">This is equivalent to the list</p>
+                  <p rend="justify">A[1], A[2], ..., A[1000] .</p>
+                  <p rend="justify">The entity following <hi rend="italic">do</hi>  in a loop expression may itself be a list, but this list must be enclosed in parentheses if it contains more than one member.</p>
+                  <p rend="justify">The loop expression</p>
+                  <p rend="justify">
+                     <hi rend="italic">for</hi>  I := 1 <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  1000 <hi rend="italic">do</hi>  (A[I], B[I])</p>
+                  <p rend="justify">is equivalent to the list</p>
+                  <p rend="justify">A[1], B[1], A[2], B[2], ..., A[1000], B[1000] .</p>
+                  <p rend="justify">The loop expression</p>
+                  <p rend="justify">
+                     <hi rend="italic">for</hi>  I := 1 <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  10 <hi rend="italic">do</hi>  (A[I], for J := 1</p>
+                  <p rend="justify">
+                     <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  20 <hi rend="italic">do</hi>  B[I,J])</p>
+                  <p rend="justify">is equivalent to the list</p>
+                  <p rend="justify">A[1], B[1,1], B[1,2], ..., B[1,20],</p>
+                  <p rend="justify">A[2], B[2,1], B[2,2], ..., B[2,20],</p>
+                  <p rend="justify">....................................</p>
+                  <p rend="justify">A[10], B[10,1], B[10,2], ..., B[10,20] .</p>
+                  <p rend="justify">A list may be given a name through a list declaration. A list declaration has the form</p>
+                  <p rend="justify">
+                     <hi rend="italic">list</hi>  identifier := list .</p>
+                  <p rend="justify">Examples are:</p>
+                  <p rend="justify">
+                     <hi rend="italic">list</hi>  L := X, A + B</p>
+                  <p rend="justify">
+                     <hi rend="italic">list</hi>  M := <hi rend="italic">for</hi>  I := 1 <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  N <hi rend="italic">do</hi>  A[I] .</p>
+                  <p rend="justify">A list identifier may itself appear in a list. One of the above examples might be written with the aid of the following declaration:</p>
+                  <p rend="justify">
+                     <hi rend="italic">list</hi>  L := <hi rend="italic">for</hi>  J := 1 <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  20 <hi rend="italic">do</hi>  B[I,J] .</p>
+                  <p rend="justify">The loop expression is then</p>
+                  <p rend="justify">
+                     <hi rend="italic">for</hi>  I:= 1 <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  10 <hi rend="italic">do</hi>  (A[I], L) .</p>
+                  <p rend="justify">A list declaration obeys the same rules of syntax and scope as do other declarations.</p>
+                  <p rend="justify">A list identifier may be used as an actual parameter of a procedure call, with the requirement that the corresponding formal parameter be specified <hi rend="italic">list</hi>. However, an actual list may appear as a parameter only in calls of the standard procedures, as described.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">PRINT</hi>
+                  </head>
+                  <p rend="justify">The PRINT procedure is used to output numbers in a simple, rigid manner. A PRINT statement has the form</p>
+                  <p rend="justify">PRINT (list),</p>
+                  <p rend="justify">where list is described above. An example of a PRINT statement is</p>
+                  <p rend="justify">PRINT (A, <hi rend="italic">if</hi>  N = 0 <hi rend="italic">then</hi>  S <hi rend="italic">else</hi>  T).</p>
+                  <p rend="justify">A PRINT statement always puts out at least one line printer image. A line may contain up to 6 numbers, each of which is in scientific notation with 10 decimal places. Each number is right-justified in a field of 20 columns. (The format is 6E20.10.) The above PRINT statement will output two numbers in the first forty spaces, and the rest of the line will be blank. A PRINT statement such as</p>
+                  <p rend="justify">PRINT (<hi rend="italic">for</hi>  I := 1 <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  10 <hi rend="italic">do</hi>  A[I])</p>
+                  <p rend="justify">will output one line of 6 numbers followed by one line of 4 numbers. Single spacing between lines is automatic.</p>
+                  <p rend="justify">The PRINT procedure always outputs on the standard output medium.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">WRITE</hi>
+                  </head>
+                  <p rend="justify">The WRITE procedure is used to output strings. Examples of WRITE statements are:</p>
+                  <p rend="justify">WRITE ('TABLE')</p>
+                  <p rend="justify">WRITE (<hi rend="italic">if</hi>  D &lt; 0 <hi rend="italic">then</hi>  'TRUE' <hi rend="italic">else</hi>  'FALSE') .</p>
+                  <p rend="justify">Each parameter must be a string expression (see Appendix A  for definition of string expression). There may be any number of parameters, but each string will appear on a separate line. If a string is too long to go on one line, it will be continued on the next line. A string should not contain another string. Lines are single spaced. Each WRITE statement causes at least one line printer image to be put out.</p>
+                  <p rend="justify">The WRITE procedure always outputs on the standard output medium.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">PUNCH</hi>
+                  </head>
+                  <p rend="justify">The PUNCH procedure is used to output numbers on punched cards in a form which can be input by the READ procedure. Each number punched will be followed by a comma. Each card punched may contain up to four numbers. Each number will be of type <hi rend="italic">real</hi>, but since the READ procedure makes any necessary type conversions this is unimportant. A PUNCH statement has the same form as a PRINT statement. Each PUNCH statement causes at least one card image to be put out.</p>
+                  <p rend="justify">The PUNCH procedure always outputs on the standard punch medium.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Formats and the Format Declaration</hi>
+                  </head>
+                  <p rend="justify">The two input and output procedures remaining to be described make use of formats. The formats are exactly those used in Fortran, and readers unfamiliar with Fortran will find it necessary to refer to the Control Data Fortran-62 Reference Manual for details on the use of formats.</p>
+                  <p rend="justify">A format is treated as a string. Formats will be written, for example, as follows:</p>
+                  <p rend="justify">'(6E20.10)'</p>
+                  <p rend="justify">'(1H0, 9X, 5HTABLE, I3)' .</p>
+                  <p rend="justify">Note that the parentheses are part of the format, and <hi rend="italic">both parentheses and string quotes are required</hi>.</p>
+                  <p rend="justify">As will be indicated below, a format string may appear explicitly in an INPUT or OUTPUT statement. If the same format string is used more than once, however, it may be convenient to give it a name through a format declaration. A format declaration has the form</p>
+                  <p rend="justify">
+                     <hi rend="italic">format</hi>  Identifier := '(Fortran format)' .</p>
+                  <p rend="justify">Examples are:</p>
+                  <p rend="justify">
+                     <hi rend="italic">format</hi>  F := '(6E20.10)'</p>
+                  <p rend="justify">
+                     <hi rend="italic">format</hi>  G := '(1H0, 9X, 5HTABLE, I3)' .</p>
+                  <p rend="justify">A format declaration obeys the same rules of syntax and scope as do other declarations.</p>
+                  <p rend="justify">Format identifiers may be used as parameters, and <hi rend="italic">format</hi>  is a specifier.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">INPUT</hi>
+                  </head>
+                  <p rend="justify">The INPUT procedure is used to input numbers and Hollerith information in accordance with Fortran-type formats. An INPUT statement has one of the forms</p>
+                  <p rend="justify">INPUT (M,F,list)</p>
+                  <p rend="justify">INPUT (M,F)</p>
+                  <p rend="justify">where:</p>
+                  <p rend="justify">(1) M is the logical unit designation. M may be any arithmetic expression. If it is not integral-valued, the action</p>
+                  <p rend="justify">M := entier (M + 0.5)</p>
+                  <p rend="justify">will take place. The standard input unit is 50.</p>
+                  <p rend="justify">(2) F is a format expression. It may be an actual format string, a format identifier, a conditional format expression, or any variable which contains the starting address of a format string. <hi rend="italic">Caution.</hi>  In the case of a conditional format expression, format strings and format identifiers should not be mixed. For example, (a) and (b) below are permitted, but (c) will cause an incorrect program to be compiled:</p>
+                  <p rend="justify">(a) <hi rend="italic">if</hi>  B <hi rend="italic">then</hi>  '(E20.7)' <hi rend="italic">else</hi>  '(E20.6)'</p>
+                  <p rend="justify">(b) <hi rend="italic">if</hi>  B <hi rend="italic">then</hi>  F1 <hi rend="italic">else</hi>  F2</p>
+                  <p rend="justify">(c) <hi rend="italic">if</hi>  B <hi rend="italic">then</hi>  F1 <hi rend="italic">else</hi>  '(E20.6)' .</p>
+                  <p rend="justify">(3) list is as defined previously. Of course, for INPUT all expressions must be variables.</p>
+                  <p rend="justify">The following are examples of an INPUT statement:</p>
+                  <p rend="justify">INPUT (50, '(4E20.8)', N, <hi rend="italic">for</hi>  I := 1 <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  N <hi rend="italic">do</hi>  A[I]).</p>
+                  <p rend="justify">INPUT (<hi rend="italic">if</hi>  A &lt; B <hi rend="italic">then</hi>  M <hi rend="italic">else</hi>  N, F, X, Y, Z) .</p>
+                  <p rend="justify">Each INPUT statement causes at least one card image to be read.</p>
+                  <p rend="justify">Note that the INPUT procedure does not make type checks between the data and the program variables. A floating point number, for example, is stored as such regardless of the type of the variable to which it is assigned.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Caution.</hi>  It is strongly recommended that not both READ and INPUT be used in the same program. Each buffers ahead one card image. Furthermore, each INPUT statement causes at least one card image to be read while a READ statement may not cause a new card image to be read. Mixing the two statements will require quite careful use of blank cards in the data to allow for the buffering.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">OUTPUT</hi>
+                  </head>
+                  <p rend="justify">The OUTPUT procedure is used to output numbers and Hollerith information in accordance with Fortran-type formats. An OUTPUT statement has one of the forms</p>
+                  <p rend="justify">OUTPUT (M,F)</p>
+                  <p rend="justify">OUTPUT (M,F,list)</p>
+                  <p rend="justify">where M, F, and list are as indicated above. The following are examples of OUTPUT statements:</p>
+                  <p rend="justify">OUTPUT (51, '(5HTABLE)')</p>
+                  <p rend="justify">OUTPUT (51, '(1H0,9X,10E10.2)', <hi rend="italic">for</hi>  I := 1 <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  100 <hi rend="italic">do</hi>  A[I]) .</p>
+                  <p rend="justify">Each OUTPUT statement causes at least one line printer image to be put out. The standard output unit is 51, and the standard punch unit is 52.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Intermediate Tape Procedures</hi>
+                  </head>
+                  <p rend="justify">There are five standard procedures for making use of magnetic tape for auxiliary storage:</p>
+                  <p rend="justify">BINREAD, BINWRITE, ENDFILE, REWIND and BACKUP.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">BINREAD</hi>
+                  </head>
+                  <p rend="justify">A BINREAD statement has the form</p>
+                  <p rend="justify">BINREAD (M, list)</p>
+                  <p rend="justify">where M and list are the same as for INPUT. Each BINREAD statement causes the designated unit to move forward one logical record, reading in binary format into the variables of the list. If fewer variables appear in the list than are on the record, only those values are read and the tape moves on to the end of the record. If more variables appear in the list than are on the record, this is treated as an error and the program is terminated.</p>
+                  <p rend="justify">The following is an example of a BINREAD statement:</p>
+                  <p rend="justify">BINREAD (6, <hi rend="italic">for</hi>  I := 1 <hi rend="italic">step</hi>  1 <hi rend="italic">until</hi>  1000 <hi rend="italic">do</hi>  A[I]) .</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">BINWRITE</hi>
+                  </head>
+                  <p rend="justify">A BINWRITE statement has the form</p>
+                  <p rend="justify">BINWRITE (M, list)</p>
+                  <p rend="justify">where M and list are the same as for OUTPUT. Each BINWRITE statement causes the values of the list expressions to be written in one logical record in binary format on the designated unit.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">ENDFILE</hi>
+                  </head>
+                  <p rend="justify">An ENDFILE statement has the form</p>
+                  <p rend="justify">ENDFILE (M)</p>
+                  <p rend="justify">where M is a unit designation as before. The statement causes an end-of-file record to be written on the designated unit.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">REWIND</hi>
+                  </head>
+                  <p rend="justify">A REWIND statement has the form</p>
+                  <p rend="justify">REWIND (M)</p>
+                  <p rend="justify">where M is a unit designation as before. The statement causes the designated unit to be rewound to the load point.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">BACKUP</hi>
+                  </head>
+                  <p rend="justify">A BACKUP statement has the form</p>
+                  <p rend="justify">BACKUP (M)</p>
+                  <p rend="justify">where M is a unit designation as before. The statement causes the designated unit to be backspaced one logical record of binary information or one physical record of BCD information.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Tape-Checking Procedures</hi>
+                  </head>
+                  <p rend="justify">The checking procedures are: EOF, READERR, and WRITERR. These are Boolean procedures.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">EOF</hi>
+                  </head>
+                  <p rend="justify">An EOF call has the form</p>
+                  <p rend="justify">EOF (M)</p>
+                  <p rend="justify">where M is a logical unit designation as before. It yields the value <hi rend="italic">true</hi>  if the previous read operation encountered an end-of-file or the previous write operation encountered an end-of-tape; otherwise it yields the value <hi rend="italic">false</hi>.</p>
+                  <p rend="justify">An example of the use of an EOF call is:</p>
+                  <p rend="justify">
+                     <hi rend="italic">if</hi>  EOF(6) <hi rend="italic">then</hi>
+                     <hi rend="italic">goto</hi>  ALARM .</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">READERR</hi>
+                  </head>
+                  <p rend="justify">A READERR call has the form</p>
+                  <p rend="justify">READERR (M)</p>
+                  <p rend="justify">where M is a logical unit designation as before. It yields the value <hi rend="italic">true</hi>  if the previous read operation produced a parity error; otherwise it yields the value <hi rend="italic">false</hi>.</p>
+                  <p rend="justify">READERR should not be used for testing the operation of a READ statement. The READ procedure has its own facilities for checking, making multiple attempts in case of errors, and terminating the program if necessary.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">WRITERR</hi>
+                  </head>
+                  <p rend="justify">A WRITERR call has the form</p>
+                  <p rend="justify">WRITERR (M)</p>
+                  <p rend="justify">where M is a logical unit designation as before. It yields the value <hi rend="italic">true</hi>  if the previous write operation produced a parity error; otherwise it yields the value <hi rend="italic">false</hi>.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>V.</label>
+                  <hi rend="italic">The External Declaration</hi>
+               </head>
+               <p rend="justify">An <hi rend="italic">external</hi> declaration is required for each nonstandard library procedure or procedure compiled separately from the calling program, whether in Algol, Fortran or CODAP. Standard Algol procedures are described in Section VI. Note that a CODAP subroutine must take account of the special structure of the Algol calling sequence as described in Appendix C or be treated as a Fortran subprogram. The use of Fortran subprograms is described in Appendix G.</p>
+               <p rend="justify">The <hi rend="italic">external</hi>  declaration has one of the following forms:</p>
+               <p rend="justify">
+                  <hi rend="italic">external</hi>  I1, ..., In</p>
+               <p rend="justify">
+                  <hi rend="italic">real</hi>
+                  <hi rend="italic">external</hi>  I1, ..., In</p>
+               <p rend="justify">
+                  <hi rend="italic">integer</hi>
+                  <hi rend="italic">external</hi>  I1, ..., In</p>
+               <p rend="justify">
+                  <hi rend="italic">Boolean</hi>
+                  <hi rend="italic">external</hi>  I1, ..., In</p>
+               <p rend="justify">where each Ik is an identifier and n is any positive integer. A type declarator preceding the declarator <hi rend="italic">external</hi>  signifies a function procedure having that type. Note that no information about parameters appears in an <hi rend="italic">external</hi>  declaration. See Appendix A  for syntactical definition.</p>
+               <p rend="justify">In the ALGO mode, LIB cards must be included in the job deck for nonstandard library routines, in addition to the <hi rend="italic">external</hi>  declarations. Details are found in Section VIII.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>VI.</label>
+                  <hi rend="italic">Standard Procedures</hi>
+               </head>
+               <p rend="justify">Certain procedures are used without being declared. These include the standard functions listed in the Algol 60 report and the input-output and intermediate tape procedures. The complete list is as follows:</p>
+               <p rend="justify">ABS</p>
+               <p rend="justify">SIGN</p>
+               <p rend="justify">SQRT</p>
+               <p rend="justify">SIN</p>
+               <p rend="justify">COS</p>
+               <p rend="justify">ARCTAN</p>
+               <p rend="justify">LN</p>
+               <p rend="justify">EXP</p>
+               <p rend="justify">ENTIER</p>
+               <p rend="justify">EOF</p>
+               <p rend="justify">READERR</p>
+               <p rend="justify">WRITERR</p>
+               <p rend="justify">FORTRANF</p>
+               <p rend="justify">FTNF</p>
+               <p rend="justify">READ</p>
+               <p rend="justify">PAGE</p>
+               <p rend="justify">PRINT</p>
+               <p rend="justify">WRITE</p>
+               <p rend="justify">PUNCH</p>
+               <p rend="justify">INPUT</p>
+               <p rend="justify">OUTPUT</p>
+               <p rend="justify">BINREAD</p>
+               <p rend="justify">BINWRITE</p>
+               <p rend="justify">ENDFILE</p>
+               <p rend="justify">REWIND</p>
+               <p rend="justify">BACKUP</p>
+               <p rend="justify">FORTRAN</p>
+               <p rend="justify">FTN</p>
+               <p rend="justify">These procedures are global to the program. They behave as though declared in a fictitious block surrounding the entire program.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>VII.</label>
+                  <hi rend="italic">Error Checking and Diagnostics</hi>
+               </head>
+               <p rend="justify">In a complete compilation the compiler makes two passes on the Algol source program. If errors which the compiler cannot correct are detected in the first pass, then the second, or translation, pass will not be made. The following types of errors are detected:</p>
+               <p rend="justify">1. syntactical error</p>
+               <p rend="justify">2. undeclared identifier</p>
+               <p rend="justify">3. identifier declared twice in the same block head</p>
+               <p rend="justify">4. misspelled delimiter (corrected in many cases)</p>
+               <p rend="justify">5. missing escape symbol (corrected unless both are missing for the same delimiter, in which case the delimiter is treated as an identifier).</p>
+               <p rend="justify">The program listing and any diagnostics always appear on the standard output medium. In the case of a syntactical error, a message will appear in the program listing one or several lines below the error. The location of the error in the program will be further pinpointed in the line of symbols immediately below the error message. This line will be a short portion of the program with the last symbol in the line being the one which indicates the error. For example, a declaration might be out of place as follows:</p>
+               <p rend="justify">.</p>
+               <p rend="justify">.</p>
+               <p rend="justify">.</p>
+               <p rend="justify">x := a + b; 'INTEGER' K;</p>
+               <p rend="justify">**** LAST CHARACTER INDICATES SYNTACTICAL ERROR.</p>
+               <p rend="justify">x := a + b; INTEGER</p>
+               <p rend="justify">.</p>
+               <p rend="justify">.</p>
+               <p rend="justify">.</p>
+               <p rend="justify">In some cases the line below the message may differ slightly from the corresponding string of symbols above; for example, an identifier might be rendered by Ident. It is possible for a single syntactical error to cause more than one diagnostic.</p>
+               <p rend="justify">A few syntactical errors are corrected by the compiler, and a message is put out to this effect. An example is a semicolon immediately preceding <hi rend="italic">else</hi>.</p>
+               <p rend="justify">According to the comment conventions of Algol, any string of symbols following <hi rend="italic">end</hi>  and not containing <hi rend="italic">end</hi>, <hi rend="italic">else</hi>  or a semicolon is treated as comment. As a result, the omission of one of these symbols following <hi rend="italic">end</hi>  does not always cause an error in compilation but will cause a portion of the program to be skipped over by the compiler. Thus for example, in</p>
+               <p rend="justify">... x := a + b <hi rend="italic">end</hi>
+                  <hi rend="italic">for</hi>  i := 1 <hi rend="italic">step</hi>  1 ...</p>
+               <p rend="justify">the FOR statement will be skipped at least in part. The compiler will put out a caution message in this and some other cases, but it will not change the program.</p>
+               <p rend="justify">If an identifier is not declared (or possibly declared in the wrong place), a message is put out below the program listing together with the undeclared identifier.</p>
+               <p rend="justify">The compiler does not check the type of identifiers. Therefore, such errors as a Boolean variable in an arithmetic expression, or the brackets of a subscripted variable replaced by parentheses, are not detected, and an incorrect program may be compiled.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>VIII.</label>
+                  <hi rend="italic">Running Programs</hi>
+               </head>
+               <p rend="justify">The Algol program is punched on cards in the hardware representation described in Appendix B. The format is essentially free field: spaces have no significance except within escape symbols and string quotes. <hi rend="italic">Only the first 72 columns, however, are interpreted by the compiler.</hi> The remaining columns may be used for identification purposes. Care must be taken when a string is continued onto the next card, as <hi rend="italic">the continuation will begin in column 1</hi>. The program listing will have the same format as the cards.</p>
+               <p rend="justify">In the following discussion the symbol Ø signifies the letter O where necessary for emphasis, and the symbol Δ signifies a 7-9 punch in card column 1.</p>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">ALGOL Control System</hi>
+                  </head>
+                  <p rend="justify">The compiler operates under the ALGOL Control System. This system is a subordinate control routine of the Master Control System of the CO-OP Monitor Programming System. ALGOL is quite similar to the subordinate control routine COOP.</p>
+                  <p rend="justify">ALGOL is called with an MCS (Master Control System) card having ALGOL punched beginning in column 2. Other details of this card are available in descriptions of the CO-OP Monitor. It should be noted in selecting a standard recovery procedure that the concept of COMMON is not used in Algol.</p>
+                  <p rend="justify">Following the MCS card will be a control card giving instructions to the control routine ALGOL. It will name one of the following routines: ALGO, ALDAP, EXECUTE, BINARY, FORTRAN, REWIND or DEFINE. These will be discussed below.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">EOP Card</hi>
+                  </head>
+                  <p rend="justify">The EOP (end-of-program) card has the characters 'EØP' punched in columns 10-14.</p>
+                  <p rend="justify">In the ALGO mode, one EOP card must be used to terminate the program.</p>
+                  <p rend="justify">In the ALDAP mode, one EOP card must be used to terminate each Algol program or Algol procedure being compiled separately.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Compile and Execute: ALGO</hi>
+                  </head>
+                  <p rend="justify">The ALGO mode of running an Algol program is the simplest and the fastest. It will be the more suitable for a large number of programs. Unless the programmer has special reasons for using the ALDAP mode, the ALGO mode is recommended.</p>
+                  <p rend="justify">The Algol program must be self-contained except for standard procedures and library procedures on the library-systems tape. The job deck must have the following cards in the specified order:</p>
+                  <p>1. MCS control card.</p>
+                  <p>The subordinate control routine name must be ALGØL.</p>
+                  <p>2. ALGOL control card.</p>
+                  <p>This will appear as</p>
+                  <p>ΔALGØ. or ΔALGØ,t. where t is an integer specifying a time limit in minutes for compilation and execution.</p>
+                  <p>(The period is required on every control card.)</p>
+                  <p>3. LIB cards.</p>
+                  <p>If necessary. One LIB card is required for each non-standard library procedure called in the program, namely those declared <hi rend="italic">external</hi>. The format of a LIB card is as follows: the characters LIB punched in columns 10-12 and the name of a library entry point beginning in column 20. There may be no more than 20 LIB cards.</p>
+                  <p>4. PROGRAM card.</p>
+                  <p>If desired. This may be used to identify the program. Its format is described in the next paragraph.</p>
+                  <lg>
+                     <l>5. Algol program deck.</l>
+                     <l>6. EOP card.</l>
+                     <l>7. Data.</l>
+                  </lg>
+                  <p>If required.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">PROGRAM Card</hi>
+                  </head>
+                  <p rend="justify">The PROGRAM card is optional. It is useful for identification purposes, and in the ALDAP mode it serves to name the program entry point.</p>
+                  <p rend="justify">The format of the card is free field. The characters PRØGRAM must appear followed by the program name, which must be alphanumeric.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Compile/Execute: ALDAP</hi>
+                  </head>
+                  <p rend="justify">The ALDAP mode is used to compile an Algol program or procedure to a relocatable binary or a CODAP format. Execution is optional. For compilation only, the program deck may consist of any mixture of Algol programs and procedures, any number of which may be in CODAP. If execution is desired, part or all of the program deck may have been previously compiled, so that the deck may have Algol, CODAP and relocatable binary cards.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">ALDAP Control Statement</hi>
+                  </head>
+                  <p rend="justify">The format of the ALDAP statement is:</p>
+                  <p rend="justify">ΔALDAP,L,B,n.</p>
+                  <p rend="justify">where</p>
+                  <p rend="justify">L is a program listing key,</p>
+                  <p rend="justify">B is a punched card output key,</p>
+                  <p rend="justify">n is a logical unit number.</p>
+                  <p rend="justify">A period may terminate the statement at any point, with remaining fields treated as zero.</p>
+                  <p rend="justify">If the program listing key (L) is a 1, an assembled listing of the CODAP object code will be produced on the standard output medium. If the key is zero or blank, no such listing will be produced. A listing of the Algol program and any diagnostics will always be produced on the standard output medium.</p>
+                  <p rend="justify">If the punched card output key (B) is a 1, a relocatable binary deck will be produced on the standard punch medium. If the key is a 2, a CODAP symbolic deck will be produced on the standard punch medium. If the key is a 3, both a symbolic deck and a relocatable binary deck will be produced on the standard punch medium, with the symbolic deck appearing first. If the key is zero or blank, no deck will be produced.</p>
+                  <p rend="justify">The logical unit number (n) specifies the unit which is to be the load-and-go tape if it is one of the integers 1-49 or 56. If n is some other integer or blank, no load-and-go tape will be written. The load-and-go tape is required when execution of the program is to follow.</p>
+                  <p rend="justify">Examples:</p>
+                  <p rend="justify">(a) ΔALDAP, 1, 1, 56.</p>
+                  <p rend="justify">This statement will cause the Algol/CODAP deck to be compiled, an assembled listing to be produced on the standard output medium, a relocatable binary deck to be produced on the standard punch medium, and a load-and-go tape written on logical unit 56.</p>
+                  <p rend="justify">(b) ΔALDAP, 1.</p>
+                  <p rend="justify">This statement will cause the Algol/CODAP deck to be compiled, and an assembled listing to be produced on the standard output medium.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Job Deck: ALDAP Compilation/Execution</hi>
+                  </head>
+                  <p rend="justify">For <hi rend="italic">compilation only</hi> of an Algol/CODAP program deck, the job deck should contain the following cards in the specified order:</p>
+                  <p>1. MCS control card.</p>
+                  <p>With ALGØL as the subordinate control routine name.</p>
+                  <p>2. ALGOL control card.</p>
+                  <p>With the appropriate ALDAP control statement.</p>
+                  <p>3. PROGRAM card.</p>
+                  <p>If desired.</p>
+                  <p>4. Program deck.</p>
+                  <p>Any mixture of Algol and CODAP programs and procedures, with all their subroutines except the standard procedures and those on the library-systems tape. <hi rend="italic">Each Algol program or procedure must be terminated by an EOP card.</hi>
+                  </p>
+                  <p>5. FINIS card.</p>
+                  <p>This card contains the characters FINIS punched in columns 10-14. It signals the end of all compilations.</p>
+                  <p rend="justify">For <hi rend="italic">compilation and execution</hi>  of an Algol/CODAP program deck, a load-and-go tape must be requested in the ALDAP control statement. If no relocatable binary cards follow the last subprogram to be compiled, then the program deck must be terminated by an EOP card which is <hi rend="italic">in addition to</hi>  the EOP card or END card (the latter for a CODAP subprogram) which terminates the last program or procedure. The FINIS card then follows this additional EOP card. An EOP card always causes a TRA card image to be written on the load-and-go tape.</p>
+                  <p rend="justify">The control statements EXECUTE, BINARY, FORTRAN, REWIND and DEFINE may be used as described in the “CO-OP Monitor Programmer’s Guide”. BINARY is useful for loading a relocatable binary deck onto the load-and-go tape prior to compilation of an Algol calling program, where the subprogram in relocatable form might have the same name as a library routine. If the Algol program preceded the relocatable deck, the library routine would be fetched by the loader and an error indication given.</p>
+                  <p rend="justify">The CO-OP control statements LOAD and EXECUTER are not used by ALGOL.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Examples</hi>
+                  </head>
+                  <p rend="justify">Each of the following examples describes a job deck which illustrates a different way of compiling and executing the same Algol program. The program calls a library procedure with entry point named BESSEL, and the program contains at least one other procedure. On the MCS card only the first field is indicated, as the others may vary from one installation to another.</p>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">Example 1</hi>
+                     </head>
+                     <p rend="justify">This job uses the ALGØ mode.</p>
+                     <p rend="justify">ΔALGØL, ... .</p>
+                     <p rend="justify">ΔALGØ.</p>
+                     <p rend="justify">LIB BESSEL</p>
+                     <p rend="justify">PRØGRAM SAMPLE</p>
+                     <p rend="justify">Algol Program (with <hi rend="italic">external</hi>  declaration of BESSEL)</p>
+                     <p rend="justify">'EØP'</p>
+                     <p rend="justify">Data</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">Example 2</hi>
+                     </head>
+                     <p rend="justify">This job uses the ALDAP mode, compiling the entire program at once. The ALDAP control statement calls for an assembled listing, a binary deck, and a load-and-go tape on logical unit 56. The execute card gives a two minute time limit on the execution.</p>
+                     <p rend="justify">ΔALGØL, ... .</p>
+                     <p rend="justify">ΔALDAP,1,1,56.</p>
+                     <p rend="justify">PRØGRAM SAMPLE</p>
+                     <p rend="justify">Algol Program (with <hi rend="italic">external</hi>  declaration of BESSEL)</p>
+                     <p rend="justify">'EØP'</p>
+                     <p rend="justify">'EØP'</p>
+                     <p rend="justify">FINIS</p>
+                     <p rend="justify">ΔEXECUTE,2.</p>
+                     <p rend="justify">Data</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">Example 3</hi>
+                     </head>
+                     <p rend="justify">This job consists simply of the execution of the relocatable program deck obtained in example 2.</p>
+                     <p rend="justify">ΔALGØL, ... .</p>
+                     <p rend="justify">ΔEXECUTE,2.</p>
+                     <p rend="justify">Relocatable Deck</p>
+                     <p rend="justify">Data</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">Example 4</hi>
+                     </head>
+                     <p rend="justify">This example is similar to example 2. Here the main program and one of its procedures are to be compiled separately.</p>
+                     <p rend="justify">ΔALGØL, ... .</p>
+                     <p rend="justify">ΔALDAP,1,1,56.</p>
+                     <p rend="justify">PRØGRAM SAMPLE</p>
+                     <p rend="justify">Algol Program (with <hi rend="italic">external</hi>  declaration of both BESSEL and the procedure being compiled separately)</p>
+                     <p rend="justify">'EØP'</p>
+                     <p rend="justify">Algol Procedure</p>
+                     <p rend="justify">'EØP'</p>
+                     <p rend="justify">'EØP'</p>
+                     <p rend="justify">FINIS</p>
+                     <p rend="justify">ΔEXECUTE,2.</p>
+                     <p rend="justify">Data</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">Example 5</hi>
+                     </head>
+                     <p rend="justify">In this example the procedure which was compiled separately in example 4 is being compiled by itself, i.e., the calling program is not in the deck at all. Of course there is no execution in this case. Note that no load-and-go tape is requested and only one EOP card is used. There cannot be a PROGRAM card.</p>
+                     <p rend="justify">ΔALGØL, ... .</p>
+                     <p rend="justify">ΔALDAP,1,1.</p>
+                     <p rend="justify">Algol Procedure</p>
+                     <p rend="justify">'EØP'</p>
+                     <p rend="justify">FINIS</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">Example 6</hi>
+                     </head>
+                     <p rend="justify">Here the procedure compiled by itself in example 5 appears in the program deck in relocatable binary form, while the calling program is in the Algol language.</p>
+                     <p rend="justify">ΔALGØL, ... .</p>
+                     <p rend="justify">ΔALDAP,1,1,56.</p>
+                     <p rend="justify">PRØGRAM SAMPLE</p>
+                     <p rend="justify">Algol Program (with <hi rend="italic">external</hi>  declaration of both BESSEL and the procedure in relocatable form)</p>
+                     <p rend="justify">'EØP'</p>
+                     <p rend="justify">FINIS</p>
+                     <p rend="justify">ΔEXECUTE,2.</p>
+                     <p rend="justify">Relocatable Deck</p>
+                     <p rend="justify">Data</p>
+                     <p rend="justify">The relocatable deck here must be terminated by two TRA cards. One of these is generated by the compiler when it processes the EOP card which must terminate the procedure for compilation, as in example 5. The second TRA card can be obtained by using a second EOP card, as in example 2. Alternatively, the second TRA card can be added to the relocatable deck before execution. Note that this second TRA card must not be used when the relocatable deck is loaded by a BINARY control statement. This is illustrated in the next example.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">Example 7</hi>
+                     </head>
+                     <p rend="justify">In this case the previously compiled procedure has the same name as a routine on the library-systems tape.</p>
+                     <p rend="justify">ΔALGØL, ... .</p>
+                     <p rend="justify">ΔBINARY,56.</p>
+                     <p rend="justify">Relocatable Deck (terminated by one TRA card)</p>
+                     <p rend="justify">ΔALDAP,1,1,56.</p>
+                     <p rend="justify">PRØGRAM SAMPLE</p>
+                     <p rend="justify">Algol Program (with <hi rend="italic">external</hi>  declaration of both BESSEL and the procedure in relocatable form)</p>
+                     <p rend="justify">'EØP'</p>
+                     <p rend="justify">'EØP'</p>
+                     <p rend="justify">FINIS</p>
+                     <p rend="justify">ΔEXECUTE, 2.</p>
+                     <p rend="justify">Data</p>
+                     <p rend="justify">The logical unit number on the BINARY control statement must agree with that which specifies the load-and-go tape in the ALDAP control statement.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>APPENDIX A<lb/>Adjuncts to Algol 60</head>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">List Entities</hi>
+                  </head>
+                  <p rend="justify">The delimiter <hi rend="italic">list</hi> is a declarator and a specifier.</p>
+                  <p rend="justify">&lt;list identifier&gt; ::= &lt;identifier&gt;</p>
+                  <p rend="justify">&lt;loop expression&gt; ::= &lt;for clause&gt; &lt;arithmetic expression&gt;</p>
+                  <p rend="justify">| &lt;for clause&gt; &lt;loop expression&gt;</p>
+                  <p rend="justify">| &lt;for clause&gt; (&lt;list&gt;)</p>
+                  <p rend="justify">&lt;list element&gt; ::= &lt;arithmetic expression&gt;</p>
+                  <p rend="justify">| &lt;loop expression&gt;</p>
+                  <p rend="justify">| &lt;list identifier&gt;</p>
+                  <p rend="justify">&lt;list&gt; ::= &lt;list element&gt;</p>
+                  <p rend="justify">| &lt;list&gt;, &lt;list element&gt;</p>
+                  <p rend="justify">&lt;list declaration&gt; ::= <hi rend="italic">list</hi>  &lt;list identifier&gt; := &lt;list&gt;</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Format Entities</hi>
+                  </head>
+                  <p rend="justify">The delimiter <hi rend="italic">format</hi> is a declarator and a specifier.</p>
+                  <p rend="justify">&lt;format identifier&gt; ::= &lt;identifier&gt;</p>
+                  <p rend="justify">&lt;simple format expression&gt; ::='(&lt;Fortran format&gt;[2])'</p>
+                  <p rend="justify">| &lt;format identifier&gt;</p>
+                  <p rend="justify">&lt;format expression&gt; ::= &lt;simple format expression&gt;</p>
+                  <p rend="justify">| &lt;if clause&gt; &lt;simple format expression&gt;</p>
+                  <p rend="justify">
+                     <hi rend="italic">else</hi>  &lt;format expression&gt;</p>
+                  <p rend="justify">&lt;format declaration&gt; ::= <hi rend="italic">format</hi>  &lt;format identifier&gt; := &lt;format expression&gt;</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">String Expression</hi>
+                  </head>
+                  <p rend="justify">&lt;string expression&gt; ::= &lt;string&gt;</p>
+                  <p rend="justify">| &lt;if clause&gt; &lt;string&gt;</p>
+                  <p rend="justify">
+                     <hi rend="italic">else</hi>  &lt;string expression&gt;</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">External Declaration</hi>
+                  </head>
+                  <p rend="justify">The delimiter <hi rend="italic">external</hi> is a declarator.</p>
+                  <p rend="justify">&lt;external identifier&gt; ::= &lt;identifier&gt;</p>
+                  <p rend="justify">&lt;external list&gt; ::= &lt;external identifier&gt;</p>
+                  <p rend="justify">| &lt;external identifier&gt;, &lt;external list&gt;</p>
+                  <p rend="justify">&lt;external declaration&gt; ::= <hi rend="italic">external</hi>  &lt;external list&gt;</p>
+                  <p rend="justify">| &lt;type&gt; <hi rend="italic">external</hi>  &lt;external list&gt;</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>APPENDIX B<lb/>Hardware Representation</head>
+               <p rend="justify">One keypunch character is reserved as an “escape symbol”, which we shall here suppose is the apostrophe. This symbol is used to delineate word delimiters and truth values, which are written in boldface type in Algol reference language and publication language and indicated by underlining in this manual. The hardware representation of a word delimiter such as <hi rend="italic">begin</hi> is therefore 'BEGIN'. No distinction is made between upper and lower case letters in the hardware language.</p>
+               <p rend="justify">The transliteration rules for the non-word delimiters are comprised in the following table. This assumes a 48 character hardware set and is consistent with the usage in the ALCOR group. For some basic symbols alternatives are tolerated, as indicated.</p>
+               <table rend="frame" xml:id="Table1">
+                  <row role="label">
+                     <cell rend="start bold">
+                        <hi rend="italic">Reference</hi>
+                     </cell>
+                     <cell rend="start bold">
+                        <hi rend="italic">Hardware</hi>
+                     </cell>
+                     <cell rend="start bold">
+                        <hi rend="italic">Tolerated Hardware</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>&lt;</cell>
+                     <cell>'LS'</cell>
+                     <cell>'LESS'</cell>
+                  </row>
+                  <row>
+                     <cell>≤</cell>
+                     <cell>'LQ'</cell>
+                     <cell>'LSEQ', 'NOTGREATER', 'NOT GREATER'</cell>
+                  </row>
+                  <row>
+                     <cell>=</cell>
+                     <cell>'EQ'</cell>
+                     <cell>'EQUAL'</cell>
+                  </row>
+                  <row>
+                     <cell>≥</cell>
+                     <cell>'GQ'</cell>
+                     <cell>'GREQ', 'NOTLESS', 'NOT LESS'</cell>
+                  </row>
+                  <row>
+                     <cell>&gt;</cell>
+                     <cell>'GR'</cell>
+                     <cell>'GREATER'</cell>
+                  </row>
+                  <row>
+                     <cell>≠</cell>
+                     <cell>'NQ'</cell>
+                     <cell>'NTEQ', 'NOTEQUAL', 'NOT EQUAL'</cell>
+                  </row>
+                  <row>
+                     <cell>¬</cell>
+                     <cell>'NOT'</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>∧</cell>
+                     <cell>'AND'</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>∨</cell>
+                     <cell>'OR'</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>⊃</cell>
+                     <cell>'IMP'</cell>
+                     <cell>'IMPLIES', 'IMPL'</cell>
+                  </row>
+                  <row>
+                     <cell>≡</cell>
+                     <cell>'EQV'</cell>
+                     <cell>'EQUIV'</cell>
+                  </row>
+                  <row>
+                     <cell>₁₀</cell>
+                     <cell>'</cell>
+                     <cell>'E','T'</cell>
+                  </row>
+                  <row>
+                     <cell>×</cell>
+                     <cell>*</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>↑</cell>
+                     <cell>**</cell>
+                     <cell>'POWER'</cell>
+                  </row>
+                  <row>
+                     <cell>÷</cell>
+                     <cell>//</cell>
+                     <cell>'DIV'</cell>
+                  </row>
+                  <row>
+                     <cell>:</cell>
+                     <cell>..</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>;</cell>
+                     <cell>$</cell>
+                     <cell>.,</cell>
+                  </row>
+                  <row>
+                     <cell>:=</cell>
+                     <cell>=</cell>
+                     <cell>.=, ..=</cell>
+                  </row>
+                  <row>
+                     <cell>[</cell>
+                     <cell>(/</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>]</cell>
+                     <cell>/)</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>‘</cell>
+                     <cell>"</cell>
+                     <cell>'('</cell>
+                  </row>
+                  <row>
+                     <cell>’</cell>
+                     <cell>"</cell>
+                     <cell>')'</cell>
+                  </row>
+               </table>
+               <p rend="justify">In the case of the string quotes, the tolerated symbols are required for the inner strings of a nest of strings.</p>
+               <p rend="justify">Actually, the compiler can tolerate many other spellings of word delimiters because of its facility for correcting misspellings.</p>
+               <p rend="justify">The delimiter <hi rend="italic">go to</hi>  is accepted with or without the space between the two words, but it is treated as a single delimiter: 'GOTO' or 'GO TO'.</p>
+               <p rend="justify">The compiler can also accept a 64 character hardware representation: the full set available on the line printer. In preparing programs, overpunching is used on the 48 character keypunch in this case. The table below indicates the keypunching rules in use at Oak Ridge National Laboratory.</p>
+               <table rend="frame" xml:id="Table2">
+                  <row role="label">
+                     <cell rend="start bold">
+                        <hi rend="italic">Reference</hi>
+                     </cell>
+                     <cell rend="start bold">
+                        <hi rend="italic">Hardware</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>&lt;</cell>
+                     <cell>1-8 punch</cell>
+                  </row>
+                  <row>
+                     <cell>≤</cell>
+                     <cell>1-5 punch</cell>
+                  </row>
+                  <row>
+                     <cell>≥</cell>
+                     <cell>1-9 punch</cell>
+                  </row>
+                  <row>
+                     <cell>&gt;</cell>
+                     <cell>2-7 punch</cell>
+                  </row>
+                  <row>
+                     <cell>≠</cell>
+                     <cell>2-6 punch</cell>
+                  </row>
+                  <row>
+                     <cell>∧</cell>
+                     <cell>3-7 punch</cell>
+                  </row>
+                  <row>
+                     <cell>∨</cell>
+                     <cell>2-4 punch</cell>
+                  </row>
+                  <row>
+                     <cell>₁₀</cell>
+                     <cell>1-6 punch</cell>
+                  </row>
+                  <row>
+                     <cell>↑</cell>
+                     <cell>2-5 punch</cell>
+                  </row>
+                  <row>
+                     <cell>÷</cell>
+                     <cell>3-5 punch</cell>
+                  </row>
+                  <row>
+                     <cell>:</cell>
+                     <cell>2-8 punch</cell>
+                  </row>
+                  <row>
+                     <cell>;</cell>
+                     <cell>2-9 punch</cell>
+                  </row>
+                  <row>
+                     <cell>[</cell>
+                     <cell>3-6 punch</cell>
+                  </row>
+                  <row>
+                     <cell>]</cell>
+                     <cell>3-4 punch</cell>
+                  </row>
+               </table>
+               <p rend="justify">The other basic symbols are either in the 48 character set or are replaced by word delimiters as above. The symbol := is treated as two symbols in the 64 character set, and = is punched as such.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>APPENDIX C<lb/>Structure of Procedure Calling Sequence</head>
+               <p rend="justify">The following information is necessary for the user writing a non-Algol procedure to be called from an Algol program. The calling sequence differs from that found in many other languages.</p>
+               <p rend="justify">The first word of the non-Algol procedure must have a simple jump instruction in its upper half, and the exit line is provided by a jump to this first word. The entry automatically causes the proper return address to be placed in the address portion of the first half-word.</p>
+               <p rend="justify">Upon entry to the procedure, index register six contains an address which is used to reference each parameter. To establish linkage with the first parameter, the instruction</p>
+               <p rend="justify">LDA 6 0</p>
+               <p rend="justify">is performed. This brings into the accumulator a word of one of the following types:</p>
+               <p rend="justify">1. SLJ 0 ENA V</p>
+               <p rend="justify">2. SLJ 0 RTJ L</p>
+               <p rend="justify">In case (1), V is the address of the parameter. In case (2), L is the starting address of a piece of coding for computing the address of the parameter and leaving it in the accumulator (if the parameter is an expression, the address in the accumulator will be that of a temporary containing its value). Case (1) always holds if the parameter is a simple variable, string, array identifier, switch identifier, or procedure identifier. In case (2) the same temporary will be used for all the expressions.</p>
+               <p rend="justify">Both cases can be provided for by setting aside two locations for each parameter in the procedure body and placing the instruction</p>
+               <p rend="justify">SLJ *-1</p>
+               <p rend="justify">in the upper half of each second location. Then after</p>
+               <p rend="justify">LDA 6 0</p>
+               <p rend="justify">mentioned above,</p>
+               <p rend="justify">STA RES1,</p>
+               <p rend="justify">where RES1 is the first reserved location for the first parameter, makes the two locations into a closed subroutine. After this, the instruction</p>
+               <p rend="justify">RTJ RES1</p>
+               <p rend="justify">causes the address of the first parameter to be placed in the accumulator anytime it is performed. This accommodates expressions called by name.</p>
+               <p rend="justify">In general, the K<hi rend="sup">th</hi>  parameter is referenced as above, but beginning with</p>
+               <p rend="justify">LDA 6 (K - 1).</p>
+               <p rend="justify">This description does not apply to the standard procedures, each of which has its own special calling sequence.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>APPENDIX D<lb/>Internal Representation of Strings</head>
+               <p rend="justify">The address representing a string is that of the first word of string characters. Each left string quote is represented internally by the word</p>
+               <p rend="justify">00 ... 03454 ,</p>
+               <p rend="justify">and each right string quote by</p>
+               <p rend="justify">00 ... 05474 .</p>
+               <p rend="justify">The characters of the string which are not string quotes are packed in BCD eight characters per word. These words are in the natural order, the first immediately following the left string quote and the last immediately followed by the right string quote. If the last word before a right quote is not full, the rest of that word is filled out with zeros (not BCD blanks).</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>APPENDIX E<lb/>Program Efficiency</head>
+               <p rend="justify">The following information may be of interest to programmers desiring an efficient program:</p>
+               <p rend="justify">1. The FOR statement is defined with more generality than is useful in most programs. In particular, the arithmetic expressions in the FOR clause are allowed to change in value during execution of the FOR statement. The compiler does not attempt to determine which FOR statements make use of this flexibility and treats all of them in the most general way. Therefore, in a statement such as</p>
+               <p rend="justify">
+                  <hi rend="italic">for</hi>  I := 1 <hi rend="italic">step</hi>  M + N <hi rend="italic">until</hi>  abs(A - B) <hi rend="italic">do</hi>  ... ,</p>
+               <p rend="justify">the expression M + N is evaluated twice for each iteration, and the expression abs(A - B) is evaluated once for each iteration. If M, N, A, and B do not change in the loop, this is unnecessary. Such inefficiency can be avoided by programming in a slightly different way. The above example can be written as follows:</p>
+               <p rend="justify">T1 := M + N; T2 := abs(A - B) ;</p>
+               <p rend="justify">
+                  <hi rend="italic">for</hi>  I := 1 <hi rend="italic">step</hi>  T1 <hi rend="italic">until</hi>  T2 <hi rend="italic">do</hi>  ... .</p>
+               <p rend="justify">2. The concept of call by value is a device applied to procedures to eliminate unneeded flexibility in procedure calls. If a parameter having a value is referenced more than once in the procedure body and the flexibility of call by name is not needed, then the program is more efficient if the parameter is included in the value part of the procedure heading. If such a parameter is referenced only once, it is more efficient if it is not included in the value part.</p>
+               <p rend="justify">3. Array identifiers which are parameters should be specified.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>APPENDIX F<lb/>Controversial Features of Algol 60</head>
+               <p rend="justify">A few features of the language have been subject to more than one interpretation. Fortunately, the vast majority of programs will not involve these ambiguities, but for the few that do it will be necessary to know what decisions the compiler makes. This appendix indicates these decisions for the more controversial areas.</p>
+               <p rend="justify">1. Side effects in function designators. The evaluation of primaries in expressions is not strictly left to right allowing for precedence rules. In particular, the value of a variable in an expression is never stored in a temporary simply to preserve its value from change by the evaluation of a function designator in the expression. Otherwise, the evaluation does proceed from left to right and according to precedence rules, including the referencing of formal parameters and the calculation of the address of subscripted variables. All function designators are evaluated in Boolean expressions.</p>
+               <p rend="justify">2. <hi rend="italic">Own</hi>  variables and arrays in procedures. The <hi rend="italic">own</hi>  quantities local to the body of a procedure which is called from more than one point in a program record the history of the procedure as opposed to a history of each point of reference. In other words, only one copy of the <hi rend="italic">own</hi>  quantities is preserved.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>APPENDIX G<lb/>Fortran Subprograms in an Algol Program</head>
+               <p rend="justify">The standard procedures FORTRAN, FORTRANF, FTN, and FTNF are used to call compiled Fortran subroutines and functions from within an Algol program. Each procedure has one parameter which is a call of the desired Fortran subprogram. The Fortran subprogram must be declared <hi rend="italic">external</hi> as described in Section V.</p>
+               <p rend="justify">The use of these procedures simply causes a Fortran calling sequence to be generated by the compiler. Of course the subprogram could be written in CODAP as well as Fortran, provided it is designed to link through a Fortran-type calling sequence.</p>
+               <p rend="justify">The procedures are used as follows:</p>
+               <p rend="justify">FORTRAN—generates a Fortran 62 calling sequence for a subroutine</p>
+               <p rend="justify">FORTRANF—generates a Fortran 62 calling sequence for a function</p>
+               <p rend="justify">FTN—generates a Fortran 63 calling sequence for a subroutine</p>
+               <p rend="justify">FTNF—generates a Fortran 63 calling sequence for a function</p>
+               <p rend="justify">Each of these procedures is standard, i.e., available without declaration. FORTRANF and FTNF are used in expressions.</p>
+               <p rend="justify">Examples:</p>
+               <p rend="justify">x := FTNF (ALPHA(T,A[0,0]))</p>
+               <p rend="justify">FORTRAN (SUB(I + J)) .</p>
+               <p rend="justify">The following restrictions must be observed: labels, procedures with no parameters, standard procedure names, and array names cannot be used as arguments of a call of a Fortran subprogram. However, in the case of an array, the subscripted variable which is the first element of the array will satisfy a Fortran subroutine which has an array name as a formal parameter. The name of the Fortran subprogram cannot be a formal parameter. Literals must be enclosed in string quotes.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Footnotes</head>
+               <p rend="justify">[1]See Appendix A for syntactical definition.</p>
+               <p rend="justify">[2]For definition of Fortran format, see Control Data Fortran-62 Reference Manual.</p>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Acknowledgment</hi>
+                  </head>
+                  <p rend="justify">The author was greatly assisted in the preparation of this document by several persons who have contributed labors or advice to the construction of the compiler. These include N. B. Alexander and A. A. Grau, also K. A. Wolf of Control Data Corporation, and especially R. G. Stueland of Control Data Corporation.</p>
+                  <lg>
+                     <l>ORNL-3460</l>
+                     <l>UC-32—Mathematics and Computers</l>
+                     <l>TID-4500 (23rd ed.)</l>
+                  </lg>
+                  <div type="div4">
+                     <head>INTERNAL DISTRIBUTION</head>
+                     <p rend="justify">1. Biology Library</p>
+                     <p rend="justify">2-4. Central Research Library</p>
+                     <p rend="justify">5. Reactor Division Library</p>
+                     <p rend="justify">6-7. ORNL--Y-12 Technical Library Document Reference Section</p>
+                     <p rend="justify">8-27. Laboratory Records Department</p>
+                     <p rend="justify">28. Laboratory Records, ORNL R.C.</p>
+                     <p rend="justify">29. R. K. Adams</p>
+                     <p rend="justify">30. Nancy Alexander</p>
+                     <p rend="justify">31. E. D. Arnold</p>
+                     <p rend="justify">32. Don Arnurius</p>
+                     <p rend="justify">33. George J. Atta</p>
+                     <p rend="justify">34. Susie E. Atta</p>
+                     <p rend="justify">35. S. J. Ball</p>
+                     <p rend="justify">36. J. E. Bigelow</p>
+                     <p rend="justify">37. R. E. Biggers</p>
+                     <p rend="justify">38. Craig Brandon</p>
+                     <p rend="justify">39. J. C. Bresee</p>
+                     <p rend="justify">40-41. L. L. Bumgarner</p>
+                     <p rend="justify">42. W. R. Burrus</p>
+                     <p rend="justify">43. H. P. Carter</p>
+                     <p rend="justify">44. D. K. Cavin</p>
+                     <p rend="justify">45. Arline Culkowski</p>
+                     <p rend="justify">46. W. Davis, Jr.</p>
+                     <p rend="justify">47. H. J. de Bruin</p>
+                     <p rend="justify">48. P. B. DeNee</p>
+                     <p rend="justify">49. A. C. Downing</p>
+                     <p rend="justify">50. L. C. Emerson</p>
+                     <p rend="justify">51. Margaret Emmett</p>
+                     <p rend="justify">52. R. L. Ferguson</p>
+                     <p rend="justify">53. B. R. Fish</p>
+                     <p rend="justify">54. P. A. Haas</p>
+                     <p rend="justify">55. M. Feliciano</p>
+                     <p rend="justify">56. Barbara Ann Flores</p>
+                     <p rend="justify">57. T. B. Fowler</p>
+                     <p rend="justify">58. R. E. Funderlic (K-25)</p>
+                     <p rend="justify">59. D. A. Gardiner</p>
+                     <p rend="justify">60. C. D. Griffies</p>
+                     <p rend="justify">61. D. A. Griffin</p>
+                     <p rend="justify">62. D. G. Gosslee</p>
+                     <p rend="justify">63. M. T. Harkrider</p>
+                     <p rend="justify">64. M. C. Hill</p>
+                     <p rend="justify">65. A. S. Householder</p>
+                     <p rend="justify">66. W. H. Jordan</p>
+                     <p rend="justify">67. H. W. Joy</p>
+                     <p rend="justify">68. F. B. K. Kam</p>
+                     <p rend="justify">69. George Kidd</p>
+                     <p rend="justify">70. L. J. King</p>
+                     <p rend="justify">71. Ann Klein</p>
+                     <p rend="justify">72. K. A. Kraus</p>
+                     <p rend="justify">73. C. E. Larson</p>
+                     <p rend="justify">74. M. E. LaVerne</p>
+                     <p rend="justify">75. Elmon Leach</p>
+                     <p rend="justify">76. R. P. Leinius</p>
+                     <p rend="justify">77-78. M. P. Lietzke</p>
+                     <p rend="justify">79. Erlie McDaniel</p>
+                     <p rend="justify">80. C. D. Martin</p>
+                     <p rend="justify">81. K. O. Martin</p>
+                     <p rend="justify">82. Betty F. Maskewitz</p>
+                     <p rend="justify">83. R. P. Milford</p>
+                     <p rend="justify">84. F. L. Miller, Jr.</p>
+                     <p rend="justify">85. R. V. Miskell</p>
+                     <p rend="justify">86. S. E. Moore</p>
+                     <p rend="justify">87. J. F. Murdock</p>
+                     <p rend="justify">88. C. W. Nestor, Jr.</p>
+                     <p rend="justify">89. V. K. Pare</p>
+                     <p rend="justify">90. Carl E. Parker</p>
+                     <p rend="justify">91. S. K. Penny</p>
+                     <p rend="justify">92. A. M. Perry</p>
+                     <p rend="justify">93. D. C. Ramsey</p>
+                     <p rend="justify">94. M. T. Robinson</p>
+                     <p rend="justify">95. R. M. Rush</p>
+                     <p rend="justify">96. Y. Shima</p>
+                     <p rend="justify">97. J. E. Simpkins</p>
+                     <p rend="justify">98. M. J. Skinner</p>
+                     <p rend="justify">99. C. D. Scott</p>
+                     <p rend="justify">100. C. D. Susano</p>
+                     <p rend="justify">101. J. A. Swartout</p>
+                     <p rend="justify">102. M. E. Tsagaris</p>
+                     <p rend="justify">103. D. K. Trubey</p>
+                     <p rend="justify">104. J. S. Watson</p>
+                     <p rend="justify">105. A. M. Weinberg</p>
+                     <p rend="justify">106. M. E. Whatley</p>
+                     <p rend="justify">107. C. S. Williams</p>
+                     <p rend="justify">108. H. A. Wright</p>
+                     <p rend="justify">109. Y-12 Central Files</p>
+                     <p rend="justify">110. J. H. Zeigler (K-25)</p>
+                     <p rend="justify">111. H. Zeldes</p>
+                  </div>
+                  <div type="div4">
+                     <head>EXTERNAL DISTRIBUTION</head>
+                     <p rend="justify">112. T. H. Elrod, Control Data Corporation, Computer Division, 3330 Hillview Avenue, Palo Alto, California</p>
+                     <p rend="justify">113. A. A. Grau, Department of Mathematics, Northwestern University, Evanston, Illinois</p>
+                     <p rend="justify">114. R. G. Stueland, Control Data Corporation, Computer Division, 3330 Hillview Avenue, Palo Alto, California</p>
+                     <p rend="justify">115. K. A. Wolf, Control Data Corporation, Programing Systems, 501 Park Avenue, Minneapolis 15, Minnesota</p>
+                     <p rend="justify">116. R. A. Zemlin, Control Data Corporation, Computer Division, 3330 Hillview Avenue, Palo Alto, California</p>
+                     <p rend="justify">117. Research and Development Division, AEC, ORO</p>
+                     <p rend="justify">118-728. Given distribution as shown in TID-4500 (23rd ed.) under Mathematics and Computers category (75 copies--OTS)</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Transcriber’s Notes</head>
+               <p rend="justify">In the HTML version, represented code in a monospaced font, with keywords in <hi rend="italic">boldface</hi> as in the <hi rend="italic">Revised Report</hi>.</p>
+               <p rend="justify">Corrected a few palpable typos.</p>
+               <p rend="justify">Created an original cover image, using elements from the printed book, for free and unrestricted use with this eBook.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
