@@ -1,0 +1,2516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salt-Water Ballads</title>
+            <author>John Masefield</author>
+            <author>JOHN MASEFIELD New York THE MACMILLAN COMPANY 1915</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T11:40:17Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/m/MasefieldJohn-Salt-WaterBallads_2016.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>John Masefield</name>
+               <date>2024-01-04T11:40:17Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Salt-Water Ballads</head>
+         <author>John Masefield</author>
+         <author>JOHN MASEFIELD New York THE MACMILLAN COMPANY 1915</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/m/MasefieldJohn-Salt-WaterBallads_2016.odt</p>
+         <p>SALT-WATER BALLADS<lb/>
+            <lb/>
+            <lb/>
+            <lb/>[colophon not visible]<lb/>THE MACMILLAN COMPANY<lb/>NEW YORK · BOSTON · CHICAGO<lb/>DALLAS · ATLANTA · SAN FRANCISCO<lb/>MACMILLAN &amp; CO., Limited<lb/>LONDON · BOMBAY · CALCUTTA<lb/>MELBOURNE<lb/>THE MACMILLAN CO. OF CANADA, Ltd.<lb/>TORONTO</p>
+         <head>SALT-WATER<lb/>BALLADS</head>
+         <author>BY<lb/>JOHN MASEFIELD<lb/>
+            <lb/>
+            <lb/>New York<lb/>THE MACMILLAN COMPANY<lb/>1915</author>
+         <p>Set up and electrotyped. Published September, 1913<lb/>Reprinted April, 1915.<lb/>
+         </p>
+         <p>Some of this book was written in my boyhood, all of it in my youth; it is now re-issued, much as it was when first published nearly eleven years ago. J. M.<lb/>
+            <lb/>
+            <hi rend="italic">9th June 1913</hi>
+         </p>
+         <pb/>
+         <div type="div1">
+            <head>CONTENTS /x/</head>
+            <table rend="frame" xml:id="Table1">
+               <row>
+                  <cell> </cell>
+                  <cell>PAGE</cell>
+               </row>
+               <row>
+                  <cell>A CONSECRATION</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Not of the princes and prelates with periwigged charioteers.</hi>
+                  </cell>
+                  <cell>1</cell>
+               </row>
+               <row>
+                  <cell>THE YARN OF THE ‘LOCH ACHRAY’</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>The ‘Loch Achray’ was a clipper tall.</cell>
+                  <cell>3</cell>
+               </row>
+               <row>
+                  <cell>SING A SONG O’ SHIPWRECK</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>He lolled on a bollard, a sun-burned son of the sea</cell>
+                  <cell>7</cell>
+               </row>
+               <row>
+                  <cell>BURIAL PARTY</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>‘He’s deader ’n nails,’ the fo’c’s’le said, ‘ ’n’ gone to his long sleep’</cell>
+                  <cell>11</cell>
+               </row>
+               <row>
+                  <cell>BILL</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>He lay dead on the cluttered deck and stared at the cold skies</cell>
+                  <cell>14</cell>
+               </row>
+               <row>
+                  <cell>FEVER SHIP</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>There’ll be no weepin gells ashore when <hi rend="italic">our</hi> ship sails</cell>
+                  <cell>15</cell>
+               </row>
+               <row>
+                  <cell>FEVER-CHILLS</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>He tottered out of the alleyway with cheeks the colour of paste</cell>
+                  <cell>17</cell>
+               </row>
+               <row>
+                  <cell>ONE OF THE BO’SUN’S YARNS</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Loafin’ around in Sailor Town, a-bluin’ o’ my advance</cell>
+                  <cell>19</cell>
+               </row>
+               <row>
+                  <cell>HELLS PAVEMENT</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>‘When I’m discharged in Liverpool ’n’ draws my bit o’ pay’</cell>
+                  <cell>25</cell>
+               </row>
+               <row>
+                  <cell>SEA-CHANGE</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>‘Goneys an’ gullies an’ all o’ the birds o’ the sea’</cell>
+                  <cell>27</cell>
+               </row>
+               <row>
+                  <cell>HARBOUR-BAR</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>All in the feathered palm-tree tops the bright green parrots screech</cell>
+                  <cell>29</cell>
+               </row>
+               <row>
+                  <cell>THE TURN OF THE TIDE</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>An’ Bill can have my sea-boots, Nigger Jim can have my knife</cell>
+                  <cell>31</cell>
+               </row>
+               <row>
+                  <cell>ONE OF WALLY’S YARNS</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>The watch was up on the topsail-yard a-making fast the sail</cell>
+                  <cell>33</cell>
+               </row>
+               <row>
+                  <cell>A VALEDITION (LIVERPOOL DOCKS)</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Is there anything as I can do ashore for you</cell>
+                  <cell>35</cell>
+               </row>
+               <row>
+                  <cell>A NIGHT AT DAGO TOM’S</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Oh yesterday, I t’ink it was, while cruisin’ down the street</cell>
+                  <cell>38</cell>
+               </row>
+               <row>
+                  <cell>‘PORT OF MANY SHIPS’</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>‘It’s a sunny pleasant anchorage, is Kingdom Come’</cell>
+                  <cell>40</cell>
+               </row>
+               <row>
+                  <cell>CAPE HORN GOSPEL—I</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>‘I was in a hooker once,’ said Karlssen</cell>
+                  <cell>42</cell>
+               </row>
+               <row>
+                  <cell>CAPE HORN GOSPEL—II</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Jake was a dirty Dago lad, an’ he gave the skipper chin</cell>
+                  <cell>45</cell>
+               </row>
+               <row>
+                  <cell>MOTHER CAREY</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Mother Carey? She’s the mother o’ the witches</cell>
+                  <cell>48</cell>
+               </row>
+               <row>
+                  <cell>EVENING—REGATTA DAY</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Your nose is a red jelly, your mouth’s a toothless wreck</cell>
+                  <cell>50</cell>
+               </row>
+               <row>
+                  <cell>A VALEDITION</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>We’re bound for blue water where the great winds blow</cell>
+                  <cell>52</cell>
+               </row>
+               <row>
+                  <cell>A PIER-HEAD CHORUS</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Oh, I’ll be chewing salted horse and biting flinty bread</cell>
+                  <cell>54</cell>
+               </row>
+               <row>
+                  <cell>THE GOLDEN CITY OF ST. MARY</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Out beyond the sunset, could I but find the way</cell>
+                  <cell>56</cell>
+               </row>
+               <row>
+                  <cell>TRADE WINDS</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>In the harbour, in the island, in the Spanish Seas</cell>
+                  <cell>58</cell>
+               </row>
+               <row>
+                  <cell>SEA-FEVER</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>I must down to the seas again, to the lonely sea and the sky</cell>
+                  <cell>59</cell>
+               </row>
+               <row>
+                  <cell>A WANDERER’S SONG</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>A wind’s in the heart o’ me, a fire’s in my heels</cell>
+                  <cell>61</cell>
+               </row>
+               <row>
+                  <cell>CARDIGAN BAY</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Clean, green, windy billows notching out the sky</cell>
+                  <cell>63</cell>
+               </row>
+               <row>
+                  <cell>A wind is rustling ‘south and soft’</cell>
+                  <cell>64</cell>
+               </row>
+               <row>
+                  <cell>CHRISTMAS EVE AT SEA</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>A BALLAD OF CAPE ST. VINCENT</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>‘Now, Bill, ain’t it prime to be a-sailin’</cell>
+                  <cell>66</cell>
+               </row>
+               <row>
+                  <cell>THE TARRY BUCCANEER</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>I’m going to be a pirate with a bright brass pivot-gun</cell>
+                  <cell>68</cell>
+               </row>
+               <row>
+                  <cell>A BALLAD OF JOHN SILVER</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>We were schooner-rigged and rakish, with a long and lissome hull</cell>
+                  <cell>71</cell>
+               </row>
+               <row>
+                  <cell>LYRICS FROM ‘THE BUCCANEER’</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>   I.—We are far from sight of the harbour lights</cell>
+                  <cell>74</cell>
+               </row>
+               <row>
+                  <cell> II.—There’s a sea-way somewhere where all day long</cell>
+                  <cell>75</cell>
+               </row>
+               <row>
+                  <cell>III.—The toppling rollers at the harbour mouth</cell>
+                  <cell>76</cell>
+               </row>
+               <row>
+                  <cell>D’AVALOS’ PRAYER</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>When the last sea is sailed and the last shallow charted</cell>
+                  <cell>77</cell>
+               </row>
+               <row>
+                  <cell>THE WEST WIND</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>It’s a warm wind, the west wind, full of birds’ cries</cell>
+                  <cell>79</cell>
+               </row>
+               <row>
+                  <cell>THE GALLEY-ROWERS</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Staggering over the running combers</cell>
+                  <cell>82</cell>
+               </row>
+               <row>
+                  <cell>SORROW OF MYDATH</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Weary the cry of the wind is, weary the sea</cell>
+                  <cell>84</cell>
+               </row>
+               <row>
+                  <cell>VAGABOND</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Dunno a heap about the what an’ why</cell>
+                  <cell>85</cell>
+               </row>
+               <row>
+                  <cell>VISION</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>I have drunken the red wine and flung the dice</cell>
+                  <cell>86</cell>
+               </row>
+               <row>
+                  <cell>SPUNYARN</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Spunyarn, spunyarn, with one to turn the crank</cell>
+                  <cell>88</cell>
+               </row>
+               <row>
+                  <cell>THE DEAD KNIGHT</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>The cleanly rush of the mountain air</cell>
+                  <cell>89</cell>
+               </row>
+               <row>
+                  <cell>PERSONAL</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Tramping at night in the cold and wet, I passed the lighted inn</cell>
+                  <cell>91</cell>
+               </row>
+               <row>
+                  <cell>ON MALVERN HILL</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>A wind is brushing down the clover</cell>
+                  <cell>92</cell>
+               </row>
+               <row>
+                  <cell>TEWKESBURY ROAD</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>It is good to be out on the road, and going one knows not where</cell>
+                  <cell>94</cell>
+               </row>
+               <row>
+                  <cell>ON EATNOR KNOLL</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Silent are the woods, and the dim green boughs are</cell>
+                  <cell>96</cell>
+               </row>
+               <row>
+                  <cell>‘REST HER SOUL, SHE’S DEAD!’</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>She has done with the sea’s sorrow and the world’s way</cell>
+                  <cell>97</cell>
+               </row>
+               <row>
+                  <cell>‘ALL YE THAT PASS BY’</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>On the long dusty ribbon of the long city street</cell>
+                  <cell>99</cell>
+               </row>
+               <row>
+                  <cell>IN MEMORY OF A. P. R.</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Once in the windy wintry weather</cell>
+                  <cell>101</cell>
+               </row>
+               <row>
+                  <cell>TO-MORROW</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Oh yesterday the cutting edge drank thirstily and deep</cell>
+                  <cell>102</cell>
+               </row>
+               <row>
+                  <cell>CAVALIER</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>All the merry kettle-drums are thudding into rhyme</cell>
+                  <cell>104</cell>
+               </row>
+               <row>
+                  <cell>A SONG AT PARTING</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>The tick of the blood is settling slow, my heart will soon be still</cell>
+                  <cell>106</cell>
+               </row>
+               <row>
+                  <cell>GLOSSARY</cell>
+                  <cell>109</cell>
+               </row>
+            </table>
+            <p>‘The mariners are a pleasant people, but little like those in the towns, and they can speak no other language than that used in ships.’</p>
+            <p>
+               <hi rend="italic">The Licenciate Vidriera.</hi>
+               <lb/>
+            </p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Salt-Water Ballads</head>
+            <pb/>
+            <div type="div2">
+               <head>A CONSECRATION</head>
+               <lg>
+                  <l>
+                     <hi rend="italic">NOT of the princes and prelates with periwigged charioteers</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Riding triumphantly laurelled to lap the fat of the years,—</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Rather the scorned—the rejected—the men hemmed in with the spears;</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">The men of the tattered battalion which fights till it dies,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Dazed with the dust of the battle, the din and the cries,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The men with the broken heads and the blood running into their eyes.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Not the be-medalled Commander, beloved of the throne,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Riding cock-horse to parade when the bugles are blown,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">But the lads who carried the koppie and cannot be known.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Not the ruler for me, but the ranker, the tramp of the road,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The slave with the sack on his shoulders pricked on with the goad,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The man with too weighty a burden, too weary a load.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">The sailor, the stoker of steamers, the man with the clout,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The chantyman bent at the halliards putting a tune to the shout,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The drowsy man at the wheel and the tired look-out.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Others may sing of the wine and the wealth and the mirth,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The portly presence of potentates goodly in girth;—</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Mine be the dirt and the dross, the dust and scum of the earth!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Theirs <hi rend="italic">be the music, the colour, the glory, the gold;</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Mine be a handful of ashes, a mouthful of mould.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Of the maimed, of the halt and the blind in the rain and the cold—</hi>
+                  </l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Of these shall my songs be fashioned, my tales be told.</hi>
+                  <lb/>
+               </p>
+               <p rend="justify">Amen.<lb/>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE YARN OF THE ‘LOCH ACHRAY’</head>
+               <lg>
+                  <l>The ‘Loch Achray’ was a clipper tall</l>
+                  <l>With seven-and-twenty hands in all.</l>
+                  <l>Twenty to hand and reef and haul,</l>
+                  <l>A skipper to sail and mates to bawl</l>
+                  <l>‘Tally on to the tackle-fall,</l>
+                  <l>Heave now ’n’ start her, heave ’n’ pawl!’</l>
+                  <l>Hear the yarn of a sailor,</l>
+                  <l>An old yarn learned at sea.</l>
+               </lg>
+               <lg>
+                  <l>Her crew were shipped and they said ‘Farewell,</l>
+                  <l>  So-long, my Tottie, my lovely gell;</l>
+                  <l>  We sail to-day if we fetch to hell,</l>
+                  <l>  It’s time we tackled the wheel a spell.’</l>
+                  <l>  Hear the yarn of a sailor,</l>
+                  <l>  An old yarn learned at sea.</l>
+               </lg>
+               <lg>
+                  <l>The dockside loafers talked on the quay</l>
+                  <l>  The day that she towed down to sea:</l>
+                  <l>  ‘Lord, what a handsome ship she be!</l>
+                  <l>  Cheer her, sonny boys, three times three!’</l>
+                  <l>  And the dockside loafers gave her a shout</l>
+                  <l>  As the red-funnelled tug-boat towed her out;</l>
+                  <l>  They gave her a cheer as the custom is,</l>
+                  <l>  And the crew yelled ‘Take our loves to Liz—</l>
+                  <l>  Three cheers, bullies, for old Pier Head</l>
+                  <l>  ’N’ the bloody stay-at-homes!’ they said.</l>
+                  <l>  Hear the yarn of a sailor</l>
+                  <l>  An old yarn learned at sea.</l>
+               </lg>
+               <lg>
+                  <l>In the grey of the coming on of night</l>
+                  <l>  She dropped the tug at the Tuskar Light,</l>
+                  <l>  ’N’ the topsails went to the topmast head</l>
+                  <l>  To a chorus that fairly awoke the dead.</l>
+                  <l>  She trimmed her yards and slanted South</l>
+                  <l>  With her royals set and a bone in her mouth.</l>
+                  <l>  Hear the yarn of a sailor,</l>
+                  <l>  An old yarn learned at sea.</l>
+               </lg>
+               <lg>
+                  <l>She crossed the Line and all went well,</l>
+                  <l>  They ate, they slept, and they struck the bell</l>
+                  <l>  And I give you a gospel truth when I state</l>
+                  <l>  The crowd didn’t find any fault with the Mate,</l>
+                  <l>  But one night off the River Plate.</l>
+                  <l>  Hear the yarn of a sailor,</l>
+                  <l>  An old yarn learned at sea.</l>
+               </lg>
+               <lg>
+                  <l>It freshened up till it blew like thunder</l>
+                  <l>  And burrowed her deep, lee-scuppers under.</l>
+                  <l>  The old man said, ‘I mean to hang on</l>
+                  <l>  Till her canvas busts or her sticks are gone’—</l>
+                  <l>  Which the blushing looney did, till at last</l>
+                  <l>  Overboard went her mizzen-mast.</l>
+                  <l>  Hear the yarn of a sailor,</l>
+                  <l>  An old yarn learned at sea.</l>
+               </lg>
+               <lg>
+                  <l>Then a fierce squall struck the ‘Loch Achray’</l>
+                  <l>  And bowed her down to her water-way;</l>
+                  <l>  Her main-shrouds gave and her forestay,</l>
+                  <l>  And a green sea carried her wheel away;</l>
+                  <l>  Ere the watch below had time to dress</l>
+                  <l>  She was cluttered up in a blushing mess.</l>
+                  <l>  Hear the yarn of a sailor,</l>
+                  <l>  An old yarn learned at sea.</l>
+               </lg>
+               <lg>
+                  <l>She couldn’t lay-to nor yet pay-off,</l>
+                  <l>  And she got swept clean in the bloody trough;</l>
+                  <l>  Her masts were gone, and afore you knowed</l>
+                  <l>  She filled by the head and down she goed.</l>
+                  <l>  Her crew made seven-and-twenty dishes</l>
+                  <l>  For the big jack-sharks and the little fishes,</l>
+                  <l>  And over their bones the water swishes.</l>
+                  <l>  Hear the yarn of a sailor,</l>
+                  <l>  An old yarn learned at sea.</l>
+               </lg>
+               <lg>
+                  <l>The wives and girls they watch in the rain</l>
+                  <l>  For a ship as won’t come home again.</l>
+                  <l>  ‘I reckon it’s them head-winds,’ they say,</l>
+                  <l>  ‘She’ll be home to-morrow, if not to-day.</l>
+                  <l>  I’ll just nip home ’n’ I’ll air the sheets</l>
+                  <l>  ’N’ buy the fixins ’n’ cook the meats</l>
+                  <l>  As my man likes ’n’ as my man eats.’</l>
+               </lg>
+               <lg>
+                  <l>So home they goes by the windy streets,</l>
+                  <l>  Thinking their men are homeward bound</l>
+                  <l>  With anchors hungry for English ground,</l>
+                  <l>  And the bloody fun of it is, they’re drowned!</l>
+                  <l>  Hear the yarn of a sailor,</l>
+                  <l>  An old yarn learned at sea.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SING A SONG O’ SHIPWRECK</head>
+               <lg>
+                  <l>He lolled on a bollard, a sun-burned son of the sea,</l>
+                  <l>With ear-rings of brass and a jumper of dungaree,</l>
+                  <l>‘ ’N’ many a queer lash-up have I seen,’ says he.</l>
+               </lg>
+               <lg>
+                  <l>‘But the toughest hooray o’ the racket,’ he says, ‘I’ll be sworn,</l>
+                  <l>  ’N’ the roughest traverse I worked since the day I was born,</l>
+                  <l>  Was a packet o’ Sailor’s Delight as I scoffed in the seas o’ the Horn.</l>
+               </lg>
+               <lg>
+                  <l>‘All day long in the calm she had rolled to the swell,</l>
+                  <l>  Rolling through fifty degrees till she clattered her bell;</l>
+                  <l>  ’N’ then came snow, ’n’ a squall, ’n’ a wind was colder ’n hell.</l>
+               </lg>
+               <lg>
+                  <l>‘It blew like the Bull of Barney, a beast of a breeze,</l>
+                  <l>  ’N’ over the rail come the cold green lollopin’ seas,</l>
+                  <l>  ’N’ she went ashore at the dawn on the Ramirez.</l>
+               </lg>
+               <lg>
+                  <l>‘She was settlin’ down by the stern when I got to the deck,</l>
+                  <l>  Her waist was a smother o’ sea as was up to your neck,</l>
+                  <l>  ’N’ her masts were gone, ’n’ her rails, ’n’ she was a wreck.</l>
+               </lg>
+               <lg>
+                  <l>‘We rigged up a tackle, a purchase, a sort of a shift,</l>
+                  <l>  To hoist the boats off o’ the deck-house and get them adrift,</l>
+                  <l>  When her stern gives a sickenin’ settle, her bows give a lift,</l>
+               </lg>
+               <lg>
+                  <l>‘ ’N’ comes a crash of green water as sets me afloat</l>
+                  <l>  With freezing fingers clutching the keel of a boat—</l>
+                  <l>  The bottom-up whaler—’n’ that was the juice of a note.</l>
+               </lg>
+               <lg>
+                  <l>‘Well, I clambers acrost o’ the keel ’n’ I gets me secured,</l>
+                  <l>  When I sees a face in the white o’ the smother to looard,</l>
+                  <l>  So I gives ’im a ’and, ’n’ be shot if it wasn’t the stooard!</l>
+               </lg>
+               <lg>
+                  <l>‘So he climbs up forrard o’ me, ’n’ “thanky,” a’ says,</l>
+                  <l>  ’N’ we sits ’n’ shivers ’n’ freeze to the bone wi’ the sprays,</l>
+                  <l>  ’N’ <hi rend="italic">I</hi>  sings “Abel Brown,” ’n’ the stooard he prays.</l>
+               </lg>
+               <lg>
+                  <l>‘Wi’ never a dollop to sup nor a morsel to bite,</l>
+                  <l>  The lips of us blue with the cold ’n’ the heads of us light,</l>
+                  <l>  Adrift in a Cape Horn sea for a day ’n’ a night.</l>
+               </lg>
+               <lg>
+                  <l>‘ ’N’ then the stooard goes dotty ’n’ puts a tune to his lip,</l>
+                  <l>  ’N’ moans about Love like a dern old hen wi’ the pip—</l>
+                  <l>  (I sets no store upon stooards—they ain’t no use on a ship).</l>
+               </lg>
+               <lg>
+                  <l>‘ ’N’ “mother,” the looney cackles, “come ’n’ put Willy to bed!”</l>
+                  <l>  So I says “Dry up, or I’ll fetch you a crack o’ the head”;</l>
+                  <l>  “The kettle’s a-bilin’,” he answers, “ ’n’ I’ll go butter the bread.”</l>
+               </lg>
+               <lg>
+                  <l>‘ ’N’ he falls to singin’ some slush about clinkin’ a can,</l>
+                  <l>  ’N’ at last he dies, so he does, ’n’ I tells you, Jan,</l>
+                  <l>  I was glad when he did, for he weren’t no fun for a man.</l>
+               </lg>
+               <lg>
+                  <l>‘So he falls forrard, he does, ’n’ he closes his eye,</l>
+                  <l>  ’N’ quiet he lays ’n’ quiet I leaves him lie,</l>
+                  <l>  ’N’ I was alone with his corp, ’n’ the cold green sea and the sky.</l>
+               </lg>
+               <lg>
+                  <l>‘ ’N’ then I dithers, I guess, for the next as I knew</l>
+                  <l>  Was the voice of a mate as was sayin’ to one of the crew,</l>
+                  <l>  “Easy, my son, wi’ the brandy, be shot if he ain’t comin’-to!” ’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BURIAL PARTY</head>
+               <lg>
+                  <l>‘He’s deader ’n nails,’ the fo’c’s’le said, ‘ ’n’ gone to his long sleep’;</l>
+                  <l>‘ ’N’ about his corp,’ said Tom to Dan, ‘d’ye think his corp’ll keep</l>
+                  <l>Till the day’s done, ’n’ the work’s through, ’n’ the ebb’s upon the neap?’</l>
+               </lg>
+               <lg>
+                  <l>‘He’s deader ’n nails,’ said Dan to Tom, ‘ ’n’ I wish his sperrit j’y;</l>
+                  <l>  He spat straight ’n’ he steered true, but listen to me, say I,</l>
+                  <l>  Take ’n’ cover ’n’ bury him now, ’n’ I’ll take ’n’ tell you why.</l>
+               </lg>
+               <lg>
+                  <l>‘It’s a rummy rig of a guffy’s yarn, ’n’ the juice of a rummy note,</l>
+                  <l>  But if you buries a corp at night, it takes ’n’ keeps afloat,</l>
+                  <l>  For its bloody soul’s afraid o’ the dark ’n’ sticks within the throat.</l>
+               </lg>
+               <lg>
+                  <l>‘ ’N’ all the night till the grey o’ the dawn the dead ’un has to swim</l>
+                  <l>  With a blue ’n’ beastly Will o’ the Wisp a-burnin’ over him,</l>
+                  <l>  With a herring, maybe, a-scoffin’ a toe or a shark a-chewin’ a limb.</l>
+               </lg>
+               <lg>
+                  <l>‘ ’N’ all the night the shiverin’ corp it has to swim the sea,</l>
+                  <l>  With its shudderin’ soul inside the throat (where a soul’s no right to be),</l>
+                  <l>  Till the sky’s grey ’n’ the dawn’s clear, ’n’ then the sperrit’s free.</l>
+               </lg>
+               <lg>
+                  <l>‘Now Joe was a man was right as rain. I’m sort of sore for Joe,</l>
+                  <l>  ’N’ if we bury him durin’ the day, his soul can take ’n’ go;</l>
+                  <l>  So we’ll dump his corp when the bell strikes ’n’ we can get below.</l>
+               </lg>
+               <lg>
+                  <l>‘I’d fairly hate for him to swim in a blue ’n’ beastly light,</l>
+                  <l>  With his shudderin’ soul inside of him a-feelin’ the fishes bite,</l>
+                  <l>  So over he goes at noon, say I, ’n’ he shall sleep to-night.’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BILL</head>
+               <lg>
+                  <l>He lay dead on the cluttered deck and stared at the cold skies,</l>
+                  <l>With never a friend to mourn for him nor a hand to close his eyes:</l>
+                  <l>‘Bill, he’s dead,’ was all they said; ‘he’s dead, ’n’ there he lies.’</l>
+               </lg>
+               <lg>
+                  <l>The mate came forrard at seven bells and spat across the rail:</l>
+                  <l>  ‘Just lash him up wi’ some holystone in a clout o’ rotten sail,</l>
+                  <l>  ’N’, rot ye, get a gait on ye, ye’re slower’n a bloody snail!’</l>
+               </lg>
+               <lg>
+                  <l>When the rising moon was a copper disc and the sea was a strip of steel,</l>
+                  <l>  We dumped him down to the swaying weeds ten fathom beneath the keel.</l>
+                  <l>  ‘It’s rough about Bill,’ the fo’c’s’le said, ‘we’ll have to stand his wheel.’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FEVER SHIP</head>
+               <lg>
+                  <l>There’ll be no weepin’ gells ashore when <hi rend="italic">our</hi> ship sails,</l>
+                  <l>Nor no crews cheerin’ us, standin’ at the rails,</l>
+                  <l>’N’ no Blue Peter a-foul the royal stay,</l>
+                  <l>For we’ve the Yellow Fever—Harry died to-day.—</l>
+                  <l>It’s cruel when a fo’c’s’le gets the fever!</l>
+               </lg>
+               <lg>
+                  <l>’N’ Dick has got the fever-shakes, ’n’ look what I was told</l>
+                  <l>  (I went to get a sack for him to keep him from the cold):</l>
+                  <l>  ‘Sir, can I have a sack?’ I says, ‘for Dick ’e’s fit to die.’</l>
+                  <l>  ‘Oh, sack be shot!’ the skipper says, ‘jest let the rotter lie!’—</l>
+                  <l>  It’s cruel when a fo’c’s’le gets the fever!</l>
+               </lg>
+               <lg>
+                  <l>It’s a cruel port is Santos, and a hungry land,</l>
+                  <l>  With rows o’ graves already dug in yonder strip of sand,</l>
+                  <l>  ’N’ Dick is hollerin’ up the hatch, ’e says ’e’s goin’ blue,</l>
+                  <l>  His pore teeth are chattering, ’n’ what’s a man to do?—</l>
+                  <l>  It’s cruel when a fo’c’s’le gets the fever!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FEVER-CHILLS</head>
+               <lg>
+                  <l>He tottered out of the alleyway with cheeks the colour of paste,</l>
+                  <l>And shivered a spell and mopped his brow with a clout of cotton waste:</l>
+                  <l>‘I’ve a lick of fever-chills,’ he said, ‘ ’n’ my inside it’s green,</l>
+                  <l>But I’d be as right as rain,’ he said, ‘if I had some quinine,—</l>
+                  <l>But there ain’t no quinine for us poor sailor-men.</l>
+               </lg>
+               <lg>
+                  <l>‘But them there passengers,’ he said, ‘if they gets fever-chills,</l>
+                  <l>  There’s brimmin’ buckets o’ quinine for them, ’n’ bulgin’ crates o’ pills,</l>
+                  <l>  ’N’ a doctor with Latin ’n’ drugs ’n’ all—enough to sink a town,</l>
+                  <l>  ’N’ they lies quiet in their blushin’ bunks ’n’ mops their gruel down,—</l>
+                  <l>  But their ain’t none o’ them fine ways for us poor sailor-men.</l>
+               </lg>
+               <lg>
+                  <l>‘But the Chief comes forrard ’n’ he says, says he, “I gives you a straight tip:</l>
+                  <l>  Come none o’ your Cape Horn fever lays aboard o’ this yer ship.</l>
+                  <l>  On wi’ your rags o’ duds, my son, ’n’ aft, ’n’ down the hole:</l>
+                  <l>  The best cure known for fever-chills is shovelling bloody coal.”</l>
+                  <l>  It’s <hi rend="italic">hard</hi>, my son, that’s what it is, for us poor sailor-men.’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ONE OF THE BO’SUN’S YARNS</head>
+               <lg>
+                  <l>Loafin’ around in Sailor Town, a-bluin’ o’ my advance,</l>
+                  <l>I met a derelict donkeyman who led me a merry dance,</l>
+                  <l>Till he landed me ’n’ bleached me fair in the bar of a rum-saloon,</l>
+                  <l>’N’ there he spun me a juice of a yarn to this-yer brand of tune.</l>
+               </lg>
+               <lg>
+                  <l>‘It’s a solemn gospel, mate,’ he says, ‘but a man as ships aboard</l>
+                  <l>  A steamer-tramp, he gets his whack of the wonders of the Lord—</l>
+                  <l>  Such as roaches crawlin’ over his bunk, ’n’ snakes inside his bread,</l>
+                  <l>  And work by night and work by day enough to strike him dead.</l>
+               </lg>
+               <lg>
+                  <l>‘But that there’s by the way,’ says he; ‘the yarn I’m goin’ to spin</l>
+                  <l>  Is about myself ’n’ the life I led in the last ship I was in,</l>
+                  <l>  The “Esmeralda,” casual tramp, from Hull towards the Hook,</l>
+                  <l>  Wi’ one o’ the brand o’ Cain for mate ’n’ a human mistake for cook.</l>
+               </lg>
+               <lg>
+                  <l>‘We’d a week or so of dippin’ around in a wind from outer hell,</l>
+                  <l>  With a fathom or more of broken sea at large in the forrard well,</l>
+                  <l>  Till our boats were bashed and bust and broke and gone to Davy Jones,</l>
+                  <l>  ’N’ then come white Atlantic fog as chilled us to the bones.</l>
+               </lg>
+               <lg>
+                  <l>‘We slowed her down and started the horn and watch and watch about,</l>
+                  <l>  We froze the marrow in all our bones a-keepin’ a good look-out,</l>
+                  <l>  ’N’ the ninth night out, in the middle watch, I woke from a pleasant dream,</l>
+                  <l>  With the smash of a steamer ramming our plates a point abaft the beam.</l>
+               </lg>
+               <lg>
+                  <l>‘ ’Twas cold and dark when I fetched the deck, dirty ’n’ cold ’n’ thick,</l>
+                  <l>  ’N’ there was a feel in the way she rode as fairly turned me sick;—</l>
+                  <l>  She was settlin’, listin’ quickly down, ’n’ I heard the mates a-cursin’,</l>
+                  <l>  ’N’ I heard the wash ’n’ the grumble-grunt of a steamer’s screws reversin’.</l>
+               </lg>
+               <lg>
+                  <l>‘She was leavin’ us, mate, to sink or swim, ’n’ the words we took ’n’ said</l>
+                  <l>  They turned the port-light grassy-green ’n’ the starboard rosy-red.</l>
+                  <l>  We give her a hot perpetual taste of the singeing curse of Cain,</l>
+                  <l>  As we heard her back ’n’ clear the wreck ’n’ off to her course again.</l>
+               </lg>
+               <lg>
+                  <l>‘Then the mate came dancin’ on to the scene, ’n’ he says, “Now quit yer chin,</l>
+                  <l>  Or I’ll smash yer skulls, so help me James, ’n’ let some wisdom in.</l>
+                  <l>  Ye dodderin’ scum o’ the slums,” he says, “are ye drunk or blazin’ daft?</l>
+                  <l>  If ye wish to save yer sickly hides, ye’d best contrive a raft.”</l>
+               </lg>
+               <lg>
+                  <l>‘So he spoke us fair and turned us to, ’n’ we wrought wi’ tooth and nail</l>
+                  <l>  Wi’ scantling, casks, ’n’ coops ’n’ ropes, ’n’ boiler-plates ’n’ sail,</l>
+                  <l>  ’N’ all the while it were dark ’n’ cold ’n’ dirty as it could be,</l>
+                  <l>  ’N’ she was soggy ’n’ settlin’ down to a berth beneath the sea.</l>
+               </lg>
+               <lg>
+                  <l>‘Soggy she grew, ’n’ she didn’t lift, ’n’ she listed more ’n’ more,</l>
+                  <l>  Till her bell struck ’n’ her boiler-pipes began to wheeze ’n’ snore;</l>
+                  <l>  She settled, settled, listed, heeled, ’n’ then may I be cust,</l>
+                  <l>  If her sneezin’, wheezin’ boiler-pipes did not begin to bust!</l>
+               </lg>
+               <lg>
+                  <l>‘ ’N’ then the stars began to shine, ’n’ the birds began to sing,</l>
+                  <l>  ’N’ the next I knowed I was bandaged up ’n’ my arm were in a sling,</l>
+                  <l>  ’N’ a swab in uniform were there, ’n’ “Well,” says he, “ ’n’ how</l>
+                  <l>  Are yer arms, ’n’ legs, ’n’ liver, ’n’ lungs, ’n’ bones a-feelin’ now?”</l>
+               </lg>
+               <lg>
+                  <l>“Where am I?” says I, ’n’ he says, says he, a-cantin’ to the roll,</l>
+                  <l>  “You’re aboard the R.M.S. ‘Marie’ in the after Glory-Hole,</l>
+                  <l>  ’N’ you’ve had a shave, if you wish to know, from the port o’ Kingdom Come.</l>
+                  <l>  Drink this,” he says, ’n’ I takes ’n’ drinks, ’n’ s’elp me, it was rum!</l>
+               </lg>
+               <lg>
+                  <l>‘Seven survivors seen ’n’ saved of the “Esmeralda’s” crowd,</l>
+                  <l>  Taken aboard the sweet “Marie” ’n’ bunked ’n’ treated proud,</l>
+                  <l>  ’N’ D.B.S.’d to Mersey Docks (’n’ a joyful trip we made),</l>
+                  <l>  ’N’ there the skipper were given a purse by a grateful Board of Trade.</l>
+               </lg>
+               <lg>
+                  <l>‘That’s the end o’ the yarn,’ he says, ’n’ he takes ’n’ wipes his lips,</l>
+                  <l>  Them’s the works o’ the Lord you sees in steam ’n’ sailin’ ships,—</l>
+                  <l>  Rocks ’n’ fogs ’n’ shatterin’ seas ’n’ breakers right ahead,</l>
+                  <l>  ’N’ work o’ nights ’n’ work o’ days enough to strike you dead.’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HELL’S PAVEMENT</head>
+               <lg>
+                  <l>‘When I’m discharged in Liverpool ’n’ draws my bit o’ pay,</l>
+                  <l>  I won’t come to sea no more.</l>
+                  <l>  I’ll court a pretty little lass ’n’ have a weddin’ day,</l>
+                  <l>  ’N’ settle somewhere down ashore.</l>
+                  <l>  I’ll never fare to sea again a-temptin’ Davy Jones,</l>
+                  <l>  A-hearkening to the cruel sharks a-hungerin’ for my bones;</l>
+                  <l>  I’ll run a blushin’ dairy-farm or go a-crackin’ stones,</l>
+                  <l>  Or buy ’n’ keep a little liquor-store,’—</l>
+                  <l>  So he said.</l>
+               </lg>
+               <lg>
+                  <l>They towed her in to Liverpool, we made the hooker fast,</l>
+                  <l>  And the copper-bound officials paid the crew,</l>
+                  <l>  And Billy drew his money, but the money didn’t last,</l>
+                  <l>  For he painted the alongshore blue,—</l>
+                  <l>  It was rum for Poll, and rum for Nan, and gin for Jolly Jack.</l>
+                  <l>  He shipped a week later in the clothes upon his back,</l>
+                  <l>  He had to pinch a little straw, he had to beg a sack</l>
+                  <l>  To sleep on, when his watch was through,—</l>
+                  <l>  So he did.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SEA-CHANGE</head>
+               <lg>
+                  <l>‘Goneys an’ gullies an’ all o’ the birds o’ the sea,</l>
+                  <l>They ain’t no birds, not really,’ said Billy the Dane.</l>
+                  <l>Not mollies, nor gullies, nor goneys at all,’ said he,</l>
+                  <l>‘But simply the sperrits of mariners livin’ again.</l>
+               </lg>
+               <lg>
+                  <l>‘Them birds goin’ fishin’ is nothin’ but souls o’ the drowned,</l>
+                  <l>  Souls o’ the drowned an’ the kicked as are never no more;</l>
+                  <l>  An’ that there haughty old albatross cruisin’ around,</l>
+                  <l>  Belike he’s Admiral Nelson or Admiral Noah.</l>
+               </lg>
+               <lg>
+                  <l>An’ merry’s the life they are living. They settle and dip,</l>
+                  <l>  They fishes, they never stands watches, they waggle their wings;</l>
+                  <l>  When a ship comes by, they fly to look at the ship</l>
+                  <l>  To see how the nowaday mariners manages things.</l>
+               </lg>
+               <lg>
+                  <l>‘When freezing aloft in a snorter, I tell you I wish—</l>
+                  <l>  (Though maybe it ain’t like a Christian)—I wish I could be</l>
+                  <l>  A haughty old copper-bound albatross dipping for fish</l>
+                  <l>  And coming the proud over all o’ the birds o’ the sea.’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HARBOUR-BAR</head>
+               <lg>
+                  <l>All in the feathered palm-tree tops the bright green parrots screech,</l>
+                  <l>The white line of the running surf goes booming down the beach,</l>
+                  <l>But I shall never see them, though the land lies close aboard,</l>
+                  <l>I’ve shaped the last long silent tack as takes one to the Lord.</l>
+               </lg>
+               <lg>
+                  <l>Give me the Scripters, Jakey, ’n’ my pipe atween my lips,</l>
+                  <l>  I’m bound for somewhere south and far beyond the track of ships;</l>
+                  <l>  I’ve run my rags of colours up and clinched them to the stay,</l>
+                  <l>  And God the pilot’s come aboard to bring me up the bay.</l>
+               </lg>
+               <lg>
+                  <l>You’ll mainsail-haul my bits o’ things when Christ has took my soul,</l>
+                  <l>  ’N’ you’ll lay me quiet somewhere at the landward end the Mole,</l>
+                  <l>  Where I shall hear the steamers’ sterns a-squattering from the heave,</l>
+                  <l>  And the topsail blocks a-piping when a rope-yarn fouls the sheave.</l>
+               </lg>
+               <lg>
+                  <l>Give me a sup of lime-juice; Lord, I’m drifting in to port,</l>
+                  <l>  The landfall lies to windward and the wind comes light and short,</l>
+                  <l>  And I’m for signing off and out to take my watch below,</l>
+                  <l>  And—prop a fellow, Jakey—Lord, it’s time for me to go!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE TURN OF THE TIDE</head>
+               <lg>
+                  <l>An’ Bill can have my sea-boots, Nigger Jim can have my knife,</l>
+                  <l>You can divvy up the dungarees an’ bed,</l>
+                  <l>An’ the ship can have my blessing, an’ the Lord can have my life,</l>
+                  <l>An’ sails an’ fish my body when I’m dead.</l>
+               </lg>
+               <lg>
+                  <l>An’ dreaming down below there in the tangled greens an’ blues,</l>
+                  <l>  Where the sunlight shudders golden round about,</l>
+                  <l>  I shall hear the ships complainin’ an’ the cursin’ of the crews,</l>
+                  <l>  An’ be sorry when the watch is tumbled out.</l>
+               </lg>
+               <lg>
+                  <l>I shall hear them hilly-hollying the weather crojick brace,</l>
+                  <l>  And the sucking of the wash about the hull;</l>
+                  <l>  When they chanty up the topsail I’ll be hauling in my place,</l>
+                  <l>  For my soul will follow seawards like a gull.</l>
+               </lg>
+               <lg>
+                  <l>I shall hear the blocks a-grunting in the bumpkins over-side,</l>
+                  <l>  An’ the slatting of the storm-sails on the stay,</l>
+                  <l>  An’ the rippling of the catspaw at the making of the tide,</l>
+                  <l>  An’ the swirl and splash of porpoises at play.</l>
+               </lg>
+               <lg>
+                  <l>An’ Bill can have my sea-boots, Nigger Jim can have my knife,</l>
+                  <l>  You can divvy up the whack I haven’t scofft,</l>
+                  <l>  An’ the ship can have my blessing and the Lord can have my life,</l>
+                  <l>  For it’s time I quit the deck and went aloft.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ONE OF WALLY’S YARNS</head>
+               <lg>
+                  <l>The watch was up on the topsail-yard a-making fast the sail,</l>
+                  <l>’N’ Joe was swiggin’ his gasket taut, ’n’ I felt the stirrup <hi rend="italic">give</hi>,</l>
+                  <l>’N’ he dropped sheer from the tops’l-yard ’n’ barely cleared the rail,</l>
+                  <l>’N’ o’ course, we bein’ aloft, <hi rend="italic">we</hi> couldn’t do nothin’—</l>
+                  <l>We couldn’t lower a boat and go a-lookin’ for him,</l>
+                  <l>For it blew hard ’n’ there was sech a sea runnin’</l>
+                  <l>That no boat wouldn’t live.</l>
+               </lg>
+               <lg>
+                  <l>I seed him rise in the white o’ the wake, I seed him lift a hand</l>
+                  <l>  (’N’ him in his oilskin suit ’n’ all), I heard him lift a cry;</l>
+                  <l>  ’N’ there was his place on the yard ’n’ all, ’n’ the stirrup’s busted strand.</l>
+                  <l>  ’N’ the old man said there’s a cruel old sea runnin’,</l>
+                  <l>  A cold green Barney’s Bull of a sea runnin’;</l>
+                  <l>  It’s hard, but I ain’t agoin’ to let a boat be lowered:</l>
+                  <l>  So we left him there to die.</l>
+               </lg>
+               <lg>
+                  <l>He couldn’t have kept afloat for long an’ him lashed up ’n’ all,</l>
+                  <l>  ’N’ we couldn’t see him for long, for the sea was blurred with the sleet ’n’ snow,</l>
+                  <l>  ’N’ we couldn’t think of him much because o’ the snortin’, screamin’ squall.</l>
+                  <l>  There was a hand less at the halliards ’n’ the braces,</l>
+                  <l>  ’N’ a name less when the watch spoke to the muster-roll,</l>
+                  <l>  ’N’ a empty bunk ’n’ a pannikin as wasn’t wanted</l>
+                  <l>  When the watch went below.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A VALEDICTION (LIVERPOOL DOCKS)</head>
+               <p rend="justify">A CRIMP. A DRUNKEN SAILOR.<lb/>
+               </p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Is there anything as I can do ashore for you</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">When you’ve dropped down the tide?</hi>—</l>
+               </lg>
+               <lg>
+                  <l>You can take ’n’ tell Nan I’m goin’ about the world agen</l>
+                  <l>  ’N’ that the world’s wide.</l>
+                  <l>  ’N’ tell her that there ain’t no postal service</l>
+                  <l>  Not down on the blue sea.</l>
+                  <l>  ’N’ tell her that she’d best not keep her fires alight</l>
+                  <l>  Nor set up late for me.</l>
+                  <l>  ’N’ tell her I’ll have forgotten all about her</l>
+                  <l>  Afore we cross the Line.</l>
+                  <l>  ’N’ tell her that the dollars of any other sailor-man</l>
+                  <l>  Is as good red gold as mine.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Is there anything as I can do aboard for you</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Afore the tow-rope’s taut?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I’m new to this packet and all the ways of her,</l>
+                  <l>  ’N’ I don’t know of aught;</l>
+                  <l>  But I knows as I’m goin’ down to the seas agen</l>
+                  <l>  ’N’ the seas are salt ’n’ drear;</l>
+                  <l>  But I knows as all the doin’ as you’re man enough for</l>
+                  <l>  Won’t make them lager-beer.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">’N’ ain’t there</hi>  nothin’ <hi rend="italic">as I can do ashore for you</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">When you’ve got fair afloat?</hi>—</l>
+               </lg>
+               <lg>
+                  <l>You can buy a farm with the dollars as you’ve done me of</l>
+                  <l>  ’N’ cash my advance-note.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Is there anythin’ you’d fancy for your breakfastin’</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">When you’re home across Mersey Bar?</hi>—</l>
+               </lg>
+               <lg>
+                  <l>I wants a red herrin’ n’ a prairie oyster</l>
+                  <l>  ’N’ a bucket of Three Star,</l>
+                  <l>  ’N’ a gell with redder lips than Polly has got,</l>
+                  <l>  ’N’ prettier ways than Nan——</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Well, so-long, Billy, ’n’ a spankin’ heavy pay-day to you!</hi>
+                  <lb/>
+               </p>
+               <p rend="justify">So-long, my fancy man!<lb/>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A NIGHT AT DAGO TOM’S</head>
+               <lg>
+                  <l>Oh yesterday, I t’ink it was, while cruisin’ down the street,</l>
+                  <l>I met with Bill.—‘Hullo,’ he says, ‘let’s give the girls a treat.’</l>
+                  <l>We’d red bandanas round our necks ’n’ our shrouds new rattled down,</l>
+                  <l>So we filled a couple of Santy Cruz and cleared for Sailor Town.</l>
+               </lg>
+               <lg>
+                  <l>We scooted south with a press of sail till we fetched to a caboose,</l>
+                  <l>  The ‘Sailor’s Rest,’ by Dago Tom, alongside ‘Paddy’s Goose.’</l>
+                  <l>  Red curtains to the windies, ay, ’n’ white sand to the floor,</l>
+                  <l>  And an old blind fiddler liltin’ the tune of ‘Lowlands no more.’</l>
+               </lg>
+               <lg>
+                  <l>He played the ‘Shaking of the Sheets’ ’n’ the couples did advance,</l>
+                  <l>  Bowing, stamping, curtsying, in the shuffling of the dance;</l>
+                  <l>  The old floor rocked and quivered, so it struck beholders dumb,</l>
+                  <l>  ’N’ arterwards there was sweet songs ’n’ good Jamaikey rum.</l>
+               </lg>
+               <lg>
+                  <l>’N’ there was many a merry yarn of many a merry spree</l>
+                  <l>  Aboard the ships with royals set a-sailing on the sea,</l>
+                  <l>  Yarns of the hooker ‘Spindrift,’ her as had the clipper-bow,—</l>
+                  <l>  ‘There ain’t no ships,’ says Bill to me, ‘like that there hooker now.’</l>
+               </lg>
+               <lg>
+                  <l>When the old blind fiddler played the tune of ‘Pipe the Watch Below,’</l>
+                  <l>  The skew-eyed landlord dowsed the glim and bade us ‘stamp ’n’ go,’</l>
+                  <l>  ’N’ we linked it home, did Bill ’n’ I, adown the scattered streets,</l>
+                  <l>  Until we fetched to Land o’ Nod atween the linen sheets.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>‘PORT OF MANY SHIPS’</head>
+               <lg>
+                  <l>‘It’s a sunny pleasant anchorage, is Kingdom Come,</l>
+                  <l>Where crews is always layin’ aft for double-tots o’ rum,</l>
+                  <l>’N’ there’s dancin’ ’n’ fiddlin’ of ev’ry kind o’ sort,</l>
+                  <l>It’s a fine place for sailor-men is that there port.</l>
+                  <l>’N’ I wish—</l>
+                  <l>I wish as I was there.</l>
+               </lg>
+               <lg>
+                  <l>‘The winds is never nothin’ more than jest light airs,</l>
+                  <l>  ’N’ no-one gets belayin’-pinned, ’n’ no-one never swears,</l>
+                  <l>  Yer free to loaf an’ laze around, yer pipe atween yer lips,</l>
+                  <l>  Lollin’ on the fo’c’s’le, sonny, lookin’ at the ships.</l>
+                  <l>  ’N’ I wish—</l>
+                  <l>  I wish as I was there.</l>
+               </lg>
+               <lg>
+                  <l>‘For ridin’ in the anchorage the ships of all the world</l>
+                  <l>  Have got one anchor down ’n’ all sails furled.</l>
+                  <l>  All the sunken hookers ’n’ the crews as took ’n’ died</l>
+                  <l>  They lays there merry, sonny, swingin’ to the tide.</l>
+                  <l>  ’N’ I wish—</l>
+                  <l>  I wish as I was there.</l>
+               </lg>
+               <lg>
+                  <l>‘Drowned old wooden hookers green wi’ drippin’ wrack,</l>
+                  <l>  Ships as never fetched to port, as never came back,</l>
+                  <l>  Swingin’ to the blushin’ tide, dippin’ to the swell,</l>
+                  <l>  ’N’ the crews all singin’, sonny, beatin’ on the bell.</l>
+                  <l>  ’N’ I wish—</l>
+                  <l>  I wish as I was there.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CAPE HORN GOSPEL—I</head>
+               <lg>
+                  <l>‘I was in a hooker once,’ said Karlssen,</l>
+                  <l>‘And Bill, as was a seaman, died,</l>
+                  <l>So we lashed him in an old tarpaulin</l>
+                  <l>And tumbled him across the side;</l>
+                  <l>And the fun of it was that all his gear was</l>
+                  <l>Divided up among the crew</l>
+                  <l>Before that blushing human error,</l>
+                  <l>Our crawling little captain, knew.</l>
+               </lg>
+               <lg>
+                  <l>‘On the passage home one morning</l>
+                  <l>  (As certain as I prays for grace)</l>
+                  <l>  There was old Bill’s shadder a-hauling</l>
+                  <l>  At the weather mizzen-topsail brace.</l>
+                  <l>  He was all grown green with sea-weed,</l>
+                  <l>  He was all lashed up and shored;</l>
+                  <l>  So I says to him, I says, “Why, Billy!</l>
+                  <l>  What’s a-bringin’ of you back aboard?”</l>
+               </lg>
+               <lg>
+                  <l>’ “I’m a-weary of them there mermaids,”</l>
+                  <l>  Says old Bill’s ghost to me;</l>
+                  <l>  “It ain’t no place for a Christian</l>
+                  <l>  Below there—under sea.</l>
+                  <l>  For it’s all blown sand and shipwrecks,</l>
+                  <l>  And old bones eaten bare,</l>
+                  <l>  And them cold fishy females</l>
+                  <l>  With long green weeds for hair.</l>
+               </lg>
+               <lg>
+                  <l>’ “And there ain’t no dances shuffled,</l>
+                  <l>  And no old yarns is spun,</l>
+                  <l>  And there ain’t no stars but starfish,</l>
+                  <l>  And never any moon or sun.</l>
+                  <l>  I heard your keel a-passing</l>
+                  <l>  And the running rattle of the brace,”</l>
+                  <l>  And he says, “Stand by,” says William,</l>
+                  <l>  “For a shift towards a better place.”</l>
+               </lg>
+               <lg>
+                  <l>‘Well, he sogered about decks till sunrise,</l>
+                  <l>  When a rooster in the hen-coop crowed,</l>
+                  <l>  And as so much smoke he faded</l>
+                  <l>  And as so much smoke he goed;</l>
+                  <l>  And I’ve often wondered since, Jan,</l>
+                  <l>  How his old ghost stands to fare</l>
+                  <l>  Long o’ them cold fishy females</l>
+                  <l>  With long green weeds for hair.’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CAPE HORN GOSPEL—II</head>
+               <lg>
+                  <l>Jake was a dirty Dago lad, an’ he gave the skipper chin,</l>
+                  <l>An’ the skipper up an’ took him a crack with an iron belaying-pin</l>
+                  <l>Which stiffened him out a rusty corp, as pretty as you could wish,</l>
+                  <l>An’ then we shovelled him up in a sack an’ dumped him to the fish.</l>
+                  <l>That was jest arter we’d got sail on her.</l>
+               </lg>
+               <lg>
+                  <l>Josey slipped from the tops’l-yard an’ bust his bloody back</l>
+                  <l>  (Which corned from playing the giddy goat an’ leavin’ go the jack);</l>
+                  <l>  We lashed his chips in clouts of sail an’ ballasted him with stones,</l>
+                  <l>  ‘The Lord hath taken away,’ we says, an’ we give him to Davy Jones.</l>
+                  <l>  An’ that was afore we were up with the Line.</l>
+               </lg>
+               <lg>
+                  <l>Joe were chippin’ a rusty plate a-squattin’ upon the deck,</l>
+                  <l>  An’ all the watch he had the sun a-singein’ him on the neck,</l>
+                  <l>  An’ forrard he falls at last, he does, an’ he lets his mallet go,</l>
+                  <l>  Dead as a nail with a calenture, an’ that was the end of Joe.</l>
+                  <l>  An’ that was just afore we made the Plate.</l>
+               </lg>
+               <lg>
+                  <l>All o’ the rest were sailor-men, an’ it come to rain an’ squall,</l>
+                  <l>  An’ then it was halliards, sheets, an ’tacks ‘clue up, an’ let go all.’</l>
+                  <l>  We snugged her down an’ hove her to, an’ the old contrairy cuss</l>
+                  <l>  Started a plate, an’ settled an’ sank, an’ that was the end of us.</l>
+               </lg>
+               <lg>
+                  <l>We slopped around on coops an’ planks in the cold an’ in the dark,</l>
+                  <l>  An’ Bill were drowned, an’ Tom were ate by a swine of a cruel shark,</l>
+                  <l>  An’ a mail-boat reskied Harry an’ I (which comed of pious prayers),</l>
+                  <l>  Which brings me here a-kickin’ my heels in the port of Buenos Ayres.</l>
+               </lg>
+               <lg>
+                  <l>I’m bound for home in the ‘Oronook,’ in a suit of looted duds,</l>
+                  <l>  A D.B.S. a-earnin’ a stake by helpin’ peelin’ spuds,</l>
+                  <l>  An’ if ever I fetch to Prince’s Stage an’ sets my feet ashore,</l>
+                  <l>  You bet your hide that there I stay, an’ follers the sea no more.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MOTHER CAREY<lb/>
+                  <lb/>(AS TOLD ME BY THE BO’SUN)</head>
+               <lg>
+                  <l>Mother Carey? She’s the mother o’ the witches</l>
+                  <l>’N’ all <hi rend="italic">them</hi> sort o’ rips;</l>
+                  <l>She’s a fine gell to look at, but the hitch is,</l>
+                  <l>She’s a sight too fond of ships.</l>
+                  <l>She lives upon a iceberg to the norred,</l>
+                  <l>’N’ her man he’s Davy Jones,</l>
+                  <l>’N’ she combs the weeds upon her forred</l>
+                  <l>With pore drowned sailors’ bones.</l>
+               </lg>
+               <lg>
+                  <l>She’s the mother o’ the wrecks, ’n’ the mother</l>
+                  <l>  Of all big winds as blows;</l>
+                  <l>  She’s up to some deviltry or other</l>
+                  <l>  When it storms, or sleets, or snows.</l>
+                  <l>  The noise of the wind’s her screamin’,</l>
+                  <l>  ‘I’m arter a plump, young, fine,</l>
+                  <l>  Brass-buttoned, beefy-ribbed young seam’n</l>
+                  <l>  So as me ’n’ my mate kin dine.’</l>
+               </lg>
+               <lg>
+                  <l>She’s a hungry old rip ’n’ a cruel</l>
+                  <l>  For sailor-men like we,</l>
+                  <l>  She’s give a many mariners the gruel</l>
+                  <l>  ’N’ a long sleep under sea.</l>
+                  <l>  She’s the blood o’ many a crew upon her</l>
+                  <l>  ’N’ the bones of many a wreck,</l>
+                  <l>  ’N’ she’s barnacles a-growin’ on her</l>
+                  <l>  ’N’ shark’s teeth round her neck.</l>
+               </lg>
+               <lg>
+                  <l>I ain’t never had no schoolin’</l>
+                  <l>  Nor read no books like you,</l>
+                  <l>  But I knows ’t ain’t healthy to be foolin’</l>
+                  <l>  With that there gristly two.</l>
+                  <l>  You’re young, you thinks, ’n’ you’re lairy,</l>
+                  <l>  But if you’re to make old bones,</l>
+                  <l>  Steer clear, I says, o’ Mother Carey,</l>
+                  <l>  ’N’ that there Davy Jones.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>EVENING—REGATTA DAY</head>
+               <lg>
+                  <l>Your nose is a red jelly, your mouth’s a toothless wreck,</l>
+                  <l>And I’m atop of you, banging your head upon the dirty deck;</l>
+                  <l>And both your eyes are bunged and blind like those of a mewling pup,</l>
+                  <l>For you’re the juggins who caught the crab and lost the ship the Cup.</l>
+               </lg>
+               <lg>
+                  <l>He caught a crab in the spurt home, this blushing cherub did,</l>
+                  <l>  And the ‘Craigie’s’ whaler slipped ahead like a cart-wheel on the skid,</l>
+                  <l>  And beat us fair by a boat’s nose though we sweated fit to start her,</l>
+                  <l>  So we are playing at Nero now, and <hi rend="italic">he’s</hi>  the Christian martyr.</l>
+               </lg>
+               <lg>
+                  <l>And Stroke is lashing a bunch of keys to the buckle-end a belt,</l>
+                  <l>  And we’re going to lay you over a chest and baste you till you melt.</l>
+                  <l>  The ‘Craigie’ boys are beating the bell and cheering down the tier,</l>
+                  <l>  D’ye hear, you Port Mahone baboon, I ask you, do you <hi rend="italic">hear</hi>?</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A VALEDICTION</head>
+               <lg>
+                  <l>We’re bound for blue water where the great winds blow,</l>
+                  <l>It’s time to get the tacks aboard, time for us to go;</l>
+                  <l>The crowd’s at the capstan and the tune’s in the shout,</l>
+                  <l>‘A long pull, a strong pull, <hi rend="italic">and warp the hooker out</hi>.’</l>
+               </lg>
+               <lg>
+                  <l>The bow-wash is eddying, spreading from the bows,</l>
+                  <l>  Aloft and loose the topsails and some one give a rouse;</l>
+                  <l>  A salt Atlantic chanty shall be music to the dead,</l>
+                  <l>  ‘A long pull, a strong pull, <hi rend="italic">and the yard to the mast-head</hi>.’</l>
+               </lg>
+               <lg>
+                  <l>Green and merry run the seas, the wind comes cold,</l>
+                  <l>  Salt and strong and pleasant, and worth a mint of gold;</l>
+                  <l>  And she’s staggering, swooping, as she feels her feet,</l>
+                  <l>  ‘A long pull, a strong pull, <hi rend="italic">and aft the main-sheet</hi>.’</l>
+               </lg>
+               <lg>
+                  <l>Shrilly squeal the running sheaves, the weather-gear strains,</l>
+                  <l>  Such a clatter of chain-sheets, the devil’s in the chains;</l>
+                  <l>  Over us the bright stars, under us the drowned,</l>
+                  <l>  ‘A long pull, a strong pull, <hi rend="italic">and we’re outward bound</hi>.’</l>
+               </lg>
+               <lg>
+                  <l>Yonder, round and ruddy, is the mellow old moon,</l>
+                  <l>  The red-funnelled tug has gone, and now, sonny, soon</l>
+                  <l>  We’ll be clear of the Channel, so watch how you steer,</l>
+                  <l>  ‘Ease her when she pitches, <hi rend="italic">and so-long, my dear</hi>.’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A PIER-HEAD CHORUS</head>
+               <lg>
+                  <l>Oh I’ll be chewing salted horse and biting flinty bread,</l>
+                  <l>And dancing with the stars to watch, upon the fo’c’s’le head,</l>
+                  <l>Hearkening to the bow-wash and the welter of the tread</l>
+                  <l>Of a thousand tons of clipper running free.</l>
+               </lg>
+               <lg>
+                  <l>For the tug has got the tow-rope and will take us to the Downs,</l>
+                  <l>  Her paddles churn the river-wrack to muddy greens and browns,</l>
+                  <l>  And I have given river-wrack and all the filth of towns</l>
+                  <l>  For the rolling, combing cresters of the sea.</l>
+               </lg>
+               <lg>
+                  <l>We’ll sheet the mizzen-royals home and shimmer down the Bay,</l>
+                  <l>  The sea-line blue with billows, the land-line blurred and grey;</l>
+                  <l>  The bow-wash will be piling high and thrashing into spray,</l>
+                  <l>  As the hooker’s fore-foot tramples down the swell.</l>
+               </lg>
+               <lg>
+                  <l>She’ll log a giddy seventeen and rattle out the reel,</l>
+                  <l>  The weight of all the run-out line will be a thing to feel,</l>
+                  <l>  As the bacca-quidding shell-back shambles aft to take the wheel,</l>
+                  <l>  And the sea-sick little middy strikes the bell.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE GOLDEN CITY OF ST. MARY</head>
+               <lg>
+                  <l>Out beyond the sunset, could I but find the way,</l>
+                  <l>Is a sleepy blue laguna which widens to a bay,</l>
+                  <l>And there’s the Blessed City—so the sailors say—</l>
+                  <l>The Golden City of St. Mary.</l>
+               </lg>
+               <lg>
+                  <l>It’s built of fair marble—white—without a stain,</l>
+                  <l>  And in the cool twilight when the sea-winds wane</l>
+                  <l>  The bells chime faintly, like a soft, warm rain,</l>
+                  <l>  In the Golden City of St. Mary.</l>
+               </lg>
+               <lg>
+                  <l>Among the green palm-trees where the fire-flies shine,</l>
+                  <l>  Are the white tavern tables where the gallants dine,</l>
+                  <l>  Singing slow Spanish songs like old mulled wine,</l>
+                  <l>  In the Golden City of St. Mary.</l>
+               </lg>
+               <lg>
+                  <l>Oh I’ll be shipping sunset-wards and westward-ho</l>
+                  <l>  Through the green toppling combers a-shattering into snow,</l>
+                  <l>  Till I come to quiet moorings and a watch below,</l>
+                  <l>  In the Golden City of St. Mary.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TRADE WINDS</head>
+               <lg>
+                  <l>In the harbour, in the island, in the Spanish Seas,</l>
+                  <l>Are the tiny white houses and the orange-trees,</l>
+                  <l>And day-long, night long, the cool and pleasant breeze</l>
+                  <l>Of the steady Trade Winds blowing.</l>
+               </lg>
+               <lg>
+                  <l>There is the red wine, the nutty Spanish ale,</l>
+                  <l>  The shuffle of the dancers, the old salt’s tale,</l>
+                  <l>  The squeaking fiddle, and the soughing in the sail</l>
+                  <l>  Of the steady Trade Winds blowing.</l>
+               </lg>
+               <lg>
+                  <l>And o’ nights there’s fire-flies and the yellow moon,</l>
+                  <l>  And in the ghostly palm-trees the sleepy tune</l>
+                  <l>  Of the quiet voice calling me, the long low croon</l>
+                  <l>  Of the steady Trade Winds blowing.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SEA-FEVER</head>
+               <lg>
+                  <l>I must down to the seas again, to the lonely sea and the sky,</l>
+                  <l>And all I ask is a tall ship and a star to steer her by,</l>
+                  <l>And the wheel’s kick and the wind’s song and the white sail’s shaking,</l>
+                  <l>And a grey mist on the sea’s face and a grey dawn breaking.</l>
+               </lg>
+               <lg>
+                  <l>I must down to the seas again, for the call of the running tide</l>
+                  <l>  Is a wild call and a clear call that may not be denied;</l>
+                  <l>  And all I ask is a windy day with the white clouds flying,</l>
+                  <l>  And the flung spray and the blown spume, and the sea-gulls crying.</l>
+               </lg>
+               <lg>
+                  <l>I must down to the seas again to the vagrant gypsy life,</l>
+                  <l>  To the gull’s way and the whale’s way where the wind’s like a whetted knife;</l>
+                  <l>  And all I ask is a merry yarn from a laughing fellow-rover,</l>
+                  <l>  And quiet sleep and a sweet dream when the long trick’s over.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A WANDERER’S SONG</head>
+               <lg>
+                  <l>A wind’s in the heart of me, a fire’s in my heels,</l>
+                  <l>I am tired of brick and stone and rumbling wagon-wheels;</l>
+                  <l>I hunger for the sea’s edge, the limits of the land,</l>
+                  <l>Where the wild old Atlantic is shouting on the sand.</l>
+               </lg>
+               <lg>
+                  <l>Oh I’ll be going, leaving the noises of the street,</l>
+                  <l>  To where a lifting foresail-foot is yanking at the sheet;</l>
+                  <l>  To a windy, tossing anchorage where yawls and ketches ride,</l>
+                  <l>  Oh I’ll be going, going, until I meet the tide.</l>
+               </lg>
+               <lg>
+                  <l>And first I’ll hear the sea-wind, the mewing of the gulls,</l>
+                  <l>  The clucking, sucking of the sea about the rusty hulls,</l>
+                  <l>  The songs at the capstan in the hooker warping out,</l>
+                  <l>  And then the heart of me’ll know I’m there or thereabout.</l>
+               </lg>
+               <lg>
+                  <l>Oh I am tired of brick and stone, the heart of me is sick,</l>
+                  <l>  For windy green, unquiet sea, the realm of Moby Dick;</l>
+                  <l>  And I’ll be going, going, from the roaring of the wheels,</l>
+                  <l>  For a wind’s in the heart of me, a fire’s in my heels.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CARDIGAN BAY</head>
+               <lg>
+                  <l>Clean, green, windy billows notching out the sky,</l>
+                  <l>Grey clouds tattered into rags, sea-winds blowing high,</l>
+                  <l>And the ships under topsails, beating, thrashing by,</l>
+                  <l>And the mewing of the herring gulls.</l>
+               </lg>
+               <lg>
+                  <l>Dancing, flashing green seas shaking white locks,</l>
+                  <l>  Boiling in blind eddies over hidden rocks,</l>
+                  <l>  And the wind in the rigging, the creaking of the blocks,</l>
+                  <l>  And the straining of the timber hulls.</l>
+               </lg>
+               <lg>
+                  <l>Delicate, cool sea-weeds, green and amber-brown,</l>
+                  <l>  In beds where shaken sunlight slowly filters down</l>
+                  <l>  On many a drowned seventy-four, many a sunken town,</l>
+                  <l>  And the whitening of the dead men’s skulls.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CHRISTMAS EVE AT SEA</head>
+               <lg>
+                  <l>A wind is rustling ‘south and soft,’</l>
+                  <l>Cooing a quiet country tune,</l>
+                  <l>The calm sea sighs, and far aloft</l>
+                  <l>The sails are ghostly in the moon.</l>
+               </lg>
+               <lg>
+                  <l>Unquiet ripples lisp and purr,</l>
+                  <l>  A block there pipes and chirps i’ the sheave,</l>
+                  <l>  The wheel-ropes jar, the reef-points stir</l>
+                  <l>  Faintly—and it is Christmas Eve.</l>
+               </lg>
+               <lg>
+                  <l>The hushed sea seems to hold her breath,</l>
+                  <l>  And o’er the giddy, swaying spars,</l>
+                  <l>  Silent and excellent as Death,</l>
+                  <l>  The dim blue skies are bright with stars.</l>
+               </lg>
+               <lg>
+                  <l>Dear God—they shone in Palestine</l>
+                  <l>  Like this, and yon pale moon serene</l>
+                  <l>  Looked down among the lowing kine</l>
+                  <l>  On Mary and the Nazarene.</l>
+               </lg>
+               <lg>
+                  <l>The angels called from deep to deep,</l>
+                  <l>  The burning heavens felt the thrill,</l>
+                  <l>  Startling the flocks of silly sheep</l>
+                  <l>  And lonely shepherds on the hill.</l>
+               </lg>
+               <lg>
+                  <l>To-night beneath the dripping bows</l>
+                  <l>  Where flashing bubbles burst and throng,</l>
+                  <l>  The bow-wash murmurs and sighs and soughs</l>
+                  <l>  A message from the angels’ song.</l>
+               </lg>
+               <lg>
+                  <l>The moon goes nodding down the west,</l>
+                  <l>  The drowsy helmsman strikes the bell;</l>
+                  <l>
+                     <hi rend="italic">Rex Judæorum natus est</hi>,</l>
+                  <l>  I charge you, brothers, sing <hi rend="italic">Nowell, Nowell,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Rex Judæorum natus est</hi>.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A BALLAD OF CAPE ST. VINCENT</head>
+               <lg>
+                  <l>Now, Bill, ain’t it prime to be a-sailin’,</l>
+                  <l>Slippin’ easy, splashin’ up the sea,</l>
+                  <l>Dossin’ snug aneath the weather-railin’,</l>
+                  <l>Quiddin’ bonded Jacky out a-lee?</l>
+                  <l>English sea astern us and afore us,</l>
+                  <l>Reaching out three thousand miles ahead,</l>
+                  <l>God’s own stars a-risin’ solemn o’er us,</l>
+                  <l>And—yonder’s Cape St. Vincent and the Dead.</l>
+               </lg>
+               <lg>
+                  <l>There they lie, Bill, man and mate together,</l>
+                  <l>  Dreamin’ out the dog-watch down below,</l>
+                  <l>  Anchored in the Port of Pleasant Weather,</l>
+                  <l>  Waiting for the Bo’sun’s call to blow.</l>
+                  <l>  Over them the tide goes lappin’, swayin’,</l>
+                  <l>  Under them’s the wide bay’s muddy bed,</l>
+                  <l>  And it’s pleasant dreams—to them—to hear us sayin’,</l>
+                  <l>  Yonder’s Cape St. Vincent and the Dead.</l>
+               </lg>
+               <lg>
+                  <l>Hear that P. and O. boat’s engines dronin’,</l>
+                  <l>  Beating out of time and out of tune,</l>
+                  <l>  Ripping past with every plate a-groanin’,</l>
+                  <l>  Spitting smoke and cinders at the moon?</l>
+                  <l>  Ports a-lit like little stars a-settin’,</l>
+                  <l>  See ’em glintin’ yaller, green, and red,</l>
+                  <l>  Loggin’ twenty knots, Bill,—but forgettin’,</l>
+                  <l>  Yonder’s Cape St. Vincent and the Dead.</l>
+               </lg>
+               <lg>
+                  <l>They’re ‘discharged’ now, Billy, ‘left the service,’</l>
+                  <l>  Rough an’ bitter was the watch they stood,</l>
+                  <l>  Drake an’ Blake, an’ Collingwood an’ Jervis,</l>
+                  <l>  Nelson, Rodney, Hawke, an’ Howe an’ Hood.</l>
+                  <l>  They’d a hard time, haulin’ an’ directin’,</l>
+                  <l>  There’s the flag they left us, Billy—tread</l>
+                  <l>  Straight an’ keep it flyin’—recollectin’,</l>
+                  <l>  Yonder’s Cape St. Vincent and the Dead.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE TARRY BUCCANEER</head>
+               <lg>
+                  <l>I’m going to be a pirate with a bright brass pivot-gun,</l>
+                  <l>And an island in the Spanish Main beyond the setting sun,</l>
+                  <l>And a silver flagon full of red wine to drink when work is done,</l>
+                  <l>Like a fine old salt-sea scavenger, like a tarry Buccaneer.</l>
+               </lg>
+               <lg>
+                  <l>With a sandy creek to careen in, and a pig-tailed Spanish mate,</l>
+                  <l>  And under my main-hatches a sparkling merry freight</l>
+                  <l>  Of doubloons and double moidores and pieces of eight,</l>
+                  <l>  Like a fine old salt-sea scavenger, like a tarry Buccaneer.</l>
+               </lg>
+               <lg>
+                  <l>With a taste for Spanish wine-shops and for spending my doubloons,</l>
+                  <l>  And a crew of swart mulattoes and black-eyed octoroons,</l>
+                  <l>  And a thoughtful way with mutineers of making them maroons,</l>
+                  <l>  Like a fine old salt-sea scavenger, like a tarry Buccaneer.</l>
+               </lg>
+               <lg>
+                  <l>With a sash of crimson velvet and a diamond-hilted sword,</l>
+                  <l>  And a silver whistle about my neck secured to a golden cord,</l>
+                  <l>  And a habit of taking captives and walking them along a board,</l>
+                  <l>  Like a fine old salt-sea scavenger, like a tarry Buccaneer.</l>
+               </lg>
+               <lg>
+                  <l>With a spy-glass tucked beneath my arm and a cocked hat cocked askew,</l>
+                  <l>  And a long low rakish schooner a-cutting of the waves in two,</l>
+                  <l>  And a flag of skull and cross-bones the wickedest that ever flew,</l>
+                  <l>  Like a fine old salt-sea scavenger, like a tarry Buccaneer.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A BALLAD OF JOHN SILVER</head>
+               <lg>
+                  <l>We were schooner-rigged and rakish, with a long and lissome hull,</l>
+                  <l>And we flew the pretty colours of the cross-bones and the skull;</l>
+                  <l>We’d a big black Jolly Roger flapping grimly at the fore,</l>
+                  <l>And we sailed the Spanish Water in the happy days of yore.</l>
+               </lg>
+               <lg>
+                  <l>We’d a long brass gun amidships, like a well-conducted ship,</l>
+                  <l>  We had each a brace of pistols and a cutlass at the hip;</l>
+                  <l>  It’s a point which tells against us, and a fact to be deplored,</l>
+                  <l>  But we chased the goodly merchant-men and laid their ships aboard.</l>
+               </lg>
+               <lg>
+                  <l>Then the dead men fouled the scuppers and the wounded filled the chains,</l>
+                  <l>  And the paint-work all was spatter-dashed with other people’s brains,</l>
+                  <l>  She was boarded, she was looted, she was scuttled till she sank,</l>
+                  <l>  And the pale survivors left us by the medium of the plank.</l>
+               </lg>
+               <lg>
+                  <l>O! then it was (while standing by the taffrail on the poop)</l>
+                  <l>  We could hear the drowning folk lament the absent chicken-coop;</l>
+                  <l>  Then, having washed the blood away, we’d little else to do</l>
+                  <l>  Than to dance a quiet hornpipe as the old salts taught us to.</l>
+               </lg>
+               <lg>
+                  <l>O! the fiddle on the fo’c’s’le, and the slapping naked soles,</l>
+                  <l>  And the genial ‘Down the middle, Jake, and curtsey when she rolls!’</l>
+                  <l>  With the silver seas around us and the pale moon overhead,</l>
+                  <l>  And the look-out not a-looking and his pipe-bowl glowing red.</l>
+               </lg>
+               <lg>
+                  <l>Ah! the pig-tailed, quidding pirates and the pretty pranks we played,</l>
+                  <l>  All have since been put a stop-to by the naughty Board of Trade;</l>
+                  <l>  The schooners and the merry crews are laid away to rest,</l>
+                  <l>  A little south the sunset in the Islands of the Blest.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LYRICS FROM ‘THE BUCCANEER’</head>
+               <div type="div3">
+                  <head>
+                     <label>I</label>
+                  </head>
+                  <lg>
+                     <l>We are far from sight of the harbour lights,</l>
+                     <l>  Of the sea-ports whence we came,</l>
+                     <l>  But the old sea calls and the cold wind bites,</l>
+                     <l>  And our hearts are turned to flame.</l>
+                  </lg>
+                  <lg>
+                     <l>And merry and rich is the goodly gear</l>
+                     <l>  We’ll win upon the tossing sea,</l>
+                     <l>  A silken gown for my dainty dear,</l>
+                     <l>  And a gold doubloon for me.</l>
+                  </lg>
+                  <lg>
+                     <l>It’s the old old road and the old old quest</l>
+                     <l>  Of the cut-throat sons of Cain,</l>
+                     <l>  South by west and a quarter west,</l>
+                     <l>  And hey for the Spanish Main.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                  </head>
+                  <lg>
+                     <l>There’s a sea-way somewhere where all day long</l>
+                     <l>Is the hushed susurrus of the sea,</l>
+                     <l>The mewing of the skuas, and the sailor’s song,</l>
+                     <l>And the wind’s cry calling me.</l>
+                  </lg>
+                  <lg>
+                     <l>There’s a haven somewhere where the quiet of the bay</l>
+                     <l>  Is troubled with the shifting tide,</l>
+                     <l>  Where the gulls are flying, crying in the bright white spray,</l>
+                     <l>  And the tan-sailed schooners ride.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                  </head>
+                  <lg>
+                     <l>The toppling rollers at the harbour mouth</l>
+                     <l>Are spattering the bows with foam,</l>
+                     <l>And the anchor’s catted, and she’s heading for the south</l>
+                     <l>With her topsails sheeted home.</l>
+                  </lg>
+                  <lg>
+                     <l>And a merry measure is the dance she’ll tread</l>
+                     <l>  (To the clanking of the staysail’s hanks)</l>
+                     <l>  When the guns are growling and the blood runs red,</l>
+                     <l>  And the prisoners are walking of the planks.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>D’AVALOS’ PRAYER</head>
+               <lg>
+                  <l>When the last sea is sailed and the last shallow charted,</l>
+                  <l>When the last field is reaped and the last harvest stored,</l>
+                  <l>When the last fire is out and the last guest departed,</l>
+                  <l>Grant the last prayer that I shall pray, Be good to me, O Lord!</l>
+               </lg>
+               <lg>
+                  <l>And let me pass in a night at sea, a night of storm and thunder,</l>
+                  <l>  In the loud crying of the wind through sail and rope and spar;</l>
+                  <l>  Send me a ninth great peaceful wave to drown and roll me under</l>
+                  <l>  To the cold tunny-fishes’ home where the drowned galleons are.</l>
+               </lg>
+               <lg>
+                  <l>And in the dim green quiet place far out of sight and hearing,</l>
+                  <l>  Grant I may hear at whiles the wash and thresh of the sea-foam</l>
+                  <l>  About the fine keen bows of the stately clippers steering</l>
+                  <l>  Towards the lone northern star and the fair ports of home.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE WEST WIND</head>
+               <lg>
+                  <l>It’s a warm wind, the west wind, full of birds’ cries;</l>
+                  <l>I never hear the west wind but tears are in my eyes.</l>
+                  <l>For it comes from the west lands, the old brown hills,</l>
+                  <l>And April’s in the west wind, and daffodils.</l>
+               </lg>
+               <lg>
+                  <l>It’s a fine land, the west land, for hearts as tired as mine,</l>
+                  <l>  Apple orchards blossom there, and the air’s like wine.</l>
+                  <l>  There is cool green grass there, where men may lie at rest,</l>
+                  <l>  And the thrushes are in song there, fluting from the nest.</l>
+               </lg>
+               <lg>
+                  <l>‘Will ye not come home, brother? ye have been long away,</l>
+                  <l>  It’s April, and blossom time, and white is the may;</l>
+                  <l>  And bright is the sun, brother, and warm is the rain,—</l>
+                  <l>  Will ye not come home, brother, home to us again?</l>
+               </lg>
+               <lg>
+                  <l>‘The young corn is green, brother, where the rabbits run,</l>
+                  <l>  It’s blue sky, and white clouds, and warm rain and sun.</l>
+                  <l>  It’s song to a man’s soul, brother, fire to a man’s brain,</l>
+                  <l>  To hear the wild bees and see the merry spring again.</l>
+               </lg>
+               <lg>
+                  <l>‘Larks are singing in the west, brother, above the green wheat,</l>
+                  <l>  So will ye not come home, brother, and rest your tired feet?</l>
+                  <l>  I’ve a balm for bruised hearts, brother, sleep for aching eyes,’</l>
+                  <l>  Says the warm wind, the west wind, full of birds’ cries.</l>
+               </lg>
+               <lg>
+                  <l>It’s the white road westwards is the road I must tread</l>
+                  <l>  To the green grass, the cool grass, and rest for heart and head,</l>
+                  <l>  To the violets and the warm hearts and the thrushes’ song,</l>
+                  <l>  In the fine land, the west land, the land where I belong.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE GALLEY-ROWERS</head>
+               <lg>
+                  <l>Staggering over the running combers</l>
+                  <l>The long-ship heaves her dripping flanks,</l>
+                  <l>Singing together, the sea-roamers</l>
+                  <l>Drive the oars grunting in the banks.</l>
+                  <l>A long pull,</l>
+                  <l>And a long long pull to Mydath.</l>
+               </lg>
+               <lg>
+                  <l>‘Where are ye bound, ye swart sea-farers,</l>
+                  <l>  Vexing the grey wind-angered brine,</l>
+                  <l>  Bearers of home-spun cloth, and bearers</l>
+                  <l>  Of goat-skins filled with country wine?’</l>
+               </lg>
+               <lg>
+                  <l>‘We are bound sunset-wards, not knowing,</l>
+                  <l>  Over the whale’s way miles and miles,</l>
+                  <l>  Going to Vine-Land, haply going</l>
+                  <l>  To the Bright Beach of the Blessed Isles.</l>
+               </lg>
+               <lg>
+                  <l>‘In the wind’s teeth and the spray’s stinging</l>
+                  <l>  Westward and outward forth we go,</l>
+                  <l>  Knowing not whither nor why, but singing</l>
+                  <l>  An old old oar-song as we row.</l>
+                  <l>  A long pull,</l>
+                  <l>  And a long long pull to Mydath.’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SORROW OF MYDATH</head>
+               <lg>
+                  <l>Weary the cry of the wind is, weary the sea,</l>
+                  <l>Weary the heart and the mind and the body of me.</l>
+                  <l>Would I were out of it, done with it, would I could be</l>
+                  <l>A white gull crying along the desolate sands!</l>
+               </lg>
+               <lg>
+                  <l>Outcast, derelict soul in a body accurst,</l>
+                  <l>  Standing drenched with the spindrift, standing athirst,</l>
+                  <l>  For the cool green waves of death to arise and burst</l>
+                  <l>  In a tide of quiet for me on the desolate sands.</l>
+               </lg>
+               <lg>
+                  <l>Would that the waves and the long white hair of the spray</l>
+                  <l>  Would gather in splendid terror and blot me away</l>
+                  <l>  To the sunless place of the wrecks where the waters sway</l>
+                  <l>  Gently, dreamily, quietly over desolate sands!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>VAGABOND</head>
+               <lg>
+                  <l>Dunno a heap about the what an’ why,</l>
+                  <l>Can’t say’s I ever knowed.</l>
+                  <l>Heaven to me’s a fair blue stretch of sky,</l>
+                  <l>Earth’s jest a dusty road.</l>
+               </lg>
+               <lg>
+                  <l>Dunno the names o’ things, nor what they are,</l>
+                  <l>  Can’t say’s I ever will.</l>
+                  <l>  Dunno about God—he’s jest the noddin’ star</l>
+                  <l>  Atop the windy hill.</l>
+               </lg>
+               <lg>
+                  <l>Dunno about Life—it’s jest a tramp alone</l>
+                  <l>  From wakin’-time to doss.</l>
+                  <l>  Dunno about Death—it’s jest a quiet stone</l>
+                  <l>  All over-grey wi’ moss.</l>
+               </lg>
+               <lg>
+                  <l>An’ why I live, an’ why the old world spins,</l>
+                  <l>  Are things I never knowed;</l>
+                  <l>  My mark’s the gypsy fires, the lonely inns,</l>
+                  <l>  An’ jest the dusty road.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>VISION</head>
+               <lg>
+                  <l>I have drunken the red wine and flung the dice;</l>
+                  <l>Yet once in the noisy ale-house I have seen and heard</l>
+                  <l>The dear pale lady with the mournful eyes,</l>
+                  <l>And a voice like that of a pure grey cooing bird.</l>
+               </lg>
+               <lg>
+                  <l>With delicate white hands—white hands that I have kist</l>
+                  <l>  (Oh frail white hands!)—she soothed my aching eyes;</l>
+                  <l>  And her hair fell about her in a dim clinging mist,</l>
+                  <l>  Like smoke from a golden incense burned in Paradise.</l>
+               </lg>
+               <lg>
+                  <l>With gentle loving words, like shredded balm and myrrh,</l>
+                  <l>  She healed with sweet forgiveness my black bitter sins,</l>
+                  <l>  Then passed into the night, and I go seeking her</l>
+                  <l>  Down the dark, silent streets, past the warm, lighted inns.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SPUNYARN</head>
+               <lg>
+                  <l>Spunyarn, spunyarn, with one to turn the crank,</l>
+                  <l>And one to slather the spunyarn, and one to knot the hank;</l>
+                  <l>It’s an easy job for a summer watch, and a pleasant job enough,</l>
+                  <l>To twist the tarry lengths of yarn to shapely sailor stuff.</l>
+               </lg>
+               <lg>
+                  <l>Life is nothing but spunyarn on a winch in need of oil,</l>
+                  <l>  Little enough is twined and spun but fever-fret and moil.</l>
+                  <l>  I have travelled on land and sea, and all that I have found</l>
+                  <l>  Are these poor songs to brace the arms that help the winches round.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE DEAD KNIGHT</head>
+               <lg>
+                  <l>The cleanly rush of the mountain air,</l>
+                  <l>And the mumbling, grumbling humble-bees,</l>
+                  <l>Are the only things that wander there,</l>
+                  <l>The pitiful bones are laid at ease,</l>
+                  <l>The grass has grown in his tangled hair,</l>
+                  <l>And a rambling bramble binds his knees.</l>
+               </lg>
+               <lg>
+                  <l>To shrieve his soul from the pangs of hell,</l>
+                  <l>  The only requiem-bells that rang</l>
+                  <l>  Were the hare-bell and the heather-bell.</l>
+                  <l>  Hushed he is with the holy spell</l>
+                  <l>  In the gentle hymn the wind sang,</l>
+                  <l>  And he lies quiet, and sleeps well.</l>
+               </lg>
+               <lg>
+                  <l>He is bleached and blanched with the summer sun;</l>
+                  <l>  The misty rain and the cold dew</l>
+                  <l>  Have altered him from the kingly one</l>
+                  <l>  (That his lady loved, and his men knew)</l>
+                  <l>  And dwindled him to a skeleton.</l>
+               </lg>
+               <lg>
+                  <l>The vetches have twined about his bones,</l>
+                  <l>  The straggling ivy twists and creeps</l>
+                  <l>  In his eye-sockets; the nettle keeps</l>
+                  <l>  Vigil about him while he sleeps.</l>
+                  <l>  Over his body the wind moans</l>
+                  <l>  With a dreary tune throughout the day,</l>
+                  <l>  In a chorus wistful, eerie, thin</l>
+                  <l>  As the gull’s cry—as the cry in the bay,</l>
+                  <l>  The mournful word the seas say</l>
+                  <l>  When tides are wandering out or in.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PERSONAL</head>
+               <lg>
+                  <l>Tramping at night in the cold and wet, I passed the lighted inn,</l>
+                  <l>And an old tune, a sweet tune, was being played within.</l>
+                  <l>It was full of the laugh of the leaves and the song the wind sings;</l>
+                  <l>It brought the tears and the choked throat, and a catch to the heart-strings.</l>
+               </lg>
+               <lg>
+                  <l>And it brought a bitter thought of the days that now were dead to me,</l>
+                  <l>  The merry days in the old home before I went to sea—</l>
+                  <l>  Days that were dead to me indeed. I bowed my head to the rain,</l>
+                  <l>  And I passed by the lighted inn to the lonely roads again.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ON MALVERN HILL</head>
+               <lg>
+                  <l>A wind is brushing down the clover,</l>
+                  <l>It sweeps the tossing branches bare,</l>
+                  <l>Blowing the poising kestrel over</l>
+                  <l>The crumbling ramparts of the Caer.</l>
+               </lg>
+               <lg>
+                  <l>It whirls the scattered leaves before us</l>
+                  <l>  Along the dusty road to home,</l>
+                  <l>  Once it awakened into chorus</l>
+                  <l>  The heart-strings in the ranks of Rome.</l>
+               </lg>
+               <lg>
+                  <l>There by the gusty coppice border</l>
+                  <l>  The shrilling trumpets broke the halt,</l>
+                  <l>  The Roman line, the Roman order,</l>
+                  <l>  Swayed forwards to the blind assault.</l>
+               </lg>
+               <lg>
+                  <l>Spearman and charioteer and bowman</l>
+                  <l>  Charged and were scattered into spray,</l>
+                  <l>  Savage and taciturn the Roman</l>
+                  <l>  Hewed upwards in the Roman way.</l>
+               </lg>
+               <lg>
+                  <l>There—in the twilight—where the cattle</l>
+                  <l>  Are lowing home across the fields,</l>
+                  <l>  The beaten warriors left the battle</l>
+                  <l>  Dead on the clansmen’s wicker shields.</l>
+               </lg>
+               <lg>
+                  <l>The leaves whirl in the wind’s riot</l>
+                  <l>  Beneath the Beacon’s jutting spur,</l>
+                  <l>  Quiet are clan and chief, and quiet</l>
+                  <l>  Centurion and signifer.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TEWKESBURY ROAD</head>
+               <lg>
+                  <l>It is good to be out on the road, and going one knows not where,</l>
+                  <l>Going through meadow and village, one knows not whither nor why;</l>
+                  <l>Through the grey light drift of the dust, in the keen cool rush of the air,</l>
+                  <l>Under the flying white clouds, and the broad blue lift of the sky;</l>
+               </lg>
+               <lg>
+                  <l>And to halt at the chattering brook, in the tall green fern at the brink</l>
+                  <l>  Where the harebell grows, and the gorse, and the fox-gloves purple and white;</l>
+                  <l>  Where the shy-eyed delicate deer troop down to the pools to drink,</l>
+                  <l>  When the stars are mellow and large at the coming on of the night.</l>
+               </lg>
+               <lg>
+                  <l>O! to feel the warmth of the rain, and the homely smell of the earth,</l>
+                  <l>  Is a tune for the blood to jig to, a joy past power of words;</l>
+                  <l>  And the blessed green comely meadows seem all a-ripple with mirth</l>
+                  <l>  At the lilt of the shifting feet, and the dear wild cry of the birds.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ON EASTNOR KNOLL</head>
+               <lg>
+                  <l>Silent are the woods, and the dim green boughs are</l>
+                  <l>Hushed in the twilight: yonder, in the path through</l>
+                  <l>The apple orchard, is a tired plough-boy</l>
+                  <l>Calling the cows home.</l>
+               </lg>
+               <lg>
+                  <l>A bright white star blinks, the pale moon rounds, but</l>
+                  <l>  Still the red, lurid wreckage of the sunset</l>
+                  <l>  Smoulders in smoky fire, and burns on</l>
+                  <l>  The misty hill-tops.</l>
+               </lg>
+               <lg>
+                  <l>Ghostly it grows, and darker, the burning</l>
+                  <l>  Fades into smoke, and now the gusty oaks are</l>
+                  <l>  A silent army of phantoms thronging</l>
+                  <l>  A land of shadows.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>‘REST HER SOUL, SHE’S DEAD’</head>
+               <lg>
+                  <l>She has done with the sea’s sorrow and the world’s way</l>
+                  <l>And the wind’s grief;</l>
+                  <l>Strew her with laurel, cover her with bay</l>
+                  <l>And ivy-leaf.</l>
+                  <l>Let the slow mournful music sound before her,</l>
+                  <l>Strew the white flowers about the bier, and o’er her</l>
+                  <l>The sleepy poppies red beyond belief.</l>
+               </lg>
+               <lg>
+                  <l>On the black velvet covering her eyes</l>
+                  <l>  Let the dull earth be thrown;</l>
+                  <l>  Hers is the mightier silence of the skies,</l>
+                  <l>  And long, quiet rest alone.</l>
+                  <l>  Over the pure, dark, wistful eyes of her,</l>
+                  <l>  O’er all the human, all that dies of her,</l>
+                  <l>  Gently let flowers be strown.</l>
+               </lg>
+               <lg>
+                  <l>Lay her away in quiet old peaceful earth</l>
+                  <l>  (This blossom of ours),</l>
+                  <l>  She has done with the world’s anger and the world’s mirth,</l>
+                  <l>  Sunshine and rain-showers;</l>
+                  <l>  And over the poor, sad, tired face of her,</l>
+                  <l>  In the long grass above the place of her</l>
+                  <l>  (The grass which hides the glory and the grace of her),</l>
+                  <l>  May the Spring bring the flowers.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>‘ALL YE THAT PASS BY’</head>
+               <lg>
+                  <l>On the long dusty ribbon of the long city street,</l>
+                  <l>The pageant of life is passing me on multitudinous feet,</l>
+                  <l>With a word here of the hills, and a song there of the sea,</l>
+                  <l>And—the great movement changes—the pageant passes me.</l>
+               </lg>
+               <lg>
+                  <l>Faces—passionate faces—of men I may not know,</l>
+                  <l>  They haunt me, burn me to the heart, as I turn aside to go:</l>
+                  <l>  The king’s face and the cur’s face, and the face of the stuffed swine,</l>
+                  <l>  They are passing, they are passing, their eyes look into mine.</l>
+               </lg>
+               <lg>
+                  <l>I never can tire of the music of the noise of many feet,</l>
+                  <l>  The thrill of the blood pulsing, the tick of the heart’s beat,</l>
+                  <l>  Of the men many as sands, of the squadrons ranked and massed</l>
+                  <l>  Who are passing, changing always, and never have changed or passed.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>IN MEMORY OF A. P. R.</head>
+               <lg>
+                  <l>Once in the windy wintry weather,</l>
+                  <l>The road dust blowing in our eyes,</l>
+                  <l>We starved or tramped or slept together</l>
+                  <l>Beneath the haystacks and the skies;</l>
+               </lg>
+               <lg>
+                  <l>Until the tiring tramp was over,</l>
+                  <l>  And then the call for him was blown,</l>
+                  <l>  He left his friend—his fellow-rover—</l>
+                  <l>  To tramp the dusty roads alone.</l>
+               </lg>
+               <lg>
+                  <l>The winds wail and the woods are yellow,</l>
+                  <l>  The hills are blotted in the rain,</l>
+                  <l>  ‘And would he were with me,’ sighs his fellow,</l>
+                  <l>  ‘With me upon the roads again!’</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO-MORROW</head>
+               <lg>
+                  <l>Oh yesterday the cutting edge drank thirstily and deep,</l>
+                  <l>The upland outlaws ringed us in and herded us as sheep,</l>
+                  <l>They drove us from the stricken field and bayed us into keep;</l>
+                  <l>But to-morrow</l>
+                  <l>By the living God, we’ll try the game again!</l>
+               </lg>
+               <lg>
+                  <l>Oh yesterday our little troop was ridden through and through,</l>
+                  <l>  Our swaying, tattered pennons fled, a broken, beaten few,</l>
+                  <l>  And all a summer afternoon they hunted us and slew;</l>
+                  <l>  But to-morrow,</l>
+                  <l>  By the living God, we’ll try the game again!</l>
+               </lg>
+               <lg>
+                  <l>And here upon the turret-top the bale-fire glowers red,</l>
+                  <l>  The wake-lights burn and drip about our hacked, disfigured dead,</l>
+                  <l>  And many a broken heart is here and many a broken head;</l>
+                  <l>  But to-morrow,</l>
+                  <l>  By the living God, we’ll try the game again!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CAVALIER</head>
+               <lg>
+                  <l>All the merry kettle-drums are thudding into rhyme,</l>
+                  <l>Dust is swimming dizzily down the village street,</l>
+                  <l>The scabbards are clattering, the feathers nodding time,</l>
+                  <l>To a clink of many horses’ shoes, a tramp of many feet.</l>
+               </lg>
+               <lg>
+                  <l>Seven score of Cavaliers fighting for the King,</l>
+                  <l>  Trolling lusty stirrup-songs, clamouring for wine,</l>
+                  <l>  Riding with a loose rein, marching with a swing,</l>
+                  <l>  Beneath the blue bannerol of Rupert of the Rhine.</l>
+               </lg>
+               <lg>
+                  <l>Hey the merry company;—the loud fifes playing—</l>
+                  <l>  Blue scarves and bright steel and blossom of the may,</l>
+                  <l>  Roses in the feathered hats, the long plumes swaying,</l>
+                  <l>  A king’s son ahead of them showing them the way.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A SONG AT PARTING</head>
+               <lg>
+                  <l>The tick of the blood is settling slow, my heart will soon be still,</l>
+                  <l>And ripe and ready am I for rest in the grave atop the hill;</l>
+                  <l>So gather me up and lay me down, for ready and ripe am I,</l>
+                  <l>For the weary vigil with sightless eyes that may not see the sky.</l>
+               </lg>
+               <lg>
+                  <l>I have lived my life: I have spilt the wine that God the Maker gave,</l>
+                  <l>  So carry me up the lonely hill and lay me in the grave,</l>
+                  <l>  And cover me in with cleanly mould and old and lichened stones,</l>
+                  <l>  In a place where ever the cry of the wind shall thrill my sleepy bones.</l>
+               </lg>
+               <lg>
+                  <l>Gather me up and lay me down with an old song and a prayer,</l>
+                  <l>  Cover me in with wholesome earth, and weep and leave me there;</l>
+                  <l>  And get you gone with a kindly thought and an old tune and a sigh,</l>
+                  <l>  And leave me alone, asleep, at rest, for ready and ripe am I.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>GLOSSARY</head>
+               <p rend="justify">
+                  <hi rend="italic">Abaft the beam.</hi>—That half of a ship included between her amidship section and the taffrail. (For ‘taffrail,’ <hi rend="italic">see</hi> below.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Abel Brown.</hi>—An unquotable sea-song.</p>
+               <p rend="justify">
+                  <hi rend="italic">Advance-note.</hi>—A note for one month’s wages issued to sailors on their signing a ship’s articles.</p>
+               <p rend="justify">
+                  <hi rend="italic">Belaying-pins.</hi>—Bars of iron or hard wood to which running rigging may be secured or <hi rend="italic">belayed</hi>. Belaying-pins, from their handiness and peculiar club-shape, are sometimes used as bludgeons.</p>
+               <p rend="justify">
+                  <hi rend="italic">Bloody.</hi>—An intensive derived from the substantive ‘blood,’ a name applied to the Bucks, Scowrers, and Mohocks of the seventeenth and eighteenth centuries.</p>
+               <p rend="justify">
+                  <hi rend="italic">Blue Peter.</hi>—A blue and white flag hoisted at the fore-trucks of ships about to sail.</p>
+               <p rend="justify">
+                  <hi rend="italic">Bollard.</hi>—From <hi rend="italic">bōl</hi>  or <hi rend="italic">bole</hi>, the round trunk of a tree. A phallic or ‘sparklet’-shaped ornament of the dockside, of assistance to mariners in warping into or out of dock.</p>
+               <p rend="justify">
+                  <hi rend="italic">Bonded Jacky.</hi>—Negro-head tobacco or sweet cake.</p>
+               <p rend="justify">
+                  <hi rend="italic">Bull of Barney.</hi>—A beast mentioned in an unquotable sea-proverb.</p>
+               <p rend="justify">
+                  <hi rend="italic">Bumpkin.</hi>—An iron bar (projecting out-board from the ship’s side) to which the lower and topsail brace blocks are sometimes hooked.</p>
+               <p rend="justify">
+                  <hi rend="italic">Cape Horn fever.</hi>—The illness proper to malingerers.</p>
+               <p rend="justify">
+                  <hi rend="italic">Catted.</hi>—Said of an anchor when weighed and secured to the ‘cat-head.’</p>
+               <p rend="justify">
+                  <hi rend="italic">Chanty.</hi>—A song sung to lighten labour at the capstan sheets, and halliards. The soloist is known as the chanty-man, and is usually a person of some authority in the fo’c’s’le. Many chanties are of great beauty and extreme antiquity.</p>
+               <p rend="justify">
+                  <hi rend="italic">Clipper-bow.</hi>—A bow of delicate curves and lines.</p>
+               <p rend="justify">
+                  <hi rend="italic">Clout.</hi>—A rag or cloth. Also a blow:—‘I fetched him a clout i’ the lug.’</p>
+               <p rend="justify">
+                  <hi rend="italic">Crimp.</hi>—A sort of scoundrelly land-shark preying upon sailors.</p>
+               <p rend="justify">
+                  <hi rend="italic">D.B.S.</hi>—Distressed British Sailor. A term applied to those who are invalided home from foreign ports.</p>
+               <p rend="justify">
+                  <hi rend="italic">Dungaree.</hi>—A cheap, rough thin cloth (generally blue or brown), woven, I am told, of coco-nut fibre.</p>
+               <p rend="justify">
+                  <hi rend="italic">Forward or Forrard.</hi>—Towards the bows.</p>
+               <p rend="justify">
+                  <hi rend="italic">Fo’c’s’le (Forecastle).</hi>—The deck-house or living-room of the crew. The word is often used to indicate the crew, or those members of it described by passengers as the ‘common sailors.’</p>
+               <p rend="justify">
+                  <hi rend="italic">Fore-stay.</hi>—A powerful wire rope supporting the fore-mast forward.</p>
+               <p rend="justify">
+                  <hi rend="italic">Gaskets.</hi>—Ropes or plaited lines used to secure the sails in furling.</p>
+               <p rend="justify">
+                  <hi rend="italic">Goneys.</hi>—Albatrosses.</p>
+               <p rend="justify">
+                  <hi rend="italic">Guffy.</hi>—A marine or jolly.</p>
+               <p rend="justify">
+                  <hi rend="italic">Gullies.</hi>—Sea-gulls, Cape Horn pigeons, etc.</p>
+               <p rend="justify">
+                  <hi rend="italic">Heave and pawl.</hi>—A cry of encouragement at the capstan.</p>
+               <p rend="justify">
+                  <hi rend="italic">Hooker.</hi>—A periphrasis for ship, I suppose from a ship’s carrying <hi rend="italic">hooks</hi>  or anchors.</p>
+               <p rend="justify">
+                  <hi rend="italic">Jack or Jackstay.</hi>—A slender iron rail running along the upper portions of the yards in some ships.</p>
+               <p rend="justify">
+                  <hi rend="italic">Leeward.</hi>—Pronounced ‘looard.’ That quarter to which the wind blows.</p>
+               <p rend="justify">
+                  <hi rend="italic">Mainsail haul.</hi>—An order in tacking ship bidding ‘swing the mainyards.’ To loot, steal, or ‘acquire.’</p>
+               <p rend="justify">
+                  <hi rend="italic">Main-shrouds.</hi>—Ropes, usually wire, supporting lateral strains upon the mainmast.</p>
+               <p rend="justify">
+                  <hi rend="italic">Mollies.</hi>—Molly-hawks, or Fulmar petrels. Wide-winged dusky sea-fowls, common in high latitudes, oily to taste, gluttonous. Great fishers and garbage-eaters.</p>
+               <p rend="justify">
+                  <hi rend="italic">Port Mahon Baboon</hi>, or <hi rend="italic">Port Mahon Soger</hi>.—I have been unable to discover either the origin of these insulting epithets or the reasons for the peculiar bitterness with which they sting the marine recipient. They are older than Dana (<hi rend="italic">circa</hi>  1840).</p>
+               <p rend="justify">An old merchant sailor, now dead, once told me that Port Mahon was that godless city from which the Ark set sail, in which case the name may have some traditional connection with that evil ‘Mahoun’ or ‘Mahu,’ prince of darkness, mentioned by Shakespeare and some of our older poets.</p>
+               <p rend="justify">The real Port Mahon, a fine harbour in Minorca, was taken by the French, from Admiral Byng, in the year 1756.</p>
+               <p rend="justify">I think that the phrases originated at the time of Byng’s consequent trial and execution.</p>
+               <p rend="justify">
+                  <hi rend="italic">Purchase.</hi>—<hi rend="italic">See</hi>  ‘Tackle.’</p>
+               <p rend="justify">
+                  <hi rend="italic">Quidding.</hi>—Tobacco-chewing.</p>
+               <p rend="justify">
+                  <hi rend="italic">Sails.</hi>—The sail-maker.</p>
+               <p rend="justify">
+                  <hi rend="italic">Santa Cruz.</hi>—A brand of rum.</p>
+               <p rend="justify">
+                  <hi rend="italic">Scantling.</hi>—Planks.</p>
+               <p rend="justify">
+                  <hi rend="italic">Soger.</hi>—A laggard, malingerer, or hang-back. To loaf or skulk or work Tom Cox’s Traverse.</p>
+               <p rend="justify">
+                  <hi rend="italic">Spunyarn.</hi>—A three-strand line spun out of old rope-yarns knotted together. Most sailing-ships carry a spunyarn winch, and the spinning of such yarn is a favourite occupation in fine weather.</p>
+               <p rend="justify">
+                  <hi rend="italic">Stirrup.</hi>—A short rope supporting the foot-rope on which the sailors stand when aloft on the yards.</p>
+               <p rend="justify">
+                  <hi rend="italic">Tack.</hi>—To stay or ’bout ship. A reach to windward. The weather lower corner of a course.</p>
+               <p rend="justify">
+                  <hi rend="italic">Tackle.</hi>—Pronounced <hi rend="italic">taykle</hi>. A combination of pulleys for obtaining of artificial power.</p>
+               <p rend="justify">
+                  <hi rend="italic">Taffrail.</hi>—The rail or bulwark round the sternmost end of a ship’s poop or after-deck.</p>
+               <p rend="justify">
+                  <hi rend="italic">Trick.</hi>—The ordinary two-hour spell at the wheel or on the look-out.</p>
+               <p rend="justify">
+                  <hi rend="italic">Windward</hi>  or <hi rend="italic">Weather</hi>.—That quarter from which the wind blows.</p>
+               <p rend="justify">THE following pages contain advertisements of books by the same author, and other poetry</p>
+               <p rend="justify">NEW BOOKS BY JOHN MASEFIELD</p>
+               <p rend="justify">The Daffodil Fields</p>
+               <p rend="justify">Cloth, 12mo, $1.25 net; postpaid, $1.36</p>
+               <p rend="justify">“Neither in the design nor in the telling did or could ‘Enoch Arden’ come near the artistic truth of ‘The Daffodil Fields’.”—<hi rend="italic">Sir Quiller-Couch, Cambridge University.</hi>
+               </p>
+               <p rend="justify">A Mainsail Haul</p>
+               <p rend="justify">Cloth, 12mo. Preparing</p>
+               <p rend="justify">As a sailor before the mast Masefield has traveled the world over. Many of the tales in this volume are his own experiences written with the same dramatic fidelity displayed in “Dauber.”</p>
+               <p rend="justify">The Tragedy of Pompey</p>
+               <p rend="justify">Cloth, 12mo. Preparing</p>
+               <p rend="justify">A play such as only the author of “Nan” could have written. Tense in situation and impressive in its poetry it conveys Masefield’s genius in the handling of the dramatic form.</p>
+               <p rend="justify">PUBLISHED BY</p>
+               <lg>
+                  <l>THE MACMILLAN COMPANY</l>
+                  <l>64-66 Fifth Avenue New York</l>
+               </lg>
+               <lg>
+                  <l>JOHN MASEFIELD’S</l>
+                  <l/>
+                  <l>
+                     <hi rend="bold">The Everlasting Mercy, and The</hi>
+                  </l>
+                  <l>
+                     <hi rend="bold">Widow in the Bye Street</hi>
+                  </l>
+                  <l/>
+                  <l>Cloth, $1.25 net; postpaid, $1.38</l>
+                  <l/>
+                  <l>NEW AND REVISED EDITION</l>
+               </lg>
+               <p rend="justify">“<hi rend="italic">The Everlasting Mercy” was awarded the Edward de Polignac prize of $500 by the Royal Society of Literature for the best imaginative work of the year.</hi>”</p>
+               <p rend="justify">“John Masefield is the man of the hour, and the man of to-morrow too, in poetry and in the playwriting craft.”—John Galsworthy.</p>
+               <p rend="justify">“—recreates a wholly new drama of existence.”—William Stanley Braithwaite, <hi rend="italic">N. Y. Times</hi>.</p>
+               <p rend="justify">“Mr. Masefield comes like a flash of light across contemporary English poetry, and he trails glory where his imaginations reveals the substances of life. The improbable has been accomplished by Mr. Masefield; he has made poetry out of the very material that has refused to yield it for almost a score of years. It has only yielded it with a passion of Keats, and shaped it with the imagination of Coleridge.”—<hi rend="italic">Boston Evening Transcript.</hi>
+               </p>
+               <p rend="justify">“Originality, force, distinction, and deep knowledge of the human heart.”—<hi rend="italic">Chicago Record-Herald.</hi>
+               </p>
+               <p rend="justify">“They are truly great pieces.”—<hi rend="italic">Kentucky Post.</hi>
+               </p>
+               <p rend="justify">“A vigor and sincerity rare in modern English literature.”—<hi rend="italic">The Independent.</hi>
+               </p>
+               <p rend="justify">“If Mr. Masefield has occasionally appeared to touch a reminiscent chord with George Meredith, it is merely an example of his good taste and the sameness of big themes.”—George Middleton in <hi rend="italic">La Follette’s Magazine</hi>.</p>
+               <lg>
+                  <l>PUBLISHED BY</l>
+                  <l/>
+                  <l>THE MACMILLAN COMPANY</l>
+                  <l/>
+                  <l>64-66 Fifth Avenue New York</l>
+               </lg>
+               <lg>
+                  <l>JOHN MASEFIELD’S</l>
+                  <l/>
+                  <l>
+                     <hi rend="bold">The Story of a Round-House</hi>
+                  </l>
+                  <l>and other Poems</l>
+                  <l/>
+                  <l>Cloth, 12mo, $1.30 net; postpaid, $1.43</l>
+                  <l/>
+                  <l>NEW AND REVISED EDITION</l>
+               </lg>
+               <p rend="justify">“John Masefield has produced the finest literature of the year.”—J. W. Barrie.</p>
+               <p rend="justify">“John Masefield is the most interesting poetic personality of the day.”—<hi rend="italic">The Continent.</hi>
+               </p>
+               <p rend="justify">“Ah! the story of that rounding the Horn! Never in prose has the sea been so tremendously described.”—<hi rend="italic">Chicago Evening Post.</hi>
+               </p>
+               <p rend="justify">“Masefield’s new book attracts the widest attention from those who in any degree are interested in the quality of present-day literature.”—<hi rend="italic">Boston Transcript.</hi>
+               </p>
+               <p rend="justify">“A remarkable poem of the sea.”—<hi rend="italic">San Francisco Chronicle.</hi>
+               </p>
+               <p rend="justify">“Vivid and thrillingly realistic.”—<hi rend="italic">Current Literature.</hi>
+               </p>
+               <p rend="justify">“A genuine sailor and a genuine poet are a rare combination; they have produced a rare poem of the sea, which has made Mr. Masefield’s position in literature secure beyond the reach of caviling.”—<hi rend="italic">Everybody’s Magazine.</hi>
+               </p>
+               <p rend="justify">“Masefield has prisoned in verse the spirit of life at sea.”—<hi rend="italic">N. Y. Sun</hi>.</p>
+               <p rend="justify">“There is strength about everything Masefield writes that compels the feeling that he has an inward eye on which he draws to shape new films of old pictures. In these pictures is freshness combined with power, which form the keynotes of his poetry.”—<hi rend="italic">N. Y. Globe.</hi>
+               </p>
+               <lg>
+                  <l>PUBLISHED BY</l>
+                  <l/>
+                  <l>THE MACMILLAN COMPANY</l>
+                  <l>64-66 Fifth Avenue New York</l>
+               </lg>
+               <p rend="justify">The Poems of Wilfrid Wilson Gibson</p>
+               <p rend="justify">DAILY BREAD New edition. Three volumes in one. $1.25 net<lb/>
+               </p>
+               <p rend="justify">Contains “The Shirt,” a new poem of impressive poignancy and power.</p>
+               <p rend="justify">“A Millet in word-painting, who writes with a terrible simplicity, is Wilfrid Wilson Gibson, born in Hexham, England, in 1878, of whom Canon Cheyne wrote: ‘A new poet of the people has risen up among us.’ The story of a soul is written as plainly in ‘Daily Bread’ as in ‘The Divine Comedy’ and in ‘Paradise Lost.’ ”—<hi rend="italic">The Outlook.</hi>
+               </p>
+               <p rend="justify">FIRES $1.25 net<lb/>
+               </p>
+               <p rend="justify">“In ‘Fires’ as in ‘Daily Bread,’ the fundamental note is human sympathy with the whole of life. Impressive as these dramas are, it is in their cumulative effect that they are chiefly powerful.”—<hi rend="italic">Atlantic Monthly.</hi>
+               </p>
+               <p rend="justify">WOMENKIND $1.25 net<lb/>
+               </p>
+               <p rend="justify">“Mr. Gibson is a genuine singer of his own day and turns into appealing harmony the world’s harshly jarring notes of poverty and pain.”—<hi rend="italic">The Outlook.</hi>
+               </p>
+               <lg>
+                  <l>PUBLISHED BY</l>
+                  <l/>
+                  <l>THE MACMILLAN COMPANY</l>
+                  <l>64-66 Fifth Avenue New York</l>
+               </lg>
+               <p rend="justify">Three Important New Volumes of Poetry</p>
+               <p rend="justify">By JOHN HELSTON</p>
+               <p rend="justify">LONICERA AND OTHER POEMS Preparing<lb/>
+               </p>
+               <p rend="justify">This book introduces another poet of promise to the verse-lovers of this country. It is of interest to learn that Mr. Helston, who for several years was an operative mechanic in electrical works, has created a remarkable impression in England where much is expected of him. This volume, characterized by verse of rare beauty, presents his most representative work, ranging from the long descriptive title-poem to shorter lyrics.</p>
+               <p rend="justify">By HERMANN HAGEDORN</p>
+               <p rend="justify">POEMS AND BALLADS Preparing<lb/>
+               </p>
+               <p rend="justify">“His is perhaps the most confident of the prophecies of our new poets for he has seen most clearly the poetry in the new life. His song is full of the spirit of youth and hope.... It is the song that the new century needs. His verse is strong and flexible and has an ease, a naturalness, a rhythm that is rare in young poets. In many of his shorter lyrics he recalls Heine.”—<hi rend="italic">Boston Transcript.</hi>
+               </p>
+               <p rend="justify">By FANNIE STEARNS DAVIS</p>
+               <p rend="justify">MYSELF AND I $1.00 net<lb/>
+               </p>
+               <p rend="justify">“For some years the poems of Miss Davis have attracted wide attention in the best periodicals. That note of wistful mysticism which shimmers in almost every line gives her art a distinction that is bound to make its appeal. In this first book—where every verse is significant—Miss Davis has achieved very beautiful and serious poetry.”—<hi rend="italic">Boston Transcript.</hi>
+               </p>
+               <lg>
+                  <l>PUBLISHED BY</l>
+                  <l/>
+                  <l>THE MACMILLAN COMPANY</l>
+                  <l>64-66 Fifth Avenue New York</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
