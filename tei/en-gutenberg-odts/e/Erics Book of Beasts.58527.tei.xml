@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eric's Book of Beasts</title>
+            <author>David Starr Jordan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T04:26:37Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/e/Erics Book of Beasts.58527.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>David Starr Jordan</name>
+               <date>2024-01-04T04:26:37Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Eric's Book of Beasts</head>
+         <author>David Starr Jordan</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/e/Erics Book of Beasts.58527.odt</p>
+         <p>
+            <hi rend="bold">Transcriber's Note:</hi>
+         </p>
+         <p>Inconsistent hyphenation and spelling in the original document have been preserved. Obvious typographical errors have been corrected.</p>
+         <p>  Aux Animaux</p>
+         <p>In Holland, at the Hague, you know,</p>
+         <p>Well-regulated people go</p>
+         <p>To the Hotel Ozanimo.</p>
+         <p>(The spelling I've carnegified;</p>
+         <p>I often do this on the side).</p>
+         <p>Here all Creation lives in peace,</p>
+         <p>And therefore Wonders never Cease!</p>
+         <p>  Aux Animaux</p>
+         <head>ERIC'S<lb/>BOOK OF BEASTS</head>
+         <p>DONE IN WATER-COLORS<lb/>AND ACCOMPANIED WITH APPROPRIATE<lb/>JINGLES BY<lb/>
+            <lb/>DAVID STARR JORDAN<lb/>
+            <lb/>INTERPRETED IN BLACK AND<lb/>WHITE BY<lb/>
+            <lb/>SHIMADA SEKKO</p>
+         <p>  Logo</p>
+         <p>PAUL ELDER AND COMPANY<lb/>PUBLISHERS·SAN FRANCISCO</p>
+         <p>Copyright, 1912<lb/>By Paul Elder &amp; Company</p>
+         <pb/>
+         <div type="div1">
+            <head>Eric's Book of Beasts</head>
+            <pb/>
+            <div type="div2">
+               <head>Prefatory Note</head>
+               <p rend="justify">t</p>
+               <p rend="justify">These cartoons were made one by one in moments of leisure to please a small boy. They are now reprinted in the hope of pleasing other small boys and girls. They were originally in color, but for the present purpose they have been made over in black and white by a Japanese artist, who has given them life by occasional quaint touches of his own.</p>
+               <p rend="justify">David Starr Jordan</p>
+               <p rend="justify">Stanford University, California</p>
+               <p rend="justify">January 19, 1912</p>
+               <p rend="justify">L'Envoi</p>
+               <p rend="justify">I</p>
+               <lg>
+                  <l>I write and paint in doggerel</l>
+                  <l>Though all the Muses shriek and yell!</l>
+                  <l>I go serenely on my way</l>
+                  <l>Not caring what such folks may say!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Contents</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell> </cell>
+                     <cell>Page</cell>
+                  </row>
+                  <row>
+                     <cell>Aux Animaux</cell>
+                     <cell>
+                        <hi rend="italic">Frontispiece</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Prefatory Note</cell>
+                     <cell>iii</cell>
+                  </row>
+                  <row>
+                     <cell>L'Envoi</cell>
+                     <cell>v</cell>
+                  </row>
+                  <row>
+                     <cell>Eric's Planet</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>The Caravan</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Jack the Rabbit</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>An Elephant</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>The 'Potamus</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>My Crocodile</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>The Giraffe</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>A Goat</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>The 'Possum</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Old Sea Catch</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Quail</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>The Ptarmigan</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>The Pelican</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>The Man</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>The Fish</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>The Lion</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Horned Toad</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>A Hospitable Reptile</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>A Social Lobster</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Cats and Kings</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Little Children</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Six Kings</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>An Aspiring Monkey</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Old Time Folks</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>The Wunx</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Totem Poles</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>Organ and Organ Man</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>In Moonlight</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>Hunter and Deer</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>The Gazelle</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>A Bulldog by the River</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>The Squidgecumsquees</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>Road to Mandalay</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>Mitgard Serpent</cell>
+                     <cell>68</cell>
+                  </row>
+                  <row>
+                     <cell>Saint Georgeing the Dragon</cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>Flotsam and Jetsam</cell>
+                     <cell>72</cell>
+                  </row>
+                  <row>
+                     <cell>The Atoll</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell>Storm Wind</cell>
+                     <cell>76</cell>
+                  </row>
+                  <row>
+                     <cell>Eric in the Dark</cell>
+                     <cell>78</cell>
+                  </row>
+                  <row>
+                     <cell>Mars' Stars and Pa's</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>The Porcupine</cell>
+                     <cell>82</cell>
+                  </row>
+                  <row>
+                     <cell>The Purple Cow</cell>
+                     <cell>84</cell>
+                  </row>
+                  <row>
+                     <cell>I and Gnu</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>Bobo</cell>
+                     <cell>88</cell>
+                  </row>
+                  <row>
+                     <cell>The Lone Salmon</cell>
+                     <cell>90</cell>
+                  </row>
+                  <row>
+                     <cell>Bean Soup</cell>
+                     <cell>92</cell>
+                  </row>
+                  <row>
+                     <cell>A Lost Shadow</cell>
+                     <cell>94</cell>
+                  </row>
+                  <row>
+                     <cell>The Gazibou</cell>
+                     <cell>96</cell>
+                  </row>
+                  <row>
+                     <cell>In Junglest Africa</cell>
+                     <cell>98</cell>
+                  </row>
+                  <row>
+                     <cell>Eric Fishing</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>Eric's Bulldog</cell>
+                     <cell>102</cell>
+                  </row>
+                  <row>
+                     <cell>The Steering Gear</cell>
+                     <cell>104</cell>
+                  </row>
+                  <row>
+                     <cell>Brother Knight</cell>
+                     <cell>106</cell>
+                  </row>
+                  <row>
+                     <cell>My Daddy's Family</cell>
+                     <cell>108</cell>
+                  </row>
+                  <row>
+                     <cell>Christmas Past</cell>
+                     <cell>110</cell>
+                  </row>
+                  <row>
+                     <cell>The Last Act</cell>
+                     <cell>112</cell>
+                  </row>
+                  <row>
+                     <cell>Inca</cell>
+                     <cell>
+                        <hi rend="italic">Tail-piece</hi>
+                     </cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ERIC'S BOOK OF BEASTS</head>
+               <p rend="justify">Monkey</p>
+               <p rend="justify">E ric's Planet</p>
+               <p rend="justify">Eric said to Jupiter:</p>
+               <p rend="justify">"Here I am. Good</p>
+               <p rend="justify">morning, Sir,</p>
+               <p rend="justify">What are your small</p>
+               <p rend="justify">planets worth?</p>
+               <p rend="justify">Give me one. I'll</p>
+               <p rend="justify">take the Earth."</p>
+               <p rend="justify">  Eric's Planet</p>
+               <p rend="justify">T he Caravan</p>
+               <p rend="justify">Van! Van! Caravan!</p>
+               <p rend="justify">Who is the camel and</p>
+               <p rend="justify">which is the man?</p>
+               <p rend="justify">  The Caravan</p>
+               <p rend="justify">J ack the Rabbit</p>
+               <p rend="justify">Jack the Rabbit</p>
+               <p rend="justify">Has the habit</p>
+               <p rend="justify">When you look him</p>
+               <p rend="justify">in the face</p>
+               <p rend="justify">He is in some other</p>
+               <p rend="justify">place.</p>
+               <p rend="justify">  Jack the Rabbit</p>
+               <p rend="justify">A n Elephant</p>
+               <p rend="justify">I never saw an Elephant</p>
+               <p rend="justify">But that's no symptom</p>
+               <p rend="justify">that I sha'n't.</p>
+               <p rend="justify">  An Elephant</p>
+               <p rend="justify">T he 'Potamus</p>
+               <p rend="justify">My little 'Potamus and I</p>
+               <p rend="justify">Walk hand in hand when</p>
+               <p rend="justify">roads are dry,</p>
+               <p rend="justify">But when the clouds</p>
+               <p rend="justify">begin to rain,</p>
+               <p rend="justify">I creep into his mouth</p>
+               <p rend="justify">again.</p>
+               <p rend="justify">  The 'Potamus</p>
+               <lg>
+                  <l>M y Crocodile</l>
+                  <l>My Crocodile is good to me—</l>
+                  <l>He is as nice as he can be;</l>
+                  <l>But when I go out for a ride,</l>
+                  <l>I'd rather not come back</l>
+                  <l>inside.</l>
+               </lg>
+               <lg>
+                  <l>  My Crocodile</l>
+               </lg>
+               <p rend="justify">T he Giraffe</p>
+               <lg>
+                  <l>If the Giraffe were not so tall</l>
+                  <l>He'd be an Awful Cannibal,</l>
+                  <l>But just before he goes to bed</l>
+                  <l>He sits awhile upon his head.</l>
+               </lg>
+               <lg>
+                  <l>  The Giraffe</l>
+               </lg>
+               <p rend="justify">A Goat</p>
+               <p rend="justify">This little beast is called</p>
+               <p rend="justify">a Goat,</p>
+               <lg>
+                  <l>He isn't anything of note,</l>
+                  <l>But give him a tomato can</l>
+                  <l>And he's a match for any</l>
+                  <l>Man.</l>
+               </lg>
+               <lg>
+                  <l>  A Goat</l>
+               </lg>
+               <p rend="justify">T he 'Possum</p>
+               <p rend="justify">The 'Possum sees the</p>
+               <p rend="justify">little boy;</p>
+               <p rend="justify">It does not seem to</p>
+               <p rend="justify">give him joy.</p>
+               <p rend="justify">  The 'Possum</p>
+               <p rend="justify">O ld Sea Catch</p>
+               <p rend="justify">Old Sea Catch comes out</p>
+               <p rend="justify">on the shore</p>
+               <p rend="justify">To Roar,</p>
+               <p rend="justify">And then he thinks it's</p>
+               <p rend="justify">time once more</p>
+               <p rend="justify">To Roar,</p>
+               <p rend="justify">And then he thinks he'll</p>
+               <p rend="justify">have to roar</p>
+               <p rend="justify">Some more!</p>
+               <p rend="justify">  Old Sea Catch</p>
+               <p rend="justify">Q uail</p>
+               <p rend="justify">I would not like to be a</p>
+               <p rend="justify">Quail,</p>
+               <p rend="justify">And have Salt sprinkled</p>
+               <p rend="justify">on my Tail.</p>
+               <p rend="justify">  Quail</p>
+               <p rend="justify">T he Ptarmigan</p>
+               <p rend="justify">The Ptarmigan lives in</p>
+               <p rend="justify">the Snow;</p>
+               <p rend="justify">Can Eric see him? I</p>
+               <p rend="justify">don't know.</p>
+               <p rend="justify">  The Ptarmigan</p>
+               <lg>
+                  <l>T he Pelican</l>
+                  <l>If I were born a Pelican,</l>
+                  <l>I'd try my best to be a Man!</l>
+               </lg>
+               <lg>
+                  <l>  The Pelican</l>
+               </lg>
+               <p rend="justify">T he Man</p>
+               <p rend="justify">If I were born a Man, I'd wish</p>
+               <p rend="justify">I might associate with Fish.</p>
+               <p rend="justify">  The Man</p>
+               <p rend="justify">T he Fish</p>
+               <p rend="justify">If I were born a fish—</p>
+               <p rend="justify">but then,</p>
+               <p rend="justify">No use to wish: Men</p>
+               <p rend="justify">must be Men.</p>
+               <p rend="justify">  The Fish</p>
+               <p rend="justify">T he Lion</p>
+               <p rend="justify">The Lion looks like Santa</p>
+               <p rend="justify">Claus,</p>
+               <p rend="justify">I think that this should</p>
+               <p rend="justify">give him paws.</p>
+               <p rend="justify">When he on Lionizing's</p>
+               <p rend="justify">bent,</p>
+               <p rend="justify">He always looks benevolent.</p>
+               <p rend="justify">  The Lion</p>
+               <lg>
+                  <l>H orned Toad</l>
+                  <l>Phryne is the beast, his name,</l>
+                  <l>Eric loves him just the same;</l>
+                  <l>On his back, see, if you please,</l>
+                  <l>Eric's name in Japanese.</l>
+               </lg>
+               <lg>
+                  <l>  Horned Toad</l>
+               </lg>
+               <p rend="justify">A Hospitable Reptile</p>
+               <p rend="justify">This Reptile is a hardened</p>
+               <p rend="justify">sinner;</p>
+               <p rend="justify">But when a friend drops in</p>
+               <p rend="justify">for dinner,</p>
+               <p rend="justify">He greets him with an</p>
+               <p rend="justify">open smile,</p>
+               <p rend="justify">And makes him merry</p>
+               <p rend="justify">quite a while.</p>
+               <p rend="justify">O let us, like this Reptile,</p>
+               <p rend="justify">be</p>
+               <p rend="justify">Renowned for Hospitality!</p>
+               <p rend="justify">  A Hospitable Reptile</p>
+               <p rend="justify">A Social Lobster</p>
+               <p rend="justify">The Lobster's home is in</p>
+               <p rend="justify">the Sea;</p>
+               <p rend="justify">It is as humble as may be.</p>
+               <p rend="justify">But he has wandered far</p>
+               <p rend="justify">afield,</p>
+               <p rend="justify">And now his presence is</p>
+               <p rend="justify">revealed</p>
+               <p rend="justify">Within our best Society.</p>
+               <p rend="justify">This Lesson to us all is</p>
+               <p rend="justify">sent</p>
+               <p rend="justify">To lend us due Encouragement.</p>
+               <p rend="justify">  A Social Lobster</p>
+               <p rend="justify">C ats and Kings</p>
+               <p rend="justify">A Cat may look at any King,</p>
+               <p rend="justify">If he cares for that sort of</p>
+               <p rend="justify">thing;</p>
+               <p rend="justify">And, if he likes the likes of</p>
+               <p rend="justify">that,</p>
+               <p rend="justify">Most any King can see a Cat.</p>
+               <p rend="justify">  Cats and Kings</p>
+               <p rend="justify">L ittle Children</p>
+               <p rend="justify">Little children at their play,</p>
+               <p rend="justify">Happy, scrappy all the day.</p>
+               <p rend="justify">  Little Children</p>
+               <p rend="justify">S ix Kings</p>
+               <p rend="justify">There were six Kings of</p>
+               <p rend="justify">Yvetôt;</p>
+               <p rend="justify">They stood up there all in</p>
+               <p rend="justify">a row,</p>
+               <p rend="justify">And every time they looked</p>
+               <p rend="justify">around</p>
+               <p rend="justify">They cast their eyes upon</p>
+               <p rend="justify">the ground.</p>
+               <p rend="justify">I do not like to look at</p>
+               <p rend="justify">Kings—</p>
+               <p rend="justify">They do such very awful</p>
+               <p rend="justify">things;</p>
+               <p rend="justify">For actions such as this</p>
+               <p rend="justify">must tend</p>
+               <p rend="justify">To make one's hair stand</p>
+               <p rend="justify">up on end!</p>
+               <p rend="justify">  Six Kings</p>
+               <lg>
+                  <l>A n Aspiring Monkey</l>
+                  <l>Once a Monkey in Japan</l>
+                  <l>Vowed his destiny was Man;</l>
+                  <l>So he climbed up in a tree,</l>
+                  <l>Then I saw him wink at me.</l>
+               </lg>
+               <lg>
+                  <l>  An Aspiring Monkey</l>
+               </lg>
+               <p rend="justify">O ld Time Folks</p>
+               <p rend="justify">These twain our ancestors</p>
+               <p rend="justify">must be, (Arboreal, undoubtedly)</p>
+               <p rend="justify">But this is true; it seems</p>
+               <p rend="justify">to me,</p>
+               <p rend="justify">If Adam looked like this</p>
+               <p rend="justify">and Eve, (With no intention to</p>
+               <p rend="justify">deceive)</p>
+               <p rend="justify">Thus in Creation's Rosy</p>
+               <p rend="justify">Dawn,</p>
+               <p rend="justify">I'm glad that I came later</p>
+               <p rend="justify">on.</p>
+               <p rend="justify">  Old Time Folks</p>
+               <lg>
+                  <l>T he Wunx</l>
+                  <l>In their dugout lives the Wunx</l>
+                  <l>With his jolly family;</l>
+                  <l>Tasting happiness in chunks,</l>
+                  <l>Just the same as you and me:</l>
+                  <l>Not much use the world to</l>
+                  <l>roam—</l>
+                  <l>Happiness is found at home.</l>
+               </lg>
+               <p rend="justify">(After J. W. R.)</p>
+               <p rend="justify">  The Wunx</p>
+               <p rend="justify">T otem Poles</p>
+               <p rend="justify">O, my Prophetic Soul!</p>
+               <p rend="justify">I see a Totem Pole—</p>
+               <p rend="justify">The only Ancient Screed</p>
+               <p rend="justify">That Hempl cannot read!</p>
+               <p rend="justify">  Totem Poles</p>
+               <lg>
+                  <l>O rgan and Organ Man</l>
+                  <l>The children sing in far Japan;</l>
+                  <l>The children sing in Spain;</l>
+                  <l>The organ and the organ man</l>
+                  <l>Are singing in the rain!</l>
+               </lg>
+               <p rend="justify">  R. L. S.</p>
+               <p rend="justify">  Organ and Organ Man</p>
+               <p rend="justify">I n Moonlight</p>
+               <p rend="justify">The squally Cat and squeaky</p>
+               <p rend="justify">Mouse;</p>
+               <p rend="justify">The howly Dog, by the door</p>
+               <p rend="justify">of the house;</p>
+               <p rend="justify">The Bat that hangs to his bed</p>
+               <p rend="justify">till noon,</p>
+               <p rend="justify">They all come out by the light</p>
+               <p rend="justify">of the moon.</p>
+               <p rend="justify">R. L. S.</p>
+               <p rend="justify">  In Moonlight</p>
+               <p rend="justify">H unter and Deer</p>
+               <p rend="justify">"The Hunter still the Deer</p>
+               <p rend="justify">pursues,</p>
+               <p rend="justify">The Hunter and the Deer</p>
+               <p rend="justify">a shade."</p>
+               <p rend="justify">  Hunter and Deer</p>
+               <p rend="justify">T he Gazelle</p>
+               <p rend="justify">I never loved a fond Gazelle</p>
+               <p rend="justify">But it would jump and snort</p>
+               <p rend="justify">and yell.</p>
+               <p rend="justify">  The Gazelle</p>
+               <lg>
+                  <l>A Bulldog by the River</l>
+                  <l>A Bulldog by the river's brim,</l>
+                  <l>A sinful Bulldog was to him.</l>
+               </lg>
+               <lg>
+                  <l>  A Bulldog by the River</l>
+               </lg>
+               <p rend="justify">S quidgecumsquees</p>
+               <p rend="justify">The Cats catch Mice and the</p>
+               <p rend="justify">Goblins chase the Elves,</p>
+               <p rend="justify">But the Squidgecumsquees</p>
+               <p rend="justify">they swallow themselves.</p>
+               <p rend="justify">(After J. W. R.)</p>
+               <p rend="justify">  Squidgecumsquees</p>
+               <p rend="justify">R oad to Mandalay</p>
+               <p rend="justify">On the Road to Mandalay</p>
+               <p rend="justify">Where the Flying Fishes play</p>
+               <p rend="justify">And the Dawn come up like</p>
+               <p rend="justify">thunder</p>
+               <p rend="justify">Out of China, 'cross the Bay.</p>
+               <p rend="justify">R. K.</p>
+               <p rend="justify">  Road to Mandalay</p>
+               <p rend="justify">M itgard Serpent</p>
+               <p rend="justify">It was the Mitgard Serpient,</p>
+               <p rend="justify">He grabbed the Earth and</p>
+               <p rend="justify">away he went; (The Mitgard Serpent was a</p>
+               <p rend="justify">Cat</p>
+               <p rend="justify">With a dozen legs, or about</p>
+               <p rend="justify">like that).</p>
+               <p rend="justify">He swallowed his tail with</p>
+               <p rend="justify">all his might,</p>
+               <p rend="justify">Then spit on his claws and</p>
+               <p rend="justify">held on tight;</p>
+               <p rend="justify">And so the world went round</p>
+               <p rend="justify">all right.</p>
+               <p rend="justify">And 'twas sometimes day and</p>
+               <p rend="justify">sometimes night,</p>
+               <p rend="justify">And 'twas always dark when</p>
+               <p rend="justify">it wasn't light.</p>
+               <p rend="justify">  Mitgard Serpent</p>
+               <p rend="justify">S aint Georgeing the Dragon</p>
+               <p rend="justify">There once was a brave</p>
+               <p rend="justify">Knight of Pendragon,</p>
+               <p rend="justify">Who tried to Saint George</p>
+               <p rend="justify">an old Dragon;</p>
+               <p rend="justify">But the Dragon had Claws</p>
+               <p rend="justify">At the ends of his Paws, (With no adequate Pauses</p>
+               <p rend="justify">At the ends of his Clauses).</p>
+               <p rend="justify">At last when the scrimmage</p>
+               <p rend="justify">was done,</p>
+               <p rend="justify">The Dragon had most of</p>
+               <p rend="justify">the Fun!</p>
+               <p rend="justify">  Saint Georgeing the Dragon</p>
+               <p rend="justify">F lotsam and Jetsam</p>
+               <p rend="justify">There once was a person</p>
+               <p rend="justify">in Spatsum</p>
+               <lg>
+                  <l>Who et some and gave to</l>
+                  <l>his cat some;</l>
+                  <l>But just what he et</l>
+                  <l>That I cannot tell yet,</l>
+                  <l>But 'twas probably</l>
+                  <l>Flotsam and Jetsam.</l>
+               </lg>
+               <lg>
+                  <l>  Flotsam and Jetsam</l>
+               </lg>
+               <p rend="justify">T he Atoll</p>
+               <p rend="justify">I know a magic circle in the</p>
+               <p rend="justify">Sea</p>
+               <p rend="justify">Etched on the blue with pale</p>
+               <p rend="justify">gray coral sand.</p>
+               <p rend="justify">A mountain sank there once,</p>
+               <p rend="justify">amid the spray,</p>
+               <p rend="justify">Its widening eddies stiffened</p>
+               <p rend="justify">into land</p>
+               <p rend="justify">With lazy surges flapping</p>
+               <p rend="justify">on the strand!</p>
+               <p rend="justify">  The Atoll</p>
+               <p rend="justify">S torm Wind</p>
+               <p rend="justify">One day the Storm Wind</p>
+               <p rend="justify">came to town</p>
+               <p rend="justify">And the Barometer went</p>
+               <p rend="justify">down.</p>
+               <p rend="justify">And all the dogs and cats</p>
+               <p rend="justify">had wings—</p>
+               <p rend="justify">And so had all the other</p>
+               <p rend="justify">things.</p>
+               <p rend="justify">  Storm Wind</p>
+               <p rend="justify">E ric in the Dark</p>
+               <p rend="justify">Little Eric in the dark</p>
+               <p rend="justify">Saw a Boojum and a Snark</p>
+               <p rend="justify">With a bunch of Gobelins;</p>
+               <p rend="justify">Also many other things.</p>
+               <p rend="justify">Such, a small boy sees in</p>
+               <p rend="justify">dreams</p>
+               <p rend="justify">When by night he ups and</p>
+               <p rend="justify">screams.</p>
+               <p rend="justify">  Eric in the Dark</p>
+               <p rend="justify">M ars' Stars and Pa's</p>
+               <p rend="justify">The Sun is down,</p>
+               <p rend="justify">The lazy Hound;</p>
+               <p rend="justify">The Moon is up,</p>
+               <p rend="justify">The little Pup.</p>
+               <p rend="justify">I see the Stars;</p>
+               <p rend="justify">One of 'em's Mars,</p>
+               <p rend="justify">I think the others</p>
+               <p rend="justify">Must be Pa's.</p>
+               <p rend="justify">The Stars shine bright,</p>
+               <p rend="justify">I'm sure it's night;</p>
+               <p rend="justify">Then go to bed,</p>
+               <p rend="justify">You sleepy-head!</p>
+               <p rend="justify">  Mars' Stars and Pa's</p>
+               <p rend="justify">T he Porcupine</p>
+               <p rend="justify">The Porcupine's awake at</p>
+               <p rend="justify">Dawn</p>
+               <p rend="justify">To see how Eric's coming on.</p>
+               <p rend="justify">  The Porcupine</p>
+               <p rend="justify">T he Purple Cow</p>
+               <p rend="justify">"I never saw a Purple Cow!"</p>
+               <p rend="justify">How can I paint one? This</p>
+               <p rend="justify">is How!</p>
+               <p rend="justify">  The Purple Cow</p>
+               <p rend="justify">I and Gnu</p>
+               <p rend="justify">When we have nothing else</p>
+               <p rend="justify">to do</p>
+               <lg>
+                  <l>We ride together, I and Gnu;</l>
+                  <l>And if I'm feeling extra smart,</l>
+                  <l>I take him spinning in my</l>
+                  <l>cart!</l>
+               </lg>
+               <lg>
+                  <l>  I and Gnu</l>
+               </lg>
+               <p rend="justify">B obo!</p>
+               <lg>
+                  <l>Comes the Bobo from his lair,</l>
+                  <l>Cats and squirrels in his hair.</l>
+                  <l>Eric's not a bit afraid;</l>
+                  <l>He knows how such beasts</l>
+                  <l>are made.</l>
+               </lg>
+               <lg>
+                  <l>  Bobo</l>
+               </lg>
+               <p rend="justify">T he Lone Salmon</p>
+               <lg>
+                  <l>Little Eric caught a Salmon</l>
+                  <l>Wandering through the field!</l>
+                  <l>Mother said: "It is alarmon'</l>
+                  <l>What our waters yield."</l>
+               </lg>
+               <lg>
+                  <l>  The Lone Salmon</l>
+               </lg>
+               <p rend="justify">B ean Soup</p>
+               <p rend="justify">Bean soup is bad!</p>
+               <p rend="justify">It makes me mad</p>
+               <p rend="justify">When mother gives such</p>
+               <p rend="justify">stuff to me.</p>
+               <p rend="justify">But when I pour</p>
+               <p rend="justify">It on the floor</p>
+               <p rend="justify">I'm just as happy as I can be.</p>
+               <p rend="justify">When Mother spanks</p>
+               <p rend="justify">I give her thanks,</p>
+               <p rend="justify">Because I know 'tis good</p>
+               <p rend="justify">for me.</p>
+               <p rend="justify">A happy Boy</p>
+               <p rend="justify">Am I. O Joy!</p>
+               <p rend="justify">What time my Daddy</p>
+               <p rend="justify">paints for me!</p>
+               <p rend="justify">  Bean Soup</p>
+               <p rend="justify">A Lost Shadow</p>
+               <p rend="justify">Eric and his little Shadow</p>
+               <p rend="justify">Went out walking in the</p>
+               <p rend="justify">Meadow.</p>
+               <p rend="justify">Little Shadow got away—</p>
+               <p rend="justify">Haven't seen him since</p>
+               <p rend="justify">that day.</p>
+               <p rend="justify">  A Lost Shadow</p>
+               <p rend="justify">T he Gazibou</p>
+               <p rend="justify">Here we go, O Gazibou!</p>
+               <p rend="justify">Eric's not afraid of you;</p>
+               <p rend="justify">You may scratch and</p>
+               <p rend="justify">reach and cough</p>
+               <p rend="justify">But you cannot throw</p>
+               <p rend="justify">him off!</p>
+               <p rend="justify">  The Gazibou</p>
+               <lg>
+                  <l>I n Junglest Africa[A]</l>
+                  <l>When politicians bungle</l>
+                  <l>'Tis quiet in the Jungle—</l>
+                  <l>For all the Beasts are tired</l>
+                  <l>Because a Man is fired.</l>
+                  <l>And may the parrot teach us</l>
+                  <l>This lesson of the hour—</l>
+                  <l>That going out of Office</l>
+                  <l>Is going into Power.</l>
+               </lg>
+               <lg>
+                  <l>  In Junglest Africa</l>
+               </lg>
+               <p rend="justify">E ric Fishing</p>
+               <p rend="justify">Little Eric went a-fishing</p>
+               <p rend="justify">With his rod and line and</p>
+               <p rend="justify">hook,</p>
+               <p rend="justify">And his wishing cap for</p>
+               <p rend="justify">wishing</p>
+               <p rend="justify">Half the minnows in the</p>
+               <p rend="justify">brook.</p>
+               <p rend="justify">This is what he caught by</p>
+               <p rend="justify">wishing:</p>
+               <p rend="justify">Trout and flying-fish and</p>
+               <p rend="justify">whale.</p>
+               <p rend="justify">This is what he caught by</p>
+               <p rend="justify">fishing:</p>
+               <p rend="justify">One small tadpole by the</p>
+               <p rend="justify">tail!</p>
+               <p rend="justify">  Eric Fishing</p>
+               <lg>
+                  <l>E ric's Bulldog</l>
+                  <l>Bulldog is a fearsome thing—</l>
+                  <l>Eric leads him with a string.</l>
+               </lg>
+               <lg>
+                  <l>  Eric's Bulldog</l>
+               </lg>
+               <p rend="justify">T he Steering Gear</p>
+               <p rend="justify">Brother Knight pounds away</p>
+               <p rend="justify">with his hammer so gay,</p>
+               <p rend="justify">While Daddy does stunts</p>
+               <p rend="justify">with his pen;</p>
+               <p rend="justify">And mother sits clear at the</p>
+               <p rend="justify">steering gear</p>
+               <p rend="justify">And bosses all three of us</p>
+               <p rend="justify">men.</p>
+               <p rend="justify">  The Steering Gear</p>
+               <lg>
+                  <l>B rother Knight</l>
+                  <l>Brother Knight is fond of curls;</l>
+                  <l>Half his ancestors were girls!</l>
+                  <l>So your daddy says; but, then,</l>
+                  <l>Half of mine were gentlemen.</l>
+                  <l>Thus we understand each other</l>
+                  <l>As a sister does a brother.</l>
+                  <l>'Tis a combination fine—</l>
+                  <l>Will you be my Valentine?</l>
+               </lg>
+               <lg>
+                  <l>  Brother Knight</l>
+               </lg>
+               <lg>
+                  <l>M y Daddy's Family</l>
+                  <l>Brother Knight, he is all right,</l>
+                  <l>With Harold, Edith and the</l>
+                  <l>rest;</l>
+                  <l>But of all my Daddy's family</l>
+                  <l>I like myself the best.</l>
+               </lg>
+               <lg>
+                  <l>  My Daddy's Family</l>
+               </lg>
+               <p rend="justify">C hristmas Past</p>
+               <p rend="justify">Content am I but just to</p>
+               <p rend="justify">sign the checks;</p>
+               <p rend="justify">Nor wot what mystery is</p>
+               <p rend="justify">brewing next!</p>
+               <p rend="justify">  Christmas Past</p>
+               <p rend="justify">T he Last Act</p>
+               <p rend="justify">Eric's grown up with the</p>
+               <p rend="justify">men;</p>
+               <p rend="justify">He won't need these things</p>
+               <p rend="justify">again.</p>
+               <p rend="justify">Sweep them out! He'll find</p>
+               <p rend="justify">his Joy</p>
+               <p rend="justify">With some other sort of Toy!</p>
+               <p rend="justify">  The Last Act</p>
+               <p rend="justify">  Little Incas</p>
+               <p rend="justify">Little Incas have long ears,</p>
+               <p rend="justify">May they sleep a thousand years!</p>
+               <p rend="justify">AND SO HERE ENDETH "ERIC'S BOOK OF BEASTS" WHICH DAVID STARR JORDAN DID WITH HIS PEN AND PAINT BOX, BUT THE PICTURES WERE TOO BEE-YOUTIFUL AND 'SPENSIVE; SO HE GOT HIS FRIEND, SHIMADA SEKKO, TO TRANSLATE THEM INTO CALM BLACK AND WHITE. PAUL ELDER AND COMPANY OF SAN FRANCISCO HAVE MADE THEM INTO A BOOK, WITH GREAT GLEE. AT THEIR TOMOYE PRESS JOHN SWART DESIGNED THE TYPE FACE, AND JEAN OLIVER HELPED WITH THE DECORATIONS—AND IT WAS ALL FINISHED AND SENT OUT INTO THE WORLD FOR GOOD BOYS AND GIRLS IN THE MERRY MONTH OF MAY, 1912</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FOOTNOTE</head>
+               <p rend="justify">[A] The cartoon is suggested by one in the "Indianapolis News," 1910.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

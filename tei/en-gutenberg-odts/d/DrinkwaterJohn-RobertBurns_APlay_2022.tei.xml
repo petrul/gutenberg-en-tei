@@ -1,0 +1,1940 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Robert Burns: A play</title>
+            <author>John Drinkwater</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T03:54:15Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/d/DrinkwaterJohn-RobertBurns_APlay_2022.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>John Drinkwater</name>
+               <date>2024-01-04T03:54:15Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Robert Burns: A play</head>
+         <author>John Drinkwater</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/d/DrinkwaterJohn-RobertBurns_APlay_2022.odt</p>
+         <head>ROBERT BURNS</head>
+         <p>A Play</p>
+         <author>By<lb/>John Drinkwater</author>
+         <p>BOSTON AND NEW YORK</p>
+         <p>HOUGHTON MIFFLIN COMPANY</p>
+         <p>1925</p>
+         <p>COPYRIGHT, 1925, BY HOUGHTON MIFFLIN COMPANY<lb/>
+         </p>
+         <p>All dramatic rights in this play are reserved by the author.</p>
+         <p>The music for Robert Burns has been composed by Frederick Austin, and the play may not be performed without this.</p>
+         <p>
+            <hi rend="bold">The Riverside Press</hi>
+            <lb/>CAMBRIDGE · MASSACHUSETTS<lb/>PRINTED IN THE U.S.A.</p>
+         <p>FOR<lb/>DAVID</p>
+         <pb/>
+         <div type="div1">
+            <head>Robert Burns: A play</head>
+            <pb/>
+            <div type="div2">
+               <head>THE CHARACTERS IN THE ORDER OF THEIR APPEARANCE ARE</head>
+               <lg>
+                  <l>Nell</l>
+                  <l>Robert Burns</l>
+                  <l>Holy Willie</l>
+                  <l>Landlord at the Inn</l>
+                  <l>Tam Laurie</l>
+                  <l>Michael</l>
+                  <l>James Armour</l>
+                  <l>A Factor</l>
+                  <l>An Old Beggar</l>
+                  <l>A Doxy</l>
+                  <l>Another Beggar Woman</l>
+                  <l>Gavin Hamilton</l>
+                  <l>A Sheriff’s Officer</l>
+                  <l>John Anderson</l>
+                  <l>Mrs. Stewart of Stair</l>
+                  <l>The Duchess of Gordon</l>
+                  <l>Miss Taylor</l>
+                  <l>Mrs. Ferguson</l>
+                  <l>Mrs. Montgomery</l>
+                  <l>Walter Scott</l>
+                  <l>Mr. Robertson</l>
+                  <l>Professor Ferguson</l>
+                  <l>Dr. Blacklock</l>
+                  <l>Lord Muir</l>
+                  <l>Baliol White</l>
+                  <l>Sam Ogilvie</l>
+                  <l>Neil Simpson</l>
+                  <l>‘Shy’ Duncan</l>
+                  <l>Meg</l>
+                  <l>Girl at Ellisland</l>
+                  <l>Jean Armour</l>
+                  <l>Willie Campbell</l>
+                  <l>Mrs. Fergus</l>
+                  <l>M’Pherson</l>
+                  <l>Mr. Fenton</l>
+               </lg>
+               <p rend="justify">ROBERT BURNS</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>SCENE I</label>
+               </head>
+               <p rend="justify">A fine warm afternoon in late winter. A green hillock at the edge of a ploughland. A peasant girl, with mischief in her movement, runs on, and looks from the hillock up and down the furrows. Then she fixes her gaze on some object in the distance, and after a moment sings—</p>
+               <lg>
+                  <l>Nell:</l>
+                  <l>The ploughman he’s a bonnie lad,</l>
+                  <l>His mind is ever true, jo;</l>
+                  <l>His garters knit below his knee,</l>
+                  <l>His bonnet it is blue, jo.</l>
+                  <l>Then up wi’ it a’ my ploughman lad,</l>
+                  <l>And hey my merry ploughman.</l>
+                  <l>Of a’ the trades that I do ken,</l>
+                  <l>Commend me to the ploughman.</l>
+               </lg>
+               <lg>
+                  <l>My ploughman he comes hame at e’en,</l>
+                  <l>He’s aften wat and weary;</l>
+                  <l>Cast off the wat, put on the dry,</l>
+                  <l>And gae to bed, my dearie!</l>
+                  <l>Then up wi’ it a’ my ploughman lad,</l>
+                  <l>And hey my merry ploughman.</l>
+                  <l>Of a’ the trades that I do ken,</l>
+                  <l>Commend me to the ploughman.</l>
+               </lg>
+               <p rend="justify">[As the song is closing the approach of plough-harness is heard, and Robert Burns, driving, appears at the back of the scene. He sees Nell and draws the plough up.]</p>
+               <p rend="justify">Burns: Nell! there’s a good lass now.</p>
+               <p rend="justify">Nell: Oughtn’t you to go on with your ploughing?</p>
+               <p rend="justify">Burns (turning): To please you?</p>
+               <p rend="justify">Nell: That’s as may be.</p>
+               <p rend="justify">Burns (coming back): Pretty Nell.</p>
+               <p rend="justify">Nell: You think I’m pretty?</p>
+               <p rend="justify">Burns (taking her in his arms and kissing her): Pretty, pretty Nell.</p>
+               <p rend="justify">Nell (sitting on the grass): I could be pretty if you had some money.</p>
+               <p rend="justify">Burns: Oh, I’ll have money yet.</p>
+               <p rend="justify">Nell: But by then I shan’t be able to be pretty any more.</p>
+               <p rend="justify">Burns (sitting beside her): But you are, Nell—pretty as a fair-day.</p>
+               <p rend="justify">Nell: A girl wants ribbons and laces and all that. Look at my frock—why, the quality’s serving women would laugh at it.</p>
+               <p rend="justify">Burns: Their ignorant pride, Nell. I don’t laugh at it—I think it’s like a queen’s dress—you make it look like that. I thought that the first day, barley-gleaning—you remember? The way you walked, and then stooping—willow rods and birds’ wings and the way a star falls. What’s a dress to all that, my dearie?</p>
+               <p rend="justify">[He sings.]<lb/>
+               </p>
+               <lg>
+                  <l>O, once I lov’d a bonnie lass,</l>
+                  <l>Ay, and I love her still;</l>
+                  <l>And, whilst that virtue warms my breast,</l>
+                  <l>I’ll love my handsome Nell.</l>
+               </lg>
+               <lg>
+                  <l>She dresses aye sae clean and neat,</l>
+                  <l>Both decent and genteel:</l>
+                  <l>An’ then there’s something in her gait</l>
+                  <l>Gars ony dress look weel.</l>
+                  <l>A gaudy dress and gentle air</l>
+                  <l>May slightly touch the heart;</l>
+                  <l>But it’s innocence and modesty</l>
+                  <l>That polishes the dart.</l>
+                  <l>’Tis this in Nelly pleases me,</l>
+                  <l>’Tis this enchants my soul!</l>
+                  <l>For absolutely in my breast</l>
+                  <l>She reigns without control.</l>
+                  <l>Nell: And all that is for me?</l>
+                  <l>Burns: You like it?</l>
+                  <l>Nell: Yes, Robbie. But what was that about innocence and modesty?</l>
+                  <l>Burns: That’s for the Sabbath, maybe.</l>
+                  <l>Nell: It’s not the Sabbath to-day.</l>
+               </lg>
+               <p rend="justify">Burns (accepting the invitation): My pretty, pretty Nell. (As he kisses her.)</p>
+               <p rend="justify">[After a long embrace, Burns repeats.]<lb/>
+               </p>
+               <lg>
+                  <l>Burns:</l>
+                  <l>She dresses aye sae clean and neat,</l>
+                  <l>Both decent and genteel:</l>
+                  <l>An’ then there’s something in her gait</l>
+                  <l>Gars ony dress look weel.</l>
+               </lg>
+               <p rend="justify">[As he finishes, the music announces the coming of Holy Willie, the canting parson of Scotch bigotry, upon whose appearance the lovers separate, Nell a little disconcerted, Burns returning to his plough. Holy Willie sees them, with a great gesture of disapproval. When they have gone, he sings the following part of his prayer.]</p>
+               <lg>
+                  <l>Holy Willie:</l>
+                  <l>O Thou that in the heavens does dwell,</l>
+                  <l>Wha, as it pleases best Thysel’,</l>
+                  <l>Sends ane to heaven, and ten to hell,</l>
+                  <l>A’ for Thy glory,</l>
+                  <l>And no’ for ony guid or ill</l>
+                  <l>They’ve done before Thee!</l>
+                  <l>Lord, bless Thy chosen in this place,</l>
+                  <l>For here Thou hast a chosen race:</l>
+               </lg>
+               <lg>
+                  <l>But God confound their stubborn face,</l>
+                  <l>And blast their name,</l>
+                  <l>Wha bring Thy elders to disgrace</l>
+                  <l>And public shame.</l>
+                  <l>But, Lord, remember me and mine,</l>
+                  <l>Wi’ mercies temporal and divine,</l>
+                  <l>That I for grace and gear may shine,</l>
+                  <l>Excell’d by nane,</l>
+                  <l>And a’ the glory shall be Thine,</l>
+                  <l>Amen, Amen!</l>
+               </lg>
+               <p rend="justify">[Towards the end of the prayer, Burns has come back, and stands listening; as the prayer closes, Holy Willie turns and sees him.]</p>
+               <p rend="justify">Holy Willie: Young man, young man, I do not like your ways.</p>
+               <p rend="justify">Burns: I don’t like your prayer.</p>
+               <p rend="justify">Holy Willie: You blaspheme against Holy Kirk.</p>
+               <p rend="justify">Burns: You blaspheme against God.</p>
+               <p rend="justify">Holy Willie: Beware the wrath of the ministry, young man.</p>
+               <p rend="justify">Burns: Beware His wrath on holy upstarts, minister.</p>
+               <p rend="justify">Holy Willie: Shameless, shameless. With your doxy there. Who was she?</p>
+               <p rend="justify">Burns: A good girl, minister. All affection, and young, and kisses, and likes a song.</p>
+               <p rend="justify">Holy Willie: A hussy—a woman of evil, I doubt not.</p>
+               <p rend="justify">Burns: And the greatest of these is charity.</p>
+               <p rend="justify">Holy Willie: Profane not that holy word.</p>
+               <p rend="justify">Burns: Meditate upon it, minister.</p>
+               <p rend="justify">Holy Willie: Who was the wench?</p>
+               <p rend="justify">Burns: A sweet ankle—did you notice maybe?</p>
+               <p rend="justify">Holy Willie: Dare you speak so—to me?</p>
+               <p rend="justify">Burns: Aye—we are all tinder, completely tinder. Some are ashamed of it, that’s all.</p>
+               <p rend="justify">Holy Willie: I am not ashamed—that is, I have no cause for shame.</p>
+               <p rend="justify">Burns: And some of us give praise for all good gifts—a sweet ankle, believe me, minister.</p>
+               <p rend="justify">Holy Willie: Have a care of the pit, and the everlasting flames.</p>
+               <p rend="justify">Burns: They’ll come or not as it may be. You’ll not be the judge, minister, there’s hope in that. And the lasses are here, and a man’s heart beats, and you can’t frown us out of it, minister. Look at us, labouring and wearing ourselves and near starving often, and are we to take nothing that bright eyes and fond lips and white young arms may offer? Who talks of profaning, minister!</p>
+               <p rend="justify">[He sings.]<lb/>
+               </p>
+               <lg>
+                  <l>There’s nought but care on ev’ry han’,</l>
+                  <l>In every hour that passes, O:</l>
+                  <l>What signifies the life o’ man,</l>
+                  <l>An’ ’twere na for the lasses, O?</l>
+                  <l>Green grow the rashes, O!</l>
+                  <l>Green grow the rashes, O!</l>
+                  <l>The sweetest hours that e’er I spend</l>
+                  <l>Are spent amang the lasses, O.</l>
+                  <l>The warl’ly race may riches chase,</l>
+                  <l>An’ riches still may fly them, O:</l>
+                  <l>An’ tho’ at last they catch them fast,</l>
+                  <l>Their hearts can ne’er enjoy them, O.</l>
+               </lg>
+               <lg>
+                  <l>But gi’e me a canny hour at e’en,</l>
+                  <l>My arms about my dearie, O:</l>
+                  <l>An’ warl’ly cares, an’ warl’ly men,</l>
+                  <l>May a’ gae tapsalteerie, O.</l>
+                  <l>For you sae douce, ye sneer at this,</l>
+                  <l>Ye’re nought but senseless asses, O:</l>
+                  <l>The wisest man the warl’ e’er saw</l>
+                  <l>He dearly lov’d the lasses, O.</l>
+                  <l>Auld Nature swears, the lovely dears</l>
+                  <l>Her noblest work she classes, O:</l>
+                  <l>Her prentice han’ she try’d on man,</l>
+                  <l>An’ then she made the lasses, O.</l>
+                  <l>Green grow the rashes, O!</l>
+                  <l>Green grow the rashes, O!</l>
+                  <l>The sweetest hours that e’er I spend</l>
+                  <l>Are spent amang the lasses, O.</l>
+                  <l>Holy Willie: But think of that poor young girl.</l>
+                  <l>Burns: I think of her, and think, and think—goddesses, all of them.</l>
+               </lg>
+               <lg>
+                  <l>Holy Willie: I fear you will be damned.</l>
+                  <l>Burns: Then I’ll be gallantly damned, minister.</l>
+               </lg>
+               <p rend="justify">Holy Willie: A stubborn heart. She would listen, maybe, though you are deaf. Again I ask you, young man, Who was she? I will counsel her to prudent godliness. Who was she?</p>
+               <p rend="justify">Burns: A sweet ankle, and an inviting waist—no, I wouldn’t trust you with her, minister.</p>
+               <p rend="justify">Holy Willie: Lewd and idolatrous! Son of Belial! If thy tongue offend thee pluck it out—offensive tongue! Disgrace among us, profligate and wanton, beware the end!</p>
+               <p rend="justify">[Sings.]</p>
+               <lg>
+                  <l>But, Lord, remember me and mine,</l>
+                  <l>Wi’ mercies temporal and divine,</l>
+                  <l>That I for grace and gear may shine,</l>
+                  <l>Excell’d by nane,</l>
+                  <l>An’ a’ the glory shall be Thine,</l>
+                  <l>Amen, Amen!</l>
+               </lg>
+               <p rend="justify">[He goes.]<lb/>
+               </p>
+               <p rend="justify">Burns: Beware the end. Had he been a cleaner gospeller, that might be a thing to consider. But the man’s rotten—who is to be preached at by such a one? But, the end. Holy Willie there maybe has the truth of it, for all he’s a false and snivelling prophet. A pretty face, and I’m all song, all springtime. Is that peace in the end? Pretty, pretty Nell. But I’ll sing a song for Scotland yet before I founder—cottar though I be. A song to remember on the highways—aye, and in Courts too. But continence, Robin, or they will consume you.</p>
+               <p rend="justify">O, were I on Parnassus hill,</p>
+               <p rend="justify">Or had of Helicon my fill.</p>
+               <p rend="justify">I must mend, indeed, indeed. And they are lovely, but deceivers—so positive and sly—deceivers—I’ll forswear them. I’ll be a monk, and none but John Barleycorn for merry company. Holy Willie is a bad man, but he spoke truth I fear, though by rule of the Kirk’s thumb. Forswear them, Robin.</p>
+               <p rend="justify">[He sings.]<lb/>
+               </p>
+               <lg>
+                  <l>Deluded swain, the pleasure</l>
+                  <l>The fickle fair can give thee</l>
+               </lg>
+               <lg>
+                  <l>Is but a fairy treasure—</l>
+                  <l>Thy hopes will soon deceive thee.</l>
+                  <l>The billows on the ocean,</l>
+                  <l>The breezes idly roaming,</l>
+                  <l>The clouds’ uncertain motion—</l>
+                  <l>They are but types of woman.</l>
+                  <l>O! art thou not ashamed</l>
+                  <l>To doat upon a feature?</l>
+                  <l>If man thou would’st be named,</l>
+                  <l>Despise the silly creature.</l>
+                  <l>Go, find an honest fellow;</l>
+                  <l>Good claret set before thee:</l>
+                  <l>Hold on till thou art mellow,</l>
+                  <l>And then to bed in glory.</l>
+               </lg>
+               <p rend="justify">The plough, and John Barleycorn—once in a week just—or twice maybe, and I’ll be cold to all glances till wedding-time, if it comes.</p>
+               <p rend="justify">[He moves back towards the plough. As he does so, Nell is heard singing, and he stops.]</p>
+               <lg>
+                  <l>Nell:</l>
+                  <l>O whistle, and I’ll come to you, my lad,</l>
+                  <l>O whistle, and I’ll come to you, my lad:</l>
+                  <l>Tho’ father and mother and a’ should gae mad,</l>
+                  <l>O whistle, and I’ll come to you, my lad.</l>
+               </lg>
+               <p rend="justify">[She appears.]<lb/>
+               </p>
+               <p rend="justify">Burns: Nay, I did not whistle. I must to the plough. I am all new in resolution.</p>
+               <lg>
+                  <l>Nell (singing):</l>
+                  <l>Come down the back stairs when ye come to court me;</l>
+                  <l>Come down the back stairs when ye come to court me;</l>
+                  <l>Come down the back stairs, and let naebody see,</l>
+                  <l>And come as ye were na coming to me.</l>
+               </lg>
+               <p rend="justify">Burns: I’m not courting any longer, I tell you. I’m to beware of lasses, Nell, henceforth. I’m ice, I tell you.</p>
+               <lg>
+                  <l>Nell (moving away, singing):</l>
+                  <l>O whistle, and I’ll come to you, my lad,</l>
+                  <l>O whistle, and I’ll come to you, my lad:</l>
+                  <l>Tho’ father and mother and a’ should gae mad,</l>
+               </lg>
+               <lg>
+                  <l>O whistle, and I’ll come to you, my lad.</l>
+               </lg>
+               <p rend="justify">[She has gone. Burns makes another move to the plough, then turns suddenly, and calls—]</p>
+               <lg>
+                  <l>Burns: Nell—Nell.</l>
+                  <l>Nell (singing):</l>
+                  <l>O whistle, and I’ll come to you, my lad,</l>
+                  <l>O whistle, and I’ll come to you, my lad....</l>
+               </lg>
+               <p rend="justify">[Burns whistles the rest of the tune through, and Nell is with him again.]</p>
+               <p rend="justify">Nell: That black-coated, lean-bodied, yellow-faced gowk to scare you. Cracked metal like that to turn you off, a pretty man like you, Robin, with your kisses and your rhymes. A snivelling man, a watery-eyed man—and bawdy too, I know him. He’s bad Sabbath, a leering, lecherous, safe man—he would and he would not afore God—oh yes, I know him. And you’ll let him trip you up, spoil your stanzas—for shame, Robin.</p>
+               <p rend="justify">Burns: You ran away, Nell, and left me alone against him.</p>
+               <p rend="justify">Nell: Ran away—yes I ran away—no Master Sanctimony for me. Ask Annie Leslie.</p>
+               <p rend="justify">Burns: I gave him no civil flattery—I can read him as well as you or Annie. But I fell to thinking afterwards.</p>
+               <p rend="justify">Nell: To have done with courting.</p>
+               <p rend="justify">Burns: Till I’m for wedding.</p>
+               <p rend="justify">Nell: But I want no talk of weddings. Let that bide. Spring’s coming, and it’s a clear day, and here are we, and you’re a man, Robin, to make holy rags there look the famine he is.</p>
+               <p rend="justify">Burns: It was a bad resolution.</p>
+               <p rend="justify">Nell: A miserable resolution, Robin.</p>
+               <p rend="justify">Burns: I discard it.</p>
+               <p rend="justify">Nell: You whistled and I came to ye, my lad.</p>
+               <p rend="justify">Burns: Love shall keep me company with John Barleycorn, Nell,</p>
+               <p rend="justify">Until I’m on Parnassus Hill</p>
+               <p rend="justify">And had of Helicon my fill.</p>
+               <p rend="justify">Nell: You’re ice!</p>
+               <p rend="justify">Burns: Then I’m a rogue. It was a spleen of Holy Willie’s begetting. Kiss me.</p>
+               <p rend="justify">Nell: Are there kisses on the Parnassus Hill you talk of?</p>
+               <p rend="justify">Burns: Immortal kisses.</p>
+               <p rend="justify">Nell (in his arms): Take me with you.</p>
+               <p rend="justify">Burns: I’ll take you, Nell. It shall be our Parnassus Hill.</p>
+               <p rend="justify">[He sings, and, in the repetitions, Nell with him.]</p>
+               <lg>
+                  <l>O my luve is like a red, red rose,</l>
+                  <l>That’s newly sprung in June;</l>
+                  <l>O my luve is like the melodie</l>
+                  <l>That’s newly played in tune.</l>
+                  <l>As fair art thou, my bonnie lass,</l>
+                  <l>So deep in luve am I;</l>
+                  <l>And I will luve thee still, my dear,</l>
+                  <l>Till a’ the seas gang dry.</l>
+                  <l>Till a’ the seas gang dry, my dear,</l>
+                  <l>And the rocks melt wi’ the sun;</l>
+                  <l>And I will luve thee still, my dear,</l>
+                  <l>While the sands o’ life shall run.</l>
+                  <l>And fare thee weel, my only luve!</l>
+                  <l>And fare thee weel a while!</l>
+                  <l>And I will come again, my luve,</l>
+                  <l>Tho’ it were ten thousand mile.</l>
+               </lg>
+               <p rend="justify">THE CURTAIN FALLS<lb/>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>SCENE II</label>
+               </head>
+               <p rend="justify">A late spring evening two years later. The Inn at Mauchline. The room is lamplit.</p>
+               <p rend="justify">A number of villagers are seated round the room, drinking, being served by the landlord, and Nell, now the maid of the Inn. Burns is standing on a chair, singing, all joining in every other verse.</p>
+               <lg>
+                  <l>Burns:</l>
+                  <l>There was three kings into the east,</l>
+                  <l>Three kings both great and high;</l>
+                  <l>And they hae sworn a solemn oath</l>
+                  <l>John Barleycorn should die.</l>
+                  <l>Chorus:</l>
+                  <l>They took a plough and plough’d him down,</l>
+                  <l>Put clods upon his head,</l>
+                  <l>And they hae sworn a solemn oath</l>
+                  <l>John Barleycorn was dead.</l>
+                  <l>Burns:</l>
+                  <l>But the cheerful Spring came kindly on,</l>
+                  <l>And show’rs began to fall;</l>
+               </lg>
+               <lg>
+                  <l>John Barleycorn got up again,</l>
+                  <l>And sore surpris’d them all.</l>
+                  <l>Chorus:</l>
+                  <l>The sober Autumn enter’d mild,</l>
+                  <l>When he grew wan and pale;</l>
+                  <l>His bending joints and drooping head</l>
+                  <l>Show’d he began to fail.</l>
+                  <l>Burns:</l>
+                  <l>They’ve ta’en a weapon, long and sharp,</l>
+                  <l>And cut him by the knee;</l>
+                  <l>Then tied him fast upon a cart,</l>
+                  <l>Like a rogue for forgerie.</l>
+                  <l>Chorus:</l>
+                  <l>They wasted o’er a scorching flame</l>
+                  <l>The marrow of his bones;</l>
+                  <l>But a miller us’d him worst of all—</l>
+                  <l>For he crush’d him ’tween two stones.</l>
+                  <l>Burns:</l>
+                  <l>And they ha’e ta’en his very heart’s blood,</l>
+                  <l>And drank it round and round;</l>
+               </lg>
+               <lg>
+                  <l>And still the more and more they drank,</l>
+                  <l>Their joy did more abound.</l>
+                  <l>Chorus:</l>
+                  <l>Then let us toast John Barleycorn,</l>
+                  <l>Each man a glass in hand;</l>
+                  <l>And may his great posterity</l>
+                  <l>Ne’er fail in old Scotland!</l>
+               </lg>
+               <p rend="justify">[There is general acclamation and toasting.]</p>
+               <p rend="justify">Burns (jumping down from his chair, a little ‘flown’): Fill up—fill up! John Barleycorn is Scotland’s king, and shall be so for ever! Fill up! There’s a pretty Nell. How’s that for a song, landlord?</p>
+               <p rend="justify">The Landlord: Very good sentiments, Robin. Let all honest men prosper, say I.</p>
+               <p rend="justify">Burns: Meaning, most noble landlord, all honest men to be John Barleycorn’s liege subjects—that pay tribute, mark you. Drink up, Tam Laurie—why so doomsday, man?</p>
+               <p rend="justify">Tam (a meek, hard-driven little man): It’s the cursed factors, Robin. They’ll not let a man scrape supper gruel from his toil.</p>
+               <p rend="justify">Burns: Blast and misfortune to them! Craft and fat bellies—a flea on a dog’s tail is a respectable work of God beside a factor. A toast, friends, fellow-citizens of Mauchline—‘To hell with all factors.’</p>
+               <p rend="justify">[The toast is drunk with enthusiasm.]<lb/>
+               </p>
+               <p rend="justify">A lean but well-to-do Farmer: That’s all very well, but rents have to be paid.</p>
+               <p rend="justify">Burns: Friends—another toast—‘To hell with all rents.’</p>
+               <p rend="justify">[And again.]<lb/>
+               </p>
+               <p rend="justify">Burns: Michael, you speak as a man the Lord prospers.</p>
+               <p rend="justify">Michael: I speak as one who is diligent.</p>
+               <p rend="justify">Burns: Diligent, quotha! A man left a fat inheritance and his croft all favoured by nature, and he talks diligence. Have you sweated, Michael, with your share always ringing on the stones, and your breeches letting in the cold blast behind you, and your boots full of March rain, and your belly empty, and a bare table to go home to when dark comes, and a gap in the roof above you as wide as a lassie’s embrace? Have you done these things, and kept the heart true steel within you, like Tam Laurie there?</p>
+               <p rend="justify">Tam: I’ve to quit come Tuesday week.</p>
+               <p rend="justify">Burns: To quit, Michael—do you hear that? Do you know what quitting means? You stand out there under the sky, and your steps may as well go this way as that, for you have no door in the world, and a ditch to starve in is all you can borrow. And rents must be paid. To hell with such rents I say!</p>
+               <p rend="justify">Michael: I’ll not listen to such heresies in the state. Respectable houses are not safe when tongues are loose like this. But the Lord will look to his own.</p>
+               <p rend="justify">Burns: You put off settlement with the Lord as long as you can, Michael Johnson—you’ll be wise.</p>
+               <p rend="justify">Michael: They say that Mr. Armour will not be put off, though.</p>
+               <p rend="justify">[Burns is suddenly silenced by this, and with his parting score Michael goes, two or three of the others following him. One or two of the party are now asleep, two or three others talking together, Tam sitting by himself. The landlord is smoking, and Nell cleaning pots.]</p>
+               <p rend="justify">Tam: He was always bitter to poverty. Thank you, Robin, for speaking.</p>
+               <p rend="justify">Nell: What’s that about Mr. Armour?</p>
+               <p rend="justify">Burns: They’ve beaten me, Nell. I’ve got to go.</p>
+               <p rend="justify">Nell: How’s that?</p>
+               <p rend="justify">Burns (sitting at a table near to us, in dejection. Nell comes to him, still working. Some of the others at another table are playing cards): We were friends, Nell, you and I.</p>
+               <p rend="justify">Nell: Good friends, Robin.</p>
+               <p rend="justify">Burns: Parnassus Hill, you remember?</p>
+               <p rend="justify">Nell: You and I, and love, and John Barleycorn—yes.</p>
+               <p rend="justify">Burns: Then there was my Mary; she died. Then Jean came. You didn’t scold.</p>
+               <p rend="justify">Nell: I knew they would come. I told you I was not for wedding.</p>
+               <p rend="justify">Burns: Jean is a mother.</p>
+               <p rend="justify">Nell: You?</p>
+               <p rend="justify">Burns: Yes.</p>
+               <p rend="justify">Nell: You’ll wed her then, so why grieve? She’s good, and she’s comely.</p>
+               <p rend="justify">Burns: I love her, Nell, and I’d be proud of her. But I’m not to wed her.</p>
+               <p rend="justify">Nell: But that’s not honest, Robin.</p>
+               <p rend="justify">Burns: They won’t let me.</p>
+               <p rend="justify">Nell: Who won’t?</p>
+               <p rend="justify">Burns: That’s what Michael meant. Mr. Armour. He’s forbidden it. I’m not genteel enough. He says I’m profligate. He’s right I dare say. But that, it’s bitter, that. He’d rather have his girl be shamed alone than be shamed by wedding me. And I can’t pay as I’m ordered (he shows her a paper), so it’s jail or leaving Scotland. John Barleycorn is all now. Fill my pot, Nell.</p>
+               <p rend="justify">[Nell does so, and brings it to him.]<lb/>
+               </p>
+               <p rend="justify">Nell: What will you do?</p>
+               <p rend="justify">Burns: I came here to forget it. I’m going. Jamaica—that’s a world’s journey off, Nell. Jean, and Scotland—I’m losing both.</p>
+               <p rend="justify">[He sings.]<lb/>
+               </p>
+               <lg>
+                  <l>O thou pale Orb, that silent shines,</l>
+                  <l>While care-untroubled mortals sleep!</l>
+               </lg>
+               <lg>
+                  <l>Thou seest a wretch that inly pines,</l>
+                  <l>And wanders here to wail and weep!</l>
+                  <l>With Woe I nightly vigils keep,</l>
+                  <l>Beneath thy wan, unwarming beam;</l>
+                  <l>And mourn, in lamentation deep,</l>
+                  <l>How life and love are all a dream.</l>
+               </lg>
+               <p rend="justify">[As he is ending the song, three men come to the door. One is James Armour, Jean’s father, another a Factor, and with them is Holy Willie. The Factor goes to the counter and drinks.]</p>
+               <p rend="justify">Armour: So you can sing in the midst of the desolation you’ve caused.</p>
+               <p rend="justify">Burns: It was no happy song, Mr. Armour.</p>
+               <p rend="justify">Armour: There’s a warrant coming down the road for you.</p>
+               <p rend="justify">Burns: But I cannot pay, I told you. I’ll work for Jean, but you’ll not let me.</p>
+               <p rend="justify">Armour: I will not. I want no creeping seducer for a son-in-law.</p>
+               <p rend="justify">Burns: That’s—I’ll not say what it is, Mr. Armour. Ask Jean. She loves me. We’re proud of it, if you would let us be.</p>
+               <p rend="justify">Armour: Proud of it, you Barbary sheep! The girl’s a scandal to my name, but she’s not for you. Let her be proud of it alone.</p>
+               <p rend="justify">Holy Willie: I told you of this, young man. I preached the light to you.</p>
+               <p rend="justify">Burns: Good counsel from you would corrupt the saints, minister. Why won’t you let me wed Jean, Mr. Armour?</p>
+               <p rend="justify">Armour: I came to give no reasons, Robert Burns. I came to see you knew the choice rightly. You can pay, or you can feel handcuffs, or you can go where you’ll never offend honest Scots eyes with the sight of you more.</p>
+               <p rend="justify">Holy Willie: And whichever you choose, you’ll first do penance in kirk for an incontinent sinner. It is the kirk’s will.</p>
+               <p rend="justify">Burns: Let him that is without sin, minister—but let that go. Again, Mr. Armour, I ask it in good faith, let me take Jean to church. There’ll be no penance in that, but hope and goodwill, I promise it.</p>
+               <p rend="justify">Armour: You’ve no virtue, but if you were made of it, I’ld say no still. You’ve not rank enough for the Armours.</p>
+               <p rend="justify">Burns: Rank, rank, rank! Then destroy her and destroy me, and ask your holy friend here to pray God to show you your own black and proud and silly heart. Fill up my pot, Nell.</p>
+               <p rend="justify">[As she does so, the Factor is about to leave, but seeing Tam Laurie, goes across to him.]</p>
+               <p rend="justify">The Factor: Have you found that money, Laurie?</p>
+               <p rend="justify">Tam: It’s not for finding.</p>
+               <p rend="justify">The Factor: It’s for spending, it seems.</p>
+               <p rend="justify">Tam: I’ve had but two pots, and not to my score.</p>
+               <p rend="justify">The Factor: Tuesday week then. I hope you’ll have joy of your travels.</p>
+               <p rend="justify">Tam: It’s a poor thing to fleer at a man that’s beaten.</p>
+               <p rend="justify">Burns (crossing, pot in hand): A dirty thing, Master Factor, a thing that makes old Nickie-ben laugh down among the sulphur the minister is so fond of gabbing about. And before I’m gone, I’ll stand up and prophesy among you. Mr. Armour, you’re a little man, in a little place, and for your peddling bit of dignity and self-esteem you’ll break your girl’s heart and ruin me. Minister, you’ll sit on the Lord’s right hand till He turns round and catches you there. And you, Factor, will sit on a lord’s right hand till he turns round and finds your fingers in his pocket. And you’re all upright pillars of repute, praise the Lord, Amen. And Tam here is a pauper, and I’m forfeit, and before the God that you blaspheme with your devil’s work, we’ll take our chance at the day of judgment against the lot of you. He’ll have mercy on us, for we are sinners, but I doubt he’ll take no notice of you at all, and you’ll find it a wide place to wander in and learn your lesson.</p>
+               <p rend="justify">[Outside is heard the sound of music and song, coming from a band of Beggars passing along the road.]</p>
+               <p rend="justify">Burns (going to the window, and looking out): Listen to them—vagabonds, unwashed, thieves perhaps, and kiss who kiss can. But they’re free, and they’re honester than your sort, righter commanders. (Opening the door.) Come in, come in—a pot apiece for a song, my hearties—come and teach the gentlemen to say their grace.</p>
+               <p rend="justify">[The Beggars crowd at the door.]<lb/>
+               </p>
+               <p rend="justify">Armour: You think we’ll stay with you and your dirty rapscallions. By your leave—</p>
+               <p rend="justify">[He, the Factor, and Holy Willie move to go.]</p>
+               <p rend="justify">Burns: No, no—persuade them friends. (Tam and the others, Nell and the Landlord assisting, hold them back, while Burns cries to the Beggars.) Come in—come in—serve them, Nell, my dear, full pots all round.</p>
+               <p rend="justify">[He locks the door, and Nell hands round the full pots.]</p>
+               <p rend="justify">Armour: This shall be a case for the Justice.</p>
+               <p rend="justify">Burns: Justice is a blind wench, Mr. Armour—and it would be a bonny jest for the parish, wouldn’t it? I think we shall swallow it. Now, you jolly beggars, drink and sing.</p>
+               <p rend="justify">[The First Beggar, an old man in soldier’s rags, a girl in his arms, sings.]</p>
+               <lg>
+                  <l>I am a son of Mars, who have been in many wars,</l>
+               </lg>
+               <lg>
+                  <l>And show my cuts and scars wherever I come;</l>
+                  <l>This here was for a wench, and that other in a trench,</l>
+                  <l>When welcoming the French at the sound of the drum.</l>
+                  <l>Lal de daudle, etc.</l>
+                  <l>And now tho’ I must beg with a wooden arm and leg</l>
+                  <l>And many a tatter’d rag hanging over my limbs,</l>
+                  <l>I’m as happy with my wallet, my bottle, and my callet,</l>
+                  <l>As when I us’d in scarlet to follow a drum.</l>
+                  <l>Lal de daudle, etc.</l>
+               </lg>
+               <p rend="justify">[He is followed, after drinking and laughter, by the girl in his arms, who sings.]</p>
+               <lg>
+                  <l>I once was a maid, tho’ I cannot tell when,</l>
+                  <l>And still my delight is in proper young men;</l>
+                  <l>Some one of a troop of dragoons was my daddie,</l>
+                  <l>No wonder I’m fond of a sodger laddie.</l>
+                  <l>Sing, Lal de lal, etc.</l>
+               </lg>
+               <lg>
+                  <l>The first of my loves was a swaggering blade,</l>
+                  <l>To rattle the thundering drum was his trade;</l>
+                  <l>His leg was so tight, and his cheek was so ruddy,</l>
+                  <l>Transported I was with my sodger laddie.</l>
+                  <l>Sing, Lal de lal, etc.</l>
+                  <l>But the godly old chaplain left him in the lurch,</l>
+                  <l>The sword I forsook for the sake of the church;</l>
+                  <l>He ventur’d the soul, and I risket the body,</l>
+                  <l>’Twas then I prov’d false to my sodger laddie.</l>
+                  <l>Sing, Lal de lal, etc.</l>
+                  <l>Full soon I grew sick of my sanctified sot,</l>
+                  <l>The regiment at large for a husband I got;</l>
+                  <l>From the gilded spontoon to the fife I was ready,</l>
+                  <l>I askèd no more but a sodger laddie.</l>
+                  <l>Sing, Lal de lal, etc.</l>
+                  <l>And now I have lived—I know not how long,</l>
+                  <l>And still I can join in a cup and a song;</l>
+               </lg>
+               <lg>
+                  <l>But whilst with both hands I can hold the glass steady,</l>
+                  <l>Here’s to thee, my hero, my sodger laddie.</l>
+                  <l>Sing, Lal de lal, etc.</l>
+               </lg>
+               <p rend="justify">[Then comes a dark, tragic woman, who has been sitting apart.]</p>
+               <lg>
+                  <l>A Highland lad my love was born,</l>
+                  <l>The lalland laws he held in scorn;</l>
+                  <l>But he still was faithfu’ to his clan,</l>
+                  <l>My gallant, braw John Highlandman.</l>
+                  <l>Chorus</l>
+                  <l>Sing hey my braw John Highlandman!</l>
+                  <l>Sing ho my braw John Highlandman!</l>
+                  <l>There’s not a lad in a’ the lan’</l>
+                  <l>Was match for my John Highlandman.</l>
+                  <l>With his philibeg an’ tartan plaid,</l>
+                  <l>An’ guid claymore down by his side,</l>
+                  <l>The ladies’ hearts he did trepan,</l>
+                  <l>My gallant, braw John Highlandman.</l>
+                  <l>Sing hey, etc.</l>
+               </lg>
+               <lg>
+                  <l>They banish’d him beyond the sea,</l>
+                  <l>But ere the bud was on the tree,</l>
+                  <l>Adown my cheeks the pearls ran,</l>
+                  <l>Embracing my John Highlandman.</l>
+                  <l>Sing hey, etc.</l>
+                  <l>But, och! they catch’d him at the last,</l>
+                  <l>And bound him in a dungeon fast;</l>
+                  <l>My curse upon them every one,</l>
+                  <l>They’ve hang’d my braw John Highlandman.</l>
+                  <l>Sing hey, etc.</l>
+                  <l>And now a widow, I must mourn</l>
+                  <l>The pleasures that will ne’er return;</l>
+                  <l>Nae comfort but a hearty can,</l>
+                  <l>When I think on John Highlandman.</l>
+                  <l>Sing hey, etc.</l>
+               </lg>
+               <p rend="justify">[As she finishes, the First Beggar, leaving his doxy, goes up to her and sings.]</p>
+               <lg>
+                  <l>Let me ryke up to dight that tear,</l>
+                  <l>And go wi’ me and be my dear,</l>
+                  <l>An’ then your every care and fear</l>
+                  <l>May whistle owre the lave o’t.</l>
+               </lg>
+               <lg>
+                  <l>Chorus</l>
+                  <l>I am a fiddler to my trade,</l>
+                  <l>An’ a’ the tunes that e’er I play’d,</l>
+                  <l>The sweetest still to wife or maid,</l>
+                  <l>Was whistle owre the lave o’t.</l>
+                  <l>But bless me wi’ your heav’n o’ charms,</l>
+                  <l>And while I kittle hair on thairms,</l>
+                  <l>Hunger, cauld, and a’ sic harms,</l>
+                  <l>May whistle owre the lave o’t.</l>
+                  <l>I am, etc.</l>
+               </lg>
+               <p rend="justify">[At the conclusion she sinks into his arms, and there is an altercation between the two Beggar women, the Old Beggar quieting them, and then there are cries from all to Burns.]</p>
+               <p rend="justify">Now, Master, a song for a song, a taste of your quality, good liquor makes good tunes, a song, a song!</p>
+               <p rend="justify">Burns (leaps on to the table with): Here’s for you, then, my hearties.</p>
+               <p rend="justify">[And sings.]<lb/>
+               </p>
+               <lg>
+                  <l>I am a Bard of no regard,</l>
+                  <l>Wi’ gentle folks, an’ a’ that:</l>
+               </lg>
+               <lg>
+                  <l>But Homer-like, the glowrin byke,</l>
+                  <l>Frae town to town I draw that.</l>
+                  <l>Chorus</l>
+                  <l>For a’ that, an’ a’ that,</l>
+                  <l>An’ twice as muckle’s a’ that;</l>
+                  <l>I’ve lost but ane, I’ve twa behin’,</l>
+                  <l>I’ve wife eneugh for a’ that.</l>
+                  <l>Great love I bear to a’ the fair,</l>
+                  <l>Their humble slave, an’ a’ that;</l>
+                  <l>But lordly will, I hold it still</l>
+                  <l>A mortal sin to thraw that.</l>
+                  <l>For a’ that, etc.</l>
+                  <l>Their tricks an’ craft ha’e put me daft,</l>
+                  <l>They’ve ta’en me in, and a’ that;</l>
+                  <l>But clear your decks, and here’s the Sex!</l>
+                  <l>I like the jades for a’ that.</l>
+                  <l>Chorus</l>
+                  <l>For a’ that, an’ a’ that,</l>
+                  <l>And twice as muckle’s a’ that;</l>
+               </lg>
+               <lg>
+                  <l>My dearest bluid, to do them guid,</l>
+                  <l>They’re welcome till’t for a’ that.</l>
+               </lg>
+               <p rend="justify">[This is received with an uproar of acclamation. The doxy climbs up on to the table beside Burns, and shouts above the din, ‘A chorus, a chorus, and then for the road!’ and they sing in chorus.]</p>
+               <lg>
+                  <l>A fig for those by law protected!</l>
+                  <l>Liberty’s a glorious feast!</l>
+                  <l>Courts for cowards were erected,</l>
+                  <l>Churches built to please the priest.</l>
+                  <l>Life is all a variorum,</l>
+                  <l>We regard not how it goes;</l>
+                  <l>Let them cant about decorum</l>
+                  <l>Who have characters to lose.</l>
+               </lg>
+               <p rend="justify">[The Beggars depart, to the music that brought them, Burns exchanging farewells as they pass through the door. The villagers follow them, except one lying in a drunken sleep on the floor. Burns, Armour, Holy Willie, the Factor, Tam, the Landlord, and Nell are all that remain. The room is now in confusion, filled with fumes, the floor stained with liquor, tankards lying about, a litter of straw and oddments of rags left by the Beggars.]</p>
+               <p rend="justify">Burns: And that, your reverences, is life too. They’ll all come to the Day of Judgment with the rest of us. Miserable sinners, God bless them. Is there anyone to say God bless you, think you?</p>
+               <p rend="justify">Armour: Let us pass.</p>
+               <p rend="justify">Burns: Aye, in a moment. That tune has just put another rhyme to shape—I’ld have you hear it before you go.</p>
+               <p rend="justify">Holy Willie: You heard what Mr. Armour told you. There’s a warrant coming this way. Now for the reckoning.</p>
+               <p rend="justify">The Landlord (coming forward): Aye, the reckoning.</p>
+               <p rend="justify">Burns (his hand going uselessly to his pockets): Yes, landlord. How much is it?</p>
+               <p rend="justify">The Landlord: Four shillings and a penny.</p>
+               <p rend="justify">Burns: Four—not a penny even. There now. Wouldn’t one of you gentlemen—?</p>
+               <p rend="justify">Holy Willie: For shame, young man.</p>
+               <p rend="justify">Burns: It was a good mumming, worth it surely. Mr. Armour, it would be an act of grace—a soul might almost be saved for four shillings and a penny.</p>
+               <p rend="justify">The Landlord: Let it be, let it be. I’d have none of their pence. Wipe it out, Nell.</p>
+               <p rend="justify">[Nell cleans the slate.]<lb/>
+               </p>
+               <p rend="justify">Burns: That’s honour for you, true bred out of Elysium. I have it all in my head now. You with your rank and your rents and your holy purses and your grand little airs, listen.</p>
+               <p rend="justify">[To the tune of ‘I am a bard of no regard,’ he sings, in a passion of conviction now.]</p>
+               <lg>
+                  <l>Is there, for honest poverty,</l>
+                  <l>That hings his head, and a’ that?</l>
+                  <l>The coward-slave, we pass him by,</l>
+                  <l>We dare be poor for a’ that!</l>
+                  <l>For a’ that, and a’ that,</l>
+                  <l>Our toils obscure, and a’ that,</l>
+                  <l>The rank is but the guinea’s stamp,</l>
+                  <l>The man’s the gowd for a’ that!</l>
+               </lg>
+               <lg>
+                  <l>Ye see yon birkie, ca’d a lord,</l>
+                  <l>Wha struts, and stares, and a’ that;</l>
+                  <l>Though hundreds worship at his word,</l>
+                  <l>He’s but a cuif for a’ that:</l>
+                  <l>For a’ that, and a’ that;</l>
+                  <l>His ribband, star, and a’ that,</l>
+                  <l>The man of independent mind</l>
+                  <l>He looks and laughs at a’ that!</l>
+                  <l>Then let us pray that come it may—</l>
+               </lg>
+               <p rend="justify">(As come it will for a’ that)</p>
+               <lg>
+                  <l>That Sense and Worth, o’er a’ the earth,</l>
+                  <l>May bear the gree, and a’ that;</l>
+                  <l>For a’ that, and a’ that,</l>
+                  <l>It’s comin’ yet for a’ that,</l>
+                  <l>That man to man, the world o’er,</l>
+                  <l>Shall brothers be for a’ that!</l>
+               </lg>
+               <p rend="justify">[While he sings, a man of bearing and authority has come in and taken a seat quietly at the back, unobserved. He now comes forward.]</p>
+               <p rend="justify">Burns: Mr. Hamilton. A respectful good-even to you.</p>
+               <p rend="justify">Gavin Hamilton: Well sung, Robert. A new one?</p>
+               <p rend="justify">Burns: Yes, Mr. Hamilton.</p>
+               <p rend="justify">Hamilton: I hear of trouble.</p>
+               <p rend="justify">Burns: These gentlemen could tell you.</p>
+               <p rend="justify">Hamilton: No doubt. They would find it an agreeable narrative. I know them.</p>
+               <p rend="justify">Holy Willie: I’ll trouble you, Mr. Hamilton, to keep your offensive observations to yourself.</p>
+               <p rend="justify">Hamilton: But why, when I part with them so suitably in your company?</p>
+               <p rend="justify">[A Sheriff’s Officer comes in.]<lb/>
+               </p>
+               <p rend="justify">The Officer: Are you Robert Burns?</p>
+               <p rend="justify">Burns: I am.</p>
+               <p rend="justify">The Officer (serving a warrant): In the King’s name.</p>
+               <p rend="justify">Hamilton: What is this?</p>
+               <p rend="justify">Burns: I’m a ruined man, Mr. Hamilton. Mr. Armour’s daughter—I can’t pay—and he won’t let me wed her as I would.</p>
+               <p rend="justify">Armour: He will not. And he will bid you good-night.</p>
+               <p rend="justify">[He goes, Holy Willie and the Factor with him.]</p>
+               <p rend="justify">Hamilton (taking the warrant, and speaking to the Officer): Perhaps you could keep this till to-morrow afternoon?</p>
+               <p rend="justify">The Officer: If Mr. Hamilton asks me to.</p>
+               <p rend="justify">Hamilton: You may bring it to my house.</p>
+               <p rend="justify">The Officer: Certainly, sir.</p>
+               <p rend="justify">[He goes.]<lb/>
+               </p>
+               <p rend="justify">Hamilton: Robert, you’re a fool.</p>
+               <p rend="justify">Burns: I believe you, Mr. Hamilton.</p>
+               <p rend="justify">Hamilton: But I’m not going to see you destroyed by men of that tonnage. We must consider.</p>
+               <p rend="justify">Burns: I had a fancy, but there’s no time now.</p>
+               <p rend="justify">Hamilton: What was it?</p>
+               <p rend="justify">Burns: If I could print some of my rhymes, and you and some like you, Mr. Hamilton, could get a little interest for me—</p>
+               <p rend="justify">Hamilton: Good. Yes. Come to-morrow morning. We’ll talk of it. What was that factor fellow doing here?</p>
+               <p rend="justify">Burns: Tam Laurie there.</p>
+               <p rend="justify">Hamilton: O, it’s you.</p>
+               <p rend="justify">Tam: I’m sorry to say it is, Mr. Hamilton.</p>
+               <p rend="justify">Hamilton: Rent?</p>
+               <p rend="justify">Tam: A week come Tuesday.</p>
+               <p rend="justify">Hamilton: Yes. I think I might change his mind. Good-night, Robert.</p>
+               <p rend="justify">Burns: Good-night, Mr. Hamilton.</p>
+               <p rend="justify">The Landlord: I suppose, Mr. Hamilton (going to the slate), let me see, four shillings and a penny—</p>
+               <p rend="justify">[But Hamilton has gone.]<lb/>
+               </p>
+               <p rend="justify">The Landlord: No, quite so—not four shillings and a penny.</p>
+               <p rend="justify">Burns: Never mind, landlord, when I’m laureate crowned, you shall supply the nectar.</p>
+               <p rend="justify">The Landlord: Aye, and I’ll be more than four shillings and a penny out on that I take it. (Waking the sleeping man.) Now then, John Anderson, bed-time.</p>
+               <p rend="justify">Burns: Good-night, landlord. Good-night, Nell. (He kisses her.) Come along, Tam. John Anderson, my jo, John, get up.</p>
+               <p rend="justify">John (lifting himself, as uncertain as his speech): I was sleeping with the seven kings, and the Beast of the Apocalypse. I’m getting too old to be called before the sunrise.</p>
+               <p rend="justify">Burns: Come with us my jo, John—we’ll take you home.</p>
+               <p rend="justify">John: But I don’t wish to go home. There will only be a wifely exhortation, and I’m troubled by the seven Beasts of the Apocalypse.</p>
+               <p rend="justify">Burns: This way. Take an arm, Tam.</p>
+               <p rend="justify">[He sings.]<lb/>
+               </p>
+               <lg>
+                  <l>John Anderson, my jo, John,</l>
+                  <l>When we were first acquent;</l>
+                  <l>Your locks were like the raven,</l>
+                  <l>Your bonnie brow was brent;</l>
+                  <l>But now your brow is beld, John,</l>
+                  <l>Your locks are like the snaw;</l>
+                  <l>But blessings on your frosty pow,</l>
+                  <l>John Anderson, my jo.</l>
+                  <l>John Anderson, my jo, John,</l>
+                  <l>We clamb the hill thegither;</l>
+                  <l>And mony a canty day, John,</l>
+                  <l>We’ve had wi’ ane anither:</l>
+               </lg>
+               <lg>
+                  <l>Now we maun totter down, John,</l>
+                  <l>And hand in hand we’ll go;</l>
+                  <l>And sleep thegither at the foot,</l>
+                  <l>John Anderson, my jo.</l>
+               </lg>
+               <p rend="justify">[They go down the road together.]<lb/>
+               </p>
+               <p rend="justify">The Landlord: Good-night, lass. Lock the door. Leave chores till the morning.</p>
+               <p rend="justify">Nell: Good-night, Mr. Lomas.</p>
+               <p rend="justify">[The Landlord goes.]<lb/>
+               </p>
+               <p rend="justify">[Nell puts a little of the confusion to rights, goes to the door, opens it and looks down the road. She comes into the room, leaving the door open, and, moving about, sings.]</p>
+               <lg>
+                  <l>O whistle, and I’ll come to you, my lad,</l>
+                  <l>O whistle, and I’ll come to you, my lad:</l>
+                  <l>Tho’ father and mother and a’ should gae mad,</l>
+                  <l>O whistle, and I’ll come to you, my lad.</l>
+               </lg>
+               <p rend="justify">[She stands looking at the door for a moment. Then she goes to it, closes and locks it, and puts out the lamp. She goes out by the candlelight of the stairway door, and leaves the scene in darkness, and the music continues as</p>
+               <p rend="justify">THE CURTAIN FALLS<lb/>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>SCENE III</label>
+               </head>
+               <p rend="justify">At Professor Ferguson’s house in Edinburgh, nearly a year later—in February.</p>
+               <p rend="justify">It is a cheerful, comfortable room, marked by the taste and culture of Edinburgh literary society at its best, with the elegance of fashion. A few portraits of Scots men of letters and action hang on the wall—Allan Ramsay, Robert Fergusson, James VI., Robert Bruce; in addition there are books and a pair or two of claymores, and two or three prints, including one by Bunbury of a dead soldier and his dog. On the mantelpiece is a bust of David Hume. The chill Scots winter day is brightened by a large fire in the grate; outside is snow.</p>
+               <p rend="justify">Folding doors are open to a room beyond, where a luncheon party has been taking place. The ladies have left the table, and are seated round the room before us. They are the hostess, Mrs. Ferguson, the Duchess of Gordon, Mrs. Montgomery, Miss Taylor, and with them a boy of fifteen, the young Walter Scott. Men’s voices can be heard from time to time.</p>
+               <p rend="justify">Another lady, young and beautiful, Mrs. Stewart of Stair, is seated at the piano, singing to her own accompaniment.</p>
+               <lg>
+                  <l>Flow gently, sweet Afton! among thy green braes,</l>
+                  <l>Flow gently, I’ll sing thee a song in thy praise;</l>
+                  <l>My Mary’s asleep by thy murmuring stream—</l>
+                  <l>Flow gently, sweet Afton, disturb not her dream.</l>
+                  <l>Thy crystal stream, Afton, how lovely it glides,</l>
+                  <l>And winds by the cot where my Mary resides!</l>
+               </lg>
+               <lg>
+                  <l>How wanton thy waters her snowy feet lave,</l>
+                  <l>As gathering sweet flow’rets she stems thy clear wave!</l>
+                  <l>Flow gently, sweet Afton! among thy green braes,</l>
+                  <l>Flow gently, sweet river, the theme of my lays!</l>
+                  <l>My Mary’s asleep by thy murmuring stream—</l>
+                  <l>Flow gently, sweet Afton, disturb not her dream.</l>
+               </lg>
+               <p rend="justify">[At the end of the song Walter Scott goes to a desk at the back of the room, and turns over the pages of a book.]</p>
+               <p rend="justify">The Duchess: Bravo! A very beautiful song.</p>
+               <p rend="justify">Miss Taylor (very fashionable, rather plain, towards fifty, and not for poetry): And you say he gave it to you?</p>
+               <p rend="justify">Mrs. Stewart: He sent it this morning.</p>
+               <p rend="justify">Miss Taylor: Rather indelicate, don’t you think—that piece about snowy feet?</p>
+               <p rend="justify">Mrs. Stewart: I think it’s lovely.</p>
+               <p rend="justify">Miss Taylor: Well, I must say I should feel rather embarrassed myself.</p>
+               <p rend="justify">Mrs. Ferguson (benign and easy, the professor’s wife): I like that tune so much—Afton Water, isn’t it?</p>
+               <p rend="justify">Mrs. Stewart: Yes.</p>
+               <p rend="justify">Mrs. Ferguson: Jamie used to whistle it, I remember.</p>
+               <p rend="justify">Mrs. Montgomery (marble, more the duchess than Gordon herself): I must say, Mrs. Ferguson, your young lion behaves himself quite prettily.</p>
+               <p rend="justify">The Duchess: Why shouldn’t he, Mrs. Montgomery?</p>
+               <p rend="justify">Mrs. Montgomery: Oh well, Duchess, you would hardly expect it from a ploughman, now would you?</p>
+               <p rend="justify">The Duchess: ‘Flow gently, sweet Afton! among thy green braes’—wouldn’t you expect it of that?</p>
+               <p rend="justify">Mrs. Stewart: His conversation is entrancing.</p>
+               <p rend="justify">Miss Taylor: A very dangerous young man, and with those eyes too.</p>
+               <p rend="justify">The Duchess: Nonsense, Martha. You needn’t alarm yourself.</p>
+               <p rend="justify">Miss Taylor: Well, I shouldn’t like to be alone with him.</p>
+               <p rend="justify">The Duchess: I am sure he would be discreet. I think you’re a very lucky woman, Mrs. Stewart. I wish Mr. Burns would write poems to me. My husband says there’s never been such a natural genius in Scotland before.</p>
+               <p rend="justify">Mrs. Montgomery: Oh, come now. For an uncultivated talent it is pretty well, we may allow. But we must not turn his head.</p>
+               <p rend="justify">Miss Taylor: I entirely agree with you, Mrs. Montgomery. Most unsafe.</p>
+               <p rend="justify">Mrs. Stewart: I wonder he hasn’t married.</p>
+               <p rend="justify">Mrs. Montgomery: Oh, my dear, haven’t you heard of the scandal in his own village? It would have been jail I’m told if it hadn’t been for some Mr. Gavin Hamilton who took a fancy to him. But I believe he has several families.</p>
+               <p rend="justify">Miss Taylor: I really don’t think we ought to encourage him. And one of his poems, I hear, is quite friendly to the Devil.</p>
+               <lg>
+                  <l>The Duchess:</l>
+                  <l>But, fare-you-weel, auld Nickie-ben!</l>
+                  <l>O wad ye tak’ a thought an’ men’!</l>
+                  <l>Ye aiblins might—I dinna ken—</l>
+                  <l>Still hae a stake—</l>
+                  <l>I’m wae to think upo’ yon den,</l>
+                  <l>E’en for your sake!</l>
+                  <l>Miss Taylor: Most confusing.</l>
+               </lg>
+               <p rend="justify">Walter Scott (moving from his book to Mrs. Stewart): Have you any more of his poems, ma’am?</p>
+               <p rend="justify">Mrs. Stewart: I have his book, Walter.</p>
+               <p rend="justify">Walter Scott: I wish I could read it.</p>
+               <p rend="justify">Mrs. Stewart: I’ll lend it to you.</p>
+               <p rend="justify">Walter Scott: Will you really? Thank you. He has got lovely eyes, hasn’t he? I should write poems if I had eyes like that. Couldn’t you sing again?</p>
+               <p rend="justify">Mrs. Ferguson: Yes, please do, Mrs. Stewart.</p>
+               <lg>
+                  <l>Miss Taylor: Something with a little religion in it.</l>
+               </lg>
+               <lg>
+                  <l>Mrs. Stewart (after a glance at this, sings):</l>
+                  <l>Her flowing locks, the raven’s wing,</l>
+                  <l>Adown her neck and bosom hing;</l>
+                  <l>How sweet unto that breast to cling</l>
+                  <l>And round that neck entwine her!</l>
+                  <l>Her lips are roses wat wi’ dew,</l>
+                  <l>O, what a feast her bonnie mou’!</l>
+                  <l>Her cheeks a mair celestial hue,</l>
+                  <l>A crimson still diviner.</l>
+                  <l>Miss Taylor: Really!</l>
+                  <l>The Duchess: I think my husband is right, Miss Taylor.</l>
+               </lg>
+               <p rend="justify">[From the room beyond comes the sound of voices, or particularly of one voice, raised in argument. Mrs. Montgomery majestically moves up to a view of the proceedings.]</p>
+               <p rend="justify">Mrs. Montgomery: Dear me. Mr. Burns seems to be making a speech. I fear I was mistaken.</p>
+               <p rend="justify">The Duchess: It’s that foolish man Robertson. He was speaking ill of Mr. Gray’s Elegy. He was very provoking. Mr. Burns does quite right to defend it.</p>
+               <p rend="justify">Burns’s voice (from the far room): Sir, I now perceive a man may be an excellent judge of poetry by square and rule, and after all be a damned blockhead.</p>
+               <p rend="justify">[The Reverend Mr. Robertson, a pedantic and acidulated clergyman, comes hurriedly through the door accompanied by his host, Professor Ferguson, followed by Burns.]</p>
+               <p rend="justify">Mr. Robertson: Did you hear that?</p>
+               <p rend="justify">Professor Ferguson: I beg you, Mr. Robertson—</p>
+               <p rend="justify">Robertson: It is highly preposterous—</p>
+               <p rend="justify">Burns: Will you allow me, sir, to apologise? I withdraw my observation, and you may call the Elegy what you will.</p>
+               <p rend="justify">Ferguson: May I add my word—</p>
+               <p rend="justify">Robertson: Very well, very well. I will overlook your indiscretion, Mr. Burns. And believe me Gray is a very inferior poet.</p>
+               <p rend="justify">[They are now followed into the room by Dr. Blacklock, the aged blind poet, and Lord Muir, a middle-aged sporting laird. Blacklock sits beside the Duchess of Gordon, conducted by Ferguson; Robertson by Miss Taylor; Muir on a chair near them; Ferguson goes to Walter Scott, who has returned to his book at the window; and Burns joins Mrs. Stewart, who is still seated at the piano. There is an undercurrent of conversation from the various groups.]</p>
+               <p rend="justify">Miss Taylor (to Robertson): That was extremely generous of you, dear Mr. Robertson.</p>
+               <p rend="justify">Robertson: Charity becomes my cloth, madam.</p>
+               <p rend="justify">Muir (immensely pleased with the incident): Yes, but a damned blockhead. That’s straight riding, you must allow that, sir.</p>
+               <p rend="justify">Robertson: I regret, your lordship, I am no Nimrod.</p>
+               <p rend="justify">Muir: No, but damme, sir, we can all admire a straight line. I like the lad.</p>
+               <p rend="justify">Miss Taylor: It’s all very well, Lord Muir, but it’s most unbecoming to call a reverend gentleman a—h’m—blockhead.</p>
+               <p rend="justify">Muir: A damned blockhead, ma’am, that’s the word.</p>
+               <p rend="justify">Robertson (turning his back to him, addressing Miss Taylor): As I was remarking to you at luncheon, the history of pew-rents is very misleading—</p>
+               <p rend="justify">[They drift into their own conversation.]<lb/>
+               </p>
+               <p rend="justify">Muir (to Mrs. Montgomery, under his breath): That’s the kind of poetry I can understand.</p>
+               <p rend="justify">Burns (to Mrs. Stewart): You did me great honour in your singing.</p>
+               <p rend="justify">Mrs. Stewart: The songs are their own recommendation, Mr. Burns.</p>
+               <p rend="justify">Burns: Sponsored by such beauty, madam, they could not fail.</p>
+               <p rend="justify">Mrs. Stewart (touching the piano very lightly to the air of ‘Afton Water’): Do you find Edinburgh agreeable?</p>
+               <p rend="justify">Burns: Some moments of it.</p>
+               <p rend="justify">Mrs. Stewart: I hear of your fame everywhere.</p>
+               <p rend="justify">Burns: Fortunately it does not deceive me.</p>
+               <p rend="justify">Mrs. Stewart: But you have the sincere interest of many.</p>
+               <p rend="justify">Burns: There are not many whose interest is valuable. With most, I please for a season—a new fashion in the window.</p>
+               <p rend="justify">Mrs. Stewart: A poet must not be bitter, Mr. Burns.</p>
+               <p rend="justify">Burns: I am not bitter, madam. I know my friends from the rest, that is all.</p>
+               <p rend="justify">Mrs. Stewart: Your friends should be happy.</p>
+               <p rend="justify">Burns: You are very gracious. You forget the—condescensions.</p>
+               <p rend="justify">Mrs. Stewart: But that would be impossible.</p>
+               <p rend="justify">Burns: Believe me, it is common. My plough lends a virtue to flattery.</p>
+               <p rend="justify">Mrs. Stewart: There is honest esteem as well—delight.</p>
+               <p rend="justify">Burns: I am as sensitive to it, madam, as the top leaves to the last ripple of evening wind. You are bountiful.</p>
+               <p rend="justify">The Duchess (speaking across): Mrs. Ferguson, do you think we might ask Mr. Burns to sing one of his songs himself?</p>
+               <p rend="justify">Mrs. Ferguson: If he would be so kind.</p>
+               <p rend="justify">Burns: Madam, if her Grace so compliments me. Will Mrs. Stewart play an air for me?</p>
+               <p rend="justify">Muir: Couldn’t it be something with a chorus—eh? Nothing like opening the lungs, sir (to Robertson).</p>
+               <p rend="justify">Robertson: I regret, your lordship, I am no Orpheus.</p>
+               <p rend="justify">Muir: No, but damme, sir, sing cracked, what odds?</p>
+               <p rend="justify">Burns: Do you know ‘The Campbells are Coming,’ madam?</p>
+               <p rend="justify">Mrs. Stewart: This?</p>
+               <p rend="justify">[She plays the air.]<lb/>
+               </p>
+               <p rend="justify">Burns: Aye—that. I’ve made some new verses for it—thus—</p>
+               <p rend="justify">[He sings.]<lb/>
+               </p>
+               <lg>
+                  <l>Upon the Lomonds I lay, I lay,</l>
+                  <l>Upon the Lomonds I lay, I lay,</l>
+                  <l>I looked down to bonnie Lochleven</l>
+                  <l>And saw three bonnie perches play.</l>
+                  <l>The Campbells are comin’, Oho! Oho!</l>
+                  <l>The Campbells are comin’, Oho! Oho!</l>
+               </lg>
+               <lg>
+                  <l>The Campbells are comin’ to bonnie Lochleven,</l>
+                  <l>The Campbells are comin’, Oho! Oho!</l>
+                  <l>Great Argyle he goes before;</l>
+                  <l>He makes the cannons and guns to roar,</l>
+                  <l>Wi’ sound o’ trumpet, fife and drum;</l>
+                  <l>The Campbells are comin’, Oho! Oho!</l>
+                  <l>The Campbells are comin’, etc.</l>
+                  <l>The Campbells they are a’ in arms,</l>
+                  <l>Their loyal faith and truth to show,</l>
+                  <l>Wi’ banners rattling in the wind,</l>
+                  <l>The Campbells are comin’, Oho! Oho!</l>
+                  <l>The Campbells are comin’, etc.</l>
+               </lg>
+               <p rend="justify">[The Duchess of Gordon, and Mrs. Stewart, with Blacklock and Ferguson, join enthusiastically in the choruses, Mrs. Ferguson more mildly, Mrs. Montgomery perfunctorily, and Muir excitedly, moving about the room, vainly exhorting Robertson and Miss Taylor. Walter Scott, tense with wondering admiration, slowly approaches Burns as he sings, and stands beside him.</p>
+               <p rend="justify">At the close of the song there is a burst of applause, and cries of, ‘Bravo! Bravo! Another please, Mr. Burns,’ through which is heard.]</p>
+               <p rend="justify">Miss Taylor (to Robertson): Very incendiary in sentiment, I must say.</p>
+               <p rend="justify">Robertson: A very just criticism.</p>
+               <p rend="justify">[The calls for another song persist.]<lb/>
+               </p>
+               <p rend="justify">Burns: The tune of ‘The Collier’s Bonnie Lassie’?</p>
+               <p rend="justify">[Mrs. Stewart plays the air, and he sings, very quietly, his audience now Mrs. Stewart alone.]</p>
+               <lg>
+                  <l>O saw ye bonnie Lesley,</l>
+                  <l>As she gaed o’er the Border?</l>
+                  <l>She’s gane, like Alexander,</l>
+                  <l>To spread her conquests farther.</l>
+                  <l>To see her is to love her,</l>
+                  <l>And love but her for ever;</l>
+                  <l>For Nature made her what she is,</l>
+                  <l>And never made anither!</l>
+               </lg>
+               <lg>
+                  <l>Thou art a queen, fair Lesley,</l>
+                  <l>Thy subjects, we before thee:</l>
+                  <l>Thou art divine, fair Lesley,</l>
+                  <l>The hearts o’ men adore thee.</l>
+                  <l>The Deil he could na scaith thee,</l>
+                  <l>Or aught that wad belang thee;</l>
+                  <l>He’d look into thy bonnie face,</l>
+                  <l>And say, ‘I canna wrang thee!’</l>
+               </lg>
+               <p rend="justify">[Very gravely and courteously he bows to Mrs. Stewart at the end, and to a murmur of approval moves across to the fireplace. Mrs. Stewart remains talking to Walter. Muir follows Burns to the fireplace.]</p>
+               <p rend="justify">Muir: Very pretty, Mr. Burns—especially that one about the Campbells. I believe you join our little party at dinner to-night?</p>
+               <p rend="justify">Burns: I am much obliged to your lordship.</p>
+               <p rend="justify">Muir: The Barley Sheaf at seven. I subscribed for two copies of your book. Don’t understand most of it, but I daresay I’ve spent money worse. And I like straight riding, sir. Seven o’clock. [Burns bows to this.]</p>
+               <p rend="justify">Muir (to the Duchess): Good-day, your Grace. (To Mrs. Ferguson.) Very entertaining, Mrs. Ferguson.</p>
+               <p rend="justify">[He takes his leave generally and goes, speaking to Ferguson on his way out. Robertson is saying good-bye to Miss Taylor, and crosses to Mrs. Ferguson.]</p>
+               <p rend="justify">Robertson: Good-afternoon, Mrs. Ferguson. A most instructive gathering, I am sure.</p>
+               <p rend="justify">Mrs. Ferguson: Good-afternoon, Mr. Robertson. It was very considerate of you to spare us the time.</p>
+               <p rend="justify">Robertson (bowing stiffly to Burns): Good-afternoon, Mr. Burns. And may the Lord chasten your muse.</p>
+               <p rend="justify">Burns: Yes, sir. I will speak to Him about it.</p>
+               <p rend="justify">Robertson: I will remember it in my devotions.</p>
+               <p rend="justify">[He follows Muir, taking leave of the company as he goes.]</p>
+               <p rend="justify">Burns (to Mrs. Ferguson): I fear I was a little heated before we left table. I beg your indulgence. (To the Duchess.) Ma’am.</p>
+               <p rend="justify">The Duchess (privately to him): You were quite right. He is a—damned blockhead, I think you said.</p>
+               <p rend="justify">Ferguson (to Miss Taylor): Very striking poems those, don’t you think, Miss Taylor?</p>
+               <p rend="justify">Miss Taylor: Poetry is a pagan art, Mr. Ferguson.</p>
+               <p rend="justify">Ferguson: But such fervour is refreshing.</p>
+               <p rend="justify">Miss Taylor: Very irregular.</p>
+               <p rend="justify">[Burns has moved up to Ferguson, and is studying the Bunbury print on the wall.]</p>
+               <p rend="justify">Blacklock: That young man has the pure flame of genius in him.</p>
+               <p rend="justify">Mrs. Montgomery: A little disconcerting, doctor. We have to remember society, you know.</p>
+               <p rend="justify">Blacklock: Society may be trusted with its own preservation, Mrs. Montgomery, but Scotland has never heard songs the like of that before. We must cherish them.</p>
+               <p rend="justify">Burns: There is a sublime pathos in that. (Reading from the print.) ‘The child of misery baptised in tears.’ Whose words are those?</p>
+               <p rend="justify">Ferguson: I do not remember. Dr. Blacklock, perhaps—Doctor, ‘The child of misery baptised in tears’—do you recall the author?</p>
+               <p rend="justify">Blacklock: No, I am afraid not.</p>
+               <p rend="justify">[Walter Scott speaks with some timid excitement to Mrs. Stewart.]</p>
+               <p rend="justify">Mrs. Stewart: Walter Scott here tells me they are by Langhorne.</p>
+               <p rend="justify">Burns: Indeed, Langhorne. You read the poets?</p>
+               <p rend="justify">Walter Scott: Every day.</p>
+               <p rend="justify">Burns: They will never fail you. I am much indebted to you, Mr. Scott.</p>
+               <p rend="justify">[He leaves the boy entirely elated, and moves towards his place by the fire.]</p>
+               <p rend="justify">Blacklock: Mr. Burns.</p>
+               <p rend="justify">Burns (crossing to him): Sir?</p>
+               <p rend="justify">Blacklock: I am an old man, Mr. Burns, and I have been allowed, if I may say so, many honours. I would give them all to have written those songs.</p>
+               <p rend="justify">Burns: They have often been my only security, sir.</p>
+               <p rend="justify">Mrs. Montgomery: Dr. Blacklock is very considerate of your merit, Mr. Burns.</p>
+               <p rend="justify">Burns: There are obligations, ma’am, not easy to discharge with modesty. I am very sensible of Dr. Blacklock’s kindness.</p>
+               <p rend="justify">Blacklock: Mr. Burns is quite right, Mrs. Montgomery. I was not offering him compliments.</p>
+               <p rend="justify">[He lifts his hand paternally for Burns to take. Burns, with great tenderness, returns the salute, and goes back to the fireplace. Miss Taylor rises and moves over to Mrs. Ferguson.]</p>
+               <p rend="justify">Miss Taylor: Good-afternoon, Mrs. Ferguson. We meet on Friday.</p>
+               <p rend="justify">Mrs. Ferguson: Yes, Miss Taylor.</p>
+               <p rend="justify">Miss Taylor: Good-afternoon, Mr. Burns. I trust you will not neglect the vineyard.</p>
+               <p rend="justify">Burns: There are no vineyards at Mossgiel, madam.</p>
+               <p rend="justify">Miss Taylor: I mean the Lord’s. The labourer must be worthy of his hire.</p>
+               <p rend="justify">Burns: The labourer—hired. Yes, I will remember.</p>
+               <p rend="justify">[Miss Taylor takes leave of the Duchess and the company, and goes, accompanied to the door by Mrs. Ferguson.</p>
+               <p rend="justify">Walter Scott comes to Mrs. Ferguson and shakes her hand. He stands a moment before Burns, looking at him uncertainly.]</p>
+               <p rend="justify">Burns (holding out his hand, which Walter takes): Good-bye.</p>
+               <p rend="justify">Walter Scott: Good-bye, sir.</p>
+               <p rend="justify">[Leaving Burns rather poignantly taken aback by the unexpected ceremony of address, he bows to the Duchess and the others and goes. Mrs. Stewart is now standing by Dr. Blacklock, and as Mrs. Montgomery rises, she takes her place.]</p>
+               <p rend="justify">Mrs. Montgomery (to her hostess): Good-afternoon. Good-afternoon, Duchess. If I can help Mr. Burns with any recommendation, he will let me know. Word left at Wilson’s bookshop will reach me.</p>
+               <p rend="justify">[She goes, escorted by the Fergusons.]<lb/>
+               </p>
+               <p rend="justify">The Duchess: Dr. Blair was praising your poems this morning, Mr. Burns. But he suggested that you might with advantage enlarge your scope. He spoke of Dr. Young and Mr. Akenside.</p>
+               <p rend="justify">Burns: I fear my Pegasus is for light journeys only, your Grace.</p>
+               <p rend="justify">[Mrs. Ferguson is now sitting opposite Mrs. Stewart with Blacklock. Ferguson joins the group at the fire.]</p>
+               <p rend="justify">Blacklock: If Mr. Burns would humour me before I go, might I ask for another of his—masterpieces.</p>
+               <p rend="justify">The Duchess: Yes—please.</p>
+               <p rend="justify">Burns: Will Mrs. Stewart favour me—the duet you were speaking of?</p>
+               <p rend="justify">[Mrs. Stewart goes to the piano, and they sing.]</p>
+               <lg>
+                  <l>She</l>
+                  <l>As I gaed down the water-side,</l>
+                  <l>There I met my shepherd lad,</l>
+                  <l>He row’d me sweetly in his plaid,</l>
+                  <l>And ca’d me his dearie.</l>
+               </lg>
+               <lg>
+                  <l>Ca’ the yowes to the knowes,</l>
+                  <l>Ca’ them where the heather grows,</l>
+                  <l>Ca’ them where the burnie rows,</l>
+                  <l>My bonnie dearie!</l>
+                  <l>He</l>
+                  <l>Will ye gang down the water-side,</l>
+                  <l>And see the waves sae sweetly glide?</l>
+                  <l>Beneath the hazels spreading wide</l>
+                  <l>The moon it shines fu’ clearly.</l>
+                  <l>Ca’ the yowes, etc.</l>
+                  <l>She</l>
+                  <l>If ye’ll but stand to what ye’ve said,</l>
+                  <l>I’se gang wi’ you, my shepherd lad,</l>
+                  <l>And ye may row me in your plaid,</l>
+                  <l>And I sall be your dearie.</l>
+                  <l>Ca’ the yowes, etc.</l>
+                  <l>Blacklock: The sweetest voice of Caledonia’s sons, Mrs. Ferguson.</l>
+               </lg>
+               <p rend="justify">The Duchess (rising): Well, your poet has captivated me entirely, Mrs. Ferguson. I return to Gordon Castle next week, Mr. Burns. I hope you will visit us there.</p>
+               <p rend="justify">Burns (kissing her offered hand): If you will indulge me so far, your Grace.</p>
+               <p rend="justify">[The Duchess says good-bye to Mrs. Stewart and Dr. Blacklock, and goes out with Mrs. Ferguson, passing Ferguson at the door. Ferguson moves down to Blacklock.]</p>
+               <p rend="justify">Blacklock (rising): Mr. Ferguson? I am greatly your debtor. It has been one of the most memorable occasions in a long life. A very great privilege, Mr. Burns.</p>
+               <p rend="justify">[He holds out his hand in the direction of Burns, who takes it with real veneration. Then he goes, Ferguson directing his steps.]</p>
+               <p rend="justify">Burns: You are staying in Edinburgh long?</p>
+               <p rend="justify">Mrs. Stewart: I leave to-morrow.</p>
+               <p rend="justify">Burns (looking at his watch): I must go. Mrs. Ferguson will be tired of me. You sang enchantingly.</p>
+               <p rend="justify">Mrs. Stewart: You are joining the Barley Sheaf party to-night?</p>
+               <p rend="justify">Burns: Yes.</p>
+               <p rend="justify">Mrs. Stewart: You are happy there?</p>
+               <p rend="justify">Burns: I am free. And nobody patronises me.</p>
+               <p rend="justify">Mrs. Stewart: But they have been very civil to you here.</p>
+               <p rend="justify">Burns: Some of them. And there have been consolations even beyond that. The old man, and the boy, and you. But the others—you heard. Why should I? Where does it lead me?</p>
+               <p rend="justify">Mrs. Stewart: Success at the Barley Sheaf is more gratifying?</p>
+               <p rend="justify">Burns: I know, madam, I know. But I shall never learn discipline.</p>
+               <p rend="justify">Mrs. Stewart: Not even for the sake of your friends?</p>
+               <p rend="justify">Burns: In a few weeks I shall have passed out of all this—back from it, if you will. My friends, who will they be then? I do not expect remembrance.</p>
+               <p rend="justify">Mrs. Stewart: That is not kind.</p>
+               <p rend="justify">Burns: It is generous of you to think it. O, I am not ungrateful, believe me. I have been fortunate in opinions that I shall cherish. But those—with their vineyards, and preachments over me, and Akensides, and Wilson’s bookshop—did you hear that? My time may come, but it is not now, in Edinburgh.</p>
+               <p rend="justify">Mrs. Stewart: And so birthright may be wasted, at the Barley Sheaf?</p>
+               <p rend="justify">Burns: Do not let me deceive you, madam. Like my songs—yes, I pray you will do that. But they thrive in that company—I am at home there. I am not proud of it, and it will settle my account early, likely enough. But I know my condition. Virtue was born a caprice in me, madam, and fortune has not husbanded her for me. I sing sometimes, and for the rest I have no talent, perhaps, but a little to know myself.</p>
+               <p rend="justify">Mrs. Stewart: I understand. And you will be yourself.</p>
+               <p rend="justify">Burns: Even through disaster, I must. It is the only honour I have.</p>
+               <p rend="justify">[The Fergusons come back.]</p>
+               <p rend="justify">Mrs. Ferguson: Forgive us, please.</p>
+               <p rend="justify">Burns: Thank you, Mrs. Ferguson, for your kindness—it was very obliging of you to bring me here. Good-afternoon.</p>
+               <p rend="justify">Mrs. Ferguson: Good-afternoon, Mr. Burns.</p>
+               <p rend="justify">Ferguson: Many flattering things have been said, Mr. Burns.</p>
+               <p rend="justify">Burns (to Mrs. Stewart): Good-afternoon, madam.</p>
+               <p rend="justify">Mrs. Stewart: Good luck, Mr. Burns.</p>
+               <p rend="justify">Ferguson (going out with him): Very flattering, I assure you. Most gratifying you must find it—</p>
+               <p rend="justify">[They go out.]<lb/>
+               </p>
+               <p rend="justify">Mrs. Ferguson: Shall you come with me, my dear, to Dr. Mackenzie’s?</p>
+               <p rend="justify">Mrs. Stewart: I think I would rather stay at home this afternoon, Mrs. Ferguson.</p>
+               <p rend="justify">[Ferguson returns and goes to his desk for a book.]</p>
+               <p rend="justify">Mrs. Ferguson: Certainly, my dear. I’ll tell Maggie.</p>
+               <p rend="justify">Ferguson: Very pleasant. Dr. Robertson was most instructive at lunch upon the second epistle, don’t you think? Yes.</p>
+               <p rend="justify">[He bustles out.]<lb/>
+               </p>
+               <p rend="justify">Mrs. Ferguson: She shall bring tea to you here.</p>
+               <p rend="justify">[She goes.]<lb/>
+               </p>
+               <p rend="justify">[Mrs. Stewart plays a few notes of ‘Afton Water’ on the piano. Then she changes the air, and sings very softly.]</p>
+               <lg>
+                  <l>O whistle, and I’ll come to you, my lad,</l>
+                  <l>O whistle, and I’ll come to you, my lad,</l>
+                  <l>Tho’ father and mother and a’ should gae mad,</l>
+                  <l>O whistle, and I’ll come to you, my lad.</l>
+               </lg>
+               <p rend="justify">[She pauses, and laughs lightly and humorously at herself, and]</p>
+               <p rend="justify">THE CURTAIN FALLS<lb/>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>SCENE IV</label>
+               </head>
+               <p rend="justify">A room at the Barley Sheaf, by candlelight, in the late evening of the same day.</p>
+               <p rend="justify">Seated round a table are Lord Muir and Baliol White, a young spark of fashion; Sam Ogilvie, a flash but unprosperous ‘sport’; Neil Simpson, a drab and dissolute little schoolmaster; ‘Shy’ Duncan, a speculative gentleman of finance, at present half asleep, and Burns.</p>
+               <p rend="justify">Their cups are frequently replenished from a large punch-bowl in the middle of the table.</p>
+               <lg>
+                  <l>Burns (to full chorus, is singing),</l>
+                  <l>O, Willie brew’d a peck o’ maut,</l>
+                  <l>And Rob and Allan cam’ to see;</l>
+                  <l>Three blyther hearts, that lee-lang night,</l>
+                  <l>Ye wad na found in Christendie.</l>
+                  <l>Chorus</l>
+                  <l>We are na fou, we’re nae that fou,</l>
+                  <l>But just a drappie in our e’e;</l>
+                  <l>The cock may craw, the day may daw,</l>
+                  <l>And aye we’ll taste the barley bree.</l>
+                  <l>Here are we met, three merry boys,</l>
+                  <l>Three merry boys, I trow, are we;</l>
+                  <l>And mony a night we’ve merry been,</l>
+                  <l>And mony mae we hope to be!</l>
+                  <l>Chorus</l>
+                  <l>We are na fou, etc.</l>
+               </lg>
+               <lg>
+                  <l>It is the moon, I ken her horn,</l>
+                  <l>That’s blinkin’ in the lift sae hie;</l>
+                  <l>She shines sae bright to wyle us hame,</l>
+                  <l>But, by my sooth, she’ll wait a wee!</l>
+                  <l>Chorus</l>
+                  <l>We are no fou, etc.</l>
+               </lg>
+               <p rend="justify">Muir (beating the table): There’s no eloquence like it. Was not Demosthenes an orator? Then was Demosthenes drunk.</p>
+               <p rend="justify">Neil Simpson: Very logically put, my lord. In vino salutas.</p>
+               <p rend="justify">Sam Ogilvie: There’s no badger in the world like wine. It defies the dogs of care. The cravenous dogs of care.</p>
+               <p rend="justify">Simpson: Cravenous is not good lexicon. It is no word.</p>
+               <p rend="justify">Ogilvie: I’ll have you know, Mr. Simpson, it is my word. It means exactly what I mean.</p>
+               <p rend="justify">Simpson: It is an abuse—</p>
+               <p rend="justify">Baliol White: Let your lexicon go to sleep, dominie. We’ll have no precisians here. I said precisians. Does anyone dispute it?</p>
+               <p rend="justify">Muir: Gentlemen, I give you a toast. We have with us this evening a genius of the most pre-eminent intoxication—inspiration. In my opinion he makes Homer look a ninny. I have not perused the works of that celebrated Greek, but I am convinced that he was a ninny. Mr. Burns is not a ninny, and I defy anyone to say that he is. Mr. Burns, if anyone says you are a ninny, he shall answer to me for it.</p>
+               <p rend="justify">Ogilvie: Who suggested that Mr. Burns was a ninny?</p>
+               <p rend="justify">Muir: I’m not suggesting that anyone suggested it. I merely assert that he is not. Mr. Burns, let me assure you of the confidence of the assembled company. Gentlemen, I give you the health of Mr. Robert Burns, and may his glass never be empty.</p>
+               <p rend="justify">[They drink to the toast boisterously.]<lb/>
+               </p>
+               <p rend="justify">White: Speech, speech!</p>
+               <p rend="justify">[He is supported by the rest.]<lb/>
+               </p>
+               <p rend="justify">Burns (rising): It is a great honour to be in your convivial company. They are fools outside, but we are Solomons, with the perpetual fount of wisdom before us. We are the true ministers of state, for our policy is everlasting. Love is our law, and drink is our prophet, and shall we not obey these? I give you back a toast—Woman and the brimming bowl—gentlemen!</p>
+               <p rend="justify">[The toast is honoured.]<lb/>
+               </p>
+               <p rend="justify">Burns: Mr. Duncan, wake up, sir. Be not dejected in sleep, Mr. Duncan.</p>
+               <p rend="justify">White (shaking him): Wake up, Shy. Shall we forget our behaviour before a man of genius, a man of temperament?</p>
+               <p rend="justify">Duncan (rousing himself): Ten per cent.? What’s ten per cent. to me? I’ll not deal under twelve. Not a guinea under fifteen.</p>
+               <p rend="justify">Muir: Behave yourself, Shy. To-morrow we will be again your devoted clients. To-night we do not discuss these things.</p>
+               <p rend="justify">Duncan: I beg your pardon, gentlemen. I fell asleep, and was dreaming of a small transaction—most negligent of me to mention it in this company. By no means.</p>
+               <p rend="justify">White: A very unpleasant reference, Shy. When is quarter-day?</p>
+               <p rend="justify">Duncan: Don’t allow that to trouble you, Mr. White. I am always accommodating.</p>
+               <p rend="justify">Simpson: Sat ad diem diei malum est.</p>
+               <p rend="justify">Duncan: Most probably you are. But scholarship has a hungry belly, Mr. Simpson. I forswore it when I was a swaddler. I stand for the receipt of custom.</p>
+               <p rend="justify">Muir: O nimble Shy, we are not interested in your biography.</p>
+               <p rend="justify">Duncan: Will you write my biography, Mr. Burns?</p>
+               <p rend="justify">Ogilvie: It is as unwanted as a paunch on a jockey.</p>
+               <p rend="justify">Duncan: My lord, I ask you, does this pea-and-thimble man mean to insult me? (Rising.) I asked Mr. Burns to write my biography.</p>
+               <p rend="justify">Muir: Sit down, Shy, you’re drunk.</p>
+               <p rend="justify">Duncan: I know I’m drunk—I’m pleased to confess to anybody I’m drunk—</p>
+               <p rend="justify">Ogilvie: Drunk and daft, Shylock, sit down.</p>
+               <p rend="justify">Duncan: You stable-fly, you tap-sawdust, you ninepenny wager—he owes me four pounds ten—</p>
+               <p rend="justify">White (pulling him down): Sit down, Shy, don’t be a fool. A song, Mr. Burns.</p>
+               <p rend="justify">The Others: A song, a song.</p>
+               <p rend="justify">Burns: Shall gentlemen of spirit quarrel about four pound ten? Call it quits, Mr. Duncan.</p>
+               <p rend="justify">Muir: Come, Shy, quits, in honour of Mr. Burns. Sam meant no offence.</p>
+               <p rend="justify">Duncan: I honour Mr. Burns highly. But I’ll see him damned before I will stand out of four pound ten.</p>
+               <p rend="justify">Simpson: A very ignoble sentiment.</p>
+               <p rend="justify">White: A song, a song.</p>
+               <p rend="justify">Burns: I’m sorry, Mr. Ogilvie, that our friend will not oblige us. But was ever candour more becoming? A song for you, gentlemen.</p>
+               <lg>
+                  <l>Duncan Gray cam’ here to woo,</l>
+                  <l>Ha, ha, the wooing o’t,</l>
+                  <l>On blythe Yule-night when we were fou,</l>
+                  <l>Ha, ha, the wooing o’t.</l>
+                  <l>Maggie coost her head fu’ high,</l>
+                  <l>Look’d asklent and unco skeigh,</l>
+               </lg>
+               <lg>
+                  <l>Gart poor Duncan stand abeigh;</l>
+                  <l>Ha, ha, the wooing o’t.</l>
+                  <l>Time and chance are but a tide;</l>
+                  <l>Ha, ha, the wooing o’t;</l>
+                  <l>Slighted love is sair to bide;</l>
+                  <l>Ha, ha, the wooing o’t.</l>
+                  <l>‘Shall I, like a fool,’ quoth he,</l>
+                  <l>‘For a haughty hizzie die?</l>
+                  <l>She may gae to—France for me!’</l>
+                  <l>Ha, ha, the wooing o’t.</l>
+                  <l>How it comes let doctors tell;</l>
+                  <l>Ha, ha, the wooing o’t;</l>
+                  <l>Meg grew sick—as he grew hale,</l>
+                  <l>Ha, ha, the wooing o’t.</l>
+                  <l>Something in her bosom wrings,</l>
+                  <l>For relief a sigh she brings;</l>
+                  <l>And O, her een, they spak’ sic things!</l>
+                  <l>Ha, ha, the wooing o’t.</l>
+                  <l>Duncan was a lad o’ grace</l>
+                  <l>Ha, ha, the wooing o’t;</l>
+                  <l>Maggie’s was a piteous case</l>
+                  <l>Ha, ha, the wooing o’t.</l>
+               </lg>
+               <lg>
+                  <l>Duncan couldna be her death,</l>
+                  <l>Swelling pity smoor’d his wrath;</l>
+                  <l>Now they’re crouse and canty baith—</l>
+                  <l>Ha, ha, the wooing o’t.</l>
+               </lg>
+               <p rend="justify">Simpson: A very sweet measure, Mr. Burns, and exemplary morality. The ancients would most unconsciously have approved. And he who has not the expedition of the ancients is a blockhead.</p>
+               <p rend="justify">Muir: A damned blockhead, dominie. That’s what Mr. Burns called the minister at lunch to-day. I never heard a compliment more prettily put. A damned blockhead.</p>
+               <p rend="justify">Duncan (rousing from his stupor): Who says I’m a damned blockhead? I resent the insults of this company—I am tired of them. If Mr. Burns says I am a damned blockhead, he’s a bankrupt bastard.</p>
+               <p rend="justify">Simpson and White: Order, order.</p>
+               <p rend="justify">Muir (a little sobered): Shy Duncan, be ashamed of yourself, man. No one is welcome in this company who cannot get drunk like a gentleman.</p>
+               <p rend="justify">Ogilvie (rising): I warned you, my lord, he was no fit member for our society.</p>
+               <p rend="justify">Duncan (standing to him): You’re fit enough, I suppose, Mr. Five-Ace Ogilvie.</p>
+               <p rend="justify">Muir (with authority now): Drop it, Duncan, I tell you. Sam is our gillie of all games. You’re our financier. We know our obligations. Very well. But you must apologise to Mr. Burns.</p>
+               <p rend="justify">Duncan: I will not apologise if he calls me a damned blockhead.</p>
+               <p rend="justify">Burns: Mr. Duncan, believe me I had not considered you in that light.</p>
+               <p rend="justify">Ogilvie: You are a damned blockhead anyway, Shy.</p>
+               <p rend="justify">Duncan: Then I’ve done with argument.</p>
+               <p rend="justify">[With this he flings the contents of his cup in Ogilvie’s face. Ogilvie tries to close with him, but is restrained by White and Simpson, while Muir and Burns hold Duncan.]</p>
+               <p rend="justify">Duncan (to Burns): Leave me alone, you bawdy jingler. Go back to your wenching, and let men settle their own affairs. Take your hands off me, I say.</p>
+               <p rend="justify">White (to Ogilvie): Sit down, Sam.</p>
+               <p rend="justify">Simpson: Brawling is licentious.</p>
+               <p rend="justify">[They quieten him.]<lb/>
+               </p>
+               <p rend="justify">Duncan: Let me go, you.</p>
+               <p rend="justify">[But Burns needs a little help from Muir to keep him in control.]</p>
+               <p rend="justify">Burns: Why do you discompose yourself, Mr. Duncan? No one means you any harm.</p>
+               <p rend="justify">Duncan: You have no right to address me at all. I am above your quality.</p>
+               <p rend="justify">Muir (tipsy like the rest, but clear as to the situation): Duncan, are you going to apologise? Either that, or you can go home, and don’t come back.</p>
+               <p rend="justify">Duncan (relapsing suddenly from temper to maudlin stupor, sinking into his chair): I will apologise if Mr. Burns will write my biography.</p>
+               <p rend="justify">Simpson: He shall write it, and I will exhibit it by citation.</p>
+               <p rend="justify">Duncan: Very well then, I apologise.</p>
+               <p rend="justify">Muir: Very unedifying, Mr. Burns. I beg you will overlook it. Fill up, gentlemen.</p>
+               <p rend="justify">[He fills the cups. As he is doing so a serving maid comes in.]</p>
+               <p rend="justify">The Girl: This has just been left for Mr. Burns. (Giving him a note.) A lady in a coach.</p>
+               <p rend="justify">White: A love letter, I’ll warrant. (To the Girl.) Did you read it, darling?</p>
+               <p rend="justify">[He puts his arm round her and kisses her.]<lb/>
+               </p>
+               <p rend="justify">The Girl: I have my own, thank you.</p>
+               <p rend="justify">White: O, you have, have you?</p>
+               <p rend="justify">[She moves to go. Burns is fumbling with his letter, beyond any easy reading of it.]</p>
+               <p rend="justify">Muir (filling the last cup): A moment, Meg. The bowl is empty. We will replenish it. Bear it in front of us. Come, Baliol, we will administer the ingredients together. Excuse us, gentlemen.</p>
+               <p rend="justify">[Meg carries the bowl out, Muir and White following her.</p>
+               <p rend="justify">Ogilvie has subsided on to the floor, and is lying with his head on Duncan’s knee, both asleep.]</p>
+               <p rend="justify">Burns (the opened letter in his hand): This handwriting is confoundedly fidgetty.</p>
+               <p rend="justify">Simpson (who has carried his liquor better than the rest): Is it of a private character, Mr. Burns?</p>
+               <p rend="justify">Burns: Its character escapes me.</p>
+               <p rend="justify">[Handing the letter to him.]<lb/>
+               </p>
+               <p rend="justify">Simpson (reading): ‘Remember your friends. They remember you. Be just to yourself. Afton Water.’ (Returning the letter.) An obscure reference.</p>
+               <p rend="justify">Burns: Just to myself. Are we just to ourselves, Mr. Simpson?</p>
+               <p rend="justify">Simpson: It is many years since I asked myself that question, Mr. Burns. I was ambitious once.</p>
+               <p rend="justify">Burns: And you betrayed yourself?</p>
+               <p rend="justify">Simpson: I accepted my limitations.</p>
+               <p rend="justify">Burns: I could have been a different man, Mr. Simpson, and she died. I, too, am accepting my limitations. We’re not very proud of it, eh, Mr. Simpson?</p>
+               <p rend="justify">Simpson: I do not vex my mind on the matter any longer.</p>
+               <p rend="justify">Burns: That’s it. It comes. It is coming to me—I know it. Mary, lass, Mary.</p>
+               <p rend="justify">[And now, brooding far away from his environment, he sings.]</p>
+               <p rend="justify">Thou ling’ring star, with less’ning ray,</p>
+               <p rend="justify">That lov’st to greet the early morn,</p>
+               <p rend="justify">Again thou usher’st in the day</p>
+               <p rend="justify">My Mary from my soul was torn.</p>
+               <p rend="justify">O Mary! dear departed shade!</p>
+               <p rend="justify">Where is thy place of blissful rest?</p>
+               <p rend="justify">See’st thou thy lover lowly laid?</p>
+               <p rend="justify">Hear’st thou the groans that rend his breast?</p>
+               <p rend="justify">That sacred hour can I forget?</p>
+               <p rend="justify">Can I forget the hallowed grove,</p>
+               <p rend="justify">Where, by the winding Ayr, we met,</p>
+               <p rend="justify">To live one day of parting love?</p>
+               <p rend="justify">My Mary! dear departed shade!</p>
+               <p rend="justify">Where is thy place of blissful rest?</p>
+               <p rend="justify">See’st thou thy lover lowly laid?</p>
+               <p rend="justify">Hear’st thou the groans that rend his breast?</p>
+               <p rend="justify">Simpson: She’ll not hear.</p>
+               <p rend="justify">[Burns makes no reply, but sits alone in his moment of remorse.</p>
+               <p rend="justify">Muir and White return with the bowl, now full. They place it on the table.]</p>
+               <p rend="justify">Muir: Gentlemen, gentlemen. Asleep and moody. Come, this is festivity. (Rousing the sleepers.) Wake up, drink up, sing up!</p>
+               <p rend="justify">Duncan (waking): I apologise—I said so. Sam Ogilvie, we will wipe out all debts. Let us drink till morning.</p>
+               <p rend="justify">Ogilvie: Shy, you’re a thoroughbred.</p>
+               <p rend="justify">Muir: Come, Mr. Burns, do not be put out of countenance because a few words have passed. Let gone be gone. We’re all friends now. Another song, Mr. Burns, and here’s to you.</p>
+               <p rend="justify">[They all drink again, and call for the song.]<lb/>
+               </p>
+               <p rend="justify">Burns (rousing himself): You mistake me, gentlemen. I am your servant. And, my lord, as you say, we will let gone be gone. We cannot confound our limitations, as Mr. Simpson will tell you. So let us drink, and sing, and drink.</p>
+               <p rend="justify">[He drinks a full cup at a draught, and sings, the chorus now renewed to its highest pitch.]</p>
+               <p rend="justify">Ken ye ought o’ Captain Grose?</p>
+               <p rend="justify">Igo and ago,</p>
+               <p rend="justify">If he’s amang his friends or foes?</p>
+               <p rend="justify">Iram, coram, dago.</p>
+               <p rend="justify">Is he south or is he north?</p>
+               <p rend="justify">Igo and ago,</p>
+               <p rend="justify">Or drownèd in the river Forth?</p>
+               <p rend="justify">Iram, coram, dago.</p>
+               <p rend="justify">Is he slain by Highlan’ bodies?</p>
+               <p rend="justify">Igo and ago,</p>
+               <p rend="justify">And eaten like a wether-haggis?</p>
+               <p rend="justify">Iram, coram, dago.</p>
+               <p rend="justify">Is he to Abram’s bosom gane?</p>
+               <p rend="justify">Igo and ago,</p>
+               <p rend="justify">Or haudin’ Sarah by the wame?</p>
+               <p rend="justify">Iram, coram, dago.</p>
+               <p rend="justify">Where’er he be, the Lord be near him!</p>
+               <p rend="justify">Igo and ago,</p>
+               <p rend="justify">As for the deil, he daurna steer him!</p>
+               <p rend="justify">Iram, coram, dago.</p>
+               <lg>
+                  <l>So may ye get in glad possession,</l>
+                  <l>Igo and ago,</l>
+               </lg>
+               <lg>
+                  <l>The coins o’ Satan’s coronation!</l>
+                  <l>Iram, coram, dago.</l>
+               </lg>
+               <p rend="justify">THE CURTAIN FALLS<lb/>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>SCENE V</label>
+               </head>
+               <p rend="justify">Burns’s Farm at Ellisland, six miles from Dumfries. An August evening in 1791, more than four years later.</p>
+               <p rend="justify">It is the general kitchen-living-room at the farm. It is fine and warm, and the door to the straw-littered yard is open. A girl is clearing away the evening meal, which has been shared by the family and the farm-servants. A young labourer is sitting by the window mending a bridle. By the fireplace, Jean Armour, now Mrs. Burns, is sewing and singing.</p>
+               <lg>
+                  <l>O wert thou in the cauld blast</l>
+                  <l>On yonder lea, on yonder lea,</l>
+                  <l>My plaidie to the angry airt</l>
+                  <l>I’d shelter thee, I’d shelter thee:</l>
+               </lg>
+               <lg>
+                  <l>Or did Misfortune’s bitter storms</l>
+                  <l>Around thee blaw, around thee blaw,</l>
+                  <l>Thy bield should be my bosom,</l>
+                  <l>To share it a’, to share it a’.</l>
+                  <l>Or were I in the wildest waste,</l>
+                  <l>Sae black and bare, sae black and bare,</l>
+                  <l>The desert were a paradise,</l>
+                  <l>If thou wert there, if thou wert there:</l>
+                  <l>Or were I monarch of the globe,</l>
+                  <l>Wi’ thee to reign, wi’ thee to reign,</l>
+                  <l>The brightest jewel in my crown</l>
+                  <l>Wad be my queen, wad be my queen.</l>
+                  <l>The Girl: That’s a favourite of the master’s.</l>
+                  <l>Jean: It was our wedding song.</l>
+                  <l>The Girl: It must be fine to be wed.</l>
+                  <l>Jean: It’s fine, but it’s anxious.</l>
+                  <l>The Young Man: How long have you been married, Mrs. Burns?</l>
+                  <l>Jean: Married six years, wed three.</l>
+                  <l>The Young Man: And you’re not tired of it?</l>
+                  <l>Jean: I’ve had no time to get tired.</l>
+               </lg>
+               <p rend="justify">The Young Man: It’s different for women, I suppose. I should be scared of wedding—having to cleave to one, as they say.</p>
+               <p rend="justify">Jean: It doesn’t follow.</p>
+               <p rend="justify">The Girl: It would follow if I was the one—I’d have you understand that, Willie Campbell.</p>
+               <p rend="justify">Willie: You’re very exacting.</p>
+               <p rend="justify">The Girl: I’m not. You could promise it at least. You’re too calculating. It’s no good making love to a girl unless you can lie to her.</p>
+               <p rend="justify">[She goes into a wash-house beyond, with plates and dishes.]</p>
+               <p rend="justify">Willie: That’s all right, but a man should be cautious—then they can’t turn on him afterwards.</p>
+               <p rend="justify">Jean: Maybe. I’ve never come into contact with caution, Willie.</p>
+               <p rend="justify">Willie: Mr. M’Pherson has sent over again about the barley. That’s the third time.</p>
+               <p rend="justify">Jean: Have you told Mr. Burns?</p>
+               <p rend="justify">Willie: Yes, but he takes no notice.</p>
+               <p rend="justify">Jean: I’ll speak to him.</p>
+               <p rend="justify">Willie: It’s no business of mine, but the farm’s wasting, Mrs. Burns.</p>
+               <p rend="justify">Jean: You’re right, Willie, it’s no business of yours.</p>
+               <p rend="justify">Willie: I’ll have to be going elsewhere.</p>
+               <p rend="justify">Jean: You’re a very prudent young man.</p>
+               <p rend="justify">Willie: What’s the use of putting me off like that? There’s no offence in what I say. I mean it friendly. The master’s mind is not in it. This could be a grand farm, Mrs. Burns, but it needs a judicious industry. He’s a great man, and a poet, and all that they say, but here’s a hundred acres being spoilt by his neglect.</p>
+               <p rend="justify">[Burns comes in.]<lb/>
+               </p>
+               <p rend="justify">Burns: You’re quite right, Willie, neglect, that’s what it is.</p>
+               <p rend="justify">Jean: You shouldn’t speak so, Willie.</p>
+               <p rend="justify">Burns: But he should, Jean, my girl. Truth’s truth, eh, Willie?</p>
+               <p rend="justify">Willie: It’s no good taking it so easy, Mr. Burns, thinking you’ll make me quiet by agreeing with me like that. I’ve started, and I’ll finish. It’s been growing in me. We work here for a scant of wages—that’s all fair enough—you can’t afford more. But we want to have a pride in the place, same as you ought to, and don’t. And you can laugh at my truth as you call it, but you feel it all the same. I’ve watched you, and I’ve seen the conscience in your face. You stand down in the fields there like a man moonstruck, when you ought to be keeping your eyes on us. Couldn’t you write your poems on Sabbath afternoons? And you take too much of the liquor. There’s the stuff in Town meadows rotting, we’ve missed the last two Dumfries markets, and there’s a good deal at M’Pherson’s going begging. Now I’ve said my say, and you can turn me off. But I couldn’t watch it with my mouth shut any longer.</p>
+               <p rend="justify">[He goes out to the yard.]<lb/>
+               </p>
+               <p rend="justify">Jean: Willie Campbell is forgetting himself.</p>
+               <p rend="justify">Burns: No, Jean, he’s right. You know it, and I know it. It isn’t the farm only that’s spoiling.</p>
+               <p rend="justify">Jean: I know, Robbie. Can’t you—I mean, it’s hard for you.</p>
+               <p rend="justify">Burns: It’s hard for you, lass. I’ve got a head often enough damned well full of resolutions, but what’s the good of them—they scatter. The land’s mean and it’s beaten me. Or I’ve beaten myself. I can’t help the tunes running in my head, or getting a dry gullet. (He goes to the dresser and mixes a bowl of whisky punch.) But I’ve done with the cursed bit of acres. I’ve accepted the excise job at Dumfries.</p>
+               <p rend="justify">Jean: Accepted it?</p>
+               <p rend="justify">Burns: Aye—we’ll be more certain there. Seventy pounds a year. (Drinking.) We’re famous, Jean, and now we have preferment. The muse is honoured. We should give thanks.</p>
+               <p rend="justify">Jean: And there were such fine promises too, from Edinburgh and the like.</p>
+               <p rend="justify">Burns: Solicitation—well, there, I’ve had no stomach for it. I’ll not complain.</p>
+               <p rend="justify">Jean: Couldn’t you see M’Pherson?</p>
+               <p rend="justify">Burns: Aye—I’ve been meaning to this fortnight. But you know how it is. I’m all moods these days. That’s no reason—I know where the reproach lies well enough. But if it weren’t for you, Jean girl, and the others, I’d take my songs to the devil point to point. I’d have done with disillusions then. I could spread my wings in hell, maybe.</p>
+               <p rend="justify">Jean: Don’t talk so, Robbie. Is my faith in you nothing?</p>
+               <p rend="justify">Burns: It’s a miracle of your own heart. But there—Dumfries may mend us. (Drinking.) To the providence of Dumfries.</p>
+               <p rend="justify">Jean: And you’ll see M’Pherson?</p>
+               <p rend="justify">Burns: Aye. And I’m weak and unstable, I know, but I know where my good fortune is, for all I’m careless of it at times. You’ve been in my mind all day. Listen.</p>
+               <p rend="justify">[He sings.]<lb/>
+               </p>
+               <lg>
+                  <l>O’ a’ the airts the wind can blaw,</l>
+                  <l>I dearly like the west,</l>
+                  <l>For there the bonnie lassie lives,</l>
+                  <l>The lassie I lo’e best:</l>
+                  <l>There wild-woods grow, and rivers row,</l>
+                  <l>And mony a hill between;</l>
+                  <l>But day and night my fancy’s flight</l>
+                  <l>Is ever wi’ my Jean.</l>
+               </lg>
+               <lg>
+                  <l>I see her in the dewy flowers,</l>
+                  <l>I see her sweet and fair:</l>
+                  <l>I hear her in the tunefu’ birds,</l>
+                  <l>I hear her charm the air:</l>
+                  <l>There’s not a bonnie flower that springs</l>
+                  <l>By fountain, shaw, or green,</l>
+                  <l>There’s not a bonnie bird that sings,</l>
+                  <l>But minds me o’ my Jean.</l>
+                  <l>Jean: Thank you, Robin. I’ve heard from my father. He’s coming on Friday.</l>
+                  <l>Burns: As you like.</l>
+                  <l>Jean: You know how proud he is of you now.</l>
+                  <l>Burns: Aye. I know.</l>
+               </lg>
+               <p rend="justify">[The Girl comes back with clean plates, which she puts on the dresser.]</p>
+               <p rend="justify">The Girl: Mrs. Fergus is coming across the field, Mrs. Burns.</p>
+               <p rend="justify">[She goes out again.]<lb/>
+               </p>
+               <p rend="justify">Burns: That girl is too pretty, Jean.</p>
+               <p rend="justify">Jean: We’ll trust her.</p>
+               <p rend="justify">Burns: But I can’t trust myself. I never could, and I grow no wiser. I’ll go to the barn—I can’t bide Ellen Fergus.</p>
+               <p rend="justify">Jean: And won’t you come in then and just sit here and read your book? You haven’t done that lately.</p>
+               <p rend="justify">Burns: Maybe. Why, yes, girl, if it will please you.</p>
+               <p rend="justify">[He finishes his drink and goes out. Jean returns to her sewing, and sings.]</p>
+               <lg>
+                  <l>Ye banks and braes o’ bonnie Doon,</l>
+                  <l>How can ye bloom sae fresh and fair;</l>
+                  <l>How can ye chant, ye little birds,</l>
+                  <l>And I sae weary, fu’ o’ care!</l>
+                  <l>Thou’ll break my heart, thou warbling bird,</l>
+                  <l>That wantons thro’ the flowering thorn:</l>
+                  <l>Thou mindst me o’ departed joys,</l>
+                  <l>Departed, never to return!</l>
+                  <l>Aft hae I rov’d by bonnie Doon,</l>
+                  <l>To see the rose and woodbine twine;</l>
+                  <l>And ilka bird sang o’ its luve,</l>
+                  <l>And fondly sae did I o’ mine.</l>
+                  <l>Wi’ lightsome heart I pu’d a rose,</l>
+                  <l>Fu’ sweet upon its thorny tree;</l>
+                  <l>And my fause luver staw my rose,</l>
+                  <l>But, ah! he left the thorn wi’ me.</l>
+               </lg>
+               <p rend="justify">[As she finishes, Mrs. Fergus appears at the door, and stands looking in the direction that Burns has taken.]</p>
+               <lg>
+                  <l>Mrs. Fergus (singing, to Burns):</l>
+                  <l>My bottle is a holy pool,</l>
+                  <l>That heals the wounds o’ care an’ dool;</l>
+                  <l>And pleasure is a wanton trout,</l>
+                  <l>An ye drink it dry, ye’ll find him out.</l>
+                  <l>Are you alone, Mrs. Burns?</l>
+               </lg>
+               <p rend="justify">[Coming into the room.]<lb/>
+               </p>
+               <p rend="justify">Jean: Yes, Mrs. Fergus. Come in and sit down.</p>
+               <p rend="justify">Mrs. Fergus (sitting): A fine, thrifty evening.</p>
+               <p rend="justify">Jean: The season’s very prosperous.</p>
+               <p rend="justify">Mrs. Fergus: I hope you find it so.</p>
+               <p rend="justify">Jean: We’ve much to be thankful for.</p>
+               <p rend="justify">Mrs. Fergus: You’re a great one for fortitude, Mrs. Burns, I’ll say that.</p>
+               <p rend="justify">Jean: I don’t know how that may be.</p>
+               <p rend="justify">Mrs. Fergus: My husband says your farm isn’t showing as well as it might. Mr. Burns is busy elsewhere no doubt.</p>
+               <p rend="justify">Jean: He’s been doing a bit of excise work. He’s going to take it up altogether. In Dumfries.</p>
+               <p rend="justify">Mrs. Fergus: In Dumfries? But that makes company for him, I daresay.</p>
+               <p rend="justify">Jean: Yes.</p>
+               <p rend="justify">Mrs. Fergus: A man must need a strong constitution, what with a call here, and a call there. But Mr. Burns looks a stout sort.</p>
+               <p rend="justify">Jean: He’s very popular—with his fame too.</p>
+               <p rend="justify">Mrs. Fergus: Quite a celebrity, I suppose, when he’s away from home.</p>
+               <p rend="justify">Jean: Some of our neighbours appreciate him too.</p>
+               <p rend="justify">Mrs. Fergus: And not the handsome ones least, Mrs. Burns, I’ll be bound.</p>
+               <p rend="justify">Jean: So he tells me.</p>
+               <p rend="justify">Mrs. Fergus: You’re not very partial to observation yourself, perhaps.</p>
+               <p rend="justify">Jean: When your man’s a man of spirit, Mrs. Fergus, you can see and you can not see.</p>
+               <p rend="justify">Mrs. Fergus: Well, every woman must judge for herself.</p>
+               <p rend="justify">Jean: Some judge for others as well.</p>
+               <p rend="justify">Mrs. Fergus: Do you find Ramsay’s mill satisfactory? We thought of trying it.</p>
+               <p rend="justify">Jean: I’ve not heard Robert mention it.</p>
+               <p rend="justify">Mrs. Fergus: Indeed? I thought he did a good deal of business there. I see him going down often.</p>
+               <p rend="justify">Jean: He doesn’t always trouble me with these things.</p>
+               <p rend="justify">Mrs. Fergus: Ramsay’s daughter Peg is growing into the flower of the countryside they say, and none too particular either.</p>
+               <p rend="justify">Jean: Listen, Mrs. Fergus. You called in here neighbourly, and you’re welcome. But I know more than you can teach me about Robert, and I’ll ask you to take your gossip where it’s wanted. He’s no pattern maybe, but there’s few with the heart or the brain to copy him. There’s that in him that is beyond the understanding of the likes of us. I’ve had my share of him, and I know how to keep my share of him. And I’d rather have that share than ten other whole men. And when I want to take counsel about him I’ll take counsel with him himself.</p>
+               <p rend="justify">Mrs. Fergus: If you take my words like that—</p>
+               <p rend="justify">Jean: Just like that.</p>
+               <p rend="justify">Mrs. Fergus (rising): Then I’d better be going.</p>
+               <p rend="justify">Jean: No, you needn’t go. You’re welcome, as I said. There’s plenty else for conversation. Sit down. Do you know Dumfries?</p>
+               <p rend="justify">Mrs. Fergus: I’m sure I meant no interfering. (Sitting.) A little. It’s a very fashionable town.</p>
+               <p rend="justify">Jean: I fear it will be costly.</p>
+               <p rend="justify">Mrs. Fergus: Aye, you can spend money there.</p>
+               <p rend="justify">[Andrew M’Pherson, a neighbouring farmer, comes to the door.]</p>
+               <p rend="justify">M’Pherson: Is Robert at home, Mrs. Burns?</p>
+               <p rend="justify">Jean: He’s near, somewhere. Come in, Mr. M’Pherson.</p>
+               <p rend="justify">M’Pherson (coming in): Thank you. Good-evening, Mrs. Fergus.</p>
+               <p rend="justify">Mrs. Fergus: Good-evening, Mr. M’Pherson. I’m told Mrs. M’Pherson is not looking well.</p>
+               <p rend="justify">M’Pherson: She’s bonny.</p>
+               <p rend="justify">Mrs. Fergus: Oh? Then I’ve been misinformed.</p>
+               <p rend="justify">M’Pherson: No doubt you have. And not the first time, Mrs. Fergus.</p>
+               <p rend="justify">[Burns is heard approaching, singing as he comes.]</p>
+               <lg>
+                  <l>Comin’ through the rye, poor body,</l>
+                  <l>Comin’ through the rye,</l>
+                  <l>She draiglet a’ her petticoatie,</l>
+                  <l>Comin’ through the rye.</l>
+                  <l>Gin a body meet a body—</l>
+                  <l>Comin’ through the rye,</l>
+                  <l>Gin a body kiss a body—</l>
+                  <l>Need a body cry?</l>
+                  <l>Mrs. Fergus: Yes, I think I’ll be going. Good-evening.</l>
+               </lg>
+               <p rend="justify">[She goes, and meets Burns at the door.]<lb/>
+               </p>
+               <p rend="justify">Burns: She’s draiglet a’ her petticoatie, Mrs. Fergus. Missions of comfort, eh?</p>
+               <p rend="justify">Mrs. Fergus: I hope you’ll find Dumfries very improving, Mr. Burns. Good-evening.</p>
+               <p rend="justify">[She goes.]<lb/>
+               </p>
+               <p rend="justify">Burns (after her): The removal will have its compensations, Mrs. Fergus. (Coming in.) Andrew, my son. Just a drop? (Filling glasses.) I was coming to see you.</p>
+               <p rend="justify">M’Pherson: You’ve been long enough.</p>
+               <p rend="justify">Burns: Time’s a fleet colt, Andrew. (Handing a glass.) Here’s your good health.</p>
+               <p rend="justify">[They drink.]<lb/>
+               </p>
+               <p rend="justify">M’Pherson: Well, is it a deal?</p>
+               <p rend="justify">Burns: I was going to tell you, yes.</p>
+               <p rend="justify">M’Pherson: That’s good. Here’s the coin.</p>
+               <p rend="justify">[He counts out some money on the table.]<lb/>
+               </p>
+               <p rend="justify">Burns (taking up the money): That’s the last deal at Ellisland. (Handing the money to Jean.) Here you are, lass—no, I’ll keep one.</p>
+               <p rend="justify">[Willie Campbell comes in.]<lb/>
+               </p>
+               <p rend="justify">Willie: Am I to stay, or am I to go?</p>
+               <p rend="justify">Burns: We’re going ourselves, Willie. To Dumfries.</p>
+               <p rend="justify">Willie: You’re letting it beat you.</p>
+               <p rend="justify">Jean: It’s a very responsible excise appointment, Willie.</p>
+               <p rend="justify">Willie: We could have made this a grand farm, I tell you, and you’ll go smuggler-baiting.</p>
+               <p rend="justify">[He returns to his bridle-mending.]<lb/>
+               </p>
+               <p rend="justify">Burns: And so you despise me?</p>
+               <p rend="justify">Willie: I do not. I’m disappointed in you.</p>
+               <p rend="justify">M’Pherson: The land’s good. It ought to do well.</p>
+               <p rend="justify">Burns: Willie’s right. I haven’t the character. I love the earth, Andrew, but I’m no master of it. It’s a live thing, and knows it. It’ll only grow songs for me. So I’m for a gauger. It’s best. You and Willie are the ones. (Filling the glasses.) I was never made for firm footing, and if I think I’ll do better in Dumfries, I think I won’t. Make what you can of that, my friends.</p>
+               <p rend="justify">[He sings.]<lb/>
+               </p>
+               <lg>
+                  <l>My father was a farmer</l>
+                  <l>Upon the Carrick border, O,</l>
+                  <l>And carefully he bred me</l>
+                  <l>In decency and order, O;</l>
+               </lg>
+               <lg>
+                  <l>He bade me act a manly part,</l>
+                  <l>Though I had ne’er a farthing, O;</l>
+                  <l>For without an honest manly heart</l>
+                  <l>No man was worth regarding, O.</l>
+                  <l>In many a way, and vain essay,</l>
+                  <l>I courted Fortune’s favour, O;</l>
+                  <l>Some cause unseen still stept between,</l>
+                  <l>To frustrate each endeavour, O:</l>
+                  <l>Sometimes by foes I was o’erpower’d;</l>
+                  <l>Sometimes by friends forsaken, O;</l>
+                  <l>And when my hope was at the top,</l>
+                  <l>I still was worst mistaken, O.</l>
+               </lg>
+               <p rend="justify">It’s a poor, low-hearted doctrine you say, you masters. Well, there it is. Jeannie, girl, they’ve told you the truth about me.</p>
+               <p rend="justify">Jean: I’ve known the truth about you these six years, Robin, in spite of everybody’s telling.</p>
+               <p rend="justify">[A stranger, a traveller, appears at the door.]</p>
+               <p rend="justify">Stranger: Mr. Burns? Will you forgive me? I have a letter from Mr. Gavin Hamilton.</p>
+               <p rend="justify">[Handing him the letter.]<lb/>
+               </p>
+               <p rend="justify">Burns (reading): Mr. Hamilton’s friends are welcome. Jean, Mr. Fenton.</p>
+               <p rend="justify">Jean: Good-evening—have you eaten?</p>
+               <p rend="justify">Fenton: Thank you, I’m at the Inn.</p>
+               <p rend="justify">Burns: Well, a glass of grog at least.</p>
+               <p rend="justify">[He mixes another bowl.]<lb/>
+               </p>
+               <p rend="justify">Fenton: You’re very kind. Mr. Hamilton’s letter has, perhaps, explained.</p>
+               <p rend="justify">Burns: He recommends your acquaintance, sir, that’s all.</p>
+               <p rend="justify">Fenton: I am visiting in Ayr. I could not miss the opportunity of presenting my compliments in person to Mr. Burns.</p>
+               <p rend="justify">Burns: Sir, you flatter me.</p>
+               <p rend="justify">Fenton: It is no flattery, sir. Enlightened judgment in London is very well aware that we have no genius in England to excel one in Scotland. It must be a great satisfaction to you, madam, to know your husband is so generally acknowledged.</p>
+               <p rend="justify">Jean: We are much encouraged by it.</p>
+               <p rend="justify">Fenton: But genius, I know, does not need these assurances.</p>
+               <p rend="justify">Burns (handing punch): They are my wages, sir. I am grateful for them.</p>
+               <p rend="justify">Fenton: Mr. Hamilton tells me of your appointment to the excise at Dumfries. My congratulations.</p>
+               <p rend="justify">[They drink.]<lb/>
+               </p>
+               <p rend="justify">Burns: Yes. Seventy pounds a year.</p>
+               <p rend="justify">[The Girl returns, and lights a lamp. She draws the curtain, and joins Willie Campbell at the window.]</p>
+               <p rend="justify">M’Pherson: If you gentlemen in London think so highly of Mr. Burns, couldn’t you do something better for him than that?</p>
+               <p rend="justify">Fenton: Indeed, from Mr. Burns’s reputation, I could not have supposed such expedients necessary.</p>
+               <p rend="justify">Willie: Reputation makes no bannocks in these parts, sir.</p>
+               <p rend="justify">Burns: Gentlemen, my apologies. These affairs can be no concern of yours. What news have you in London, sir, from France?</p>
+               <p rend="justify">Fenton: The excesses of the revolution increase, I fear.</p>
+               <p rend="justify">Burns: And yet we shall have to emulate the movement, you will find. We must earnestly hope that it can be done constitutionally. Reform without violence, we may trust, but reform it must be.</p>
+               <p rend="justify">Fenton: All our best political thought would agree with you, Mr. Burns.</p>
+               <p rend="justify">Burns: Here’s to a free Britain, gentlemen, and a sense of the people’s rights in our legislators.</p>
+               <p rend="justify">[They drink.]<lb/>
+               </p>
+               <p rend="justify">Fenton: And with your toast, sir, the name of Mr. Pitt.</p>
+               <p rend="justify">Burns: I’ll substitute a greater name, by your leave, sir. I’ll give you George Washington.</p>
+               <p rend="justify">Fenton: Isn’t that rather controversial ground, Mr. Burns?</p>
+               <p rend="justify">Burns: Then we’ll drink to our own fancy—Pitt or Washington.</p>
+               <p rend="justify">[They drink again.]<lb/>
+               </p>
+               <p rend="justify">Burns: And now, gentlemen, let us forget all budgets, state and domestic. Good fellowship heeds no governments.</p>
+               <p rend="justify">[He sings.]<lb/>
+               </p>
+               <p rend="justify">Here’s a bottle and an honest friend!</p>
+               <p rend="justify">What wad ye wish for mair, man?</p>
+               <p rend="justify">Wha kens, before his life may end,</p>
+               <p rend="justify">What his share may be of care, man?</p>
+               <p rend="justify">Then catch the moments as they fly,</p>
+               <p rend="justify">And use them as ye ought, man:</p>
+               <p rend="justify">Believe me, happiness is shy,</p>
+               <p rend="justify">And comes not aye when sought, man.</p>
+               <p rend="justify">Jean (to the Girl): Are the children quiet?</p>
+               <p rend="justify">The Girl: Yes, Mrs. Burns.</p>
+               <p rend="justify">Burns (to Fenton): You have children, sir?</p>
+               <p rend="justify">Fenton: No, I regret to say.</p>
+               <p rend="justify">Burns: I don’t deserve them, but I have.</p>
+               <p rend="justify">Willie: They’re a great expense.</p>
+               <p rend="justify">The Girl: Hold your tongue, Willie.</p>
+               <p rend="justify">M’Pherson: I’ll be going. Good-evening to you.</p>
+               <p rend="justify">Fenton: I too. I only wished to present Mr. Hamilton’s letter this evening. Will you honour me by your company at noon to-morrow? You too, Mrs. Burns?</p>
+               <p rend="justify">Jean: My husband will be very pleased, I’m sure. I’ll be busy here though, thank you.</p>
+               <p rend="justify">Fenton: At noon then, sir. Good-evening, madam.</p>
+               <p rend="justify">Jean: Good-evening.</p>
+               <p rend="justify">[He goes with M’Pherson.]<lb/>
+               </p>
+               <p rend="justify">The Girl: It’s a great thing to be famous like that, with folks travelling from London to look at you.</p>
+               <p rend="justify">Willie: Aye, it’s great. But it’s not very profitable.</p>
+               <p rend="justify">Burns: Jean, Jean—I ought to be conquering the world, and I’ve crept into favour at Dumfries at seventy pounds a year.</p>
+               <p rend="justify">Jean: Don’t trouble, Robin. It’s all right.</p>
+               <p rend="justify">Burns: ‘Here’s a bottle and an honest friend’—not many of your honesty, Jean.</p>
+               <p rend="justify">[He moves to fill his glass from the bowl on the table, but the Girl skilfully removes it before he gets there.]</p>
+               <p rend="justify">Burns (looking at his empty glass): I—well, you’re right, maybe.</p>
+               <p rend="justify">Willie (rising): Your fame will have a double edge, Mr. Burns, that’s what it is.</p>
+               <p rend="justify">[He goes out into the yard, taking the bridle.]</p>
+               <p rend="justify">The Girl: Shall I tell them you’ll come up, Mrs. Burns?</p>
+               <p rend="justify">Jean: In a few minutes.</p>
+               <p rend="justify">Burns: Tell them I’ll come too.</p>
+               <p rend="justify">[The Girl goes through into the house.]<lb/>
+               </p>
+               <p rend="justify">Burns: Oh, I know what you are thinking. I’ve no control, you say to yourself.</p>
+               <p rend="justify">Jean: Robin boy, I’m not complaining. The land’s been disheartening, I know. And you have tried. But it makes it so hard for us.</p>
+               <p rend="justify">Burns: What has Ellen Fergus been saying?</p>
+               <p rend="justify">Jean: Nothing—just chatter.</p>
+               <p rend="justify">Burns: I know—I’ve seen her watching me go down to Ramsay’s. But the girl there is nothing—a mopsy.</p>
+               <p rend="justify">Jean: You’ve no need to excuse yourself, Robin. I don’t ask it. But the dearest thing I have in the world is my pride for you.</p>
+               <p rend="justify">Burns: I’m not worth it. I’m a miserable, havering gipsy. You are my only refuge, Jean. I’ll shut the yard gate. Then we’ll go up to see them.</p>
+               <p rend="justify">[He goes out.]<lb/>
+               </p>
+               <lg>
+                  <l>Jean (putting her sewing away, sings):</l>
+                  <l>The day returns, my bosom burns,</l>
+                  <l>The blissful day we twa did meet;</l>
+                  <l>Tho’ winter wild in tempest toil’d,</l>
+                  <l>Ne’er summer sun was half sae sweet.</l>
+                  <l>Than a’ the pride that loads the tide,</l>
+                  <l>And crosses o’er the sultry line;</l>
+                  <l>Than kingly robes, than crowns and globes,</l>
+                  <l>Heaven gave me more—it made thee mine.</l>
+               </lg>
+               <p rend="justify">[Burns comes to the door and continues the song.]</p>
+               <lg>
+                  <l>While day and night can bring delight,</l>
+                  <l>Or nature aught of pleasure give,</l>
+                  <l>While joys above my mind can move,</l>
+                  <l>For thee, and thee alone, I live!</l>
+                  <l>When that grim foe of life below</l>
+                  <l>Comes in between to make us part,</l>
+                  <l>The iron hand that breaks our band,</l>
+                  <l>It breaks my bliss—it breaks my heart!</l>
+               </lg>
+               <p rend="justify">[Together they repeat—]<lb/>
+               </p>
+               <lg>
+                  <l>When that grim foe of life below</l>
+                  <l>Comes in between, to make us part,</l>
+                  <l>The iron hand that breaks our band,</l>
+                  <l>It breaks my bliss—it breaks my heart!</l>
+               </lg>
+               <p rend="justify">[Following the Girl into the house, as]<lb/>
+               </p>
+               <p rend="justify">THE CURTAIN FALLS<lb/>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>SCENE VI</label>
+               </head>
+               <p rend="justify">Burns’s house at Dumfries, in July, 1796, five years later.</p>
+               <p rend="justify">It is a sweltering afternoon, and Burns, worn and ill, is seated by the open window, looking out on to the street.</p>
+               <p rend="justify">Out in the town can be heard a drum and fife band. As it comes nearer and passes away, Burns sings with some effort.</p>
+               <lg>
+                  <l>When wild war’s deadly blast was blawn,</l>
+                  <l>And gentle peace returning,</l>
+                  <l>Wi’ mony a sweet babe fatherless,</l>
+                  <l>And mony a widow mourning;</l>
+               </lg>
+               <lg>
+                  <l>I left the lines and tented field,</l>
+                  <l>Where lang I’d been a lodger,</l>
+                  <l>My humble knapsack a’ my wealth,</l>
+                  <l>A poor and honest sodger.</l>
+               </lg>
+               <p rend="justify">[Jean comes in.]<lb/>
+               </p>
+               <p rend="justify">Jean: You mustn’t exhaust yourself, Robin dear.</p>
+               <p rend="justify">Burns: There’s not much left of me now to spend, my girl. It’s busy in the town to-day?</p>
+               <p rend="justify">Jean: Aye. It’s the emigrants. And the volunteers are leaving this evening.</p>
+               <p rend="justify">Burns: They’re going to fight the Frenchies, and I’m going to fight auld Nickie-ben. We’re full of affairs in Scotland to-day.</p>
+               <p rend="justify">Jean: Mr. Gavin Hamilton is coming to see you.</p>
+               <p rend="justify">Burns: It’s very attentive of him. He’s welcome. Most of my fine friends have grown tired of me these years.</p>
+               <p rend="justify">Jean: You mustn’t say that, Robin.</p>
+               <p rend="justify">Burns: Why not? It’s true. They wouldn’t look at me across the street, lots of them, these months past. I don’t blame them. I’ve not played my game very well, Jean.</p>
+               <p rend="justify">Jean: There are enquiries for you everywhere in the town. They’re troubled for you, boy.</p>
+               <p rend="justify">Burns: It’s kind of them, but it’s late now. Mr. Thompson has sent the five pounds. I’ve had to turn beggar at the end.</p>
+               <p rend="justify">Jean: You earned it, you know that.</p>
+               <p rend="justify">Burns: I know I had to beg.</p>
+               <p rend="justify">[An approaching voice is heard.]<lb/>
+               </p>
+               <p rend="justify">Burns: There’s a friend who’s not welcome.</p>
+               <p rend="justify">[Holy Willie passes the window, his prayer on his lips.]</p>
+               <lg>
+                  <l>But, Lord, remember me and mine,</l>
+                  <l>Wi’ mercies temp’ral and divine,</l>
+                  <l>That I for grace and gear may shine,</l>
+                  <l>Excell’d by nane,</l>
+                  <l>And a’ the glory shall be Thine,</l>
+                  <l>Amen, Amen!</l>
+               </lg>
+               <p rend="justify">[He comes to the door. Twelve years have made no change in him.]</p>
+               <p rend="justify">Holy Willie: Is the man Burns within?</p>
+               <p rend="justify">Jean: Mr. Burns is very ill.</p>
+               <p rend="justify">Holy Willie: Aye, so I am informed. (Coming into the room.) I came the journey expressly to exhort you to repentance.</p>
+               <p rend="justify">Burns: I’ve spent my life repenting.</p>
+               <p rend="justify">Holy Willie: I fear you’ve lived in unbridled pleasure.</p>
+               <p rend="justify">Burns: You’re a great reconciler to another world, minister.</p>
+               <p rend="justify">Jean: Will you not leave him in peace?</p>
+               <p rend="justify">Holy Willie: There’s no peace for the damned. I had little hope of grace in him. But I wanted my flock to know that I had not failed in my duty by one of them, though strayed. I’m content.</p>
+               <p rend="justify">Burns: I’ll never see you again, minister, God be praised. But listen, a parting word to you.</p>
+               <p rend="justify">[He sings.]<lb/>
+               </p>
+               <lg>
+                  <l>O ye wha are sae guid yoursel’,</l>
+                  <l>Sae pious and sae holy,</l>
+                  <l>Ye’ve nought to do but mark and tell</l>
+                  <l>Your neebours’ fauts and folly!</l>
+               </lg>
+               <lg>
+                  <l>Whase life is like a weel-gaun mill,</l>
+                  <l>Supply’d wi’ store o’ water,</l>
+                  <l>The heapèt happer’s ebbing still,</l>
+                  <l>And still the clap plays clatter.</l>
+                  <l>Then gently scan your brother man,</l>
+                  <l>Still gentler sister woman;</l>
+                  <l>Though they may gang a kennin’ wrang,</l>
+                  <l>To step aside is human:</l>
+                  <l>One point must still be greatly dark,</l>
+                  <l>The moving <hi rend="italic">Why</hi>  they do it;</l>
+                  <l>And just as lamely can ye mark</l>
+                  <l>How far perhaps they rue it.</l>
+               </lg>
+               <p rend="justify">Holy Willie: Stubborn in your pride, even at death’s gate. I’ll persevere with you no longer. Repent, repent—</p>
+               <p rend="justify">[He goes out, his voice fading with—]<lb/>
+               </p>
+               <lg>
+                  <l>But, Lord, remember me and mine,</l>
+                  <l>Wi’ mercies temp’ral and divine,</l>
+                  <l>That I for gear and grace may shine,</l>
+                  <l>Excell’d by nane,</l>
+                  <l>And a’ the glory shall be Thine,</l>
+                  <l>Amen, Amen!</l>
+               </lg>
+               <lg>
+                  <l>Jean: I should have kept him out. He vexed you.</l>
+               </lg>
+               <p rend="justify">Burns: I’ll never be vexed again. He’s some trick of the Lord’s. Jean girl, I’ll say it now, and then we’ll not speak of it again. You’ve been the one sure thing in this world for me. I’m tired, and I leave it all gladly, but you, and them you’ve given me. Bless you everlastingly, and forgive me for my poor soul’s sake, and I’ll need no other forgiveness on earth.</p>
+               <lg>
+                  <l>Jean (kisses him, and sings):</l>
+                  <l>Ae fond kiss, and then we sever;</l>
+                  <l>Ae fareweel, and then, for ever!</l>
+                  <l>Deep in heart-wrung tears I’ll pledge thee,</l>
+                  <l>Warring sighs and groans I’ll wage thee.</l>
+                  <l>Who shall say that fortune grieves him,</l>
+                  <l>While the star of hope she leaves him?</l>
+                  <l>Me, nae cheerfu’ twinkle lights me:</l>
+                  <l>Dark despair around benights me.</l>
+                  <l>Burns (taking up the song):</l>
+                  <l>Fare-thee-weel, thou first and fairest!</l>
+                  <l>Fare-thee-weel, thou best and dearest!</l>
+               </lg>
+               <lg>
+                  <l>Thine be ilka joy and treasure,</l>
+                  <l>Peace, enjoyment, love, and pleasure!</l>
+                  <l>Ae fond kiss, and then we sever;</l>
+                  <l>Ae fareweel, alas, for ever!</l>
+                  <l>Deep in heart-wrung tears I’ll pledge thee,</l>
+                  <l>Warring sighs and groans I’ll wage thee!</l>
+                  <l>Together:</l>
+                  <l>Had we never lov’d sae kindly,</l>
+                  <l>Had we never lov’d sae blindly,</l>
+                  <l>Never met—or never parted,</l>
+                  <l>We had ne’er been broken-hearted.</l>
+               </lg>
+               <p rend="justify">Burns: There, lass. Now we must be stout-hearted. Ah, here’s Mr. Hamilton coming.</p>
+               <p rend="justify">[Gavin Hamilton passes the window. Jean goes to the door.]</p>
+               <p rend="justify">Jean (showing him in): It’s good of you to come, Mr. Hamilton.</p>
+               <p rend="justify">Hamilton: Well, Robert, my lad. Taking some of your Dumfries air?</p>
+               <p rend="justify">Burns: Pretty near my last draught of it, Mr. Hamilton.</p>
+               <p rend="justify">Hamilton: No, no.</p>
+               <p rend="justify">Burns: Oh, but it is. But I’m easy in my mind for myself now. If you’ll do what you can to see that things here don’t break up.</p>
+               <p rend="justify">Hamilton: You can trust us about that. But you mustn’t give up.</p>
+               <p rend="justify">Burns: I’m old bones before my time, Mr. Hamilton, and I’ll not have another word of repining in this house.</p>
+               <p rend="justify">Hamilton: There’s very widespread concern about you, Robert.</p>
+               <p rend="justify">Burns: Aye? I’ll be a great ceremony, dead. Now, Mr. Hamilton, I don’t want you to talk for a little. Sit down, just there, will you, where I can look at a friend that’s never gone back on me.</p>
+               <p rend="justify">[Hamilton sits opposite Burns, and Jean at her husband’s side. Burns seems for a moment to be falling asleep, then there is a sound of moving people outside.]</p>
+               <p rend="justify">Burns: What’s that?</p>
+               <p rend="justify">Jean (looking out of the window): It’s the emigrants. They’re leaving the town.</p>
+               <p rend="justify">Hamilton: I saw them gathering outside your town hall as I came by.</p>
+               <p rend="justify">Burns: Aye—they’re going to a new world. Starting a new life. If I were not the miserable disaster I am, I might be going with them. I might be going to prove myself in far lands.</p>
+               <p rend="justify">[The crowd is approaching, singing on its way.]</p>
+               <p rend="justify">Burns (in a new excitement): Do you hear, Mr. Hamilton—do you hear, Jean?</p>
+               <p rend="justify">[The crowd passes the window, singing. Burns and the others taking up the song.]</p>
+               <lg>
+                  <l>Should auld acquaintance be forgot,</l>
+                  <l>And never brought to mind?</l>
+                  <l>Should auld acquaintance be forgot,</l>
+                  <l>And days o’ lang syne?</l>
+                  <l>For auld lang syne, my dear,</l>
+                  <l>For auld lang syne,</l>
+                  <l>We’ll tak’ a cup o’ kindness yet,</l>
+                  <l>For auld lang syne.</l>
+               </lg>
+               <lg>
+                  <l>We twa hae run about the braes,</l>
+                  <l>And pou’d the gowans fine;</l>
+                  <l>But we’ve wander’d mony a weary foot</l>
+                  <l>Sin’ auld lang syne.</l>
+                  <l>For auld lang syne, my dear,</l>
+                  <l>For auld lang syne,</l>
+                  <l>We’ll tak’ a cup o’ kindness yet,</l>
+                  <l>For auld lang syne.</l>
+               </lg>
+               <p rend="justify">Burns (as the song fades away): Do you hear that? They’re singing my song—they’re taking me out into the world with them. The darlings!</p>
+               <p rend="justify">[Again he relapses into his quietness for a moment. Then in the distance is heard the pipes of a Scots regiment on march.]</p>
+               <p rend="justify">Burns (rousing): Listen—listen. It’s my volunteers—they’re going to the wars.</p>
+               <p rend="justify">[The pipes come down the street.]<lb/>
+               </p>
+               <p rend="justify">Burns: They’re marching away, and I’ll never see them come back.</p>
+               <p rend="justify">[The pipers lead the regiment past the window.]</p>
+               <p rend="justify">Burns (forcing himself up, and waving his muffler out of the window to them): God go with you, my lads—Scotland for ever.</p>
+               <p rend="justify">[As they pass down the street, he sings.]<lb/>
+               </p>
+               <lg>
+                  <l>Scots, wha hae wi’ Wallace bled,</l>
+                  <l>Scots, wham Bruce has aften led;</l>
+                  <l>Welcome to your gory bed,</l>
+                  <l>Or to victorie!</l>
+                  <l/>
+                  <l>Now’s the day, and now’s the hour;</l>
+                  <l>See the front of battle lour;</l>
+                  <l>See approach proud Edward’s pow’r—</l>
+                  <l>Chains and slaverie!</l>
+                  <l/>
+                  <l>By Oppression’s woes and pains!</l>
+                  <l>By your sons in servile chains!</l>
+                  <l>We will drain our dearest veins</l>
+                  <l>But they shall be free!</l>
+                  <l/>
+                  <l>Lay the proud usurpers low!</l>
+                  <l>Tyrants fall in every foe!</l>
+                  <l>Liberty’s in every blow!—</l>
+                  <l>Let us do, or die!</l>
+                  <l/>
+                  <l>Scots, wha hae wi’ Wallace bled,</l>
+                  <l>Scots, wham Bruce has aften led;</l>
+                  <l>Welcome to your gory bed,</l>
+                  <l>Or to victorie!</l>
+               </lg>
+               <p rend="justify">[He sinks back exhausted into the arms of Hamilton and Jean, and]</p>
+               <p rend="justify">THE CURTAIN FALLS<lb/>
+               </p>
+               <p rend="justify">Transcriber’s Note</p>
+               <p rend="justify">The following changes were made to the text as printed:</p>
+               <p rend="justify">Page 3: “why, the quality’s serving women would laugh at it” changed to “why, the quality’s serving women would laugh at it.”</p>
+               <p rend="justify">Page 22: “Some of the others at another table are playing cards). We were friends, Nell, you and I.” changed to “Some of the others at another table are playing cards): We were friends, Nell, you and I.”</p>
+               <p rend="justify">Page 43: “out by the candle-light of the stairway” changed to “out by the candlelight of the stairway”</p>
+               <p rend="justify">Page 71: “Burns (to full chorus, is singing),” changed to “Burns (to full chorus, is singing),”</p>
+               <p rend="justify">Page 76: “White: A song, a song” changed to “White: A song, a song.”</p>
+               <p rend="justify">Page 109: “Heaven gave me more--it made thee mine” changed to “Heaven gave me more--it made thee mine.”</p>
+               <p rend="justify">Page 111: “auld Nickie Ben” changed to “auld Nickie-ben”</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
