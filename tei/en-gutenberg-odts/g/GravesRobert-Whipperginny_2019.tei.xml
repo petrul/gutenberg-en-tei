@@ -1,0 +1,2668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whipperginny</title>
+            <author>Robert Graves</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T06:03:03Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/g/GravesRobert-Whipperginny_2019.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Robert Graves</name>
+               <date>2024-01-04T06:03:03Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Whipperginny</head>
+         <author>Robert Graves</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/g/GravesRobert-Whipperginny_2019.odt</p>
+         <p>WHIPPERGINNY</p>
+         <pb/>
+         <div type="div1">
+            <head>WHIPPERGINNY</head>
+            <lg>
+               <l>BY</l>
+               <l/>
+               <l>ROBERT GRAVES</l>
+               <l/>
+               <l/>
+               <l/>
+               <l/>
+               <l/>
+               <l/>
+               <l>NEW YORK</l>
+               <l/>
+               <l>ALFRED A. KNOPF : MCMXXIII</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>TO</l>
+               <l/>
+               <l>EDWARD MARSH</l>
+               <l/>
+               <l/>
+               <l>
+                  <hi rend="italic">Printed in Great Britain</hi>
+               </l>
+            </lg>
+            <pb/>
+            <div type="div2">
+               <head>AUTHOR’S NOTE</head>
+               <p rend="justify">The poems in this volume cover a period of three years, beginning at the New Year of 1920, except for the rhymes “Henry and Mary,” “What did I dream?” and “Mirror, Mirror!” with parts of “An English Wood,” “The Bed Post” and of “Unicorn and the White Doe,” which are bankrupt stock of 1918, the year in which I was writing <hi rend="italic">Country Sentiment</hi>. <hi rend="italic">The Pier Glass</hi>, a volume which followed <hi rend="italic">Country Sentiment</hi>, similarly contains a few pieces continuing the mood of this year, the desire to escape from a painful war neurosis into an Arcadia of amatory fancy, but the prevailing mood of <hi rend="italic">The Pier Glass</hi> is aggressive and disciplinary, under the stress of the same neurosis, rather than escapist. <hi rend="italic">Whipperginny</hi> for a while continues so, but in most of the later pieces will be found evidences of greater detachment in the poet and the appearance of a new series of problems in religion, psychology and philosophy, no less exacting than their predecessors, but, it may be said, of less emotional intensity. The “Interlude” in the middle of the book was written before the appearance of these less lyrical pieces, but must be read as an apology for the book being now even less homogeneous than before. To those who demand unceasing emotional stress in poetry at whatever cost to the poet—I was one of these myself until recently—I have no apology to offer; but only this proverb from the Chinese, that <hi rend="italic">the petulant</hi>
+                  <hi rend="italic">  protests of all the lords and ladies of the Imperial Court will weigh little with the whale when, recovering from his painful excretory condition, he need no longer supply the Guild of Honourable Perfumers with their accustomed weight of ambergris</hi>.</p>
+               <p rend="justify">ROBERT GRAVES.<lb/>
+               </p>
+               <lg>
+                  <l>
+                     <hi rend="italic">The World’s End,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Islip.</hi>
+                  </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CONTENTS</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell> </cell>
+                     <cell>PAGE</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="italic">Whipperginny</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>The Bedpost</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>A Lover since Childhood</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Song of Contrariety</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>The Ridge-Top</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Song in Winter</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Unicorn and the White Doe</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Sullen Moods</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>A False Report</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Children of Darkness</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Richard Roe and John Doe</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>The Dialecticians</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>The Lands of Whipperginny</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>“The General Elliott”</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>A Fight to the Death</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Old Wives’ Tales</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Christmas Eve</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>The Snake and the Bull</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>The Red Ribbon Dream</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>In Procession</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Henry and Mary</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>An English Wood</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell>Mirror, Mirror!</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>What did I dream?</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>Interlude: On Preserving a Poetical Formula</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>A History of Peace</cell>
+                     <cell>39</cell>
+                  </row>
+                  <row>
+                     <cell>The Rock Below</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>An Idyll of Old Age</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>The Lord Chamberlain tells of a Famous Meeting</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>The Sewing Basket</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>Against Clock and Compasses</cell>
+                     <cell>51</cell>
+                  </row>
+                  <row>
+                     <cell>The Avengers</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>On the Poet’s Birth</cell>
+                     <cell>53</cell>
+                  </row>
+                  <row>
+                     <cell>The Technique of Perfection</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>The Sibyl</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>A Crusader</cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell>A New Portrait of Judith of Bethulia</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>A Reversal</cell>
+                     <cell>59</cell>
+                  </row>
+                  <row>
+                     <cell>The Martyred Decadents: a Sympathetic Satire</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Epigrams—</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>      On Christopher Marlowe</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>      A Village Conflict</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>      Dedicatory</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>      To R. Graves, Senior</cell>
+                     <cell>63</cell>
+                  </row>
+                  <row>
+                     <cell>      “A Vehicle, to wit, a Bicycle”</cell>
+                     <cell>63</cell>
+                  </row>
+                  <row>
+                     <cell>      Motto to a Book of Emblems</cell>
+                     <cell>63</cell>
+                  </row>
+                  <row>
+                     <cell>The Bowl and Rim</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>A Forced Music</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>The Turn of a Page</cell>
+                     <cell>67</cell>
+                  </row>
+                  <row>
+                     <cell>The Manifestation in the Temple</cell>
+                     <cell>68</cell>
+                  </row>
+                  <row>
+                     <cell>To Any Saint</cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>A Dewdrop</cell>
+                     <cell>71</cell>
+                  </row>
+                  <row>
+                     <cell>A Valentine</cell>
+                     <cell>72</cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">WHIPPERGINNY</hi>
+                  <lb/>
+                  <lb/>(“A card game, obsolete.”—<hi rend="italic">Standard Dictionary.</hi>)</head>
+               <lg>
+                  <l>To cards we have recourse</l>
+                  <l>When Time with cruelty runs,</l>
+                  <l>To courtly Bridge for stress of love,</l>
+                  <l>To Nap for noise of guns.</l>
+               </lg>
+               <lg>
+                  <l>On fairy earth we tread,</l>
+                  <l>  No present problems vex</l>
+                  <l>  Where man’s four humours fade to suits,</l>
+                  <l>  With red and black for sex.</l>
+               </lg>
+               <lg>
+                  <l>Where phantom gains accrue</l>
+                  <l>  By tricks instead of cash,</l>
+                  <l>  Where pasteboard federacies of Powers</l>
+                  <l>  In battles-royal clash.</l>
+               </lg>
+               <lg>
+                  <l>Then read the antique word</l>
+                  <l>  That hangs above this page</l>
+                  <l>  As type of mirth-abstracted joy,</l>
+                  <l>  Calm terror, noiseless rage,</l>
+               </lg>
+               <lg>
+                  <l>A realm of ideal thought,</l>
+                  <l>  Obscured by veils of Time,</l>
+                  <l>  Cipher remote enough to stand</l>
+                  <l>  As namesake for my rhyme,</l>
+               </lg>
+               <lg>
+                  <l>A game to play apart</l>
+                  <l>  When all but crushed with care;</l>
+                  <l>  Let right and left, your jealous hands,</l>
+                  <l>  The lists of love prepare.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE BEDPOST</head>
+               <lg>
+                  <l>Sleepy Betsy from her pillow</l>
+                  <l>Sees the post and ball</l>
+                  <l>Of her sister’s wooden bedstead</l>
+                  <l>Shadowed on the wall.</l>
+               </lg>
+               <lg>
+                  <l>Now this grave young warrior standing</l>
+                  <l>  With uncovered head</l>
+                  <l>  Tells her stories of old battle,</l>
+                  <l>  As she lies in bed.</l>
+               </lg>
+               <lg>
+                  <l>How the Emperor and the Farmer,</l>
+                  <l>  Fighting knee to knee,</l>
+                  <l>  Broke their swords but whirled their scabbards</l>
+                  <l>  Till they gained the sea.</l>
+               </lg>
+               <lg>
+                  <l>How the ruler of that shore</l>
+                  <l>  Foully broke his oath,</l>
+                  <l>  Gave them beds in his sea cavern,</l>
+                  <l>  Then stabbed them both.</l>
+               </lg>
+               <lg>
+                  <l>How the daughters of the Emperor,</l>
+                  <l>  Diving boldly through,</l>
+                  <l>  Caught and killed their father’s murderer,</l>
+                  <l>  Old Cro-bar-cru.</l>
+               </lg>
+               <lg>
+                  <l>How the Farmer’s sturdy sons</l>
+                  <l>  Fought the giant Gog,</l>
+                  <l>  Threw him into Stony Cataract</l>
+                  <l>  In the land of Og.</l>
+               </lg>
+               <lg>
+                  <l>Will and Abel were their names,</l>
+                  <l>  Though they went by others;</l>
+                  <l>  He could tell ten thousand stories</l>
+                  <l>  Of these lusty brothers.</l>
+               </lg>
+               <lg>
+                  <l>How the Emperor’s elder daughter</l>
+                  <l>  Fell in love with Will,</l>
+                  <l>  And went with him to the Court of Venus</l>
+                  <l>  Over Hoo Hill;</l>
+               </lg>
+               <lg>
+                  <l>How Gog’s wife encountered Abel</l>
+                  <l>  Whom she hated most,</l>
+                  <l>  Stole away his arms and helmet,</l>
+                  <l>  Turned him to a post.</l>
+               </lg>
+               <lg>
+                  <l>As a post he shall be rooted</l>
+                  <l>  For yet many years,</l>
+                  <l>  Until a maiden shall release him</l>
+                  <l>  With a fall of tears.</l>
+               </lg>
+               <lg>
+                  <l>But Betsy likes the bloodier stories,</l>
+                  <l>  Clang and clash of fight,</l>
+                  <l>  And Abel wanes with the spent candle,</l>
+                  <l>  “Sweetheart, good-night!”</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A LOVER SINCE CHILDHOOD</head>
+               <lg>
+                  <l>Tangled in thought am I,</l>
+                  <l>Stumble in speech do I?</l>
+                  <l>Do I blunder and blush for the reason why?</l>
+                  <l>Wander aloof do I,</l>
+                  <l>Lean over gates and sigh,</l>
+                  <l>Making friends with the bee and the butterfly?</l>
+               </lg>
+               <lg>
+                  <l>If thus and thus I do,</l>
+                  <l>  Dazed by the thought of you,</l>
+                  <l>  Walking my sorrowful way in the early dew,</l>
+                  <l>  My heart cut through and through</l>
+                  <l>  In this despair for you,</l>
+                  <l>  Starved for a word or a look will my hope renew;</l>
+               </lg>
+               <lg>
+                  <l>Give then a thought for me</l>
+                  <l>  Walking so miserably,</l>
+                  <l>  Wanting relief in the friendship of flower or tree;</l>
+                  <l>  Do but remember, we</l>
+                  <l>  Once could in love agree,</l>
+                  <l>  Swallow your pride, let us be as we used to be.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SONG OF CONTRARIETY</head>
+               <lg>
+                  <l>Far away is close at hand,</l>
+                  <l>Close joined is far away,</l>
+                  <l>Love might come at your command</l>
+                  <l>Yet will not stay.</l>
+               </lg>
+               <lg>
+                  <l>At summons of your dream-despair</l>
+                  <l>  She could not disobey,</l>
+                  <l>  But slid close down beside you there</l>
+                  <l>  And complaisant lay.</l>
+               </lg>
+               <lg>
+                  <l>Yet now her flesh and blood consent</l>
+                  <l>  In waking hours of day,</l>
+                  <l>  Joy and passion both are spent,</l>
+                  <l>  Fading clean away.</l>
+               </lg>
+               <lg>
+                  <l>Is the presence empty air,</l>
+                  <l>  Is the spectre clay,</l>
+                  <l>  That Love, lent substance by despair,</l>
+                  <l>  Wanes, and leaves you lonely there</l>
+                  <l>  On the bridal day?</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE RIDGE-TOP</head>
+               <lg>
+                  <l>Below the ridge a raven flew</l>
+                  <l>And we heard the lost curlew</l>
+                  <l>Mourning out of sight below;</l>
+                  <l>Mountain tops were touched with snow;</l>
+                  <l>Even the long dividing plain</l>
+                  <l>Showed no wealth of sheep or grain,</l>
+                  <l>But fields of boulders lay like corn</l>
+                  <l>And raven’s croak was shepherd’s horn</l>
+                  <l>To slow cloud shadow strayed across</l>
+                  <l>A pasture of thin heath and moss.</l>
+                  <l>The North Wind rose; I saw him press</l>
+                  <l>With lusty force against your dress,</l>
+                  <l>Moulding your body’s inward grace,</l>
+                  <l>And streaming off from your set face;</l>
+                  <l>So now no longer flesh and blood,</l>
+                  <l>But poised in marble thought you stood,</l>
+                  <l>O wingless Victory, loved of men,</l>
+                  <l>Who could withstand your triumph then?</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SONG IN WINTER</head>
+               <lg>
+                  <l>The broken spray left hanging</l>
+                  <l>Can hold his dead leaf longer</l>
+                  <l>Into your glum November</l>
+                  <l>Than this live twig tossed shivering</l>
+                  <l>By your East Wind anger.</l>
+               </lg>
+               <lg>
+                  <l>Unrepentant, hoping Spring,</l>
+                  <l>  Flowery hoods of glory hoping,</l>
+                  <l>  Carelessly I sing,</l>
+                  <l>  With envy none for the broken spray</l>
+                  <l>  When the Spring comes, fallen away.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>UNICORN AND THE WHITE DOE</head>
+               <lg>
+                  <l>“Alone</l>
+                  <l>Through forests evergreen,</l>
+                  <l>By legend known,</l>
+                  <l>By no eye seen,</l>
+                  <l>Unmated,</l>
+                  <l>Unbaited,</l>
+                  <l>Untrembling between</l>
+                  <l>The shifting shadows,</l>
+                  <l>The sudden echoes,</l>
+                  <l>Deathless I go</l>
+                  <l>Unheard, unseen,”</l>
+                  <l>Says the White Doe.</l>
+               </lg>
+               <lg>
+                  <l>Unicorn with bursting heart</l>
+                  <l>  Breath of love hath drawn</l>
+                  <l>  On his desolate crags apart</l>
+                  <l>  At rumour of dawn;</l>
+               </lg>
+               <lg>
+                  <l>Has volleyed forth his pride</l>
+                  <l>  Twenty thousand years mute,</l>
+                  <l>  Tossed his horn from side to side,</l>
+                  <l>  Lunged with his foot.</l>
+               </lg>
+               <lg>
+                  <l>“Like a storm of sand I run</l>
+                  <l>  Breaking the desert’s boundaries,</l>
+                  <l>  I go in hiding from the sun</l>
+                  <l>  In thick shade of trees.</l>
+               </lg>
+               <lg>
+                  <l>Straight was the track I took</l>
+                  <l>  Across the plains, but here with briar</l>
+                  <l>  And mire the tangled alleys crook,</l>
+                  <l>  Baulking desire.</l>
+               </lg>
+               <lg>
+                  <l>And there, what glinted white?</l>
+                  <l>  (A bough still shakes.)</l>
+                  <l>  What was it darted from my sight</l>
+                  <l>  Through the forest brakes?</l>
+               </lg>
+               <lg>
+                  <l>Where are you fled from me?</l>
+                  <l>  I pursue, you fade;</l>
+                  <l>  I run, you hide from me</l>
+                  <l>  In the dark glade.</l>
+               </lg>
+               <lg>
+                  <l>Towering straight the trees grow,</l>
+                  <l>  The grass grows thick.</l>
+                  <l>  Where you are I do not know,</l>
+                  <l>  You fly so quick.”</l>
+               </lg>
+               <lg>
+                  <l>“Seek me not here</l>
+                  <l>  Lodged among mortal deer,”</l>
+                  <l>  Says the White Doe;</l>
+                  <l>  “Keeping one place</l>
+                  <l>  Held by the ties of Space,”</l>
+                  <l>  Says the White Doe.</l>
+                  <l>  “I</l>
+                  <l>  Equally</l>
+                  <l>  In air</l>
+                  <l>  Above your bare</l>
+                  <l>  Hill crest, your basalt lair,</l>
+                  <l>  Mirage-reflected drink</l>
+                  <l>  At the clear pool’s brink;</l>
+                  <l>  With tigers at play</l>
+                  <l>  In the glare of day</l>
+                  <l>  Blithely I stray;</l>
+                  <l>  Under shadow of myrtle</l>
+                  <l>  With Phœnix and his Turtle</l>
+                  <l>  For all time true;</l>
+                  <l>  With Gryphons at grass</l>
+                  <l>  Under the Upas,</l>
+                  <l>  Sipping warm dew</l>
+                  <l>  That falls hourly new;</l>
+                  <l>  I, unattainable</l>
+                  <l>  Complete, incomprehensible,</l>
+                  <l>  No mate for you.</l>
+                  <l>  In sun’s beam</l>
+                  <l>  Or star-gleam,</l>
+                  <l>  No mate for you,</l>
+                  <l>  No mate for you,”</l>
+                  <l>  Says the White Doe.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SULLEN MOODS</head>
+               <lg>
+                  <l>Love, do not count your labour lost</l>
+                  <l>Though I turn sullen, grim, retired</l>
+                  <l>Even at your side; my thought is crossed</l>
+                  <l>With fancies by old longings fired.</l>
+               </lg>
+               <lg>
+                  <l>And when I answer you, some days</l>
+                  <l>  Vaguely and wildly, do not fear</l>
+                  <l>  That my love walks forbidden ways,</l>
+                  <l>  Breaking the ties that hold it here.</l>
+               </lg>
+               <lg>
+                  <l>If I speak gruffly, this mood is</l>
+                  <l>  Mere indignation at my own</l>
+                  <l>  Shortcomings, plagues, uncertainties;</l>
+                  <l>  I forget the gentler tone.</l>
+               </lg>
+               <lg>
+                  <l>You, now that you have come to be</l>
+                  <l>  My one beginning, prime and end,</l>
+                  <l>  I count at last as wholly me,</l>
+                  <l>  Lover no longer nor yet friend.</l>
+               </lg>
+               <lg>
+                  <l>Friendship is flattery, though close hid;</l>
+                  <l>  Must I then flatter my own mind?</l>
+                  <l>  And must (which laws of shame forbid)</l>
+                  <l>  Blind love of you make self-love blind?</l>
+               </lg>
+               <lg>
+                  <l>Do not repay me my own coin,</l>
+                  <l>  The sharp rebuke, the frown, the groan;</l>
+                  <l>  Remind me, rather, to disjoin</l>
+                  <l>  Your emanation from my own.</l>
+               </lg>
+               <lg>
+                  <l>Help me to see you as before</l>
+                  <l>  When overwhelmed and dead, almost,</l>
+                  <l>  I stumbled on that secret door</l>
+                  <l>  Which saves the live man from the ghost.</l>
+               </lg>
+               <lg>
+                  <l>Be once again the distant light,</l>
+                  <l>  Promise of glory, not yet known</l>
+                  <l>  In full perfection—wasted quite</l>
+                  <l>  When on my imperfection thrown.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A FALSE REPORT</head>
+               <lg>
+                  <l>Are they blind, the lords of Gaza,</l>
+                  <l>That each his fellow urges</l>
+                  <l>“Samson the proud is pillow-smothered,”</l>
+                  <l>They raise mock dirges?</l>
+               </lg>
+               <lg>
+                  <l>Philistines and dullards,</l>
+                  <l>  Turn, look with amaze</l>
+                  <l>  At my foxes running in your cornfields</l>
+                  <l>  With their tails ablaze,</l>
+               </lg>
+               <lg>
+                  <l>At bloody jawbone, at bees flitting</l>
+                  <l>  From the stark lion’s hide:</l>
+                  <l>  At these, the gates of well-walled Gaza,</l>
+                  <l>  Clanking to my stride.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CHILDREN OF DARKNESS<lb/>
+                  <lb/>(“In their generation wiser than the children of Light.”)</head>
+               <lg>
+                  <l>We spurred our parents to the kiss,</l>
+                  <l>Though doubtfully they shrank from this—</l>
+                  <l>Day had no courage to review</l>
+                  <l>What lusty dark alone might do—</l>
+                  <l>Then were we joined from their caress</l>
+                  <l>In heat of midnight, one from two.</l>
+               </lg>
+               <lg>
+                  <l>This night-seed knew no discontent,</l>
+                  <l>  In certitude his changings went;</l>
+                  <l>  Though there were veils about his face,</l>
+                  <l>  With forethought, even in that pent place,</l>
+                  <l>  Down towards the light his way he bent</l>
+                  <l>  To kingdoms of more ample space.</l>
+               </lg>
+               <lg>
+                  <l>Was Day prime error, that regret</l>
+                  <l>  For darkness roars unstifled yet?</l>
+                  <l>  That in this freedom, by faith won,</l>
+                  <l>  Only acts of doubt are done?</l>
+                  <l>  That unveiled eyes with tears are wet,</l>
+                  <l>  They loathe to gaze upon the sun?</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>RICHARD ROE AND JOHN DOE</head>
+               <lg>
+                  <l>Richard Roe wished himself <hi rend="italic">Solomon</hi>
+                  </l>
+                  <l>Made cuckold, you should know, by one John Doe;</l>
+                  <l>
+                     <hi rend="italic">Solomon’s</hi> neck was firm enough to bear</l>
+                  <l>Some score of antlers more than Roe could wear.</l>
+               </lg>
+               <lg>
+                  <l>Richard Roe wished himself <hi rend="italic">Alexander</hi>,</l>
+                  <l>  Being robbed of house and land by the same hand;</l>
+                  <l>  Ten thousand acres or a principal town</l>
+                  <l>  Would have cost <hi rend="italic">Alexander</hi>  scarce a frown.</l>
+               </lg>
+               <lg>
+                  <l>Richard Roe wished himself <hi rend="italic">Job</hi>  the prophet,</l>
+                  <l>  Sunk past reclaim in stinking rags and shame;</l>
+                  <l>
+                     <hi rend="italic">Job’s</hi>  plight was utterly bad, his own even worse,</l>
+                  <l>  He found no God to call on or to curse.</l>
+               </lg>
+               <lg>
+                  <l>He wished himself <hi rend="italic">Job</hi>, <hi rend="italic">Solomon</hi>, <hi rend="italic">Alexander</hi>,</l>
+                  <l>  For cunning, patience, power to overthrow</l>
+                  <l>  His tyrant, but with heart gone so far rotten</l>
+                  <l>  That most of all he wished himself John Doe.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE DIALECTICIANS</head>
+               <lg>
+                  <l>Thought has a bias,</l>
+                  <l>Direction a bend,</l>
+                  <l>Space its inhibitions,</l>
+                  <l>Time a dead end.</l>
+               </lg>
+               <lg>
+                  <l>Is whiteness white?</l>
+                  <l>  O then, call it black:</l>
+                  <l>  Farthest from the truth</l>
+                  <l>  Is yet half-way back.</l>
+               </lg>
+               <lg>
+                  <l>Effect ordains Cause,</l>
+                  <l>  Head swallowing its tail;</l>
+                  <l>  Does whale engulf sprat,</l>
+                  <l>  Or sprat assume whale?</l>
+               </lg>
+               <lg>
+                  <l>Contentions weary,</l>
+                  <l>  It giddies all to think;</l>
+                  <l>  Then kiss, girl, kiss!</l>
+                  <l>  Or drink, fellow, drink!</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE LANDS OF WHIPPERGINNY<lb/>(“Heaven or Hell or the Lands of Whipperginny.”—Nashe’s <hi rend="italic">Jack Wilton</hi>.)</head>
+               <lg>
+                  <l>Come closer yet, sweet honeysuckle, my coney, O my Jinny,</l>
+                  <l>With a low sun gilding the bloom of the wood.</l>
+                  <l>Be this Heaven, be it Hell, or the Lands of Whipperginny,</l>
+                  <l>It lies in a fairy lustre, it savours most good.</l>
+               </lg>
+               <lg>
+                  <l>Then stern proud psalms from the chapel on the moors</l>
+                  <l>  Waver in the night wind, their firm rhythm broken,</l>
+                  <l>  Lugubriously twisted to a howling of whores</l>
+                  <l>  Or lent an airy glory too strange to be spoken.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>“THE GENERAL ELLIOTT”</head>
+               <lg>
+                  <l>He fell in victory’s fierce pursuit,</l>
+                  <l>Holed through and through with shot,</l>
+                  <l>A sabre sweep had hacked him deep</l>
+                  <l>’Twixt neck and shoulder-knot....</l>
+               </lg>
+               <lg>
+                  <l>The potman cannot well recall,</l>
+                  <l>  The ostler never knew,</l>
+                  <l>  Whether his day was Malplaquet,</l>
+                  <l>  The Boyne, or Waterloo.</l>
+               </lg>
+               <lg>
+                  <l>But there he hangs for tavern sign,</l>
+                  <l>  With foolish bold regard</l>
+                  <l>  For cock and hen and loitering men</l>
+                  <l>  And wagons down the yard.</l>
+               </lg>
+               <lg>
+                  <l>Raised high above the hayseed world</l>
+                  <l>  He smokes his painted pipe,</l>
+                  <l>  And now surveys the orchard ways,</l>
+                  <l>  The damsons clustering ripe.</l>
+               </lg>
+               <lg>
+                  <l>He sees the churchyard slabs beyond,</l>
+                  <l>  Where country neighbours lie,</l>
+                  <l>  Their brief renown set lowly down;</l>
+                  <l>
+                     <hi rend="italic">His</hi>  name assaults the sky.</l>
+               </lg>
+               <lg>
+                  <l>He grips the tankard of brown ale</l>
+                  <l>  That spills a generous foam:</l>
+                  <l>  Oft-times he drinks, they say, and winks</l>
+                  <l>  At drunk men lurching home.</l>
+               </lg>
+               <lg>
+                  <l>No upstart hero may usurp</l>
+                  <l>  That honoured swinging seat;</l>
+                  <l>  His seasons pass with pipe and glass</l>
+                  <l>  Until the tale’s complete.</l>
+               </lg>
+               <lg>
+                  <l>And paint shall keep his buttons bright</l>
+                  <l>  Though all the world’s forgot</l>
+                  <l>  Whether he died for England’s pride</l>
+                  <l>  By battle, or by pot.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A FIGHT TO THE DEATH</head>
+               <lg>
+                  <l>Two blind old men in a blind corridor</l>
+                  <l>Fought to the death, by sense of sound or touch.</l>
+                  <l>Doom flailed unseen, an iron hook-hand tore</l>
+                  <l>Flesh from the enemy’s ribs who swung the crutch.</l>
+                  <l>One gasped, “She looked on me and smiled, I say,”</l>
+                  <l>So life was battered out, for yea or nay.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>OLD WIVES’ TALES</head>
+               <lg>
+                  <l>Were the tales they told absurd,</l>
+                  <l>Random tags for a child’s ear?</l>
+                  <l>Soon I mocked at all I heard,</l>
+                  <l>Though with cause indeed for fear.</l>
+               </lg>
+               <lg>
+                  <l>Of the mermaids’ doleful game</l>
+                  <l>  In deep water I heard tell,</l>
+                  <l>  Of lofty dragons blowing flame,</l>
+                  <l>  Of the hornèd fiend of Hell.</l>
+               </lg>
+               <lg>
+                  <l>Now I have met the mermaid kin</l>
+                  <l>  And find them bound by natural laws,</l>
+                  <l>  They have neither tail nor fin,</l>
+                  <l>  But are the deadlier for that cause.</l>
+               </lg>
+               <lg>
+                  <l>Dragons have no darting tongues,</l>
+                  <l>  Teeth saw-edged nor rattling scales,</l>
+                  <l>  No fire issues from their lungs,</l>
+                  <l>  Poison has not slimed their tails.</l>
+               </lg>
+               <lg>
+                  <l>But they are creatures of dark air,</l>
+                  <l>  Unsubstantial tossing forms,</l>
+                  <l>  Thunderclaps of man’s despair</l>
+                  <l>  In mid whirl of mental storms.</l>
+               </lg>
+               <lg>
+                  <l>And there’s a true and only fiend</l>
+                  <l>  Worse than prophets prophesy,</l>
+                  <l>  Whose full powers to hurt are screened</l>
+                  <l>  Lest the race of man should die.</l>
+               </lg>
+               <lg>
+                  <l>Ever in vain may courage plot</l>
+                  <l>  The dragon’s death with shield and sword,</l>
+                  <l>  Or love abjure the mermaid grot,</l>
+                  <l>  Or faith be fixed in one blest word.</l>
+               </lg>
+               <lg>
+                  <l>Mermaids will not be denied</l>
+                  <l>  Of our last enduring shame,</l>
+                  <l>  The dragon flaunts his unpierced hide,</l>
+                  <l>  The fiend makes laughter with God’s Name.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CHRISTMAS EVE</head>
+               <lg>
+                  <l>On Christmas Eve the brute Creation</l>
+                  <l>  Lift up their heads and speak with human voices;</l>
+                  <l>  The Ox roars out his song of jubilation</l>
+                  <l>  And the Ass rejoices.</l>
+               </lg>
+               <lg>
+                  <l>They dance for mirth in simple credence</l>
+                  <l>  That man from devildom this day was saved,</l>
+                  <l>  That of his froward spirit he has found riddance;</l>
+                  <l>  They hymn the Son of David.</l>
+               </lg>
+               <lg>
+                  <l>Ox and Ass cloistered in stable,</l>
+                  <l>  Break bounds to-night and see what shall astound you,</l>
+                  <l>  A second Fall, a second death of Abel,</l>
+                  <l>  Wars renewed around you.</l>
+               </lg>
+               <lg>
+                  <l>Cabals of great men against small men,</l>
+                  <l>  Mobs, murders, informations, the packed jury,</l>
+                  <l>  While Ignorance, the lubber prince of all men,</l>
+                  <l>  Glowers with old-time fury.</l>
+               </lg>
+               <lg>
+                  <l>Excellent beasts, resign your speaking,</l>
+                  <l>  Tempted in man’s own choleric tongue to name him.</l>
+                  <l>  Hoof-and-horn vengeance have no thought of wreaking,</l>
+                  <l>  Let your dumb grief shame him.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE SNAKE AND THE BULL</head>
+               <lg>
+                  <l>Snake Bull, my namesake, man of wrath,</l>
+                  <l>By no expense of knives or cloth,</l>
+                  <l>Only by work of muttered charms</l>
+                  <l>Could draw all woman to his arms;</l>
+                  <l>None whom he summoned might resist</l>
+                  <l>Nor none recall whom once he kissed</l>
+                  <l>And loosed them from his kiss, by whom</l>
+                  <l>This mother-shame had come.</l>
+               </lg>
+               <lg>
+                  <l>The power of his compelling flame</l>
+                  <l>  Was bound in virtue of our name,</l>
+                  <l>  But when in secret he taught me</l>
+                  <l>  Like him a thief of love to be,</l>
+                  <l>  For half his secret I had found</l>
+                  <l>  And half explored the wizard ground</l>
+                  <l>  Of words, and when giving consent</l>
+                  <l>  Out at his heels I went.</l>
+               </lg>
+               <lg>
+                  <l>Then Fessé, jungle-god whose shape</l>
+                  <l>  Is one part man and three parts ape,</l>
+                  <l>  Avenger of misuse by man</l>
+                  <l>  Of lust that by his art began,</l>
+                  <l>  And master of all mimicries</l>
+                  <l>  Made tittering laughter in the trees.</l>
+                  <l>  With girlish whispers, sighs and giggling</l>
+                  <l>  Set the Bull prancing, the Snake wriggling;</l>
+                  <l>  Where leaves were broadest and light dim,</l>
+                  <l>  Fessé ambushed him.</l>
+               </lg>
+               <lg>
+                  <l>Up through the air I saw him swung</l>
+                  <l>  To bridal bowers with red flowers hung;</l>
+                  <l>  He choked for mercy like a maid</l>
+                  <l>  By his own violent whim betrayed;</l>
+                  <l>  Blood broke in fountains from his neck,</l>
+                  <l>  I heard his hugged ribs creak and break,</l>
+                  <l>  But what the tree-top rites might be</l>
+                  <l>  How should I stay to see?</l>
+               </lg>
+               <lg>
+                  <l>In terror of the Ape God’s power</l>
+                  <l>  I changed my person in that hour,</l>
+                  <l>  Cast off the livery of my clan,</l>
+                  <l>  Over unlawful hills I ran,</l>
+                  <l>  I soiled me with forbidden earth.</l>
+                  <l>  In nakedness of second birth</l>
+                  <l>  I scorched away the Snake’s red eyes</l>
+                  <l>  Tattoed for name about my thighs,</l>
+                  <l>  And slew the Sacred Bull oppressed</l>
+                  <l>  With passion on my breast.</l>
+               </lg>
+               <lg>
+                  <l>The girls of my new tribe are cold,</l>
+                  <l>  Amazon, scarred, not soft to hold.</l>
+                  <l>  They seek not men, nor are they sought,</l>
+                  <l>  Whose children are not theirs, but bought</l>
+                  <l>  From outlaw tribes who dwell in trees—</l>
+                  <l>  Tamed apes suckle these.</l>
+               </lg>
+               <lg>
+                  <l>The young men of the tribe are such</l>
+                  <l>  That knife or bow they dare not touch,</l>
+                  <l>  But in close watching of the skies</l>
+                  <l>  And reckoning counts they dim their eyes.</l>
+                  <l>  Closed, each by each, in thoughtful bars</l>
+                  <l>  They plot the circuits of the stars,</l>
+                  <l>  And frozen music dulls their need</l>
+                  <l>  Of drink and man-flesh greed.</l>
+               </lg>
+               <lg>
+                  <l>They hold that virtue from them slips</l>
+                  <l>  When eye greets eye or lips touch lips;</l>
+                  <l>  Down to the knee their broad beards fall</l>
+                  <l>  And hardly are they men at all.</l>
+                  <l>  Possessions they have none, nor schools</l>
+                  <l>  For tribal duties, nor close rules,</l>
+                  <l>  No gods, no rites, no totem beasts,</l>
+                  <l>  No friendships, no love feasts.</l>
+               </lg>
+               <lg>
+                  <l>Now quit, as they, of gong-roused lust,</l>
+                  <l>  The leap of breasts, the scattering dust,</l>
+                  <l>  In hermit splendour at my glass</l>
+                  <l>  I watch the skies’ procession pass,</l>
+                  <l>  Tracing my figures on the floor</l>
+                  <l>  Of planets’ paths and comets’ lore;</l>
+                  <l>  In calm amaze I cloak my will,</l>
+                  <l>  I gaze, I count, until</l>
+               </lg>
+               <lg>
+                  <l>Harsh from his House the Bull roars out,</l>
+                  <l>  Forked lightning leaps his points about,</l>
+                  <l>  Tattoos his shape upon the sky:</l>
+                  <l>  Night anger fills the Serpent’s eye</l>
+                  <l>  With desolating fire for one</l>
+                  <l>  Who thought the Serpent’s days were done,</l>
+                  <l>  And girlish titterings from the trees</l>
+                  <l>  Loosen my firm knees.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE RED RIBBON DREAM</head>
+               <lg>
+                  <l>As I stood by the stair-head in the upper hall</l>
+                  <l>The rooms to left and right were locked as before.</l>
+                  <l>It was senseless to hammer at an unreal door</l>
+                  <l>Painted on the plaster of a ten-foot wall.</l>
+               </lg>
+               <lg>
+                  <l>There was half-light here, piled darkness beyond</l>
+                  <l>  Rising up sheer as the mountain of Time,</l>
+                  <l>  The blank rock-face that no thought can climb,</l>
+                  <l>  Girdled around with the Slough of Despond.</l>
+               </lg>
+               <lg>
+                  <l>I stood quite dumb, sunk fast in the mire,</l>
+                  <l>  Lonely as the first man, or the last man,</l>
+                  <l>  Chilled to despair since evening began,</l>
+                  <l>  Dazed for the memory of a lost desire.</l>
+               </lg>
+               <lg>
+                  <l>But a voice said “Easily,” and a voice said “Come!”</l>
+                  <l>  Easily I followed with no thought of doubt,</l>
+                  <l>  Turned to the right hand, and the way stretched out;</l>
+                  <l>  The ground held firmly; I was no more dumb.</l>
+               </lg>
+               <lg>
+                  <l>For that was the place where I longed to be,</l>
+                  <l>  And past all hope there the kind lamp shone,</l>
+                  <l>  The carpet was holy that my feet were on,</l>
+                  <l>  And logs on the fire lay hissing for me.</l>
+               </lg>
+               <lg>
+                  <l>The cushions were friendship and the chairs were love,</l>
+                  <l>  Shaggy with love was the great wolf skin,</l>
+                  <l>  The clock ticked “Easily” as I entered in,</l>
+                  <l>  “Come,” called the bullfinch from his cage above.</l>
+               </lg>
+               <lg>
+                  <l>Love went before me; it was shining now</l>
+                  <l>  From the eyes of a girl by the window wall,</l>
+                  <l>  Whose beauty I knew to be fate and all</l>
+                  <l>  By the thin red ribbon on her calm brow.</l>
+               </lg>
+               <lg>
+                  <l>Then I was a hero and a bold boy</l>
+                  <l>  Kissing the hand I had never yet kissed;</l>
+                  <l>  I felt red ribbon like a snake twist</l>
+                  <l>  In my own thick hair, so I laughed for joy.</l>
+                  <l>  . . . . . . . . . .</l>
+                  <l>I stand by the stair-head in the upper hall;</l>
+                  <l>  The rooms to the left and right are locked as before.</l>
+                  <l>  Once I found entrance, but now never more,</l>
+                  <l>  And Time leans forward with his glassy wall.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>IN PROCESSION</head>
+               <lg>
+                  <l>Donne (for example’s sake),</l>
+                  <l>Keats, Marlowe, Spenser, Blake,</l>
+                  <l>Shelley and Milton,</l>
+                  <l>Shakespeare and Chaucer, Skelton—</l>
+                  <l>We love them as we know them,</l>
+                  <l>But who could dare outgo them</l>
+                  <l>At their several arts,</l>
+                  <l>At their particular parts</l>
+                  <l>Of wisdom, power and knowledge?</l>
+                  <l>In the Poets’ College 10</l>
+                  <l>Are no degrees nor stations,</l>
+                  <l>Comparisons, rivals,</l>
+                  <l>Stern examinations,</l>
+                  <l>Class declarations,</l>
+                  <l>Senior survivals;</l>
+                  <l>No creeds, religions, nations</l>
+                  <l>Combatant together</l>
+                  <l>With mutual damnations.</l>
+                  <l>Or tell me whether</l>
+                  <l>Shelley’s hand could take 20</l>
+                  <l>The laurel wreath from Blake?</l>
+                  <l>Could Shakespeare make the less</l>
+                  <l>Chaucer’s goodliness?</l>
+               </lg>
+               <lg>
+                  <l>The poets of old,</l>
+                  <l>  Each with his pen of gold</l>
+                  <l>  Gloriously writing,</l>
+                  <l>  Found no need for fighting,</l>
+                  <l>  In common being so rich;</l>
+                  <l>  None need take the ditch,</l>
+                  <l>  Unless this Chaucer beats 30</l>
+                  <l>  That Chaucer, or this Keats</l>
+                  <l>  With other Keats is flyting:</l>
+                  <l>  See Donne deny Donne’s feats,</l>
+                  <l>  Shelley take Shelley down,</l>
+                  <l>  Blake snatch at his own crown.</l>
+                  <l>  Without comparison aiming high,</l>
+                  <l>  Watching with no jealous eye</l>
+                  <l>  A neighbour’s renown,</l>
+                  <l>  Each in his time contended,</l>
+                  <l>  But with a mood late ended, 40</l>
+                  <l>  Some manner now put by,</l>
+                  <l>  Or force expended,</l>
+                  <l>  Sinking a new well when the old ran dry.</l>
+               </lg>
+               <lg>
+                  <l>So like my masters I</l>
+                  <l>  Voice my ambition loud,</l>
+                  <l>  In prospect proud,</l>
+                  <l>  Treading the poet’s road,</l>
+                  <l>  In retrospect most humble,</l>
+                  <l>  For I stumble and tumble,</l>
+                  <l>  I spill my load. 50</l>
+               </lg>
+               <lg>
+                  <l>But often,</l>
+                  <l>  Half-way to sleep,</l>
+                  <l>  On a mountain shagged and steep,</l>
+                  <l>  The sudden moment on me comes</l>
+                  <l>  With terrible roll of dream drums,</l>
+                  <l>  Reverberations, cymbals, horns replying,</l>
+                  <l>  When with standards flying,</l>
+                  <l>  A cloud of horsemen behind,</l>
+                  <l>  The coloured pomps unwind</l>
+                  <l>  The Carnival wagons</l>
+                  <l>  With their saints and their dragons 60</l>
+                  <l>  On the screen of my teeming mind,</l>
+                  <l>  The Creation and Flood</l>
+                  <l>  With our Saviour’s Blood</l>
+                  <l>  And fat Silenus’ flagons,</l>
+                  <l>  With every rare beast</l>
+                  <l>  From the South and East,</l>
+                  <l>  Both greatest and least,</l>
+                  <l>  On and on,</l>
+                  <l>  In endless variable procession.</l>
+                  <l>  I stand at the top rungs 70</l>
+                  <l>  Of a ladder reared in the air,</l>
+                  <l>  And I speak with strange tongues</l>
+                  <l>  So the crowds murmur and stare,</l>
+                  <l>  Then volleys again the blare</l>
+                  <l>  Of horns, and summer flowers</l>
+                  <l>  Fly scattering in showers,</l>
+                  <l>  And the Sun rolls in the sky,</l>
+                  <l>  While the drums thumping by</l>
+                  <l>  Proclaim me....</l>
+                  <l>  Oh, then, when I wake</l>
+                  <l>  Could I recovering take 80</l>
+                  <l>  And propose on this page</l>
+                  <l>  The words of my rage</l>
+                  <l>  And my blandishing speech</l>
+                  <l>  Steadfast and sage,</l>
+                  <l>  Could I stretch and reach</l>
+                  <l>  The flowers and the ripe fruit</l>
+                  <l>  Laid out at the ladder’s foot,</l>
+                  <l>  Could I rip a silken shred</l>
+                  <l>  From the banner tossed ahead,</l>
+                  <l>  Could I call a double flam 90</l>
+                  <l>  From the drums, could the Goat</l>
+                  <l>  Horned with gold, could the Ram</l>
+                  <l>  With a flank like a barn-door,</l>
+                  <l>  The dwarf, the blackamoor,</l>
+                  <l>  Could <hi rend="italic">Jonah and the Whale</hi>
+                  </l>
+                  <l>  And the <hi rend="italic">Holy Grail</hi>
+                  </l>
+                  <l>  With the <hi rend="italic">Sacking of Rome</hi>
+                  </l>
+                  <l>  And <hi rend="italic">Lot at his home</hi>,</l>
+                  <l>  The Ape with his platter,</l>
+                  <l>  Going clitter-clatter, 100</l>
+                  <l>  The Nymphs and the Satyr,</l>
+                  <l>  And every other such matter</l>
+                  <l>  Come before me here</l>
+                  <l>  Standing and speaking clear</l>
+                  <l>  With a “How do ye do?”</l>
+                  <l>  And “Who are ye, who?”</l>
+                  <l>  Could I show them so to you</l>
+                  <l>  That you saw them with me,</l>
+                  <l>  Oh then, then I could be</l>
+                  <l>  The Prince of all Poetry 110</l>
+                  <l>  With never a peer,</l>
+                  <l>  Seeing my way so clear</l>
+                  <l>  To unveil mystery.</l>
+               </lg>
+               <lg>
+                  <l>Telling you of land and sea,</l>
+                  <l>  Of Heaven blithe and free,</l>
+                  <l>  How I know there to be</l>
+                  <l>  Such and such Castles built in Spain,</l>
+                  <l>  Telling also of Cockaigne,</l>
+                  <l>  Of that glorious kingdom, Cand,</l>
+                  <l>  Of the Delectable Land, 120</l>
+                  <l>  The land of Crooked Stiles,</l>
+                  <l>  The Fortunate Isles,</l>
+                  <l>  Of the more than three score miles</l>
+                  <l>  That to Babylon lead,</l>
+                  <l>  A pretty city indeed</l>
+                  <l>  Built on a four-square plan,</l>
+                  <l>  Of the land of the Gold Man</l>
+                  <l>  Whose eager horses whinny</l>
+                  <l>  In their cribs of gold,</l>
+                  <l>  Of the lands of Whipperginny, 130</l>
+                  <l>  Of the land where none grow old.</l>
+               </lg>
+               <lg>
+                  <l>Especially I could tell</l>
+                  <l>  Of the Town of Hell,</l>
+                  <l>  A huddle of dirty woes</l>
+                  <l>  And houses in endless rows</l>
+                  <l>  Straggling across all space;</l>
+                  <l>  Hell has no market-place,</l>
+                  <l>  Nor point where four ways meet,</l>
+                  <l>  Nor principal street,</l>
+                  <l>  Nor barracks, nor Town Hall, 140</l>
+                  <l>  Nor shops at all,</l>
+                  <l>  Nor rest for weary feet,</l>
+                  <l>  Nor theatre, square, or park,</l>
+                  <l>  Nor lights after dark,</l>
+                  <l>  Nor churches nor inns,</l>
+                  <l>  Nor convenience for sins,</l>
+                  <l>  Hell nowhere begins,</l>
+                  <l>  Hell nowhere ends,</l>
+                  <l>  But over the world extends</l>
+                  <l>  Rambling, dreary, limitless, hated well: 150</l>
+                  <l>  The suburbs of itself, I say, is Hell.</l>
+               </lg>
+               <lg>
+                  <l>But back to the sweets</l>
+                  <l>  Of Spenser and Keats</l>
+                  <l>  And the calm joy that greets</l>
+                  <l>  The chosen of Apollo!</l>
+                  <l>  Here let me mope, quirk, holloa</l>
+                  <l>  With a gesture that meets</l>
+                  <l>  The needs that I follow</l>
+                  <l>  In my own fierce way.</l>
+                  <l>  Let me be grave-gay 160</l>
+                  <l>  Or merry-sad,</l>
+                  <l>  Who rhyming here have had</l>
+                  <l>  Marvellous hope of achievement</l>
+                  <l>  And deeds of ample scope,</l>
+                  <l>  Then deceiving and bereavement</l>
+                  <l>  Of this same hope.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HENRY AND MARY</head>
+               <lg>
+                  <l>Henry was a worthy king,</l>
+                  <l>Mary was his queen,</l>
+                  <l>He gave to her a snowdrop,</l>
+                  <l>Upon a stalk of green.</l>
+               </lg>
+               <lg>
+                  <l>Then all for his kindness</l>
+                  <l>  And all for his care</l>
+                  <l>  She gave him a new-laid egg</l>
+                  <l>  In the garden there.</l>
+               </lg>
+               <lg>
+                  <l>Love, can you sing?</l>
+                  <l>  I cannot sing.</l>
+                  <l>  Or story-tell?</l>
+                  <l>  Not one I know.</l>
+                  <l>  Then let us play at king and queen,</l>
+                  <l>  As down the garden lawns we go.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>AN ENGLISH WOOD</head>
+               <lg>
+                  <l>This valley wood is hedged</l>
+                  <l>With the set shape of things.</l>
+                  <l>Here sorrows come not edged,</l>
+                  <l>Here are no harpies fledged,</l>
+                  <l>No roc has clapped his wings,</l>
+                  <l>No gryphons wave their stings;</l>
+                  <l>Here, poised in quietude</l>
+                  <l>Calm elementals brood</l>
+                  <l>On the set shape of things,</l>
+                  <l>They fend away alarms</l>
+                  <l>From this green wood.</l>
+                  <l>Here nothing is that harms,</l>
+                  <l>No bull with lungs of brass,</l>
+                  <l>No toothed or spiny grass,</l>
+                  <l>No tree whose clutching arms</l>
+                  <l>Drink blood when travellers pass,</l>
+                  <l>No mount of Glass.</l>
+                  <l>No bardic tongues unfold</l>
+                  <l>Satires or charms.</l>
+                  <l>Only the lawns are soft,</l>
+                  <l>The tree-stems, grave and old.</l>
+                  <l>Slow branches sway aloft,</l>
+                  <l>The evening air comes cold,</l>
+                  <l>The sunset scatters gold.</l>
+                  <l>Small grasses toss and bend,</l>
+                  <l>Small pathways idly tend</l>
+                  <l>Towards no certain end.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MIRROR, MIRROR!</head>
+               <lg>
+                  <l>Mirror, Mirror, tell me,</l>
+                  <l>Am I pretty or plain?</l>
+                  <l>Or am I downright ugly</l>
+                  <l>And ugly to remain?</l>
+               </lg>
+               <lg>
+                  <l>Shall I marry a gentleman?</l>
+                  <l>  Shall I marry a clown?</l>
+                  <l>  Or shall I marry Old Knives-and-Scissors</l>
+                  <l>  Shouting through the town?</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>WHAT DID I DREAM?</head>
+               <lg>
+                  <l>What did I dream? I do not know.</l>
+                  <l>The fragments fly like chaff.</l>
+                  <l>Yet, strange, my mind was tickled so</l>
+                  <l>I cannot help but laugh.</l>
+               </lg>
+               <lg>
+                  <l>Pull the curtains close again,</l>
+                  <l>  Tuck my blanket in;</l>
+                  <l>  Must a glorious humour wane</l>
+                  <l>  Because birds begin</l>
+               </lg>
+               <lg>
+                  <l>Discoursing in a restless tone,</l>
+                  <l>  Rousing me from sleep—</l>
+                  <l>  The finest entertainment known,</l>
+                  <l>  And given rag-cheap?</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>INTERLUDE: ON PRESERVING A POETICAL FORMULA</head>
+               <div type="div3">
+                  <head>(I)</head>
+                  <lg>
+                     <l>“There’s less and less cohesion</l>
+                     <l>In each collection</l>
+                     <l>Of my published poetries?”</l>
+                     <l>You are taking me to task?</l>
+                     <l>And “What were my last Royalties?</l>
+                     <l>Reckoned in pounds, were they, or shillings,</l>
+                     <l>Or even perhaps in pence?”</l>
+                     <l>No, do not ask!</l>
+                     <l>I’m lost, in buyings and sellings.</l>
+                     <l>But please permit only once more for luck</l>
+                     <l>Irreconcilabilities in my book....</l>
+                  </lg>
+                  <lg>
+                     <l>For these are all the same stuff really,</l>
+                     <l>  The obverse and reverse, if you look closely,</l>
+                     <l>  Of busy Imagination’s new-coined money;</l>
+                     <l>  And if you watch the blind</l>
+                     <l>  Phototropisms of my fluttering mind,</l>
+                     <l>  Whether, growing strong, I wrestle Jacob-wise</l>
+                     <l>  With fiendish darkness blinking threatfully</l>
+                     <l>  Its bale-fire eyes,</l>
+                     <l>  Or whether childishly</l>
+                  </lg>
+                  <lg>
+                     <l>I dart to Mother-skirts of love and peace</l>
+                     <l>  To play with toys until those horrors leave me—</l>
+                     <l>  Yet note, whichever way I find release,</l>
+                     <l>  By fight or flight</l>
+                     <l>  By being harsh or tame,</l>
+                     <l>  The SPIRIT’S the same, the Pen-and-Ink’s the same.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>(II)</head>
+                  <p rend="justify">
+                     <hi rend="italic">Epitaph on an Unfortunate Artist</hi>
+                  </p>
+                  <lg>
+                     <l>He found a formula for drawing comic rabbits:</l>
+                     <l>  This formula for drawing comic rabbits paid,</l>
+                     <l>  So in the end he could not change the tragic habits</l>
+                     <l>  This formula for drawing comic rabbits made.</l>
+                     <l> </l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A HISTORY OF PEACE<lb/>
+                  <lb/>(Solitudinem faciunt, pacem appellant)</head>
+               <lg>
+                  <l>Here rest in peace the bones of Henry Reece,</l>
+                  <l>Dead through his bitter championship of Peace</l>
+                  <l>Against all eagle-nosed and cynic lords</l>
+                  <l>Who keep the <hi rend="italic">Pax Romana</hi> with their swords.</l>
+               </lg>
+               <lg>
+                  <l>Henry was only son of Thomas Reece,</l>
+                  <l>  Banker and sometime Justice of the Peace,</l>
+                  <l>  And of Jane Reece whom Thomas kept in dread</l>
+                  <l>  By <hi rend="italic">Pax Romana</hi>  of his board and bed.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE ROCK BELOW</head>
+               <lg>
+                  <l>Comes a muttering from the earth</l>
+                  <l>Where speedwell grows and daisies grow,</l>
+                  <l>“Pluck these weeds up, root and all,</l>
+                  <l>Search what hides below.”</l>
+               </lg>
+               <lg>
+                  <l>Root and all I pluck them out;</l>
+                  <l>  There, close under, I have found</l>
+                  <l>  Stumps of thorn with ancient crooks</l>
+                  <l>  Grappled in the ground.</l>
+               </lg>
+               <lg>
+                  <l>I wrench the thorn-stocks from their hold</l>
+                  <l>  To set a rose-bush in that place;</l>
+                  <l>  Love has pleasure in my roses</l>
+                  <l>  For a summer space.</l>
+               </lg>
+               <lg>
+                  <l>Yet the bush cries out in grief:</l>
+                  <l>  “Our lowest rootlets turn on rock,</l>
+                  <l>  We live in terror of the drought</l>
+                  <l>  Withering crown and stock.”</l>
+               </lg>
+               <lg>
+                  <l>I grow angry with my creature,</l>
+                  <l>  Tear it out and see it die;</l>
+                  <l>  Far beneath I strike the stone,</l>
+                  <l>  Jarring hatefully.</l>
+               </lg>
+               <lg>
+                  <l>Impotently must I mourn</l>
+                  <l>  Roses never to flower again?</l>
+                  <l>  Are heart and back too slightly built</l>
+                  <l>  For a heaving strain?</l>
+               </lg>
+               <lg>
+                  <l>Heave shall break my proud back never,</l>
+                  <l>  Strain shall never burst my heart:</l>
+                  <l>  Steely fingers hook in the crack,</l>
+                  <l>  Up the rock shall start.</l>
+               </lg>
+               <lg>
+                  <l>Now from the deep and frightful pit</l>
+                  <l>  Shoots forth the spiring phœnix-tree</l>
+                  <l>  Long despaired in this bleak land,</l>
+                  <l>  Holds the air with boughs, with bland</l>
+                  <l>  Fragrance welcome to the bee,</l>
+                  <l>  With fruits of immortality.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>AN IDYLL OF OLD AGE</head>
+               <lg>
+                  <l>Two gods once visited a hermit couple,</l>
+                  <l>Philemon and his Baucis, old books tell;</l>
+                  <l>They sampled elder-wine and called it nectar,</l>
+                  <l>Though nectar is the tastier drink by far.</l>
+                  <l>They made ambrosia of pot-herb and lentil,</l>
+                  <l>They ate pease-porridge even, with a will.</l>
+                  <l>Why, and so forth....</l>
+                  <l>But that night in the spare bedroom</l>
+                  <l>Where they lay shivering in the musty gloom,</l>
+                  <l>Hermes and Zeus overheard conversation,</l>
+                  <l>Behind the intervening wall, drag on</l>
+                  <l>In thoughtful snatches through the night. They idly</l>
+                  <l>Listened, and first they heard Philemon sigh:—</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Phi.</hi>  “Since two souls meet and merge at time of marriage,</l>
+                  <l>  Conforming to one stature and one age,</l>
+                  <l>  An honest token each with each exchanging</l>
+                  <l>  Of Only Love unbroken as a ring—</l>
+                  <l>  What signified my boyhood’s ideal friendship</l>
+                  <l>  That stared its ecstasy at eye and lip,</l>
+                  <l>  But dared not touch because love seemed too holy</l>
+                  <l>  For flesh with flesh in real embrace to lie?”</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Bau.</hi>  Then Baucis sighed in answer to Philemon,</l>
+                  <l>  “Many’s the young man that my eye rests on</l>
+                  <l>  (Our younger guest to-night provides the instance)</l>
+                  <l>  Whose body brings my heart hotter romance</l>
+                  <l>  Than your dear face could ever spark within me;</l>
+                  <l>  Often I wish my heart from yours set free.”</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Phi.</hi>  “In this wild medley round us of Bought Love,</l>
+                  <l>  Free Love and Forced Love and pretentious No-Love,</l>
+                  <l>  Let us walk upright, yet with care consider</l>
+                  <l>  Whether, in living thus, we do not err.</l>
+                  <l>  Why might we not approve adulterous licence</l>
+                  <l>  Increasing pleasurable experience?</l>
+                  <l>  What could the soul lose through the body’s rapture</l>
+                  <l>  With a body not its mate, where thought is pure?”</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Bau.</hi>  “Are children bonds of love? But even children</l>
+                  <l>  Grow up too soon as women and as men,</l>
+                  <l>  And in the growing find their own love private,</l>
+                  <l>  Meet parent-love with new suspicious hate.</l>
+                  <l>  Our favourites run the surest to the Devil</l>
+                  <l>  In spite of early cares and all good will.”</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Phi.</hi>  “Sweetheart, you know that you have my permission</l>
+                  <l>  To go your own way and to take love on</l>
+                  <l>  Wherever love may signal.”</l>
+               </lg>
+               <lg>
+                  <l>She replying</l>
+                  <l>
+                     <hi rend="italic">Bau.</hi>  Said, “I allow you, dearest, the same thing.”</l>
+               </lg>
+               <lg>
+                  <l>Zeus was struck dumb at this unholy compact,</l>
+                  <l>  But Hermes knew the shadow from the fact</l>
+                  <l>  And took an oath that for whole chests of money</l>
+                  <l>  Neither would faithless to the other be,</l>
+                  <l>  Would not and could not, being twined together</l>
+                  <l>  In such close love that he for want of her</l>
+                  <l>  Removed one night-time from his side, would perish,</l>
+                  <l>  And she was magnet-drawn by his least wish.</l>
+               </lg>
+               <lg>
+                  <l>Eternal Gods deny the sense of humour,</l>
+                  <l>  That well might prejudice their infallible power,</l>
+                  <l>  So Hermes and King Zeus not once considered,</l>
+                  <l>  In treating of this idyll overheard,</l>
+                  <l>  That love rehearses after life’s defeat</l>
+                  <l>  Remembered conflicts of an earlier heat,</l>
+                  <l>  Baucis, kind soul, was palsied, withered and bent,</l>
+                  <l>  Philemon, too, was ten years impotent.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE LORD CHAMBERLAIN TELLS OF A FAMOUS MEETING</head>
+               <lg>
+                  <l>Unknown to each other in a hostile camp,</l>
+                  <l>Spies of two empire nations unallied,</l>
+                  <l>These heroes met, princes of East and West,</l>
+                  <l>Over a ragged pack of cards, by chance.</l>
+                  <l>Never believe what credulous annalists</l>
+                  <l>Record you in good faith of that encounter.</l>
+                  <l>I was there myself, East’s man, and witnessed all.</l>
+                  <l>In the main camp of the Middle Kingdom’s army</l>
+                  <l>At a soldier’s mess, shortly before Retreat,</l>
+                  <l>East, a pretended trooper, stepping in 10</l>
+                  <l>Glanced round the room, shortly discerning West,</l>
+                  <l>Who sat dejected at a corner table.</l>
+                  <l>East moved by curiosity or compassion</l>
+                  <l>Pulled out his cards, offering West the cut,</l>
+                  <l>And West, disguised as a travelling ballad-man,</l>
+                  <l>Took and cut; they played together then</l>
+                  <l>For half an hour or more; then went their ways.</l>
+               </lg>
+               <lg>
+                  <l>Never believe such credulous annalists</l>
+                  <l>  As tell you, West for sign of recognition,</l>
+                  <l>  Greatness to greatness, wit to dexterous wit, 20</l>
+                  <l>  With sleight of magic most extraordinary</l>
+                  <l>  Alters the Duty on his Ace of Spades,</l>
+                  <l>  Making three-pence three-halfpence; East, it’s said,</l>
+                  <l>  For a fantastic sly acknowledgment,</l>
+                  <l>  While his grave eyes betoken no surprise,</l>
+                  <l>  Makes magic too; presto, the Knave of Hearts</l>
+                  <l>  Nims the Queen’s rose and cocks it in his cap</l>
+                  <l>  Furtively, so that only West remarks it.</l>
+                  <l>  But such was not the fact; contrariwise,</l>
+                  <l>  When Proteus meets with Proteus, each annuls 30</l>
+                  <l>  The variability of the other’s mind.</l>
+                  <l>  Single they stand, casting their mutable cloaks.</l>
+                  <l>  So for this present chance, I take my oath</l>
+                  <l>  That leaning across and watching the cards close</l>
+                  <l>  I caught no hint of prestidigitation.</l>
+               </lg>
+               <lg>
+                  <l>Never believe approved biographers</l>
+                  <l>  Who’ll show a sequence of the games then played,</l>
+                  <l>  Explaining that the minds of these two princes</l>
+                  <l>  Were of such subtlety and such nimbleness</l>
+                  <l>  That Whipperginny on the fall of a card 40</l>
+                  <l>  Changed to Bézique or Cribbage or Piquet,</l>
+                  <l>  Euchre or Écarté, then back once more,</l>
+                  <l>  Each comprehending with no signal shown</l>
+                  <l>  The opposing fancies of the other’s mind.</l>
+                  <l>  It’s said, spectators of this play grew dazed,</l>
+                  <l>  They turned away, thinking the gamesters drunk.</l>
+                  <l>  But I, who sat there watching, keeping score,</l>
+                  <l>  Say they observed the rules of but one game</l>
+                  <l>  The whole bout, playing neither well nor ill</l>
+                  <l>  But slowly, with their thoughts in other channels, 50</l>
+                  <l>  Serene and passionless like wooden men.</l>
+               </lg>
+               <lg>
+                  <l>Neither believe those elegant essayists</l>
+                  <l>  Who reconstruct the princes’ conversation</l>
+                  <l>  From grotesque fabrics of their own vain brains.</l>
+                  <l>  I only know that East gave West a nod,</l>
+                  <l>  Asking him careless questions about trade;</l>
+                  <l>  West gave the latest rumours from the front,</l>
+                  <l>  Raising of sieges, plots and pillages.</l>
+                  <l>  He told a camp-fire yarn to amuse the soldiers</l>
+                  <l>  Whereat they all laughed emptily (East laughed too). 60</l>
+                  <l>  He sang a few staves of the latest catch,</l>
+                  <l>  And pulling out his roll of rhymes, unfurled it,</l>
+                  <l>  Ballads and songs, measured by the yard-rule.</l>
+                  <l>  But do not trust the elegant essayists</l>
+                  <l>  Who’d have you swallow all they care to tell</l>
+                  <l>  Of the riddling speech in painful <hi rend="italic">double entendre</hi>
+                  </l>
+                  <l>  That West and East juggled across the cards,</l>
+                  <l>  So intricate, so exquisitely resolved</l>
+                  <l>  In polished antithetical periods</l>
+                  <l>  That by comparison, as you must believe, 70</l>
+                  <l>  Solomon himself faced with the Queen of Sheba</l>
+                  <l>  And Bishop Such, preaching before the King,</l>
+                  <l>  Joined in one person would have seemed mere trash.</l>
+                  <l>  I give my testimony beyond refutal,</l>
+                  <l>  Nailing the lie for all who ask the facts.</l>
+               </lg>
+               <lg>
+                  <l>Pay no heed to those vagabond dramatists</l>
+                  <l>  Who, to present this meeting on the stage,</l>
+                  <l>  Would make my Prince, stealthily drawing out</l>
+                  <l>  A golden quill and stabbing his arm for blood,</l>
+                  <l>  Scratch on a vellum slip some hasty sentence 80</l>
+                  <l>  And pass it under the table; which West signs</l>
+                  <l>  With <hi rend="italic">his</hi>  blood, so the treaty’s made between them</l>
+                  <l>  All unobserved and two far nations wedded</l>
+                  <l>  While enemy soldiers loll, yawning, around.</l>
+                  <l>  I was there myself, I say, seeing everything.</l>
+                  <l>  Truly, this is what passed, that East regarding</l>
+                  <l>  West with a steady look and knowing him well,</l>
+                  <l>  For an instant let the heavy soldier-mask,</l>
+                  <l>  His best protection, a dull cast of face,</l>
+                  <l>  Light up with joy, and his eyes shoot out mirth. 90</l>
+                  <l>  West then knew East, checked, and misdealt the cards.</l>
+                  <l>  Nothing at all was said, on went the game.</l>
+                  <l>  But East bought from West’s bag of ballads, after,</l>
+                  <l>  Two sombre histories, and some songs for dancing.</l>
+               </lg>
+               <lg>
+                  <l>Also distrust those allegorical</l>
+                  <l>  Painters who treating of this famous scene</l>
+                  <l>  Are used to splash the skies with lurching Cupids,</l>
+                  <l>  Goddesses with loose hair, and broad-cheeked Zephyrs;</l>
+                  <l>  They burnish up the soldiers’ breastplate steel</l>
+                  <l>  Rusted with languor of their long campaign, 100</l>
+                  <l>  To twinkling high-lights of unmixed white paint,</l>
+                  <l>  Giving them buskins and tall plumes to wear,</l>
+                  <l>  While hard by, in a wanton imagery,</l>
+                  <l>  Aquatic Triton thunders on his conch</l>
+                  <l>  And Satyrs gape from behind neighbouring trees.</l>
+                  <l>  I who was there, sweating in my shirt-sleeves,</l>
+                  <l>  Felt no divinity brooding in that mess,</l>
+                  <l>  For human splendour gave the gods rebuff.</l>
+               </lg>
+               <lg>
+                  <l>Do not believe them, seem they never so wise,</l>
+                  <l>  Credibly posted with all new research, 110</l>
+                  <l>  Those elegant essayists, vagabond dramatists,</l>
+                  <l>  Authentic and approved biographers,</l>
+                  <l>  Solemn annalists, allegorical</l>
+                  <l>  Painters, each one misleading or misled.</l>
+                  <l>  One thing is true, that of all sights I have seen</l>
+                  <l>  In any quarter of this world of men,</l>
+                  <l>  By night, by day, in court, field, tavern, or barn,</l>
+                  <l>  That was the noblest, East encountering West,</l>
+                  <l>  Their silent understanding and restraint,</l>
+                  <l>  Meeting and parting like the Kings they were 120</l>
+                  <l>  With plain indifference to all circumstance;</l>
+                  <l>  Saying no good-bye, no handclasp and no tears,</l>
+                  <l>  But letting speech between them fade away</l>
+                  <l>  In casual murmurs and half compliments,</l>
+                  <l>  East sauntering out for fresh intelligence,</l>
+                  <l>  And West shuffling away, not looking back,</l>
+                  <l>  Though each knew well that this chance meeting stood</l>
+                  <l>  For turning movement of world history.</l>
+                  <l>  And I? I trembled, knowing these things must be.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE SEWING BASKET<lb/>(Accompanying a wedding present from Jenny Nicholson to Winifred Roberts)</head>
+               <lg>
+                  <l>To Winifred</l>
+                  <l>The day she’s wed</l>
+                  <l>(Having no gold) I send instead</l>
+                  <l>This sewing basket,</l>
+                  <l>And lovingly</l>
+                  <l>Demand that she,</l>
+                  <l>If ever wanting help from me,</l>
+                  <l>Will surely ask it.</l>
+               </lg>
+               <lg>
+                  <l>Which being gravely said,</l>
+                  <l>  Now to go straight ahead</l>
+                  <l>  With a cutting of string,</l>
+                  <l>  An unwrapping of paper,</l>
+                  <l>  With a haberdasher’s flourish,</l>
+                  <l>  The airs of a draper,</l>
+                  <l>  To review</l>
+                  <l>  And search this basket through.</l>
+               </lg>
+               <lg>
+                  <l>Here’s one place full</l>
+                  <l>  Of coloured wool,</l>
+                  <l>  And various yarn</l>
+                  <l>  With which to darn;</l>
+                  <l>  A sampler, too,</l>
+                  <l>  I’ve worked for you,</l>
+                  <l>  Lettered from A to Z,</l>
+                  <l>  The text of which</l>
+                  <l>  In small cross-stitch</l>
+                  <l>  Is <hi rend="italic">Love to Winifred</hi>.</l>
+               </lg>
+               <lg>
+                  <l>Here’s a rag-doll wherein</l>
+                  <l>  To thrust the casual pin.</l>
+                  <l>  His name is Benjamin</l>
+                  <l>  For his ingenuous face;</l>
+                  <l>  Be sure I’ve not forgotten</l>
+                  <l>  Black thread or crochet cotton;</l>
+                  <l>  While Brussels lace</l>
+                  <l>  Has found a place</l>
+                  <l>  Behind the needle-case.</l>
+                  <l>  (But the case for the scissors?</l>
+                  <l>  Empty, as you see;</l>
+                  <l>  Love must never be sundered</l>
+                  <l>  Between you and me.)</l>
+               </lg>
+               <lg>
+                  <l>Winifred Roberts,</l>
+                  <l>  Think of me, do,</l>
+                  <l>  When the friends I am sending</l>
+                  <l>  Are working for you.</l>
+                  <l>  The song of the thimble</l>
+                  <l>  Is, “Oh, forget her not.”</l>
+                  <l>  Says the tape-measure,</l>
+                  <l>  “Absent but never forgot.”</l>
+               </lg>
+               <lg>
+                  <l>Benjamin’s song</l>
+                  <l>  He sings all day long,</l>
+                  <l>  Though his voice is not strong:</l>
+                  <l>  He hoarsely holloas</l>
+                  <l>  More or less as follows:—</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Button boxes</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Never have locks-es,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">For the keys would soon disappear.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">But here’s a linen button</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">With a smut on,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">And a big bone button</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">With a cut on,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">A pearly and a fancy</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Of small significancy,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">And the badges of a Fireman and a Fusilier.</hi>
+                  </l>
+                  <l>  Which song he’ll alternate</l>
+                  <l>  With sounds like a Turkish hubble-bubble</l>
+                  <l>  Smoked at a furious rate,</l>
+                  <l>  The words are scarcely intelligible:—</l>
+               </lg>
+               <lg>
+                  <l>(<hi rend="italic">Prestissimo</hi>) <hi rend="italic">Needles and ribbons and packets of pins,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Prints and chintz and odd bodikins,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">They’d never mind whether</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">You laid ’em together</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Or one from the other in pockets and tins.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">For packets of pins and ribbons and needles</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Or odd bodikins and chintz and prints,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Being birds of a feather.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Would huddle together</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Like minnows on billows or pennies in mints.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>He’ll learn to sing more prettily</l>
+                  <l>  When you take him out to Italy</l>
+                  <l>  On your honeymoon,</l>
+                  <l>  (Oh come back soon!)</l>
+                  <l>  To Florence or to Rome,</l>
+                  <l>  The <hi rend="italic">prima donnas’</hi>  home,</l>
+                  <l>  To Padua or to Genoa</l>
+                  <l>  Where tenors all sing tra-la-la....</l>
+               </lg>
+               <lg>
+                  <l>Good-bye, Winifred,</l>
+                  <l>  Bless your heart, Ben.</l>
+                  <l>  Come back happy</l>
+                  <l>  And safe agen.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>AGAINST CLOCK AND COMPASSES</head>
+               <lg>
+                  <l>“<hi rend="italic">Beauty dwindles into shadow,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Beauty dies, preferred by Fate,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Past the rescue of bold thought.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Sentries drowsed</hi>,” they say, “<hi rend="italic">at Beauty’s gate</hi>.”</l>
+               </lg>
+               <lg>
+                  <l>“<hi rend="italic">Time duteous to his hour-glass,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Time with unerring sickle,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Garners to a land remote</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Where your vows of true love are proved fickle.</hi>”</l>
+               </lg>
+               <lg>
+                  <l>“<hi rend="italic">Love chill upon her forehead,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Love fading from her cheek,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Love dulled in either eye,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">With voice of love</hi>,” they say, “<hi rend="italic">no more to speak</hi>.”</l>
+               </lg>
+               <lg>
+                  <l>I deny to Time his terror;</l>
+                  <l>  Come-and-go prevails not here;</l>
+                  <l>  Spring is constant, loveless winter</l>
+                  <l>  Looms, but elsewhere, for he comes not near.</l>
+               </lg>
+               <lg>
+                  <l>I deny to Space the sorrow;</l>
+                  <l>  No leagues measure love from me;</l>
+                  <l>  Turning boldly from her arms,</l>
+                  <l>  Into her arms I shall come certainly.</l>
+               </lg>
+               <lg>
+                  <l>Time and Space, folly’s wonder,</l>
+                  <l>  Three-card shufflers, magic-men!</l>
+                  <l>  True love is, that none shall say</l>
+                  <l>  It ever was, or ever flowers again.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE AVENGERS</head>
+               <lg>
+                  <l>Who grafted quince on Western may,</l>
+                  <l>Sharon’s mild rose on Northern briar?</l>
+                  <l>In loathing since that Gospel day</l>
+                  <l>The two saps flame, the tree’s on fire.</l>
+               </lg>
+               <lg>
+                  <l>The briar-rose weeps for injured right,</l>
+                  <l>  May sprouts up red to choke the quince.</l>
+                  <l>  With angry throb of equal spite</l>
+                  <l>  Our wood leaps maddened ever since.</l>
+               </lg>
+               <lg>
+                  <l>Then mistletoe, of gods not least,</l>
+                  <l>  Kindler of warfare since the Flood,</l>
+                  <l>  Against green things of South and East</l>
+                  <l>  Voices the vengeance of our blood.</l>
+               </lg>
+               <lg>
+                  <l>Crusading ivy Southward breaks</l>
+                  <l>  And sucks your lordly palms upon,</l>
+                  <l>  Our island oak the water takes</l>
+                  <l>  To outrage cedared Lebanon.</l>
+               </lg>
+               <lg>
+                  <l>Our slender ash-twigs feathered fly</l>
+                  <l>  Against your vines; bold buttercup</l>
+                  <l>  Pours down his legions; malt of rye</l>
+                  <l>  Inflames and burns your lentils up....</l>
+               </lg>
+               <lg>
+                  <l>For bloom of quince yet caps the may,</l>
+                  <l>  The briar is held by Sharon’s rose,</l>
+                  <l>  Monsters of thought through earth we stray,</l>
+                  <l>  And how remission comes, God knows.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ON THE POET’S BIRTH</head>
+               <lg>
+                  <l>A page, a huntsman, and a priest of God,</l>
+                  <l>Her lovers, met in jealous contrariety,</l>
+                  <l>Equally claiming the sole parenthood</l>
+                  <l>Of him the perfect crown of their variety.</l>
+                  <l>Then, whom to admit, herself she could not tell;</l>
+                  <l>That always was her fate, she loved too well.</l>
+               </lg>
+               <lg>
+                  <l>“But, many-fathered little one,” she said,</l>
+                  <l>  “Whether of high or low, of smooth or rough,</l>
+                  <l>  Here is your mother whom you brought to bed.</l>
+                  <l>  Acknowledge only me, be this enough,</l>
+                  <l>  For such as worship after shall be told</l>
+                  <l>  A white dove sired you or a rain of gold.”</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE TECHNIQUE OF PERFECTION</head>
+               <lg>
+                  <l>Said hermit monk to hermit monk,</l>
+                  <l>“Friend, in this island anchorage</l>
+                  <l>Our life has tranquilly been sunk</l>
+                  <l>From pious youth to pious age,</l>
+               </lg>
+               <lg>
+                  <l>“In such clear waves of quietness,</l>
+                  <l>  Such peace from argument or brawl</l>
+                  <l>  That one prime virtue I confess</l>
+                  <l>  Has never touched our hearts at all.</l>
+               </lg>
+               <lg>
+                  <l>“Forgiveness, friend! who can forgive</l>
+                  <l>  But after anger or dissent?</l>
+                  <l>  This never-pardoning life we live</l>
+                  <l>  May earn God’s blackest punishment.”</l>
+               </lg>
+               <lg>
+                  <l>His friend, resolved to find a ground</l>
+                  <l>  For rough dispute between the two</l>
+                  <l>  That mutual pardons might abound,</l>
+                  <l>  With cunning from his wallet drew</l>
+               </lg>
+               <lg>
+                  <l>A curious pebble of the beach</l>
+                  <l>  And scowled, “This treasure is my own:”</l>
+                  <l>  He hoped for sharp unfriendly speech</l>
+                  <l>  Or angry snatching at the stone.</l>
+               </lg>
+               <lg>
+                  <l>But honeyed words his friend outpours,</l>
+                  <l>  “Keep it, dear heart, you surely know</l>
+                  <l>  Even were it mine it still were yours,</l>
+                  <l>  This trifle that delights you so.”</l>
+               </lg>
+               <lg>
+                  <l>The owner, acting wrath, cries, “Brother,</l>
+                  <l>  What’s this? Are my deserts so small</l>
+                  <l>  You’d give me trifles?” But the other</l>
+                  <l>  Smiles, “Brother, you may take my all.”</l>
+               </lg>
+               <lg>
+                  <l>He then enraged with one so meek,</l>
+                  <l>  So unresponsive to his mood,</l>
+                  <l>  Most soundly smites the martyr cheek</l>
+                  <l>  And rends the island quietude.</l>
+               </lg>
+               <lg>
+                  <l>The martyr, who till now has feigned</l>
+                  <l>  In third degree of craftiness</l>
+                  <l>  That meekness is so deep ingrained</l>
+                  <l>  No taunt or slight can make it less,</l>
+               </lg>
+               <lg>
+                  <l>Spits out the tooth in honest wrath,</l>
+                  <l>  “You hit too hard, old fool,” cried he.</l>
+                  <l>  They grapple on the rocky path</l>
+                  <l>  That zigzags downward to the sea.</l>
+               </lg>
+               <lg>
+                  <l>In rising fury strained and stiff</l>
+                  <l>  They lunge across the narrow ground;</l>
+                  <l>  They topple headlong from the cliff</l>
+                  <l>  And murderously embraced are drowned.</l>
+                  <l>  . . . . . . . . . .</l>
+                  <l>Here Peter sits: two spirits reach</l>
+                  <l>  To sound the knocker at his Gate.</l>
+                  <l>  They shower forgiveness each on each,</l>
+                  <l>  Beaming triumphant and elate.</l>
+               </lg>
+               <lg>
+                  <l>But oh, their sweats, their secret fears</l>
+                  <l>  Lest clod-souled witnesses may rise</l>
+                  <l>  To set a tingling at their ears</l>
+                  <l>  And bar the approach to Paradise!</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE SIBYL</head>
+               <lg>
+                  <l>Her hand falls helpless: thought amazements fly</l>
+                  <l>Far overhead, they leave no record mark—</l>
+                  <l>Wild swans urged whistling across dazzled sky,</l>
+                  <l>Or Gabriel hounds in chorus through the dark.</l>
+               </lg>
+               <lg>
+                  <l>Yet when she prophesies, each spirit swan,</l>
+                  <l>  Each spectral hound from memory’s windy zones,</l>
+                  <l>  Flies back to inspire one limb-strewn skeleton</l>
+                  <l>  Of thousands in her valley of dry bones.</l>
+               </lg>
+               <lg>
+                  <l>There as those life-restored battalions shout,</l>
+                  <l>  Succession flags and Time goes maimed in flight:</l>
+                  <l>  From each live gullet twenty swans glide out</l>
+                  <l>  With hell-packs loathlier yet to amaze the night.</l>
+               </lg>
+               <p rend="justify">Gabriel hounds, a spectral pack hunting the souls of the damned through the air at night: the origin of this belief some find in the strange noise made by the passage of flocks of wild geese or swans.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A CRUSADER</head>
+               <lg>
+                  <l>Death, kindly eager to pretend</l>
+                  <l>Himself my servant in the land of spears,</l>
+                  <l>Humble allegiance at the end</l>
+                  <l>Broke where the homeward track your castle nears,</l>
+                  <l>Let his white steed before my red steed press</l>
+                  <l>And rapt you from me into quietness.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A NEW PORTRAIT OF JUDITH OF BETHULIA</head>
+               <lg>
+                  <l>She trod the grasses grey with dew,</l>
+                  <l>She hugged the unlikely head;</l>
+                  <l>Avenging where the warrior Jew</l>
+                  <l>Incontinent had fled.</l>
+               </lg>
+               <lg>
+                  <l>The bearded lips writhed ever more</l>
+                  <l>  At this increase of shame—</l>
+                  <l>  Killed by a girl, pretending whore,</l>
+                  <l>  Gone scatheless as she came!</l>
+               </lg>
+               <lg>
+                  <l>His doom yet loathlier that he knew</l>
+                  <l>  Hers was no nation-pride,</l>
+                  <l>  No high religion snatched and slew</l>
+                  <l>  Where he lay stupefied.</l>
+               </lg>
+               <lg>
+                  <l>Nebuchadnezzar’s duke enticed</l>
+                  <l>  To pay a megrim’s fee?</l>
+                  <l>  Assyrian valour sacrificed</l>
+                  <l>  For a boudoir dignity?</l>
+               </lg>
+               <lg>
+                  <l>“Only for this, that some tall knave</l>
+                  <l>  Had scorned her welcoming bed,</l>
+                  <l>  For this, the assault, the stroke, the grave,”</l>
+                  <l>  Groaned Holofernes’ head.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A REVERSAL</head>
+               <lg>
+                  <l>The old man in his fast car</l>
+                  <l>Leaves Achilles lagging,</l>
+                  <l>The old man with his long gun</l>
+                  <l>Outshoots Ulysses’ bow,</l>
+                  <l>Nestor in his botched old age</l>
+                  <l>Rivals Ajax bragging,</l>
+                  <l>To Nestor’s honeyed courtship</l>
+                  <l>Could Helen say “No”?</l>
+               </lg>
+               <lg>
+                  <l>Yet, ancient, since you borrow</l>
+                  <l>  From youth the strength and speed,</l>
+                  <l>  Seducing as an equal</l>
+                  <l>  His playmates in the night,</l>
+                  <l>  He, robbed, assumes your sceptre,</l>
+                  <l>  He overgoes your rede,</l>
+                  <l>  And with his brown and lively hairs</l>
+                  <l>  Out-prophesies your white.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE MARTYRED DECADENTS: A SYMPATHETIC SATIRE</head>
+               <lg>
+                  <l>We strain our strings thus tight,</l>
+                  <l>Our voices pitch thus high,</l>
+                  <l>A song to indite</l>
+                  <l>That nevermore shall die.</l>
+               </lg>
+               <lg>
+                  <l>The Poet being divine</l>
+                  <l>  Admits no social sin,</l>
+                  <l>  Spurring with wine</l>
+                  <l>  And lust the Muse within.</l>
+               </lg>
+               <lg>
+                  <l>Finding no use at all</l>
+                  <l>  In arms or civic deeds,</l>
+                  <l>  Perched on a wall</l>
+                  <l>  Fulfilling fancy’s needs.</l>
+               </lg>
+               <lg>
+                  <l>Let parents, children, wife,</l>
+                  <l>  Be ghosts beside his art,</l>
+                  <l>  Be this his life</l>
+                  <l>  To hug the snake to his heart.</l>
+               </lg>
+               <lg>
+                  <l>Sad souls, the more we stress</l>
+                  <l>  The advantage of our crown,</l>
+                  <l>  So much the less</l>
+                  <l>  Our welcome by the Town,</l>
+               </lg>
+               <lg>
+                  <l>By the gross and rootling hog</l>
+                  <l>  Who grunts nor lifts his head,</l>
+                  <l>  By jealous dog</l>
+                  <l>  Or old ass thistle-fed.</l>
+               </lg>
+               <lg>
+                  <l>By so much less their praise,</l>
+                  <l>  By so much more our glory.</l>
+                  <l>  Grim pride outweighs</l>
+                  <l>  The anguish of our story.</l>
+               </lg>
+               <lg>
+                  <l>We strain our strings thus tight,</l>
+                  <l>  Our voices pitch thus high,</l>
+                  <l>  To enforce our right</l>
+                  <l>  Over futurity.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>EPIGRAMS</head>
+               <div type="div3">
+                  <head>ON CHRISTOPHER MARLOWE</head>
+                  <lg>
+                     <l>Here ranted Isaac’s elder son,</l>
+                     <l>The proud shag-breasted godless one,</l>
+                     <l>From whom observant Smooth-Cheek stole</l>
+                     <l>Birthright, blessing, hunter’s soul.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>A VILLAGE CONFLICT</head>
+                  <lg>
+                     <l>The cottage damson laden as could be</l>
+                     <l>Scowls at the Manor House magnolia tree</l>
+                     <l>That year by year within its thoughtless powers</l>
+                     <l>Yields flowers and leaves and flowers and leaves and flowers,</l>
+                     <l>While the Magnolia shudders as in fear,</l>
+                     <l>“<hi rend="italic">Figurez-vous!</hi> two sackfuls every year!”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>DEDICATORY</head>
+                  <lg>
+                     <l>Dolon, analyst of souls,</l>
+                     <l>To the Graces hangs up here</l>
+                     <l>His shrimp-net rotting into holes</l>
+                     <l>And oozy from the infernal mere;</l>
+                     <l>He wreathes his gift around with cress,</l>
+                     <l>Lush harvest of the public cess.</l>
+                     <l> </l>
+                  </lg>
+                  <p rend="justify">TO MY COLLATERAL ANCESTOR, REV. R. GRAVES, THE FRIEND OF THE POET SHENSTONE AND AUTHOR OF <hi rend="italic">THE SPIRITUAL QUIXOTE</hi>: ON RECEIPT OF A PRESS-CUTTING INTENDED FOR HIM.</p>
+                  <lg>
+                     <l>O friend of Shenstone, do you frown</l>
+                     <l>  In realms remote from me</l>
+                     <l>  When Messrs Durrant send you down</l>
+                     <l>  By inadvertency</l>
+                     <l>  Clippings identifying you</l>
+                     <l>  With some dim man in the moon,</l>
+                     <l>  A Spiritual Quixote, true,</l>
+                     <l>  But friend of S. Sassoon?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>“A VEHICLE, TO WIT, A BICYCLE.”</head>
+                  <p rend="justify">(Dedicated, without permission, to my friend P. C. Flowers)</p>
+                  <lg>
+                     <l>“My front-lamp, constable? Why, man, the moon!</l>
+                     <l>  My rear-lamp? Shining there ten yards behind me,</l>
+                     <l>  Warm parlour lamplight of <hi rend="italic">The Dish and Spoon</hi>!”</l>
+                     <l>  But for all my fancy talk, they would have fined me,</l>
+                     <l>  Had I not set a rather sly half-crown</l>
+                     <l>  Winking under the rays of my front lamp:</l>
+                     <l>  Goodwill towards men disturbed the official frown,</l>
+                     <l>  My rear-light beckoned through the evening’s damp.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>MOTTO TO A BOOK OF EMBLEMS</head>
+                  <lg>
+                     <l>Though you read these, but understand not, curse not!</l>
+                     <l>Or though you read and understand, yet praise not!</l>
+                     <l>What poet weaves a better knot or worse knot</l>
+                     <l>Untangling which, your own lives you unbrace not?</l>
+                     <l> </l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE BOWL AND RIM</head>
+               <lg>
+                  <l>The bearded rabbi, the meek friar,</l>
+                  <l>Linked by their ankles in one cell,</l>
+                  <l>Through joint distress of dungeon mire</l>
+                  <l>Learned each to love his neighbour well.</l>
+               </lg>
+               <lg>
+                  <l>When four years passed and five and six,</l>
+                  <l>  When seven years brought them no release,</l>
+                  <l>  The Jew embraced the crucifix,</l>
+                  <l>  The friar assumed phylacteries.</l>
+               </lg>
+               <lg>
+                  <l>Then every Sunday, keeping score,</l>
+                  <l>  And every Sabbath in this hymn</l>
+                  <l>  They reconciled an age-long war</l>
+                  <l>  Between the platter’s bowl and rim.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Together.</hi>
+                  <lb/>
+               </p>
+               <lg>
+                  <l>Man-like he lived, but God-like died,</l>
+                  <l>  All hatred from His thought removed,</l>
+                  <l>  Imperfect until crucified,</l>
+                  <l>  In crucifixion well-beloved.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">The Friar.</hi>
+                  <lb/>
+               </p>
+               <lg>
+                  <l>If they did wrong, He too did wrong,</l>
+                  <l>  (For Love admits no contraries)</l>
+                  <l>  In blind religion rooted strong</l>
+                  <l>  Both Jesus and the Pharisees.</l>
+               </lg>
+               <lg>
+                  <l>“Love all men as thyself,” said He.</l>
+                  <l>  Said they, “Be just with man or dog,”</l>
+                  <l>  “But only loathe a Pharisee,”</l>
+                  <l>  “But crucify this demagogue.”</l>
+               </lg>
+               <lg>
+                  <l>He died forgiving on the Tree</l>
+                  <l>  To make amends for earlier spite,</l>
+                  <l>  They raised him up their God to be,</l>
+                  <l>  And black with black accomplished white.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">The Rabbi.</hi>
+                  <lb/>
+               </p>
+               <lg>
+                  <l>When He again descends on man</l>
+                  <l>  As chief of Scribes and Pharisees,</l>
+                  <l>  With loathing for the Publican,</l>
+                  <l>  The maimed and halt His enemies,</l>
+               </lg>
+               <lg>
+                  <l>And when a not less formal fate</l>
+                  <l>  Than Pilate’s justice and the Rood,</l>
+                  <l>  His righteous angers expiate</l>
+                  <l>  To make men think Him wholly good,</l>
+               </lg>
+               <lg>
+                  <l>Then He again will have done wrong,</l>
+                  <l>  If God be Love for every man,</l>
+                  <l>  For lewd and lettered, weak and strong,</l>
+                  <l>  For Pharisee or Publican,</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Together.</hi>
+                  <lb/>
+               </p>
+               <lg>
+                  <l>But like a God He will have died,</l>
+                  <l>  All hatred from His thought removed,</l>
+                  <l>  Imperfect until crucified,</l>
+                  <l>  In crucifixion well-beloved.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A FORCED MUSIC</head>
+               <lg>
+                  <l>Of Love he sang, full-hearted one.</l>
+                  <l>But when the song was done</l>
+                  <l>The King demanded more,</l>
+                  <l>Ay, and commanded more.</l>
+                  <l>The boy found nothing for encore,</l>
+                  <l>Words, melodies, none:</l>
+                  <l>Ashamed the song’s glad rise and plaintive fall</l>
+                  <l>Had so charmed King and Queen and all.</l>
+               </lg>
+               <lg>
+                  <l>He sang the same verse once again,</l>
+                  <l>  But urging less Love’s pain,</l>
+                  <l>  With altered time and key</l>
+                  <l>  He showed variety,</l>
+                  <l>  Seemed to refresh the harmony</l>
+                  <l>  Of his only strain,</l>
+                  <l>  So still the glad rise and the plaintive fall</l>
+                  <l>  Could charm the King, the Queen, and all.</l>
+               </lg>
+               <lg>
+                  <l>He of his song then wearying ceased,</l>
+                  <l>  But was not yet released;</l>
+                  <l>  The Queen’s request was <hi rend="italic">More</hi>,</l>
+                  <l>  And her behest was <hi rend="italic">More</hi>.</l>
+                  <l>  He played of random notes some score,</l>
+                  <l>  He found his rhymes at least—</l>
+                  <l>  Then suddenly let his twangling harp down fall</l>
+                  <l>  And fled in tears from King and Queen and all.</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE TURN OF A PAGE</head>
+               <lg>
+                  <l>
+                     <hi rend="italic">He suddenly</hi>, the page read as it turned,</l>
+                  <l>
+                     <hi rend="italic">Died</hi>.</l>
+                  <l>The indignant eye discerned</l>
+                  <l>No sense. “Good page, turn back,” it cried</l>
+                  <l>(Happily evermore was cheated).</l>
+                  <l>
+                     <hi rend="italic">After these things he suddenly died</hi>,</l>
+                  <l>The truthful page repeated.</l>
+               </lg>
+               <lg>
+                  <l>“Turn back yon earlier pages, nine or ten,</l>
+                  <l>  To <hi rend="italic">Him she loved</hi>  and <hi rend="italic">He alone of men</hi>.</l>
+                  <l>  Now change the sentence, page!” But still it read</l>
+                  <l>
+                     <hi rend="italic">He suddenly died: they scarce had time to kiss</hi>.</l>
+                  <l>  “Read on, ungentle reader,” the book said,</l>
+                  <l>  “Resign your hopes to this.”</l>
+               </lg>
+               <lg>
+                  <l>The eye could not resign, restless in grief,</l>
+                  <l>  But darting forward to a later leaf</l>
+                  <l>  Found <hi rend="italic">Him she loved</hi>  and <hi rend="italic">He alone of men</hi>.</l>
+                  <l>  Oh, who this He was, being a second He</l>
+                  <l>  Confused the plan; the book spoke sternly then,</l>
+                  <l>  “Read page by page and see!”</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE MANIFESTATION IN THE TEMPLE</head>
+               <lg>
+                  <l>On the High Feast Day in that reverent space</l>
+                  <l>Between the Sacrifice and the word of Grace,</l>
+                  <l>I, come to town with a merry-making throng</l>
+                  <l>To pay my tithes and join in the season’s song,</l>
+                  <l>Closing my eyes, there prayed—and was hurried far</l>
+                  <l>Beyond what ages I know not, or what star,</l>
+                  <l>To a land of thought remote from the breastplate glint</l>
+                  <l>And the white bull’s blood that flows from the knife of flint,</l>
+                  <l>Then, in this movement, being not I but part</l>
+                  <l>In the fellowship of the universal heart, 10</l>
+                  <l>I sucked a strength from the primal fount of strength,</l>
+                  <l>I thought and worked omnipotence. At length</l>
+                  <l>Hit in my high flight by some sorry thought</l>
+                  <l>Back to the sweat of the soil-bound I was caught</l>
+                  <l>And asked in pique what enemy had worked this,</l>
+                  <l>What folly or anger thrust against my bliss?</l>
+                  <l>Then I grew aware of the savour of sandal-wood</l>
+                  <l>With noise of a distant fluting, and one who stood</l>
+                  <l>Nudging my elbow breathed “Oh, miracle! See!”</l>
+                  <l>The folk gape wonder, urge tumultuously, 20</l>
+                  <l>They fling them down on their faces every one,</l>
+                  <l>Some joyfully weep, others for anguish moan.</l>
+                  <l>Lo, the tall gilt image of God at the altar niche</l>
+                  <l>Wavers and stirs, we see his raiment twitch.</l>
+                  <l>Now he stands and signs benediction with his rod.</l>
+                  <l>The courtyard quakes, the fountains gush with blood.</l>
+                  <l>The whistling scurry and throb of spirit wings</l>
+                  <l>Distresses man and child. Now a bird-voice sings,</l>
+                  <l>And a loud throat bellows, that every creature hears,</l>
+                  <l>A sign to himself he must lay aside his fears. 30</l>
+                  <l>It babbles an antique tongue, and threatening, pleads</l>
+                  <l>Prompt sacrifice and a care for priestly needs,</l>
+                  <l>Wholeness of heart, the putting away of wrath,</l>
+                  <l>A generous measure for wine, for oil, for cloth,</l>
+                  <l>A holding fast to the law that the Stones ordain,</l>
+                  <l>And the rites of the Temple watch that ye maintain</l>
+                  <l>Lest fire and ashes down from the mountain rain!</l>
+                  <l>With expectance of goodly harvest and rain in Spring</l>
+                  <l>To such as perform the will of the Jealous King.</l>
+                  <l>To his priestly servants hearken!</l>
+                  <l>The syllables die. 40</l>
+                  <l>Now up from the congregation issues a sigh</l>
+                  <l>As of stopped breath slow released. But here stands one</l>
+                  <l>Who has kept his feet though the others fell like stone,</l>
+                  <l>Who prays with outstretched palms, standing alone,</l>
+                  <l>To a God who is speechless, not to be known by touch,</l>
+                  <l>By sight, sound, scent. And I cry, “Not overmuch</l>
+                  <l>Do I love this juggling blasphemy, O High Priest.</l>
+                  <l>Or do you deny your part here? Then, at least,</l>
+                  <l>An honest citizen of this honest town</l>
+                  <l>May preach these nightmare apparitions down, 50</l>
+                  <l>These blundering, perfumed noises come to tell</l>
+                  <l>No more than a priest-instructed folk knows well.</l>
+                  <l>Out, meddlesome Imps, whatever Powers you be,</l>
+                  <l>Break not true prayer between my God and me.”</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TO ANY SAINT</head>
+               <lg>
+                  <l>You turn the unsmitten other cheek,</l>
+                  <l>In silence welcoming God’s grace,</l>
+                  <l>Disdaining, though they scourge, to speak,</l>
+                  <l>Smiling forgiveness face to face.</l>
+               </lg>
+               <lg>
+                  <l>You plunge your arms in tyrant flame,</l>
+                  <l>  From ravening beasts you do not fly,</l>
+                  <l>  Calling aloud on one sweet Name,</l>
+                  <l>  Hosannah-singing till you die.</l>
+               </lg>
+               <lg>
+                  <l>So angered by your undefeat,</l>
+                  <l>  Revenge through Christ they meditate,</l>
+                  <l>  Disciples at the bishop’s feet</l>
+                  <l>  They learn this newer sort of hate,</l>
+               </lg>
+               <lg>
+                  <l>This unresisting meek assault</l>
+                  <l>  On furious foe or stubborn friend,</l>
+                  <l>  This virtue purged of every fault</l>
+                  <l>  By furtherance of the martyr’s end,</l>
+               </lg>
+               <lg>
+                  <l>This baffling stroke of naked pride,</l>
+                  <l>  When satires fail and curses fail</l>
+                  <l>  To pierce the justice’s tough hide,</l>
+                  <l>  To abash the cynics of the jail.</l>
+               </lg>
+               <lg>
+                  <l>Oh, not less violent, not less keen</l>
+                  <l>  And barbèd more than murder’s blade!</l>
+                  <l>  “The brook,” you sigh, “that washes clean,</l>
+                  <l>  The flower of love that will not fade!”</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A DEWDROP</head>
+               <lg>
+                  <l>The dewdrop carries in its eye</l>
+                  <l>Snowdon and Hebog, sea and sky,</l>
+                  <l>Twelve lakes at least, woods, rivers, moors,</l>
+                  <l>And half a county’s out-of-doors:</l>
+                  <l>Trembling beneath a wind-flower’s shield</l>
+                  <l>In this remote and rocky field.</l>
+               </lg>
+               <lg>
+                  <l>But why should man in God’s Name stress</l>
+                  <l>  The dewdrop’s inconspicuousness</l>
+                  <l>  When to lakes, woods, the estuary,</l>
+                  <l>  Hebog and Snowdon, sky and sea,</l>
+                  <l>  This dewdrop falling from its leaf</l>
+                  <l>  Can spread amazement near to grief,</l>
+                  <l>  As it were a world distinct in mould</l>
+                  <l>  Lost with its beauty ages old?</l>
+                  <l> </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A VALENTINE</head>
+               <lg>
+                  <l>The hunter to the husbandman</l>
+                  <l>Pays tribute since our love began,</l>
+                  <l>And to love-loyalty dedicates</l>
+                  <l>The phantom kills he meditates.</l>
+                  <l>Let me embrace, embracing you,</l>
+                  <l>Beauty of other shape and hue,</l>
+                  <l>Odd glinting graces of which none</l>
+                  <l>Shone more than candle to your sun,</l>
+                  <l>Your well-kissed hand was beckoning me</l>
+                  <l>In unfamiliar imagery—</l>
+                  <l>Smile your forgiveness; each bright ghost</l>
+                  <l>Dives in love’s glory and is lost,</l>
+                  <l>Yielding your comprehensive pride</l>
+                  <l>A homage, even to suicide.</l>
+               </lg>
+               <p rend="justify">Made and Printed in Great Britain. Richard Clay &amp; Sons, Ltd.<lb/>Printers, Bungay, Suffolk.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
