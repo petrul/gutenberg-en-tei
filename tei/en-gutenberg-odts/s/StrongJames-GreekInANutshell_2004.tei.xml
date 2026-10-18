@@ -1,0 +1,2713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Greek in a Nutshell</title>
+            <author>James Strong</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T20:32:12Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/s/StrongJames-GreekInANutshell_2004.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>James Strong</name>
+               <date>2024-01-04T20:32:12Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Greek in a Nutshell</head>
+         <author>James Strong</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/s/StrongJames-GreekInANutshell_2004.odt</p>
+         <head>Greek in a Nutshell,</head>
+         <subtitle>An Outline of<lb/>GREEK GRAMMAR<lb/>with<lb/>BRIEF READING LESSONS;</subtitle>
+         <p>Designed for Beginners in the New Testament.</p>
+         <p>BY</p>
+         <subtitle>JAMES STRONG, S.T.D.,</subtitle>
+         <p>Professor of Exegetical Theology in Drew Theological Seminary</p>
+         <p>NEW YORK: EATON &amp; MAINS<lb/>CINCINNATI: JENNINGS &amp; GRAHAM</p>
+         <p>Entered according to Act of Congress, in the year 1876, by<lb/>NELSON &amp; PHILLIPS,<lb/>In the Office of the Librarian of Congress at Washington.</p>
+         <pb/>
+         <div type="div1">
+            <head>PREFACE.</head>
+            <p>This little Manual was originally prepared for the NORMAL CLASS, at the request of the editor of that Journal, and was at the same time expected to form an instruction book at the Sunday-School Assembly annually held at Chautauqua. This accounts for its form in twelve series of two pages each. The reading lessons, however, have been made sufficiently full for subsequent study. Of course the simplest elements only of the Greek language can be comprised in such narrow limits; nor can a full vocabulary or ready facility be acquired in so short a course. Nevertheless, a good beginning may be made, and that is "half the battle" in any enterprise. It is believed that a thorough mastery of this small volume will prove a conquest over all the real difficulties of the original tongue of the New Testament.</p>
+            <p>J. S.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Greek in a Nutshell</head>
+            <pb/>
+            <div type="div2">
+               <head>LESSON I.</head>
+               <div type="div3">
+                  <head>READING</head>
+                  <p rend="justify">
+                     <hi rend="bold">§ 1.</hi> THE ALPHABET.</p>
+                  <table rend="frame" xml:id="Table1">
+                     <row>
+                        <cell>
+                           <hi rend="bold">Form.</hi>
+                        </cell>
+                        <cell>
+                           <hi rend="bold">Name.</hi>
+                        </cell>
+                        <cell>
+                           <hi rend="bold">Sound.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A α</cell>
+                        <cell>Al'pha</cell>
+                        <cell>
+                           <hi rend="italic">a</hi> in <hi rend="italic">man</hi>, [<hi rend="italic">arm.</hi>
+                           <hi rend="sup">1</hi>]</cell>
+                     </row>
+                     <row>
+                        <cell>Β β</cell>
+                        <cell>Be'ta</cell>
+                        <cell>
+                           <hi rend="italic">b</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Γ γ</cell>
+                        <cell>Gam'ma</cell>
+                        <cell>
+                           <hi rend="italic">g</hi> in <hi rend="italic">go</hi>, [<hi rend="italic">king.</hi>
+                           <hi rend="sup">2</hi>]</cell>
+                     </row>
+                     <row>
+                        <cell>Δ δ</cell>
+                        <cell>Del'ta</cell>
+                        <cell>
+                           <hi rend="italic">d</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Ε ε</cell>
+                        <cell>Ep'silon</cell>
+                        <cell>
+                           <hi rend="italic">e</hi> in <hi rend="italic">met</hi>.</cell>
+                     </row>
+                     <row>
+                        <cell>Ζ ζ</cell>
+                        <cell>Ze'ta</cell>
+                        <cell>
+                           <hi rend="italic">dz</hi> in <hi rend="italic">adze</hi>.</cell>
+                     </row>
+                     <row>
+                        <cell>Η η</cell>
+                        <cell>E'ta</cell>
+                        <cell>
+                           <hi rend="italic">e</hi> in <hi rend="italic">they</hi>.</cell>
+                     </row>
+                     <row>
+                        <cell>Θ ϑ or θ</cell>
+                        <cell>The'ta</cell>
+                        <cell>
+                           <hi rend="italic">th</hi> in <hi rend="italic">thin</hi>.</cell>
+                     </row>
+                     <row>
+                        <cell>Ι ι</cell>
+                        <cell>Io'ta</cell>
+                        <cell>
+                           <hi rend="italic">i</hi> in <hi rend="italic">tin</hi>, [<hi rend="italic">machine</hi>
+                           <hi rend="sup">3</hi>]</cell>
+                     </row>
+                     <row>
+                        <cell>Κ κ or ϗ</cell>
+                        <cell>Kap'pa</cell>
+                        <cell>
+                           <hi rend="italic">k</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Λ λ</cell>
+                        <cell>Lamb'da</cell>
+                        <cell>
+                           <hi rend="italic">l</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Μ μ</cell>
+                        <cell>Mu</cell>
+                        <cell>
+                           <hi rend="italic">m</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Ν ν</cell>
+                        <cell>Nu</cell>
+                        <cell>
+                           <hi rend="italic">n</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Ξ ξ</cell>
+                        <cell>Xi</cell>
+                        <cell>
+                           <hi rend="italic">x</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Ο ο</cell>
+                        <cell>Om'icron</cell>
+                        <cell>
+                           <hi rend="italic">ο</hi> in <hi rend="italic">not</hi>.</cell>
+                     </row>
+                     <row>
+                        <cell>Π π</cell>
+                        <cell>Pi</cell>
+                        <cell>
+                           <hi rend="italic">p</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Ρ ρ</cell>
+                        <cell>Rho</cell>
+                        <cell>
+                           <hi rend="italic">r</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Σ σ, final ς</cell>
+                        <cell>Sig'ma</cell>
+                        <cell>
+                           <hi rend="italic">s</hi> in <hi rend="italic">this</hi>.</cell>
+                     </row>
+                     <row>
+                        <cell>Τ τ</cell>
+                        <cell>Tau</cell>
+                        <cell>
+                           <hi rend="italic">t</hi> in <hi rend="italic">it</hi>.</cell>
+                     </row>
+                     <row>
+                        <cell>Υ υ</cell>
+                        <cell>U'psilon</cell>
+                        <cell>
+                           <hi rend="italic">u</hi> in <hi rend="italic">full</hi>.</cell>
+                     </row>
+                     <row>
+                        <cell>Φ φ</cell>
+                        <cell>Phi</cell>
+                        <cell>
+                           <hi rend="italic">f</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>χ χ</cell>
+                        <cell>Khi</cell>
+                        <cell>
+                           <hi rend="italic">kh</hi> (German <hi rend="italic">ch</hi>.)</cell>
+                     </row>
+                     <row>
+                        <cell>ψ ψ</cell>
+                        <cell>Psi</cell>
+                        <cell>
+                           <hi rend="italic">ps</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Ω ω</cell>
+                        <cell>O'mega</cell>
+                        <cell>
+                           <hi rend="italic">ο</hi> in <hi rend="italic">no</hi>.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">
+                     <hi rend="bold">§ 2.</hi> Notes on the Alphabet.</p>
+                  <p rend="justify">1. α sounds broad, like <hi rend="italic">a</hi>  in <hi rend="italic">arm</hi>, at the end of a word, and before ρ final or ρ followed by a different consonant.</p>
+                  <p rend="justify">2. γ has the nasal sound, like <hi rend="italic">ng</hi>  in <hi rend="italic">king</hi>, before γ, κ, χ, or ξ.</p>
+                  <p rend="justify">3. ι has its long sound, like <hi rend="italic">i</hi>  in <hi rend="italic">machine</hi>, at the end of a syllable.</p>
+                  <p rend="justify">Every letter is sounded, and, with the above exceptions, invariably the same.</p>
+                  <div type="div4">
+                     <head>
+                        <label>2.</label>ACCENT.</head>
+                     <p rend="justify">
+                        <hi rend="bold">§ 3.</hi> Each word, except a very few monosyllables, has one of the following accents written over a vowel in it, which marks the place of the spoken tone. A few small words, called <hi rend="italic">enclitics</hi>, generally throw their accent, as an acute, on the last syllable of the preceding word.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 4.</hi>  The <hi rend="italic">acute</hi>  ('), which is the foundation of all the accents, stands on one of the last three syllables. In verbs, with the exception of certain forms, it stands as far toward the beginning of the word as the rules below allow. In other parts of speech it stands on the same syllable as in the ground-form, (that given in the lexicon,) except as required by these rules. When the last syllable has a long vowel or diphthong it stands on the syllable before the last.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 5.</hi>  The <hi rend="italic">grave</hi>  accent (`) is only written in place of the acute on the last syllable when not before a pause, or when unemphatic. It is understood to belong to all other syllables.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 6.</hi>  The <hi rend="italic">circumflex</hi>  (~) is placed on a syllable formed by the combination of two, the first of which had an acute and the second a grave; hence only on the last, or next to the last syllable, and only on a long vowel or a diphthong. When the last syllable has a short vowel, such a penult, if accented, takes the circumflex.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>3.</label>BREATHINGS, VOWELS, DIPHTHONGS, ETC.</head>
+                     <p rend="justify">
+                        <hi rend="bold">§ 7.</hi> A vowel beginning a word takes either the <hi rend="italic">rough breathing</hi>, (῾), which is pronounced like <hi rend="italic">h</hi>, or else, to show the absence of that, <hi rend="italic">the smooth breathing</hi>, (᾿), which has no appreciable sound. Initial ρ and υ always take the rough breathing; and double ρ in the middle of a word takes the smooth breathing on the first, and the rough on the second.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 8.</hi>  The vowels are short, (ε and ο,) long, (η and ω,) or doubtful, (α, ι, and υ,) which last, although naturally short, are sometimes lengthened by derivation.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 9.</hi>  The diphthongs are as follows:--</p>
+                     <table rend="frame" xml:id="Table2">
+                        <row>
+                           <cell>
+                              <hi rend="bold">Proper.</hi>
+                           </cell>
+                           <cell>
+                              <hi rend="bold">With Iota Subscript.</hi>
+                           </cell>
+                           <cell>
+                              <hi rend="bold">Improper.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>αι sounds ay</cell>
+                           <cell>ᾳ = α</cell>
+                           <cell>ηυ = η and υ</cell>
+                        </row>
+                        <row>
+                           <cell>ει sounds i</cell>
+                           <cell>ῃ = η</cell>
+                           <cell>ωυ = ω and υ</cell>
+                        </row>
+                        <row>
+                           <cell>οι sounds oy</cell>
+                           <cell>ῳ = ω</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>υι sounds we</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>αυ sounds ow</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>ευ sounds yu</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>ου sounds oo</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                     </table>
+                     <p rend="justify">
+                        <hi rend="bold">§ 10.</hi> In diphthongs the breathing and accent are written over the <hi rend="italic">second</hi> vowel. A capital (initial) letter in other cases takes them <hi rend="italic">before</hi> it.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 11.</hi>  The punctuation marks are the comma, (,), the semicolon, (·), the period, (.), and the interrogation point, (;).</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LESSON II.</head>
+               <div type="div3">
+                  <head>EUPHONIC CHANGES.</head>
+                  <p rend="justify">
+                     <hi rend="bold">§ 12.</hi> When two <hi rend="italic">consonants</hi> come together the first is made homogeneous with the second, as follows:--</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 13.</hi>  Mutes of a different class must have the same degree of hardness according to the following classification:--</p>
+                  <table rend="frame" xml:id="Table3">
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi rend="bold">Smooth.</hi>
+                        </cell>
+                        <cell>
+                           <hi rend="bold">Middle.</hi>
+                        </cell>
+                        <cell>
+                           <hi rend="bold">Rough.</hi>
+                        </cell>
+                        <cell>
+                           <hi rend="bold">Sibilant (with </hi>
+                           <hi rend="bold italic">s</hi>
+                           <hi rend="bold">.)</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Kappa-mutes.</cell>
+                        <cell>κ</cell>
+                        <cell>γ</cell>
+                        <cell>χ</cell>
+                        <cell>ξ</cell>
+                     </row>
+                     <row>
+                        <cell>Pi-mutes</cell>
+                        <cell>π</cell>
+                        <cell>β</cell>
+                        <cell>φ</cell>
+                        <cell>ψ</cell>
+                     </row>
+                     <row>
+                        <cell>Tau-mutes</cell>
+                        <cell>τ</cell>
+                        <cell>δ</cell>
+                        <cell>ϑ</cell>
+                        <cell>ζ</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">
+                     <hi rend="bold">§ 14.</hi> A <hi rend="italic">smooth</hi> final mute is roughened before a vowel with the rough breathing. A rough mute is not doubled, nor can successive syllables begin with an aspirate. A tau-mute is sometimes dropped before σ, and always before κ; before a different tau-mute it is changed into σ.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 15.</hi>  Before μ a kappa-mute is changed into γ, a pi-mute into μ, and a tau-mute into σ.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 16.</hi>  ν before a kappa-mute becomes γ, before a pi-mute μ, before a liquid (λ, μ, ν, or ρ) it is changed into the same liquid, before σ or ζ it is dropped.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 17.</hi>  ν is appended to certain endings in σι or ε before a pause or a vowel.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 18.</hi>  There are several other less important rules, and some exceptions to most of the above.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 19.</hi>  A <hi rend="italic">long vowel</hi>  or <hi rend="italic">diphthong</hi>  is used as an equivalent for two (usually short) vowels in immediate succession, or as a compensation for the omission of a consonant, sometimes for both.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 20.</hi>  The changes in the union of two vowels are various, depending upon their comparative strength, position, and relation to the long vowels, or diphthongs respectively. They are readily learned by practice.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 21.</hi>  Compensation is not always thus made for the omission of a consonant. Sometimes the omission occurs too far back in the derivation to be easily traced.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 22.</hi>  A final vowel is sometimes elided before another vowel, and its place indicated by the apostrophe, (').</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 23.</hi>  There are several <hi rend="italic">dialects</hi>, which chiefly affect the vowels, (like provincial pronunciation;) but in later Greek (to which the New Testament belongs) they were merged in "the common dialect," the Attic pre-dominating.</p>
+                  <div type="div4">
+                     <head>NOUNS.</head>
+                     <p rend="justify">Nouns are of three declensions, three genders, three numbers, and five cases, all indicated by changes of termination.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 24.</hi>  The declensions (numbered 1, 2, and 3) are only different modes of inflection.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 25.</hi>  Names and designations of males, nations, the months, rivers, and winds, are almost invariably <hi rend="italic">masculine</hi>; those of females, countries, islands, cities, trees, and plants, are usually <hi rend="italic">feminine</hi>; of the <hi rend="italic">neuter</hi>  gender are most names of fruits and diminutives, and always the names of the letters, infinitives, clauses, indeclinable words, and words used as the symbol of a sound. In the third declension especially the (grammatical) gender in many instances is arbitrary.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 26.</hi>  The <hi rend="italic">singular</hi>  and <hi rend="italic">plural</hi>  are used as in English. The <hi rend="italic">dual</hi>  denotes two or a pair; it is comparatively rare, and never occurs in the New Testament.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 27.</hi>  The <hi rend="italic">cases</hi>  express the relations of words to each other in a sentence, as follows:--</p>
+                     <table rend="frame" xml:id="Table4">
+                        <row>
+                           <cell>
+                              <hi rend="bold">Name.</hi>
+                           </cell>
+                           <cell>
+                              <hi rend="bold">Use.</hi>
+                           </cell>
+                           <cell>
+                              <hi rend="bold">Equivalent.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Nominative.</cell>
+                           <cell>Subject of a finite verb.</cell>
+                           <cell>(Simple form.)</cell>
+                        </row>
+                        <row>
+                           <cell>Genitive.</cell>
+                           <cell>Origin or ownership.</cell>
+                           <cell>
+                              <hi rend="italic">From, of,</hi> etc.</cell>
+                        </row>
+                        <row>
+                           <cell>Dative.</cell>
+                           <cell>Position or manner.</cell>
+                           <cell>
+                              <hi rend="italic">In, by, for, to,</hi> etc.</cell>
+                        </row>
+                        <row>
+                           <cell>Accusative.</cell>
+                           <cell>Direction or object.</cell>
+                           <cell>
+                              <hi rend="italic">Toward, into,</hi> etc.</cell>
+                        </row>
+                        <row>
+                           <cell>Vocative.</cell>
+                           <cell>Address.</cell>
+                           <cell>
+                              <hi rend="italic">O!</hi>
+                           </cell>
+                        </row>
+                     </table>
+                     <p rend="justify">
+                        <hi rend="bold">§ 28.</hi> The following are the terminations of the <hi rend="italic">First Declension</hi>:--</p>
+                     <p rend="justify">
+                        <hi rend="bold">Singular.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">Cases.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">Plural.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Masc.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Fem.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Masc. and Fem.</hi>
+                     </p>
+                     <p rend="justify">ας or ης</p>
+                     <p rend="justify">α or η</p>
+                     <p rend="justify">Nominative.</p>
+                     <p rend="justify">αι</p>
+                     <p rend="justify">ον</p>
+                     <p rend="justify">ας or ης</p>
+                     <p rend="justify">Genitive.</p>
+                     <p rend="justify">ῶν</p>
+                     <p rend="justify">ᾳ or η</p>
+                     <p rend="justify">Dative.</p>
+                     <p rend="justify">αις</p>
+                     <p rend="justify">αν or ην</p>
+                     <p rend="justify">Accusative.</p>
+                     <p rend="justify">ας</p>
+                     <p rend="justify">α or η</p>
+                     <p rend="justify">Vocative.</p>
+                     <p rend="justify">αι</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Dual.</hi>  Nom., Acc., Voc., α; Gen., Dat., αιν.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 29.</hi>  The α in the terminations of the singular is mostly used when ρ, ε,or ι precedes it; and in the Nom., Acc., and Voc. when λ or σ, and frequently when ν, precedes it. A few nouns have α in the Gen. sing.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LESSON III.</head>
+               <div type="div3">
+                  <head>NOUNS--Continued.</head>
+                  <p rend="justify">
+                     <hi rend="bold">§ 30.</hi> The following are the terminations of the <hi rend="italic">Second Declension</hi>:--</p>
+                  <p rend="justify">
+                     <hi rend="bold">Singular.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Cases.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Plural.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Masc.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Neut.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Masc.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Neut.</hi>
+                  </p>
+                  <p rend="justify">ος</p>
+                  <p rend="justify">ον</p>
+                  <p rend="justify">Nominative.</p>
+                  <p rend="justify">οι</p>
+                  <p rend="justify">α</p>
+                  <p rend="justify">ου</p>
+                  <p rend="justify">Genitive.</p>
+                  <p rend="justify">ων</p>
+                  <p rend="justify">ῳ</p>
+                  <p rend="justify">Dative.</p>
+                  <p rend="justify">οις</p>
+                  <p rend="justify">ον</p>
+                  <p rend="justify">Accusative.</p>
+                  <p rend="justify">ους</p>
+                  <p rend="justify">α</p>
+                  <p rend="justify">ε</p>
+                  <p rend="justify">ον</p>
+                  <p rend="justify">Vocative.</p>
+                  <p rend="justify">οι</p>
+                  <p rend="justify">α</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Dual.</hi>  Nom., Acc., Voc., ω; Gen., Dat., οιν.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 31.</hi>  The few fem. nouns of this declension take the masc. terminations. The Voc. masc. sing. is occasionally ος.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 32.</hi>  The following are the terminations of the <hi rend="italic">Third Declension</hi>:--</p>
+                  <p rend="justify">
+                     <hi rend="bold">Singular.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Cases.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Plural.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Masc. and Fem.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Neut.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Masc. and Fem.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Neut.</hi>
+                  </p>
+                  <p rend="justify">ς (or long vowel before final letter.)</p>
+                  <p rend="justify">(naked stem.)</p>
+                  <p rend="justify">Nominative.</p>
+                  <p rend="justify">ες</p>
+                  <p rend="justify">α</p>
+                  <p rend="justify">ος</p>
+                  <p rend="justify">Genitive.</p>
+                  <p rend="justify">ων</p>
+                  <p rend="justify">ι</p>
+                  <p rend="justify">Dative.</p>
+                  <p rend="justify">σι(ν)</p>
+                  <p rend="justify">ν or α</p>
+                  <p rend="justify">(naked stem.)</p>
+                  <p rend="justify">Accusative.</p>
+                  <p rend="justify">ας</p>
+                  <p rend="justify">α</p>
+                  <p rend="justify">(like Nom. or Neut.)</p>
+                  <p rend="justify">(naked stem.)</p>
+                  <p rend="justify">Vocative.</p>
+                  <p rend="justify">ες</p>
+                  <p rend="justify">α</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Dual.</hi>  Nom., Acc., Voc., ε; Gen., Dat., οιν.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 33.</hi>  The Nom. sing. is so often changed by the euphonic rules that the stem of the noun is best seen in the Gen. Nouns in ις, υς, and ευς take the (Attic) Gen. εως, (ω regarded as <hi rend="italic">short</hi>.) The α of the Acc. sing. is usually after a consonant. Many irregularities and some anomalies occur, which may generally be learned from the lexicon.</p>
+                  <div type="div4">
+                     <head>ADJECTIVES.</head>
+                     <p rend="justify">
+                        <hi rend="bold">§ 34.</hi> These are <hi rend="italic">declined</hi> like nouns, having sometimes three sets of terminations for the respective genders, sometimes two, (masc. and fem. alike,) rarely but one, (all genders alike.) The masc. and neut. are always of the same declension, (second or third,) and the fem., when different, always of the first. <hi rend="italic">Participles</hi> are declined like adjectives.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 35.</hi>  Adjectives are <hi rend="italic">compared</hi>  either by using an adverb expressive of degree, or, more regularly, by adding to the stem of the positive the syllables ότερος or ίων for the comparative, and ότατος or ιστος for the superlative. Some euphonic changes occur in making these additions, which then take the regular declensional endings.</p>
+                  </div>
+                  <div type="div4">
+                     <head>NUMERALS.</head>
+                     <p rend="justify">
+                        <hi rend="bold">§ 36.</hi> The <hi rend="italic">cardinal</hi> numbers are either simple, (the units, tens, and a few others,) or compound, (intermediate numbers.) Those from one to four inclusive, and the hundreds and thousands, are declined like adjectives. They may all be learned from the lexicon.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 37.</hi>  The <hi rend="italic">ordinals</hi>  are mostly formed from the cardinals by adjective endings.</p>
+                  </div>
+                  <div type="div4">
+                     <head>PRONOUNS.</head>
+                     <p rend="justify">
+                        <hi rend="bold">§ 38.</hi> Of the <hi rend="italic">personal</hi> pronouns, those of the 1st and 2d persons only are specially noteworthy, being declined as nouns irregularly:--</p>
+                     <table rend="frame" xml:id="Table5">
+                        <row>
+                           <cell> </cell>
+                           <cell>
+                              <hi rend="italic">I</hi> or <hi rend="italic">Me</hi>.</cell>
+                           <cell>
+                              <hi rend="italic">We</hi> or <hi rend="italic">Us</hi>.</cell>
+                           <cell>
+                              <hi rend="italic">Thou</hi> or <hi rend="italic">Thee</hi>.</cell>
+                           <cell>
+                              <hi rend="italic">Ye</hi> or <hi rend="italic">You</hi>.</cell>
+                        </row>
+                        <row>
+                           <cell>Nominative.</cell>
+                           <cell>ἐγώ</cell>
+                           <cell>ἡμεῖς</cell>
+                           <cell>σύ</cell>
+                           <cell>ὑμεῖς</cell>
+                        </row>
+                        <row>
+                           <cell>Genitive.</cell>
+                           <cell>(ἐ)μοῦ</cell>
+                           <cell>ἡμῶν</cell>
+                           <cell>σοῦ</cell>
+                           <cell>ὑμῶν</cell>
+                        </row>
+                        <row>
+                           <cell>Dative.</cell>
+                           <cell>(ἐ)μοί</cell>
+                           <cell>ἡμῖν</cell>
+                           <cell>σοί</cell>
+                           <cell>ὑμῖν</cell>
+                        </row>
+                        <row>
+                           <cell>Accusative.</cell>
+                           <cell>(ἐ)μέ</cell>
+                           <cell>ἡμᾶς</cell>
+                           <cell>σέ</cell>
+                           <cell>ὑμᾶς</cell>
+                        </row>
+                     </table>
+                     <p rend="justify">
+                        <hi rend="bold">§ 39.</hi> The rest are declined as adjectives--masc. ος, fem, η, neut. ο; often compounded, one or both parts being declined; but, with the exception of τις, (interrogative τίς, indefinite τὶς,) neut. τι, Gen. τινος, of the third declension, the <hi rend="italic">article</hi> (definite only) and the <hi rend="italic">demonstrative</hi> alone are very peculiar in declension, as follows:--</p>
+                     <p rend="justify">
+                        <hi rend="bold">Singular.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">The.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">Plural.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Masc.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Neut.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Fem.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Masc.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Neut.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Fem.</hi>
+                     </p>
+                     <p rend="justify">ὁ</p>
+                     <p rend="justify">τό</p>
+                     <p rend="justify">ἡ</p>
+                     <p rend="justify">Nominative.</p>
+                     <p rend="justify">οἱ</p>
+                     <p rend="justify">τά</p>
+                     <p rend="justify">αἱ</p>
+                     <p rend="justify">τοῦ</p>
+                     <p rend="justify">τῆς</p>
+                     <p rend="justify">Genitive.</p>
+                     <p rend="justify">τῶν</p>
+                     <p rend="justify">τῶν</p>
+                     <p rend="justify">τῷ</p>
+                     <p rend="justify">τῇ</p>
+                     <p rend="justify">Dative.</p>
+                     <p rend="justify">τοῖς</p>
+                     <p rend="justify">ταῖς</p>
+                     <p rend="justify">τόν</p>
+                     <p rend="justify">τό</p>
+                     <p rend="justify">τήν</p>
+                     <p rend="justify">Accusative.</p>
+                     <p rend="justify">-ούς</p>
+                     <p rend="justify">τά</p>
+                     <p rend="justify">τάς</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Dual.</hi>  Nom., Acc., Voc., τώ, τά; Gen., Dat., τοῖν, ταῖν.</p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">Singular.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">This, These.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">Plural.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Masc.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Neut.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Fem.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Masc.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Neut.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="italic">Fem.</hi>
+                     </p>
+                     <p rend="justify">οὗτος</p>
+                     <p rend="justify">τοῦτο</p>
+                     <p rend="justify">αὕτη</p>
+                     <p rend="justify">Nominative.</p>
+                     <p rend="justify">οὗτοι</p>
+                     <p rend="justify">ταῦτα</p>
+                     <p rend="justify">αὗται</p>
+                     <p rend="justify">τούτου</p>
+                     <p rend="justify">ταύτης</p>
+                     <p rend="justify">Genitive.</p>
+                     <p rend="justify">τούτων</p>
+                     <p rend="justify">τούτων</p>
+                     <p rend="justify">τούτῳ</p>
+                     <p rend="justify">-αύτῃ</p>
+                     <p rend="justify">Dative.</p>
+                     <p rend="justify">τούτοις</p>
+                     <p rend="justify">ταύταις</p>
+                     <p rend="justify">τουτου</p>
+                     <p rend="justify">τοῦτο</p>
+                     <p rend="justify">ταυτην</p>
+                     <p rend="justify">Accusative.</p>
+                     <p rend="justify">τούτους</p>
+                     <p rend="justify">ταῦτα</p>
+                     <p rend="justify">ταύτας</p>
+                     <p rend="justify">
+                        <hi rend="bold italic">Dual.</hi>  Nom., Acc., Voc., τούτω, ταῦτα; Gen., Dat., τούτοιν, ταύταιν</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LESSON IV.</head>
+               <div type="div3">
+                  <head>VERBS.</head>
+                  <p rend="justify">
+                     <hi rend="bold">§ 40.</hi> There are three <hi rend="smallcaps">Voices</hi>, <hi rend="italic">Active, Middle,</hi> and <hi rend="italic">Passive,</hi> generally distinguished by the <hi rend="italic">termination</hi>.</p>
+                  <p rend="justify">The Middle is properly <hi rend="italic">reflexive</hi>. Some of its tenses have an <hi rend="italic">active</hi>  meaning. A few verbs, called <hi rend="italic">deponent</hi>, are throughout pass. in form, but act. or mid. in meaning.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 41.</hi>  There are five <hi rend="smallcaps">Mood</hi>  in each voice, the <hi rend="italic">Indicative</hi>, <hi rend="italic">Imperative</hi>, <hi rend="italic">Subjunctive</hi>, <hi rend="italic">Optative</hi>, and <hi rend="italic">Infinitive</hi>, to which may be added the <hi rend="italic">Participles</hi>; they are mostly known by means of the <hi rend="italic">union-vowel</hi>--that which immediately precedes the termination.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 42.</hi>  The Indic., Imper., Infin., and Participles correspond to the English, and have a <hi rend="italic">short</hi>  union-vowel, (ε, ο, or α,) except the Perf. and Pluperf. pass., which have no union-vowel; the Pluperf. act. and mid., which have ει; and the Aorists pass., which have η or its equivalent.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 43.</hi>  The Imper. has but two persons. 2d and 3d. The Infin. has but one termination for all numbers and persons, and is very often used as a neut. noun, with the article, etc., yet retaining its construction as a verb.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 44.</hi>  The Subj. and Opt. are used in certain <hi rend="italic">dependent</hi>  relations, like the English subjunctive and potential; the former has a <hi rend="italic">long</hi>  union-vowel, (η or ω,) and the latter a diphthong, (οι, αι, or ει.) The former generally represents an act as contingent upon outward circumstances, and the latter upon a will.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 45.</hi>  The <hi rend="smallcaps">Tenses</hi>  are nine, the <hi rend="italic">Present</hi>, <hi rend="italic">Imperfect</hi>, <hi rend="italic">Perfect</hi>, <hi rend="italic">Pluperfect</hi>, two <hi rend="italic">Aorists</hi>, (1st and 2d, equivalent in sense,) and three <hi rend="italic">Futures</hi>, (1st and 2d, equivalent to each other, and 3d, very rarely used;) they are distinguished by certain letters prefixed, inserted, or added to the stem or root of the verb. They represent time as compared with the <hi rend="italic">present</hi>, and never date from that of a preceding verb.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 46.</hi>  The Pres., Perf., Pluperf., and Fut. answer very nearly to the same tenses in English.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 47.</hi>  The Imperf. denotes an act as going on, but incomplete or habitual at some time past: "<hi rend="italic">was doing</hi>," etc.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 48.</hi>  The Aorists indicate a single act at a definite time, (past in the Indic., but undetermined in the others moods.)</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 49.</hi>  All the tenses with respect to form may be classed thus:--</p>
+                  <table rend="frame" xml:id="Table6">
+                     <row>
+                        <cell>I. <hi rend="italic">Primary</hi>, or Absolute.</cell>
+                        <cell>Present.</cell>
+                        <cell>Perfect.</cell>
+                        <cell>Futures.</cell>
+                     </row>
+                     <row>
+                        <cell>II. <hi rend="italic">Secondary</hi>, or Historical.</cell>
+                        <cell>Imperfect.</cell>
+                        <cell>Pluperfect.</cell>
+                        <cell>Aorists.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">These classes usually have the following endings respectively:--</p>
+                  <p rend="justify">
+                     <hi rend="bold">Active Form.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Persons.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">Middle and Passive.</hi>
+                  </p>
+                  <p rend="justify">I.</p>
+                  <p rend="justify">II.</p>
+                  <p rend="justify">I.</p>
+                  <p rend="justify">II.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Pres. and Fut.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Perf.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Opt.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Sing.</hi>
+                  </p>
+                  <p rend="justify">ο</p>
+                  <p rend="justify">--</p>
+                  <p rend="justify">ν</p>
+                  <p rend="justify">μι</p>
+                  <p rend="justify">1st</p>
+                  <p rend="justify">μαι</p>
+                  <p rend="justify">μην</p>
+                  <p rend="justify">ις</p>
+                  <p rend="justify">ς</p>
+                  <p rend="justify">2d</p>
+                  <p rend="justify">σαι</p>
+                  <p rend="justify">(σ)ο</p>
+                  <p rend="justify">ι</p>
+                  <p rend="justify">--</p>
+                  <p rend="justify">3d</p>
+                  <p rend="justify">ται</p>
+                  <p rend="justify">το</p>
+                  <p rend="justify">
+                     <hi rend="italic">Plur.</hi>
+                  </p>
+                  <p rend="justify">μεν</p>
+                  <p rend="justify">1st</p>
+                  <p rend="justify">μεϑα</p>
+                  <p rend="justify">τε</p>
+                  <p rend="justify">2d</p>
+                  <p rend="justify">σϑε</p>
+                  <p rend="justify">(ντ) σι (ν)</p>
+                  <p rend="justify">(σα)ν</p>
+                  <p rend="justify">3d</p>
+                  <p rend="justify">νται</p>
+                  <p rend="justify">ντο</p>
+                  <p rend="justify">[2d, τον, 3d, την.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Dual.</hi>  1st, μεϑον, 2d, σϑον, 3d, σϑην.]</p>
+                  <p rend="justify">
+                     <hi rend="italic">Notes on the Table of Verb Endings.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 50.</hi>  In the Pres. and Fut. the ο of the 1st sing. act. is contracted (with the union-vowel) into ω, and the σαι of the 2d sing. pass. into ῃ or ει.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 51.</hi>  Signification limits the primary terminations to the Indic. and Subj., and the secondary to the Indic. and Opt.: likewise the Imperf. and Pluperf. to the Indic., and the Imper. to the Pres., the Aorists and (rarely) the Perf.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 52.</hi>  The <hi rend="italic">active</hi>  terminations are assumed throughout by the Perf. and Pluperf. mid., and the Aorists pass.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 53.</hi>  The terminations of the Imper. are analogous to the secondary in the act., and in the mid. and pass. they are merely the same strengthened, thus: <hi rend="italic">Sing.</hi>  2d,--[Aor. pass, ϑι, 1st Aor. act. (σ)ov] (pass. ο [1st Aor. mid. ι] or σο); 3d, τω (pass. σϑω,) <hi rend="italic">Plur.</hi>  2d, τε (pass. σϑε); 3d, τωσαν [or contr. ντων] (pass, σϑωσαν. [<hi rend="italic">Dual.</hi>  2d, τον (σϑον); 3d, των (σϑων,)]</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 54.</hi>  The Infin. in the act. forms ends in εν, [contr., with union-vowel into ειν] (Pres., Fut., and 2d Aor.,) αι, (1st Aor.,) or ναι, (Perf. act. and mid. and both Aor. pass.;) elsewhere in σϑαι.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 55.</hi>  In the Participles the stem ends in ντ in the act. forms, (except the Perf. act. and mid., which have ότ;) the rest take μεν, (Perf. pass, μέν.) These latter are [masc. and neut.] of the second declension, the others of the third.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 56.</hi>  Verbs in μι insert σ before the final ι of the 3d pers. sing. Pres. Indic. act., and vary in a few other terminations, chiefly by contraction.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LESSON V.</head>
+               <div type="div3">
+                  <head>VERBS--Continued.</head>
+                  <p rend="justify">
+                     <hi rend="bold">§ 57.</hi> The root of every <hi rend="italic">primitive</hi> verb is a monosyllable, consisting of a short vowel (α, ε, ι, ο, or υ) between two (usually simple) consonants. Sometimes one or the other of the latter has been dropped far back in the etymology. This root is most readily found in the 1st Fut., subject only to euphonic changes. The 2d Aor. always has a monosyllabic root, with a single vowel never long; but this may be somewhat different from the true root. Primitive verbs only have a 2d Aor.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 58.</hi>  The Pres. and Imperf. commonly <hi rend="italic">strengthen</hi>  the root, either by adding a hard consonant, (sometimes more than one,) or (oftener) by changing the root vowel into the corresponding long one or diphthong.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 59.</hi>  The following tenses add certain <hi rend="italic">characteristic</hi>  letters to the root:--</p>
+                  <table rend="frame" xml:id="Table7">
+                     <row>
+                        <cell>1st Fut. and 1st Aor. act. and mid., (of verbs not liquid,) and 3d Fut.</cell>
+                        <cell>ο</cell>
+                     </row>
+                     <row>
+                        <cell>1st Aor. pass.</cell>
+                        <cell>ϑ</cell>
+                     </row>
+                     <row>
+                        <cell>1st Fut. pass.</cell>
+                        <cell>ϑησ</cell>
+                     </row>
+                     <row>
+                        <cell>2d Fut. pass.</cell>
+                        <cell>ηο</cell>
+                     </row>
+                     <row>
+                        <cell>2d (in liquid verbs 1st) Fut. act. and mid.</cell>
+                        <cell>ε</cell>
+                     </row>
+                     <row>
+                        <cell>Perf. and Pluperf. Act. of pure and liquid verbs</cell>
+                        <cell>κ</cell>
+                     </row>
+                     <row>
+                        <cell>Perf. and pluperf. act. ending in a pi- or kappa-mute</cell>
+                        <cell>(῾)</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">
+                     <hi rend="bold">§ 60.</hi> Tenses expressing <hi rend="italic">past time</hi> (Imperf. and Aorists Indic.) prefix ε ("syllabic <hi rend="italic">augment</hi>") to the root; this coalesces with an initial vowel ("temporal augment") into the corresponding long vowel or diphthong. The Perf., Pluperf., and 3d Fut. not only do the same throughout the moods, but also prefix to the <hi rend="italic">syllabic</hi> augment the initial consonant of the root ("reduplication") when this is a simple consonant or a mute followed by a liquid. The Pluperf. prefixes a second syllabic augment to the reduplication.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 61.</hi>  Initial ρ, (which is doubled after the syllabic augment,) βλ, γλ, and γν, do not, except in a few cases, allow the reduplication. Verbs compounded with a preposition generally take the augment, etc., between it and the primitive. A few other irregularities occur.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 62.</hi>  Verbs are classified in conjugation according to the radical letter following the root vowel, or diphthong, in the 1st pers. sing. Pres. Indic. act., lexicon form: in "liquid" verbs (not derivatives in άνω, which is merely strengthened for άω) this is a <hi rend="italic">liquid</hi>; in "pure" verbs it is absent, so that the root appears to end in a vowel, etc. Very many verbs seem to be anomalous in some of their forms in consequence of deriving these from an obsolete kindred root. The lexicon gives most of these peculiarities.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 63.</hi>
+                     <hi rend="italic">Liquid</hi>  verbs almost always strengthen their root in the Pres. and Imperf.; they lengthen it in the 1st Aor. act. and mid. by changing the root vowel, if α into η, if ε into ει, while ι and ν merely become long. ε as a root vowel is generally changed into α in the 1st Aor. and 1st Fut. pass., the Perf. and Pluperf. act. and pass., and the 2d Aor. and 2d Fut. throughout, and again into ο in the Perf. and Pluperf. mid.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 64.</hi>  The above strengthening in the Pres. and Imperf. consists in doubling λ, annexing ν to μ; or, in case of ν or ρ, in adding ι to a preceding α or ε, or lengthening ι or υ. The radical ν is often dropped in Perf. and Pluperf.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 65.</hi>  Verbs with ε followed by a pi- or kappa-mute in the root frequently neglect to strengthen it in the Pres. and Imperf.; and verbs with ε in the root preceded by a liquid, usually change it into α and ο in the same tenses as liquid verbs, except in the 1st Aor. and Fut. pass.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 66.</hi>
+                     <hi rend="italic">Pure</hi>  verbs lengthen the root vowel before a tense characteristic, also in the Perf. and Pluperf. pass. A few occasionally neglect this, and some insert σ instead.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 67.</hi>  Verbs in μι (lexicon form instead of ω) are but another mode of conjugating pure verbs (being the only primitives of that class whose root ends in α, ε, or o) in the Pres., Imperf., and 2d Aor.; in all which tenses the union-vowel coalesces with the root vowel. They have a peculiar inflection, chiefly by reason of the Imperf. and 2d Aor. act. taking throughout the terminations of the Aorists pass. The Pres. and Imperf. reduplicate with ι the initial consonant, (prefixing simply ί if that cannot be done, and sometimes adopting other modes of strengthening,) and in the act. they lengthen the root in the Indic., α or ε into η, ο into ω. The 2d Aor. (those in υμι being factitious have not this tense) has in the act. a long vowel or diphthong throughout, except the Imperative ε or o, and the Participle.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Notes on Certain Verbs in μι.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 68.</hi>  τίϑημι [<hi rend="italic">to put</hi>] has, in the Act., 1st Aor. ἒϑηκα, Perf. τέϑεικα; ὀίὀωμι [<hi rend="italic">to give</hi>] has, 1st Aor., ἒδωκα.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 69.</hi>  εἰμί [<hi rend="italic">to be</hi>] is inflected thus: εὶ [<hi rend="italic">thou art</hi>], ἐστί(ν) [<hi rend="italic">is</hi>], ἐσμέν, ἐστί, εἰσί(ν) [<hi rend="italic">we, ye, they are</hi>], ἱσϑι [<hi rend="italic">be thou</hi>], ὤν [<hi rend="italic">being</hi>], etc.; the rest mostly regular. See the lexicon for these, and for ἵημι [<hi rend="italic">to send</hi>], and εἰμι [<hi rend="italic">to go</hi>].</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 70.</hi>  Several verbs annex σκω, ίνω, (ν)νυμι, etc., instead of μι, etc., in the Pres. and Imperf.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LESSON VI.</head>
+               <div type="div3">
+                  <head>SYNTAX.--Concord.</head>
+                  <p rend="justify">
+                     <hi rend="bold">§ 71.</hi> All words placed under the same construction agree together in all the accidents which they possess in common.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 72.</hi>  "Apposition" occurs as in English.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 73.</hi>  Adjectives agree with their nouns in gender, number, and case.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 74.</hi>  The noun is often understood, especially if neut., ("things.")</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 75.</hi>  Sometimes a relative is "attracted" into the case of the omitted antecedent.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 76.</hi>  A verb agrees with its subject nominative in number and person.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 77.</hi>  The case of the subject of the Infin. depends upon other relations.</p>
+                  <p rend="justify">
+                     <hi rend="bold">§ 78.</hi>  Neuters plur. generally have a sing. verb.</p>
+                  <div type="div4">
+                     <head>Government.</head>
+                     <p rend="justify">
+                        <hi rend="bold">§ 79.</hi> Any word may govern another (or others) which in sense is <hi rend="italic">dependent</hi> upon it in the case appropriate for expressing such relation either with or without a preposition.</p>
+                     <lg>
+                        <l>     |                &gt;&gt;&gt;---|-----&gt;                |</l>
+                        <l>  Genitive.              Dative.              Accusative.</l>
+                     </lg>
+                     <p rend="justify">
+                        <hi rend="bold">§ 80.</hi>  GENITIVE, denoting <hi rend="italic">origin</hi>, answering to <hi rend="italic">Whence?</hi>  and expressed by <hi rend="italic">from</hi>.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 81.</hi>  "<hi rend="italic">Local</hi>," involving <hi rend="italic">external</hi>  relations of space, either in a literal or a figurative sense. This includes actual <hi rend="italic">motion</hi>  from an object, generally with a preposition, (ἀπό ἐκ παρά;) <hi rend="italic">separation</hi>  from it, usually with verbs compounded with a preposition; and <hi rend="italic">commencement</hi>.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 82.</hi>  "<hi rend="italic">Causal</hi>," denoting a more <hi rend="italic">internal</hi>  relation, as if the outgoing of some agency or property, as follows:--</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 83.</hi>
+                        <hi rend="italic">Active</hi>, either direct, inferential, or metaphysical. This includes relations of source, (e.g., derivation, [commonly with ἐκ, sometimes ἀπό, direct authorship with ὐπό,] possession, property, [often with an Infin.]) <hi rend="italic">partitive</hi>  use, (e.g., a class, material, partial relations,) and the Gen. of time, (in the <hi rend="italic">course</hi>  of which,) especially the "Gen. absolute," with a Participle, as affording occasion.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 84.</hi>
+                        <hi rend="italic">Passive</hi>, that is, indirect, the act being for the sake of the Gen. This includes verbs implying a <hi rend="italic">mental operation</hi>, adjectives, and other words denoting <hi rend="italic">skill</hi>, and the Gen. of <hi rend="italic">crime</hi>  or <hi rend="italic">purpose</hi>, (the last mostly an Infin. with the article.)</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 85.</hi>
+                        <hi rend="italic">Mutual</hi>, e.g., <hi rend="italic">comparison</hi>  and <hi rend="italic">price</hi>  or <hi rend="italic">penalty</hi>.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 86.</hi>  The "attributive Gen." is a comprehensive relation, arising under several of the above heads, between two nouns designating <hi rend="italic">different</hi>  objects, which may be thus expressed: <hi rend="italic">When two nouns are connected with each other, that one which completes the idea of the other and defines it more fully is put in the Gen.</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 87.</hi>
+                        <hi rend="smallcaps">Dative</hi>, denoting <hi rend="italic">position</hi>, answering to <hi rend="italic">Where?</hi>  and expressed by <hi rend="italic">at</hi>.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 88.</hi>  "<hi rend="italic">Local</hi>," involving the more palpable relations of position. This includes the place, (at, by, near, in the midst of; generally with ἐν, ἐπί, παρά, etc.,) <hi rend="italic">association, accompaniment,</hi>  (frequently with σύν,) and the <hi rend="italic">time</hi>  (as a date) or <hi rend="italic">circumstances</hi>  of a transaction.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 89.</hi>  "<hi rend="italic">Causal</hi>," denoting the object <hi rend="italic">upon which</hi>  the act or state appears, thus conceived as sharing in producing it, as follows:--</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 90.</hi>
+                        <hi rend="italic">Personal</hi>, either actually or so imagined. This includes words expressing a <hi rend="italic">correlative</hi>  idea, as community, (in varied relations,) likeness, possession, agency, reference, etc.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 91.</hi>
+                        <hi rend="italic">Instrumental</hi>, as the mediate cause, e.g., the ground or reason, the means, the instrument, manner, and the measure of excess or deficiency.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 92.</hi>  In comprehensive phrase the "attributive Dat." expresses many indirect relations of an object <hi rend="italic">to</hi>  or <hi rend="italic">for</hi>  which an act is performed or a condition sustained.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 93.</hi>
+                        <hi rend="smallcaps">Accusative</hi>, denoting <hi rend="italic">direction</hi>, answering to <hi rend="italic">Whither?</hi>  and expressed by <hi rend="italic">toward</hi>.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 94.</hi>  "<hi rend="italic">Local</hi>" involving the boundary, place, or object of motion, especially with εἰς.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 95.</hi>  "<hi rend="italic">Causal</hi>," involving an influence, change, or result, as impressed upon the object, as follows:--</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 96.</hi>  The <hi rend="italic">effect</hi>, either the thing effected, an attribute of the effect, or the effect intended.</p>
+                     <p rend="justify">
+                        <hi rend="bold">§ 97.</hi>  The <hi rend="italic">object acted upon</hi>, e.g., with directly transitive verbs, those expressing a good or bad influence, patience, swearing, sometimes a mental affection, etc.; also the <hi rend="italic">space</hi>  or <hi rend="italic">way</hi>  after a verb of motion; the time, (<hi rend="italic">throughout</hi>  which,) measure, and weight; and finally ("Attributive Accusative") with any verb or adj. (sometimes other words) to define its application more closely, especially if of kindred signification.</p>
+                  </div>
+                  <div type="div4">
+                     <head>Order of Words in a Sentence.</head>
+                     <p rend="justify">
+                        <hi rend="bold">§ 98.</hi> This is usually not, as in English, that of <hi rend="italic">grammatical</hi> dependence, but rather the order of <hi rend="italic">thought</hi>; important or emphatic words come first, after the connecting particles; prepositions and the article precede their nouns; and qualifying terms are grouped in a harmonious balance around the principal ones.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LESSON VII.</head>
+               <div type="div3">
+                  <head>Exercise on John 1, 1-5.</head>
+                  <lg>
+                     <l>
+                        <hi rend="bold">1</hi> Ἐν<hi rend="sup">1</hi>     ἀρχῇ<hi rend="sup">2</hi>      ἦν<hi rend="sup">3</hi> ὁ<hi rend="sup">4</hi>  Λόγος,<hi rend="sup">5</hi> καὶ<hi rend="sup">6</hi> ὁ<hi rend="sup">4</hi>  Λόγος<hi rend="sup">6</hi> ἦν<hi rend="sup">3</hi>  In  <hi rend="italic">the</hi> beginning was the Word,   and  the Word   was</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">2</hi> πρὸς<hi rend="sup">7</hi> τὸν<hi rend="sup">8</hi> θεόν,<hi rend="sup">9</hi> καὶ<hi rend="sup">6</hi> θεὸς<hi rend="sup">10</hi> ἦν<hi rend="sup">3</hi> ὁ<hi rend="sup">4</hi>  Λόγος.<hi rend="sup">5</hi> Οὗτος<hi rend="sup">11</hi>  with       God,   and  God    was the Word.   This <hi rend="italic">one</hi>
+                     </l>
+                     <l>
+                        <hi rend="bold">3</hi> ἦν<hi rend="sup">3</hi> ἐν<hi rend="sup">1</hi>      ἀρχῇ<hi rend="sup">2</hi>      πρὸς<hi rend="sup">7</hi> τὸν<hi rend="sup">8</hi> θεόν.<hi rend="sup">9</hi> Πάντα<hi rend="sup">12</hi>   δι'<hi rend="sup">13</hi>  was in  <hi rend="italic">the</hi> beginning with       God.   All <hi rend="italic">things</hi> by</l>
+                     <l/>
+                     <l>  αὐτοῦ<hi rend="sup">14</hi> ἐγένετο,<hi rend="sup">15</hi> καὶ<hi rend="sup">6</hi> χωρὶς<hi rend="sup">16</hi> αὐτοῦ<hi rend="sup">14</hi> ἐγένετο<hi rend="sup">15</hi>   οὐδὲ<hi rend="sup">17</hi>  him     were made, and  without him     was made    not even</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">4</hi> ἓν<hi rend="sup">18</hi>      ὃ<hi rend="sup">19</hi>      γέγονεν.<hi rend="sup">20</hi>     Ἐν<hi rend="sup">1</hi> αὐτῷ<hi rend="sup">21</hi>  ζωὴ<hi rend="sup">22</hi>  ἦν,<hi rend="sup">3</hi> καὶ<hi rend="sup">6</hi>  one <hi rend="italic">thing</hi> which    has been made. In  him     life   was, and</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">5</hi> ἡ<hi rend="sup">23</hi>  ζωὴ<hi rend="sup">22</hi> ἦν<hi rend="sup">3</hi> τὸ<hi rend="sup">24</hi> φῶς<hi rend="sup">25</hi> τῶν<hi rend="sup">26</hi> ἀνϑρώπων·<hi rend="sup">27</hi> καὶ<hi rend="sup">6</hi> τὸ<hi rend="sup">24</hi>  the  life  was the  light       of men;     and  the</l>
+                     <l/>
+                     <l>  φως<hi rend="sup">25</hi> ἐν<hi rend="sup">1</hi> τῇ<hi rend="sup">28</hi> σκοτίᾳ<hi rend="sup">29</hi> φαίνει,<hi rend="sup">30</hi> καὶ<hi rend="sup">6</hi> ἡ<hi rend="sup">23</hi> σκοτία<hi rend="sup">31</hi>  light in  the  darkness shines,   and  the darkness</l>
+                     <l/>
+                     <l>  αὐτὸ<hi rend="sup">32</hi> οὐ<hi rend="sup">33</hi> κατέλαβεν.<hi rend="sup">34</hi>  it     not  admitted.</l>
+                  </lg>
+                  <p rend="justify">
+                     <hi rend="smallcaps">Directions</hi>.--Spell the Greek, giving the <hi rend="italic">English</hi>  equivalents of the consonants, (as in § 1,) and the exact <hi rend="italic">phonetic</hi>  value or sound of the vowels. Call the rough breathing <hi rend="italic">h</hi>. Be careful to put the spoken <hi rend="italic">accent</hi>  where it is written. Continue this practice through all the passages given in the following lessons, until the words can be pronounced readily and accurately. Familiarize yourself with the forms of the letters by <hi rend="italic">writing</hi>  them. Let the pupil do this while learning the foregoing grammatical lessons, and after the recitation of each of them let the teacher direct attention, while the passage at the head of the reading lessons is pronounced, to the examples illustrating each point, as they occur--by way of paradigm.</p>
+                  <div type="div4">
+                     <head>Parsing Notes on the Above.</head>
+                     <p rend="justify">1. Ἐν--prep. atonic, § 3; stands first, § 98.</p>
+                     <p rend="justify">2. ἀρχῇ--noun, from nom. ἀρχή, 1st decl. fem., § 28; circumflex, § 6; local dat., § 88; emphatic position, § 98.</p>
+                     <p rend="justify">3. ἦν--verb, irreg. in μι, § 69; 3d pers. sing. imperf. indic. act., § 47; ν appended irreg. as ending, § 49; long vowel, § 67.</p>
+                     <p rend="justify">4. ὁ--art., nom. masc. sing., § 39; agrees with its noun, § 73; following, § 98.</p>
+                     <p rend="justify">5. Αόγος--noun, 2d decl. nom. sing. masc., § 30; subject of ἡν, § 76; balances clause, § 98.</p>
+                     <p rend="justify">6. καί--conj., changed accent, § 5; position, § 98.</p>
+                     <p rend="justify">7. πρός--prep., lit., <hi rend="italic">towards</hi>; gov. acc., § 27; accent, § 5.</p>
+                     <p rend="justify">8. τόν--art., acc. sing. masc., § 39; agreement, § 73.</p>
+                     <p rend="justify">9. θεόν--noun, lit., [the] <hi rend="italic">deity</hi>; 2d decl. masc., § 25; acc. sing., § 30; government, § 94; position, § 98.</p>
+                     <p rend="justify">10. θεός--same as 9; nom. agreeing with subj., § 71; without the art. because the predicate; emphatic position, § 98.</p>
+                     <p rend="justify">11. Οὖτος--pron., § 39; agrees with Αόγος, understood (§ 73) as subj. of sentence; first as connective; accent, § 6; and breathing, § 10.</p>
+                     <p rend="justify">12. Πάντα --adj. pron., from τάς, (stem, πάντ); 3d decl. nom. plur. neut., § 32; indef. without noun expressed, § 74; subject of sentence; emphatic position, § 98.</p>
+                     <p rend="justify">13. δι'--prep, for δια, with final letter elided, § 22.</p>
+                     <p rend="justify">14. αὐτοῦ--adj. pron. used as personal; gen. masc. sing., § 30; causal, § 82. Gen. and dat. of 1st and 2d decl. are always circumflex when accented on last syllable.</p>
+                     <p rend="justify">15. ἐγένετο--verb, <hi rend="italic">came to be</hi>, lit., <hi rend="italic">was born</hi>; from γίνομαι, (for γίγνομαι, strengthened [§ 63] by reduplication, [§ 67,] and then contracted for γιγεν;) depon., § 40; true root γεν, [our <hi rend="italic">kin</hi>,] § 57, here appearing in 2d aor. mid., § 48; ἐ is simple aug., (hence the verb is in the indic., § 60;) third ε is mood-vowel, § 42; το is 3d pers. sing. mid., § 49; agreement with subj., § 78.</p>
+                     <p rend="justify">16. χωρίς--prep., lit., <hi rend="italic">apart</hi>; accent, § 5; case after, § 81.</p>
+                     <p rend="justify">17. οὐδέ--compound neg. particle, from οὐ and δε.</p>
+                     <p rend="justify">18. ἓv--numeral adj., § 74; 3d decl. nom. sing. neut., § 32; subj. of ἐγένετο.</p>
+                     <p rend="justify">19. ὃ--relative adj., § 39; 2d decl. nom. sing. neut., § 34; agreement, § 73; subj. of γέγονε.</p>
+                     <p rend="justify">20. γέγονεν--verb, same as 15; root-vowel changed in perf. mid., § 63; γε is reduplication, § 60; last ε is mood-vowel of indic., § 42; no additional ending, § 44; hence 3d pers. sing. (perf.) act., § 52; final ν added before pause, § 17.</p>
+                     <p rend="justify">21. αὐτῳ-- pron., same as 14; dat. sing. masc., § 30; government, as 2.</p>
+                     <p rend="justify">22. ζωή --noun, 1st decl. fem. nom. sing., § 28; subject of verb following.</p>
+                     <p rend="justify">23. ἡ--art., fem. nom. sing., § 39; agrees with ζωή, § 73; atonic, § 3.</p>
+                     <p rend="justify">24. τό--art., neut. nom. sing., § 39; agrees with φῶς.</p>
+                     <p rend="justify">25. φῶς--noun, 3d. decl. nom. sing. neut., (stem φῶτ for φάοτ); ς here added (as some neut. nouns have) and τ dropped, § 14; predicate nom., § 71.</p>
+                     <p rend="justify">26. τῶν--art., gen. plur. masc., § 39; agreement, § 73.</p>
+                     <p rend="justify">27. ἀνϑρώπων--noun, from ἄν. ϑρωπος; 2d decl. gen. plur. masc., § 32; government, § 86; accent, § 4.</p>
+                     <p rend="justify">28. τῇ--art., dat. sing. fem., § 39; agreement, § 73.</p>
+                     <p rend="justify">29. σκοτία--noun from σκοτία; 1st decl. dat. sing. fem., § 29; final α, § 29; ι subscript, § 9; government, § 88.</p>
+                     <p rend="justify">30. φαίνει--verb, from φαίνω; root, φαν, strengthened, § 64; ε is mood-vowel of indic., § 42; final ι is tense-ending of pres. 3d sing. act., § 49; agrees with φῶς, § 76.</p>
+                     <p rend="justify">31. σκοτία--noun, as 29; nom. sing., subj. of clause.</p>
+                     <p rend="justify">32. αὐτό--pron., as 21; acc. neut. sing., § 39; object of κατέλαβε, § 97.</p>
+                     <p rend="justify">33. οὐ-- simple neg. adv.; atonic, § 3.</p>
+                     <p rend="justify">34. κατέλαβεν--verb, from καταλαμβάνω; comp. of κατά, <hi rend="italic">down</hi>, and λαμβάνω, <hi rend="italic">I receive</hi>; the root of the simple verb is λαβ, here appearing in the 2d Aor., § 57; aug., § 60, excluding final α of prep., § 61; last ε likewise shows indic., § 42; no tense-ending in 3d pers. sing. act. secondary, § 49  ν appended. § 17. The tense expresses the act of the Jews in rejecting Christ.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Lesson VIII.</head>
+               <div type="div3">
+                  <head>Exercise on John 1, 6-11.</head>
+                  <lg>
+                     <l>
+                        <hi rend="bold">6</hi> Ἐγένετο<hi rend="sup">1</hi>  ἄνϑρωπος<hi rend="sup">2</hi> ἀπεσταλμένος<hi rend="sup">3</hi> παρὰ<hi rend="sup">4</hi> θεοῦ,<hi rend="sup">5</hi> ὄνομα<hi rend="sup">6</hi>   <hi rend="italic">There</hi> was a man     sent          from  God,   <hi rend="italic">the</hi> name</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">7</hi> αὐτῷ<hi rend="sup">7</hi>       Ἰωάννης·<hi rend="sup">8</hi> οὗτος<hi rend="sup">9</hi>    ἠλϑεν<hi rend="sup">10</hi> εἰς<hi rend="sup">11</hi> μαρτυρίαν,<hi rend="sup">12</hi> ἵνα<hi rend="sup">13</hi>   to him <hi rend="italic">was</hi>    John:   this <hi rend="italic">one</hi> came     for   testimony    that</l>
+                     <l/>
+                     <l>   μαρτυρήσῃ<hi rend="sup">14</hi>         περὶ<hi rend="sup">15</hi>     τοῦ<hi rend="sup">16</hi> Φωτός,<hi rend="sup">17</hi> ἵνα<hi rend="sup">13</hi> πάντες<hi rend="sup">18</hi>   <hi rend="italic">he</hi> might testify concerning   the   Light,  that    all</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">8</hi> πιστεύσωσι<hi rend="sup">19</hi>     δἰ<hi rend="sup">20</hi>   αὐτοῦ.<hi rend="sup">21</hi> Οὐκ<hi rend="sup">22</hi> ἦν<hi rend="sup">23</hi> ἐκεῖνος<hi rend="sup">24</hi>  τὸ<hi rend="sup">25</hi> Φῶς,<hi rend="sup">26</hi>   might believe through   him.    Not  was  that <hi rend="italic">one</hi>  the  Light,</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">9</hi> ἀλλ'<hi rend="sup">27</hi> ἵνα<hi rend="sup">13</hi> μαρτυρήσῃ<hi rend="sup">14</hi>         περὶ<hi rend="sup">15</hi>   τοῦ<hi rend="sup">16</hi> Φωτός.<hi rend="sup">17</hi>  Ἠν<hi rend="sup">23</hi>   but    that <hi rend="italic">he</hi> might testify concerning the   Light.   <hi rend="italic">There</hi> was</l>
+                     <l/>
+                     <l>   τὸ<hi rend="sup">25</hi> Φῶς<hi rend="sup">26</hi> τὸ<hi rend="sup">25</hi> ἀληϑινόν,<hi rend="sup">28</hi>  ὃ<hi rend="sup">29</hi> φωτίζει<hi rend="sup">30</hi> πάντα<hi rend="sup">31</hi> ἄνϑρωπον,<hi rend="sup">32</hi>   the  Light the  true <hi rend="italic">one</hi>, which lights    every     man,</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">10</hi> ἐρχόμενον<hi rend="sup">33</hi> εἰς<hi rend="sup">11</hi> τὸν<hi rend="sup">34</hi> κόσμον.<hi rend="sup">35</hi> Ἐν<hi rend="sup">36</hi> τῷ<hi rend="sup">37</hi> κόσμῳ<hi rend="sup">38</hi> ἦv,<hi rend="sup">23</hi>   coming      into  the  world.   In   the  world   <hi rend="italic">he</hi> was,</l>
+                     <l/>
+                     <l>   καὶ<hi rend="sup">39</hi> ὁ<hi rend="sup">40</hi> κόσμος<hi rend="sup">41</hi>   δἰ<hi rend="sup">20</hi>   αὐτοῦ<hi rend="sup">21</hi> ἐγένετο,<hi rend="sup">1</hi> καὶ<hi rend="sup">39</hi> ὁ<hi rend="sup">40</hi> κόσμος<hi rend="sup">41</hi>   and  the  world  through   him    was made, and the   world</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">11</hi> αὐτὸν<hi rend="sup">42</hi> οὐκ<hi rend="sup">22</hi> ἔγνω.<hi rend="sup">43</hi> Εἰς<hi rend="sup">11</hi> τὰ<hi rend="sup">44</hi> ἴδια<hi rend="sup">45</hi>       ἧλϑε,<hi rend="sup">10</hi> καὶ<hi rend="sup">39</hi> οἱ<hi rend="sup">46</hi>   him     not  knew.   To    the  own <hi rend="italic">things he</hi> came, and the</l>
+                     <l/>
+                     <l>   ἴδιοι<hi rend="sup">47</hi>     αὐτὸν<hi rend="sup">42</hi> οὐ<hi rend="sup">22</hi> παρέλαβαν.<hi rend="sup">48</hi>   own <hi rend="italic">persons</hi> him   not    received.</l>
+                  </lg>
+                  <p rend="justify">1. Ἐγένετο--See lesson vii, No. 15.</p>
+                  <p rend="justify">2. ἄνϑρωπος--See vii, 27; subj. of sentence.</p>
+                  <p rend="justify">3. ἀπεσταλμένος--part. from ἀποστέλλω, lit., <hi rend="italic">I send away</hi>; comp. of prep, ἀπό, <hi rend="italic">off</hi>, and στέλλω, <hi rend="italic">I send</hi>; root στελ, vowel changed, § 63; aug. cuts off final ο of prep., § 61; no reduplication, § 60; perf. tense because aug. beyond indic., § 60; and no union-vowel, § 42; pass. part. ending μεν, (§ 55,) accent; ος is nom. masc. sing., §§ 34, 30; agrees with ἄνϑρωπος, § 73.</p>
+                  <p rend="justify">4. παρά--prep., lit., <hi rend="italic">near</hi>; with gen., =<hi rend="italic">from near</hi>.</p>
+                  <p rend="justify">5. θεοῦ--See vii, 9, 10; here gen., § 81.</p>
+                  <p rend="justify">6. ὄνομα--noun; neut, 3d decl. nom. sing.; (stem, ονοματ, final mute always dropped for euphony;) subj. to <hi rend="italic">was</hi>  understood, (copula may freely be supplied.)</p>
+                  <p rend="justify">7. αὐτῷ--pers. adj. pron.; dat. sing. masc. from αὐτός, vii, 14; governed, § 92.</p>
+                  <p rend="justify">8. Ἰωάννης--prop. noun; 1st decl. masc. nom. sing., § 28; predicate after neut. verb, (understood,) agreeing with subj., § 71.</p>
+                  <p rend="justify">9. οὗτος--See vii, 11.</p>
+                  <p rend="justify">10. ἠλϑεν--verb, assigned to ἔρχομαι, but really from defective ἐλεύϑω; root, ελϑ; temporal aug., [ε+ε=η,] § 60; hence indic., as union-vowel (ε) following also shows, § 42; simple root 2d aor., § 57; hence no tense ending in 3d pers. sing. act., § 49; ν appended, § 17; accent, § 6.</p>
+                  <p rend="justify">11. εἰς--prep., lit., <hi rend="italic">to</hi>, that is, here, <hi rend="italic">for the purpose of</hi>; atonic, § 3.</p>
+                  <p rend="justify">12. μαρτυρίαν--noun; 1st decl. fem. acc. sing., from ία, § 28; governed, § 96.</p>
+                  <p rend="justify">13. ἵνα--conj., meaning, <hi rend="italic">in order that</hi>; introducing dependent clause.</p>
+                  <p rend="justify">14. μαρτυρήσῃ--verb, from μαρτυρέω; first η is root-vowel, lengthened before tense-sign, (§ 66,) which is σ of 1st fut., § 59; ῃ is union-vowel of subj., (§ 44,) the subscribed ι being 3d pers. sing. act., § 49; accent, § 4.</p>
+                  <p rend="justify">15. περῖ--prep., lit., <hi rend="italic">around</hi>; governs gen., § 82.</p>
+                  <p rend="justify">16. τοῦ--art.; gen. sing. neut., § 39.</p>
+                  <p rend="justify">17. Φωτός--noun, see vii, 25. Gen. (sing.) and dat. (sing. and plur.) of monosyllables of 3d decl. accent the ultimate.</p>
+                  <p rend="justify">18. πάντες--See vii, 12; nom. masc. plur., <hi rend="italic">men</hi>  being understood, § 74; subj. of clause.</p>
+                  <p rend="justify">19. πιστεύσωσι--verb, from πιστεύω; second σ is sign of 1st fut., § 59; ω sign of subj., § 44; σι 3d plur. act., § 49.</p>
+                  <p rend="justify">20. δἰ--See vii, 13.</p>
+                  <p rend="justify">21. αὐτοῦ--See vii, 14.</p>
+                  <p rend="justify">22. Οὐκ--neg. adv., same as οὐ, (vii, 83,) with euphonic κ before a vowel.</p>
+                  <p rend="justify">23. ἦν--See vii, 3.</p>
+                  <p rend="justify">24. ἐκεῖνος--demonst, adj. pron., § 39; =<hi rend="italic">he</hi>, nom. masc. sing., subj. of sentence, § 27; accent, § 6.</p>
+                  <p rend="justify">25. τὸ--See vii, 24.</p>
+                  <p rend="justify">26. Φῶς--See vii, 25.</p>
+                  <p rend="justify">27. ἀλλ᾿--conj. for ἀλλά, final vowel elided, § 22.</p>
+                  <p rend="justify">28. ἀληϑινόν--adj., from ἀληϑινός; neut. 2d decl., § 34; nom. sing., § 30; agreeing with Φῶς, § 73.</p>
+                  <p rend="justify">29. ὃ--See vii, 19.</p>
+                  <p rend="justify">30. φωτίζει--verb, from φωτίζω; strengthened root, § 58; ε union vowel of indic., § 42; final ι 3d sing. (pres.) act., § 49.</p>
+                  <p rend="justify">31. πάντα--indef. adj., see No. 18; acc. sing. masc. agreeing with ἄνϑρωπον, § 73.</p>
+                  <p rend="justify">32. ἄνϑρωπον--noun, see No. 2; acc. sing., § 30; governed, § 97.</p>
+                  <p rend="justify">33. ἐρχόμενον--part. from ἔρχομαι, see No. 10; deponent, § 40; pres. pass., § 55; sing., § 30; either acc. masc., (and then agreeing with ἄνϑρωπον,) or, as is better, (see John iii, 19,) nom. neut., (and then agreeing with φῶς.)</p>
+                  <p rend="justify">34. τόν--See vii, 8.</p>
+                  <p rend="justify">35. κόσμον--noun, from κόσμος; acc. sing. 2d decl., § 30; governed, § 94.</p>
+                  <p rend="justify">36. ἐν--See vii, 1.</p>
+                  <p rend="justify">37. τῷ--art., dat. sing. masc., § 39; agrees with κοσμῳ, § 73.</p>
+                  <p rend="justify">38. κόσμῳ--noun, see No. 35; dat. sing., § 8.</p>
+                  <p rend="justify">39. καί--See vii, 6.</p>
+                  <p rend="justify">40. ὁ--See vii, 4.</p>
+                  <p rend="justify">41. κόσμος--noun, see No. 35; subj., § 27.</p>
+                  <p rend="justify">42. αὐτόν--pron., see No. 7; acc. sing. masc., § 97.</p>
+                  <p rend="justify">43. ἔγνω--verb, from γιγνώσκω, (strengthened [§ 70] from root γνω, [§ 67,] =our <hi rend="italic">know</hi>); 2d aor., § 57; ε is augment of indic., § 60; ω is root and union-vowel, § 67; no other ending, hence 3d sing. act., § 49.</p>
+                  <p rend="justify">44. τὰ--art., plur. neut. acc., § 39.</p>
+                  <p rend="justify">45. ἴδια--adj., fr. ἴδιος; plur. neut. acc., § 30; agreement, § 74; meaning <hi rend="italic">home</hi>  here, (lit., <hi rend="italic">the own</hi>  things of him;) government, § 44.</p>
+                  <p rend="justify">46. οἱ--art., nom. plur. masc., § 39.</p>
+                  <p rend="justify">47. ἴδιοι--adj., see No. 45; nom. plur. masc., § 30; meaning <hi rend="italic">family</hi>  here, § 74; subj., § 27.</p>
+                  <p rend="justify">48. παρέλαβον--verb from παραλαμβάνω, compounded with παρά, <hi rend="italic">near</hi>, (see No. 4,) as in vii, 34; 2d aor., § 57; indic., § 42; 3d plur., § 49.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LESSON IX.</head>
+               <div type="div3">
+                  <head>EXERCISE ON JOHN 1, 12-18.</head>
+                  <lg>
+                     <l>
+                        <hi rend="bold">12</hi> Ὁσοι<hi rend="sup">1</hi>    δὲ<hi rend="sup">2</hi>      ἔλαβον<hi rend="sup">3</hi>  αὐτόν,<hi rend="sup">4</hi> ἔδωκεν<hi rend="sup">5</hi> αὐτοῖς<hi rend="sup">6</hi> ἐξσυσίαν<hi rend="sup">7</hi>   Whoever, however, received him,    he gave to them privilege</l>
+                     <l/>
+                     <l>   τέκνα<hi rend="sup">8</hi>      θεοῦ<hi rend="sup">9</hi> γενέσϑαι,<hi rend="sup">10</hi> τοῖς<hi rend="sup">11</hi>       πιστεύουσιν<hi rend="sup">12</hi> εἰς<hi rend="sup">13</hi> τὸ<hi rend="sup">14</hi>   children of God   to become,  to the <hi rend="italic">ones</hi> believing     to    the</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">13</hi> ὄνομα<hi rend="sup">15</hi> αὐτοῦ·<hi rend="sup">16</hi> οἳ<hi rend="sup">17</hi> οὐκ<hi rend="sup">18</hi> ἐξ<hi rend="sup">19</hi> αἱμάτων,<hi rend="sup">20</hi> οὐδὲ<hi rend="sup">21</hi> ἐκ</l>
+                     <l>   name    of him;  who  not   out  of bloods, nor    out of</l>
+                     <l/>
+                     <l>   ϑελήματος<hi rend="sup">22</hi> σαρκός,<hi rend="sup">23</hi> οὐδὲ ἐκ  ϑελήματος<hi rend="sup">22</hi> ἀνδρός,<hi rend="sup">24</hi> ἀλλ'<hi rend="sup">25</hi> ἐκ</l>
+                     <l>   will        of flesh, nor  out of will     of man,   but    out</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">14</hi> θεοῦ   ἐγεννήϑησαν.<hi rend="sup">26</hi> Καὶ ὁ   Λόγος<hi rend="sup">27</hi> σὰρξ28 ἐγένετο,<hi rend="sup">29</hi> καὶ</l>
+                     <l>   of God were born.     And the Word    flesh  became,    and</l>
+                     <l/>
+                     <l>   ἐσκήνωσεν<hi rend="sup">30</hi> ἐν<hi rend="sup">31</hi>  ἡμῖν,<hi rend="sup">32</hi> (καὶ ἐϑεασάμεϑα<hi rend="sup">33</hi> τὴν δόξαν<hi rend="sup">34</hi>   tented      among us,      and we beheld    the glory   of</l>
+                     <l/>
+                     <l>   αὐτοῦ, δόξαν ὡς<hi rend="sup">35</hi> μονογενοῦς<hi rend="sup">36</hi>     παρά<hi rend="sup">37</hi>    Πατρός,<hi rend="sup">38</hi>)   πλήρης<hi rend="sup">39</hi>   him, glory as   of <hi rend="italic">an</hi> only-born near from <hi rend="italic">a</hi> Father,) full</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">15</hi> χάριτος<hi rend="sup">40</hi> καὶ ἀληϑείας.<hi rend="sup">41</hi> Ἰωάννης<hi rend="sup">42</hi> μαρτυρεῖ<hi rend="sup">43</hi> περὶ<hi rend="sup">44</hi>   of grace  and truth.      John      testifies  about</l>
+                     <l/>
+                     <l>  αὐτοῦ,  καὶ κέκραγε<hi rend="sup">45</hi>  λέγων·<hi rend="sup">46</hi> Οὗτος<hi rend="sup">47</hi> ἦν<hi rend="sup">48</hi>     ὃν<hi rend="sup">49</hi>  εἶπον·<hi rend="sup">50</hi> Ὁ</l>
+                     <l>   him, and has cried, saying.  This    was <hi rend="italic">he</hi> whom  I said,  The</l>
+                     <l/>
+                     <l>   ὀπίσω<hi rend="sup">51</hi>           μοῦ<hi rend="sup">52</hi> ἐρχόμενος<hi rend="sup">53</hi> ἔμπροσϑέν<hi rend="sup">54</hi> μου γέγονεν,<hi rend="sup">55</hi>  ὅτι<hi rend="sup">56</hi>   <hi rend="italic">one</hi> behind me    coming,     before      me  has become; because</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">16</hi> πρῶτός<hi rend="sup">57</hi> μου   ἦν.     Καὶ ἐκ  τοῦ    πληρώματος<hi rend="sup">58</hi> αὐτοῦ  ἡμεῖς<hi rend="sup">59</hi>   first    of me he was. And out of the fullness     of him WE</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">17</hi> πάντες<hi rend="sup">60</hi> ἐλάβομεν,<hi rend="sup">61</hi> καὶ<hi rend="sup">62</hi> χάριν<hi rend="sup">63</hi> ἀντὶ<hi rend="sup">64</hi> χάριτος· ὅτι     ὁ</l>
+                     <l>   all      received,   and   grace   for    grace:   because the</l>
+                     <l/>
+                     <l>   νόμος<hi rend="sup">65</hi> δίὰ     Μωϋσέως<hi rend="sup">66</hi> εδόϑη,<hi rend="sup">67</hi>   ἡ   χάρις καὶ ἡ   ἀλήϑεια</l>
+                     <l>   law      through Moses     was given; the grace and the truth</l>
+                     <l/>
+                     <l>
+                        <hi rend="bold">18</hi> διὰ     Ἰησοῦ<hi rend="sup">68</hi> Χριστοῦ<hi rend="sup">69</hi> ἐγένετο.<hi rend="sup">70</hi> θεὸν<hi rend="sup">71</hi> οὐδείς<hi rend="sup">72</hi> ἐώρακε<hi rend="sup">73</hi>   through Jesus   Christ    became.    God    no-one   has seen</l>
+                     <l/>
+                     <l>   πώποτε·<hi rend="sup">74</hi> ὁ   μονογενὴς<hi rend="sup">75</hi> Υἱός,<hi rend="sup">76</hi> ὁ         ὢν<hi rend="sup">77</hi>  εἰς<hi rend="sup">78</hi>  τὸν</l>
+                     <l>   ever;     the only-born   Son,    the <hi rend="italic">one</hi>  being into   the</l>
+                     <l/>
+                     <l>   κόλπον<hi rend="sup">79</hi> τοῦ    Πατρός, ἐκεῖνος<hi rend="sup">80</hi>   ἐξηγήσατο.<hi rend="sup">81</hi>   bosom    of the Father, that <hi rend="italic">one</hi> explained <hi rend="italic">Him</hi>.</l>
+                  </lg>
+                  <p rend="justify">1. Comp. ὅσος, § 39; nom. plur. masc., § 30.</p>
+                  <p rend="justify">2. Not first, § 98.</p>
+                  <p rend="justify">3. λαμβάνω, vii, 34; 3 plur. 2 aor. act.</p>
+                  <p rend="justify">4. vii, 14; acc. sing. masc., § 39; gov., § 97.</p>
+                  <p rend="justify">5. διδωμι, § 68; 3 sing., § 49; aug., § 60; mood-vowel, § 42; ν, § 17.</p>
+                  <p rend="justify">6. No. 4; dat. plur. masc., § 92.</p>
+                  <p rend="justify">7. ἐξονσία, § 28; acc. sing., § 97.</p>
+                  <p rend="justify">8. τέκυον, § 30; acc. sing., after neut. verb γενέσϑαι, § 72.</p>
+                  <p rend="justify">9. vii, 9; gen. sing. § 86.</p>
+                  <p rend="justify">10. vii, 15; 2 aor. mid. infin., § 54; accent peculiar.</p>
+                  <p rend="justify">11. vii, 4; dat. plur. masc., § 73.</p>
+                  <p rend="justify">12. πιστεύω; str. pres., § 58; act. part., § 55; οντς (§ 42) becomes ους, §§ 14, 16, 19; 3 decl., § 55; dat. plur., § 32; agrees with αὐτοῖς, § 72; as if a noun, § 74.</p>
+                  <p rend="justify">13. viii, 9; denotes <hi rend="italic">close union</hi>.</p>
+                  <p rend="justify">14. § 39; agree., § 73.</p>
+                  <p rend="justify">15. neut. 3 decl. acc. sing., § 32; τ dropped in stem υατ, § 18; gov., § 94.</p>
+                  <p rend="justify">16. As No. 6; gov., § 86.</p>
+                  <p rend="justify">17. vii, 19; nom. plur. masc., § 30; subj. of ἐγεννήϑησαν, § 27.</p>
+                  <p rend="justify">18. viii, 8.</p>
+                  <p rend="justify">19. For ἐκ before a vowel, § 18; atonic, § 3.</p>
+                  <p rend="justify">20. αἷμα, neut. 3 decl. like No. 15; gen., § 81; plur. is Hebraistic, of natural descent; accent, § 4.</p>
+                  <p rend="justify">21. vii, 17, used as conj.</p>
+                  <p rend="justify">22. ϑέλημα, like No. 15; gov., § 81.</p>
+                  <p rend="justify">23. σάρξ, fem. 3 decl., § 32; gov., § 86; accent special.</p>
+                  <p rend="justify">24. ἀνήρ, irreg. 3 decl.; gen. sing., § 86.</p>
+                  <p rend="justify">25. vii, 20.</p>
+                  <p rend="justify">26. γεννάω, strictly, <hi rend="italic">I beget</hi>; prim. as vii, 15; 2 aor. pass. 3 plur., (analyze.)</p>
+                  <p rend="justify">27. vii, 5.</p>
+                  <p rend="justify">28. No. 23; nom. sing., § 32; ξ, § 13.</p>
+                  <p rend="justify">29. vii, 15.</p>
+                  <p rend="justify">30. σκηνόω, from σκῆνος, <hi rend="italic">a tent</hi>; 1 aor. act. 3 sing., (analyze.)</p>
+                  <p rend="justify">31. vii, 1.</p>
+                  <p rend="justify">32. § 38; gov., § 88.</p>
+                  <p rend="justify">33. ϑείομαι, depon., § 40; 1 aor, mid., 1 plur., (analyze;) subj. ἡμεῖς understood, <hi rend="italic">unemphatic</hi>.</p>
+                  <p rend="justify">34. δόξα, § 29; acc. sing., § 97.</p>
+                  <p rend="justify">35. atonic, § 3.</p>
+                  <p rend="justify">36. μονογενής, 3 decl., two term., § 34; gen. sing. masc., § 86; έος becomes οῦς, § 6.</p>
+                  <p rend="justify">37. Takes gen., dat., or acc.</p>
+                  <p rend="justify">38. πατήρ, 3 decl., contr. like No. 24; gov., § 81.</p>
+                  <p rend="justify">39. 3 decl., like No. 36; nom. sing. masc., § 73.</p>
+                  <p rend="justify">40. χάρις, (τ dropped, § 14); 3 decl. fem. sing., § 83.</p>
+                  <p rend="justify">41. ἀλήϑεια, § 29; gen.sing., § 83; accent, § 4.</p>
+                  <p rend="justify">42. 1 decl. masc., § 28.</p>
+                  <p rend="justify">43. μαρτυρέω, § 62; pres. ind. act., § 42; 3 sing., § 49; έει becomes εῖ, § 20.</p>
+                  <p rend="justify">44. Gen. as if <hi rend="italic">from</hi>  the center, § 81.</p>
+                  <p rend="justify">45. κράξω, (§ 58) for κραγ, § 57; perf. act., § 60; irreg., § 59; 3 sing., § 49.</p>
+                  <p rend="justify">46. λέγω, § 65; pres. part. act., § 55; nom. masc. sing., § 32; ων for οντς, § 19, and viii, 5.</p>
+                  <p rend="justify">47. § 39.</p>
+                  <p rend="justify">48. vii, 3.</p>
+                  <p rend="justify">49. vii, 19; acc. sing. masc., attrib., § 97.</p>
+                  <p rend="justify">50. Def. verb; 2 aor. act. ind., 3 sing. for εεπ, (analyze.)</p>
+                  <p rend="justify">51. Gov. gen. like No. 44.</p>
+                  <p rend="justify">52. § 38.</p>
+                  <p rend="justify">53. ἔρχομαι, depon., § 40; pres. part., § 55; nom. masc. sing., § 30.</p>
+                  <p rend="justify">54. No. 51; accent from "enclitic," § 3.</p>
+                  <p rend="justify">55. vii, 20.</p>
+                  <p rend="justify">56. Conj.</p>
+                  <p rend="justify">57. For πρότατος, § 35; gov. gen. compar., (§ 85,) or attrib., § 86.</p>
+                  <p rend="justify">58. πλήρωμα, like No. 22; gov., § 81.</p>
+                  <p rend="justify">59. § 38; emphat., No. 33.</p>
+                  <p rend="justify">60. vii, 12; nom. plur. masc., § 73.</p>
+                  <p rend="justify">61. No. 3; 1 plur., § 49.</p>
+                  <p rend="justify">62. <hi rend="italic">Even.</hi>
+                  </p>
+                  <p rend="justify">63. No. 40; acc. sing., § 32; depends upon ἐλάβομεν, § 97; τ of stem dropped, § 18.</p>
+                  <p rend="justify">64. Gov. gen., § 85.</p>
+                  <p rend="justify">65. § 30.</p>
+                  <p rend="justify">66. Μωϋσέως, § 32; Attic gen., § 33; gov., § 82.</p>
+                  <p rend="justify">67. δίδωμι, § 67; reg. in 1 aor. pass., § 59; irreg. short root vowel, § 66; long union-vowel, § 42; 3 sing., § 52.</p>
+                  <p rend="justify">68. Irreg. gen. sing. from Ἰησοῦς, § 30.</p>
+                  <p rend="justify">69. Χριστός, § 40.</p>
+                  <p rend="justify">70. vii, 15.</p>
+                  <p rend="justify">71. vii, 9.</p>
+                  <p rend="justify">72. Comp. of οὐδέ, vii, 17, and εἷς, numeral, irreg.</p>
+                  <p rend="justify">73. ὁράω, irreg. redup., § 60; perf. act., § 59; 3 sing.</p>
+                  <p rend="justify">74. Comp. adv.</p>
+                  <p rend="justify">75. No. 36.</p>
+                  <p rend="justify">76. § 30.</p>
+                  <p rend="justify">77. εἰμί, § 69; like No. 46.</p>
+                  <p rend="justify">78. No 13.</p>
+                  <p rend="justify">79. § 30.</p>
+                  <p rend="justify">80. viii, 19.</p>
+                  <p rend="justify">81. Depon. ἐξηγήομαι, § 40; 1 aor. mid., § 59; aug. merged in first η, § 61; indic., § 42; 3 sing., § 49.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LESSON X.</head>
+               <div type="div3">
+                  <head>EXERCISE ON OUR LORD'S PRAYER, (Matt, vi, 9-13; Luke xi, 2-4.)</head>
+                  <lg>
+                     <l>Οὕτως οὖν       προσεύχεσϑε<hi rend="sup">1</hi>  ὑμεῖς· (Ὅταν     προσεύχησϑε,<hi rend="sup">2</hi>Thus  therefore     pray      YE:  (Whenever    ye pray,</l>
+                     <l/>
+                     <l>λέγετε·<hi rend="sup">3</hi>) Πάτερ<hi rend="sup">4</hi>  ἡμῶν   ὁ        ἐν τοῖς οὐρανοῖς,<hi rend="sup">5</hi>  ἁγιασϑήτω<hi rend="sup">6</hi>      τὸ</l>
+                     <l>say:)     Father of us, the <hi rend="italic">one</hi>  in the  heavens, let be hallowed the</l>
+                     <l/>
+                     <l>ὄνομά<hi rend="sup">7</hi>  σου,     έλϑέτω<hi rend="sup">8</hi>   ἡ  βασιλεία<hi rend="sup">9</hi>  σου,     γενηϑήτω<hi rend="sup">10</hi>   τὸ</l>
+                     <l>name   of thee; let come the kingdom   of thee; let be done  the</l>
+                     <l/>
+                     <l>ϑέλημἄ<hi rend="sup">11</hi>  σου      ως ἐν οὐρανῷ<hi rend="sup">12</hi>  καὶ  ἐπὶ  τῆς γῆς,<hi rend="sup">13</hi>  τὸν ἄρτον<hi rend="sup">14</hi>will   of thee,   as in heaven, also upon the earth; the bread</l>
+                     <l/>
+                     <l>ἡμῶν   τὸν ἐπιούσιον<hi rend="sup">15</hi>  δὸς<hi rend="sup">16</hi>  (δίδου<hi rend="sup">17</hi>) ἡμῖν  σήμερον,<hi rend="sup">18</hi>     (τὸ<hi rend="sup">19</hi>of us, the  needful,   give  (give)   to us to-day; <hi rend="italic">as to</hi>  the <hi rend="italic">time</hi>
+                     </l>
+                     <l>καϑ᾽<hi rend="sup">20</hi>  ἡμέραν,<hi rend="sup">21</hi>) καὶ ἄφες<hi rend="sup">22</hi>  ἡμῖν  τὰ  ὀφειλήματα<hi rend="sup">23</hi>  (τὰς ἁμαρτίας<hi rend="sup">24</hi>)</l>
+                     <l>by     day;     and forgive to us the debts        (the sins)</l>
+                     <l/>
+                     <l>ἡμῶν,  ὡς καὶ  ἡμεῖς ἀφίεμεν<hi rend="sup">25</hi>  τοῖς   ὀφειλέταις<hi rend="sup">26</hi>  ἡμῶν,  (καὶ</l>
+                     <l>of us, as also we    forgive   to the debtors    of us; (and <hi rend="italic">this do</hi>,</l>
+                     <l/>
+                     <l>γὰρ αὐτοἱ<hi rend="sup">27</hi>    ἀφίεμεν<hi rend="sup">25</hi>      παντὶ<hi rend="sup">28</hi>  ὀφε λοντι<hi rend="sup">29</hi>  ἡμῖν,)  καὶ μὴ</l>
+                     <l>for <hi rend="italic">our</hi>selves <hi rend="italic">we</hi>  forgive to every <hi rend="italic">one</hi>  owing    to us;) and not</l>
+                     <l/>
+                     <l>εἰσενέγκῃς<hi rend="sup">30</hi>     ἡμᾶς εἰς  πειρασμόν,<hi rend="sup">31</hi>  ἀλλὰ ῥῦσαι<hi rend="sup">32</hi>      ἡμᾶς ἀπὸ</l>
+                     <l>mayest thou lead us   into trial;       but  deliver thou us   away</l>
+                     <l/>
+                     <l>τοῦ      πονηροῦ·<hi rend="sup">33</hi>  [ὅτι     σοῦ     ἐστὶν<hi rend="sup">34</hi>  ἡ   βασιλεία,<hi rend="sup">9</hi>  καὶ  ἡ</l>
+                     <l>from the evil:      [because of <hi rend="smallcaps">thee</hi>  is      the kingdom,   and  the</l>
+                     <l/>
+                     <l>δύναμις,<hi rend="sup">35</hi>  καὶ ἡ   δόξα<hi rend="sup">36</hi>  εἰς τοὺς αἰῶνας.<hi rend="sup">37</hi>  ἀμήν.<hi rend="sup">38</hi>]</l>
+                     <l>power,     and the glory  to  the  ages.     Amen.]</l>
+                  </lg>
+                  <p rend="justify">
+                     <hi rend="smallcaps">Remark</hi>.--The words above in parentheses are the variations in the passage of Luke. The concluding doxology in brackets is not found in the oldest manuscripts, and is probably spurious.</p>
+                  <p rend="justify">1. προσεύχομαι, lit., <hi rend="italic">pray towards</hi>; depon., § 40; pres., § 58; indic., § 42; 2d plur. mid., § 49.</p>
+                  <p rend="justify">2. Subj., § 42; required by conditional particle preceding, § 44.</p>
+                  <p rend="justify">3. λέγω; pres., § 65; imper., § 42; 2d plur. act., § 49.</p>
+                  <p rend="justify">4. πατήρ, (accent irregularly shifted;) 3d decl., § 32; voc. sing., § 27.</p>
+                  <p rend="justify">5. οὐρανός, § 30; dat. plur., § 88.</p>
+                  <p rend="justify">6. ἁγιάζω, root ἁγιαδ, from ἅγιος =<hi rend="italic">holy</hi>; 1st aor. pass., § 59; σ for δ, § 14; η in imper., § 42; 3d pers. sing., § 53; as if act., § 52.</p>
+                  <p rend="justify">7. ix, 5; accent, § 3.</p>
+                  <p rend="justify">8. viii, 8; 2d aor. § 48; imper. § 42; 3d sing. act., § 53.</p>
+                  <p rend="justify">9. Nom. sing. fem., § 29; cannot take the enclitic's accent (§ 3) like No. 7, as another acute immediately precedes.</p>
+                  <p rend="justify">10. γίνομαι, vii, 15; 1st aor. pass., No. 6; first η assumed irreg. as if a deriv.</p>
+                  <p rend="justify">11. No. 7.</p>
+                  <p rend="justify">12. No. 5; dat. sing., § 88.</p>
+                  <p rend="justify">13. γῆ, § 28; gen. sing., of place all <hi rend="italic">over</hi>, like time, § 83.</p>
+                  <p rend="justify">14. ἄρτος. § 30; acc. sing. § 97.</p>
+                  <p rend="justify">15. ἐπιούσιος, prob. comp. of ἐπί, <hi rend="italic">for</hi>, and οὐσία, <hi rend="italic">subsistence</hi>; used only here; acc. sing. masc., § 34.</p>
+                  <p rend="justify">16. From δίδωμι, § 67; irreg,, 2d aor. imp. 2d sing. act.</p>
+                  <p rend="justify">17. Same verb; irreg. pres. imper. 2d sing. act.</p>
+                  <p rend="justify">18. Compound adv.</p>
+                  <p rend="justify">19. Elliptical, § 74; "attrib. acc." § 97.</p>
+                  <p rend="justify">20. For κατά, §§ 22, 14.</p>
+                  <p rend="justify">21. From ἡμέρα, § 29; acc. sing. of time, § 97; here distributive, <hi rend="italic">daily</hi>.</p>
+                  <p rend="justify">22. From ἀφίημι=<hi rend="italic">send away</hi>; ἀπό and ἵημι, § 69; irreg. 2d aor. imper.; 2d sing. act., like No. 16.</p>
+                  <p rend="justify">23. From ὀφείλημα, like No. 7; acc. plur. neut., § 32.</p>
+                  <p rend="justify">24. From ἁμαρτία. § 28.</p>
+                  <p rend="justify">25. From same as No. 22; pres. ind. 1st plur. act., § 49;</p>
+                  <p rend="justify">26. From ὀφειλέτης, § 28; dat. plur., § 92.</p>
+                  <p rend="justify">27. Def. adj. pron., § 39; used as pers. of all persons.</p>
+                  <p rend="justify">28. From πᾶς, see vii, 12; dat. sing. masc., § 32.</p>
+                  <p rend="justify">29. Pres. act. part, of ὀφείλω, like ix, 12; dat. sing. masc., § 92.</p>
+                  <p rend="justify">30. Assigned to εἰσφέρω, but really belonging to the defective cognate, εἰσήνεγκα, irreg. reduplicate, 1st aor., from εἰς, <hi rend="italic">into</hi>, and an obsolete ἔγκω, (for ενκω, § 16;) subj., § 41, (dependent end upon an implied verb of wishing or deprecating § 44;) 2d sing. act., § 51.</p>
+                  <p rend="justify">31. From πειρασμός, § 30; acc. sing., § 94.</p>
+                  <p rend="justify">32. From ῥύομαι, § 62; depon., § 40; 1st aor., § 59; imper. union-vowel α, § 42; 2d sing. mid., § 53.</p>
+                  <p rend="justify">33. Noun implied, § 74; 2d decl., § 34; gen. sing. neut., § 81.</p>
+                  <p rend="justify">34. From εἰμί, § 69.</p>
+                  <p rend="justify">35. See § 33.</p>
+                  <p rend="justify">36. See ix, 34.</p>
+                  <p rend="justify">37. From αἰών, § 32; acc. plur., § 94.</p>
+                  <p rend="justify">38. Adv. from the Heb., <hi rend="italic">verily</hi>.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LESSON XI.</head>
+               <div type="div3">
+                  <head>EXERCISE ON LUKE i, 1-4.</head>
+                  <lg>
+                     <l>Ἐπειδήπερ<hi rend="sup">1</hi>  πολλοὶ<hi rend="sup">2</hi> ἐπεχείρησαν<hi rend="sup">3</hi> ἀνατάξασϑαι<hi rend="sup">4</hi> διήγησιν<hi rend="sup">5</hi>   περὶ</l>
+                     <l>Inasmuch as many    undertook    to arrange   a narrative about</l>
+                     <l/>
+                     <l>τῶν πεπλήροφορημένων<hi rend="sup">6</hi> ἐν    ἡμῖν<hi rend="sup">7</hi> πραγμάτων,<hi rend="sup">8</hi>   καϑὼς<hi rend="sup">9</hi>  παρέδοσαν<hi rend="sup">10</hi>the fully believed    among us    transactions, just as transmitted <hi rend="italic">them</hi>
+                     </l>
+                     <l>ἡμῖν<hi rend="sup">7</hi> οἱ  ἀπ᾽<hi rend="sup">11</hi>           ἀρχῆς<hi rend="sup">12</hi>   αὐτόπται<hi rend="sup">13</hi>    καὶ ὑπηρέται<hi rend="sup">14</hi>to us the from <hi rend="italic">the</hi> beginning eye-witnesses and ministers</l>
+                     <l/>
+                     <l>τοῦ    λόγον·<hi rend="sup">15</hi> ἔόοξε<hi rend="sup">16</hi>         κάμοί<hi rend="sup">17</hi>     παρηκολονϑηκότι<hi rend="sup">18</hi>     ἄνωϑεν<hi rend="sup">19</hi>of the word;    it seemed <hi rend="italic">good</hi> to me also, having followed close from <hi rend="italic">the</hi> first</l>
+                     <l/>
+                     <l>πᾶσιν<hi rend="sup">20</hi>        ἀκριβῶς,<hi rend="sup">21</hi> καϑεξῆς<hi rend="sup">22</hi>    σοι  γράψαι,<hi rend="sup">23</hi>  κράτιστε<hi rend="sup">24</hi>to all <hi rend="italic">things</hi> carefully, regularly to thee to write,  most excellent</l>
+                     <l/>
+                     <l>Θεόφιλε,<hi rend="sup">25</hi>  ἵνα                ἐπιγνῷς<hi rend="sup">26</hi>        περὶ  ὧν<hi rend="sup">27</hi>      κατηχήϑης<hi rend="sup">28</hi>Theophilus, in order that thou mayest recognize about what thou wast instructed</l>
+                     <l/>
+                     <l>λόγων τὴν ἀσφάλειαν.<hi rend="sup">29</hi>words the certainty.</l>
+                  </lg>
+                  <p rend="justify">1. Comp. of ἐπεί, <hi rend="italic">since</hi>, (from ἐπί, <hi rend="italic">upon</hi>, εἴ, <hi rend="italic">if</hi>,) δή, <hi rend="italic">now</hi>, and the intensive particle, περ.</p>
+                  <p rend="justify">2. Irreg. from πολύς, really an old πολλός; nom. plur. masc., § 34; <hi rend="italic">persons</hi>  understood, § 74.</p>
+                  <p rend="justify">3. From ἐπιχείρέω, <hi rend="italic">lay hand upon</hi>, from ἐπί, <hi rend="italic">upon</hi>, and χείρ, <hi rend="italic">a hand</hi>; aug., § 61; η, § 66; 1st aor., § 59; Ind., § 42; 3d plur. act.; § 49.</p>
+                  <p rend="justify">4. From ἀνατάσσομαι, (comp. of ἀνά, <hi rend="italic">up</hi>, i.e., <hi rend="italic">thoroughly</hi>, and τάσσω, <hi rend="italic">arrange</hi>;) depon., § 40; 1st aor., (root, ταγ, str. in pres. by σσ, § 58, which excludes the γ,) § 59, (ξ=γσ, § 13;) infin. mid., § 54; depends, like a nom. (§ 25) in the acc. upon ἐπεχ., § 97.</p>
+                  <p rend="justify">5. From διήγησις, (like πολις in the paradigm,) § 33; acc. sing. depend. on ἀνατ., § 97.</p>
+                  <p rend="justify">6. From πληροφορέω, comp. of πλήρης, <hi rend="italic">full</hi>, φορέω, <hi rend="italic">bear</hi>, i.e., in mind; redupl., § 60; η, § 66; no tense sign, § 59; perf. pass. part., § 55; gen. plur., § 30; agrees with πραγμ., § 73.</p>
+                  <p rend="justify">7. See § 38.</p>
+                  <p rend="justify">8. Like σῶμα in the paradigm; gen. plur., see viii, 13.</p>
+                  <p rend="justify">9. Comp. of κατά, (see x, 20,) <hi rend="italic">down</hi>, i.e., <hi rend="italic">exactly</hi>, and ὠς, <hi rend="italic">as</hi>.</p>
+                  <p rend="justify">10. From παραδίδωμι, comp. of παρά, <hi rend="italic">near</hi>, i.e., from one to another, and δίδωμι, § 68; 2d aor., (δο,) § 57; indic., § 60, also § 42; 3d plur. act., § 49.</p>
+                  <p rend="justify">11. See § 22.</p>
+                  <p rend="justify">12. See vii. 2.</p>
+                  <p rend="justify">13. From αὐτόπτης, comp. of αὐτός, self, and ὄπτομαι, <hi rend="italic">I see</hi>; nom. plur. masc., § 28.</p>
+                  <p rend="justify">14. From ὑπηρέτης, (comp. of ὐπό, <hi rend="italic">under</hi>, and ἐρέτης, <hi rend="italic">rower</hi>,) § 28.</p>
+                  <p rend="justify">15. See paradigm.</p>
+                  <p rend="justify">16. From δοκέω, really an obsol. δόκω; 1st aor., § 59; indic., § 60; 3d sing. act., § 49.</p>
+                  <p rend="justify">17. Comp. of καί, (§ 22,) and ἐμοί, § 38; case, § 92.</p>
+                  <p rend="justify">18. From παρακολουϑέω, comp. of παρά, <hi rend="italic">near</hi>, and ἀκολονϑέω; aug., (α+ε=η,) § 60; perf. act., § 59; second η, § 66; part., § 55; dat. sing., (§ 32,) masc., § 34; agrees with ἐμοί, § 73.</p>
+                  <p rend="justify">19. Deriv. adv., lit., <hi rend="italic">from above</hi>, i.e., from top to bottom.</p>
+                  <p rend="justify">20. See viii, 16; dat. plur., § 88.</p>
+                  <p rend="justify">21. Adv. from ἀκριβής, <hi rend="italic">exact</hi>.</p>
+                  <p rend="justify">22. Adv. comp. of κατά, (as No. 17,) and ἑξῆς, <hi rend="italic">orderly</hi>, an old gen., § 31.</p>
+                  <p rend="justify">23. From γράφω, (<hi rend="italic">not</hi>  str., § 58;) 1st aor., as No. 4; infin. act., § 54; subj. of ἔδοξε.</p>
+                  <p rend="justify">24. From κράτιστος, § 34; superl., (§ 35,) of an obsol. κρατύς, <hi rend="italic">strong</hi>, assigned to ἀγαϑός, <hi rend="italic">good</hi>; Voc. sing. masc., § 30.</p>
+                  <p rend="justify">25. Nom, Θεόφιλος, § 30.</p>
+                  <p rend="justify">26. From ἐπιγινώκω, comp. of ἐπί, <hi rend="italic">upon</hi>, i.e., by means of some reminding or determining circumstance, and γινώσκω, <hi rend="italic">I know</hi>, for γίγνωσκω, § 70, (root γνο, know,) contracted like γίνομαι, vii, 15; 2d aor., § 57; subj., § 44; 2d sing. act., § 51.</p>
+                  <p rend="justify">27. Rel., § 39; gen. plur., § 30; agrees with λόγων, § 75; for τῶν λόγων, (§ 75,) οἶς, § 91.</p>
+                  <p rend="justify">28. From κατηχέω, (comp. of κατά, <hi rend="italic">down</hi>, as in No. 17, and ἠχέω, <hi rend="italic">I echo</hi>,) whence our <hi rend="italic">catechize</hi>; 1st. aor. pass., § 59; exception to § 14; second η, § 66; third η, § 42; 2d sing., § 52.</p>
+                  <p rend="justify">29. From ἀσφάλεια, lit., <hi rend="italic">non-tottering</hi>; acc. sing., § 29; depends upon ἐπιγ., § 97.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Paradigms of Nouns of the First Declension.</head>
+               <p rend="justify">
+                  <hi rend="bold">Feminine.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Masculine.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Cases.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Shadow.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Door.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Root.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Honor.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Youth.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Judge.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Sing.</hi>
+               </p>
+               <p rend="justify">Nominative.</p>
+               <p rend="justify">σκιά</p>
+               <p rend="justify">ϑύρα</p>
+               <p rend="justify">ῥίζα</p>
+               <p rend="justify">τιμή</p>
+               <p rend="justify">νεανίας</p>
+               <p rend="justify">κριτής</p>
+               <p rend="justify">Genitive.</p>
+               <p rend="justify">σκιᾶς</p>
+               <p rend="justify">ϑύρας</p>
+               <p rend="justify">ῥίζης</p>
+               <p rend="justify">τιλῆς</p>
+               <p rend="justify">νεανίου</p>
+               <p rend="justify">κριτοῖ</p>
+               <p rend="justify">Dative.</p>
+               <p rend="justify">σκιᾷ</p>
+               <p rend="justify">ϑύρᾳ</p>
+               <p rend="justify">ῥίζῃ</p>
+               <p rend="justify">τιμῇ</p>
+               <p rend="justify">νεανίᾳ</p>
+               <p rend="justify">κριτῇ</p>
+               <p rend="justify">Accusative.</p>
+               <p rend="justify">σκιάν</p>
+               <p rend="justify">ϑύραν</p>
+               <p rend="justify">ῥίζαν</p>
+               <p rend="justify">τιμήν</p>
+               <p rend="justify">νεανίαν</p>
+               <p rend="justify">κριτήν</p>
+               <p rend="justify">Vocative.</p>
+               <p rend="justify">σκιά</p>
+               <p rend="justify">ϑύρα</p>
+               <p rend="justify">ῥίζα</p>
+               <p rend="justify">τιμή</p>
+               <p rend="justify">νεανία</p>
+               <p rend="justify">κριτά</p>
+               <p rend="justify">
+                  <hi rend="italic">Plur.</hi>
+               </p>
+               <p rend="justify">Nominative.</p>
+               <p rend="justify">σκιαί</p>
+               <p rend="justify">ϑύραι</p>
+               <p rend="justify">ῥίζαι</p>
+               <p rend="justify">τιμαί</p>
+               <p rend="justify">νεανίαι</p>
+               <p rend="justify">κριταί</p>
+               <p rend="justify">Genitive.</p>
+               <p rend="justify">σκιῶν</p>
+               <p rend="justify">ϑυρῶν</p>
+               <p rend="justify">ῥιζῶν</p>
+               <p rend="justify">τιμῶν</p>
+               <p rend="justify">νεανιῶν</p>
+               <p rend="justify">κριτῶν</p>
+               <p rend="justify">Dative.</p>
+               <p rend="justify">σκιαῖς</p>
+               <p rend="justify">ϑύραις</p>
+               <p rend="justify">ῥίζαις</p>
+               <p rend="justify">τιμαῖς</p>
+               <p rend="justify">νεανίαις</p>
+               <p rend="justify">κριταῖς</p>
+               <p rend="justify">Accusative.</p>
+               <p rend="justify">σκιάς</p>
+               <p rend="justify">ϑύρας</p>
+               <p rend="justify">ῥίζας</p>
+               <p rend="justify">τιμάς</p>
+               <p rend="justify">νεανίας</p>
+               <p rend="justify">κριτάς</p>
+               <p rend="justify">Vocative.</p>
+               <p rend="justify">σκιαί</p>
+               <p rend="justify">ϑύραι</p>
+               <p rend="justify">ῥίζαι</p>
+               <p rend="justify">τιμαί</p>
+               <p rend="justify">νεανίαι</p>
+               <p rend="justify">κριταί</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Paradigms of Nouns of the Second Declension.</head>
+               <p rend="justify">
+                  <hi rend="bold">Masculine.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Neuter.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Word.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Jesus.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Fig.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Cases.</hi>
+               </p>
+               <p rend="justify">Sing.</p>
+               <p rend="justify">Plur.</p>
+               <p rend="justify">Sing.</p>
+               <p rend="justify">Plur.</p>
+               <p rend="justify">Nominative.</p>
+               <p rend="justify">λόγος</p>
+               <p rend="justify">λόγοι</p>
+               <p rend="justify">Ἰησοῦς</p>
+               <p rend="justify">σῦκον</p>
+               <p rend="justify">σῦκα</p>
+               <p rend="justify">Genitive.</p>
+               <p rend="justify">λόγου</p>
+               <p rend="justify">λόγων</p>
+               <p rend="justify">Ἰησοῦ</p>
+               <p rend="justify">σύκου</p>
+               <p rend="justify">σύκων</p>
+               <p rend="justify">Dative.</p>
+               <p rend="justify">λόγῳ</p>
+               <p rend="justify">λόγοις</p>
+               <p rend="justify">Ἰησοῦ</p>
+               <p rend="justify">σύκῳ</p>
+               <p rend="justify">σύκοις</p>
+               <p rend="justify">Accusative.</p>
+               <p rend="justify">λόγον</p>
+               <p rend="justify">λόγους</p>
+               <p rend="justify">Ἰησοῦν</p>
+               <p rend="justify">σῦκον</p>
+               <p rend="justify">σῦκα</p>
+               <p rend="justify">Vocative.</p>
+               <p rend="justify">λόγε</p>
+               <p rend="justify">λόγοι</p>
+               <p rend="justify">Ἰησοῦ</p>
+               <p rend="justify">σῦκον</p>
+               <p rend="justify">σῦκα</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Paradigms of Nouns of the Third Declension</head>
+               <p rend="justify">
+                  <hi rend="bold">Masculine and Feminine.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Neuter.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Cases.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Shepherd.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Lion.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Hair.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">City.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Body.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Light.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Wall.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Sing.</hi>
+               </p>
+               <p rend="justify">Nominative.</p>
+               <p rend="justify">ποιμήν</p>
+               <p rend="justify">λέων</p>
+               <p rend="justify">ϑρίξ</p>
+               <p rend="justify">πόλις</p>
+               <p rend="justify">σῶμα</p>
+               <p rend="justify">φῶς</p>
+               <p rend="justify">τεῖχος</p>
+               <p rend="justify">Genitive.</p>
+               <p rend="justify">ποιμένος</p>
+               <p rend="justify">λέοντος</p>
+               <p rend="justify">τρίχός</p>
+               <p rend="justify">πόλεως</p>
+               <p rend="justify">σώματος</p>
+               <p rend="justify">φωτός</p>
+               <p rend="justify">τείχους</p>
+               <p rend="justify">Dative.</p>
+               <p rend="justify">ποιμένι</p>
+               <p rend="justify">λέοντι</p>
+               <p rend="justify">τριχί</p>
+               <p rend="justify">πόλει</p>
+               <p rend="justify">σώματι</p>
+               <p rend="justify">φωατί</p>
+               <p rend="justify">τείχει</p>
+               <p rend="justify">Accusative.</p>
+               <p rend="justify">ποιμένα</p>
+               <p rend="justify">λέοντα</p>
+               <p rend="justify">τρίχα</p>
+               <p rend="justify">πόλιν</p>
+               <p rend="justify">σῶμα</p>
+               <p rend="justify">φῶς</p>
+               <p rend="justify">τεῖχος</p>
+               <p rend="justify">Vocative.</p>
+               <p rend="justify">ποιμήν</p>
+               <p rend="justify">λέον</p>
+               <p rend="justify">ϑρίξ</p>
+               <p rend="justify">πόλι</p>
+               <p rend="justify">σῶμα</p>
+               <p rend="justify">φῶς</p>
+               <p rend="justify">τεῖχος</p>
+               <p rend="justify">
+                  <hi rend="italic">Plur.</hi>
+               </p>
+               <p rend="justify">Nominative.</p>
+               <p rend="justify">ποιμένες</p>
+               <p rend="justify">λέοντες</p>
+               <p rend="justify">τρίχες</p>
+               <p rend="justify">πόλεις</p>
+               <p rend="justify">σώματα</p>
+               <p rend="justify">φῶτά</p>
+               <p rend="justify">τείχη</p>
+               <p rend="justify">Genitive.</p>
+               <p rend="justify">ποιμένων</p>
+               <p rend="justify">λεόντων</p>
+               <p rend="justify">τριχῶυ</p>
+               <p rend="justify">πόλεων</p>
+               <p rend="justify">σωμάτων</p>
+               <p rend="justify">φωτῶν</p>
+               <p rend="justify">τειχῶν</p>
+               <p rend="justify">Dative.</p>
+               <p rend="justify">ποιμέσι</p>
+               <p rend="justify">λέονσι</p>
+               <p rend="justify">ϑριξί</p>
+               <p rend="justify">πόλεσι</p>
+               <p rend="justify">σώμασι</p>
+               <p rend="justify">φωσί</p>
+               <p rend="justify">τείχεσι</p>
+               <p rend="justify">Accusative.</p>
+               <p rend="justify">ποιμένας</p>
+               <p rend="justify">λέοντας</p>
+               <p rend="justify">τρίχας</p>
+               <p rend="justify">πόλεις</p>
+               <p rend="justify">σώματα</p>
+               <p rend="justify">φῶτα</p>
+               <p rend="justify">τείχη</p>
+               <p rend="justify">Vocative.</p>
+               <p rend="justify">ποιμένες</p>
+               <p rend="justify">λέοντες</p>
+               <p rend="justify">τρίχες</p>
+               <p rend="justify">πόλεις</p>
+               <p rend="justify">σώματα</p>
+               <p rend="justify">φῶτα</p>
+               <p rend="justify">τείχη</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Paradigms of Adjectives, (of three terminations, § 34.)</head>
+               <p rend="justify">
+                  <hi rend="bold italic">1st and 2d Decl.</hi>
+                  <hi rend="bold">--καλός, </hi>
+                  <hi rend="bold italic">Fair</hi>
+                  <hi rend="bold">.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Singular.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Plural.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Cases.</hi>
+               </p>
+               <p rend="justify">Masc.</p>
+               <p rend="justify">Fem.</p>
+               <p rend="justify">Neut.</p>
+               <p rend="justify">Masc.</p>
+               <p rend="justify">Fem.</p>
+               <p rend="justify">Neut.</p>
+               <p rend="justify">Nominative.</p>
+               <p rend="justify">καλός</p>
+               <p rend="justify">καλή</p>
+               <p rend="justify">καλόν</p>
+               <p rend="justify">καλοί</p>
+               <p rend="justify">καλαί</p>
+               <p rend="justify">καλά</p>
+               <p rend="justify">Genitive.</p>
+               <p rend="justify">καλοῦ</p>
+               <p rend="justify">καλῆς</p>
+               <p rend="justify">καλοῦ</p>
+               <p rend="justify">καλῶν</p>
+               <p rend="justify">καλῶν</p>
+               <p rend="justify">καλῶν</p>
+               <p rend="justify">Dative.</p>
+               <p rend="justify">καλῷ</p>
+               <p rend="justify">καλῇς</p>
+               <p rend="justify">καλῷ</p>
+               <p rend="justify">καλοῖς</p>
+               <p rend="justify">καλαῖς</p>
+               <p rend="justify">καλοῖς</p>
+               <p rend="justify">Accusative.</p>
+               <p rend="justify">καλόν</p>
+               <p rend="justify">καλήν</p>
+               <p rend="justify">καλόν</p>
+               <p rend="justify">καλούς</p>
+               <p rend="justify">καλάς</p>
+               <p rend="justify">καλά</p>
+               <p rend="justify">Vocative.</p>
+               <p rend="justify">καλέ</p>
+               <p rend="justify">καλή</p>
+               <p rend="justify">καλόν</p>
+               <p rend="justify">καλοί</p>
+               <p rend="justify">καλαί</p>
+               <p rend="justify">καλά</p>
+               <p rend="justify">Similarly, δίκαιος, δικαία, δίκαιον, <hi rend="bold italic">Just</hi>.</p>
+               <p rend="justify">
+                  <hi rend="italic">1st and 3d Decl.</hi>--πᾶς, <hi rend="italic">All</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">Singular.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Plural.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Cases.</hi>
+               </p>
+               <p rend="justify">Masc.</p>
+               <p rend="justify">Fem.</p>
+               <p rend="justify">Neut.</p>
+               <p rend="justify">Masc.</p>
+               <p rend="justify">Fem.</p>
+               <p rend="justify">Neut.</p>
+               <p rend="justify">Nominative.</p>
+               <p rend="justify">πᾶς</p>
+               <p rend="justify">πᾶσα</p>
+               <p rend="justify">πᾶν</p>
+               <p rend="justify">πάντες</p>
+               <p rend="justify">πᾶσαι</p>
+               <p rend="justify">πάντα</p>
+               <p rend="justify">Genitive.</p>
+               <p rend="justify">παντός</p>
+               <p rend="justify">πάσης</p>
+               <p rend="justify">παντός</p>
+               <p rend="justify">πάντων</p>
+               <p rend="justify">πᾶσών</p>
+               <p rend="justify">πάντων</p>
+               <p rend="justify">Dative.</p>
+               <p rend="justify">παντί</p>
+               <p rend="justify">πάσῃ</p>
+               <p rend="justify">παντί</p>
+               <p rend="justify">πᾶσι</p>
+               <p rend="justify">πάσαις</p>
+               <p rend="justify">πᾶσι</p>
+               <p rend="justify">Accusative.</p>
+               <p rend="justify">πάντα</p>
+               <p rend="justify">πάσην</p>
+               <p rend="justify">πᾶν</p>
+               <p rend="justify">παντας</p>
+               <p rend="justify">πάσας</p>
+               <p rend="justify">πάντα</p>
+               <p rend="justify">Vocative.</p>
+               <p rend="justify">πᾶς</p>
+               <p rend="justify">πᾶσα</p>
+               <p rend="justify">πᾶν</p>
+               <p rend="justify">πάντες</p>
+               <p rend="justify">πᾶσαι</p>
+               <p rend="justify">πάντα</p>
+               <p rend="justify">Similarly those ending in</p>
+               <table rend="frame" xml:id="Table8">
+                  <row>
+                     <cell rend="center">
+                        <hi rend="bold">M.</hi>
+                     </cell>
+                     <cell rend="center">
+                        <hi rend="bold">F.</hi>
+                     </cell>
+                     <cell rend="center">
+                        <hi rend="bold">N.</hi>
+                     </cell>
+                     <cell rend="center">
+                        <hi rend="bold">M. &amp; N.</hi>
+                     </cell>
+                     <cell rend="center">
+                        <hi rend="bold">M.</hi>
+                     </cell>
+                     <cell rend="center">
+                        <hi rend="bold">F.</hi>
+                     </cell>
+                     <cell rend="center">
+                        <hi rend="bold">N.</hi>
+                     </cell>
+                     <cell rend="center">
+                        <hi rend="bold">M. &amp; N.</hi>
+                     </cell>
+                     <cell rend="center">
+                        <hi rend="bold">M.</hi>
+                     </cell>
+                     <cell rend="center">
+                        <hi rend="bold">F.</hi>
+                     </cell>
+                     <cell rend="center">
+                        <hi rend="bold">N.</hi>
+                     </cell>
+                     <cell rend="center">
+                        <hi rend="bold">M. &amp; N.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rend="center">ας</cell>
+                     <cell rend="center">αινα</cell>
+                     <cell rend="center">αν</cell>
+                     <cell rend="center">G. ανος</cell>
+                     <cell rend="center">ούς</cell>
+                     <cell rend="center">οῦσα</cell>
+                     <cell rend="center">όν</cell>
+                     <cell rend="center">G. όντος</cell>
+                     <cell rend="center">ώς</cell>
+                     <cell rend="center">νῖα</cell>
+                     <cell rend="center">ός</cell>
+                     <cell rend="center">G. ότος</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">εις</cell>
+                     <cell rend="center">εσσα</cell>
+                     <cell rend="center">εν</cell>
+                     <cell rend="center">G. εντος</cell>
+                     <cell rend="center">ων</cell>
+                     <cell rend="center">ουσα</cell>
+                     <cell rend="center">ον</cell>
+                     <cell rend="center">G. οντος</cell>
+                     <cell rend="center">ῶς</cell>
+                     <cell rend="center">ῶσα</cell>
+                     <cell rend="center">ῶς</cell>
+                     <cell rend="center">G. ῶτός</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">είς</cell>
+                     <cell rend="center">εῖσα</cell>
+                     <cell rend="center">έν</cell>
+                     <cell rend="center">G. έντος</cell>
+                     <cell rend="center">ῶν</cell>
+                     <cell rend="center">ῶσα</cell>
+                     <cell rend="center">ῶν</cell>
+                     <cell rend="center">G. ῶντος</cell>
+                     <cell rend="center">ύς</cell>
+                     <cell rend="center">εῖα</cell>
+                     <cell rend="center">ύ</cell>
+                     <cell rend="center">G. έος</cell>
+                  </row>
+                  <row>
+                     <cell rend="center">ην</cell>
+                     <cell rend="center">εινα</cell>
+                     <cell rend="center">εν</cell>
+                     <cell rend="center">G. ενος</cell>
+                     <cell rend="center">ῶν</cell>
+                     <cell rend="center">οῦσα</cell>
+                     <cell rend="center">οῦν</cell>
+                     <cell rend="center">G. οῦντος</cell>
+                     <cell rend="center">ύς</cell>
+                     <cell rend="center">ῦσα</cell>
+                     <cell rend="center">ύν</cell>
+                     <cell rend="center">G. ύντος</cell>
+                  </row>
+               </table>
+               <p rend="justify">Forms in two terminations are similar; for example:--</p>
+               <p rend="justify">
+                  <hi rend="bold">M. &amp; F.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">N.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Gen.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">M. &amp; F.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">N.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Gen.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">M. &amp; F.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">N.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Gen.</hi>
+               </p>
+               <p rend="justify">ας</p>
+               <p rend="justify">αν</p>
+               <p rend="justify">αντος</p>
+               <p rend="justify">ις</p>
+               <p rend="justify">ι</p>
+               <p rend="justify">ιτος</p>
+               <p rend="justify">ων</p>
+               <p rend="justify">ον</p>
+               <p rend="justify">ονος</p>
+               <p rend="justify">ην</p>
+               <p rend="justify">εν</p>
+               <p rend="justify">ενος</p>
+               <p rend="justify">ος</p>
+               <p rend="justify">ον</p>
+               <p rend="justify">ου</p>
+               <p rend="justify">ωρ</p>
+               <p rend="justify">ορ</p>
+               <p rend="justify">ορος</p>
+               <p rend="justify">ής</p>
+               <p rend="justify">έν</p>
+               <p rend="justify">έος</p>
+               <p rend="justify">ους</p>
+               <p rend="justify">ουν</p>
+               <p rend="justify">οδος</p>
+               <p rend="justify">ως</p>
+               <p rend="justify">ων</p>
+               <p rend="justify">ω</p>
+               <p rend="justify">υς</p>
+               <p rend="justify">υ</p>
+               <p rend="justify">υος</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Synopsis (1st sing., etc.) of Regular (Mute) Verbs.--τύπτω, <hi rend="italic">Strike</hi>.</head>
+               <p rend="justify">
+                  <hi rend="italic">Active Voice.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Indic.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Imper.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Optat.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Subj.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Infin.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Part.</hi>
+               </p>
+               <p rend="justify">Pres.</p>
+               <p rend="justify">τύπτω</p>
+               <p rend="justify">τύπτε</p>
+               <p rend="justify">τύπτω</p>
+               <p rend="justify">τύπτειν</p>
+               <p rend="justify">τύπτων</p>
+               <p rend="justify">Imp'f.</p>
+               <p rend="justify">ἔτυπτον</p>
+               <p rend="justify">τύπτοιμι</p>
+               <p rend="justify">1st A.</p>
+               <p rend="justify">τύψω</p>
+               <p rend="justify">τύψοιμι</p>
+               <p rend="justify">τύψειν</p>
+               <p rend="justify">τύψων</p>
+               <p rend="justify">1st F.</p>
+               <p rend="justify">ἔτυψα</p>
+               <p rend="justify">τύψον</p>
+               <p rend="justify">τύψαιμι</p>
+               <p rend="justify">τύψω</p>
+               <p rend="justify">τύψαι</p>
+               <p rend="justify">τύψας</p>
+               <p rend="justify">Perf.</p>
+               <p rend="justify">τέτυφα</p>
+               <p rend="justify">τέτυφε</p>
+               <p rend="justify">τετύφω</p>
+               <p rend="justify">τετυφέναι</p>
+               <p rend="justify">τετυφώς</p>
+               <p rend="justify">Plup.</p>
+               <p rend="justify">ἐτετύφειν</p>
+               <p rend="justify">τετύφοιμι</p>
+               <p rend="justify">2d A.</p>
+               <p rend="justify">ἔτυπον</p>
+               <p rend="justify">τύπε</p>
+               <p rend="justify">τύποιμι</p>
+               <p rend="justify">τύπω</p>
+               <p rend="justify">τυπεῖν</p>
+               <p rend="justify">τυπών</p>
+               <p rend="justify">2d F.</p>
+               <p rend="justify">τυπῶ</p>
+               <p rend="justify">τυποῖμι</p>
+               <p rend="justify">τυπεῖν</p>
+               <p rend="justify">τυπῶν</p>
+               <p rend="justify">
+                  <hi rend="italic">Passive Voice.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Indic.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Imper.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Optat.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Subj.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Infin.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Part.</hi>
+               </p>
+               <p rend="justify">Pres.</p>
+               <p rend="justify">τύπτομαι</p>
+               <p rend="justify">τύπτου</p>
+               <p rend="justify">τύπτωμαι</p>
+               <p rend="justify">τύπτεσϑαι</p>
+               <p rend="justify">τυπτόμενος</p>
+               <p rend="justify">Imp'f.</p>
+               <p rend="justify">ἐτυπτόμην</p>
+               <p rend="justify">τυπτοίμην</p>
+               <p rend="justify">[ὠ</p>
+               <p rend="justify">Perf.</p>
+               <p rend="justify">τέτυμμαι</p>
+               <p rend="justify">τέτυψο</p>
+               <p rend="justify">[εἴην</p>
+               <p rend="justify">τετυμμένος</p>
+               <p rend="justify">τετύφϑαι</p>
+               <p rend="justify">τετυμμένος</p>
+               <p rend="justify">Plup.</p>
+               <p rend="justify">ἐτετύμμην</p>
+               <p rend="justify">τετυμμένος</p>
+               <p rend="justify">1st A.</p>
+               <p rend="justify">ἐτύφϑην</p>
+               <p rend="justify">τύφϑητι</p>
+               <p rend="justify">τυφϑείην</p>
+               <p rend="justify">τυφϑὼ</p>
+               <p rend="justify">τυφϑῆναι</p>
+               <p rend="justify">τυφϑείς</p>
+               <p rend="justify">1st F.</p>
+               <p rend="justify">τυφϑήσομαι</p>
+               <p rend="justify">τυφϑησοίμην</p>
+               <p rend="justify">τυφϑήσεσϑαι</p>
+               <p rend="justify">τυφϑησόμενος</p>
+               <p rend="justify">2d A.</p>
+               <p rend="justify">ἐτύπην</p>
+               <p rend="justify">τύπηϑι</p>
+               <p rend="justify">τυπείην</p>
+               <p rend="justify">τυπῶ</p>
+               <p rend="justify">τυπῆναι</p>
+               <p rend="justify">τυπείς</p>
+               <p rend="justify">2d F.</p>
+               <p rend="justify">τυπήσομαι</p>
+               <p rend="justify">τυπησοίμην</p>
+               <p rend="justify">τυπήσεσϑαι</p>
+               <p rend="justify">τυπησόμενος</p>
+               <p rend="justify">3d F.</p>
+               <p rend="justify">τετύψομαι</p>
+               <p rend="justify">τετυψοίμην</p>
+               <p rend="justify">τετύψεσϑαι</p>
+               <p rend="justify">τετυψόμενος</p>
+               <p rend="justify">
+                  <hi rend="italic">Middle Voice.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Indic.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Imper.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Optat.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Subj.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Infin.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Part.</hi>
+               </p>
+               <p rend="justify">Pres.</p>
+               <p rend="justify">Same throughout at the Passive</p>
+               <p rend="justify">Imp'f.</p>
+               <p rend="justify">Perf.</p>
+               <p rend="justify">τέτυπα</p>
+               <p rend="justify">τέτυπε</p>
+               <p rend="justify">τετύπω</p>
+               <p rend="justify">τετυπέναι</p>
+               <p rend="justify">τετυπώς</p>
+               <p rend="justify">Plup.</p>
+               <p rend="justify">ἐτετύπειν</p>
+               <p rend="justify">τετύποιμι</p>
+               <p rend="justify">1st A.</p>
+               <p rend="justify">ἐτυψάμην</p>
+               <p rend="justify">τύψαι</p>
+               <p rend="justify">τυψαίμην</p>
+               <p rend="justify">τύψωμαι</p>
+               <p rend="justify">τύψασϑαι</p>
+               <p rend="justify">τυψάμενος</p>
+               <p rend="justify">1st F.</p>
+               <p rend="justify">τύψομαι</p>
+               <p rend="justify">τυψοίμην</p>
+               <p rend="justify">τύψεσϑαι</p>
+               <p rend="justify">τυψόμενος</p>
+               <p rend="justify">2d A.</p>
+               <p rend="justify">ἐτυπόμην</p>
+               <p rend="justify">τυποῦ</p>
+               <p rend="justify">τυποίμην</p>
+               <p rend="justify">τύπωμαι</p>
+               <p rend="justify">τυπέσϑαι</p>
+               <p rend="justify">τυπόμενος</p>
+               <p rend="justify">2d F.</p>
+               <p rend="justify">τυποῦμαι</p>
+               <p rend="justify">τυποίμην</p>
+               <p rend="justify">τυπεῖσϑαι</p>
+               <p rend="justify">τυπούμενος</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Regular Verb-Endings, (including mood-vowel.)</head>
+               <p rend="justify">
+                  <hi rend="italic">Active</hi> (includ. § 52.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Mid.</hi>  and <hi rend="italic">Pass.</hi>  (except § 52.)</p>
+               <p rend="justify">
+                  <hi rend="bold">1</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">2</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">3</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">1</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">2</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">3</hi>
+               </p>
+               <p rend="justify">Ind.of Pres. and Fut.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">ω</p>
+               <p rend="justify">εις</p>
+               <p rend="justify">ει</p>
+               <p rend="justify">Ind. of Pres. and Fut.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">ομαι</p>
+               <p rend="justify">ῃ</p>
+               <p rend="justify">εται</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">ομεν</p>
+               <p rend="justify">ετε</p>
+               <p rend="justify">ουσι</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">όμεϑα</p>
+               <p rend="justify">εσϑε</p>
+               <p rend="justify">ονται</p>
+               <p rend="justify">Subjunctive throughout</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">ω</p>
+               <p rend="justify">ης</p>
+               <p rend="justify">ῃ</p>
+               <p rend="justify">Subj. throughout (exc. Perf. Pass.<hi rend="sup">4</hi>)</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">ωμαι</p>
+               <p rend="justify">ῃ</p>
+               <p rend="justify">ηται</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">ωμεν</p>
+               <p rend="justify">ητε</p>
+               <p rend="justify">ωσι</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">ώμεϑα</p>
+               <p rend="justify">ησϑε</p>
+               <p rend="justify">ωνται</p>
+               <p rend="justify">Ind. of Perf. and 1 Aor.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">α</p>
+               <p rend="justify">ας</p>
+               <p rend="justify">ε</p>
+               <p rend="justify">Ind. of 1 Aor. Mid.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">άμην</p>
+               <p rend="justify">ω</p>
+               <p rend="justify">ατο</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">αμεν</p>
+               <p rend="justify">ατε</p>
+               <p rend="justify">ασι<hi rend="sup">1</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">άμεϑα</p>
+               <p rend="justify">ασϑε</p>
+               <p rend="justify">αντο</p>
+               <p rend="justify">Ind. of Imp. and 2 Aor.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">ον</p>
+               <p rend="justify">ες</p>
+               <p rend="justify">ε</p>
+               <p rend="justify">Ind. of Imp. and 2 Aor. Middle.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">όμην</p>
+               <p rend="justify">ου</p>
+               <p rend="justify">ετο</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">ομεν</p>
+               <p rend="justify">ετε</p>
+               <p rend="justify">ον</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">όμεϑα</p>
+               <p rend="justify">εσϑε</p>
+               <p rend="justify">οντο</p>
+               <p rend="justify">Ind. of Aor., Pass., &amp; Opt.<hi rend="sup">2</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">ην</p>
+               <p rend="justify">ης</p>
+               <p rend="justify">η</p>
+               <p rend="justify">Ind. of Perf. Pass.<hi rend="sup">4</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">μαι</p>
+               <p rend="justify">σαι</p>
+               <p rend="justify">ται</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">ημεν</p>
+               <p rend="justify">ητε</p>
+               <p rend="justify">ησαν</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">μεϑα</p>
+               <p rend="justify">σϑε</p>
+               <p rend="justify">νται</p>
+               <p rend="justify">Indic. of Plup.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">ειν</p>
+               <p rend="justify">εις</p>
+               <p rend="justify">ει</p>
+               <p rend="justify">Ind. of Plup. Pass.<hi rend="sup">4</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">μην</p>
+               <p rend="justify">σο</p>
+               <p rend="justify">το</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">ειμεν</p>
+               <p rend="justify">ειτε</p>
+               <p rend="justify">εισαν</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">μεϑα</p>
+               <p rend="justify">σϑε</p>
+               <p rend="justify">ντο</p>
+               <p rend="justify">Opt., exc. as ab've &amp; bel'w</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">οιμι</p>
+               <p rend="justify">οις</p>
+               <p rend="justify">οι</p>
+               <p rend="justify">Opt., exc. as bel'w (and Perf. Pass.<hi rend="sup">4</hi>)</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">οίμην</p>
+               <p rend="justify">οιο</p>
+               <p rend="justify">οιτο</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">οιμεν</p>
+               <p rend="justify">οιτε</p>
+               <p rend="justify">οιεν</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">οίμεϑα</p>
+               <p rend="justify">οισϑε</p>
+               <p rend="justify">οιντο</p>
+               <p rend="justify">Opt. of 1 Aor.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">αιμι</p>
+               <p rend="justify">αις</p>
+               <p rend="justify">αι</p>
+               <p rend="justify">Opt. of 1 Aor. Mid.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">αίμην</p>
+               <p rend="justify">αισο</p>
+               <p rend="justify">αιτο</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">αιμεν</p>
+               <p rend="justify">αιτε</p>
+               <p rend="justify">αιεν</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">αίμεϑα</p>
+               <p rend="justify">αισϑε</p>
+               <p rend="justify">αιντο</p>
+               <p rend="justify">Imp. of Pres., 2 Aor., &amp; Perf.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">ε</p>
+               <p rend="justify">έτω</p>
+               <p rend="justify">Imper. of Pres. and 2 Aor. (Mid.)</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">ου</p>
+               <p rend="justify">έσϑω</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">ετε</p>
+               <p rend="justify">έτωσαν</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">εσϑε</p>
+               <p rend="justify">έσϑωσαν</p>
+               <p rend="justify">Imper. of 1 Aor.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">ον</p>
+               <p rend="justify">άτω</p>
+               <p rend="justify">Imper. of 1 Aor. Mid.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">αι</p>
+               <p rend="justify">άσϑω</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">ατε</p>
+               <p rend="justify">άτωσαν</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">ασϑε</p>
+               <p rend="justify">άσϑωσαν</p>
+               <p rend="justify">Imper. of Aor. Pass.</p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">ηθι<hi rend="sup">3</hi>
+               </p>
+               <p rend="justify">ήτω</p>
+               <p rend="justify">Imper. of 1 Perf. Pass.<hi rend="sup">4</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">s.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">σο</p>
+               <p rend="justify">ϑω</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">ητε</p>
+               <p rend="justify">ήτωσαν</p>
+               <p rend="justify">
+                  <hi rend="italic">p.</hi>
+               </p>
+               <p rend="justify">....</p>
+               <p rend="justify">σϑε</p>
+               <p rend="justify">σϑωσαν</p>
+               <p rend="justify">1. But αν in 1st Aor.</p>
+               <p rend="justify">2. The Opt. has an extra mood-diphthong, ει, before ending.</p>
+               <p rend="justify">3. But ητι in 1st Aor., see § 14.</p>
+               <p rend="justify">4. The Perf. and Plup. Pass. are often inflected periphrastically (especially in the Opt. and Subj.) by means of an auxiliary (from εἰμί, <hi rend="italic">to be</hi>. with the participle.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Synopsis of Verbs in μι.</head>
+               <p rend="justify">
+                  <hi rend="italic">Active Voice.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Indic.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Imper.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Optat.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Subj.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Infin.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Part.</hi>
+               </p>
+               <p rend="justify">Pres.</p>
+               <p rend="justify">ἵστημι</p>
+               <p rend="justify">ἵστσϑι</p>
+               <p rend="justify">ἱστῶ</p>
+               <p rend="justify">ἱστάναι</p>
+               <p rend="justify">ἱστάς</p>
+               <p rend="justify">Imp.</p>
+               <p rend="justify">ἵστην</p>
+               <p rend="justify">ἱσταίην</p>
+               <p rend="justify">2 A.</p>
+               <p rend="justify">ἕστην</p>
+               <p rend="justify">στῆϑι</p>
+               <p rend="justify">σταίην</p>
+               <p rend="justify">στῶ</p>
+               <p rend="justify">στῆναι</p>
+               <p rend="justify">στάς</p>
+               <p rend="justify">Pres.</p>
+               <p rend="justify">τίϑημι</p>
+               <p rend="justify">τίϑετι</p>
+               <p rend="justify">τιϑῶ</p>
+               <p rend="justify">τιϑέναι</p>
+               <p rend="justify">τιϑείς</p>
+               <p rend="justify">Imp.</p>
+               <p rend="justify">ἐτίϑην</p>
+               <p rend="justify">τιϑείην</p>
+               <p rend="justify">2 A.</p>
+               <p rend="justify">ἔϑην</p>
+               <p rend="justify">ϑές</p>
+               <p rend="justify">ϑείην</p>
+               <p rend="justify">ϑῶ</p>
+               <p rend="justify">ϑῆναι</p>
+               <p rend="justify">ϑείς</p>
+               <p rend="justify">Pres.</p>
+               <p rend="justify">δίδωμι</p>
+               <p rend="justify">δίδοϑι</p>
+               <p rend="justify">δίδῶ</p>
+               <p rend="justify">δίδόναι</p>
+               <p rend="justify">δίδούς</p>
+               <p rend="justify">Imp.</p>
+               <p rend="justify">ἐδίδων</p>
+               <p rend="justify">διδοίην</p>
+               <p rend="justify">2 A.</p>
+               <p rend="justify">ἔδων</p>
+               <p rend="justify">δός</p>
+               <p rend="justify">δοίην</p>
+               <p rend="justify">δῶ</p>
+               <p rend="justify">δοῦναι</p>
+               <p rend="justify">δούς</p>
+               <p rend="justify">Pres.</p>
+               <p rend="justify">δείκνυμι</p>
+               <p rend="justify">δέικννϑι</p>
+               <p rend="justify">δεικνύναι</p>
+               <p rend="justify">δεικνύς</p>
+               <p rend="justify">Imp.</p>
+               <p rend="justify">ἐδείκνυν</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Synopsis of Verbs in μι.--(<hi rend="italic">Continued.</hi>)</head>
+               <p rend="justify">
+                  <hi rend="italic">Middle Voice</hi>, (including Pres. and Imper. Pass.)</p>
+               <p rend="justify">
+                  <hi rend="bold">Indic.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Imper.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Optat.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Subj.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Infin.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Part.</hi>
+               </p>
+               <p rend="justify">Pres.</p>
+               <p rend="justify">ἵσταμαι</p>
+               <p rend="justify">ἵστασο</p>
+               <p rend="justify">ἱστῶμαι</p>
+               <p rend="justify">ἵστασϑαι</p>
+               <p rend="justify">ἱστάμενος</p>
+               <p rend="justify">Imp.</p>
+               <p rend="justify">ἱστάμην</p>
+               <p rend="justify">ἱσταίμην</p>
+               <p rend="justify">2 A.</p>
+               <p rend="justify">ἑσταμην</p>
+               <p rend="justify">στάσο</p>
+               <p rend="justify">σταίμην</p>
+               <p rend="justify">στῶμαι</p>
+               <p rend="justify">στάσϑαι</p>
+               <p rend="justify">στάμενος</p>
+               <p rend="justify">Pres.</p>
+               <p rend="justify">τίϑεμαι</p>
+               <p rend="justify">τιϑεσο</p>
+               <p rend="justify">τιϑῶμαι</p>
+               <p rend="justify">τίϑεσϑαι</p>
+               <p rend="justify">τιϑέμενος</p>
+               <p rend="justify">Imp.</p>
+               <p rend="justify">ἐτιϑέμην</p>
+               <p rend="justify">τιϑείμην</p>
+               <p rend="justify">2 A.</p>
+               <p rend="justify">ἐϑέμην</p>
+               <p rend="justify">ϑέτσο</p>
+               <p rend="justify">ϑείμην</p>
+               <p rend="justify">ϑῶμαι</p>
+               <p rend="justify">ϑέσϑαι</p>
+               <p rend="justify">ϑέμενος</p>
+               <p rend="justify">Pres.</p>
+               <p rend="justify">δίδομαι</p>
+               <p rend="justify">δίδοσο</p>
+               <p rend="justify">διδῶμαι</p>
+               <p rend="justify">δίδοσϑαι</p>
+               <p rend="justify">διδόμενος</p>
+               <p rend="justify">Imp.</p>
+               <p rend="justify">ἐδιδόμην</p>
+               <p rend="justify">διδοίμην</p>
+               <p rend="justify">2 A.</p>
+               <p rend="justify">ἐδόμην</p>
+               <p rend="justify">δόσο</p>
+               <p rend="justify">δοίμην</p>
+               <p rend="justify">δῶμαι</p>
+               <p rend="justify">δόσϑαι</p>
+               <p rend="justify">δόμενος</p>
+               <p rend="justify">Pres.</p>
+               <p rend="justify">δείκνυμαι</p>
+               <p rend="justify">δείκνυσο</p>
+               <p rend="justify">δείκνυσϑαι</p>
+               <p rend="justify">δεικνύμενοζ</p>
+               <p rend="justify">Imp.</p>
+               <p rend="justify">ἐδείκυμην</p>
+               <p rend="justify">All the other tenses are regular, as if from στάω, ϑέω, δόω, δεικνύω, meaning respectively to <hi rend="italic">stand, put, give,</hi>  and <hi rend="italic">show</hi>.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Peculiar Endings of Verbs in μι</head>
+               <p rend="justify">
+                  <hi rend="bold">Singular.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Plural.</hi>
+               </p>
+               <lg>
+                  <l>ἵστη-</l>
+                  <l>τίϑη-</l>
+                  <l>δίδω-</l>
+                  <l>δέικνυ-</l>
+               </lg>
+               <lg>
+                  <l>1. -μι</l>
+                  <l>2. -ς</l>
+                  <l>3. -σι</l>
+               </lg>
+               <lg>
+                  <l>ἵστα-</l>
+                  <l>τιϑε-</l>
+                  <l>δίδο-</l>
+                  <l>δέικνυ-</l>
+               </lg>
+               <p rend="justify">1. -μεν</p>
+               <p rend="justify">2. -τε</p>
+               <lg>
+                  <l>3. τιϑεισι</l>
+                  <l>    ἵστασι</l>
+                  <l>    δίδουσι</l>
+                  <l>    δέικνυσι</l>
+               </lg>
+               <p rend="justify">Λίδωμι has ω as a union-vowel throughout the subj. (pres. and 2d aor.) of both voices, and ἵστημι has α in the 2d and 3d sing., and 2d plur. of the subj. pres. All the other forms follow the inflection of the regular verb.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

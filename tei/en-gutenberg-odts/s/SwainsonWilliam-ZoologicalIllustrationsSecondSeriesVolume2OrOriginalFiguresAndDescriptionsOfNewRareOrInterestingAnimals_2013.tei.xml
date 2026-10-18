@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zoological Illustrations, Second Series, Volume 2 / or, Original Figures and Descriptions of New, Rare, or Interesting Animals</title>
+            <author>William Swainson</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T20:33:50Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/s/SwainsonWilliam-ZoologicalIllustrationsSecondSeriesVolume2OrOriginalFiguresAndDescriptionsOfNewRareOrInterestingAnimals_2013.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>William Swainson</name>
+               <date>2024-01-04T20:33:50Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Zoological Illustrations, Second Series, Volume 2 / or, Original Figures and Descriptions of New, Rare, or Interesting Animals</head>
+         <author>William Swainson</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/s/SwainsonWilliam-ZoologicalIllustrationsSecondSeriesVolume2OrOriginalFiguresAndDescriptionsOfNewRareOrInterestingAnimals_2013.odt</p>
+         <table rend="frame" xml:id="Table1">
+            <row>
+               <cell>Transcriber's note:</cell>
+               <cell>
+                  <p>A few typographical errors have been corrected. They appear in the text like this, and the explanation will appear when the mouse pointer is moved over the marked passage.</p>
+                  <p>Project Gutenberg has the other two volumes of this work.<lb/>
+                     <ref target="http://www.gutenberg.org/ebooks/44056">Volume I</ref>: see http://www.gutenberg.org/ebooks/44056.<lb/>
+                     <ref target="http://www.gutenberg.org/ebooks/44058">Volume III</ref>: see http://www.gutenberg.org/ebooks/44058.</p>
+               </cell>
+            </row>
+         </table>
+         <pb/>
+         <div type="div1">
+            <head>Zoological Illustrations, Second Series, Volume 2 / or, Original Figures and Descriptions of New, Rare, or Interesting Animals</head>
+            <p rend="justify">Zoological Illustrations,</p>
+            <p rend="justify">OR</p>
+            <p rend="justify">ORIGINAL FIGURES AND DESCRIPTIONS</p>
+            <p rend="justify">OF</p>
+            <p rend="justify">NEW, RARE, OR INTERESTING</p>
+            <p rend="justify">
+               <hi rend="bold">ANIMALS,</hi>
+            </p>
+            <p rend="justify">SELECTED CHIEFLY FROM THE CLASSES OF</p>
+            <p rend="justify">Ornithology, Entomology, and Conchology,</p>
+            <p rend="justify">AND ARRANGED ACCORDING TO THEIR APPARENT AFFINITIES.</p>
+            <p rend="justify">BY</p>
+            <p rend="justify">WM. SWAINSON, ESQ., F.R.S., F.L.S.</p>
+            <lg>
+               <l>ASSISTANT COMMISSARY GENERAL TO H. M. FORCES. CORRESPONDING MEMBER</l>
+               <l>OF THE NATURAL HISTORY SOCIETY OF PARIS; HONORARY MEMBER</l>
+               <l>OF THE HISTORIC SOCIETY OF NEW YORK; MEMBER OF</l>
+               <l>THE WERNERIAN SOCIETY, &amp;c. &amp;c. &amp;c.</l>
+            </lg>
+            <p rend="justify">VOL. II.</p>
+            <p rend="justify">SECOND SERIES.</p>
+            <p rend="justify">London:</p>
+            <p rend="justify">PRINTED BY W. J. SPARROW, BERNERS MEWS, BERNERS STREET.</p>
+            <p rend="justify">PUBLISHED BY BALDWIN &amp; CRADOCK, PATERNOSTER ROW,</p>
+            <p rend="justify">AND R. HAVELL, 77, OXFORD STREET.</p>
+            <p rend="justify">1831-2.</p>
+            <p rend="justify">TO HIS MOST CHRISTIAN MAJESTY,</p>
+            <p rend="justify">Louis Philippe,</p>
+            <p rend="justify">KING OF THE FRENCH,</p>
+            <p rend="justify">Whom as a Private Gentleman, exiled by despotism from his native country, enjoyed that respect which the dignity of virtue can alone ensure; whom, as a Prince, descended from a race of Kings, gained the affections of a whole people;—as the King of a great and intellectual nation, enjoys the love and veneration of the wise and the good; and as a true Patron of Science, munificently encourages, both privately and publicly, all who are engaged in its pursuit,</p>
+            <p rend="justify">THIS VOLUME</p>
+            <p rend="justify">OF</p>
+            <p rend="justify">ZOOLOGICAL ILLUSTRATIONS,</p>
+            <p rend="justify">Is dedicated,</p>
+            <p rend="justify">WITH SENTIMENTS OF THE HIGHEST ADMIRATION</p>
+            <p rend="justify">AND OF THE GREATEST RESPECT,</p>
+            <p rend="justify">BY THE AUTHOR.</p>
+            <p rend="justify">PREFACE.</p>
+            <p rend="justify">The present state of science in Britain, the usual subject of our preface, has recently been discussed by powerful writers;<hi rend="sup">[1]</hi>  and has drawn from others,<hi rend="sup">[2]</hi>  equally eminent, bitter reflections. As regards Zoology, there is a great show of patronage. Zoological gardens, and new societies have sprang up: cheap publications, on <hi rend="italic">popular</hi>  natural history, appear daily; and professors have been installed at the two London Universities. Yet what has resulted? We have lecturers expounding systems they do not comprehend,<hi rend="sup">[3]</hi>  and we have professors maintaining that a walk into the fields will make "a very good naturalist."<hi rend="sup">[4]</hi>  Meantime nearly every periodical work on pure science has languished or died away. The <hi rend="italic">Zoological Journal</hi>  has been discontinued, although nominally patronized by a society enjoying an enormous annual receipt. The fact, indeed, is but too apparent, that the science of the country, <hi rend="italic">speaking generally</hi>, has become superficial, while "neither literature nor art has been encouraged in our opulent Island, half as much as they have been by some of the petty kingdoms of the Continent."<hi rend="sup">[5]</hi>
+            </p>
+            <p rend="justify">But the political horizon is happily brightening, and the change will ultimately affect all. The stream of national patronage has long been prevented from branching off and fertilizing spots, now impoverished and neglected. Natural History, more than any other science, requires such aid; because it is inapplicable to the purposes of life; and while its study is attended with enormous expence, its acquirement leads to nothing tangible. It is a melancholy fact, that while our present laws crush individual exertion, by extorting a large number of free copies of the most costly works, undertaken by their authors without the slightest hope of remuneration,—the Government of France assigns <hi rend="italic">for subscriptions</hi>  to such publications, an annual sum of £10,000.<hi rend="sup">[6]</hi>  But on questions regarding the patronage of science, Great Britain, unfortunately, is poorer than any nation in Europe.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  46.</p>
+            <p rend="justify">FLUVICOLA <hi rend="italic">cursoria</hi>.<lb/>
+               <hi rend="italic">Courier Waterchat.</hi>
+            </p>
+            <p rend="justify">Plate 46.</p>
+            <p rend="justify">FLUVICOLA cursoria.</p>
+            <p rend="justify">
+               <hi rend="italic">Courier Waterchat.</hi>
+            </p>
+            <p rend="justify">Family Todidæ. Sub-Family Fluvicolinæ.</p>
+            <p rend="justify">Fluvicolinæ. <hi rend="italic">Bill</hi>, in general, strong; depressed, the tip abruptly bent and notched: <hi rend="italic">gape</hi>  with stiff bristles. <hi rend="italic">Tarsi</hi>  long; <hi rend="italic">toes</hi>  nearly free, <hi rend="italic">claws</hi>  slender and acute. <hi rend="italic">Scapular covers</hi>  long. <hi rend="italic">Quill</hi>  and <hi rend="italic">tail</hi>  feathers very broad; but the latter of various shapes. Frequent marshy situations in the New World. <hi rend="italic">Nobis.</hi>
+            </p>
+            <p rend="justify">Generic Character.—Zool. Journ. No. 10, p. 172.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">White, back brown; wings, stripe on each side the head, and broad rounded tail, black; the latter tipt with white.</hi>
+            </p>
+            <p rend="justify">There is to be found, in Tropical America, a singular race of flycatching birds, whose plumage is black and white. Their haunts are only in the vicinity of water: they pursue their prey upon the ground, running with great celerity, and are constantly in motion. They have, in short, all the manners and habits of the Stone Chats, and when we published the definition of this genus, we were led to believe it belonged to the Saxicolinæ. The present species we met with in abundance at Pernambuco, frequenting the sides of the rivers and lagoons.</p>
+            <p rend="justify">It is not surprising that ornithologists, who are so frequently compelled to form their ideas of natural divisions from mere skins, should be entirely unacquainted with the group, of which this genus is probably the type. But it is strange that the full and accurate information concerning it, which has long ago been furnished by Azara, should have been so utterly neglected. In the views which we have taken of the affinities of these birds, we consider they present a point of junction with the Saxicolæ; passing on one side into the genuine Flycatchers of America, (<hi rend="italic">Tyrannula</hi>  Sw.) and on the other into the typical Todies. The contents however of this group, we are but partially acquainted with. It will comprise <hi rend="italic">Nengetus</hi>, Sw. <hi rend="italic">Alecturus</hi>, Vieil, and several other forms now widely scattered in the newest systems, together with one or two others not yet defined, which we have only seen in the Paris Museum.</p>
+            <p rend="justify">Since the above was printed, we find the name of <hi rend="italic">Xolmus</hi>  has just been proposed for this genus by M. Boié, he not being of course aware that this, and some of his other groups, were published by us three years ago.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  47.</p>
+            <p rend="justify">MACROPTERYX <hi rend="italic">longipennis</hi>.<lb/>
+               <hi rend="italic">Long winged crested Swift.</hi>
+            </p>
+            <p rend="justify">Plate 47.</p>
+            <p rend="justify">MACROPTERYX longipennis.</p>
+            <p rend="justify">
+               <hi rend="italic">Javanese crested Swallow.</hi>
+            </p>
+            <p rend="justify">Family Hirundinidæ.</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Bill</hi>  (<hi rend="italic">fig. 1.2.</hi>) small, entire, base depressed and straight, the outer half of the culmen suddenly curved; lower mandible straight, nostrils large, oblong: <hi rend="italic">Tarsi</hi>  short, without scales; anterior toes of nearly equal length; (<hi rend="italic">fig. 3.4.</hi>) claws strong; hinder toe long, not versatile, the claw very short and thick. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Above obscure glossy green; throat, breast, and lower part of the back light grey; belly, spot on the scapulars, and line over the eye, white; ears rufous; front with an incumbent crest.</hi>
+            </p>
+            <p rend="justify">Hirundo Klecho, Horsfield, Linn. Trans, xiii. p. 143, female?</p>
+            <p rend="justify">Cypselus longipennis. Pl. Col. Pl. 83, f. 1?</p>
+            <p rend="justify">To Dr. Horsfield, one of the most successful and scientific investigators of Oriental Zoology, we are indebted for the first discovery, in Java, of this charming bird. Of its economy nothing is as yet known; but the uncommon length of its wings, indicate its possessing the utmost rapidity of flight. Another, and a much larger species, is among the Ornithological treasures discovered in the Eastern Archipelago by my estimable friend M. Lesson, and which he has already communicated to the public. A third is the <hi rend="italic">Cypselus Comatus</hi>, of M. M. Temminck and Laugier.</p>
+            <p rend="justify">The peculiar structure of these birds oblige us to consider them as forming a natural group, intermediate between the typical Swifts, and the Swallows. To the first they are allied by their strong scansorial feet; to the latter by the length and fixed position of the hind toe, and the depression of the bill.</p>
+            <p rend="justify">We suppose that the figure of the Hirondille longipennes, in the <hi rend="italic">Planches Coloriées</hi>, (pl. 83), is intended to represent this species; if so, it is incorrect, both in drawing, proportion, colouring, and detail.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  48.</p>
+            <p rend="justify">EUDAMUS Pl.1.<lb/>
+               <hi rend="italic">1. Agesilaus. 2. Doryssus.</hi>
+            </p>
+            <p rend="justify">Plate 48.</p>
+            <p rend="justify">EUDAMUS Agesilaus.</p>
+            <p rend="justify">Family Hesperidæ.—<hi rend="italic">Nob.</hi>  (<hi rend="italic">Anopluriform Stirps. Horsf.</hi>)</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">Antennæ with the club unequally fusiform, the outer half abruptly bent, forming a lengthened, attenuated hook, alike in both sexes; anterior wings papilioniform: posterior wings with the caudal appendages very long and obtuse.</p>
+            <p rend="justify">Type.—<hi rend="italic">Hesperia Proteus.</hi>  Fab.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Posterior wings dark brown, with a broad, entire, cream coloured margin; beneath marked with two darker bands, and a basal dot: appendages very long, whiteish.</hi>
+            </p>
+            <p rend="justify">The insects composing this group, have only been discovered in the hot latitudes of America. In the <hi rend="italic">Systema Naturæ</hi>  one species alone is recorded; Fabricius was acquainted with three; our own cabinet possesses eighteen, all collected in a comparatively insignificant portion of Brazil. Others have been figured by Drury and Cramer, so that the number of species already known, may probably amount to near thirty.</p>
+            <p rend="justify">The flight of these Swallow-tailed <hi rend="italic">Hesperidæ</hi>, is usually performed in the morning and evening, and is so rapid, as frequently to elude the eye of the observer. They rest with <hi rend="italic">all the four wings perpendicular</hi>, similar to the Swallow-tailed Butterflies, (<hi rend="italic">P. Machaon</hi>, &amp;c.) The present is a very rare species; we captured only two specimens near Bahia.</p>
+            <p rend="justify">EUDAMUS Doryssus.</p>
+            <p rend="justify">
+               <hi rend="italic">Posterior wings, with short snowy tails, and a half border of white on both sides; beneath brown, with a few paler dots near the base.</hi>
+            </p>
+            <p rend="justify">The sexes of this species materially differ. Our figure represents the female: in the male, the wings are browner, and highly glossed at their base with green; the snowy border on the posterior wings is very narrow above, but much broader beneath. It appears very locally distributed; we found it common in the vicinity of Bahia.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  49.</p>
+            <p rend="justify">MITRANÆ Pl. 4.<lb/>
+               <hi rend="italic">Mitra episcopalis.</hi>
+            </p>
+            <p rend="justify">Plate 49.</p>
+            <p rend="justify">MITRA Episcopalis.</p>
+            <p rend="justify">Family Volutidæ.—Sub-Family Mitrianæ.</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Animal</hi>——</p>
+            <p rend="justify">
+               <hi rend="italic">Shell</hi>  never turrited or plaited, ovate-fusiform, the <hi rend="italic">base</hi>  wide, obtuse, and truncated: <hi rend="italic">pillar</hi>  with 4 plaits: the plaits simple. <hi rend="italic">Outer lip</hi>  crenulated, or toothed: <hi rend="italic">Aperture</hi>  at the base effuse, smooth within, and destitute of an internal groove. <hi rend="italic">Nobis.</hi>
+            </p>
+            <p rend="justify">Types of Form.</p>
+            <p rend="justify">1, <hi rend="italic">M. episcopalis</hi>. 2, <hi rend="italic">papalis</hi>. 3, <hi rend="italic">scabriuscula</hi>. 4, <hi rend="italic">Zebra</hi>. 5, <hi rend="italic">ferruginea</hi>.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell with the spire thickened, and marked by transverse punctured dots: white with crimson spots; inferior spots small and quadrate, the superior large and irregular; pillar 4 plaited.</hi>
+            </p>
+            <p rend="justify">Voluta vel Mitra episcopalis, <hi rend="italic">Auct.</hi>  (Lam. Syst. 7. 299.)</p>
+            <p rend="justify">We view this elegant, though common shell, as the type of the Lamarkean Mitres, a group we shall hereafter consider as a sub-family. It is common in various parts of the Asiatic Ocean, and sometimes occurs of gigantic size: in its natural state it is covered with a thin olive epidermis.</p>
+            <p rend="justify">We regret that the nature of this work will not permit us to do more than furnish the clue, to the natural arrangement of the two typical groups of this family, <hi rend="italic">Voluta</hi>  and <hi rend="italic">Mitra</hi>. The first of these we have, indeed, pledged ourselves to enter upon more fully in <hi rend="italic">Exotic Conchology</hi>. But the arrangement of the Volutes is so intimately connected with that of the Mitres, that we scarcely know how to illustrate one, without perpetually adverting to the other.</p>
+            <p rend="justify">The two typical groups of the Lamarkian <hi rend="italic">Mitræ</hi>  we now characterise from their shells; they correspond to those of the typical Volutes; while their internal relations may be learned from the respective types of form here designated. The genera <hi rend="italic">Mitra</hi>  and <hi rend="italic">Tiara</hi>, each present a circular series of affinities, and are united by the fourth type in each group. Even a partial study of this disposition will reveal to the Conchologist a harmony of design, amid the greatest diversity of structure, which he could scarcely have suspected in the mere covering of an animal.</p>
+            <p rend="justify">The shells which appear associated with <hi rend="italic">M. episcopalis</hi>, in this type of form, are never coronated: the only external sculpture which they in general possess, are delicate rows of minute punctured dots, in the typical examples, as <hi rend="italic">Pertusa</hi>, <hi rend="italic">millipora</hi>, <hi rend="italic">versicolor</hi>, the outer lip is acutely toothed; while in the aberrant species, <hi rend="italic">Melaniana</hi>, <hi rend="italic">tessellata</hi>, <hi rend="italic">scutulata</hi>, <hi rend="italic">&amp;c</hi>. this part is smooth.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  50.</p>
+            <p rend="justify">MITRANÆ Pl. 5.<lb/>
+               <hi rend="italic">1. Tiara isabella. 2. sulcata.</hi>
+            </p>
+            <p rend="justify">Plate 50.</p>
+            <p rend="justify">TIARA isabella.</p>
+            <p rend="justify">
+               <hi rend="italic">Fawn coloured Mitre.</hi>
+            </p>
+            <p rend="justify">Order Zoophaga. Family Volutidæ.</p>
+            <p rend="justify">Sub-Family Mitrianæ. (G. Mitra. Auct.)</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Animal</hi>——</p>
+            <p rend="justify">Shell turrited, fusiform, the <hi rend="italic">base</hi>  contracted and slightly recurved; <hi rend="italic">pillar</hi>  with 4-5 plaits, the upper plait sulcated: <hi rend="italic">outer lip</hi>  smooth, or entire. <hi rend="italic">Aperture</hi>  narrow, striated within, and presenting an internal groove at its upper extremity. <hi rend="italic">Nobis.</hi>
+            </p>
+            <p rend="justify">Types of Form.</p>
+            <p rend="justify">1, <hi rend="italic">M. Corrugata</hi>. 2, <hi rend="italic">Regina</hi>. 3, <hi rend="italic">Sanguisuga</hi>. 4, <hi rend="italic">Microzonias</hi>. 5, <hi rend="italic">Isabella</hi>.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Ti. (Ty. 5) Shell slender, fawn coloured, unspotted, marked by slender crowded, transverse, convex ribs, the interstices deeply cancellated; inner lip wanting, outer lip crenately undulate; pillar 5 plaited.</hi>
+            </p>
+            <p rend="justify">It is highly probable that the Mitres, like some other carnivorous marine animals, seek their prey, and habitually reside, in the deep recesses of the ocean. Instances are recorded of individuals having been brought up from great depths; and notwithstanding the number of species, of which we already know near 150, very few are common.</p>
+            <p rend="justify">This genus, in short, is now become too overloaded, even for the purposes of artificial arrangement: but we refrained from characterizing any other group than <hi rend="italic">Conohelix</hi>, until we analized the remainder. <hi rend="italic">Tiara</hi>  appears to be the second, or sub-typical group. The subordinate section, or type of form, represented by T. <hi rend="italic">isabella</hi>, includes several little known shells, all marked by delicate transverse ribs and longitudinal striæ: the outer lip is not strictly toothed or crenated, but is merely undulated by the external sculpture: this subordinate group in <hi rend="italic">Tiara</hi>, is aberrant: all the species whose habitat we know, have come from the Pacific Ocean.</p>
+            <p rend="justify">
+               <hi rend="italic">Tiara isabella</hi>  is a shell of the greatest rarity. Our drawing was made from a specimen (presumed unique) sold at the Bligh Sale for 3<hi rend="italic">l.</hi>  3<hi rend="italic">s.</hi>  It was stated to come from New Holland, and is now in the Manchester Museum.</p>
+            <p rend="justify">TIARA sulcata.</p>
+            <p rend="justify">
+               <hi rend="italic">Sulcated Mitre.</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="italic">Tiara. (Ty. 5.) Shell marked by distinct, carinated, remote transverse ribs, the interstices concave: pillar three plaited, epidermis brown.</hi>
+            </p>
+            <p rend="justify">For this new and very distinct species, we are indebted to Mr. Bulwar. It was collected on the Pacific side of the American Isthmus. The central line indicates the true size of our specimen.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  51.</p>
+            <p rend="justify">SYLVIA <hi rend="italic">Regulus</hi>.<lb/>
+               <hi rend="italic">Gold-crested Warbler.</hi>
+            </p>
+            <p rend="justify">Plate 51.</p>
+            <p rend="justify">SYLVIA Regulus.</p>
+            <p rend="justify">
+               <hi rend="italic">Gold-crest. Golden-crested Warbler.</hi>
+            </p>
+            <p rend="justify">Family, Sylviadæ. Sub-family, Sylvianæ. <hi rend="italic">Nob.</hi>
+               <lb/>(<hi rend="italic">See North. Zool. Vol. 2.</hi>)</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Bill</hi>  very weak, considerably compressed, nearly straight; the tip bent and notched: <hi rend="italic">rictus</hi>  bristled. <hi rend="italic">Wings</hi>  moderate. <hi rend="italic">Tail</hi>  rather short.</p>
+            <p rend="justify">Sub-genera. Acanthiza. <hi rend="italic">Horsf. &amp; Vig.</hi>  Phyllopneuste. <hi rend="italic">Meyer. pars.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Sides of the head without any indication of white bands, crest of the male yellow-orange, bill very weak.</hi>  Temminck.</p>
+            <p rend="justify">Sylvia Regulus. <hi rend="italic">Tem. Man. 1. 229. Roitelet ordinaire.</hi>
+            </p>
+            <p rend="justify">Motacilla Regulus. <hi rend="italic">Linn. 1. 338.</hi>
+            </p>
+            <p rend="justify">Golden-crested Wren. <hi rend="italic">Montague, Ornith. Dict. 2. p.</hi>—<hi rend="italic">See particularly the Introduction to Vol. 1. p. 34.</hi>
+            </p>
+            <p rend="justify">With the exception of the Humming Birds, the Gold crests are the smallest birds in creation. The natural size of the only species found in this country is here represented; while the weight seldom exceeds eighty grains. Notwithstanding its delicate structure, this beautiful little bird braves the severest winters of Northern Europe: it is found in Denmark (<hi rend="italic">Müll. Zool. Dan.</hi>), and extends to the borders of the Arctic Circle, (<hi rend="italic">Temm.</hi>) It is more frequent with us than is generally supposed, but its diminitive size screens it from observation. It is perpetually in motion: hopping among the branches, examining every leaf and spray, and will frequently catch minute insects that endeavour to escape, by darting at them like a Flycatcher: we have repeatedly watched a pair of these birds which frequented our garden at Warwick, in the middle of winter, for three years: their favourite resort was an old fir-tree, which they regularly and carefully explored, much in the manner of the Titmice (<hi rend="italic">Parii</hi>.)</p>
+            <p rend="justify">If the name of <hi rend="italic">Sylvia</hi>  is to be retained in Ornithological systems, it should obviously be applied to this, which has been correctly thought the typical group of the whole family. <hi rend="italic">Acanthiza</hi>, for reasons elsewhere explained, appears a subordinate type, and <hi rend="italic">Phyllopneuste</hi>  cannot be adopted, without a glaring violation of natural affinities.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  52.</p>
+            <p rend="justify">PHÆNICORNIS <hi rend="italic">flammeus</hi>.<lb/>
+               <hi rend="italic">Orange Redbird.</hi>
+            </p>
+            <p rend="justify">Plate 52.</p>
+            <p rend="justify">PHÆNICORNIS flammeus.</p>
+            <p rend="justify">
+               <hi rend="italic">Orange Redbird.</hi>
+            </p>
+            <p rend="justify">Family Laniadæ. Sub-family Ceblepyrinæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Generic(?) Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Bill</hi>  with the sides compressed, the under mandible rather thick, the gonyx ascending: <hi rend="italic">rictus</hi>  bristled. <hi rend="italic">Feathers</hi>  on the back and <hi rend="italic">rump</hi>  slightly spinous. <hi rend="italic">Wings</hi>  short. <hi rend="italic">Tail</hi>  rather lengthened, graduated, the tip forked: the feathers narrow.</p>
+            <p rend="justify">Phænicornis. <hi rend="italic">Nob. Boié (pars.)</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Glossy black and golden orange: head, throat, wings, upper part of the back and middle of the tail glossy black; wings with two stripes of orange.</hi>
+            </p>
+            <p rend="justify">Muscicapa flammea. <hi rend="italic">Auct. Tem. Pl. Col. pl. 263.</hi>
+            </p>
+            <p rend="justify">Mus. Paris. Nost.</p>
+            <p rend="justify">The Birds now arranged under this group, exclusively belong to Southern India and its luxuriant Islands. About five species have been discovered, most of which are ornamented with a plumage of the brightest scarlet, crimson, or orange, relieved by glossy black. Their economy is not known, but their structure leads us to believe they live upon caterpillars and soft insects; as another group, representing these birds in Africa, are known to prefer such food. Both have the back feathers thick and rigid; although these characters are least apparent in <hi rend="italic">Phænicornis</hi>. Our figure is nearly of the natural size. The female is stated to be yellow, where the male is orange. It appears to be not uncommon in Java.</p>
+            <p rend="justify">The genera <hi rend="italic">Parus</hi>, <hi rend="italic">Turdus</hi>, <hi rend="italic">Muscicapa</hi>  and <hi rend="italic">Sylvia</hi>  have alternately been made the receptacles for these birds; to neither of which do we consider they have any immediate affinity. Their whole structure evidently accords with that of the Ceblepyrii, or Caterpillar catchers, of M. Cuvier; a group first pointed out by Le Vaillant: but as these have never been put in order, we can say nothing on the rank of <hi rend="italic">Phænicornis</hi>, or on its various relations.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  53.</p>
+            <p rend="justify">VOLUTILITHES. Pl. 1.<lb/>
+               <hi rend="italic">1. Muricina. 2. pertusa.</hi>
+            </p>
+            <p rend="justify">Plate 53.</p>
+            <p rend="justify">VOLUTILITHES muricina.</p>
+            <p rend="justify">Family, Volutidæ. Sub-Family, Volutinæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">(<hi rend="italic">Genus Voluta, Lam.</hi>)</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">Spiral whorls regularly and gradually diminishing towards the apex, which is always acute. Plaits of the pillar numerous, always indistinct, generally evanescent, and sometimes wanting. <hi rend="italic">Nobis.</hi>
+            </p>
+            <p rend="justify">Type, Voluta musicalis? <hi rend="italic">Lam.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell nearly </hi>
+               <hi rend="italic">fusiform</hi>
+               <hi rend="italic">, the base narrow and smooth; the upper part with longitudinal, subcostated, spinous plaits: inner lip thickened, the last plait on the pillar very thick, and separated from the others, which are slender, and nearly obsolete, by a deep groove.</hi>
+            </p>
+            <p rend="justify">Voluta Muricina. <hi rend="italic">Lam. Syst. 7, 1, 350. Ency. Meth. pl. 383. f. 1.</hi>
+            </p>
+            <p rend="justify">The fourth principal division of the Lamarkian Volutes has hitherto been found only in a fossil state; unless, indeed, the <hi rend="italic">Voluta Braziliana</hi>  really belongs to this type. The species are very numerous, both in the London clay, and the <hi rend="italic">Calcaire grossier</hi>  of Grignon. They offer some beautiful types of form, representing the conterminous groups in this family, some of which we may hereafter notice more particularly. The pre-eminent type may probably be the <hi rend="italic">V. musicalis</hi>  of Lamarck; as yet, we only know this fossil from descriptions and figures, but it has obviously been confounded with several others.</p>
+            <p rend="justify">Lamarck has given a character so exquisitely finished of <hi rend="italic">V. muricina</hi>, that we have done little more than translate his words. Our specimen appears to be from Grignon, and was furnished to us with the following, by Messrs. Stuchbury, 33, Theobald's Road, Bedford Row.</p>
+            <p rend="justify">VOLUTILITHES pertusa.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell </hi>
+               <hi rend="italic">subfusiform</hi>
+               <hi rend="italic">, and the base striated; the upper part with thick, remote, and somewhat nodulous ribs; traversed near the suture with lines of punctured striæ; inner lip thickened, plaits on the pillar distinct, the last very strong, the two next smaller, and the upper very slender.</hi>
+            </p>
+            <p rend="justify">This species is certainly undescribed by Lamarck, nor do we find it in Dr. Fleming's useful compendium of the "Mineral Conchology." Our specimen has the grey tinge of the London clay fossils. Neither of these species are typical; as they represent the recent costated Volutes, in the adjoining group.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  54.</p>
+            <p rend="justify">MITRANÆ. Pl. 6.<lb/>
+               <hi rend="italic">1. Mitrella fusca. 2. ocellata. 3. olivæformis.</hi>
+            </p>
+            <p rend="justify">Plate 54.</p>
+            <p rend="justify">MITRELLA fusca.</p>
+            <p rend="justify">Family Volutidæ. Sub-family Mitriana. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">Shell smooth, polished, sub-fusiform, the base obtuse and effuse; the plaits of the pillar oblique, and extending far beyond the aperture; outer lip internally smooth, the margin entire. <hi rend="italic">Nobis.</hi>
+            </p>
+            <p rend="justify">Types of form.</p>
+            <p rend="justify">1. <hi rend="italic">M. fissuella.</hi>  2. <hi rend="italic">casta. bicolor.</hi>  3. <hi rend="italic">Olivæformis.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell entirely brown, marked by bands of punctured dots; spire and aperture nearly equal.</hi>
+            </p>
+            <p rend="justify">The natural situation of this group, in its own circle of affinity, has already been shewn; it connects, in the most satisfactory manner, the genus <hi rend="italic">Mitra</hi>, as now restricted, with that of <hi rend="italic">Conohelix</hi>, and opens at the same time a passage to the Olives. The species yet discovered are few, and hence we yet can only trace three types of form; the first evidently representing <hi rend="italic">Mitra</hi>, and the third, probably, typifying <hi rend="italic">Conohelix</hi>. <hi rend="italic">M. Olivaria</hi>  Lam., which truly belongs to this genus, may, perhaps, be only a modification of the 2nd type, to which our present species strictly belongs. The representation of this group among the Volutes, will be found in <hi rend="italic">Voluta Zebra</hi>  and its allies.</p>
+            <p rend="justify">
+               <hi rend="italic">Mitrella fusca</hi>  is small, and of great rarity; our own specimen, beautifully perfect, is the only one we have yet seen.</p>
+            <p rend="justify">MITRELLA ocellata.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell whiteish, the lower half of the principal whorl brown, with a band of alternate rufous and white spots, and marked with reticulated white lines, and remote sulcated striæ, internally punctured; spire, and upper part of the body whorl, delicately plaited, the plates crossed by transverse lines of excavated dots.</hi>
+            </p>
+            <p rend="justify">This species has probably been overlooked as a variety of <hi rend="italic">M. Fissurella</hi>; its markings, indeed, are partially the same, but its sculpture, and even its form, proves it to be distinct. The alternate white and rufous spots bear a fanciful resemblance to eyes. The description of <hi rend="italic">M. Olivæformis</hi>  has already been given at Pl. 48, in the first volume of our former Series.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  55.</p>
+            <p rend="justify">MARGARITADÆ Pl. 1<lb/>
+               <hi rend="italic">Margarita crocata.</hi>
+            </p>
+            <p rend="justify">Plate 55.</p>
+            <p rend="justify">MARGARITA crocata.</p>
+            <p rend="justify">
+               <hi rend="italic">Orange Pearl-Oyster.</hi>
+            </p>
+            <p rend="justify">Order Acephala. Family Margaritadæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Margaritadæ. <hi rend="italic">Animal</hi>  byssiferous, attached to marine bodies by a fascicle of tendinous filaments. <hi rend="italic">Shell</hi>  foliaceous, the centre internally pearly and iridescent: the form irregular; the margins fragile and transparent. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Genera. Margarita. Malleus. Perna. Pinna. (Vulsella?) <hi rend="italic">Lam.</hi>
+            </p>
+            <p rend="justify">Sub-genera? Avicula. Crenatula. Inoceramus. <hi rend="italic">Auct.</hi>
+            </p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">Margarita. See Leach. Zool. Miss. 1. p.107. (1814.)</p>
+            <p rend="justify">(<hi rend="italic">Meleagrina. Lam. Syst. 1819.</hi>)</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell subquadrate, squamose, fulvous or yellow, the ear of the right valve dilated and scarcely sinuated, that of the left valve very small: inside silvery blue, hinge smooth.</hi>
+            </p>
+            <p rend="justify">It is the animal of this genus of Shells, which in sickness and disease, produces the true oriental Pearl: the costly ornament of sovereigns, and the chaste foil of beauty. An interesting account of the Pearl fishery of Ceylon, will be found in Mr. Wood's entertaining <hi rend="italic">Zoography</hi>, extracted from Percival's History of that island.</p>
+            <p rend="justify">The present is a small species, seldom exceeding the size of the figure: in young shells there is a cardinal tubercle in our valve, which disappears with age. The Pearl-oysters are nearly all inhabitants of warm seas; the species require much elucidation.</p>
+            <p rend="justify">The genera, above enumerated, appear to present such a series of affinities, as to justify our suspicions that they form a natural group: the more so, as their analogies may be traced among the perlacious fluviatile shells, forming our family <hi rend="italic">Unionidæ</hi>. If further investigation should confirm the correctness of this idea, the sub-genera will, of course, become types of form; bearing the same relation to the genera, as <hi rend="italic">Dipsus</hi>  does to <hi rend="italic">Anodon</hi>, or <hi rend="italic">Castalia</hi>  to <hi rend="italic">Hyria</hi>.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  56.</p>
+            <p rend="justify">NYCTINOMUS <hi rend="italic">amictus</hi>.<lb/>
+               <hi rend="italic">Duvaucel's Nightfeeder.</hi>
+            </p>
+            <p rend="justify">Plate 56.</p>
+            <p rend="justify">NYCTIORNIS amictus.</p>
+            <p rend="justify">
+               <hi rend="italic">Duvaucel's Nightfeeder.</hi>
+            </p>
+            <p rend="justify">Sub-order, Fissirostres. Family ——?</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Bill</hi>  subfalcated, compressed, margins of the upper mandible folding over those of the lower: <hi rend="italic">rictus</hi>  excessively wide. <hi rend="italic">Wings</hi>  rounded, moderate. Plumage lax, long. <hi rend="italic">Tarsi</hi>  much shorter than the hallux. <hi rend="italic">Toes</hi>  and claws as in <hi rend="italic">Merops</hi>  and <hi rend="italic">Prionites</hi>. <hi rend="italic">Nobis.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Green, crown (in the adult) lilach, front of the throat and breast bright red.</hi>
+            </p>
+            <p rend="justify">Merops amictus. <hi rend="italic">Pl. Col. pl. 310. fig. pessima.</hi>
+            </p>
+            <p rend="justify">Mus. Paris.</p>
+            <p rend="justify">This is perhaps the rarest, and certainly the most extraordinary bird, which the recent Zoological researches in India has brought to light. Its discovery is due to a young and accomplished Naturalist of France—M. Duvaucel, now alas! no more: but who lived to perpetuate his name by his brilliant discoveries, and to enrich the French Museum with the most splendid specimens of oriential Zoology now in Europe.</p>
+            <p rend="justify">The form, habit, and wings of this charming bird, are almost precisely those of <hi rend="italic">Prionites</hi>; while the bill resembles that of <hi rend="italic">Merops</hi>. Nothing can exceed the beauty of its lilach crown, or the bright vermillion of its throat. The bill is strong, and marked above on each sides with a sulcated line: the gape is so wide, as to reach underneath the eye. The whole structure of the bird, its round wings, and long lax plumage, indicates a totally different economy from that of <hi rend="italic">Merops</hi>; and this has been confirmed by Sir W. Jardine and Mr. Selby, who inform us that another beautiful species, they have described, <hi rend="italic">feeds during the night</hi>.</p>
+            <p rend="justify">Our drawing, scrupulously exact, was made at the <hi rend="italic">Jardin</hi>
+               <hi rend="italic">  des Plants</hi>. As we find <hi rend="italic">Nyctinomus</hi>  is a name already appropriated, we have substituted <hi rend="italic">Nyctiornis</hi>: and we place this group at the extremity of the <hi rend="italic">Fissirostres</hi>, adjoining to <hi rend="italic">Prionites</hi>  among the <hi rend="italic">Scansores</hi>.</p>
+            <p rend="justify">Total length ab. 13, wings 5¼, tail (beyond,) 3, tarsi hardly ½ in.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  57.</p>
+            <p rend="justify">CULICIVORA <hi rend="italic">atricapilla</hi>.<lb/>
+               <hi rend="italic">Black-crowned Gnatcatcher.</hi>
+            </p>
+            <p rend="justify">Plate 57.</p>
+            <p rend="justify">CULICIVORA atricapilla.</p>
+            <p rend="justify">
+               <hi rend="italic">Black crowned Warbler.</hi>
+            </p>
+            <p rend="justify">Family, Sylviadæ. Sub-family, Sylvianæ. <hi rend="italic">Nob.</hi>
+               <lb/>(<hi rend="italic">See North Zool. Vol. 2.</hi>)</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">Culicivora. <hi rend="italic">Swains. in Zool. Journ. No. 11. Lesson Man. 2. p. 430.</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="italic">Bill</hi>  very slender, the base depressed, the sides compressed, the culmen arched from the base. <hi rend="italic">Nostrils</hi>  long; aperture linear and naked; rictus bearded. <hi rend="italic">Wings</hi>  remarkably short. <hi rend="italic">Tail</hi>  slender, graduated, and generally lengthened.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Above cinereous, beneath white; upper part of the head, middle tail feathers, and base of the three outer feathers deep black. Quills blackish, with white and grey margins.</hi>
+            </p>
+            <p rend="justify">Figuier à tête noir de Cayenne? <hi rend="italic">Pl. Enl. pl. 704. f. 1.?</hi>
+            </p>
+            <p rend="justify">The birds composing this natural but intricate group, have hitherto been found only in America. Scarcely superior in size to the Gold-crested Wrens, they exhibit much of the same activity and restlessness in searching after insects. Yet their manners, in other respects, are more in unison with those of the flycatching birds.</p>
+            <p rend="justify">In size and in structure, our bird perfectly accords with the <hi rend="italic">Sylvia cærulea</hi>  of Vieil, and represents that northern species in tropical America, but we are fearful of identifying it with that figured in the <hi rend="italic">Pl. Enl.</hi>  Our drawings are of the natural size; in both these species the bill perfectly resembles that of <hi rend="italic">Prinia</hi>. Horsf. except in being somewhat shorter: the feet, however, are those of <hi rend="italic">Setophaga</hi>, Swains. The Flycatchers and Warblers, are so blended together, by all writers, that we have not yet been able to discover the typical example of this group. Its true affinities, however, appear to be as follows:—</p>
+            <p rend="justify">
+               <hi rend="italic">Culicivora</hi>  is represented in Africa by <hi rend="italic">Drymoica, Sw.</hi>, in India by <hi rend="italic">Prinia, Horsf.</hi>, and in Australia by <hi rend="italic">Malurus, Vieil.</hi>  These genera, in conjunction with that of <hi rend="italic">Sylvia</hi>, seem to indicate the first typical circle of this family. Culicivora exhibits many singular characters; in some approaching to <hi rend="italic">Prinia</hi>, the tail is very short: others, shewing an affinity to <hi rend="italic">Sylvia</hi>, have yellow crests: while a few species, leading to <hi rend="italic">Setophaga</hi>, present us with the depressed bill of a Flycatcher.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  58.</p>
+            <p rend="justify">OLIVA. Pl. 2.<lb/>
+               <hi rend="italic">Olivella purpurata. 2. eburnea.</hi>
+            </p>
+            <p rend="justify">Plate 58.</p>
+            <p rend="justify">OLIVA purpurata.</p>
+            <p rend="justify">
+               <hi rend="italic">Purple-mouthed Olive.</hi>
+            </p>
+            <p rend="justify">Family Volutidæ.—Genus Oliva. <hi rend="italic">Auct.</hi>
+            </p>
+            <p rend="justify">Sub-genus, Olivella.</p>
+            <p rend="justify">Characters.</p>
+            <p rend="justify">
+               <hi rend="italic">Spire</hi>  of the shell lengthened, conic, the tip acute: inner lip not thickened, outer lip straight: base of the pillar curved inwards, and marked by 2 strong plaits; upper plaits evanescent, or entirely wanting. <hi rend="italic">Aperture</hi>  effuse, and closed by an operculum? <hi rend="italic">Nobis.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell whiteish, with a very acute spire, nearly as long as the aperture; middle of the body whorl marked by angulated brown lines: suture with spots and fascicles of longitudinal stripes: basal belt very broad: aperture purple.</hi>
+            </p>
+            <p rend="justify">Oliva biplicata? <hi rend="italic">Sow. Tank. Cat. No. 2332. p. 33.</hi>
+            </p>
+            <p rend="justify">This shell maybe considered as typical of a small group of Olives, which we suspect are peculiar to the American seas; they offer many points of difference from those of the Indian Ocean. We recollect to have seen another species, in some cabinet, with a small operculum. We have been fearful of pronouncing this to be the <hi rend="italic">O. biplicata</hi>, as the judicious Conchologist will perceive the two descriptions do not exactly agree; and we have another to which the characters given of <hi rend="italic">biplicata</hi>  will equally well apply. The perpendicular line indicates the natural size.</p>
+            <p rend="justify">OLIVA eburnea.</p>
+            <p rend="justify">
+               <hi rend="italic">Ivory Olive.</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="italic">Shell entirely white, or marked by two bands of angulated purplish spots; pillar about 8-9 plaited: basal belt and spire always white; the former single.</hi>
+            </p>
+            <p rend="justify">Oliva eburnea. <hi rend="italic">Lam. Syst. 7. 1. p. 438.</hi>
+            </p>
+            <p rend="justify">This is the very common little Olive, sent in such abundance in the West India boxes of shells; we figure it, because it is seldom rightly named in collections, being confounded with <hi rend="italic">conoidalis</hi>, <hi rend="italic">oryza</hi>, and several others of an equally diminutive size: the plaits are sharp, short, well defined, and nearly all of equal size; although the base of the pillar forms an internal elevation.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  59.</p>
+            <p rend="justify">MARIUS <hi rend="italic">Thetys</hi>.</p>
+            <p rend="justify">Plate 59.</p>
+            <p rend="justify">MARIUS Thetys.</p>
+            <p rend="justify">Order Lepidoptera. Sub-order Papilionides.</p>
+            <p rend="justify">(Thrysanuriform Stirps.—Horsf.)</p>
+            <p rend="justify">Generic Character. See Pl. <ref target="http://www.gutenberg.org/files/44056/44056-h/44056-h.htm#plate45">45</ref>.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Wings horizontally lengthened, above bright rufous, transversely banded, with blackish stripes; beneath marbled with brown: lower part of the head, body, abdominal margin of the inferior icings, and feet, cream colour.</hi>
+            </p>
+            <p rend="justify">Papilio Petreus, <hi rend="italic">Cramer, Pl. 87, D. E.</hi>
+            </p>
+            <p rend="justify">—— Thetys. <hi rend="italic">Fabricius.</hi>  Mant. Ins. 2, p.47. Eus. Syst. 3, 1, 77.</p>
+            <p rend="justify">We frequently captured this Butterfly on the skirts of the Brazilian forests: its flight is bold and powerful, but it loves to bask on those leafy spots, where the sun, darting through a small opening of the dense foliage, illuminates a little space with sparkling brightness.</p>
+            <p rend="justify">The poor and somewhat inaccurate figure of this insect in Cramer's work, is the only representation yet published. We have not had leisure to investigate its scientific relations, further than to ascertain its close affinity with <hi rend="italic">Marius</hi>; of which group it appears on aberrant species.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  60.</p>
+            <p rend="justify">EURYMUS <hi rend="italic">Philodice</hi>.</p>
+            <p rend="justify">Plate 60.</p>
+            <p rend="justify">EURYMUS Philodice.</p>
+            <p rend="justify">Family Papilionidæ. (Juliform Stirps. Horsf.)</p>
+            <p rend="justify">Sub Family, Colianæ.</p>
+            <p rend="justify">Sub-genus(?) Eurymus. <hi rend="italic">Nob. Horsf.</hi>
+            </p>
+            <p rend="justify">Characters.</p>
+            <p rend="justify">
+               <hi rend="italic">Palpi</hi>  rather lengthened, cloathed and fringed with unequal, disunited hairs, the two last joints obliquely porrect, and scarcely touching the head. <hi rend="italic">Antennæ</hi>  slender, terminating abruptly in a thick cylindrical club. <hi rend="italic">Wings</hi>  simple, rounded, entire; destitute of concealed appendages.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Wings yellow above; with a common border of black. Anterior above with a small, linear-oval, black, discoid spot.</hi>
+            </p>
+            <p rend="justify">Col. Alis integerrimis, rotundatis, flavis, limbo communi suprà nigro: subtùs anticis puncto ocellari, posticis sesquialtero argenteo; his sub-rufescentibus; anticarum limbo suprà (fem.) flavo maculato. <hi rend="italic">Ency. Meth. p. 100.</hi>
+            </p>
+            <p rend="justify">The Butterflies constituting this group, are nearly restricted in their geographic range to the temperate regions of the old and the new world. Their principal metropolis appears to be in Europe; about twelve species having been described as natives of that continent. Of these, five are found in Britain; one of which, <hi rend="italic">E. Edusa</hi>, has a very wide range; we have seen specimens from the mountains of Nepaul, and we possess others, collected by our friend Mr. Burchell, in Southern Africa. <hi rend="italic">C. Philodice</hi>  hitherto unfigured, is the only species of a strictly typical character discovered in North America: we have several specimens from New York, where it appears not uncommon: the middle figure represents the female.</p>
+            <p rend="justify">In illustrating this group, we feel called up to notice in a particular manner, the courtesy of Dr. Horsfield in adopting our manuscript name, after it had remained so many years unpublished, that the circumstance, on our part, had been totally forgotton. To us the mere credit of having pointed out a group, flattering as it might once have been, is now trifling: but the high principles which prompted the unequivocal thanks of Dr. Horsfield, must ever demand our respect. The passage, indeed, so honourable to its writer, singularly contrasts with the ambiguous acknowledgements, tendered to us from other quarter.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  61.</p>
+            <p rend="justify">GRYLLIVORA <hi rend="italic">saularis</hi>.<lb/>
+               <hi rend="italic">Male.</hi>
+            </p>
+            <p rend="justify">Plate 61.</p>
+            <p rend="justify">GRYLLIVORA Saularis.</p>
+            <p rend="justify">
+               <hi rend="italic">Dial Bird.</hi>
+            </p>
+            <p rend="justify">Family Sylviadæ. Sub Family Saxicolinæ.</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Bill</hi>  strong, compressed, the culmen gradually curved from the base, the tip strongly notched: the margins inflexed, the rictus bearded. <hi rend="italic">Tarsi</hi>  elevated, robust. <hi rend="italic">Wings</hi>  rounded, the 3, 4, 5 and 6th quills nearly equal, lesser quills nearly all of equal length. <hi rend="italic">Tail</hi>  graduated; the feathers broad. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Glossy blue-black, body beneath, and a broad longitudinal band in the middle of the wing, pure white: tail graduated, the three middle feathers black and nearly equal, the three outer suddenly diminishing, and pure white.</hi>
+            </p>
+            <p rend="justify">Gracula Saularis. <hi rend="italic">Auctorum.</hi>
+            </p>
+            <p rend="justify">Naturalists, until of late, were accustomed to pay so little regard to the habits and manners of birds, that of some of the most common species, we know as little now, as we did a century ago. We are in this predicament with the species before us, called the Dial Bird by Albin, whose vague and very questionable account of its manners, has been copied by every succeeding writer. We believe that under the name of Gracula Saularis, two, if not three species are confounded. We doubt Le Vaillants <hi rend="italic">Cadran</hi>  (Ois. d'Af. pl. 109) being the same as our bird: he distinctly describes and figures the female as <hi rend="italic">rufous</hi>. Ours, (so labelled), is grey. To us, its natural affinity with the Saxicolæ appears almost unquestionable, but on this point we shall dwell more at length in another place. The curious analogy between this bird and <hi rend="italic">Petroica bicolor</hi>, has already been mentioned: the plumage of both are precisely alike. It is thus that Nature, ever unfolding some new link of her interminable chain of relations, impresses on the mind the sublimity of that plan, which OMNIPOTENCE alone can fully comprehend.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  62.</p>
+            <p rend="justify">PTILIOGONYS <hi rend="italic">cinereus</hi>.<lb/>
+               <hi rend="italic">female.</hi>
+            </p>
+            <p rend="justify">Plate 62.</p>
+            <p rend="justify">PTILIOGONYS cinereus. <hi rend="italic">female.</hi>
+            </p>
+            <p rend="justify">Family Laniadæ. Sub-family Ceblepyrinæ.</p>
+            <p rend="justify">Generic Character. See Zool. Journ. No. 10, p. 164.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Head sub-crested; body above cinerous, tinged with grey brown, beneath ferruginous; belly white; under tail covers bright yellow; lateral tail feathers with an internal white band.</hi>  Female.</p>
+            <p rend="justify">Ptiliogonys cinereus. <hi rend="italic">Cat. of Mex. Mus. App. p. 4. (1824.)</hi>
+            </p>
+            <p rend="justify">Ptiliogonys (<hi rend="italic">not Ptiliogonatus</hi>,) cinereus. <hi rend="italic">Zool. Journ. No. 10, p. 164. Phil. Mag. and Annals. June 1827, p. 367.</hi>
+            </p>
+            <p rend="justify">Piroll velauté. <hi rend="italic">Pl. Col. p. 422.</hi>
+            </p>
+            <p rend="justify">Mus. Nost.</p>
+            <p rend="justify">Although not particularly striking in its plumage, this is one of the most interesting birds, to the ornithologist, which has yet been gleaned from the little known regions of Mexico. Closely allied, by its short and broad bill to the Flycatchers, it is principally distinguished from them by the absence of those bristles round the mouth, which almost invariably belong to purely insectivorous birds. Its very short, robust, and feathered tarsi, the profile of the bill, construction of the wing, and even the colouring of the plumage, all remind us of the <hi rend="italic">Ceblepyrinæ</hi>  or Catterpillar-catchers, and point to that group as containing its true affinities: a group, however, which is in such confusion, that we venture not to hazard any speculations on the precise station of this curious genus.</p>
+            <p rend="justify">If the authors of the <hi rend="italic">Planches Coloriées</hi>, will consult the Philosophical Magazine for July 1827, (one of the oldest and best of our scientific Journals), they will find that this, and most of the birds from Mexico, which they are now describing as <hi rend="italic">new</hi>, were long ago named and characterized by us. Our list, indeed, of all those brought over by Mr. Bullock, was printed with the catalogue, in 1824, when one of the Authors was himself in England, and viewed the collection.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  63.</p>
+            <p rend="justify">CYNTILIA <hi rend="italic">Swainsonia</hi>.</p>
+            <p rend="justify">Plate 63.</p>
+            <p rend="justify">AMYNTHIA Swainsonia.</p>
+            <p rend="justify">Family Papilionidæ. Sub-family Colianæ.</p>
+            <p rend="justify">Characters.</p>
+            <p rend="justify">
+               <hi rend="italic">Antennæ</hi>  graduating from the base to a lengthened, cylindrical truncated club; the terminal joint of which is naked and concave. <hi rend="italic">Head</hi>  smooth, destitute of a fascicle of hairs between the antennæ. <hi rend="italic">Palpi</hi>  as in <hi rend="italic">Colias</hi>, the last joint inclining upwards. <hi rend="italic">Wings</hi>  angulated, with concealed appendages. <hi rend="italic">Feet</hi>  as in <hi rend="italic">Colias</hi>. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Type. <hi rend="italic">Col. Merula.</hi>  Auct.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Wings above greenish white, anterior with a yellow disk, and a quadrangular black dot, encircled with orange: wings beneath obscurely lineated with green.</hi>
+            </p>
+            <p rend="justify">Colias Swainsonia. <hi rend="italic">Leach. M. S. S.</hi>
+            </p>
+            <p rend="justify">We had the satisfaction of discovering this lovely Butterfly in the interior of Pernambuco, during our Brazilian researches in 1813. Although assiduously sought after, we never captured more than three specimens, and these were met with far distant from the coast: it must be either excessively rare, or very locally distributed. The colouring is peculiarly chaste and elegant; the ground is a pearly white, tinged with green, and relieved by clear yellow: in the female this latter colour is more diluted, and spreads nearly to the base of the anterior wings. This group appears to be the tropical representative of <hi rend="italic">Gonepteryx</hi>; from which it is much more distinguished than <hi rend="italic">Eurymus</hi>  is from <hi rend="italic">Colias</hi>. The two European types are called by British collectors, Brimstones, and Clouded-yellows. Dr. Horsfield has judiciously removed <hi rend="italic">P. Glaucippe</hi>  from <hi rend="italic">Pieris</hi>  to <hi rend="italic">Colias</hi>, to which (although an aberrant species,) it manifestly belongs. We should not be surprised if that insect leads to <hi rend="italic">Amynthia</hi>  by means of <hi rend="italic">Amy. Leachiana</hi>  (Pl. 6. of our first series), which will be seen, from the description, to exhibit many deviations from its conjenors: this however is a mere supposition, for we have not yet analized these groups. Independant of the characters here sketched, <hi rend="italic">Gonepteryx</hi>  is distinctly separated from <hi rend="italic">Amynthia</hi>, by the peculiar construction of the feet. The mistake of the printer, seen upon the plate, was discovered too late for correction.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  64.</p>
+            <p rend="justify">Ampullaria. Pl. 3.<lb/>
+               <hi rend="italic">A. fasciata.</hi>
+            </p>
+            <p rend="justify">Plate 64.</p>
+            <p rend="justify">AMPULLARIA fasciata. var.</p>
+            <p rend="justify">
+               <hi rend="italic">Fasciated Apple Snail.</hi>
+            </p>
+            <p rend="justify">Order, Phytophaga. Family, Ampullaridæ. <hi rend="italic">Guilding.</hi>
+            </p>
+            <p rend="justify">Generic Character.—See Guilding in Zool. Journ. No. 12, p. 538</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell thin, smooth, banded, ventricose; spire pointed, the whorls very convex; umbilicus open, rather large.</hi>
+            </p>
+            <p rend="justify">Am. fasciata. <hi rend="italic">Lam. Sys. 6, 177.</hi>
+            </p>
+            <p rend="justify">Am. fasciata. <hi rend="italic">Zool. Illust. 1 Series. 2. pl. 103.</hi>
+            </p>
+            <p rend="justify">Am. fasciata, var. canaliculata. <hi rend="italic">Sw. in Bligh Cat.</hi>
+            </p>
+            <p rend="justify">Am. canaliculata. <hi rend="italic">Lam. Syst. 6, 178.</hi>
+            </p>
+            <p rend="justify">In our former series we represented this species as it is usually seen; our present figures were drawn from a very uncommon variety, received by Mrs. Mawe from Brazil, in which not the slightest appearance of the external transverse bands are apparent. The specimen now forms a part of the valuable and extensive Museum of the Natural History Society of Manchester; a collection which we believe is superior to that of any provincial town in the kingdom. It is gratifying to us to inform the scientific student, that its contents will be thrown open to his enquiries with a promptitude and liberality, which he will in vain look for at some of the Zoological Institutions of the metropolis.</p>
+            <p rend="justify">Our friend Henry Parker, Esq. of Liverpool, who while prosecuting his botanical researches in Demerara, was not unmindful of conchology, favoured us with an interesting series of specimens from that river, clearly shewing that the A. <hi rend="italic">fasciata</hi>  and <hi rend="italic">canaliculata</hi>  of Lamarck are varieties of one species; or rather, that there are specimens of <hi rend="italic">fasciata</hi>  which perfectly agree with his description of <hi rend="italic">canaliculata</hi>. We further learn from Mr. Parker, that the inhabitant of this, and of other species, are a favourite food with the crafty Herons, who use their bill as a spear to take them from the bottom; in some places, the banks of the river are strewed with empty shells, all perforated by these birds.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  65.</p>
+            <p rend="justify">CONUS. Pl. 2.<lb/>
+               <hi rend="italic">Conus lithoglyphus.</hi>
+            </p>
+            <p rend="justify">Plate 65.</p>
+            <p rend="justify">CONUS lithoglyphus.</p>
+            <p rend="justify">
+               <hi rend="italic">Ermine Cone.</hi>
+            </p>
+            <p rend="justify">Zoophaga. Family Strombidæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Operculum of the Animal smaller than the aperture of its shell; outer lip of the latter detached above.</p>
+            <p rend="justify">Typical Genera. 1, Terebellum. 2, Strombus. 3, Conus. 4, ——? 5, Pleurotoma. <hi rend="italic">Auct.</hi>
+            </p>
+            <p rend="justify">Generic Character. See Lam. Syst. 7, 440.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell turbinated, redish orange, with two undulated white boards; base granulated, spire obtuse.</hi>
+            </p>
+            <p rend="justify">Conus lithoglyphus. <hi rend="italic">Mus. Gevers. p. 350. Brug. Ency. Meth. p. 692. Lam. Syst. 7, 490. C. Ermineus, Dillwyn, 395.</hi>
+            </p>
+            <p rend="justify">Icones. <hi rend="italic">Seba 3, pl. 42, f. 40, 41. Chem. pl. 140, f. 1298. Ency. Meth. pl. 338, f. 8.? Martini, 2, pl. 57, f. 630.—1.?</hi>
+            </p>
+            <p rend="justify">The Cone Shells belong to a predatious race of Molluscæ, who feed upon the innumerable "creeping things," which swarm in the prolific seas of the Oriental hemisphere: destitute both of jaws and lips, their mouth is formed into a long trunk or proboscis; with this they contrive to bore into solid shells, and suck the vital juices of their victims. Nearly all the species are natives of the Indian Ocean.</p>
+            <p rend="justify">The circular system of Nature has been so fully demonstrated, that it must now be received as the first great truth in Natural History. As, therefore, there can be but <hi rend="italic">one</hi>  natural system, it necessarily follows that all combinations of groups, whether large or small, which do not pretend to exhibit such a disposition, must be more or less artificial classifications. We allude to this our opinion, as explanatory of those principles which have influenced the views indicated here of M. Cuviers <hi rend="italic">Pectinibranchi</hi>; the more so, as we shall be obliged to characterize many new divisions, and to reform others, without the immediate opportunity of explaining our reasons. In another work we hope to enter on such details; and to shew we have been guided, in this matter, by more weighty considerations than mere individual opinion.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  66.</p>
+            <p rend="justify">TODUS <hi rend="italic">viridis</hi>.<lb/>
+               <hi rend="italic">Green Tody.</hi>
+            </p>
+            <p rend="justify">Plate 66.</p>
+            <p rend="justify">TODUS viridis.</p>
+            <p rend="justify">
+               <hi rend="italic">Green Tody.</hi>
+            </p>
+            <p rend="justify">Family Todidæ. See Pl. <ref target="http://www.gutenberg.org/files/44056/44056-h/44056-h.htm#plate41">41</ref>.</p>
+            <p rend="justify">Published Genera. Fluvicola. Nengetus. Alecturus. Muscicapa, (<hi rend="italic">pars</hi>). Conopophaga. Platyrhynchus. Todus. Eurylamus. Querula? Psaris. Pachyrhynchus.</p>
+            <p rend="justify">Generic Character. See Lesson, Man. 1, p. 178.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Bright green, beneath whiteish; throat scarlet; sides of the body rosey; under tail covers yellow.</hi>
+            </p>
+            <p rend="justify">Todus viridis. <hi rend="italic">Auct.</hi>
+            </p>
+            <p rend="justify">Mus. Paris. Nost.</p>
+            <p rend="justify">This singular little bird has long excited the particular attention of those naturalists who study the affinities of groups, more than the details of species. It is a native of the West Indian Islands, and although stated to be not uncommon, the accounts given of its manners are perfectly contradictory. One author asserts that it is almost always seen upon the ground, from whence it receives the name of <hi rend="italic">Perroquet de Terre</hi>: another, that it only frequents the "lonely part of moist places" (woods?), where it sits in a couched manner, with its head thrown considerably back, and is so stupid, as almost to be taken by the hand. M. Vieillot confirms part of the latter particulars, although he repeats, without denying, the former. In our opinion the last is entitled to the most credance, although it is contradictory to the idea of this being a terrestial bird.</p>
+            <p rend="justify">We cannot but feel surprise and regret, that the "very interesting account" of this bird, long ago announced (<hi rend="italic">Zool. Journ. Dec. 1827. p. 439</hi>), as having been sent from Cuba, by Mr. Macleay, to the Linnean Society, should still be unknown to the scientific world. There is, indeed, a valuable paper by this gentleman on certain birds of Cuba, in the first part of the sixteenth Vol. of the Society's Transactions, where its author alludes to the "description and anatomy of two birds" (<hi rend="italic">p. 12</hi>) both of which are nevertheless omitted: The <hi rend="italic">Todus viridis</hi>, we apprehend is truly "one of those solitary species," which, as Mr. Macleay observes, "from having been neglected, may serve to unfold an exception, <hi rend="italic">sufficient to destroy the most plausible system</hi>." For ourselves, we shall feel much surprised if this bird is entitled, in the slightest degree, to a station among the <hi rend="italic">Fissirostres</hi>, in which order it has been placed by M. Vigors, in his paper "On the Natural affinities of Birds."</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  67.</p>
+            <p rend="justify">MURICINÆ Pl. 1.<lb/>
+               <hi rend="italic">Murex imperialis.</hi>
+            </p>
+            <p rend="justify">Plate 67.</p>
+            <p rend="justify">MUREX Imperialis.</p>
+            <p rend="justify">
+               <hi rend="italic">Imperial Murex.</hi>
+            </p>
+            <p rend="justify">Family, Buccinidæ. Sub-family Muricinæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Generic Character. See Lam. Syst.</p>
+            <p rend="justify">Types of form. 1. M. Regius. 2. palmarosæ. 3. tripterus. 4. tenuispinosus. 5. radix? <hi rend="italic">Lam.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">Type 1. <hi rend="italic">Shell ponderous, with from four to five varices between the two lips; the varices simple, nodulous, and obtuse: intermediate, or false varices, none; aperture yellow, orange, or red; inner lip striated only at the base.</hi>
+            </p>
+            <p rend="justify">The inhabitants of the Murices, or Rock Shells, are rapacious; and feed, for the most part, upon animal matter, either living or dead. By the latter instinct they are led to frequent harbours and sea-ports, for the sake of offal, and other animal refuse, thrown from vessels, which they greedily devour. Lamarck, with his usual precision, has characterized many species; but for the very beautiful one now, we believe, for the first time described, we have to thank Messrs. Stuchbury, who favoured us with the inspection of a fine series of specimens, received from the Island of Margarita, Lat. 11. 20. N. Lon. 63. 20. W.</p>
+            <p rend="justify">The genera <hi rend="italic">Buccinum</hi>  and <hi rend="italic">Murex</hi>  of Linné, appear typical of the carnivorous order <hi rend="italic">Zoophaga</hi>, whose shells are either notched or channelled at their base. These arrange themselves under two great divisions. In one the animal has an operculum or lid, which closes the entrance of his shell; in the other, the shell itself is more or less enveloped by two large lobes, called the mantle, with which the animal covers his habitation. Nevertheless, these two divisions, as M. Cuvier has fully shown, become insensibly united, and form one natural group. The two principal divisions of the operculated race are represented by <hi rend="italic">Cassis</hi>  and <hi rend="italic">Murex</hi>; the genera of the first have been pretty correctly made out; but those of the <hi rend="italic">Muricinæ</hi>  require much reformation; so far as regards the definition of their typical forms, and their apparent series of affinities.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  68.</p>
+            <p rend="justify">CONUS. Pl. 1.<lb/>
+               <hi rend="italic">1. fumigatus. 2. franciscanus.</hi>
+            </p>
+            <p rend="justify">Plate 68.</p>
+            <p rend="justify">CONUS fumigatus.</p>
+            <p rend="justify">Family Strombidæ. Sub-family Conianæ.</p>
+            <p rend="justify">Generic Character. See Lamarck.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell smooth, spire very short, channeled, or with the whorls· concave: colour chesnut, belted with white, and articulated rows of chesnut dots.</hi>
+            </p>
+            <p rend="justify">Conus fumigatus <hi rend="italic">Brug. Diet. 94. Lam. Syst. 7. 496.</hi>
+            </p>
+            <p rend="justify">Icones. <hi rend="italic">Mart. 2 pl. 56. f. 618. Ency. Meth. pl. 336. f. 7.</hi>
+            </p>
+            <p rend="justify">A species not conspicuous for its beauty, but by no means of common occurrence: its close resemblance to the next has induced us to illustrate both by figures. <hi rend="italic">C. fumigatus</hi>  seldom exceeds the size here represented; it may at once be known from <hi rend="italic">franciscanus</hi>  (which is a much smaller shell,) by the spiral whorls being <hi rend="italic">concave</hi>, instead of <hi rend="italic">convex</hi>: this species occurs in the Indian Ocean.</p>
+            <p rend="justify">If the student compares either <hi rend="italic">Strombus Luhuanus</hi>, <hi rend="italic">Mauritianus</hi>, or <hi rend="italic">Persicus</hi>, with any of the wide mouthed Cones, he will immediately perceive the affinity between the two groups. In both, the operculum of the animal is small, but in <hi rend="italic">Conus</hi>  it seems reduced to a mere vestage; while the shell, nearly rolled upon its own axis, indicates the near approach which Nature has now made towards the Cowries; a family, however, essentially distinguished by the great developement of the mantle, and the total absence of an operculum.</p>
+            <p rend="justify">CONUS franciscanus.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell smooth, chesnut, with two white bands, the upper one near the suture: spire short, the whorls convex.</hi>
+            </p>
+            <p rend="justify">C. franciscanus. <hi rend="italic">Lam. Syst. 7. 493. Ency. Meth. 337. f. 5.</hi>
+            </p>
+            <p rend="justify">Lamarck mentions Africa and the shores of the Mediterranean, as the native locality of this shell. It escaped our researches on the coasts of Italy, Sicily, and Greece, and we suspect it to be an Oriental species.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  69.</p>
+            <p rend="justify">PIERIS <hi rend="italic">Nigrina</hi>.</p>
+            <p rend="justify">Plate 69.</p>
+            <p rend="justify">PIERIS Nigrina.</p>
+            <p rend="justify">Pieris (<hi rend="italic">pars.</hi>) Latr: Stev. Pontia (<hi rend="italic">pars.</hi>) Fab. Horsf.</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Antennæ</hi>  with a spatulate, considerably compressed, obovate club. <hi rend="italic">Palpi</hi>  hairy: the first joint with basal articulations, (Horsf. pl. 4. f. 10) beyond which it is hardly longer than the second, or the third, which are each of equal length. <hi rend="italic">Anterior Wings</hi>  with the exterior margin manifestly shorter than the posterior.</p>
+            <p rend="justify">Type. Pieris Belisama. <hi rend="italic">Lat.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Wings above white in one sex, grey in the other; anterior tipt with black; beneath black, with a terminal band of yellow: posterior wings beneath black, varied with grey, and marked with an undulated, nearly central, border of crimson.</hi>
+            </p>
+            <p rend="justify">Pieris Nigrina. <hi rend="italic">Fab. Sys. Ent. 475. Ent. Sys. 3. 1. 20. Ency. Meth. p. 149. Don. Ins. of New Holl. 19. f. 1.</hi>
+            </p>
+            <p rend="justify">Although this elegantly marked insect has long been known to Entomologists, we believe it has only once been figured. It is not uncommon in Australia, and being a typical species, we select it to illustrate this group.</p>
+            <p rend="justify">The Butterflies called <hi rend="italic">Whites</hi>, in the common language of Collectors, (<hi rend="italic">Pieris</hi>, <hi rend="italic">Lat.</hi>) are distinguished by their great simplicity of colouring, and a predominence of white upon their wings. It is a singular fact, that the various species of this family, among which are included the different white Butterflies of Europe; feed chiefly on such plants as are nourishing and salutary to the human body, such as the various sorts of cabbages, coleworts, turnips, &amp;c., and in every foreign country where these white Butterflies have been found, plants of the same nutricious qualities, are sure to be discovered in the vicinity of their haunts.</p>
+            <p rend="justify">The group to which we here restrict the name of <hi rend="italic">Pieris</hi>, is confined, we believe, exclusively to the old world, and principally to intertropical latitudes. We have been much embarassed, however, in applying this name correctly. Dr. Horsfield has placed many of our Indian <hi rend="italic">Pieres</hi>  under the genus <hi rend="italic">Pontia</hi>, which group is restricted by Mr. Stephens to European insects. As this latter disposition is more in unison with our own views, we have adapted it; considering <hi rend="italic">P. Cratægi</hi>  to be the only aberrant representative of <hi rend="italic">Pieris</hi>  in Europe.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  70.</p>
+            <p rend="justify">EURYMUS <hi rend="italic">Europome</hi>.</p>
+            <p rend="justify">Plate 70.</p>
+            <p rend="justify">EURYMUS Europome.</p>
+            <p rend="justify">
+               <hi rend="italic">The Clouded Sulphur.</hi>
+            </p>
+            <p rend="justify">Generic Character. See Pl. 60.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">See Stevens. Ill. of Brit. Ent. 1. p. 10. and Haw. Lep. Brit. 13.</hi>
+            </p>
+            <p rend="justify">Papilio Europome. <hi rend="italic">Haworth Lep. Brit. p. 13. No. 12.</hi>
+            </p>
+            <p rend="justify">Colias Europome. <hi rend="italic">Stev. pl. 1.* fig. 1. male. 2. 3. female.</hi>  Syst. Cat. 5797.</p>
+            <p rend="justify">In Mus. Nost.</p>
+            <p rend="justify">Much interest has recently been excited among British entomologists regarding this butterfly. Some are of opinion that it is not a native of Britain, while others, with a strong shew of reason, contend that it is truly indiginous. The specimens in the British collection formed by our lamented parent, and now in our possession, having been alluded to by both parties, we have been induced to represent them, and to throw some light upon their history.</p>
+            <p rend="justify">So anxiously did our honored father preserve his cabinet, free from exotic specimens, that knowingly, he never admitted <hi rend="italic">one</hi>, even as a temporary substitute for a native example. Yet living, in his early days, in constant intercourse with the famous Dutchess of Portland, Dr. Lightfoot, and Mr. Lewin, he received, from these sources, some few insects, which were placed in his cabinet, <hi rend="italic">under the assurance</hi>  that they were British. Among these are <hi rend="italic">Pap. Podalirius</hi>, <hi rend="italic">Daplidice</hi>, and the two specimens of the alleged <hi rend="italic">Europome</hi>  here figured: the latter being mistaken, <hi rend="italic">and intermixed</hi>, with three examples of the true <hi rend="italic">Hyale</hi>. On the other hand, it is incumbent upon us to say, that both these have been mended, before coming into our father's possession, by the heads and antennae of <hi rend="italic">Gonepteryx Rhamni</hi>! We must also state, that upon closely comparing them with a series of <hi rend="italic">E. Philodice</hi>, we have failed to discover what appears to us a true specific distinction. The same unsuccess has attended our efforts to detach <hi rend="italic">Chrysotheme</hi>  from <hi rend="italic">Edusa</hi>, of which latter we possess specimens from Germany, Genoa, Sicily, Greece, Africa, and several others unlabelled, all varying more or less from each other, and from British examples.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  71.</p>
+            <p rend="justify">MALACONOTUS <hi rend="italic">Barbarus</hi>.<lb/>
+               <hi rend="italic">Barbary Shrike.</hi>
+            </p>
+            <p rend="justify">Plate 71.</p>
+            <p rend="justify">MALACONOTUS Barbarus.</p>
+            <p rend="justify">
+               <hi rend="italic">Barbary, or yellow-crowned Shrike.</hi>
+            </p>
+            <p rend="justify">Family Laniadæ. Sub-family Thamnophilinæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">Swains. in Zool. Journ. 3. p. 163.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Above glossy black, beneath crimson; crown fulvous yellow: vent and flanks buff.</hi>
+            </p>
+            <p rend="justify">Lanius barbarus. <hi rend="italic">Linn.</hi>  Icon. <hi rend="italic">Pl. Enl. 56.</hi>
+            </p>
+            <p rend="justify">Laniarius barbarus. <hi rend="italic">Ency. Meth. Orn. p. 755.</hi>
+            </p>
+            <p rend="justify">Le Gonolek. <hi rend="italic">Le Vaill. Ois. d'Af. pl. 69.</hi>
+            </p>
+            <p rend="justify">The true Shrikes, of which two, if not three species inhabit England, are bold and cruel birds: they attack others, scarcely smaller than themselves, and seize them like a Falcon, by their talons during flight. The Bush Shrikes on the other hand, are a more ignoble race; they only prowl after young or sickly birds, and seek their principal nourishment from those insects which shelter in foliage. These birds form two distinct groups, confined to the tropical latitudes of the Old and the New World. The first, <hi rend="italic">Thamnophilus</hi>, is restricted to America, and the species are known by their dark coloured plumage. <hi rend="italic">Malaconotus</hi>, is, we believe, purely an African group, while most of the typical species, like the present, are cloathed in bright and beautiful colours.</p>
+            <p rend="justify">This elegant bird seems to be abundant in Western Africa, but is rare towards the Cape of Good Hope. Hence Le Vaillant had no opportunity of learning its peculiar manners. Its size is that of a Thrush; the feathers on the back are very long, and the first joint of the outer toe is <hi rend="italic">free</hi>. Nature, ever prone to typify her relations, and to preserve harmony between groups, essentially distinct, has given to the bill of this bird, a form closely resembling that of <hi rend="italic">Pitta</hi>; the genus by which <hi rend="italic">Malaconotus</hi>  is represented among the Thrushes.</p>
+            <p rend="justify">A partial consideration of this group induced us, some years ago, to adopt the generic name of <hi rend="italic">Laniarius</hi>; but in a more recent investigation of the species so denominated, we have failed to discover sufficient reason for separating them, generically, from <hi rend="italic">Malaconotus</hi>.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  72.</p>
+            <p rend="justify">DONACOBIUS <hi rend="italic">vociferans</hi>.<lb/>
+               <hi rend="italic">Babbling Thrush.</hi>
+            </p>
+            <p rend="justify">Plate 72.</p>
+            <p rend="justify">DONACOBIUS vociferans.</p>
+            <p rend="justify">
+               <hi rend="italic">Babbling Thrush.</hi>
+            </p>
+            <p rend="justify">Family Merulidæ. Sub-family Macropodianæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Characters.</p>
+            <p rend="justify">Bill arched from the base, moderate, and generally entire; wings very short: tail broad, rounded. Feet and toes of great strength and size; plumage lax, and soft. <hi rend="italic">Nobis.</hi>
+            </p>
+            <p rend="justify">Gracula (<hi rend="italic">pars.</hi>) <hi rend="italic">Cuv.</hi>  Pomatorhinus. <hi rend="italic">Horsf. Tem.</hi>  (<hi rend="italic">pars.</hi>) Pitta. (<hi rend="italic">p.</hi>) Opetiorhynchus. Ixos. (<hi rend="italic">p.</hi>) Malurus (<hi rend="italic">p.</hi>) <hi rend="italic">Tem.</hi>  Timalia. Megalurus. <hi rend="italic">Horsf.</hi>  Dasyornis. Phosphodes. <hi rend="italic">Vig.</hi>
+            </p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">Bill slender, moderate, the upper mandible notched; nostrils naked, membranaceous, the aperture terminal.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Above blackish brown, beneath fulvous yellow; sides of the body lineated with black lines, base of the quills and tips of the laternal tail feathers pure white, sides of the neck, with a naked space.</hi>
+            </p>
+            <p rend="justify">Gracula longirostris? <hi rend="italic">Auct.</hi>
+            </p>
+            <p rend="justify">It is seldom that the notes of the feathered race are absolutely disagreeable, but we never remember to have heard a bird with a voice of such astounding discord, as that now before us. Its particular note, if note it could be called, we do not now recollect; but it was so shrill, grating, and monotonous, that we have frequently rushed out of the house, to drive away the babbling disturbers. This happened at the hospitable residence of our friend Mr. Pinches, of Pernambucco, whose house was close to a small swamp, overgrown with reeds, among which these birds delight to dwell; and which in fact, they never quit. Clinging to the smooth stems by their strong feet and acute claws, they were incessantly uttering discord with the most provoking perseverance: all the time moving their body from one side to the other, spreading out their tail, and straining their throats, in the most grotesque way imaginable. On each side of the neck, is a long space of bare skin of a deep yellow colour: they live in pairs, and build a pensile nest among the reeds: their flight is very slow and feeble.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  73.</p>
+            <p rend="justify">MURICINÆ. Pl. 2.<lb/>
+               <hi rend="italic">Murex erythrostomus.</hi>
+            </p>
+            <p rend="justify">Plate 73.</p>
+            <p rend="justify">MUREX erythrostomus.</p>
+            <p rend="justify">
+               <hi rend="italic">Pink-mouthed Murex.</hi>
+            </p>
+            <p rend="justify">Family Buccinidæ. Sub-family Muricinæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">(Type 1.) <hi rend="italic">Shell spinous: varices between the two lips four; armed with conic, generally pointed spines, the upper and lower of which are vaulted; colour reddish white, articulated with brown: false varices intermediate; aperture rosey: inner lip smooth.</hi>
+            </p>
+            <p rend="justify">Messrs. Stuchbury obligingly forwarded us fine specimens of this lovely species, for comparison with <hi rend="italic">M. Regius</hi>  and <hi rend="italic">Imperialis</hi>. In general habit it has a close affinity to the first, but is distinguished by intermediate false varices, which in that species are wanting; while the upper and lower spines are alone vaulted: from <hi rend="italic">Imperialis</hi>  our shell is further removed, by the varices being spinous, instead of nodulous; this latter character being seen only in the intermediate protuberances, and in the false varices.</p>
+            <p rend="justify">We have already intimated our belief that <hi rend="italic">Murex</hi>  and <hi rend="italic">Cassis</hi>  represent two equivalent groups; and these, as containing several established genera, we shall consider as sub-families: giving them the usual termination of <hi rend="italic">inæ</hi>. Those higher naturalists, who have long since abandoned the belief in absolute divisions and isolated genera, are fully aware that no groups are more likely to exhibit the arrangement of nature, than such as contain numerous species, under a great diversity of forms. The <hi rend="italic">Murices</hi>  are of this description, and appear to exhibit, among themselves, a circular series. <hi rend="italic">Triton</hi>  and <hi rend="italic">Murex</hi>  also seem typical genera, and of equal value. <hi rend="italic">Ranella</hi>  obviously belongs to the first; yet, as it is merely a subordinate type of form, we cannot, under this belief, retain it as a <hi rend="italic">genus</hi>, without a manifest inconsistency; unless, indeed, it is thought expedient to consider the types of form in <hi rend="italic">Murex</hi>, as so many genera, and elevate three others in <hi rend="italic">Triton</hi>  to the same rank; a refinement in nomenclature, which we cannot think is in the least degree necessary.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  74.</p>
+            <p rend="justify">EUTERPE <hi rend="italic">Terea</hi>.</p>
+            <p rend="justify">Plate 74.</p>
+            <p rend="justify">EUTERPE Terea.</p>
+            <p rend="justify">Papilio. (<hi rend="italic">pars.</hi>) <hi rend="italic">Latrielle.</hi>  Sub-family Pieresinæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Antennæ</hi>  lengthened, terminating in a broad, very compressed, spatulate club. <hi rend="italic">Palpi</hi>  hairy; the first joint very long, exceeding the united length of the two next: second joint half as long as the first; third very small, manifestly shorter than the second. <hi rend="italic">Anterior wings</hi>  long, papilioniform; the exterior margin longer than the posterior. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Wings above black: anterior both above and below, with a trifid white or yellowish central spot: posterior with a four-parted rosey spot; and varigated beneath, at the base, with yellow and rosy stripes.</hi>
+            </p>
+            <p rend="justify">Papilio Terias. <hi rend="italic">Latrielle &amp; Godart. En. Meth. 1. p. 38. No. 39.</hi>
+            </p>
+            <p rend="justify">Nature has so completely disguised this Butterfly in the form and colours of a genuine Papilio, as to have deceived the first entomologist now in Europe, and his most skilful and accurate coadjutator. In the <hi rend="italic">Ency. Methodique</hi>  we find this species recorded as a <hi rend="italic">Papilio</hi>; whereas it perfectly agrees, in all the details of its structure, with the characters proposed in that valuable work for the genus <hi rend="italic">Pieris</hi>. Whether nature has employed this beautiful device to indicate the group which next succeeds in her series, or whether she has intended it to point out a strong analogy, are questions which, in our present imperfect knowledge of Lepidopterous groups, cannot be answered.</p>
+            <p rend="justify">Of this group we possess several new and highly interesting species. It is worthy of remark, that they were all collected in one particular locality, and at the same season. This was during a short residence at Mandioca, the plantation of Dr. Langsdorff, among the woods at the base of the Organ mountains, near Rio de Janeiro.</p>
+            <p rend="justify">We believe this group is restricted to tropical America, where it probably represents the genuine <hi rend="italic">Pieres</hi>, (as defined at pl. 69,) of the Old World. The present species is subject to much variation in the size, proportion, and colour of its spots: the white is sometimes pale yellow, and the rosy becomes of a deeper and brighter hue.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  75.</p>
+            <p rend="justify">PELEUS.<lb/>
+               <hi rend="italic">1. Gentius. 2. Æacus</hi>
+            </p>
+            <p rend="justify">Plate 75.</p>
+            <p rend="justify">PELEUS Æacus.</p>
+            <p rend="justify">Family Hesperidæ.</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Antennæ</hi>  not hooked, the club formed into a long, slender, fusiform arch. <hi rend="italic">Wings</hi>  with both surfaces alike, horizontally divaricated when at rest; posterior rounded, entire; broader from the base to the anal angle, than to the exterior margin.</p>
+            <p rend="justify">Type. Hesp. Peleus. <hi rend="italic">Fab.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Wings deep brownish black; anterior with a redish transverse band, united to a spot of the same, and tipt with a sub-hyaline band of redish orange.</hi>
+            </p>
+            <p rend="justify">Hesp. Peleus. <hi rend="italic">Fab. Cramer, pl. 284, f. F.</hi>
+            </p>
+            <p rend="justify">Entomologists, from being acquainted only with the habits of the European species of this family, represent the <hi rend="italic">Hesperidæ</hi>  as resting with only the hinder wings elevated: This is altogether a mistake. Some groups, indeed, assume this position when basking in the sun, or taking food; but even these, when fairly at rest, erect their wings in the ordinary manner: a fact we have repeatedly witnessed. Not so, however, with the group we now illustrate: and which is peculiar to South America. These insects rest <hi rend="italic">with all the four wings expanded</hi>; and hide themselves during the meridian heat, on the under side of broad leaves, in the deep forests. From never appearing exposed, this species long escaped our search, but having once discovered this singular part of its economy, we captured it in abundance. It probably feeds, like many of the <hi rend="italic">Sphingides</hi>, or Hawk Moths, in the morning and evening, but its haunts were too far from our habitation, to allow of ascertaining this point.</p>
+            <p rend="justify">PELEUS Gentius.</p>
+            <p rend="justify">
+               <hi rend="italic">Anterior wings black, with three yellow bars, posterior yellow, with a simple black border.</hi>
+            </p>
+            <p rend="justify">Hesp. Gentius. <hi rend="italic">Fab. Cramer, pl. 179, f. C.</hi>
+            </p>
+            <p rend="justify">Our specimens of this very rare insect were captured by Dr. Langsdorff, in the interior of Southern Brazil, the colours of the under surface of the wings are the same as those of the upper.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  76.</p>
+            <p rend="justify">MALACONOTUS <hi rend="italic">atro-coccineus</hi>.<lb/>
+               <hi rend="italic">Black &amp; crimson Shrike.</hi>
+            </p>
+            <p rend="justify">Plate 76.</p>
+            <p rend="justify">MALACONOTUS atro-coccineus.</p>
+            <p rend="justify">
+               <hi rend="italic">Burchell's Shrike.</hi>
+            </p>
+            <p rend="justify">Generic Character, &amp;c. See Pl. 71.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Black, beneath crimson: lesser wing covers banded with white, greater covers and lesser quills with a broad, white, longitudinal stripe.</hi>
+            </p>
+            <p rend="justify">Malaconotus atro-coccineus. <hi rend="italic">Burchell, Zool. Journ. 1. p. 461. Pl. 18.</hi>
+            </p>
+            <p rend="justify">Mus. D. Burchell.</p>
+            <p rend="justify">Among the few Ornithological subjects which that accomplished traveller, Mr. Burchell, has yet published from his vast collections of African Zoology, is the charming bird here figured. It was discovered near Litakoon, the principal town of the Bachapins, a nation never before known to Europeans. Its principal range is between lat. 27. 20. and 29. 10. S. on the meridian of 24. E. "To a traveller," continues our friend, "wandering through the airy groves of the <hi rend="italic">Transgaripine</hi>, the sight of these <hi rend="italic">Lanii</hi>, flying from branch to branch above his head, and displaying their fine colour in all its brilliancy, suddenly arrests his steps, and claims his admiration. Viewed in such a position, little of their black colour is seen, and they then appear to be entirely scarlet."</p>
+            <p rend="justify">A most beautiful analogy may be traced between the two principal groups of the Bush Shrikes, and those of the Ant-thrushes. The genus <hi rend="italic">Malaconotus</hi>  corresponds to the <hi rend="italic">Pittæ</hi>, in being restricted to the old world, in the vivid colours of their plumage, and the connexion, in the typical species, of the two outer toes. In <hi rend="italic">Thamnophilus</hi>  and <hi rend="italic">Myothera</hi>, both American groups, the colours are uniformly dark; and their resemblance in structure is so close, that no author has yet pointed out their distinctions.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  77.</p>
+            <p rend="justify">HARPULA VEXILLUM.<lb/>
+               <hi rend="italic">Orange Flag Volute.</hi>
+            </p>
+            <p rend="justify">Plate 77.</p>
+            <p rend="justify">HARPULA vexillum.</p>
+            <p rend="justify">
+               <hi rend="italic">Orange-flag Volute.</hi>
+            </p>
+            <p rend="justify">Family Volutidæ. Sub-family Volutinæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Generic Characters.</p>
+            <p rend="justify">Shell generally tuberculated or longitudinally ribbed: apex of the spire papillary, smooth, and in general distorted: Pillar with numerous distinct plaits; the upper small and slender, the lower thickest and shortest.</p>
+            <p rend="justify">Type. <hi rend="italic">Voluta Hebræa.</hi>  Lam.</p>
+            <p rend="justify">Types of form. I. Vol. Hebræa, musica, pusio, polyzonalis, &amp;c. II. Vol. bullata? III. Vol. multicostata, mitræformis, costata, lyriformis, nucleus, &amp;c. IV. Vol. rupestris, dubia? V. Vol. lapponica, vexillum. <hi rend="italic">Auct.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell either smooth, or slightly and acutely tuberculated; white with numerous bands of orange; pillar thickened in the middle, and marked with from six to eight plates.</hi>
+            </p>
+            <p rend="justify">Voluta vexillum. <hi rend="italic">Auct. Lam. Syst. 7. 346. Ency. Meth. pl. 381 f. 1. a. b. optimè.</hi>
+            </p>
+            <p rend="justify">Few Volutes can exceed this in elegance or beauty. The peculiarity of its markings, resembling the national colours of Holland, has procured it the name of the Orange-flag Volute. Although long known to Conchologists, it still continues a rare shell to our cabinets, and is much sought for on the continent, particular among the collectors in Holland; they view it with something of a national fondness, and value it at a high price. It is brought from Amboyna, and some other islands of the Indian Ocean. The many-plaited Volutes, form one of the most natural groups in the whole department of Conchology; and one which the most unpractised student will have no difficulty in understanding. The more experienced Conchologist, in studying its contents, will detect some very extraordinary and beautiful analogies. It contains, in fact, representations of all the principal divisions of the old genus Voluta, and also of the corresponding groups among the Mitras; to which sub-family it forms the true passage. We feel some hesitation, however, in regard to the second type; or that which must lead immediately to <hi rend="italic">Volutilithes</hi>; as we rather suspect that the true type, or more properly the annectant form, by which this union is effected, has not yet been discovered. We share also in Mr. Broderips doubts, regarding the situation of his <hi rend="italic">V. dubia</hi>.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  78.</p>
+            <p rend="justify">OLIVÆ PL. 3.<lb/>
+               <hi rend="italic">Hiatula Lamarci 2. pallida. 3. maculata.</hi>
+            </p>
+            <p rend="justify">Plate 78.</p>
+            <p rend="justify">OLIVÆ. Pl. 3.</p>
+            <p rend="justify">
+               <hi rend="italic">The Wide-mouthed Olives.</hi>
+            </p>
+            <p rend="justify">Family Volutidæ. Genus Oliva. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Sub-Genus Hiatula. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Suture channelled. Pillar above smooth, not thickened, beneath tumid, and marked with a few oblique plaits: base of the aperture very wide.</p>
+            <p rend="justify">Specific Characters.</p>
+            <p rend="justify">Hiatula Lamarci. <hi rend="italic">Fulvous brown: pillar white, with about four lengthened plaits, and intermediate shortened ones between them, inner margin of the lip brown.</hi>  Fig. 1.</p>
+            <p rend="justify">H. pallida. <hi rend="italic">Aperture and base of the pillar livid brown: plaits 4-5, simple, equal; inner margin of the lip pale.</hi>  Fig. 2.</p>
+            <p rend="justify">H. maculosa. <hi rend="italic">Aperture orange, marked above with a black spot: base of the pillar white, the plaits small, crowded, and of unequal length.</hi>  Fig. 3.</p>
+            <p rend="justify">Mus. Nost.</p>
+            <p rend="justify">As the connection of the Olives with the Mitres has been illustrated in a former number, we now characterize the sub-genus by which the former are united to the <hi rend="italic">Ancillariæ</hi>. The thickened and oblique plaits on the pillar, its smoothness on the upper part, and the great width of the aperture, are all characters which render this affinity unquestionable, and detach the group from the more common and typical Olives before alluded to.</p>
+            <p rend="justify">Since we published the figure of <hi rend="italic">Oliva striata</hi>, (Oliva, <ref target="http://www.gutenberg.org/files/44056/44056-h/44056-h.htm#plate40">Pl. 1</ref>. f. 2.) we have procured the true <hi rend="italic">Ancillaria canalifera</hi>  of Lamark, and find it as we suspected, a very different shell. As <hi rend="italic">Hiatula</hi>  leads to the <hi rend="italic">Ancillariæ</hi>, so does the sub-genus <hi rend="italic">Olivella</hi>, (comprising the small operculated Olives) conduct us to the Mitres, by means of <hi rend="italic">Olivella volutella</hi>, already figured in this work. We believe the <hi rend="italic">third</hi>  aberrant form is represented by our <hi rend="italic">Oliva striata</hi>, but we shall not proceed to characterize it as a sub-genus, until a better acquaintance with the group is obtained; its analogy to <hi rend="italic">Conohelix</hi>, by its external sculpture, seems to us a strong ground of distinction.</p>
+            <p rend="justify">We procured all these wide-mouthed Olives from the Messrs. Stuchbury, to whom we are often indebted for the loan of interesting specimens.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  79.</p>
+            <p rend="justify">PIERIS LIMNOBIA.<lb/>
+               <hi rend="italic">S. G. Melete.</hi>
+            </p>
+            <p rend="justify">Plate 79.</p>
+            <p rend="justify">PIERIS (<hi rend="italic">Melete</hi>) Limnobia.</p>
+            <p rend="justify">
+               <hi rend="italic">Yellow-underwing White.</hi>
+            </p>
+            <p rend="justify">Genus Pieris, Lat.</p>
+            <p rend="justify">Characters.</p>
+            <p rend="justify">
+               <hi rend="italic">Antennæ</hi>  as in <hi rend="italic">Euterpe</hi>. <hi rend="italic">Palpi</hi>  lengthened, the terminal joint linear, pointed, nearly naked, and longer than either of the two next. <hi rend="italic">Anterior wings</hi>  trigonal, the exterior and the posterior margins of equal length: <hi rend="italic">posterior wings</hi>  dilated. <hi rend="italic">Male</hi>  with the terminal abdominal valves large, abruptly attenuated, and hooked.</p>
+            <p rend="justify">Type. Pieris Limnobia. Lat. &amp; Godart.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Anterior wings above yellowish white, with a black triangular exterior border, and a costal band in the female. Posterior above yellow, with an orange border, divided in the female, into round spots upon a black ground: under surface with a deep brown border, unspotted.</hi>
+            </p>
+            <p rend="justify">Pieris Limnobia. <hi rend="italic">Ency. Meth. 1 p. 144. No. 93.</hi>
+            </p>
+            <p rend="justify">—— Lycimnia? <hi rend="italic">Cramer pl. 105. f. E. F. Ency. Meth. No. 92?</hi>
+            </p>
+            <p rend="justify">We found this pretty Butterfly in profusion near the woods of Mandioca, at the foot of the Organ Mountains of Rio de Janeiro; when in company with our learned friend Professor Raddi, now prosecuting his researches in Egypt: it appears late in the season, and frequents the flowery openings of thick woods. The female is without the black costal band, and the margins of the lower wings are simply orange. The accurate description of <hi rend="italic">Limnoria</hi>  in the <hi rend="italic">Ency. Meth.</hi>  perfectly accords with our specimens; but we suspect the <hi rend="italic">Lycimnia</hi>  of Cramer is also the same species.</p>
+            <p rend="justify">In illustrating the Lepidopterous insects, we shall first define all those variations in form, which appear to us sufficiently important; directing our chief attention to the external anatomy of the perfect insect. These groups or forms, we shall provisionally name: we shall next endeavour to detect their true affinities, and their relative value; abolishing such as may be found unnecessary, and confirming others which assume a higher station. We intend, in short, to proceed only by analysis, and we therefore wish that any incidental remarks, made by us in the interim, may be looked on with suspicion: or at least, with that doubt which must attend all opinions resulting only from synthesis.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  80.</p>
+            <p rend="justify">CRATEROPUS REINWARDII.<lb/>
+               <hi rend="italic">Black masked Thrush.</hi>
+            </p>
+            <p rend="justify">Plate 80.</p>
+            <p rend="justify">CRATEROPUS Reinwardii.</p>
+            <p rend="justify">
+               <hi rend="italic">Black-masked, or Reinwardts Thrush.</hi>
+            </p>
+            <p rend="justify">Family Merulidæ. Sub-family Macropodianæ.</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">Bill hard, compressed, either slightly notched or entire: wings and tail rounded, the former short, the latter broad. Feet remarkably large and strong; the two outer fore toes equal, the middle lengthened; hind toe and claw very large; claws compressed, strong, and but slightly curved.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Above grey; throat spotted; wings and tail brown; head and ears black; chin white.</hi>
+            </p>
+            <p rend="justify">In Mus. Paris. Nost.</p>
+            <p rend="justify">Of the habits of this plain, but singularly formed bird, we know nothing. It is, we believe, one of the numerous discoveries made by that able Zoologist, Professor Reinwardt, in the Indian Islands; and should it not be already described, (a point we cannot fully ascertain,) we trust it may be allowed to bear the name of one, whose important labours merit the thanks and respect of all the scientific world.</p>
+            <p rend="justify">The length of our specimen, as indicated by the scale on the plate, is ten inches and three quarters. The feet, in all their details, are uncommonly strong, while the wings are feeble and much rounded. The fifth and sixth quills are longest; the scapular quills and the tail feathers, when held to the light, exhibit transverse dark shades.</p>
+            <p rend="justify">We have elsewhere pointed out<hi rend="sup">[7]</hi>  the characters by which the strong legged Thrushes form one of the sub-families of the <hi rend="italic">Merulidæ</hi>; the two other aberrant divisions, being represented by the true Orioles (<hi rend="italic">Oriolinæ</hi>,) and the short legged Thrushes (<hi rend="italic">Brachypinæ</hi>.) That these form a circle of their own, independant of the Ant Thrushes (<hi rend="italic">Myotherinæ</hi>,) and the true Thrushes (<hi rend="italic">Merulinæ</hi>) has unintentionally been proved by M. M. Temminck and Vigors; the first in proposing, and the latter in adopting, the genus <hi rend="italic">Ixos</hi>; an artificial group, compounded of birds totally dissimilar to each other, but which, in the progression of certain species, demonstrate the circular arrangement of the three subfamilies above named.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  81.</p>
+            <p rend="justify">PRIONITES <hi rend="italic">Martii</hi>.<lb/>
+               <hi rend="italic">Martius's Motmot.</hi>
+            </p>
+            <p rend="justify">Plate 81.</p>
+            <p rend="justify">PRIONITES Mexicanus.</p>
+            <p rend="justify">
+               <hi rend="italic">Mexican Motmot.</hi>
+            </p>
+            <p rend="justify">Family Trogonidæ. Sub-family Prionitinæ. <hi rend="italic">Nob.</hi>
+               <lb/>(<hi rend="italic">See Northern Zoology, 2. p. 326.</hi>)</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Small, above green, beneath paler; head and neck above cinnamon, ears black, varied and tipped with bright blue stripes; belly white.</hi>
+            </p>
+            <p rend="justify">Momotus Martii. <hi rend="italic">Jardine &amp; Selby. Ill. of Orn. 2 pl. 25.</hi>
+            </p>
+            <p rend="justify">Prionites Mexicanus. <hi rend="italic">Swains. Phil. Mag. June 1827. p. 442.</hi>
+            </p>
+            <p rend="justify">The Motmots, so named from their monotonous note, live only in the tropical forests of the New World, preferring those deep recesses of perpetual shade, where a high canopy of matted foliage, nearly excludes the rays of a vertical sun. They appear even more solitary in their disposition than the Trogons; their note may be heard, morning and evening, from the depths of the forests, but the bird is never seen, unless the hunter comes unexpectedly upon its retreat. This we have generally found to be a low, withered branch, completely shaded, and just at the edge of such paths as are made by the Cavies, or the Indians. The Jacamas and the Trogons both love these shady nooks, where they sit nearly motionless, watching for passing insects, upon which they dart. Such is, no doubt, the manner in which the Motmot feeds; but his strong confirmation enables him to capture larger game. Travellers assert that he also devours the eggs and young of other birds, like the Toucans: this we believe, as both have the same long and feather-like tongue. Thus has nature allied these two groups, each standing at the confines of their own tribe: incontestably proving the union of the Scansores, Teniurostres, and Fissirostres, into one great circle.</p>
+            <p rend="justify">The present species has only been found in Mexico, although the London Ornithologists have confounded it with the Prionites Martii of Brazil. Hence the error of Sir W. Jardine and Mr. Selby, and adopted upon our plate. Distrusting our first opinion, we believed the London co-adjutors of these gentlemen, having access to the original work of Dr. Spix, could not have made such a blunder, but a personal inspection of the original figure decided the question. No two species can well be more different.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  82.</p>
+            <p rend="justify">TROGON MEXICANUS.<lb/>
+               <hi rend="italic">Mexican Trogon</hi>
+            </p>
+            <p rend="justify">Plate 82.</p>
+            <p rend="justify">TROGON Mexicanus.</p>
+            <p rend="justify">
+               <hi rend="italic">Mexican Trogon. Male.</hi>
+            </p>
+            <p rend="justify">Tribe Fissirostres. Family Trogonidæ.</p>
+            <p rend="justify">Sub-family Trogoninæ. (G. Trogon. <hi rend="italic">Auct.</hi>)</p>
+            <p rend="justify">Generic Character. See Lesson Man. 2 p. 139.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Above golden green, beneath crimson; tail black; the three outer feathers banded with white on their outer web only; inner webs with an oblique white stripe along their shafts; the inner edge spotted with white.</hi>  Male.</p>
+            <p rend="justify">Trogon Mexicanus, female. <hi rend="italic">See Swains. in Phil. Mag. June 1827.</hi>
+            </p>
+            <p rend="justify">Mus. Dom. Taylor.</p>
+            <p rend="justify">The Trogons are found only in the dark primeval forests of the Tropics; shunning the haunts of man, and living in solitude and silence. It is not, therefore, to be wondered at, that their peculiar economy should be shrouded in mystery, or that the naturalists of Europe should be much perplexed in finding them a place in their artificial or their natural systems. Our researches in Tropical America, will enable us to communicate, in the forthcoming volume of Northern Zoology, some very singular information on these birds, which we shall not now anticipate.</p>
+            <p rend="justify">The species are much more numerous then is imagined, but they are, perhaps, less understood than those of any one group of Ornithology. Males of different species are classed as the same, while their females are considered as distinct. The number enumerated in the last edition of the Synopsis of Birds as inhabiting all South America, is six; but we possess eight species from Brazil alone; besides several others, which it is impossible to identify from books.</p>
+            <p rend="justify">The Mexican Trogon was first described by us, from a bird, which we felt assured was a female; and this belief was soon after confirmed, by the arrival of a fine specimen of the male, to Mr. Taylor, from Real del Monte; in whose possession it now is. We shall defer a detailed account of its plumage, until we illustrate the other sex.</p>
+            <p rend="justify">Total length 11 in. bill nine-tenths, wings 5¾, tail 7¾, the outermost feather 3½ in. shorter.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  83.</p>
+            <p rend="justify">CYMBIOLA <hi rend="italic">vespertilio</hi>.<lb/>
+               <hi rend="italic">Bat Volute.</hi>
+            </p>
+            <p rend="justify">Plate 83.</p>
+            <p rend="justify">CYMBIOLA vespertilio.</p>
+            <p rend="justify">
+               <hi rend="italic">Bat Volute.</hi>
+            </p>
+            <p rend="justify">Family Volutidæ. Sub-family Volutinæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">Shell armed with spinous tubercles, sometimes smooth but never ribbed; spiral whorls gradually diminishing in size, but not distorted; the apix thick and obtuse; pillar with four plaits.</p>
+            <p rend="justify">Types of Form.—1. Marmorata. Broderpia. <hi rend="italic">Sw.</hi>  (Cymbiola. <hi rend="italic">Sow.</hi>) 2. Vespertilio. Nivosa. Rutila. Aulica. Pulchra. Pacifica. 3. Elongata (?) Gracilis. Magnifica. Tuberculata. 4. ——? 5. Lugubris.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell armed with spinous tubercles, pale fulvous with remote angular waved lines of brown; spiral whorls plaited; pillar with four plaits.</hi>
+            </p>
+            <p rend="justify">Voluta vespertilio. <hi rend="italic">Lam. Sys. 7. 1. p. 336.</hi>
+            </p>
+            <p rend="justify">The second or sub-typical genus of the Volutes, appears to be represented by this common though elegant species; here figured from one of the largest specimens we have ever seen. The group is chiefly distinguished by the very obtuse but regular termination of its spire, the whorls of which are never distorted or disproportionately inflated: the plaits are always four, and the pillar is never thickened in the middle: the shells of all the typical species are furnished with pointed tubercles; and from their general aspect, do not appear to be covered, like the typical Volutes, by the dilated mantle of the animal, yet the two groups blend into each other by means of the first type of form above indicated.</p>
+            <p rend="justify">As we have deemed it advisable to employ the name of <hi rend="italic">Cymbiola</hi>, (hitherto used in a <hi rend="italic">specific</hi>  sense), as a generic appellation for the whole group, we trust that those who may adopt our views, will hereafter distinguish the <hi rend="italic">Voluta cymbiola</hi>  of Sowerby, now in the cabinet of Mr. Broderip, by the name of <hi rend="italic">Cymbiola Broderpia</hi>, in just commemoration of a gentleman whose knowledge of conchology, and whose general labours in the cause of science we have so often had occasion to honour.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  84.</p>
+            <p rend="justify">VOLUTA <hi rend="italic">cymbium</hi>.<lb/>
+               <hi rend="italic">Marbled Melon.</hi>
+            </p>
+            <p rend="justify">Plate 84.</p>
+            <p rend="justify">VOLUTA cymbium.</p>
+            <p rend="justify">
+               <hi rend="italic">Clouded Melon Volute.</hi>
+            </p>
+            <p rend="justify">Sub-family Volutinæ <hi rend="italic">Nob.</hi>  (Gen. Melo. Cymba. Voluta. <hi rend="italic">Brod.</hi>)</p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">Shell enveloped by the mantle of the animal: oval, ventricose; spire very obtuse, papillary, remarkably short, the whorls (when defined) abruptly lessening. Pillar with from 3 to 4 carinated plaits.</p>
+            <p rend="justify">Types of Form.—1. V. fulgetrum. 2. V. cymbium. olla. Neptuni, porcina, proboscidalis, rubiginosa. 3. melo, tessellata, Ethiopica, diadema, armata, nautica. 4. Imperialis, Scapha (?) 5. angulata. <hi rend="italic">Auct.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">Type 2. <hi rend="italic">Shell ovate, marbled with rufous and white, suture channelled, the margin carinated: spire rude, irregular, plaits on the pillar variable.</hi>
+            </p>
+            <p rend="justify">Voluta cymbium. <hi rend="italic">Auct. Lam. Sys. 7. 9. 332, Ency. Meth. pl. 386, f. 3.</hi>—L'Yet, <hi rend="italic">Adans. Seneg. pl. 3. f. 1. p. 44.</hi>
+            </p>
+            <p rend="justify">Cymba cymbium. <hi rend="italic">Brod. in Sow. Genera.</hi>
+            </p>
+            <p rend="justify">That the system of nature is essentially a system of types and symbols, is a truth which has not only been perceived by philosophers, but is apparent to every attentive observer of nature. It has been our endeavour, in the second volume of <hi rend="italic">Northern Zoology</hi>, to investigate this system, and to ascertain those laws by which it is regulated. One of the results of this enquiry has been, that every genus, pre-eminently typical, contains a greater number of forms than any other; the necessary consequence of comprising within itself, representations of every division in the whole family. By this test must our present definition of the typical genus <hi rend="italic">Voluta</hi>  be tried. We consider this particular species as the type of the whole group: according to Adanson, it is abundant on the western coast of Africa, where it is stated to vary considerably, both in its colour and in its plaits. To the same traveller we are indebted for the best account of the animal, which he describes under the name of L'Yet. It has been thought, indeed, that this is the <hi rend="italic">Voluta neptuni</hi>, but as the interior of Adanson's L'Yet is "blanche" and that of <hi rend="italic">Neptuni</hi>  is yellowish orange, we rather think that the French writer intended to designate the <hi rend="italic">Voluta cymbium</hi>  of systematic authors.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  85.</p>
+            <p rend="justify">ENDYMION <hi rend="italic">regalis</hi>.<lb/>
+               <hi rend="italic">Maroon banded Hair streak.</hi>
+            </p>
+            <p rend="justify">Plate 85.</p>
+            <p rend="justify">ENDYMION regalis.</p>
+            <p rend="justify">
+               <hi rend="italic">Maroon-banded Hair-streak.</hi>
+            </p>
+            <p rend="justify">Tribe Papiliones. Family, Polyommatidæ. Sub-family, Theclanæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Sub-Generic Character.</p>
+            <p rend="justify">Palpi in one sex (male) scarcely projecting beyond the head, the last joint very minute; in the other (female) lengthened, porrect, curved downwards, the last joint as long as that which precedes it; in both obtuse and covered with close-set scales; posterior wings four tailed.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Wings above shining blue: beneath golden emerald green, with a common black stripe, and a broad red band on the posterior wings; ocelli none.</hi>
+            </p>
+            <p rend="justify">Papilio regalis. <hi rend="italic">Cramer. Ins. Pl. 72. f. E. F.</hi>
+            </p>
+            <p rend="justify">Hesperia Endymion. <hi rend="italic">Fab. Ent. Sys. 3. 1. 268.</hi>
+            </p>
+            <p rend="justify">This superb butterfly, both in size and brilliancy of colour, may vie with the Emerald Hair-streak, and both are among the most beautiful of their family yet discovered. The general colour of the under surface is of the richest golden green; the under wings being crossed by a broad bar of deep maroon, softened into pearly white. The female is known by being the largest, and by having the black margin of the upper wings much broader. Our specimens were captured in Brazil. Lat 8. 12. S.</p>
+            <p rend="justify">The palpi, which in the sub-genus <hi rend="italic">Arcas</hi>  are equally long and perfect in both sexes, are very different in the male and female of the present sub-genus. In other respects there seems to be a close affinity between them. We have not had time, however, to enter upon their minute dissection.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  86.</p>
+            <p rend="justify">GARRULUS SORDIDUS.<lb/>
+               <hi rend="italic">Dusky bodied Jay.</hi>
+            </p>
+            <p rend="justify">Plate 86.</p>
+            <p rend="justify">GARRULUS sordidus.</p>
+            <p rend="justify">
+               <hi rend="italic">Dusky-bodied Jay.</hi>
+            </p>
+            <p rend="justify">Family Corvidæ. Sub-family Garulinæ. <hi rend="italic">Nob.</hi>
+               <lb/>
+               <hi rend="italic">See Northern Zoology, 2. p. 288.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Above dusky blue, brighter upon the crown, wings, and tail; beneath grey; chin and belly whiteish; ears blackish; tail distinctly rounded.</hi>
+            </p>
+            <p rend="justify">Garrulus sordidus. <hi rend="italic">Swains. Synopsis, No. 66.</hi>  (<hi rend="italic">Phil. Mag. June 1827.</hi>)</p>
+            <p rend="justify">The Jays, although allied to the Crows, have many peculiar characteristics. While the latter roam about and seek their food in all situations, the Jays confine themselves to thick woods, feeding upon fruits, insects, and eggs, and seldom perch upon the ground. In unison with that symbolical system which pervades all nature, we find a perfect representation of this group in the Bush-Shrikes of the new world.</p>
+            <p rend="justify">America seems to possess three Jays, closely resembling each other, but each (if they have been described correctly) having some peculiar distinction. As these have not been clearly stated, and as some confusion has consequently crept into the subject, we shall shortly state their distinctions. The Florida Jay of Prince C. Bonaparte, (G. Floridamus) which has been thought the same as ours, is a much smaller bird, being only 11½ in. long, and the back is "yellowish brown," not dusky blue, (See <hi rend="italic">Bon. Am. Orn. 2. p. 61.</hi>) The <hi rend="italic">Garrulus ultramarinus</hi>  of the same noble and learned writer, appears to us from the following account, to be distinct from either. "Its principal characters may be found in its larger dimensions, but especially in the shape of its tail, which is <hi rend="italic">perfectly even, and not in the least cuneiform</hi>, as it generally is in all the Jays," (<hi rend="italic">Am. Orn. 2. 62.</hi>) Now the tail of our species is <hi rend="italic">decidedly rounded</hi>, the outer feather being full one inch shorter than the middle.</p>
+            <p rend="justify">The <hi rend="italic">Garrulus sordidus</hi>  inhabits the table land of Mexico, from whence our specimen was received. Total length, 11 in.: bill, 1½: wings, 7: tarsi, 17⁄10: tail, 6½ in.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  87.</p>
+            <p rend="justify">SCAPHELLA <hi rend="italic">maculata. Sw.</hi>
+               <lb/>
+               <hi rend="italic">Olive Volute.</hi>
+            </p>
+            <p rend="justify">Plate 87.</p>
+            <p rend="justify">SCAPHELLA maculata.</p>
+            <p rend="justify">
+               <hi rend="italic">Olive Volute.</hi>
+            </p>
+            <p rend="justify">Family Volutidæ. Sub-family Volutinæ. <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Generic Character.</p>
+            <p rend="justify">Shell fusiform, invariably smooth and polished: spiral whorls gradually diminishing in size, the apex obtuse but rarely thickened or distorted: pillar generally gibbous in the middle, with from four to six thick and unequal plaits: margin of the outer lip thickened.</p>
+            <p rend="justify">Typical Species.—Scaph. undulata. Junonia, maculata, zebra.</p>
+            <p rend="justify">Aberrant Species.—Scaph. papillaris, elongata (?)</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell small, oval, fulvous, with longitudinal purplish-brown spots, disposed in three transverse bands: spire conical: pillar four plaited, not gibbous.</hi>
+            </p>
+            <p rend="justify">Voluta maculata. <hi rend="italic">Swains. Bligh. Cat. app. p. 11.</hi>
+            </p>
+            <p rend="justify">Of this distinct and very remarkable genus of Volutes, few species have hitherto been discovered: the subordinate divisions cannot therefore be traced; nor do we feel satisfied that all the typical characters have been detected: we consider it nevertheless, as a perfectly natural genus, absolutely essential to mark the connection between the Volutes and the <hi rend="italic">Marginillæ</hi>. Lamark, indeed, as if aware of this affinity, actually describes one species as a <hi rend="italic">Marginilla</hi>. The union of the three aberrant genera of <hi rend="italic">Scaphella</hi>, <hi rend="italic">Volutilithes</hi>, and <hi rend="italic">Harpula</hi>, into one circle, is effected by the <hi rend="italic">Scap. papillaris</hi>  and the <hi rend="italic">Harpula Lapponica</hi>: the former species conducting us at the same time to the typical Volutes, by means of <hi rend="italic">Voluta fulgetrum</hi>  of Sowerby.</p>
+            <p rend="justify">
+               <hi rend="italic">Scaphella maculata</hi>  is a native of the Australian seas, and is of great rarity. Our drawings were made from one of the beautiful specimens in Mr. Broderip's possession, It is probable that the animals of this genus envelope their shells in an ample mantle, since they are almost always enamelled.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  88.</p>
+            <p rend="justify">ARCAS <hi rend="italic">Imperialis</hi>.</p>
+            <p rend="justify">Plate 88.</p>
+            <p rend="justify">ARCAS imperialis.</p>
+            <p rend="justify">
+               <hi rend="italic">Emerald Hair-streak.</hi>
+            </p>
+            <p rend="justify">Tribe, Papiliones. Family, Polyommatidæ. Sub-family, Theclanæ, <hi rend="italic">Nob.</hi>
+            </p>
+            <p rend="justify">Sub-Generic Character.</p>
+            <p rend="justify">Palpi, in both sexes, very long, thick, porrect, twice as long as the head, curved downwards, all the joints entirely covered with close-set scales, posterior wings six-tailed.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Above shining blue: beneath emerald-green, marked with minute black waved lines.</hi>
+            </p>
+            <p rend="justify">Papilio imperialis. <hi rend="italic">Cramer, Pl. 75. f. E. F.</hi>
+            </p>
+            <p rend="justify">Hesperia Venus. <hi rend="italic">Fab. Ent. Sys. 3. 1. 268.</hi>
+            </p>
+            <p rend="justify">It is impossible to depicture with correctness, the resplendant blue which ornaments the upper surface, or the vivid emerald green on the under wings, of this rare and splendid insect. It is possessed by few collectors; nor did we capture more than three specimens, during two years devoted to the entomology and ornithology of Brazil. The male is distinguished by a black central spot on the anterior wings. The very remarkable prolongation of the palpi, which are alike in both sexes, induces us to consider this insect as a type of form, or in other words, a sub-genus: but we are at present unprepared to state any thing satisfactory on its true affinities.</p>
+            <p rend="justify">We have thought it right in this and other instances, to retain the original specific name of Cramer; and we shall do the same in all instances where it will not produce a discordant union of generic and specific names. On this head, as the principle of Linnæus, from the great number of new genera since defined, can no longer be acted upon, we think that specific appellations, derived from some character of the insect, are much better, in every respect, than attempting to render the nomenclature of the Lepidoptera a correct index to the mythology of the Ancients.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  89.</p>
+            <p rend="justify">CHLORISSES <hi rend="italic">Sarpedon</hi>.</p>
+            <p rend="justify">Plate 89.</p>
+            <p rend="justify">CHLORISSES Sarpedon,</p>
+            <p rend="justify">
+               <hi rend="italic">Sarpedon Butterfly.</hi>
+            </p>
+            <p rend="justify">NATURAL GROUPS.</p>
+            <p rend="justify">Tribe, Papiliones. <hi rend="italic">Family</hi>, Papilionidæ. <hi rend="italic">Sub-fam.</hi>  Papilionæ.</p>
+            <p rend="justify">
+               <hi rend="italic">Genus</hi>  ——. <hi rend="italic">Sub-Genus</hi>, Chlorisses, <hi rend="italic">Nobis</hi>.</p>
+            <p rend="justify">Sub-Generic Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Wings</hi>, black, banded or variegated with green: the posterior narrowed, with obsolete acute tails; <hi rend="italic">Head</hi>, thick, sessile, the front very hairy; <hi rend="italic">Antennæ</hi>, long, the club spatulate, and concave beneath; <hi rend="italic">Posterior feet</hi>, with the first joint of the tarsus as long as the tibiæ.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Wings black, with a common green band: posterior obsoletely tailed: beneath, marked with a red and black lunated spot at the base.</hi>
+            </p>
+            <p rend="justify">Papilio Sarpedon. <hi rend="italic">Linn. Fab. Entom. Syst. 3. p. 1. p. 14. No. 41. Cramer. Pl. 122. f. D. E.</hi>
+            </p>
+            <p rend="justify">Papilio Sarpedon. <hi rend="italic">Ency. Meth. 9. p. 46. No. 62.</hi>
+            </p>
+            <p rend="justify">Entomologists of the last century classed all day-flying Butterflies in the Genus <hi rend="italic">Papilio</hi>. But this denomination has been restricted, of late years, to such as possess six long perfect legs; very short palpi, and the anterior shanks spined near the middle. Now this group is so peculiarly distinct, and comprises within itself such numerous variations of form, that we have always viewed it as pre-eminently calculated to put to the most severe test any arrangement, the principles of which are conceived to be those of Nature. The <hi rend="italic">Papilionæ</hi>  have consequently, for many years, engaged much of our attention. Baffled in numerous attempts to understand their arrangement, it was only upon applying those principles of the natural system, which we have detailed in <hi rend="italic">Northern Zoology, vol. 2</hi>, that their true affinities became apparent. At present we shall only apprise the Entomologist that the divisions above named are <hi rend="italic">circular groups</hi>, and the result of strict analysis. The sub-genus <hi rend="italic">Chlorisses</hi>, in reference to Ornithology, is a scansorial type.</p>
+            <p rend="justify">The present Insect, figured from the male sex, is one of the most beautiful butterflies of India. General Hardwicke presented us with specimens from Nepaul; and we have since received others from Java. The typical species is <hi rend="italic">Papilio Agamemnon</hi>, where the green colour is broken into round spots. The most extraordinary circumstance, however, which belongs to the group, is this; that although a sub-genus, it yet contains within itself <hi rend="italic">subordinate</hi>  types of form, representing all the higher divisions. The only ornithological group we have yet ascertained as possessing this property, is the sub-genus <hi rend="italic">Parus</hi>  (proper).</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  90.</p>
+            <p rend="justify">JASIA <hi rend="italic">Athama</hi>.</p>
+            <p rend="justify">Plate 90.</p>
+            <p rend="justify">JASIA Athama,</p>
+            <p rend="justify">
+               <hi rend="italic">Athama Butterfly.</hi>
+            </p>
+            <p rend="justify">Tribe, Papiliones. Family, Nymphalidæ. <hi rend="italic">Nobis.</hi>
+            </p>
+            <p rend="justify">Sub-Generic Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Lower wings</hi>, acutely bi-caudate; <hi rend="italic">Antennæ</hi>, short, gradually thickening into a lengthened, cylindrical club, the tip nearly truncate; <hi rend="italic">Palpi</hi>, projecting, and longer above, than is the head; their tips acute; their joints concealed by compact scales.</p>
+            <p rend="justify">
+               <hi rend="italic">Type</hi>, Papilio Jasius. <hi rend="italic">Auct.</hi>
+            </p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Wings above blackish, with a broad, common band, and an anterior spot of straw colour; beneath, having the band greenish, and margined with chesnut.</hi>
+            </p>
+            <p rend="justify">Papilio Athamas. <hi rend="italic">Cramer</hi>, Pl. 89. f. C. D.</p>
+            <p rend="justify">We can communicate but little on this elegant Butterfly, of which our figures represent the female: the other sex is known by having the straw coloured band much narrower; on the under surface this colour is prismatic; changing, in some lights, to a delicate pea green. The great size and thickness of the thorax, intimate a powerful and rapid flight. The group is Oriental; but one species, the beautiful and rare <hi rend="italic">Pap. Jasius.</hi>  Lin. we have captured in the Island of Sicily, the most southern part of Europe.</p>
+            <p rend="justify">As we have not yet completed the analysis of this family of Butterflies, we know not the rank or true affinities of the present group. It is evidently either one of the lowest types of form, or a sub-genus. We have received both sexes of these insects from Java, where the species appears to be common. The resemblance of this group, to <hi rend="italic">Rhetus</hi>  and <hi rend="italic">Marius</hi>, would seem to indicate points of strong natural analogy.</p>
+            <p rend="justify">We adopt the original specific name of Cramer: for we cannot, at this moment, trace the species in the voluminous works of Fabricius.</p>
+            <p rend="justify">
+               <hi rend="italic">Pl.</hi>  91.</p>
+            <p rend="justify">GEOTROCHUS <hi rend="italic">pileus</hi>.<lb/>
+               <hi rend="italic">Cap Land-Trochus.</hi>
+            </p>
+            <p rend="justify">Plate 91.</p>
+            <p rend="justify">GEOTROCHUS pileus.</p>
+            <p rend="justify">
+               <hi rend="italic">Cap-shaped Land-trochus.</hi>
+            </p>
+            <p rend="justify">Order Phytophages. <hi rend="italic">Swains.</hi>  Tribe ——</p>
+            <p rend="justify">Sub-Generic Character.</p>
+            <p rend="justify">Shell pyramidical, each volution, reckoning from the base, gradually diminishing and forming a conic spire, basal volution depressed, margin of the outer lip reflected and entire.</p>
+            <p rend="justify">Specific Character.</p>
+            <p rend="justify">
+               <hi rend="italic">Shell trochiform, smooth, generally banded with reddish and yellowish bands: volutious convex.</hi>
+            </p>
+            <p rend="justify">Trochus Pileus. <hi rend="italic">Chemnetz. Pl. 122. f. 1046-7-8.</hi>
+            </p>
+            <p rend="justify">Helix pileus. <hi rend="italic">Dillwyn. p. 933. No. 106.</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="italic">Lister. Tab. 14. f. 11.</hi>
+            </p>
+            <p rend="justify">In Mus. Nost.</p>
+            <p rend="justify">Although this shell, in artificial arrangements, may be very well placed among the sub-divisions of <hi rend="italic">Helix</hi>  or <hi rend="italic">Bulimus</hi>, we feel persuaded that it is, <hi rend="italic">naturally</hi>, the type of a Sub-genus: we have no hesitation, therefore, in recording it as such. Another species, sharply carinated, semi-transparent, and of a milky whiteness, we discovered in Brazil: and we are thus led to conclude that the habitat of <hi rend="italic">Geotrochus pileus</hi>, which no author has yet mentioned, may probably be Tropical America.</p>
+            <p rend="justify">The figures of this species, given by Chemnitz and Born, represent it as marked by several narrow bands of a rufous brown colour: but the variety here delineated, has only one, of a deep purple; it is almost the only specimen answering to this description, which we have yet seen: both varieties are very rare, and much prized by collectors.</p>
+            <p rend="justify">GENERAL INDEX</p>
+            <p rend="justify">
+               <hi rend="italic">OF THE PLATES TO</hi>
+            </p>
+            <p rend="justify">VOL. II.</p>
+            <p rend="justify">IN THE ORDER OF PUBLICATION.</p>
+            <p rend="justify">
+               <hi rend="italic">N.B. The number here affixed to the Plates, for convenience of reference, had better be marked in pencil upon the Plates themselves.</hi>
+            </p>
+            <table rend="frame" xml:id="Table2">
+               <row>
+                  <cell> No. 11.</cell>
+                  <cell>pl.</cell>
+               </row>
+               <row>
+                  <cell>Fluvicola cursoria</cell>
+                  <cell>46</cell>
+               </row>
+               <row>
+                  <cell>Macropteryx longipennis</cell>
+                  <cell>47</cell>
+               </row>
+               <row>
+                  <cell>Eudamus Agesilaus (F. 1.)</cell>
+                  <cell>48</cell>
+               </row>
+               <row>
+                  <cell>—— Doryssus (F. 2.)</cell>
+                  <cell>48</cell>
+               </row>
+               <row>
+                  <cell>Mitra episcopalis</cell>
+                  <cell>49</cell>
+               </row>
+               <row>
+                  <cell>Tiara Isabella</cell>
+                  <cell>50</cell>
+               </row>
+               <row>
+                  <cell>—— sulcata</cell>
+                  <cell>50</cell>
+               </row>
+               <row>
+                  <cell> No. 12.</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Sylvia Regulus</cell>
+                  <cell>51</cell>
+               </row>
+               <row>
+                  <cell>Phœnicornis flammeus</cell>
+                  <cell>52</cell>
+               </row>
+               <row>
+                  <cell>Volutilithes muricina</cell>
+                  <cell>53</cell>
+               </row>
+               <row>
+                  <cell>—— pertusa (F. 2.)</cell>
+                  <cell>53</cell>
+               </row>
+               <row>
+                  <cell>Mitrella fusca (F. l.)</cell>
+                  <cell>54</cell>
+               </row>
+               <row>
+                  <cell>—— ocellata (F. 2.)</cell>
+                  <cell>54</cell>
+               </row>
+               <row>
+                  <cell>—— olivæformis (F. 3.)</cell>
+                  <cell>54</cell>
+               </row>
+               <row>
+                  <cell>Margarita crocata</cell>
+                  <cell>55</cell>
+               </row>
+               <row>
+                  <cell> No. 13.</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Nyctiornis amictus</cell>
+                  <cell>56</cell>
+               </row>
+               <row>
+                  <cell>Culicivora atricapilla</cell>
+                  <cell>57</cell>
+               </row>
+               <row>
+                  <cell>Olivella purpurata (F. 1.)</cell>
+                  <cell>58</cell>
+               </row>
+               <row>
+                  <cell>—— eburnea (F. 2.)</cell>
+                  <cell>58</cell>
+               </row>
+               <row>
+                  <cell>Marius Thetys</cell>
+                  <cell>59</cell>
+               </row>
+               <row>
+                  <cell>Eurymus Philodice</cell>
+                  <cell>60</cell>
+               </row>
+               <row>
+                  <cell> No. 14.</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Gryllivora Saularis</cell>
+                  <cell>61</cell>
+               </row>
+               <row>
+                  <cell>Ptiliogonys cinereus</cell>
+                  <cell>62</cell>
+               </row>
+               <row>
+                  <cell>Amynthia Swainsonia</cell>
+                  <cell>63</cell>
+               </row>
+               <row>
+                  <cell>Ampullaria fasciata</cell>
+                  <cell>64</cell>
+               </row>
+               <row>
+                  <cell>Conus lithoglyphus</cell>
+                  <cell>65</cell>
+               </row>
+               <row>
+                  <cell> No. 15.</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Todus viridis</cell>
+                  <cell>66</cell>
+               </row>
+               <row>
+                  <cell>Murex Imperialis</cell>
+                  <cell>67</cell>
+               </row>
+               <row>
+                  <cell>Conus fumigatus</cell>
+                  <cell>68</cell>
+               </row>
+               <row>
+                  <cell>—— franciscanus (F. 2.)</cell>
+                  <cell>68</cell>
+               </row>
+               <row>
+                  <cell>Pieris Nigrina</cell>
+                  <cell>69</cell>
+               </row>
+               <row>
+                  <cell>Eurymus Europome</cell>
+                  <cell>70</cell>
+               </row>
+               <row>
+                  <cell> No. 16.</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Malaconotus Barbarus</cell>
+                  <cell>71</cell>
+               </row>
+               <row>
+                  <cell>Donacobius vociferans</cell>
+                  <cell>72</cell>
+               </row>
+               <row>
+                  <cell>Murex erythrostomus</cell>
+                  <cell>73</cell>
+               </row>
+               <row>
+                  <cell>Euterpe Teria</cell>
+                  <cell>74</cell>
+               </row>
+               <row>
+                  <cell>Peleus Æacus (F. 1.)</cell>
+                  <cell>75</cell>
+               </row>
+               <row>
+                  <cell>—— Gentius (F. 2.)</cell>
+                  <cell>75</cell>
+               </row>
+               <row>
+                  <cell> No. 17.</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Malaconotus atrococcineus</cell>
+                  <cell>76</cell>
+               </row>
+               <row>
+                  <cell>Harpula vexillum</cell>
+                  <cell>77</cell>
+               </row>
+               <row>
+                  <cell>Hiatula Lamarci (F. 1.)</cell>
+                  <cell>78</cell>
+               </row>
+               <row>
+                  <cell>—— pallida (F. 2.)</cell>
+                  <cell>78</cell>
+               </row>
+               <row>
+                  <cell>—— maculosa (F. 3.)</cell>
+                  <cell>78</cell>
+               </row>
+               <row>
+                  <cell>Pieris (<hi rend="italic">Melete</hi>) Limnobia</cell>
+                  <cell>79</cell>
+               </row>
+               <row>
+                  <cell>Crateropus Reinwardii</cell>
+                  <cell>80</cell>
+               </row>
+               <row>
+                  <cell> No. 18.</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Prionites Mexicanus</cell>
+                  <cell>81</cell>
+               </row>
+               <row>
+                  <cell>Trogon Mexicanus</cell>
+                  <cell>82</cell>
+               </row>
+               <row>
+                  <cell>Cymbiola Vespertilio</cell>
+                  <cell>83</cell>
+               </row>
+               <row>
+                  <cell>Voluta Cymbium</cell>
+                  <cell>84</cell>
+               </row>
+               <row>
+                  <cell>Endymion regalis</cell>
+                  <cell>85</cell>
+               </row>
+               <row>
+                  <cell> No. 19.</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Garrulus sordidus</cell>
+                  <cell>86</cell>
+               </row>
+               <row>
+                  <cell>Scaphella maculata</cell>
+                  <cell>87</cell>
+               </row>
+               <row>
+                  <cell>Arcas Imperialis</cell>
+                  <cell>88</cell>
+               </row>
+               <row>
+                  <cell>Chlorisses Sarpedon</cell>
+                  <cell>89</cell>
+               </row>
+               <row>
+                  <cell>Jasia Athama</cell>
+                  <cell>90</cell>
+               </row>
+               <row>
+                  <cell> No. 20.</cell>
+                  <cell> </cell>
+               </row>
+               <row>
+                  <cell>Geotrochus pileus</cell>
+                  <cell>91</cell>
+               </row>
+            </table>
+            <p rend="justify">GENERAL ALPHABETIC INDEX</p>
+            <p rend="justify">OF</p>
+            <p rend="justify">LATIN AND ENGLISH NAMES, &amp;c.,</p>
+            <p rend="justify">TO</p>
+            <p rend="justify">VOL. II.</p>
+            <table rend="frame" xml:id="Table3">
+               <row>
+                  <cell>Ampullaria fasciata,</cell>
+                  <cell>64</cell>
+               </row>
+               <row>
+                  <cell>Amynthia Swainsonia,</cell>
+                  <cell>63</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Apple Snail, fasciated</hi>,</cell>
+                  <cell>64</cell>
+               </row>
+               <row>
+                  <cell>Arcas, S. G. Characters of,</cell>
+                  <cell>88</cell>
+               </row>
+               <row>
+                  <cell>—— Imperialis,</cell>
+                  <cell>88</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Butterfly, Sarpedon</hi>,</cell>
+                  <cell>89</cell>
+               </row>
+               <row>
+                  <cell>—— <hi rend="italic">Athama</hi>,</cell>
+                  <cell>90</cell>
+               </row>
+               <row>
+                  <cell>Chlorisses, S. G. Characters of,</cell>
+                  <cell>89</cell>
+               </row>
+               <row>
+                  <cell>—— Sarpedon,</cell>
+                  <cell>89</cell>
+               </row>
+               <row>
+                  <cell>Conus fumigatus,</cell>
+                  <cell>68</cell>
+               </row>
+               <row>
+                  <cell>—— franciscanus,</cell>
+                  <cell>68</cell>
+               </row>
+               <row>
+                  <cell>—— lithoglyphus,</cell>
+                  <cell>65</cell>
+               </row>
+               <row>
+                  <cell>Crateropus, G. Characters of,</cell>
+                  <cell>80</cell>
+               </row>
+               <row>
+                  <cell>—— Reiwardii,</cell>
+                  <cell>80</cell>
+               </row>
+               <row>
+                  <cell>Culicivora, G. Characters of,</cell>
+                  <cell>57</cell>
+               </row>
+               <row>
+                  <cell>—— atricapilla,</cell>
+                  <cell>57</cell>
+               </row>
+               <row>
+                  <cell>Cymbiola, G. Characters of,</cell>
+                  <cell>83</cell>
+               </row>
+               <row>
+                  <cell>—— Types of form,</cell>
+                  <cell>83</cell>
+               </row>
+               <row>
+                  <cell>—— vespertilio,</cell>
+                  <cell>83</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Dial Bird</hi>,</cell>
+                  <cell>62</cell>
+               </row>
+               <row>
+                  <cell>Donacobius, S. G. Characters of,</cell>
+                  <cell>72</cell>
+               </row>
+               <row>
+                  <cell>—— vociferans,</cell>
+                  <cell>72</cell>
+               </row>
+               <row>
+                  <cell>Eudamus, G. Characters of,</cell>
+                  <cell>48</cell>
+               </row>
+               <row>
+                  <cell>—— Agesilaus,</cell>
+                  <cell>48</cell>
+               </row>
+               <row>
+                  <cell>—— Doryssus,</cell>
+                  <cell>48</cell>
+               </row>
+               <row>
+                  <cell>Eudymion, S. G. Characters of,</cell>
+                  <cell>85</cell>
+               </row>
+               <row>
+                  <cell>—— regalis,</cell>
+                  <cell>85</cell>
+               </row>
+               <row>
+                  <cell>Eurymus, S. G. Characters of,</cell>
+                  <cell>60</cell>
+               </row>
+               <row>
+                  <cell>—— Philodice,</cell>
+                  <cell>60</cell>
+               </row>
+               <row>
+                  <cell>—— Europome,</cell>
+                  <cell>70</cell>
+               </row>
+               <row>
+                  <cell>Euterpe, G. Characters of,</cell>
+                  <cell>74</cell>
+               </row>
+               <row>
+                  <cell>—— Teria,</cell>
+                  <cell>74</cell>
+               </row>
+               <row>
+                  <cell>Fluvicola cursoria,</cell>
+                  <cell>46</cell>
+               </row>
+               <row>
+                  <cell>Garrulus sordidus,</cell>
+                  <cell>86</cell>
+               </row>
+               <row>
+                  <cell>Geotrochus, S. G. Characters of,</cell>
+                  <cell>91</cell>
+               </row>
+               <row>
+                  <cell>—— pileus,</cell>
+                  <cell>81</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Golden crested Warbler</hi>,</cell>
+                  <cell>51</cell>
+               </row>
+               <row>
+                  <cell>Gryllivora, S. G. Characters of,</cell>
+                  <cell>61</cell>
+               </row>
+               <row>
+                  <cell>—— Saularis,</cell>
+                  <cell>61</cell>
+               </row>
+               <row>
+                  <cell>Harpula, G. Characters of,</cell>
+                  <cell>77</cell>
+               </row>
+               <row>
+                  <cell>—— Types of form,</cell>
+                  <cell>77</cell>
+               </row>
+               <row>
+                  <cell>—— vexillum,</cell>
+                  <cell>77</cell>
+               </row>
+               <row>
+                  <cell>Hiatula, S. G. Characters of,</cell>
+                  <cell>78</cell>
+               </row>
+               <row>
+                  <cell>—— Lamarci,</cell>
+                  <cell>78</cell>
+               </row>
+               <row>
+                  <cell>—— pallida,</cell>
+                  <cell>78</cell>
+               </row>
+               <row>
+                  <cell>—— maculosa,</cell>
+                  <cell>78</cell>
+               </row>
+               <row>
+                  <cell>Jasia Athama,</cell>
+                  <cell>90</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Jay, Dusky</hi>,</cell>
+                  <cell>86</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Land-trochus, cap-shaped</hi>,</cell>
+                  <cell>91</cell>
+               </row>
+               <row>
+                  <cell>Macropterx, S. G. Characters of,</cell>
+                  <cell>47</cell>
+               </row>
+               <row>
+                  <cell>—— longipennis,,</cell>
+                  <cell>47</cell>
+               </row>
+               <row>
+                  <cell>Malaconotus atrococcineus,</cell>
+                  <cell>76</cell>
+               </row>
+               <row>
+                  <cell>—— barbarus,</cell>
+                  <cell>71</cell>
+               </row>
+               <row>
+                  <cell>Marius Thetys,</cell>
+                  <cell>59</cell>
+               </row>
+               <row>
+                  <cell>Melete, S. G. Characters of,</cell>
+                  <cell>79</cell>
+               </row>
+               <row>
+                  <cell>—— Limnobia,</cell>
+                  <cell>79</cell>
+               </row>
+               <row>
+                  <cell>Mitranæ (Pl. 4.),</cell>
+                  <cell>49</cell>
+               </row>
+               <row>
+                  <cell>—— (Pl. 5.),</cell>
+                  <cell>50</cell>
+               </row>
+               <row>
+                  <cell>—— (Pl. 6.),</cell>
+                  <cell>54</cell>
+               </row>
+               <row>
+                  <cell>Mitra episcopalis,</cell>
+                  <cell>49</cell>
+               </row>
+               <row>
+                  <cell>Mitrella, G. Characters of,</cell>
+                  <cell>54</cell>
+               </row>
+               <row>
+                  <cell>—— fusca,</cell>
+                  <cell>54</cell>
+               </row>
+               <row>
+                  <cell>—— ocellata,</cell>
+                  <cell>54</cell>
+               </row>
+               <row>
+                  <cell>—— olivæformis,</cell>
+                  <cell>54</cell>
+               </row>
+               <row>
+                  <cell>Muricinæ (Pl. 1.),</cell>
+                  <cell>67</cell>
+               </row>
+               <row>
+                  <cell>—— (Pl. 2.),</cell>
+                  <cell>73</cell>
+               </row>
+               <row>
+                  <cell>Murex crythrostomus,</cell>
+                  <cell>73</cell>
+               </row>
+               <row>
+                  <cell>—— Imperialis,</cell>
+                  <cell>67</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Motmot, Mexican</hi>,</cell>
+                  <cell>81</cell>
+               </row>
+               <row>
+                  <cell>Nyctiornis, G. Characters of,</cell>
+                  <cell>56</cell>
+               </row>
+               <row>
+                  <cell>—— amictus,</cell>
+                  <cell>56</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Nightfeeder, Duvaucels</hi>,</cell>
+                  <cell>56</cell>
+               </row>
+               <row>
+                  <cell>Olivæ (Pl. 2.),</cell>
+                  <cell>78</cell>
+               </row>
+               <row>
+                  <cell>—— (Pl. 3.),</cell>
+                  <cell>78</cell>
+               </row>
+               <row>
+                  <cell>Olivella, S. G. Characters of,</cell>
+                  <cell>58</cell>
+               </row>
+               <row>
+                  <cell>—— eburnea,</cell>
+                  <cell>58</cell>
+               </row>
+               <row>
+                  <cell>—— purpurata,</cell>
+                  <cell>58</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Olive, purple mouthed</hi>,</cell>
+                  <cell>58</cell>
+               </row>
+               <row>
+                  <cell>—— <hi rend="italic">ivory</hi>,</cell>
+                  <cell>58</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Olives, the wide mouthed</hi>,</cell>
+                  <cell>78</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Pearl Oyster, orange</hi>,</cell>
+                  <cell>55</cell>
+               </row>
+               <row>
+                  <cell>Peleus, G. Characters of,</cell>
+                  <cell>75</cell>
+               </row>
+               <row>
+                  <cell>—— Æacus,</cell>
+                  <cell>75</cell>
+               </row>
+               <row>
+                  <cell>—— Gentius,</cell>
+                  <cell>75</cell>
+               </row>
+               <row>
+                  <cell>Phœnicornis, G. Characters of,</cell>
+                  <cell>52</cell>
+               </row>
+               <row>
+                  <cell>—— flammeus,</cell>
+                  <cell>52</cell>
+               </row>
+               <row>
+                  <cell>Pieris, G. Characters of,</cell>
+                  <cell>66</cell>
+               </row>
+               <row>
+                  <cell>—— Nigrina,</cell>
+                  <cell>69</cell>
+               </row>
+               <row>
+                  <cell>Ptiliogonys cinereus, fem.,</cell>
+                  <cell>62</cell>
+               </row>
+               <row>
+                  <cell>Prionites Mexicanus,</cell>
+                  <cell>81</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Redbird, orange</hi>,</cell>
+                  <cell>52</cell>
+               </row>
+               <row>
+                  <cell>Scaphella, G. Characters of,</cell>
+                  <cell>87</cell>
+               </row>
+               <row>
+                  <cell>—— maculata,</cell>
+                  <cell>87</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Shrike, Barbary</hi>,</cell>
+                  <cell>71</cell>
+               </row>
+               <row>
+                  <cell>—— <hi rend="italic">Burchells</hi>,</cell>
+                  <cell>76</cell>
+               </row>
+               <row>
+                  <cell>Strombidæ, Ch. of the family,</cell>
+                  <cell>65</cell>
+               </row>
+               <row>
+                  <cell>Sylvia G. Characters of,</cell>
+                  <cell>51</cell>
+               </row>
+               <row>
+                  <cell>—— Regulus,</cell>
+                  <cell>51</cell>
+               </row>
+               <row>
+                  <cell>Thiara, G. Characters of,</cell>
+                  <cell>50</cell>
+               </row>
+               <row>
+                  <cell>—— Isabella,</cell>
+                  <cell>50</cell>
+               </row>
+               <row>
+                  <cell>—— sulcata,</cell>
+                  <cell>50</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Thrush, babbling</hi>,</cell>
+                  <cell>72</cell>
+               </row>
+               <row>
+                  <cell>Todinæ, Characters of,</cell>
+                  <cell>66</cell>
+               </row>
+               <row>
+                  <cell>Todus, viridis,</cell>
+                  <cell>66</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Tody, Green</hi>,</cell>
+                  <cell>66</cell>
+               </row>
+               <row>
+                  <cell>Trogon Mexicanus,</cell>
+                  <cell>82</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Trogon Mexican</hi>,</cell>
+                  <cell>82</cell>
+               </row>
+               <row>
+                  <cell>—— habits of,</cell>
+                  <cell>82</cell>
+               </row>
+               <row>
+                  <cell>Voluta, G. Characters of,</cell>
+                  <cell>84</cell>
+               </row>
+               <row>
+                  <cell>—— Types of form,</cell>
+                  <cell>84</cell>
+               </row>
+               <row>
+                  <cell>—— vespertileo,</cell>
+                  <cell>84</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="italic">Volute, clouded melon</hi>,</cell>
+                  <cell>83</cell>
+               </row>
+               <row>
+                  <cell>—— <hi rend="italic">Bat</hi>,</cell>
+                  <cell>84</cell>
+               </row>
+               <row>
+                  <cell>—— <hi rend="italic">Orange flag</hi>,</cell>
+                  <cell>77</cell>
+               </row>
+               <row>
+                  <cell>Volutilithes, G. Characters of,</cell>
+                  <cell>53</cell>
+               </row>
+               <row>
+                  <cell>—— muricina,</cell>
+                  <cell>53</cell>
+               </row>
+               <row>
+                  <cell>—— pertusa,</cell>
+                  <cell>53</cell>
+               </row>
+            </table>
+            <p rend="justify">Notes.</p>
+            <p rend="justify">[1]</p>
+            <p rend="justify">Babbage (<hi rend="italic">On the Decline of Science</hi>), Quarterly Review.</p>
+            <p rend="justify">[2]</p>
+            <p rend="justify">Herschel. Sir Humphrey Davy. Sir Nicholas Harris. Millengen. (<hi rend="italic">Ancient Coins</hi>). See also Lowdon's Natural His. Mag. Nov. 1831. p. 481.</p>
+            <p rend="justify">[3]</p>
+            <p rend="justify">Northern Zool. 2. p. xliv.</p>
+            <p rend="justify">[4]</p>
+            <p rend="justify">Montague's <hi rend="italic">Orn. Dict.</hi>  new edition, <hi rend="italic">preface</hi>.</p>
+            <p rend="justify">[5]</p>
+            <p rend="justify">Athæneum Journal, Jan. 1832. p. 32.</p>
+            <p rend="justify">[6]</p>
+            <p rend="justify">
+               <hi rend="italic">Ibid.</hi>, p. 37.</p>
+            <p rend="justify">[7]</p>
+            <p rend="justify">Northern Zoology, Vol. ii.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

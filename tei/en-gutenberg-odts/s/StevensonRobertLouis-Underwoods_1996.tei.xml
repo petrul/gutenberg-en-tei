@@ -1,0 +1,2901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Underwoods</title>
+            <author>Robert Louis Stevenson</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T20:29:09Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/s/StevensonRobertLouis-Underwoods_1996.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Robert Louis Stevenson</name>
+               <date>2024-01-04T20:29:09Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Underwoods</head>
+         <author>Robert Louis Stevenson</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/s/StevensonRobertLouis-Underwoods_1996.odt</p>
+         <p>Transcribed from the 1989 Chatto &amp; Windus edition by David Price, email ccx074@pglaf</p>
+         <pb/>
+         <div type="div1">
+            <head>UNDERWOODS</head>
+            <p rend="justify">BY<lb/>ROBERT LOUIS STEVENSON</p>
+            <p rend="justify">Decorative graphic</p>
+            <p rend="justify">NINTH EDITION</p>
+            <p rend="justify"> </p>
+            <lg>
+               <l>LONDON</l>
+               <l>CHATTO &amp; WINDUS</l>
+               <l>1898</l>
+            </lg>
+            <p rend="justify"> </p>
+            <lg>
+               <l>
+                  <hi rend="italic">Of all my verse</hi>, <hi rend="italic">like not a single line</hi>;</l>
+               <l>
+                  <hi rend="italic">But like my title</hi>, <hi rend="italic">for it is not mine</hi>.</l>
+               <l>
+                  <hi rend="italic">That title from a better man I stole</hi>:</l>
+               <l>
+                  <hi rend="italic">Ah</hi>, <hi rend="italic">how much better</hi>, <hi rend="italic">had I stol’n the whole</hi>!</l>
+            </lg>
+            <pb/>
+            <div type="div2">
+               <head>DEDICATION</head>
+               <p rend="justify">There are men and classes of men that stand above the common herd: the soldier, the sailor and the shepherd not unfrequently; the artist rarely; rarely still, the clergyman; the physician almost as a rule.  He is the flower (such as it is) of our civilisation; and when that stage of man is done with, and only remembered to be marvelled at in history, he will be thought to have shared as little as any in the defects of the period, and most notably exhibited the virtues of the race.  Generosity he has, such as is possible to those who practise an art, never to those who drive a trade; discretion, tested by a hundred secrets; tact, tried in a thousand embarrassments; and what are more important, Heraclean cheerfulness and courage.  So it is that he brings air and cheer into the sickroom, and often enough, though not so often as he wishes, brings healing.</p>
+               <p rend="justify">Gratitude is but a lame sentiment; thanks, when they are expressed, are often more embarrassing than welcome; and yet I must set forth mine to a few out of many doctors who have brought me comfort and help: to Dr. Willey of San Francisco, whose kindness to a stranger it must be as grateful to him, as it is touching to me, to remember; to Dr. Karl Ruedi of Davos, the good genius of the English in his frosty mountains; to Dr. Herbert of Paris, whom I knew only for a week, and to Dr. Caissot of Montpellier, whom I knew only for ten days, and who have yet written their names deeply in my memory; to Dr. Brandt of Royat; to Dr. Wakefield of Nice; to Dr. Chepmell, whose visits make it a pleasure to be ill; to Dr. Horace Dobell, so wise in counsel; to Sir Andrew Clark, so unwearied in kindness and to that wise youth, my uncle, Dr. Balfour.</p>
+               <p rend="justify">I forget as many as I remember; and I ask both to pardon me, these for silence, those for inadequate speech.  But one name I have kept on purpose to the last, because it is a household word with me, and because if I had not received favours from so many hands and in so many quarters of the world, it should have stood upon this page alone: that of my friend Thomas Bodley Scott of Bournemouth.  Will he accept this, although shared among so many, for a dedication to himself? and when next my ill-fortune (which has thus its pleasant side) brings him hurrying to me when he would fain sit down to meat or lie down to rest, will he care to remember that he takes this trouble for one who is not fool enough to be ungrateful?</p>
+               <p rend="justify">R. L. S.</p>
+               <p rend="justify">Skerryvore,<lb/>         Bournemouth.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>NOTE</head>
+               <p rend="justify">The human conscience has fled of late the troublesome domain of conduct for what I should have supposed to be the less congenial field of art: there she may now be said to rage, and with special severity in all that touches dialect; so that in every novel the letters of the alphabet are tortured, and the reader wearied, to commemorate shades of mis-pronunciation.  Now spelling is an art of great difficulty in my eyes, and I am inclined to lean upon the printer, even in common practice, rather than to venture abroad upon new quests.  And the Scots tongue has an orthography of its own, lacking neither “authority nor author.”  Yet the temptation is great to lend a little guidance to the bewildered Englishman.  Some simple phonetic artifice might defend your verses from barbarous mishandling, and yet not injure any vested interest.  So it seems at first; but there are rocks ahead.  Thus, if I wish the diphthong <hi rend="italic">ou</hi> to have its proper value, I may write <hi rend="italic">oor</hi> instead of <hi rend="italic">our</hi>; many have done so and lived, and the pillars of the universe remained unshaken.  But if I did so, and came presently to <hi rend="italic">doun</hi>, which is the classical Scots spelling of the English <hi rend="italic">down</hi>, I should begin to feel uneasy; and if I went on a little farther, and came to a classical Scots word, like <hi rend="italic">stour</hi> or <hi rend="italic">dour</hi> or <hi rend="italic">clour</hi>, I should know precisely where I was—that is to say, that I was out of sight of land on those high seas of spelling reform in which so many strong swimmers have toiled vainly.  To some the situation is exhilarating; as for me, I give one bubbling cry and sink.  The compromise at which I have arrived is indefensible, and I have no thought of trying to defend it.  As I have stuck for the most part to the proper spelling, I append a table of some common vowel sounds which no one need consult; and just to prove that I belong to my age and have in me the stuff of a reformer, I have used modification marks throughout.  Thus I can tell myself, not without pride, that I have added a fresh stumbling-block for English readers, and to a page of print in my native tongue, have lent a new uncouthness.  <hi rend="italic">Sed non nobis</hi>.</p>
+               <p rend="justify">I note again, that among our new dialecticians, the local habitat of every dialect is given to the square mile.  I could not emulate this nicety if I desired; for I simply wrote my Scots as well as I was able, not caring if it hailed from Lauderdale or Angus, from the Mearns or Galloway; if I had ever heard a good word, I used it without shame; and when Scots was lacking, or the rhyme jibbed, I was glad (like my betters) to fall back on English.  For all that, I own to a friendly feeling for the tongue of Fergusson and of Sir Walter, both Edinburgh men; and I confess that Burns has always sounded in my ear like something partly foreign.  And indeed I am from the Lothians myself; it is there I heard the language spoken about my childhood; and it is in the drawling Lothian voice that I repeat it to myself.  Let the precisians call my speech that of the Lothians.  And if it be not pure, alas! what matters it?  The day draws near when this illustrious and malleable tongue shall be quite forgotten; and Burn’s Ayrshire, and Dr. Macdonald’s Aberdeen-awa’, and Scott’s brave, metropolitan utterance will be all equally the ghosts of speech.  Till then I would love to have my hour as a native Maker, and be read by my own countryfolk in our own dying language: an ambition surely rather of the heart than of the head, so restricted as it is in prospect of endurance, so parochial in bounds of space.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CONTENTS</head>
+               <p rend="justify">BOOK I.—<hi rend="italic">In English</hi>
+               </p>
+               <p rend="justify"> </p>
+               <p rend="justify">PAGE</p>
+               <p rend="justify">I.</p>
+               <p rend="justify">Envoy—Go, little book</p>
+               <p rend="justify">1</p>
+               <p rend="justify">II.</p>
+               <p rend="justify">A Song of the Road—The gauger walked</p>
+               <p rend="justify">2</p>
+               <p rend="justify">III.</p>
+               <p rend="justify">The Canoe Speaks—On the great streams</p>
+               <p rend="justify">4</p>
+               <p rend="justify">IV.</p>
+               <p rend="justify">It is the season</p>
+               <p rend="justify">7</p>
+               <p rend="justify">V.</p>
+               <p rend="justify">The House Beautiful—A naked house, a naked moor</p>
+               <p rend="justify">9</p>
+               <p rend="justify">VI.</p>
+               <p rend="justify">A Visit from the Sea—Far from the loud sea beaches</p>
+               <p rend="justify">12</p>
+               <p rend="justify">VII.</p>
+               <p rend="justify">To a Gardener—Friend, in my mountain-side demesne</p>
+               <p rend="justify">14</p>
+               <p rend="justify">VIII.</p>
+               <p rend="justify">To Minnie—A picture frame for you to fill</p>
+               <p rend="justify">16</p>
+               <p rend="justify">IX.</p>
+               <p rend="justify">To K. de M.—A lover of the moorland bare</p>
+               <p rend="justify">17</p>
+               <p rend="justify">X.</p>
+               <p rend="justify">To N. V. de G. S.—The unfathomable sea</p>
+               <p rend="justify">19</p>
+               <p rend="justify">XI.</p>
+               <p rend="justify">To Will. H. Low—Youth now flees</p>
+               <p rend="justify">21</p>
+               <p rend="justify">XII.</p>
+               <p rend="justify">To Mrs. Will. H. Low—Even in the bluest noonday of July</p>
+               <p rend="justify">24</p>
+               <p rend="justify">XIII.</p>
+               <p rend="justify">To H. F. Brown—I sit and wait</p>
+               <p rend="justify">26</p>
+               <p rend="justify">XIV.</p>
+               <p rend="justify">To Andrew Lang—Dear Andrew</p>
+               <p rend="justify">29</p>
+               <p rend="justify">XV.</p>
+               <p rend="justify">Et tu in Arcadia vixisti—In ancient tales, O friend</p>
+               <p rend="justify">31</p>
+               <p rend="justify">XVI.</p>
+               <p rend="justify">To W. E. Henley—The year runs through her phases</p>
+               <p rend="justify">36</p>
+               <p rend="justify">XVII.</p>
+               <p rend="justify">Henry James—Who comes to-night</p>
+               <p rend="justify">38</p>
+               <p rend="justify">XVIII.</p>
+               <p rend="justify">The Mirror Speaks—Where the bells</p>
+               <p rend="justify">39</p>
+               <p rend="justify">XIX.</p>
+               <p rend="justify">Katharine—We see you as we see a face</p>
+               <p rend="justify">41</p>
+               <p rend="justify">XX.</p>
+               <p rend="justify">To F. J. S.—I read, dear friend</p>
+               <p rend="justify">42</p>
+               <p rend="justify">XXI.</p>
+               <p rend="justify">Requiem—Under the wide and starry sky</p>
+               <p rend="justify">43</p>
+               <p rend="justify">XXII.</p>
+               <p rend="justify">The Celestial Surgeon—If I have faltered</p>
+               <p rend="justify">44</p>
+               <p rend="justify">XXIII.</p>
+               <p rend="justify">Our Lady of the Snows—Out of the sun</p>
+               <p rend="justify">45</p>
+               <p rend="justify">XXIV.</p>
+               <p rend="justify">Not yet, my soul</p>
+               <p rend="justify">50</p>
+               <p rend="justify">XXV.</p>
+               <p rend="justify">It is not yours, O mother, to complain</p>
+               <p rend="justify">53</p>
+               <p rend="justify">XXVI.</p>
+               <p rend="justify">The Sick Child—O mother, lay your hand on my brow</p>
+               <p rend="justify">56</p>
+               <p rend="justify">XXVII.</p>
+               <p rend="justify">In Memoriam F. A. S.—Yet, O stricken heart</p>
+               <p rend="justify">58</p>
+               <p rend="justify">XXVIII.</p>
+               <p rend="justify">To my Father—Peace and her huge invasion</p>
+               <p rend="justify">60</p>
+               <p rend="justify">XXIX.</p>
+               <p rend="justify">In the States—With half a heart</p>
+               <p rend="justify">62</p>
+               <p rend="justify">XXX.</p>
+               <p rend="justify">A Portrait—I am a kind of farthing dip</p>
+               <p rend="justify">63</p>
+               <p rend="justify">XXXI.</p>
+               <p rend="justify">Sing clearlier, Muse</p>
+               <p rend="justify">65</p>
+               <p rend="justify">XXXII.</p>
+               <p rend="justify">A Camp—The bed was made</p>
+               <p rend="justify">66</p>
+               <p rend="justify">XXXIII.</p>
+               <p rend="justify">The Country of the Camisards—We travelled in the print of olden wars</p>
+               <p rend="justify">67</p>
+               <p rend="justify">XXXIV.</p>
+               <p rend="justify">Skerryvore—For love of lovely words</p>
+               <p rend="justify">68</p>
+               <p rend="justify">XXXV.</p>
+               <p rend="justify">Skerryvore: The Parallel—Here all is sunny</p>
+               <p rend="justify">69</p>
+               <p rend="justify">XXXVI.</p>
+               <p rend="justify">My house, I say</p>
+               <p rend="justify">70</p>
+               <p rend="justify">XXXVII.</p>
+               <p rend="justify">My body which my dungeon is</p>
+               <p rend="justify">71</p>
+               <p rend="justify">XXXVIII.</p>
+               <p rend="justify">Say not of me that weakly I declined</p>
+               <p rend="justify">73</p>
+               <p rend="justify">BOOK II.—<hi rend="italic">In Scots</hi>
+               </p>
+               <p rend="justify">I.</p>
+               <p rend="justify">The Maker to Posterity—Far ’yont amang the years to be</p>
+               <p rend="justify">77</p>
+               <p rend="justify">II.</p>
+               <p rend="justify">Ille Terrarum—Frae nirly, nippin’, Eas’lan’ breeze</p>
+               <p rend="justify">80</p>
+               <p rend="justify">III.</p>
+               <p rend="justify">When aince Aprile has fairly come</p>
+               <p rend="justify">85</p>
+               <p rend="justify">IV.</p>
+               <p rend="justify">A Mile an’ a Bittock</p>
+               <p rend="justify">87</p>
+               <p rend="justify">V.</p>
+               <p rend="justify">A Lowden Sabbath Morn—The clinkum-clank o’ Sabbath bells</p>
+               <p rend="justify">89</p>
+               <p rend="justify">VI.</p>
+               <p rend="justify">The Spaewife—O, I wad like to ken</p>
+               <p rend="justify">98</p>
+               <p rend="justify">VII.</p>
+               <p rend="justify">The Blast—1875—It’s rainin’.  Weet’s the gairden sod</p>
+               <p rend="justify">100</p>
+               <p rend="justify">VIII.</p>
+               <p rend="justify">The Counterblast—1886—My bonny man, the warld, it’s true</p>
+               <p rend="justify">103</p>
+               <p rend="justify">IX.</p>
+               <p rend="justify">The Counterblast Ironical—It’s strange that God should fash to frame</p>
+               <p rend="justify">108</p>
+               <p rend="justify">X.</p>
+               <p rend="justify">Their Laureate to an Academy Class Dinner Club—Dear Thamson class, whaure’er I gang</p>
+               <p rend="justify">110</p>
+               <p rend="justify">XI.</p>
+               <p rend="justify">Embro Hie Kirk—The Lord Himsel’ in former days</p>
+               <p rend="justify">114</p>
+               <p rend="justify">XII.</p>
+               <p rend="justify">The Scotsman’s Return from Abroad—In mony a foreign pairt I’ve been</p>
+               <p rend="justify">118</p>
+               <p rend="justify">XIII.</p>
+               <p rend="justify">Late in the nicht</p>
+               <p rend="justify">125</p>
+               <p rend="justify">XIV.</p>
+               <p rend="justify">My Conscience!—Of a’ the ills that flesh can fear</p>
+               <p rend="justify">130</p>
+               <p rend="justify">XV.</p>
+               <p rend="justify">To Doctor John Brown—By Lyne and Tyne, by Thames and Tees</p>
+               <p rend="justify">133</p>
+               <p rend="justify">XVI.</p>
+               <p rend="justify">It’s an owercome sooth for age an’ youth</p>
+               <p rend="justify">138</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BOOK I.—<hi rend="italic">In English</hi>
+               </head>
+               <div type="div3">
+                  <head>I—ENVOY</head>
+                  <lg>
+                     <l>Go, little book, and wish to all</l>
+                     <l>Flowers in the garden, meat in the hall,</l>
+                     <l>A bin of wine, a spice of wit,</l>
+                     <l>A house with lawns enclosing it,</l>
+                     <l>A living river by the door,</l>
+                     <l>A nightingale in the sycamore!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>II—A SONG OF THE ROAD</head>
+                  <lg>
+                     <l>The gauger walked with willing foot,</l>
+                     <l>And aye the gauger played the flute;</l>
+                     <l>And what should Master Gauger play</l>
+                     <l>But <hi rend="italic">Over the hills and far away</hi>?</l>
+                  </lg>
+                  <lg>
+                     <l>Whene’er I buckle on my pack</l>
+                     <l>And foot it gaily in the track,</l>
+                     <l>O pleasant gauger, long since dead,</l>
+                     <l>I hear you fluting on ahead.</l>
+                  </lg>
+                  <lg>
+                     <l>You go with me the self-same way—</l>
+                     <l>The self-same air for me you play;</l>
+                     <l>For I do think and so do you</l>
+                     <l>It is the tune to travel to.</l>
+                  </lg>
+                  <lg>
+                     <l>For who would gravely set his face</l>
+                     <l>To go to this or t’other place?</l>
+                     <l>There’s nothing under Heav’n so blue</l>
+                     <l>That’s fairly worth the travelling to.</l>
+                  </lg>
+                  <lg>
+                     <l>On every hand the roads begin,</l>
+                     <l>And people walk with zeal therein;</l>
+                     <l>But wheresoe’er the highways tend,</l>
+                     <l>Be sure there’s nothing at the end.</l>
+                  </lg>
+                  <lg>
+                     <l>Then follow you, wherever hie</l>
+                     <l>The travelling mountains of the sky.</l>
+                     <l>Or let the streams in civil mode</l>
+                     <l>Direct your choice upon a road;</l>
+                  </lg>
+                  <lg>
+                     <l>For one and all, or high or low,</l>
+                     <l>Will lead you where you wish to go;</l>
+                     <l>And one and all go night and day</l>
+                     <l>
+                        <hi rend="italic">Over the hills and far away</hi>!</l>
+                  </lg>
+                  <p rend="justify">
+                     <hi rend="italic">Forest of Montargis</hi>, 1878.</p>
+               </div>
+               <div type="div3">
+                  <head>III—THE CANOE SPEAKS</head>
+                  <lg>
+                     <l>On the great streams the ships may go</l>
+                     <l>About men’s business to and fro.</l>
+                     <l>But I, the egg-shell pinnace, sleep</l>
+                     <l>On crystal waters ankle-deep:</l>
+                     <l>I, whose diminutive design,</l>
+                     <l>Of sweeter cedar, pithier pine,</l>
+                     <l>Is fashioned on so frail a mould,</l>
+                     <l>A hand may launch, a hand withhold:</l>
+                     <l>I, rather, with the leaping trout</l>
+                     <l>Wind, among lilies, in and out;</l>
+                     <l>I, the unnamed, inviolate,</l>
+                     <l>Green, rustic rivers, navigate;</l>
+                     <l>My dipping paddle scarcely shakes</l>
+                     <l>The berry in the bramble-brakes;</l>
+                     <l>Still forth on my green way I wend</l>
+                     <l>Beside the cottage garden-end;</l>
+                     <l>And by the nested angler fare,</l>
+                     <l>And take the lovers unaware.</l>
+                     <l>By willow wood and water-wheel</l>
+                     <l>Speedily fleets my touching keel;</l>
+                     <l>By all retired and shady spots</l>
+                     <l>Where prosper dim forget-me-nots;</l>
+                     <l>By meadows where at afternoon</l>
+                     <l>The growing maidens troop in June</l>
+                     <l>To loose their girdles on the grass.</l>
+                     <l>Ah! speedier than before the glass</l>
+                     <l>The backward toilet goes; and swift</l>
+                     <l>As swallows quiver, robe and shift</l>
+                     <l>And the rough country stockings lie</l>
+                     <l>Around each young divinity.</l>
+                     <l>When, following the recondite brook,</l>
+                     <l>Sudden upon this scene I look,</l>
+                     <l>And light with unfamiliar face</l>
+                     <l>On chaste Diana’s bathing-place,</l>
+                     <l>Loud ring the hills about and all</l>
+                     <l>The shallows are abandoned. . . .</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IV</label>
+                  </head>
+                  <lg>
+                     <l>It is the season now to go</l>
+                     <l>About the country high and low,</l>
+                     <l>Among the lilacs hand in hand,</l>
+                     <l>And two by two in fairy land.</l>
+                  </lg>
+                  <lg>
+                     <l>The brooding boy, the sighing maid,</l>
+                     <l>Wholly fain and half afraid,</l>
+                     <l>Now meet along the hazel’d brook</l>
+                     <l>To pass and linger, pause and look.</l>
+                  </lg>
+                  <lg>
+                     <l>A year ago, and blithely paired,</l>
+                     <l>Their rough-and-tumble play they shared;</l>
+                     <l>They kissed and quarrelled, laughed and cried,</l>
+                     <l>A year ago at Eastertide.</l>
+                  </lg>
+                  <lg>
+                     <l>With bursting heart, with fiery face,</l>
+                     <l>She strove against him in the race;</l>
+                     <l>He unabashed her garter saw,</l>
+                     <l>That now would touch her skirts with awe.</l>
+                  </lg>
+                  <lg>
+                     <l>Now by the stile ablaze she stops,</l>
+                     <l>And his demurer eyes he drops;</l>
+                     <l>Now they exchange averted sighs</l>
+                     <l>Or stand and marry silent eyes.</l>
+                  </lg>
+                  <lg>
+                     <l>And he to her a hero is</l>
+                     <l>And sweeter she than primroses;</l>
+                     <l>Their common silence dearer far</l>
+                     <l>Than nightingale and mavis are.</l>
+                  </lg>
+                  <lg>
+                     <l>Now when they sever wedded hands,</l>
+                     <l>Joy trembles in their bosom-strands</l>
+                     <l>And lovely laughter leaps and falls</l>
+                     <l>Upon their lips in madrigals.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>V—THE HOUSE BEAUTIFUL</head>
+                  <lg>
+                     <l>
+                        <hi rend="italic">A naked house</hi>, <hi rend="italic">a naked moor</hi>,</l>
+                     <l>
+                        <hi rend="italic">A shivering pool before the door</hi>,</l>
+                     <l>
+                        <hi rend="italic">A garden bare of flowers and fruit</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">And poplars at the garden foot</hi>:</l>
+                     <l>
+                        <hi rend="italic">Such is the place that I live in</hi>,</l>
+                     <l>
+                        <hi rend="italic">Bleak without and bare within</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>Yet shall your ragged moor receive</l>
+                     <l>The incomparable pomp of eve,</l>
+                     <l>And the cold glories of the dawn</l>
+                     <l>Behind your shivering trees be drawn;</l>
+                     <l>And when the wind from place to place</l>
+                     <l>Doth the unmoored cloud-galleons chase,</l>
+                     <l>Your garden gloom and gleam again,</l>
+                     <l>With leaping sun, with glancing rain.</l>
+                     <l>Here shall the wizard moon ascend</l>
+                     <l>The heavens, in the crimson end</l>
+                     <l>Of day’s declining splendour; here</l>
+                     <l>The army of the stars appear.</l>
+                     <l>The neighbour hollows dry or wet,</l>
+                     <l>Spring shall with tender flowers beset;</l>
+                     <l>And oft the morning muser see</l>
+                     <l>Larks rising from the broomy lea,</l>
+                     <l>And every fairy wheel and thread</l>
+                     <l>Of cobweb dew-bediamonded.</l>
+                     <l>When daisies go, shall winter time</l>
+                     <l>Silver the simple grass with rime;</l>
+                     <l>Autumnal frosts enchant the pool</l>
+                     <l>And make the cart-ruts beautiful;</l>
+                     <l>And when snow-bright the moor expands,</l>
+                     <l>How shall your children clap their hands!</l>
+                     <l>To make this earth our hermitage,</l>
+                     <l>A cheerful and a changeful page,</l>
+                     <l>God’s bright and intricate device</l>
+                     <l>Of days and seasons doth suffice.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>VI—A VISIT FROM THE SEA</head>
+                  <lg>
+                     <l>Far from the loud sea beaches</l>
+                     <l>   Where he goes fishing and crying,</l>
+                     <l>Here in the inland garden</l>
+                     <l>   Why is the sea-gull flying?</l>
+                  </lg>
+                  <lg>
+                     <l>Here are no fish to dive for;</l>
+                     <l>   Here is the corn and lea;</l>
+                     <l>Here are the green trees rustling.</l>
+                     <l>   Hie away home to sea!</l>
+                  </lg>
+                  <lg>
+                     <l>Fresh is the river water</l>
+                     <l>   And quiet among the rushes;</l>
+                     <l>This is no home for the sea-gull</l>
+                     <l>   But for the rooks and thrushes.</l>
+                  </lg>
+                  <lg>
+                     <l>Pity the bird that has wandered!</l>
+                     <l>   Pity the sailor ashore!</l>
+                     <l>Hurry him home to the ocean,</l>
+                     <l>   Let him come here no more!</l>
+                  </lg>
+                  <lg>
+                     <l>High on the sea-cliff ledges</l>
+                     <l>   The white gulls are trooping and crying,</l>
+                     <l>Here among the rooks and roses,</l>
+                     <l>   Why is the sea-gull flying?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>VII—TO A GARDENER</head>
+                  <lg>
+                     <l>Friend, in my mountain-side demesne</l>
+                     <l>My plain-beholding, rosy, green</l>
+                     <l>And linnet-haunted garden-ground,</l>
+                     <l>Let still the esculents abound.</l>
+                     <l>Let first the onion flourish there,</l>
+                     <l>Rose among roots, the maiden-fair,</l>
+                     <l>Wine-scented and poetic soul</l>
+                     <l>Of the capacious salad bowl.</l>
+                     <l>Let thyme the mountaineer (to dress</l>
+                     <l>The tinier birds) and wading cress,</l>
+                     <l>The lover of the shallow brook,</l>
+                     <l>From all my plots and borders look.</l>
+                  </lg>
+                  <lg>
+                     <l>Nor crisp and ruddy radish, nor</l>
+                     <l>Pease-cods for the child’s pinafore</l>
+                     <l>Be lacking; nor of salad clan</l>
+                     <l>The last and least that ever ran</l>
+                     <l>About great nature’s garden-beds.</l>
+                     <l>Nor thence be missed the speary heads</l>
+                     <l>Of artichoke; nor thence the bean</l>
+                     <l>That gathered innocent and green</l>
+                     <l>Outsavours the belauded pea.</l>
+                  </lg>
+                  <lg>
+                     <l>These tend, I prithee; and for me,</l>
+                     <l>Thy most long-suffering master, bring</l>
+                     <l>In April, when the linnets sing</l>
+                     <l>And the days lengthen more and more</l>
+                     <l>At sundown to the garden door.</l>
+                     <l>And I, being provided thus.</l>
+                     <l>Shall, with superb asparagus,</l>
+                     <l>A book, a taper, and a cup</l>
+                     <l>Of country wine, divinely sup.</l>
+                  </lg>
+                  <p rend="justify">
+                     <hi rend="italic">La Solitude</hi>, <hi rend="italic">Hyères</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>VIII—TO MINNIE</head>
+                  <p rend="justify">(With a hand-glass)</p>
+                  <lg>
+                     <l>A picture-frame for you to fill,</l>
+                     <l>   A paltry setting for your face,</l>
+                     <l>A thing that has no worth until</l>
+                     <l>   You lend it something of your grace</l>
+                  </lg>
+                  <lg>
+                     <l>I send (unhappy I that sing</l>
+                     <l>   Laid by awhile upon the shelf)</l>
+                     <l>Because I would not send a thing</l>
+                     <l>   Less charming than you are yourself.</l>
+                  </lg>
+                  <lg>
+                     <l>And happier than I, alas!</l>
+                     <l>   (Dumb thing, I envy its delight)</l>
+                     <l>’Twill wish you well, the looking-glass,</l>
+                     <l>   And look you in the face to-night.</l>
+                  </lg>
+                  <p rend="justify">1869.</p>
+               </div>
+               <div type="div3">
+                  <head>IX—TO K. DE M.</head>
+                  <lg>
+                     <l>A lover of the moorland bare</l>
+                     <l>And honest country winds, you were;</l>
+                     <l>The silver-skimming rain you took;</l>
+                     <l>And loved the floodings of the brook,</l>
+                     <l>Dew, frost and mountains, fire and seas,</l>
+                     <l>Tumultuary silences,</l>
+                     <l>Winds that in darkness fifed a tune,</l>
+                     <l>And the high-riding, virgin moon.</l>
+                  </lg>
+                  <lg>
+                     <l>And as the berry, pale and sharp,</l>
+                     <l>Springs on some ditch’s counterscarp</l>
+                     <l>In our ungenial, native north—</l>
+                     <l>You put your frosted wildings forth,</l>
+                     <l>And on the heath, afar from man,</l>
+                     <l>A strong and bitter virgin ran.</l>
+                  </lg>
+                  <lg>
+                     <l>The berry ripened keeps the rude</l>
+                     <l>And racy flavour of the wood.</l>
+                     <l>And you that loved the empty plain</l>
+                     <l>All redolent of wind and rain,</l>
+                     <l>Around you still the curlew sings—</l>
+                     <l>The freshness of the weather clings—</l>
+                     <l>The maiden jewels of the rain</l>
+                     <l>Sit in your dabbled locks again.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>X—TO N. V. DE G. S.</head>
+                  <lg>
+                     <l>The unfathomable sea, and time, and tears,</l>
+                     <l>The deeds of heroes and the crimes of kings</l>
+                     <l>Dispart us; and the river of events</l>
+                     <l>Has, for an age of years, to east and west</l>
+                     <l>More widely borne our cradles.  Thou to me</l>
+                     <l>Art foreign, as when seamen at the dawn</l>
+                     <l>Descry a land far off and know not which.</l>
+                     <l>So I approach uncertain; so I cruise</l>
+                     <l>Round thy mysterious islet, and behold</l>
+                     <l>Surf and great mountains and loud river-bars,</l>
+                     <l>And from the shore hear inland voices call.</l>
+                  </lg>
+                  <lg>
+                     <l>Strange is the seaman’s heart; he hopes, he fears;</l>
+                     <l>Draws closer and sweeps wider from that coast;</l>
+                     <l>Last, his rent sail refits, and to the deep</l>
+                     <l>His shattered prow uncomforted puts back.</l>
+                     <l>Yet as he goes he ponders at the helm</l>
+                     <l>Of that bright island; where he feared to touch,</l>
+                     <l>His spirit readventures; and for years,</l>
+                     <l>Where by his wife he slumbers safe at home,</l>
+                     <l>Thoughts of that land revisit him; he sees</l>
+                     <l>The eternal mountains beckon, and awakes</l>
+                     <l>Yearning for that far home that might have been.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XI—TO WILL. H. LOW</head>
+                  <lg>
+                     <l>Youth now flees on feathered foot</l>
+                     <l>Faint and fainter sounds the flute,</l>
+                     <l>Rarer songs of gods; and still</l>
+                     <l>Somewhere on the sunny hill,</l>
+                     <l>Or along the winding stream,</l>
+                     <l>Through the willows, flits a dream;</l>
+                     <l>Flits but shows a smiling face,</l>
+                     <l>Flees but with so quaint a grace,</l>
+                     <l>None can choose to stay at home,</l>
+                     <l>All must follow, all must roam.</l>
+                  </lg>
+                  <lg>
+                     <l>This is unborn beauty: she</l>
+                     <l>Now in air floats high and free,</l>
+                     <l>Takes the sun and breaks the blue;—</l>
+                     <l>Late with stooping pinion flew</l>
+                     <l>Raking hedgerow trees, and wet</l>
+                     <l>Her wing in silver streams, and set</l>
+                     <l>Shining foot on temple roof:</l>
+                     <l>Now again she flies aloof,</l>
+                     <l>Coasting mountain clouds and kiss’t</l>
+                     <l>By the evening’s amethyst.</l>
+                  </lg>
+                  <lg>
+                     <l>In wet wood and miry lane,</l>
+                     <l>Still we pant and pound in vain;</l>
+                     <l>Still with leaden foot we chase</l>
+                     <l>Waning pinion, fainting face;</l>
+                     <l>Still with gray hair we stumble on,</l>
+                     <l>Till, behold, the vision gone!</l>
+                  </lg>
+                  <lg>
+                     <l>Where hath fleeting beauty led?</l>
+                     <l>To the doorway of the dead.</l>
+                     <l>Life is over, life was gay:</l>
+                     <l>We have come the primrose way.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XII—TO MRS. WILL. H. LOW</head>
+                  <lg>
+                     <l>Even in the bluest noonday of July,</l>
+                     <l>There could not run the smallest breath of wind</l>
+                     <l>But all the quarter sounded like a wood;</l>
+                     <l>And in the chequered silence and above</l>
+                     <l>The hum of city cabs that sought the Bois,</l>
+                     <l>Suburban ashes shivered into song.</l>
+                     <l>A patter and a chatter and a chirp</l>
+                     <l>And a long dying hiss—it was as though</l>
+                     <l>Starched old brocaded dames through all the house</l>
+                     <l>Had trailed a strident skirt, or the whole sky</l>
+                     <l>Even in a wink had over-brimmed in rain.</l>
+                  </lg>
+                  <lg>
+                     <l>Hark, in these shady parlours, how it talks</l>
+                     <l>Of the near Autumn, how the smitten ash</l>
+                     <l>Trembles and augurs floods!  O not too long</l>
+                     <l>In these inconstant latitudes delay,</l>
+                     <l>O not too late from the unbeloved north</l>
+                     <l>Trim your escape!  For soon shall this low roof</l>
+                     <l>Resound indeed with rain, soon shall your eyes</l>
+                     <l>Search the foul garden, search the darkened rooms,</l>
+                     <l>Nor find one jewel but the blazing log.</l>
+                  </lg>
+                  <p rend="justify">12 <hi rend="italic">Rue Vernier</hi>, <hi rend="italic">Paris</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>XIII—TO H. F. BROWN</head>
+                  <p rend="justify">(Written during a dangerous sickness.)</p>
+                  <lg>
+                     <l>I sit and wait a pair of oars</l>
+                     <l>On cis-Elysian river-shores.</l>
+                     <l>Where the immortal dead have sate,</l>
+                     <l>’Tis mine to sit and meditate;</l>
+                     <l>To re-ascend life’s rivulet,</l>
+                     <l>Without remorse, without regret;</l>
+                     <l>And sing my <hi rend="italic">Alma Genetrix</hi>
+                     </l>
+                     <l>Among the willows of the Styx.</l>
+                  </lg>
+                  <lg>
+                     <l>And lo, as my serener soul</l>
+                     <l>Did these unhappy shores patrol,</l>
+                     <l>And wait with an attentive ear</l>
+                     <l>The coming of the gondolier,</l>
+                     <l>Your fire-surviving roll I took,</l>
+                     <l>Your spirited and happy book; [27]</l>
+                     <l>Whereon, despite my frowning fate,</l>
+                     <l>It did my soul so recreate</l>
+                     <l>That all my fancies fled away</l>
+                     <l>On a Venetian holiday.</l>
+                  </lg>
+                  <lg>
+                     <l>Now, thanks to your triumphant care,</l>
+                     <l>Your pages clear as April air,</l>
+                     <l>The sails, the bells, the birds, I know,</l>
+                     <l>And the far-off Friulan snow;</l>
+                     <l>The land and sea, the sun and shade,</l>
+                     <l>And the blue even lamp-inlaid.</l>
+                     <l>For this, for these, for all, O friend,</l>
+                     <l>For your whole book from end to end—</l>
+                     <l>For Paron Piero’s muttonham—</l>
+                     <l>I your defaulting debtor am.</l>
+                  </lg>
+                  <lg>
+                     <l>Perchance, reviving, yet may I</l>
+                     <l>To your sea-paven city hie,</l>
+                     <l>And in a <hi rend="italic">felze</hi>, some day yet</l>
+                     <l>Light at your pipe my cigarette.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XIV—TO ANDREW LANG</head>
+                  <lg>
+                     <l>Dear Andrew, with the brindled hair,</l>
+                     <l>Who glory to have thrown in air,</l>
+                     <l>High over arm, the trembling reed,</l>
+                     <l>By Ale and Kail, by Till and Tweed:</l>
+                     <l>An equal craft of hand you show</l>
+                     <l>The pen to guide, the fly to throw:</l>
+                     <l>I count you happy starred; for God,</l>
+                     <l>When He with inkpot and with rod</l>
+                     <l>Endowed you, bade your fortune lead</l>
+                     <l>Forever by the crooks of Tweed,</l>
+                     <l>Forever by the woods of song</l>
+                     <l>And lands that to the Muse belong;</l>
+                     <l>Or if in peopled streets, or in</l>
+                     <l>The abhorred pedantic sanhedrim,</l>
+                     <l>It should be yours to wander, still</l>
+                     <l>Airs of the morn, airs of the hill,</l>
+                     <l>The plovery Forest and the seas</l>
+                     <l>That break about the Hebrides,</l>
+                     <l>Should follow over field and plain</l>
+                     <l>And find you at the window pane;</l>
+                     <l>And you again see hill and peel,</l>
+                     <l>And the bright springs gush at your heel.</l>
+                     <l>So went the fiat forth, and so</l>
+                     <l>Garrulous like a brook you go,</l>
+                     <l>With sound of happy mirth and sheen</l>
+                     <l>Of daylight—whether by the green</l>
+                     <l>You fare that moment, or the gray;</l>
+                     <l>Whether you dwell in March or May;</l>
+                     <l>Or whether treat of reels and rods</l>
+                     <l>Or of the old unhappy gods:</l>
+                     <l>Still like a brook your page has shone,</l>
+                     <l>And your ink sings of Helicon.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XV—ET TU IN ARCADIA VIXISTI</head>
+                  <p rend="justify">(TO R. A. M. S.)</p>
+                  <lg>
+                     <l>In ancient tales, O friend, thy spirit dwelt;</l>
+                     <l>There, from of old, thy childhood passed; and there</l>
+                     <l>High expectation, high delights and deeds,</l>
+                     <l>Thy fluttering heart with hope and terror moved.</l>
+                     <l>And thou hast heard of yore the Blatant Beast,</l>
+                     <l>And Roland’s horn, and that war-scattering shout</l>
+                     <l>Of all-unarmed Achilles, ægis-crowned</l>
+                     <l>And perilous lands thou sawest, sounding shores</l>
+                     <l>And seas and forests drear, island and dale</l>
+                     <l>And mountain dark.  For thou with Tristram rod’st</l>
+                     <l>Or Bedevere, in farthest Lyonesse.</l>
+                  </lg>
+                  <lg>
+                     <l>Thou hadst a booth in Samarcand, whereat</l>
+                     <l>Side-looking Magians trafficked; thence, by night,</l>
+                     <l>An Afreet snatched thee, and with wings upbore</l>
+                     <l>Beyond the Aral mount; or, hoping gain,</l>
+                     <l>Thou, with a jar of money, didst embark,</l>
+                     <l>For Balsorah, by sea.  But chiefly thou</l>
+                     <l>In that clear air took’st life; in Arcady</l>
+                     <l>The haunted, land of song; and by the wells</l>
+                     <l>Where most the gods frequent.  There Chiron old,</l>
+                     <l>In the Pelethronian antre, taught thee lore:</l>
+                     <l>The plants, he taught, and by the shining stars</l>
+                     <l>In forests dim to steer.  There hast thou seen</l>
+                     <l>Immortal Pan dance secret in a glade,</l>
+                     <l>And, dancing, roll his eyes; these, where they fell,</l>
+                     <l>Shed glee, and through the congregated oaks</l>
+                     <l>A flying horror winged; while all the earth</l>
+                     <l>To the god’s pregnant footing thrilled within.</l>
+                     <l>Or whiles, beside the sobbing stream, he breathed,</l>
+                     <l>In his clutched pipe unformed and wizard strains</l>
+                     <l>Divine yet brutal; which the forest heard,</l>
+                     <l>And thou, with awe; and far upon the plain</l>
+                     <l>The unthinking ploughman started and gave ear.</l>
+                  </lg>
+                  <lg>
+                     <l>Now things there are that, upon him who sees,</l>
+                     <l>A strong vocation lay; and strains there are</l>
+                     <l>That whoso hears shall hear for evermore.</l>
+                     <l>For evermore thou hear’st immortal Pan</l>
+                     <l>And those melodious godheads, ever young</l>
+                     <l>And ever quiring, on the mountains old.</l>
+                  </lg>
+                  <lg>
+                     <l>What was this earth, child of the gods, to thee?</l>
+                     <l>Forth from thy dreamland thou, a dreamer, cam’st</l>
+                     <l>And in thine ears the olden music rang,</l>
+                     <l>And in thy mind the doings of the dead,</l>
+                     <l>And those heroic ages long forgot.</l>
+                     <l>To a so fallen earth, alas! too late,</l>
+                     <l>Alas! in evil days, thy steps return,</l>
+                     <l>To list at noon for nightingales, to grow</l>
+                     <l>A dweller on the beach till Argo come</l>
+                     <l>That came long since, a lingerer by the pool</l>
+                     <l>Where that desirèd angel bathes no more.</l>
+                  </lg>
+                  <lg>
+                     <l>As when the Indian to Dakota comes,</l>
+                     <l>Or farthest Idaho, and where he dwelt,</l>
+                     <l>He with his clan, a humming city finds;</l>
+                     <l>Thereon awhile, amazed, he stares, and then</l>
+                     <l>To right and leftward, like a questing dog,</l>
+                     <l>Seeks first the ancestral altars, then the hearth</l>
+                     <l>Long cold with rains, and where old terror lodged,</l>
+                     <l>And where the dead.  So thee undying Hope,</l>
+                     <l>With all her pack, hunts screaming through the years:</l>
+                     <l>Here, there, thou fleeëst; but nor here nor there</l>
+                     <l>The pleasant gods abide, the glory dwells.</l>
+                  </lg>
+                  <lg>
+                     <l>That, that was not Apollo, not the god.</l>
+                     <l>This was not Venus, though she Venus seemed</l>
+                     <l>A moment.  And though fair yon river move,</l>
+                     <l>She, all the way, from disenchanted fount</l>
+                     <l>To seas unhallowed runs; the gods forsook</l>
+                     <l>Long since her trembling rushes; from her plains</l>
+                     <l>Disconsolate, long since adventure fled;</l>
+                     <l>And now although the inviting river flows,</l>
+                     <l>And every poplared cape, and every bend</l>
+                     <l>Or willowy islet, win upon thy soul</l>
+                     <l>And to thy hopeful shallop whisper speed;</l>
+                     <l>Yet hope not thou at all; hope is no more;</l>
+                     <l>And O, long since the golden groves are dead</l>
+                     <l>The faery cities vanished from the land!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XVI—TO W. E. HENLEY</head>
+                  <lg>
+                     <l>The year runs through her phases; rain and sun,</l>
+                     <l>Springtime and summer pass; winter succeeds;</l>
+                     <l>But one pale season rules the house of death.</l>
+                     <l>Cold falls the imprisoned daylight; fell disease</l>
+                     <l>By each lean pallet squats, and pain and sleep</l>
+                     <l>Toss gaping on the pillows.</l>
+                     <l>            But O thou!</l>
+                     <l>Uprise and take thy pipe.  Bid music flow,</l>
+                     <l>Strains by good thoughts attended, like the spring</l>
+                     <l>The swallows follow over land and sea.</l>
+                     <l>Pain sleeps at once; at once, with open eyes,</l>
+                     <l>Dozing despair awakes.  The shepherd sees</l>
+                     <l>His flock come bleating home; the seaman hears</l>
+                     <l>Once more the cordage rattle.  Airs of home!</l>
+                     <l>Youth, love and roses blossom; the gaunt ward</l>
+                     <l>Dislimns and disappears, and, opening out,</l>
+                     <l>Shows brooks and forests, and the blue beyond</l>
+                     <l>Of mountains.</l>
+                     <l>            Small the pipe; but oh! do thou,</l>
+                     <l>Peak-faced and suffering piper, blow therein</l>
+                     <l>The dirge of heroes dead; and to these sick,</l>
+                     <l>These dying, sound the triumph over death.</l>
+                     <l>Behold! each greatly breathes; each tastes a joy</l>
+                     <l>Unknown before, in dying; for each knows</l>
+                     <l>A hero dies with him—though unfulfilled,</l>
+                     <l>Yet conquering truly—and not dies in vain</l>
+                  </lg>
+                  <lg>
+                     <l>So is pain cheered, death comforted; the house</l>
+                     <l>Of sorrow smiles to listen.  Once again—</l>
+                     <l>O thou, Orpheus and Heracles, the bard</l>
+                     <l>And the deliverer, touch the stops again!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XVII—HENRY JAMES</head>
+                  <lg>
+                     <l>Who comes to-night?  We ope the doors in vain.</l>
+                     <l>Who comes?  My bursting walls, can you contain</l>
+                     <l>The presences that now together throng</l>
+                     <l>Your narrow entry, as with flowers and song,</l>
+                     <l>As with the air of life, the breath of talk?</l>
+                     <l>Lo, how these fair immaculate women walk</l>
+                     <l>Behind their jocund maker; and we see</l>
+                     <l>Slighted <hi rend="italic">De Mauves</hi>, and that far different she,</l>
+                     <l>
+                        <hi rend="italic">Gressie</hi>, the trivial sphynx; and to our feast</l>
+                     <l>
+                        <hi rend="italic">Daisy</hi> and <hi rend="italic">Barb</hi> and <hi rend="italic">Chancellor</hi> (she not least!)</l>
+                     <l>With all their silken, all their airy kin,</l>
+                     <l>Do like unbidden angels enter in.</l>
+                     <l>But he, attended by these shining names,</l>
+                     <l>Comes (best of all) himself—our welcome James.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XVIII—THE MIRROR SPEAKS</head>
+                  <lg>
+                     <l>Where the bells peal far at sea</l>
+                     <l>Cunning fingers fashioned me.</l>
+                     <l>There on palace walls I hung</l>
+                     <l>While that Consuelo sung;</l>
+                     <l>But I heard, though I listened well,</l>
+                     <l>Never a note, never a trill,</l>
+                     <l>Never a beat of the chiming bell.</l>
+                     <l>There I hung and looked, and there</l>
+                     <l>In my gray face, faces fair</l>
+                     <l>Shone from under shining hair.</l>
+                     <l>Well I saw the poising head,</l>
+                     <l>But the lips moved and nothing said;</l>
+                     <l>And when lights were in the hall,</l>
+                     <l>Silent moved the dancers all.</l>
+                  </lg>
+                  <lg>
+                     <l>So awhile I glowed, and then</l>
+                     <l>Fell on dusty days and men;</l>
+                     <l>Long I slumbered packed in straw,</l>
+                     <l>Long I none but dealers saw;</l>
+                     <l>Till before my silent eye</l>
+                     <l>One that sees came passing by.</l>
+                  </lg>
+                  <lg>
+                     <l>Now with an outlandish grace,</l>
+                     <l>To the sparkling fire I face</l>
+                     <l>In the blue room at Skerryvore;</l>
+                     <l>Where I wait until the door</l>
+                     <l>Open, and the Prince of Men,</l>
+                     <l>Henry James, shall come again.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XIX—KATHARINE</head>
+                  <lg>
+                     <l>We see you as we see a face</l>
+                     <l>That trembles in a forest place</l>
+                     <l>Upon the mirror of a pool</l>
+                     <l>Forever quiet, clear and cool;</l>
+                     <l>And in the wayward glass, appears</l>
+                     <l>To hover between smiles and tears,</l>
+                     <l>Elfin and human, airy and true,</l>
+                     <l>And backed by the reflected blue.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XX—TO F. J. S.</head>
+                  <lg>
+                     <l>I read, dear friend, in your dear face</l>
+                     <l>Your life’s tale told with perfect grace;</l>
+                     <l>The river of your life, I trace</l>
+                     <l>Up the sun-chequered, devious bed</l>
+                     <l>To the far-distant fountain-head.</l>
+                  </lg>
+                  <lg>
+                     <l>Not one quick beat of your warm heart,</l>
+                     <l>Nor thought that came to you apart,</l>
+                     <l>Pleasure nor pity, love nor pain</l>
+                     <l>Nor sorrow, has gone by in vain;</l>
+                  </lg>
+                  <lg>
+                     <l>But as some lone, wood-wandering child</l>
+                     <l>Brings home with him at evening mild</l>
+                     <l>The thorns and flowers of all the wild,</l>
+                     <l>From your whole life, O fair and true</l>
+                     <l>Your flowers and thorns you bring with you!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXI—REQUIEM</head>
+                  <lg>
+                     <l>Under the wide and starry sky,</l>
+                     <l>Dig the grave and let me lie.</l>
+                     <l>Glad did I live and gladly die,</l>
+                     <l>   And I laid me down with a will.</l>
+                  </lg>
+                  <lg>
+                     <l>This be the verse you grave for me:</l>
+                     <l>
+                        <hi rend="italic">Here he lies where he longed to be</hi>;</l>
+                     <l>
+                        <hi rend="italic">Home is the sailor</hi>, <hi rend="italic">home from sea</hi>,</l>
+                     <l>   <hi rend="italic">And the hunter home from the hill</hi>.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXII—THE CELESTIAL SURGEON</head>
+                  <lg>
+                     <l>If I have faltered more or less</l>
+                     <l>In my great task of happiness;</l>
+                     <l>If I have moved among my race</l>
+                     <l>And shown no glorious morning face;</l>
+                     <l>If beams from happy human eyes</l>
+                     <l>Have moved me not; if morning skies,</l>
+                     <l>Books, and my food, and summer rain</l>
+                     <l>Knocked on my sullen heart in vain:—</l>
+                     <l>Lord, thy most pointed pleasure take</l>
+                     <l>And stab my spirit broad awake;</l>
+                     <l>Or, Lord, if too obdurate I,</l>
+                     <l>Choose thou, before that spirit die,</l>
+                     <l>A piercing pain, a killing sin,</l>
+                     <l>And to my dead heart run them in!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXIII—OUR LADY OF THE SNOWS</head>
+                  <lg>
+                     <l>Out of the sun, out of the blast,</l>
+                     <l>Out of the world, alone I passed</l>
+                     <l>Across the moor and through the wood</l>
+                     <l>To where the monastery stood.</l>
+                     <l>There neither lute nor breathing fife,</l>
+                     <l>Nor rumour of the world of life,</l>
+                     <l>Nor confidences low and dear,</l>
+                     <l>Shall strike the meditative ear.</l>
+                     <l>Aloof, unhelpful, and unkind,</l>
+                     <l>The prisoners of the iron mind,</l>
+                     <l>Where nothing speaks except the hell</l>
+                     <l>The unfraternal brothers dwell.</l>
+                  </lg>
+                  <lg>
+                     <l>Poor passionate men, still clothed afresh</l>
+                     <l>With agonising folds of flesh;</l>
+                     <l>Whom the clear eyes solicit still</l>
+                     <l>To some bold output of the will,</l>
+                     <l>While fairy Fancy far before</l>
+                     <l>And musing Memory-Hold-the-door</l>
+                     <l>Now to heroic death invite</l>
+                     <l>And now uncurtain fresh delight:</l>
+                     <l>O, little boots it thus to dwell</l>
+                     <l>On the remote unneighboured hill!</l>
+                  </lg>
+                  <lg>
+                     <l>O to be up and doing, O</l>
+                     <l>Unfearing and unshamed to go</l>
+                     <l>In all the uproar and the press</l>
+                     <l>About my human business!</l>
+                     <l>My undissuaded heart I hear</l>
+                     <l>Whisper courage in my ear.</l>
+                     <l>With voiceless calls, the ancient earth</l>
+                     <l>Summons me to a daily birth.</l>
+                  </lg>
+                  <lg>
+                     <l>Thou, O my love, ye, O my friends—</l>
+                     <l>The gist of life, the end of ends—</l>
+                     <l>To laugh, to love, to live, to die,</l>
+                     <l>Ye call me by the ear and eye!</l>
+                  </lg>
+                  <lg>
+                     <l>Forth from the casemate, on the plain</l>
+                     <l>Where honour has the world to gain,</l>
+                     <l>Pour forth and bravely do your part,</l>
+                     <l>O knights of the unshielded heart!</l>
+                     <l>Forth and forever forward!—out</l>
+                     <l>From prudent turret and redoubt,</l>
+                     <l>And in the mellay charge amain,</l>
+                     <l>To fall but yet to rise again!</l>
+                     <l>Captive? ah, still, to honour bright,</l>
+                     <l>A captive soldier of the right!</l>
+                     <l>Or free and fighting, good with ill?</l>
+                     <l>Unconquering but unconquered still!</l>
+                  </lg>
+                  <lg>
+                     <l>And ye, O brethren, what if God,</l>
+                     <l>When from Heav’n’s top he spies abroad,</l>
+                     <l>And sees on this tormented stage</l>
+                     <l>The noble war of mankind rage:</l>
+                     <l>What if his vivifying eye,</l>
+                     <l>O monks, should pass your corner by?</l>
+                     <l>For still the Lord is Lord of might;</l>
+                     <l>In deeds, in deeds, he takes delight;</l>
+                     <l>The plough, the spear, the laden barks,</l>
+                     <l>The field, the founded city, marks;</l>
+                     <l>He marks the smiler of the streets,</l>
+                     <l>The singer upon garden seats;</l>
+                     <l>He sees the climber in the rocks:</l>
+                     <l>To him, the shepherd folds his flocks.</l>
+                     <l>For those he loves that underprop</l>
+                     <l>With daily virtues Heaven’s top,</l>
+                     <l>And bear the falling sky with ease,</l>
+                     <l>Unfrowning caryatides.</l>
+                     <l>Those he approves that ply the trade,</l>
+                     <l>That rock the child, that wed the maid,</l>
+                     <l>That with weak virtues, weaker hands,</l>
+                     <l>Sow gladness on the peopled lands,</l>
+                     <l>And still with laughter, song and shout,</l>
+                     <l>Spin the great wheel of earth about.</l>
+                  </lg>
+                  <lg>
+                     <l>But ye?—O ye who linger still</l>
+                     <l>Here in your fortress on the hill,</l>
+                     <l>With placid face, with tranquil breath,</l>
+                     <l>The unsought volunteers of death,</l>
+                     <l>Our cheerful General on high</l>
+                     <l>With careless looks may pass you by.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXIV</label>
+                  </head>
+                  <lg>
+                     <l>Not yet, my soul, these friendly fields desert,</l>
+                     <l>Where thou with grass, and rivers, and the breeze,</l>
+                     <l>And the bright face of day, thy dalliance hadst;</l>
+                     <l>Where to thine ear first sang the enraptured birds;</l>
+                     <l>Where love and thou that lasting bargain made.</l>
+                     <l>The ship rides trimmed, and from the eternal shore</l>
+                     <l>Thou hearest airy voices; but not yet</l>
+                     <l>Depart, my soul, not yet awhile depart.</l>
+                  </lg>
+                  <lg>
+                     <l>Freedom is far, rest far.  Thou art with life</l>
+                     <l>Too closely woven, nerve with nerve intwined;</l>
+                     <l>Service still craving service, love for love,</l>
+                     <l>Love for dear love, still suppliant with tears.</l>
+                     <l>Alas, not yet thy human task is done!</l>
+                     <l>A bond at birth is forged; a debt doth lie</l>
+                     <l>Immortal on mortality.  It grows—</l>
+                     <l>By vast rebound it grows, unceasing growth;</l>
+                     <l>Gift upon gift, alms upon alms, upreared,</l>
+                     <l>From man, from God, from nature, till the soul</l>
+                     <l>At that so huge indulgence stands amazed.</l>
+                  </lg>
+                  <lg>
+                     <l>Leave not, my soul, the unfoughten field, nor leave</l>
+                     <l>Thy debts dishonoured, nor thy place desert</l>
+                     <l>Without due service rendered.  For thy life,</l>
+                     <l>Up, spirit, and defend that fort of clay,</l>
+                     <l>Thy body, now beleaguered; whether soon</l>
+                     <l>Or late she fall; whether to-day thy friends</l>
+                     <l>Bewail thee dead, or, after years, a man</l>
+                     <l>Grown old in honour and the friend of peace.</l>
+                     <l>Contend, my soul, for moments and for hours;</l>
+                     <l>Each is with service pregnant; each reclaimed</l>
+                     <l>Is as a kingdom conquered, where to reign.</l>
+                  </lg>
+                  <lg>
+                     <l>As when a captain rallies to the fight</l>
+                     <l>His scattered legions, and beats ruin back,</l>
+                     <l>He, on the field, encamps, well pleased in mind.</l>
+                     <l>Yet surely him shall fortune overtake,</l>
+                     <l>Him smite in turn, headlong his ensigns drive;</l>
+                     <l>And that dear land, now safe, to-morrow fall.</l>
+                     <l>But he, unthinking, in the present good</l>
+                     <l>Solely delights, and all the camps rejoice.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXV</label>
+                  </head>
+                  <lg>
+                     <l>It is not yours, O mother, to complain,</l>
+                     <l>Not, mother, yours to weep,</l>
+                     <l>Though nevermore your son again</l>
+                     <l>Shall to your bosom creep,</l>
+                     <l>Though nevermore again you watch your baby sleep.</l>
+                  </lg>
+                  <lg>
+                     <l>Though in the greener paths of earth,</l>
+                     <l>Mother and child, no more</l>
+                     <l>We wander; and no more the birth</l>
+                     <l>Of me whom once you bore,</l>
+                     <l>Seems still the brave reward that once it seemed of yore;</l>
+                  </lg>
+                  <lg>
+                     <l>Though as all passes, day and night,</l>
+                     <l>The seasons and the years,</l>
+                     <l>From you, O mother, this delight,</l>
+                     <l>This also disappears—</l>
+                     <l>Some profit yet survives of all your pangs and tears.</l>
+                  </lg>
+                  <lg>
+                     <l>The child, the seed, the grain of corn,</l>
+                     <l>The acorn on the hill,</l>
+                     <l>Each for some separate end is born</l>
+                     <l>In season fit, and still</l>
+                     <l>Each must in strength arise to work the almighty will.</l>
+                  </lg>
+                  <lg>
+                     <l>So from the hearth the children flee,</l>
+                     <l>By that almighty hand</l>
+                     <l>Austerely led; so one by sea</l>
+                     <l>Goes forth, and one by land;</l>
+                     <l>Nor aught of all man’s sons escapes from that command</l>
+                  </lg>
+                  <lg>
+                     <l>So from the sally each obeys</l>
+                     <l>The unseen almighty nod;</l>
+                     <l>So till the ending all their ways</l>
+                     <l>Blindfolded loth have trod:</l>
+                     <l>Nor knew their task at all, but were the tools of God.</l>
+                  </lg>
+                  <lg>
+                     <l>And as the fervent smith of yore</l>
+                     <l>Beat out the glowing blade,</l>
+                     <l>Nor wielded in the front of war</l>
+                     <l>The weapons that he made,</l>
+                     <l>But in the tower at home still plied his ringing trade;</l>
+                  </lg>
+                  <lg>
+                     <l>So like a sword the son shall roam</l>
+                     <l>On nobler missions sent;</l>
+                     <l>And as the smith remained at home</l>
+                     <l>In peaceful turret pent,</l>
+                     <l>So sits the while at home the mother well content.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXVI—THE SICK CHILD</head>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Child</hi>.  O mother, lay your hand on my brow!</l>
+                     <l>O mother, mother, where am I now?</l>
+                     <l>Why is the room so gaunt and great?</l>
+                     <l>Why am I lying awake so late?</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Mother</hi>.  Fear not at all: the night is still.</l>
+                     <l>Nothing is here that means you ill—</l>
+                     <l>Nothing but lamps the whole town through,</l>
+                     <l>And never a child awake but you.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Child</hi>.  Mother, mother, speak low in my ear,</l>
+                     <l>Some of the things are so great and near,</l>
+                     <l>Some are so small and far away,</l>
+                     <l>I have a fear that I cannot say,</l>
+                     <l>What have I done, and what do I fear,</l>
+                     <l>And why are you crying, mother dear?</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Mother</hi>.  Out in the city, sounds begin</l>
+                     <l>Thank the kind God, the carts come in!</l>
+                     <l>An hour or two more, and God is so kind,</l>
+                     <l>The day shall be blue in the window-blind,</l>
+                     <l>Then shall my child go sweetly asleep,</l>
+                     <l>And dream of the birds and the hills of sheep.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXVII—IN MEMORIAM F. A. S.</head>
+                  <lg>
+                     <l>Yet, O stricken heart, remember, O remember</l>
+                     <l>   How of human days he lived the better part.</l>
+                     <l>April came to bloom and never dim December</l>
+                     <l>   Breathed its killing chills upon the head or heart.</l>
+                  </lg>
+                  <lg>
+                     <l>Doomed to know not Winter, only Spring, a being</l>
+                     <l>   Trod the flowery April blithely for a while,</l>
+                     <l>Took his fill of music, joy of thought and seeing,</l>
+                     <l>   Came and stayed and went, nor ever ceased to smile.</l>
+                  </lg>
+                  <lg>
+                     <l>Came and stayed and went, and now when all is finished,</l>
+                     <l>   You alone have crossed the melancholy stream,</l>
+                     <l>Yours the pang, but his, O his, the undiminished</l>
+                     <l>   Undecaying gladness, undeparted dream.</l>
+                  </lg>
+                  <lg>
+                     <l>All that life contains of torture, toil, and treason,</l>
+                     <l>   Shame, dishonour, death, to him were but a name.</l>
+                     <l>Here, a boy, he dwelt through all the singing season</l>
+                     <l>   And ere the day of sorrow departed as he came.</l>
+                  </lg>
+                  <p rend="justify">
+                     <hi rend="italic">Davos</hi>, 1881.</p>
+               </div>
+               <div type="div3">
+                  <head>XXVIII—TO MY FATHER</head>
+                  <lg>
+                     <l>Peace and her huge invasion to these shores</l>
+                     <l>Puts daily home; innumerable sails</l>
+                     <l>Dawn on the far horizon and draw near;</l>
+                     <l>Innumerable loves, uncounted hopes</l>
+                     <l>To our wild coasts, not darkling now, approach:</l>
+                     <l>Not now obscure, since thou and thine are there,</l>
+                     <l>And bright on the lone isle, the foundered reef,</l>
+                     <l>The long, resounding foreland, Pharos stands.</l>
+                  </lg>
+                  <lg>
+                     <l>These are thy works, O father, these thy crown;</l>
+                     <l>Whether on high the air be pure, they shine</l>
+                     <l>Along the yellowing sunset, and all night</l>
+                     <l>Among the unnumbered stars of God they shine;</l>
+                     <l>Or whether fogs arise and far and wide</l>
+                     <l>The low sea-level drown—each finds a tongue</l>
+                     <l>And all night long the tolling bell resounds:</l>
+                     <l>So shine, so toll, till night be overpast,</l>
+                     <l>Till the stars vanish, till the sun return,</l>
+                     <l>And in the haven rides the fleet secure.</l>
+                  </lg>
+                  <lg>
+                     <l>In the first hour, the seaman in his skiff</l>
+                     <l>Moves through the unmoving bay, to where the town</l>
+                     <l>Its earliest smoke into the air upbreathes</l>
+                     <l>And the rough hazels climb along the beach.</l>
+                     <l>To the tugg’d oar the distant echo speaks.</l>
+                     <l>The ship lies resting, where by reef and roost</l>
+                     <l>Thou and thy lights have led her like a child.</l>
+                  </lg>
+                  <lg>
+                     <l>This hast thou done, and I—can I be base?</l>
+                     <l>I must arise, O father, and to port</l>
+                     <l>Some lost, complaining seaman pilot home.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXIX—IN THE STATES</head>
+                  <lg>
+                     <l>With half a heart I wander here</l>
+                     <l>   As from an age gone by</l>
+                     <l>A brother—yet though young in years.</l>
+                     <l>   An elder brother, I.</l>
+                  </lg>
+                  <lg>
+                     <l>You speak another tongue than mine,</l>
+                     <l>   Though both were English born.</l>
+                     <l>I towards the night of time decline,</l>
+                     <l>   You mount into the morn.</l>
+                  </lg>
+                  <lg>
+                     <l>Youth shall grow great and strong and free,</l>
+                     <l>   But age must still decay:</l>
+                     <l>To-morrow for the States—for me,</l>
+                     <l>   England and Yesterday.</l>
+                  </lg>
+                  <p rend="justify">
+                     <hi rend="italic">San Francisco</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>XXX—A PORTRAIT</head>
+                  <lg>
+                     <l>I am a kind of farthing dip,</l>
+                     <l>   Unfriendly to the nose and eyes;</l>
+                     <l>A blue-behinded ape, I skip</l>
+                     <l>   Upon the trees of Paradise.</l>
+                  </lg>
+                  <lg>
+                     <l>At mankind’s feast, I take my place</l>
+                     <l>   In solemn, sanctimonious state,</l>
+                     <l>And have the air of saying grace</l>
+                     <l>   While I defile the dinner plate.</l>
+                  </lg>
+                  <lg>
+                     <l>I am “the smiler with the knife,”</l>
+                     <l>   The battener upon garbage, I—</l>
+                     <l>Dear Heaven, with such a rancid life,</l>
+                     <l>   Were it not better far to die?</l>
+                  </lg>
+                  <lg>
+                     <l>Yet still, about the human pale,</l>
+                     <l>   I love to scamper, love to race,</l>
+                     <l>To swing by my irreverent tail</l>
+                     <l>   All over the most holy place;</l>
+                  </lg>
+                  <lg>
+                     <l>And when at length, some golden day,</l>
+                     <l>   The unfailing sportsman, aiming at,</l>
+                     <l>Shall bag, me—all the world shall say:</l>
+                     <l>   <hi rend="italic">Thank God</hi>, <hi rend="italic">and there’s an end of that</hi>!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXXI</label>
+                  </head>
+                  <lg>
+                     <l>Sing clearlier, Muse, or evermore be still,</l>
+                     <l>Sing truer or no longer sing!</l>
+                     <l>No more the voice of melancholy Jacques</l>
+                     <l>To wake a weeping echo in the hill;</l>
+                     <l>But as the boy, the pirate of the spring,</l>
+                     <l>From the green elm a living linnet takes,</l>
+                     <l>One natural verse recapture—then be still.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXXII—A CAMP [66]</head>
+                  <lg>
+                     <l>The bed was made, the room was fit,</l>
+                     <l>By punctual eve the stars were lit;</l>
+                     <l>The air was still, the water ran,</l>
+                     <l>No need was there for maid or man,</l>
+                     <l>When we put up, my ass and I,</l>
+                     <l>At God’s green caravanserai.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXXIII—THE COUNTRY OF THE CAMISARDS [67]</head>
+                  <lg>
+                     <l>We travelled in the print of olden wars,</l>
+                     <l>   Yet all the land was green,</l>
+                     <l>   And love we found, and peace,</l>
+                     <l>   Where fire and war had been.</l>
+                  </lg>
+                  <lg>
+                     <l>They pass and smile, the children of the sword—</l>
+                     <l>   No more the sword they wield;</l>
+                     <l>   And O, how deep the corn</l>
+                     <l>   Along the battlefield!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXXIV—SKERRYVORE</head>
+                  <lg>
+                     <l>For love of lovely words, and for the sake</l>
+                     <l>Of those, my kinsmen and my countrymen,</l>
+                     <l>Who early and late in the windy ocean toiled</l>
+                     <l>To plant a star for seamen, where was then</l>
+                     <l>The surfy haunt of seals and cormorants:</l>
+                     <l>I, on the lintel of this cot, inscribe</l>
+                     <l>The name of a strong tower.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXXV—SKERRYVORE: The Parallel</head>
+                  <lg>
+                     <l>Here all is sunny, and when the truant gull</l>
+                     <l>Skims the green level of the lawn, his wing</l>
+                     <l>Dispetals roses; here the house is framed</l>
+                     <l>Of kneaded brick and the plumed mountain pine,</l>
+                     <l>Such clay as artists fashion and such wood</l>
+                     <l>As the tree-climbing urchin breaks.  But there</l>
+                     <l>Eternal granite hewn from the living isle</l>
+                     <l>And dowelled with brute iron, rears a tower</l>
+                     <l>That from its wet foundation to its crown</l>
+                     <l>Of glittering glass, stands, in the sweep of winds,</l>
+                     <l>Immovable, immortal, eminent.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXXVI</label>
+                  </head>
+                  <lg>
+                     <l>
+                        <hi rend="italic">My house</hi>, I say.  But hark to the sunny doves</l>
+                     <l>That make my roof the arena of their loves,</l>
+                     <l>That gyre about the gable all day long</l>
+                     <l>And fill the chimneys with their murmurous song:</l>
+                     <l>
+                        <hi rend="italic">Our house</hi>, they say; and <hi rend="italic">mine</hi>, the cat declares</l>
+                     <l>And spreads his golden fleece upon the chairs;</l>
+                     <l>And <hi rend="italic">mine</hi> the dog, and rises stiff with wrath</l>
+                     <l>If any alien foot profane the path.</l>
+                     <l>So too the buck that trimmed my terraces,</l>
+                     <l>Our whilome gardener, called the garden his;</l>
+                     <l>Who now, deposed, surveys my plain abode</l>
+                     <l>And his late kingdom, only from the road.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXXVII</label>
+                  </head>
+                  <lg>
+                     <l>My body which my dungeon is,</l>
+                     <l>And yet my parks and palaces:—</l>
+                     <l>   Which is so great that there I go</l>
+                     <l>All the day long to and fro,</l>
+                     <l>And when the night begins to fall</l>
+                     <l>Throw down my bed and sleep, while all</l>
+                     <l>The building hums with wakefulness—</l>
+                     <l>Even as a child of savages</l>
+                     <l>When evening takes her on her way,</l>
+                     <l>(She having roamed a summer’s day</l>
+                     <l>Along the mountain-sides and scalp)</l>
+                     <l>Sleeps in an antre of that alp:—</l>
+                     <l>   Which is so broad and high that there,</l>
+                     <l>As in the topless fields of air,</l>
+                     <l>My fancy soars like to a kite</l>
+                     <l>And faints in the blue infinite:—</l>
+                     <l>   Which is so strong, my strongest throes</l>
+                     <l>And the rough world’s besieging blows</l>
+                     <l>Not break it, and so weak withal,</l>
+                     <l>Death ebbs and flows in its loose wall</l>
+                     <l>As the green sea in fishers’ nets,</l>
+                     <l>And tops its topmost parapets:—</l>
+                     <l>   Which is so wholly mine that I</l>
+                     <l>Can wield its whole artillery,</l>
+                     <l>And mine so little, that my soul</l>
+                     <l>Dwells in perpetual control,</l>
+                     <l>And I but think and speak and do</l>
+                     <l>As my dead fathers move me to:—</l>
+                     <l>   If this born body of my bones</l>
+                     <l>The beggared soul so barely owns,</l>
+                     <l>What money passed from hand to hand,</l>
+                     <l>What creeping custom of the land,</l>
+                     <l>What deed of author or assign,</l>
+                     <l>Can make a house a thing of mine?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXXVIII</label>
+                  </head>
+                  <lg>
+                     <l>Say not of me that weakly I declined</l>
+                     <l>The labours of my sires, and fled the sea,</l>
+                     <l>The towers we founded and the lamps we lit,</l>
+                     <l>To play at home with paper like a child.</l>
+                     <l>But rather say: <hi rend="italic">In the afternoon of time</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">A strenuous family dusted from its hands</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">The sand of granite</hi>, <hi rend="italic">and beholding far</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Along the sounding coast its pyramids</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">And tall memorials catch the dying sun</hi>,</l>
+                     <l>
+                        <hi rend="italic">Smiled well content</hi>, <hi rend="italic">and to this childish task</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Around the fire addressed its evening hours</hi>.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BOOK II.—<hi rend="italic">In Scots</hi>
+               </head>
+               <div type="div3">
+                  <head>TABLE OF COMMON SCOTTISH VOWEL SOUNDS</head>
+                  <table rend="frame" xml:id="Table1">
+                     <row>
+                        <cell>ae, ai</cell>
+                        <cell>open A as in rare.</cell>
+                     </row>
+                     <row>
+                        <cell>a’, au, aw</cell>
+                        <cell>AW as in law.</cell>
+                     </row>
+                     <row>
+                        <cell>ea</cell>
+                        <cell>open E as in mere, but this with exceptions, as heather = heather, wean = wain, lear = lair.</cell>
+                     </row>
+                     <row>
+                        <cell>ee, ei, ie</cell>
+                        <cell>open E as in mere.</cell>
+                     </row>
+                     <row>
+                        <cell>oa</cell>
+                        <cell>open O as in more.</cell>
+                     </row>
+                     <row>
+                        <cell>ou</cell>
+                        <cell>doubled O as in poor.</cell>
+                     </row>
+                     <row>
+                        <cell>ow</cell>
+                        <cell>OW as in bower.</cell>
+                     </row>
+                     <row>
+                        <cell>u</cell>
+                        <cell>doubled O as in poor.</cell>
+                     </row>
+                     <row>
+                        <cell>ui or ü before R</cell>
+                        <cell>(say roughly) open A as in rare.</cell>
+                     </row>
+                     <row>
+                        <cell>ui or ü before any other consonant</cell>
+                        <cell>(say roughly) close I as in grin.</cell>
+                     </row>
+                     <row>
+                        <cell>y</cell>
+                        <cell>open I as in kite.</cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>pretty nearly what you please, much as in English, Heaven guide the reader through that labyrinth!  But in Scots it dodges usually from the short I, as in grin, to the open E, as in mere.  Find the blind, I may remark, are pronounced to rhyme with the preterite of grin.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>I—THE MAKER TO POSTERITY</head>
+                  <lg>
+                     <l>Far ’yont amang the years to be</l>
+                     <l>When a’ we think, an’ a’ we see,</l>
+                     <l>An’ a’ we luve, ’s been dung ajee</l>
+                     <l>      By time’s rouch shouther,</l>
+                     <l>An’ what was richt and wrang for me</l>
+                     <l>      Lies mangled throu’ther,</l>
+                  </lg>
+                  <lg>
+                     <l>It’s possible—it’s hardly mair—</l>
+                     <l>That some ane, ripin’ after lear—</l>
+                     <l>Some auld professor or young heir,</l>
+                     <l>      If still there’s either—</l>
+                     <l>May find an’ read me, an’ be sair</l>
+                     <l>      Perplexed, puir brither!</l>
+                  </lg>
+                  <lg>
+                     <l>“<hi rend="italic">What tongue does your auld bookie speak</hi>?”</l>
+                     <l>He’ll spier; an’ I, his mou to steik:</l>
+                     <l>“<hi rend="italic">No bein’ fit to write in Greek</hi>,</l>
+                     <l>      <hi rend="italic">I write in Lallan</hi>,</l>
+                     <l>
+                        <hi rend="italic">Dear to my heart as the peat reek</hi>,</l>
+                     <l>      <hi rend="italic">Auld as Tantallon</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>“<hi rend="italic">Few spak it then</hi>, <hi rend="italic">an’ noo there’s nane</hi>.</l>
+                     <l>
+                        <hi rend="italic">My puir auld sangs lie a’ their lane</hi>,</l>
+                     <l>
+                        <hi rend="italic">Their sense</hi>, <hi rend="italic">that aince was braw an’ plain</hi>,</l>
+                     <l>      <hi rend="italic">Tint a’thegether</hi>,</l>
+                     <l>
+                        <hi rend="italic">Like runes upon a standin’ stane</hi>
+                     </l>
+                     <l>      <hi rend="italic">Amang the heather</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>“<hi rend="italic">But think not you the brae to speel</hi>;</l>
+                     <l>
+                        <hi rend="italic">You</hi>, <hi rend="italic">tae</hi>, <hi rend="italic">maun chow the bitter peel</hi>;</l>
+                     <l>
+                        <hi rend="italic">For a’ your lear</hi>, <hi rend="italic">for a’ your skeel</hi>,</l>
+                     <l>      <hi rend="italic">Ye’re nane sae lucky</hi>;</l>
+                     <l>
+                        <hi rend="italic">An’ things are mebbe waur than weel</hi>
+                     </l>
+                     <l>      <hi rend="italic">For you</hi>, <hi rend="italic">my buckie</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>“<hi rend="italic">The hale concern</hi>  (<hi rend="italic">baith hens an’ eggs</hi>,</l>
+                     <l>
+                        <hi rend="italic">Baith books an’ writers</hi>, <hi rend="italic">stars an’ clegs</hi>)</l>
+                     <l>
+                        <hi rend="italic">Noo stachers upon lowsent legs</hi>
+                     </l>
+                     <l>      <hi rend="italic">An’ wears awa’</hi>;</l>
+                     <l>
+                        <hi rend="italic">The tack o’ mankind</hi>, <hi rend="italic">near the dregs</hi>,</l>
+                     <l>      <hi rend="italic">Rins unco law</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>“<hi rend="italic">Your book</hi>, <hi rend="italic">that in some braw new tongue</hi>,</l>
+                     <l>
+                        <hi rend="italic">Ye wrote or prentit</hi>, <hi rend="italic">preached or sung</hi>,</l>
+                     <l>
+                        <hi rend="italic">Will still be just a bairn</hi>, <hi rend="italic">an’ young</hi>
+                     </l>
+                     <l>      <hi rend="italic">In fame an’ years</hi>,</l>
+                     <l>
+                        <hi rend="italic">Whan the hale planet’s guts are dung</hi>
+                     </l>
+                     <l>      <hi rend="italic">About your ears</hi>;</l>
+                  </lg>
+                  <lg>
+                     <l>“<hi rend="italic">An’ you</hi>, <hi rend="italic">sair gruppin’ to a spar</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Or whammled wi’ some bleezin’ star</hi>,</l>
+                     <l>
+                        <hi rend="italic">Cryin’ to ken whaur deil ye are</hi>,</l>
+                     <l>      <hi rend="italic">Hame</hi>, <hi rend="italic">France</hi>, <hi rend="italic">or Flanders</hi>—</l>
+                     <l>
+                        <hi rend="italic">Whang sindry like a railway car</hi>
+                     </l>
+                     <l>      <hi rend="italic">An’ flie in danders</hi>.”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>II—ILLE TERRARUM</head>
+                  <lg>
+                     <l>Frae nirly, nippin’, Eas’lan’ breeze,</l>
+                     <l>Frae Norlan’ snaw, an’ haar o’ seas,</l>
+                     <l>Weel happit in your gairden trees,</l>
+                     <l>      A bonny bit,</l>
+                     <l>Atween the muckle Pentland’s knees,</l>
+                     <l>      Secure ye sit.</l>
+                  </lg>
+                  <lg>
+                     <l>Beeches an’ aiks entwine their theek,</l>
+                     <l>An’ firs, a stench, auld-farrant clique.</l>
+                     <l>A’ simmer day, your chimleys reek,</l>
+                     <l>      Couthy and bien;</l>
+                     <l>An’ here an’ there your windies keek</l>
+                     <l>      Amang the green.</l>
+                  </lg>
+                  <lg>
+                     <l>A pickle plats an’ paths an’ posies,</l>
+                     <l>A wheen auld gillyflowers an’ roses:</l>
+                     <l>A ring o’ wa’s the hale encloses</l>
+                     <l>      Frae sheep or men;</l>
+                     <l>An’ there the auld housie beeks an’ dozes,</l>
+                     <l>      A’ by her lane.</l>
+                  </lg>
+                  <lg>
+                     <l>The gairdner crooks his weary back</l>
+                     <l>A’ day in the pitaty-track,</l>
+                     <l>Or mebbe stops awhile to crack</l>
+                     <l>      Wi’ Jane the cook,</l>
+                     <l>Or at some buss, worm-eaten-black,</l>
+                     <l>      To gie a look.</l>
+                  </lg>
+                  <lg>
+                     <l>Frae the high hills the curlew ca’s;</l>
+                     <l>The sheep gang baaing by the wa’s;</l>
+                     <l>Or whiles a clan o’ roosty craws</l>
+                     <l>      Cangle thegether;</l>
+                     <l>The wild bees seek the gairden raws,</l>
+                     <l>      Weariet wi’ heather.</l>
+                  </lg>
+                  <lg>
+                     <l>Or in the gloamin’ douce an’ gray</l>
+                     <l>The sweet-throat mavis tunes her lay;</l>
+                     <l>The herd comes linkin’ doun the brae;</l>
+                     <l>      An’ by degrees</l>
+                     <l>The muckle siller müne maks way</l>
+                     <l>      Amang the trees.</l>
+                  </lg>
+                  <lg>
+                     <l>Here aft hae I, wi’ sober heart,</l>
+                     <l>For meditation sat apairt,</l>
+                     <l>When orra loves or kittle art</l>
+                     <l>      Perplexed my mind;</l>
+                     <l>Here socht a balm for ilka smart</l>
+                     <l>      O’ humankind.</l>
+                  </lg>
+                  <lg>
+                     <l>Here aft, weel neukit by my lane,</l>
+                     <l>Wi’ Horace, or perhaps Montaigne,</l>
+                     <l>The mornin’ hours hae come an’ gane</l>
+                     <l>      Abüne my heid—</l>
+                     <l>I wadnae gi’en a chucky-stane</l>
+                     <l>      For a’ I’d read.</l>
+                  </lg>
+                  <lg>
+                     <l>But noo the auld city, street by street,</l>
+                     <l>An’ winter fu’ o’ snaw an’ sleet,</l>
+                     <l>Awhile shut in my gangrel feet</l>
+                     <l>      An’ goavin’ mettle;</l>
+                     <l>Noo is the soopit ingle sweet,</l>
+                     <l>      An’ liltin’ kettle.</l>
+                  </lg>
+                  <lg>
+                     <l>An’ noo the winter winds complain;</l>
+                     <l>Cauld lies the glaur in ilka lane;</l>
+                     <l>On draigled hizzie, tautit wean</l>
+                     <l>      An’ drucken lads,</l>
+                     <l>In the mirk nicht, the winter rain</l>
+                     <l>      Dribbles an’ blads.</l>
+                  </lg>
+                  <lg>
+                     <l>Whan bugles frae the Castle rock,</l>
+                     <l>An’ beaten drums wi’ dowie shock,</l>
+                     <l>Wauken, at cauld-rife sax o’clock,</l>
+                     <l>      My chitterin’ frame,</l>
+                     <l>I mind me on the kintry cock,</l>
+                     <l>      The kintry hame.</l>
+                  </lg>
+                  <lg>
+                     <l>I mind me on yon bonny bield;</l>
+                     <l>An’ Fancy traivels far afield</l>
+                     <l>To gaither a’ that gairdens yield</l>
+                     <l>      O’ sun an’ Simmer:</l>
+                     <l>To hearten up a dowie chield,</l>
+                     <l>      Fancy’s the limmer!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                  </head>
+                  <lg>
+                     <l>When aince Aprile has fairly come,</l>
+                     <l>An’ birds may bigg in winter’s lum,</l>
+                     <l>An’ pleisure’s spreid for a’ and some</l>
+                     <l>      O’ whatna state,</l>
+                     <l>Love, wi’ her auld recruitin’ drum,</l>
+                     <l>      Than taks the gate.</l>
+                  </lg>
+                  <lg>
+                     <l>The heart plays dunt wi’ main an’ micht;</l>
+                     <l>The lasses’ een are a’ sae bricht,</l>
+                     <l>Their dresses are sae braw an’ ticht,</l>
+                     <l>      The bonny birdies!—</l>
+                     <l>Puir winter virtue at the sicht</l>
+                     <l>      Gangs heels ower hurdies.</l>
+                  </lg>
+                  <lg>
+                     <l>An’ aye as love frae land to land</l>
+                     <l>Tirls the drum wi’ eident hand,</l>
+                     <l>A’ men collect at her command,</l>
+                     <l>      Toun-bred or land’art,</l>
+                     <l>An’ follow in a denty band</l>
+                     <l>      Her gaucy standart.</l>
+                  </lg>
+                  <lg>
+                     <l>An’ I, wha sang o’ rain an’ snaw,</l>
+                     <l>An’ weary winter weel awa’,</l>
+                     <l>Noo busk me in a jacket braw,</l>
+                     <l>      An’ tak my place</l>
+                     <l>I’ the ram-stam, harum-scarum raw,</l>
+                     <l>      Wi’ smilin’ face.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>IV—A MILE AN’ A BITTOCK</head>
+                  <lg>
+                     <l>A mile an’ a bittock, a mile or twa,</l>
+                     <l>Abüthe burn, ayont the law,</l>
+                     <l>Davie an’ Donal’ an’ Cherlie an’ a’,</l>
+                     <l>   An’ the müne was shinin’ clearly!</l>
+                  </lg>
+                  <lg>
+                     <l>Ane went hame wi’ the ither, an’ then</l>
+                     <l>The ither went hame wi’ the ither twa men,</l>
+                     <l>An’ baith wad return him the service again,</l>
+                     <l>   An’ the müne was shinin’ clearly!</l>
+                  </lg>
+                  <lg>
+                     <l>The clocks were chappin’ in house an’ ha’,</l>
+                     <l>Eleeven, twal an’ ane an’ twa;</l>
+                     <l>An’ the guidman’s face was turnt to the wa’,</l>
+                     <l>   An’ the müne was shinin’ clearly!</l>
+                  </lg>
+                  <lg>
+                     <l>A wind got up frae affa the sea,</l>
+                     <l>It blew the stars as clear’s could be,</l>
+                     <l>It blew in the een of a’ o’ the three,</l>
+                     <l>   An’ the müne was shinin’ clearly!</l>
+                  </lg>
+                  <lg>
+                     <l>Noo, Davie was first to get sleep in his head,</l>
+                     <l>“The best o’ frien’s maun twine,” he said;</l>
+                     <l>“I’m weariet, an’ here I’m awa’ to my bed.”</l>
+                     <l>   An’ the müne was shinin’ clearly!</l>
+                  </lg>
+                  <lg>
+                     <l>Twa o’ them walkin’ an’ crackin’ their lane,</l>
+                     <l>The mornin’ licht cam gray an’ plain,</l>
+                     <l>An’ the birds they yammert on stick an’ stane,</l>
+                     <l>   An’ the müne was shinin’ clearly!</l>
+                  </lg>
+                  <lg>
+                     <l>O years ayont, O years awa’,</l>
+                     <l>My lads, ye’ll mind whate’er befa’—</l>
+                     <l>My lads, ye’ll mind on the bield o’ the law,</l>
+                     <l>   When the müne was shinin’ clearly.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>V—A LOWDEN SABBATH MORN</head>
+                  <lg>
+                     <l>The clinkum-clank o’ Sabbath bells</l>
+                     <l>Noo to the hoastin’ rookery swells,</l>
+                     <l>Noo faintin’ laigh in shady dells,</l>
+                     <l>      Sounds far an’ near,</l>
+                     <l>An’ through the simmer kintry tells</l>
+                     <l>      Its tale o’ cheer.</l>
+                  </lg>
+                  <lg>
+                     <l>An’ noo, to that melodious play,</l>
+                     <l>A’ deidly awn the quiet sway—</l>
+                     <l>A’ ken their solemn holiday,</l>
+                     <l>      Bestial an’ human,</l>
+                     <l>The singin’ lintie on the brae,</l>
+                     <l>      The restin’ plou’man,</l>
+                  </lg>
+                  <lg>
+                     <l>He, mair than a’ the lave o’ men,</l>
+                     <l>His week completit joys to ken;</l>
+                     <l>Half-dressed, he daunders out an’ in,</l>
+                     <l>      Perplext wi’ leisure;</l>
+                     <l>An’ his raxt limbs he’ll rax again</l>
+                     <l>      Wi’ painfü’ pleesure.</l>
+                  </lg>
+                  <lg>
+                     <l>The steerin’ mither strang afit</l>
+                     <l>Noo shoos the bairnies but a bit;</l>
+                     <l>Noo cries them ben, their Sinday shüit</l>
+                     <l>      To scart upon them,</l>
+                     <l>Or sweeties in their pouch to pit,</l>
+                     <l>      Wi’ blessin’s on them.</l>
+                  </lg>
+                  <lg>
+                     <l>The lasses, clean frae tap to taes,</l>
+                     <l>Are busked in crunklin’ underclaes;</l>
+                     <l>The gartened hose, the weel-filled stays,</l>
+                     <l>      The nakit shift,</l>
+                     <l>A’ bleached on bonny greens for days,</l>
+                     <l>      An’ white’s the drift.</l>
+                  </lg>
+                  <lg>
+                     <l>An’ noo to face the kirkward mile:</l>
+                     <l>The guidman’s hat o’ dacent style,</l>
+                     <l>The blackit shoon, we noo maun fyle</l>
+                     <l>      As white’s the miller:</l>
+                     <l>A waefü’ peety tae, to spile</l>
+                     <l>      The warth o’ siller.</l>
+                  </lg>
+                  <lg>
+                     <l>Our Marg’et, aye sae keen to crack,</l>
+                     <l>Douce-stappin’ in the stoury track,</l>
+                     <l>Her emeralt goun a’ kiltit back</l>
+                     <l>      Frae snawy coats,</l>
+                     <l>White-ankled, leads the kirkward pack</l>
+                     <l>      Wi’ Dauvit Groats.</l>
+                  </lg>
+                  <lg>
+                     <l>A thocht ahint, in runkled breeks,</l>
+                     <l>A’ spiled wi’ lyin’ by for weeks,</l>
+                     <l>The guidman follows closs, an’ cleiks</l>
+                     <l>      The sonsie missis;</l>
+                     <l>His sarious face at aince bespeaks</l>
+                     <l>      The day that this is.</l>
+                  </lg>
+                  <lg>
+                     <l>And aye an’ while we nearer draw</l>
+                     <l>To whaur the kirkton lies alaw,</l>
+                     <l>Mair neebours, comin’ saft an’ slaw</l>
+                     <l>      Frae here an’ there,</l>
+                     <l>The thicker thrang the gate an’ caw</l>
+                     <l>      The stour in air.</l>
+                  </lg>
+                  <lg>
+                     <l>But hark! the bells frae nearer clang;</l>
+                     <l>To rowst the slaw, their sides they bang;</l>
+                     <l>An’ see! black coats a’ready thrang</l>
+                     <l>      The green kirkyaird;</l>
+                     <l>And at the yett, the chestnuts spang</l>
+                     <l>      That brocht the laird.</l>
+                  </lg>
+                  <lg>
+                     <l>The solemn elders at the plate</l>
+                     <l>Stand drinkin’ deep the pride o’ state:</l>
+                     <l>The practised hands as gash an’ great</l>
+                     <l>      As Lords o’ Session;</l>
+                     <l>The later named, a wee thing blate</l>
+                     <l>      In their expression.</l>
+                  </lg>
+                  <lg>
+                     <l>The prentit stanes that mark the deid,</l>
+                     <l>Wi’ lengthened lip, the sarious read;</l>
+                     <l>Syne wag a moraleesin’ heid,</l>
+                     <l>      An’ then an’ there</l>
+                     <l>Their hirplin’ practice an’ their creed</l>
+                     <l>      Try hard to square.</l>
+                  </lg>
+                  <lg>
+                     <l>It’s here our Merren lang has lain,</l>
+                     <l>A wee bewast the table-stane;</l>
+                     <l>An’ yon’s the grave o’ Sandy Blane;</l>
+                     <l>      An’ further ower,</l>
+                     <l>The mither’s brithers, dacent men!</l>
+                     <l>      Lie a’ the fower.</l>
+                  </lg>
+                  <lg>
+                     <l>Here the guidman sall bide awee</l>
+                     <l>To dwall amang the deid; to see</l>
+                     <l>Auld faces clear in fancy’s e’e;</l>
+                     <l>      Belike to hear</l>
+                     <l>Auld voices fa’in saft an’ slee</l>
+                     <l>      On fancy’s ear.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus, on the day o’ solemn things,</l>
+                     <l>The bell that in the steeple swings</l>
+                     <l>To fauld a scaittered faim’ly rings</l>
+                     <l>      Its walcome screed;</l>
+                     <l>An’ just a wee thing nearer brings</l>
+                     <l>      The quick an’ deid.</l>
+                  </lg>
+                  <lg>
+                     <l>But noo the bell is ringin’ in;</l>
+                     <l>To tak their places, folk begin;</l>
+                     <l>The minister himsel’ will shüne</l>
+                     <l>      Be up the gate,</l>
+                     <l>Filled fu’ wi’ clavers about sin</l>
+                     <l>      An’ man’s estate.</l>
+                  </lg>
+                  <lg>
+                     <l>The tünes are up—<hi rend="italic">French</hi>, to be shüre,</l>
+                     <l>The faithfü’ <hi rend="italic">French</hi>, an’ twa-three mair;</l>
+                     <l>The auld prezentor, hoastin’ sair,</l>
+                     <l>      Wales out the portions,</l>
+                     <l>An’ yirks the tüne into the air</l>
+                     <l>      Wi’ queer contortions.</l>
+                  </lg>
+                  <lg>
+                     <l>Follows the prayer, the readin’ next,</l>
+                     <l>An’ than the fisslin’ for the text—</l>
+                     <l>The twa-three last to find it, vext</l>
+                     <l>      But kind o’ proud;</l>
+                     <l>An’ than the peppermints are raxed,</l>
+                     <l>      An’ southernwood.</l>
+                  </lg>
+                  <lg>
+                     <l>For noo’s the time whan pews are seen</l>
+                     <l>Nid-noddin’ like a mandareen;</l>
+                     <l>When tenty mithers stap a preen</l>
+                     <l>      In sleepin’ weans;</l>
+                     <l>An’ nearly half the parochine</l>
+                     <l>      Forget their pains.</l>
+                  </lg>
+                  <lg>
+                     <l>There’s just a waukrif’ twa or three:</l>
+                     <l>Thrawn commentautors sweer to ’gree,</l>
+                     <l>Weans glowrin’ at the bumlin’ bee</l>
+                     <l>      On windie-glasses,</l>
+                     <l>Or lads that tak a keek a-glee</l>
+                     <l>      At sonsie lasses.</l>
+                  </lg>
+                  <lg>
+                     <l>Himsel’, meanwhile, frae whaur he cocks</l>
+                     <l>An’ bobs belaw the soundin’-box,</l>
+                     <l>The treesures of his words unlocks</l>
+                     <l>      Wi’ prodigality,</l>
+                     <l>An’ deals some unco dingin’ knocks</l>
+                     <l>      To infidality.</l>
+                  </lg>
+                  <lg>
+                     <l>Wi’ sappy unction, hoo he burkes</l>
+                     <l>The hopes o’ men that trust in works,</l>
+                     <l>Expounds the fau’ts o’ ither kirks,</l>
+                     <l>      An’ shaws the best o’ them</l>
+                     <l>No muckle better than mere Turks,</l>
+                     <l>      When a’s confessed o’ them.</l>
+                  </lg>
+                  <lg>
+                     <l>Bethankit! what a bonny creed!</l>
+                     <l>What mair would ony Christian need?—</l>
+                     <l>The braw words rumm’le ower his heid,</l>
+                     <l>      Nor steer the sleeper;</l>
+                     <l>And in their restin’ graves, the deid</l>
+                     <l>      Sleep aye the deeper.</l>
+                  </lg>
+                  <p rend="justify">
+                     <hi rend="italic">Note</hi>.—It may be guessed by some that I had a certain parish in my eye, and this makes it proper I should add a word of disclamation.  In my time there have been two ministers in that parish.  Of the first I have a special reason to speak well, even had there been any to think ill.  The second I have often met in private and long (in the due phrase) “sat under” in his church, and neither here nor there have I heard an unkind or ugly word upon his lips.  The preacher of the text had thus no original in that particular parish; but when I was a boy, he might have been observed in many others; he was then (like the schoolmaster) abroad; and by recent advices, it would seem he has not yet entirely disappeared.</p>
+               </div>
+               <div type="div3">
+                  <head>VI—THE SPAEWIFE</head>
+                  <lg>
+                     <l>O, I wad like to ken—to the beggar-wife says I—</l>
+                     <l>Why chops are guid to brander and nane sae guid to fry.</l>
+                     <l>An’ siller, that’s sae braw to keep, is brawer still to gi’e.</l>
+                     <l>—<hi rend="italic">It’s gey an’ easy spierin’</hi>, says the beggar-wife to me.</l>
+                  </lg>
+                  <lg>
+                     <l>O, I wad like to ken—to the beggar-wife says I—</l>
+                     <l>Hoo a’ things come to be whaur we find them when we try,</l>
+                     <l>The lasses in their claes an’ the fishes in the sea.</l>
+                     <l>—<hi rend="italic">It’s gey an’ easy spierin’</hi>, says the beggar-wife to me.</l>
+                  </lg>
+                  <lg>
+                     <l>O, I wad like to ken—to the beggar-wife says I—</l>
+                     <l>Why lads are a’ to sell an’ lasses a’ to buy;</l>
+                     <l>An’ naebody for dacency but barely twa or three</l>
+                     <l>—<hi rend="italic">It’s gey an’ easy spierin’</hi>, says the beggar-wife to me.</l>
+                  </lg>
+                  <lg>
+                     <l>O, I wad like to ken—to the beggar-wife says I—</l>
+                     <l>Gin death’s as shüre to men as killin’ is to kye,</l>
+                     <l>Why God has filled the yearth sae fu’ o’ tasty things to pree.</l>
+                     <l>—<hi rend="italic">It’s gey an’ easy spierin’</hi>, says the beggar-wife to me.</l>
+                  </lg>
+                  <lg>
+                     <l>O, I wad like to ken—to the beggar wife says I—</l>
+                     <l>The reason o’ the cause an’ the wherefore o’ the why,</l>
+                     <l>Wi’ mony anither riddle brings the tear into my e’e.</l>
+                     <l>—<hi rend="italic">It’s gey an’ easy spierin’</hi>, says the beggar-wife to me.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>VII—THE BLAST—1875</head>
+                  <lg>
+                     <l>It’s rainin’.  Weet’s the gairden sod,</l>
+                     <l>Weet the lang roads whaur gangrels plod—</l>
+                     <l>A maist unceevil thing o’ God</l>
+                     <l>      In mid July—</l>
+                     <l>If ye’ll just curse the sneckdraw, dod!</l>
+                     <l>      An’ sae wull I!</l>
+                  </lg>
+                  <lg>
+                     <l>He’s a braw place in Heev’n, ye ken,</l>
+                     <l>An’ lea’s us puir, forjaskit men</l>
+                     <l>Clamjamfried in the but and ben</l>
+                     <l>      He ca’s the earth—</l>
+                     <l>A wee bit inconvenient den</l>
+                     <l>      No muckle worth;</l>
+                  </lg>
+                  <lg>
+                     <l>An’ whiles, at orra times, keeks out,</l>
+                     <l>Sees what puir mankind are about;</l>
+                     <l>An’ if He can, I’ve little doubt,</l>
+                     <l>      Upsets their plans;</l>
+                     <l>He hates a’ mankind, brainch and root,</l>
+                     <l>      An’ a’ that’s man’s.</l>
+                  </lg>
+                  <lg>
+                     <l>An’ whiles, whan they tak heart again,</l>
+                     <l>An’ life i’ the sun looks braw an’ plain,</l>
+                     <l>Doun comes a jaw o’ droukin’ rain</l>
+                     <l>      Upon their honours—</l>
+                     <l>God sends a spate outower the plain,</l>
+                     <l>      Or mebbe thun’ers.</l>
+                  </lg>
+                  <lg>
+                     <l>Lord safe us, life’s an unco thing!</l>
+                     <l>Simmer an’ Winter, Yule an’ Spring,</l>
+                     <l>The damned, dour-heartit seasons bring</l>
+                     <l>      A feck o’ trouble.</l>
+                     <l>I wadnae try’t to be a king—</l>
+                     <l>      No, nor for double.</l>
+                  </lg>
+                  <lg>
+                     <l>But since we’re in it, willy-nilly,</l>
+                     <l>We maun be watchfü’, wise an’ skilly,</l>
+                     <l>An’ no mind ony ither billy,</l>
+                     <l>      Lassie nor God.</l>
+                     <l>But drink—that’s my best counsel till ’e:</l>
+                     <l>      Sae tak the nod.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>VIII—THE COUNTERBLAST—1886</head>
+                  <lg>
+                     <l>My bonny man, the warld, it’s true,</l>
+                     <l>Was made for neither me nor you;</l>
+                     <l>It’s just a place to warstle through,</l>
+                     <l>      As job confessed o’t;</l>
+                     <l>And aye the best that we’ll can do</l>
+                     <l>      Is mak the best o’t.</l>
+                  </lg>
+                  <lg>
+                     <l>There’s rowth o’ wrang, I’m free to say:</l>
+                     <l>The simmer brunt, the winter blae,</l>
+                     <l>The face of earth a’ fyled wi’ clay</l>
+                     <l>      An’ dour wi’ chuckies,</l>
+                     <l>An’ life a rough an’ land’art play</l>
+                     <l>      For country buckies.</l>
+                  </lg>
+                  <lg>
+                     <l>An’ food’s anither name for clart;</l>
+                     <l>An’ beasts an’ brambles bite an’ scart;</l>
+                     <l>An’ what would WE be like, my heart!</l>
+                     <l>      If bared o’ claethin’?</l>
+                     <l>—Aweel, I cannae mend your cart:</l>
+                     <l>      It’s that or naethin’.</l>
+                  </lg>
+                  <lg>
+                     <l>A feck o’ folk frae first to last</l>
+                     <l>Have through this queer experience passed;</l>
+                     <l>Twa-three, I ken, just damn an’ blast</l>
+                     <l>      The hale transaction;</l>
+                     <l>But twa-three ithers, east an’ wast,</l>
+                     <l>      Fand satisfaction,</l>
+                  </lg>
+                  <lg>
+                     <l>Whaur braid the briery muirs expand,</l>
+                     <l>A waefü’ an’ a weary land,</l>
+                     <l>The bumblebees, a gowden band,</l>
+                     <l>      Are blithely hingin’;</l>
+                     <l>An’ there the canty wanderer fand</l>
+                     <l>      The laverock singin’.</l>
+                  </lg>
+                  <lg>
+                     <l>Trout in the burn grow great as herr’n,</l>
+                     <l>The simple sheep can find their fair’n’;</l>
+                     <l>The wind blaws clean about the cairn</l>
+                     <l>      Wi’ caller air;</l>
+                     <l>The muircock an’ the barefit bairn</l>
+                     <l>      Are happy there.</l>
+                  </lg>
+                  <lg>
+                     <l>Sic-like the howes o’ life to some:</l>
+                     <l>Green loans whaur they ne’er fash their thumb.</l>
+                     <l>But mark the muckle winds that come</l>
+                     <l>      Soopin’ an’ cool,</l>
+                     <l>Or hear the powrin’ burnie drum</l>
+                     <l>      In the shilfa’s pool.</l>
+                  </lg>
+                  <lg>
+                     <l>The evil wi’ the guid they tak;</l>
+                     <l>They ca’ a gray thing gray, no black;</l>
+                     <l>To a steigh brae, a stubborn back</l>
+                     <l>      Addressin’ daily;</l>
+                     <l>An’ up the rude, unbieldy track</l>
+                     <l>      O’ life, gang gaily.</l>
+                  </lg>
+                  <lg>
+                     <l>What you would like’s a palace ha’,</l>
+                     <l>Or Sinday parlour dink an’ braw</l>
+                     <l>Wi’ a’ things ordered in a raw</l>
+                     <l>      By denty leddies.</l>
+                     <l>Weel, than, ye cannae hae’t: that’s a’</l>
+                     <l>      That to be said is.</l>
+                  </lg>
+                  <lg>
+                     <l>An’ since at life ye’ve taen the grue,</l>
+                     <l>An’ winnae blithely hirsle through,</l>
+                     <l>Ye’ve fund the very thing to do—</l>
+                     <l>      That’s to drink speerit;</l>
+                     <l>An’ shüne we’ll hear the last o’ you—</l>
+                     <l>      An’ blithe to hear it!</l>
+                  </lg>
+                  <lg>
+                     <l>The shoon ye coft, the life ye lead,</l>
+                     <l>Ithers will heir when aince ye’re deid;</l>
+                     <l>They’ll heir your tasteless bite o’ breid,</l>
+                     <l>      An’ find it sappy;</l>
+                     <l>They’ll to your dulefü’ house succeed,</l>
+                     <l>      An’ there be happy.</l>
+                  </lg>
+                  <lg>
+                     <l>As whan a glum an’ fractious wean</l>
+                     <l>Has sat an’ sullened by his lane</l>
+                     <l>Till, wi’ a rowstin’ skelp, he’s taen</l>
+                     <l>      An’ shoo’d to bed—</l>
+                     <l>The ither bairns a’ fa’ to play’n’,</l>
+                     <l>      As gleg’s a gled.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>IX—THE COUNTERBLAST IRONICAL</head>
+                  <lg>
+                     <l>It’s strange that God should fash to frame</l>
+                     <l>   The yearth and lift sae hie,</l>
+                     <l>An’ clean forget to explain the same</l>
+                     <l>   To a gentleman like me.</l>
+                  </lg>
+                  <lg>
+                     <l>They gutsy, donnered ither folk,</l>
+                     <l>   Their weird they weel may dree;</l>
+                     <l>But why present a pig in a poke</l>
+                     <l>   To a gentleman like me?</l>
+                  </lg>
+                  <lg>
+                     <l>They ither folk their parritch eat</l>
+                     <l>   An’ sup their sugared tea;</l>
+                     <l>But the mind is no to be wyled wi’ meat</l>
+                     <l>   Wi’ a gentleman like me.</l>
+                  </lg>
+                  <lg>
+                     <l>They ither folk, they court their joes</l>
+                     <l>   At gloamin’ on the lea;</l>
+                     <l>But they’re made of a commoner clay, I suppose,</l>
+                     <l>   Than a gentleman like me.</l>
+                  </lg>
+                  <lg>
+                     <l>They ither folk, for richt or wrang,</l>
+                     <l>   They suffer, bleed, or dee;</l>
+                     <l>But a’ thir things are an emp’y sang</l>
+                     <l>   To a gentleman like me.</l>
+                  </lg>
+                  <lg>
+                     <l>It’s a different thing that I demand,</l>
+                     <l>   Tho’ humble as can be—</l>
+                     <l>A statement fair in my Maker’s hand</l>
+                     <l>   To a gentleman like me:</l>
+                  </lg>
+                  <lg>
+                     <l>A clear account writ fair an’ broad,</l>
+                     <l>   An’ a plain apologie;</l>
+                     <l>Or the deevil a ceevil word to God</l>
+                     <l>   From a gentleman like me.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>X—THEIR LAUREATE TO AN ACADEMY CLASS DINNER CLUB</head>
+                  <lg>
+                     <l>Dear Thamson class, whaure’er I gang</l>
+                     <l>It aye comes ower me wi’ a spang:</l>
+                     <l>“<hi rend="italic">Lordsake</hi>! <hi rend="italic">they Thamson lads</hi>—(<hi rend="italic">deil hang</hi>
+                     </l>
+                     <l>      <hi rend="italic">Or else Lord mend them</hi>!)—</l>
+                     <l>
+                        <hi rend="italic">An’ that wanchancy annual sang</hi>
+                     </l>
+                     <l>      <hi rend="italic">I ne’er can send them</hi>!”</l>
+                  </lg>
+                  <lg>
+                     <l>Straucht, at the name, a trusty tyke,</l>
+                     <l>My conscience girrs ahint the dyke;</l>
+                     <l>Straucht on my hinderlands I fyke</l>
+                     <l>      To find a rhyme t’ ye;</l>
+                     <l>Pleased—although mebbe no pleased-like—</l>
+                     <l>      To gie my time t’ye.</l>
+                  </lg>
+                  <lg>
+                     <l>“<hi rend="italic">Weel</hi>,” an’ says you, wi’ heavin’ breist,</l>
+                     <l>“<hi rend="italic">Sae far</hi>, <hi rend="italic">sae guid</hi>, <hi rend="italic">but what’s the neist</hi>?</l>
+                     <l>
+                        <hi rend="italic">Yearly we gaither to the feast</hi>,</l>
+                     <l>      <hi rend="italic">A’ hopefü’ men</hi>—</l>
+                     <l>
+                        <hi rend="italic">Yearly we skelloch</hi>  ‘<hi rend="italic">Hang the beast</hi>—</l>
+                     <l>      <hi rend="italic">Nae sang again</hi>!’”</l>
+                  </lg>
+                  <lg>
+                     <l>My lads, an’ what am I to say?</l>
+                     <l>Ye shürely ken the Muse’s way:</l>
+                     <l>Yestreen, as gleg’s a tyke—the day,</l>
+                     <l>      Thrawn like a cuddy:</l>
+                     <l>Her conduc’, that to her’s a play,</l>
+                     <l>      Deith to a body.</l>
+                  </lg>
+                  <lg>
+                     <l>Aft whan I sat an’ made my mane,</l>
+                     <l>Aft whan I laboured burd-alane</l>
+                     <l>Fishin’ for rhymes an’ findin’ nane,</l>
+                     <l>      Or nane were fit for ye—</l>
+                     <l>Ye judged me cauld’s a chucky stane—</l>
+                     <l>      No car’n’ a bit for ye!</l>
+                  </lg>
+                  <lg>
+                     <l>But saw ye ne’er some pingein’ bairn</l>
+                     <l>As weak as a pitaty-par’n’—</l>
+                     <l>Less üsed wi’ guidin’ horse-shoe airn</l>
+                     <l>      Than steerin’ crowdie—</l>
+                     <l>Packed aff his lane, by moss an’ cairn,</l>
+                     <l>      To ca’ the howdie.</l>
+                  </lg>
+                  <lg>
+                     <l>Wae’s me, for the puir callant than!</l>
+                     <l>He wambles like a poke o’ bran,</l>
+                     <l>An’ the lowse rein, as hard’s he can,</l>
+                     <l>      Pu’s, trem’lin’ handit;</l>
+                     <l>Till, blaff! upon his hinderlan’</l>
+                     <l>      Behauld him landit.</l>
+                  </lg>
+                  <lg>
+                     <l>Sic-like—I awn the weary fac’—</l>
+                     <l>Whan on my muse the gate I tak,</l>
+                     <l>An’ see her gleed e’e raxin’ back</l>
+                     <l>      To keek ahint her;—</l>
+                     <l>To me, the brig o’ Heev’n gangs black</l>
+                     <l>      As blackest winter.</l>
+                  </lg>
+                  <lg>
+                     <l>“<hi rend="italic">Lordsake</hi>! <hi rend="italic">we’re aff</hi>,” thinks I, “<hi rend="italic">but whaur</hi>?</l>
+                     <l>
+                        <hi rend="italic">On what abhorred an’ whinny scaur</hi>,</l>
+                     <l>
+                        <hi rend="italic">Or whammled in what sea o’ glaur</hi>,</l>
+                     <l>      <hi rend="italic">Will she desert me</hi>?</l>
+                     <l>
+                        <hi rend="italic">An’ will she just disgrace</hi>? <hi rend="italic">or waur</hi>—</l>
+                     <l>      <hi rend="italic">Will she no hurt me</hi>?”</l>
+                  </lg>
+                  <lg>
+                     <l>Kittle the quaere!  But at least</l>
+                     <l>The day I’ve backed the fashious beast,</l>
+                     <l>While she, wi’ mony a spang an’ reist,</l>
+                     <l>      Flang heels ower bonnet;</l>
+                     <l>An’ a’ triumphant—for your feast,</l>
+                     <l>      Hae! there’s your sonnet!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XI—EMBRO HIE KIRK</head>
+                  <lg>
+                     <l>The Lord Himsel’ in former days</l>
+                     <l>Waled out the proper tünes for praise</l>
+                     <l>An’ named the proper kind o’ claes</l>
+                     <l>      For folk to preach in:</l>
+                     <l>Preceese and in the chief o’ ways</l>
+                     <l>      Important teachin’.</l>
+                  </lg>
+                  <lg>
+                     <l>He ordered a’ things late and air’;</l>
+                     <l>He ordered folk to stand at prayer,</l>
+                     <l>(Although I cannae just mind where</l>
+                     <l>      He gave the warnin’,)</l>
+                     <l>An’ pit pomatum on their hair</l>
+                     <l>      On Sabbath mornin’.</l>
+                  </lg>
+                  <lg>
+                     <l>The hale o’ life by His commands</l>
+                     <l>Was ordered to a body’s hands;</l>
+                     <l>But see! this <hi rend="italic">corpus juris</hi>  stands</l>
+                     <l>      By a’ forgotten;</l>
+                     <l>An’ God’s religion in a’ lands</l>
+                     <l>      Is deid an’ rotten.</l>
+                  </lg>
+                  <lg>
+                     <l>While thus the lave o’ mankind’s lost,</l>
+                     <l>O’ Scotland still God maks His boast—</l>
+                     <l>Puir Scotland, on whase barren coast</l>
+                     <l>      A score or twa</l>
+                     <l>Auld wives wi’ mutches an’ a hoast</l>
+                     <l>      Still keep His law.</l>
+                  </lg>
+                  <lg>
+                     <l>In Scotland, a wheen canty, plain,</l>
+                     <l>Douce, kintry-leevin’ folk retain</l>
+                     <l>The Truth—or did so aince—alane</l>
+                     <l>      Of a’ men leevin’;</l>
+                     <l>An’ noo just twa o’ them remain—</l>
+                     <l>      Just Begg an’ Niven.</l>
+                  </lg>
+                  <lg>
+                     <l>For noo, unfaithfü’, to the Lord</l>
+                     <l>Auld Scotland joins the rebel horde;</l>
+                     <l>Her human hymn-books on the board</l>
+                     <l>      She noo displays:</l>
+                     <l>An’ Embro Hie Kirk’s been restored</l>
+                     <l>      In popish ways.</l>
+                  </lg>
+                  <lg>
+                     <l>O <hi rend="italic">punctum temporis</hi>  for action</l>
+                     <l>To a’ o’ the reformin’ faction,</l>
+                     <l>If yet, by ony act or paction,</l>
+                     <l>      Thocht, word, or sermon,</l>
+                     <l>This dark an’ damnable transaction</l>
+                     <l>      Micht yet determine!</l>
+                  </lg>
+                  <lg>
+                     <l>For see—as Doctor Begg explains—</l>
+                     <l>Hoo easy ’t’s düne! a pickle weans,</l>
+                     <l>Wha in the Hie Street gaither stanes</l>
+                     <l>      By his instruction,</l>
+                     <l>The uncovenantit, pentit panes</l>
+                     <l>      Ding to destruction.</l>
+                  </lg>
+                  <lg>
+                     <l>Up, Niven, or ower late—an’ dash</l>
+                     <l>Laigh in the glaur that carnal hash;</l>
+                     <l>Let spires and pews wi’ gran’ stramash</l>
+                     <l>      Thegether fa’;</l>
+                     <l>The rumlin’ kist o’ whustles smash</l>
+                     <l>      In pieces sma’.</l>
+                  </lg>
+                  <lg>
+                     <l>Noo choose ye out a walie hammer;</l>
+                     <l>About the knottit buttress clam’er;</l>
+                     <l>Alang the steep roof stoyt an’ stammer,</l>
+                     <l>      A gate mis-chancy;</l>
+                     <l>On the aul’ spire, the bells’ hie cha’mer,</l>
+                     <l>      Dance your bit dancie.</l>
+                  </lg>
+                  <lg>
+                     <l>Ding, devel, dunt, destroy, an’ ruin,</l>
+                     <l>Wi’ carnal stanes the square bestrewin’,</l>
+                     <l>Till your loud chaps frae Kyle to Fruin,</l>
+                     <l>      Frae Hell to Heeven,</l>
+                     <l>Tell the guid wark that baith are doin’—</l>
+                     <l>      Baith Begg an’ Niven.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XII—THE SCOTSMAN’S RETURN FROM ABROAD</head>
+                  <p rend="justify">In a letter from Mr. Thomson to Mr. Johnstone.</p>
+                  <lg>
+                     <l>In mony a foreign pairt I’ve been,</l>
+                     <l>An’ mony an unco ferlie seen,</l>
+                     <l>Since, Mr. Johnstone, you and I</l>
+                     <l>Last walkit upon Cocklerye.</l>
+                     <l>Wi’ gleg, observant een, I pass’t</l>
+                     <l>By sea an’ land, through East an’ Wast,</l>
+                     <l>And still in ilka age an’ station</l>
+                     <l>Saw naething but abomination.</l>
+                     <l>In thir uncovenantit lands</l>
+                     <l>The gangrel Scot uplifts his hands</l>
+                  </lg>
+                  <lg>
+                     <l>At lack of a’ sectarian füsh’n,</l>
+                     <l>An’ cauld religious destitütion.</l>
+                     <l>He rins, puir man, frae place to place,</l>
+                     <l>Tries a’ their graceless means o’ grace,</l>
+                     <l>Preacher on preacher, kirk on kirk—</l>
+                     <l>This yin a stot an’ thon a stirk—</l>
+                     <l>A bletherin’ clan, no warth a preen,</l>
+                     <l>As bad as Smith of Aiberdeen!</l>
+                  </lg>
+                  <lg>
+                     <l>At last, across the weary faem,</l>
+                     <l>Frae far, outlandish pairts I came.</l>
+                     <l>On ilka side o’ me I fand</l>
+                     <l>Fresh tokens o’ my native land.</l>
+                     <l>Wi’ whatna joy I hailed them a’—</l>
+                     <l>The hilltaps standin’ raw by raw,</l>
+                     <l>The public house, the Hielan’ birks,</l>
+                     <l>And a’ the bonny U.P. kirks!</l>
+                     <l>But maistly thee, the bluid o’ Scots,</l>
+                     <l>Frae Maidenkirk to John o’ Grots,</l>
+                     <l>The king o’ drinks, as I conceive it,</l>
+                     <l>Talisker, Isla, or Glenlivet!</l>
+                  </lg>
+                  <lg>
+                     <l>For after years wi’ a pockmantie</l>
+                     <l>Frae Zanzibar to Alicante,</l>
+                     <l>In mony a fash and sair affliction</l>
+                     <l>I gie’t as my sincere conviction—</l>
+                     <l>Of a’ their foreign tricks an’ pliskies,</l>
+                     <l>I maist abominate their whiskies.</l>
+                     <l>Nae doot, themsel’s, they ken it weel,</l>
+                     <l>An’ wi’ a hash o’ leemon peel,</l>
+                     <l>And ice an’ siccan filth, they ettle</l>
+                     <l>The stawsome kind o’ goo to settle;</l>
+                     <l>Sic wersh apothecary’s broos wi’</l>
+                     <l>As Scotsmen scorn to fyle their moo’s wi’.</l>
+                  </lg>
+                  <lg>
+                     <l>An’, man, I was a blithe hame-comer</l>
+                     <l>Whan first I syndit out my rummer.</l>
+                     <l>Ye should hae seen me then, wi’ care</l>
+                     <l>The less important pairts prepare;</l>
+                     <l>Syne, weel contentit wi’ it a’,</l>
+                     <l>Pour in the sperrits wi’ a jaw!</l>
+                     <l>I didnae drink, I didnae speak,—</l>
+                     <l>I only snowkit up the reek.</l>
+                     <l>I was sae pleased therein to paidle,</l>
+                     <l>I sat an’ plowtered wi’ my ladle.</l>
+                  </lg>
+                  <lg>
+                     <l>An’ blithe was I, the morrow’s morn,</l>
+                     <l>To daunder through the stookit corn,</l>
+                     <l>And after a’ my strange mishanters,</l>
+                     <l>Sit doun amang my ain dissenters.</l>
+                     <l>An’, man, it was a joy to me</l>
+                     <l>The pu’pit an’ the pews to see,</l>
+                     <l>The pennies dirlin’ in the plate,</l>
+                     <l>The elders lookin’ on in state;</l>
+                     <l>An’ ’mang the first, as it befell,</l>
+                     <l>Wha should I see, sir, but yoursel’</l>
+                  </lg>
+                  <lg>
+                     <l>I was, and I will no deny it,</l>
+                     <l>At the first gliff a hantle tryit</l>
+                     <l>To see yoursel’ in sic a station—</l>
+                     <l>It seemed a doubtfü’ dispensation.</l>
+                     <l>The feelin’ was a mere digression;</l>
+                     <l>For shüne I understood the session,</l>
+                     <l>An’ mindin’ Aiken an’ M‘Neil,</l>
+                     <l>I wondered they had düne sae weel.</l>
+                     <l>I saw I had mysel’ to blame;</l>
+                     <l>For had I but remained at hame,</l>
+                     <l>Aiblins—though no ava’ deservin’ ’t—</l>
+                     <l>They micht hae named your humble servant.</l>
+                  </lg>
+                  <lg>
+                     <l>The kirk was filled, the door was steeked;</l>
+                     <l>Up to the pu’pit ance I keeked;</l>
+                     <l>I was mair pleased than I can tell—</l>
+                     <l>It was the minister himsel’!</l>
+                     <l>Proud, proud was I to see his face,</l>
+                     <l>After sae lang awa’ frae grace.</l>
+                     <l>Pleased as I was, I’m no denyin’</l>
+                     <l>Some maitters were not edifyin’;</l>
+                     <l>For first I fand—an’ here was news!—</l>
+                     <l>Mere hymn-books cockin’ in the pews—</l>
+                     <l>A humanised abomination,</l>
+                     <l>Unfit for ony congregation.</l>
+                     <l>Syne, while I still was on the tenter,</l>
+                     <l>I scunnered at the new prezentor;</l>
+                     <l>I thocht him gesterin’ an’ cauld—</l>
+                     <l>A sair declension frae the auld.</l>
+                     <l>Syne, as though a’ the faith was wreckit,</l>
+                     <l>The prayer was not what I’d exspeckit.</l>
+                     <l>Himsel’, as it appeared to me,</l>
+                     <l>Was no the man he üsed to be.</l>
+                     <l>But just as I was growin’ vext</l>
+                     <l>He waled a maist judeecious text,</l>
+                     <l>An’, launchin’ into his prelections,</l>
+                     <l>Swoopt, wi’ a skirl, on a’ defections.</l>
+                  </lg>
+                  <lg>
+                     <l>O what a gale was on my speerit</l>
+                     <l>To hear the p’ints o’ doctrine clearit,</l>
+                     <l>And a’ the horrors o’ damnation</l>
+                     <l>Set furth wi’ faithfü’ ministration!</l>
+                     <l>Nae shauchlin’ testimony here—</l>
+                     <l>We were a’ damned, an’ that was clear,</l>
+                     <l>I owned, wi’ gratitude an’ wonder,</l>
+                     <l>He was a pleisure to sit under.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XIII</label>
+                  </head>
+                  <lg>
+                     <l>Late in the nicht in bed I lay,</l>
+                     <l>The winds were at their weary play,</l>
+                     <l>An’ tirlin’ wa’s an’ skirlin’ wae</l>
+                     <l>      Through Heev’n they battered;—</l>
+                     <l>On-ding o’ hail, on-blaff o’ spray,</l>
+                     <l>      The tempest blattered.</l>
+                  </lg>
+                  <lg>
+                     <l>The masoned house it dinled through;</l>
+                     <l>It dung the ship, it cowped the coo’.</l>
+                     <l>The rankit aiks it overthrew,</l>
+                     <l>      Had braved a’ weathers;</l>
+                     <l>The strang sea-gleds it took an’ blew</l>
+                     <l>      Awa’ like feathers.</l>
+                  </lg>
+                  <lg>
+                     <l>The thrawes o’ fear on a’ were shed,</l>
+                     <l>An’ the hair rose, an’ slumber fled,</l>
+                     <l>An’ lichts were lit an’ prayers were said</l>
+                     <l>      Through a’ the kintry;</l>
+                     <l>An’ the cauld terror clum in bed</l>
+                     <l>      Wi’ a’ an’ sindry.</l>
+                  </lg>
+                  <lg>
+                     <l>To hear in the pit-mirk on hie</l>
+                     <l>The brangled collieshangie flie,</l>
+                     <l>The warl’, they thocht, wi’ land an’ sea,</l>
+                     <l>      Itsel’ wad cowpit;</l>
+                     <l>An’ for auld airn, the smashed debris</l>
+                     <l>      By God be rowpit.</l>
+                  </lg>
+                  <lg>
+                     <l>Meanwhile frae far Aldeboran,</l>
+                     <l>To folks wi’ talescopes in han’,</l>
+                     <l>O’ ships that cowpit, winds that ran,</l>
+                     <l>      Nae sign was seen,</l>
+                     <l>But the wee warl’ in sunshine span</l>
+                     <l>      As bricht’s a preen.</l>
+                  </lg>
+                  <lg>
+                     <l>I, tae, by God’s especial grace,</l>
+                     <l>Dwall denty in a bieldy place,</l>
+                     <l>Wi’ hosened feet, wi’ shaven face,</l>
+                     <l>      Wi’ dacent mainners:</l>
+                     <l>A grand example to the race</l>
+                     <l>      O’ tautit sinners!</l>
+                  </lg>
+                  <lg>
+                     <l>The wind may blaw, the heathen rage,</l>
+                     <l>The deil may start on the rampage;—</l>
+                     <l>The sick in bed, the thief in cage—</l>
+                     <l>      What’s a’ to me?</l>
+                     <l>Cosh in my house, a sober sage,</l>
+                     <l>      I sit an’ see.</l>
+                  </lg>
+                  <lg>
+                     <l>An’ whiles the bluid spangs to my bree,</l>
+                     <l>To lie sae saft, to live sae free,</l>
+                     <l>While better men maun do an’ die</l>
+                     <l>      In unco places.</l>
+                     <l>“<hi rend="italic">Whaur’s God</hi>?” I cry, an’ “<hi rend="italic">Whae is me</hi>
+                     </l>
+                     <l>      <hi rend="italic">To hae sic graces</hi>?”</l>
+                  </lg>
+                  <lg>
+                     <l>I mind the fecht the sailors keep,</l>
+                     <l>But fire or can’le, rest or sleep,</l>
+                     <l>In darkness an’ the muckle deep;</l>
+                     <l>      An’ mind beside</l>
+                     <l>The herd that on the hills o’ sheep</l>
+                     <l>      Has wandered wide.</l>
+                  </lg>
+                  <lg>
+                     <l>I mind me on the hoastin’ weans—</l>
+                     <l>The penny joes on causey stanes—</l>
+                     <l>The auld folk wi’ the crazy banes,</l>
+                     <l>      Baith auld an’ puir,</l>
+                     <l>That aye maun thole the winds an’ rains</l>
+                     <l>      An’ labour sair.</l>
+                  </lg>
+                  <lg>
+                     <l>An’ whiles I’m kind o’ pleased a blink,</l>
+                     <l>An’ kind o’ fleyed forby, to think,</l>
+                     <l>For a’ my rowth o’ meat an’ drink</l>
+                     <l>      An’ waste o’ crumb,</l>
+                     <l>I’ll mebbe have to thole wi’ skink</l>
+                     <l>      In Kingdom Come.</l>
+                  </lg>
+                  <lg>
+                     <l>For God whan jowes the Judgment bell,</l>
+                     <l>Wi’ His ain Hand, His Leevin’ Sel’,</l>
+                     <l>Sall ryve the guid (as Prophets tell)</l>
+                     <l>      Frae them that had it;</l>
+                     <l>And in the reamin’ pat o’ Hell,</l>
+                     <l>      The rich be scaddit.</l>
+                  </lg>
+                  <lg>
+                     <l>O Lord, if this indeed be sae,</l>
+                     <l>Let daw that sair an’ happy day!</l>
+                     <l>Again’ the warl’, grawn auld an’ gray,</l>
+                     <l>      Up wi’ your aixe!</l>
+                     <l>An’ let the puir enjoy their play—</l>
+                     <l>      I’ll thole my paiks.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XIV—MY CONSCIENCE!</head>
+                  <lg>
+                     <l>Of a’ the ills that flesh can fear,</l>
+                     <l>The loss o’ frien’s, the lack o’ gear,</l>
+                     <l>A yowlin’ tyke, a glandered mear,</l>
+                     <l>      A lassie’s nonsense—</l>
+                     <l>There’s just ae thing I cannae bear,</l>
+                     <l>      An’ that’s my conscience.</l>
+                  </lg>
+                  <lg>
+                     <l>Whan day (an’ a’ excüse) has gane,</l>
+                     <l>An’ wark is düne, and duty’s plain,</l>
+                     <l>An’ to my chalmer a’ my lane</l>
+                     <l>      I creep apairt,</l>
+                     <l>My conscience! hoo the yammerin’ pain</l>
+                     <l>      Stends to my heart!</l>
+                  </lg>
+                  <lg>
+                     <l>A’ day wi’ various ends in view</l>
+                     <l>The hairsts o’ time I had to pu’,</l>
+                     <l>An’ made a hash wad staw a soo,</l>
+                     <l>      Let be a man!—</l>
+                     <l>My conscience! whan my han’s were fu’,</l>
+                     <l>      Whaur were ye than?</l>
+                  </lg>
+                  <lg>
+                     <l>An’ there were a’ the lures o’ life,</l>
+                     <l>There pleesure skirlin’ on the fife,</l>
+                     <l>There anger, wi’ the hotchin’ knife</l>
+                     <l>      Ground shairp in Hell—</l>
+                     <l>My conscience!—you that’s like a wife!—</l>
+                     <l>      Whaur was yoursel’?</l>
+                  </lg>
+                  <lg>
+                     <l>I ken it fine: just waitin’ here,</l>
+                     <l>To gar the evil waur appear,</l>
+                     <l>To clart the guid, confüse the clear,</l>
+                     <l>      Mis-ca’ the great,</l>
+                     <l>My conscience! an’ to raise a steer</l>
+                     <l>      Whan a’s ower late.</l>
+                  </lg>
+                  <lg>
+                     <l>Sic-like, some tyke grawn auld and blind,</l>
+                     <l>Whan thieves brok’ through the gear to p’ind,</l>
+                     <l>Has lain his dozened length an’ grinned</l>
+                     <l>      At the disaster;</l>
+                     <l>An’ the morn’s mornin’, wud’s the wind,</l>
+                     <l>      Yokes on his master.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XV—TO DOCTOR JOHN BROWN</head>
+                  <lg>
+                     <l>(<hi rend="italic">Whan the dear doctor</hi>, <hi rend="italic">dear to a’</hi>,</l>
+                     <l>
+                        <hi rend="italic">Was still amang us here belaw</hi>,</l>
+                     <l>
+                        <hi rend="italic">I set my pipes his praise to blaw</hi>
+                     </l>
+                     <l>      <hi rend="italic">Wi’ a’ my speerit</hi>;</l>
+                     <l>
+                        <hi rend="italic">But noo</hi>, <hi rend="italic">Dear Doctor</hi>! <hi rend="italic">he’s awa’</hi>,</l>
+                     <l>      <hi rend="italic">An’ ne’er can hear it</hi>.)</l>
+                  </lg>
+                  <lg>
+                     <l>By Lyne and Tyne, by Thames and Tees,</l>
+                     <l>By a’ the various river-Dee’s,</l>
+                     <l>In Mars and Manors ’yont the seas</l>
+                     <l>      Or here at hame,</l>
+                     <l>Whaure’er there’s kindly folk to please,</l>
+                     <l>      They ken your name.</l>
+                  </lg>
+                  <lg>
+                     <l>They ken your name, they ken your tyke,</l>
+                     <l>They ken the honey from your byke;</l>
+                     <l>But mebbe after a’ your fyke,</l>
+                     <l>      (The trüth to tell)</l>
+                     <l>It’s just your honest Rab they like,</l>
+                     <l>      An’ no yoursel’.</l>
+                  </lg>
+                  <lg>
+                     <l>As at the gowff, some canny play’r</l>
+                     <l>Should tee a common ba’ wi’ care—</l>
+                     <l>Should flourish and deleever fair</l>
+                     <l>      His souple shintie—</l>
+                     <l>An’ the ba’ rise into the air,</l>
+                     <l>      A leevin’ lintie:</l>
+                  </lg>
+                  <lg>
+                     <l>Sae in the game we writers play,</l>
+                     <l>There comes to some a bonny day,</l>
+                     <l>When a dear ferlie shall repay</l>
+                     <l>      Their years o’ strife,</l>
+                     <l>An’ like your Rab, their things o’ clay,</l>
+                     <l>      Spreid wings o’ life.</l>
+                  </lg>
+                  <lg>
+                     <l>Ye scarce deserved it, I’m afraid—</l>
+                     <l>You that had never learned the trade,</l>
+                     <l>But just some idle mornin’ strayed</l>
+                     <l>      Into the schüle,</l>
+                     <l>An’ picked the fiddle up an’ played</l>
+                     <l>      Like Neil himsel’.</l>
+                  </lg>
+                  <lg>
+                     <l>Your e’e was gleg, your fingers dink;</l>
+                     <l>Ye didnae fash yoursel’ to think,</l>
+                     <l>But wove, as fast as puss can link,</l>
+                     <l>      Your denty wab:—</l>
+                     <l>Ye stapped your pen into the ink,</l>
+                     <l>      An’ there was Rab!</l>
+                  </lg>
+                  <lg>
+                     <l>Sinsyne, whaure’er your fortune lay</l>
+                     <l>By dowie den, by canty brae,</l>
+                     <l>Simmer an’ winter, nicht an’ day,</l>
+                     <l>      Rab was aye wi’ ye;</l>
+                     <l>An’ a’ the folk on a’ the way</l>
+                     <l>      Were blithe to see ye.</l>
+                  </lg>
+                  <lg>
+                     <l>O sir, the gods are kind indeed,</l>
+                     <l>An’ hauld ye for an honoured heid,</l>
+                     <l>That for a wee bit clarkit screed</l>
+                     <l>      Sae weel reward ye,</l>
+                     <l>An’ lend—puir Rabbie bein’ deid—</l>
+                     <l>      His ghaist to guard ye.</l>
+                  </lg>
+                  <lg>
+                     <l>For though, whaure’er yoursel’ may be,</l>
+                     <l>We’ve just to turn an’ glisk a wee,</l>
+                     <l>An’ Rab at heel we’re shüre to see</l>
+                     <l>      Wi’ gladsome caper:—</l>
+                     <l>The bogle of a bogle, he—</l>
+                     <l>      A ghaist o’ paper!</l>
+                  </lg>
+                  <lg>
+                     <l>And as the auld-farrand hero sees</l>
+                     <l>In Hell a bogle Hercules,</l>
+                     <l>Pit there the lesser deid to please,</l>
+                     <l>      While he himsel’</l>
+                     <l>Dwalls wi’ the muckle gods at ease</l>
+                     <l>      Far raised frae hell:</l>
+                  </lg>
+                  <lg>
+                     <l>Sae the true Rabbie far has gane</l>
+                     <l>On kindlier business o’ his ain</l>
+                     <l>Wi’ aulder frien’s; an’ his breist-bane</l>
+                     <l>      An’ stumpie tailie,</l>
+                     <l>He birstles at a new hearth stane</l>
+                     <l>      By James and Ailie.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XVI</label>
+                  </head>
+                  <lg>
+                     <l>It’s an owercome sooth for age an’ youth</l>
+                     <l>   And it brooks wi’ nae denial,</l>
+                     <l>That the dearest friends are the auldest friends</l>
+                     <l>   And the young are just on trial.</l>
+                  </lg>
+                  <lg>
+                     <l>There’s a rival bauld wi’ young an’ auld</l>
+                     <l>   And it’s him that has bereft me;</l>
+                     <l>For the sürest friends are the auldest friends</l>
+                     <l>   And the maist o’ mines hae left me.</l>
+                  </lg>
+                  <lg>
+                     <l>There are kind hearts still, for friends to fill</l>
+                     <l>   And fools to take and break them;</l>
+                     <l>But the nearest friends are the auldest friends</l>
+                     <l>   And the grave’s the place to seek them.</l>
+                  </lg>
+                  <p rend="justify"> </p>
+                  <p rend="justify">
+                     <hi rend="italic">Printed by</hi>  R. &amp; R. Clark, Limited, <hi rend="italic">Edinburgh</hi>.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Footnotes</head>
+               <p rend="justify">[27]  <hi rend="italic">Life on the Lagoons</hi>, by H. F. Brown, originally burned in the fire at Messrs. Kegan Paul, Trench. and Co.’s.</p>
+               <p rend="justify">[66]  From <hi rend="italic">Travels with a Donkey</hi>.</p>
+               <p rend="justify">[67]  From <hi rend="italic">Travels with a Donkey</hi>.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

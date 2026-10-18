@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Elements of Style</title>
+            <author>William Strunk</author>
+            <author>WILLIAM STRUNK, Jr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T20:32:14Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/s/StrunkWilliam-TheElementsOfStyle_2011.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>William Strunk</name>
+               <date>2024-01-04T20:32:14Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Elements of Style</head>
+         <author>William Strunk</author>
+         <author>WILLIAM STRUNK, Jr.</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/s/StrunkWilliam-TheElementsOfStyle_2011.odt</p>
+         <p>
+            <hi rend="bold">Transcriber's Notes:</hi>
+         </p>
+         <p>Every effort has been made to replicate this text as faithfully as possible, including inconsistencies in spelling and hyphenation.</p>
+         <p>Some corrections of spelling and punctuation have been made. They are marked like this in the text. The original text appears when hovering the cursor over the marked text. A list of amendments  is at the end of the text.</p>
+         <head>THE<lb/>ELEMENTS OF STYLE</head>
+         <author>BY<lb/>WILLIAM STRUNK, Jr.</author>
+         <p>PROFESSOR OF ENGLISH<lb/>IN<lb/>CORNELL UNIVERSITY</p>
+         <p>NEW YORK<lb/>HARCOURT, BRACE AND COMPANY</p>
+         <p>COPYRIGHT, 1918, 1919, BY<lb/>WILLIAM STRUNK, JR.</p>
+         <p>COPYRIGHT, 1920, BY<lb/>HARCOURT, BRACE AND HOWE, INC.</p>
+         <p>THE MAPLE PRESS YORK PA</p>
+         <pb/>
+         <div type="div1">
+            <head>CONTENTS /x/</head>
+            <p>Page</p>
+            <p>I.</p>
+            <p>Introductory</p>
+            <p>5</p>
+            <p>II.</p>
+            <p>Elementary Rules of Usage</p>
+            <p>7</p>
+            <p>1.</p>
+            <p>Form the possessive singular of nouns by adding <hi rend="italic">'s</hi>
+            </p>
+            <p>7</p>
+            <p>2.</p>
+            <p>In a series of three or more terms with a single conjunction, use a comma after each term except the last</p>
+            <p>7</p>
+            <p>3.</p>
+            <p>Enclose parenthetic expressions between commas</p>
+            <p>8</p>
+            <p>4.</p>
+            <p>Place a comma before a conjunction introducing a co-ordinate clause</p>
+            <p>10</p>
+            <p>5.</p>
+            <p>Do not join independent clauses by a comma</p>
+            <p>11</p>
+            <p>6.</p>
+            <p>Do not break sentences in two</p>
+            <p>12</p>
+            <p>7.</p>
+            <p>A participial phrase at the beginning of a sentence must refer to the grammatical subject</p>
+            <p>13</p>
+            <p>III.</p>
+            <p>Elementary Principles of Composition</p>
+            <p>15</p>
+            <p>8.</p>
+            <p>Make the paragraph the unit of composition: one paragraph to each topic</p>
+            <p>15</p>
+            <p>9.</p>
+            <p>As a rule, begin each paragraph with a topic sentence; end it in conformity with the beginning</p>
+            <p>17</p>
+            <p>10.</p>
+            <p>Use the active voice</p>
+            <p>19</p>
+            <p>11.</p>
+            <p>Put statements in positive form</p>
+            <p>21</p>
+            <p>12.</p>
+            <p>Use definite, specific, concrete language</p>
+            <p>22</p>
+            <p>13.</p>
+            <p>Omit needless words</p>
+            <p>24</p>
+            <p>14.</p>
+            <p>Avoid a succession of loose sentences</p>
+            <p>25</p>
+            <p>15.</p>
+            <p>Express co-ordinate ideas in similar form</p>
+            <p>26</p>
+            <p>16.</p>
+            <p>Keep related words together</p>
+            <p>28</p>
+            <p>17.</p>
+            <p>In summaries, keep to one tense</p>
+            <p>29</p>
+            <p>18.</p>
+            <p>Place the emphatic words of a sentence at the end</p>
+            <p>31</p>
+            <p>IV.</p>
+            <p>A Few Matters of Form</p>
+            <p>33</p>
+            <p>V.</p>
+            <p>Words and Expressions Commonly Misused</p>
+            <p>36</p>
+            <p>VI.</p>
+            <p>Spelling</p>
+            <p>48</p>
+            <p>VII.</p>
+            <p>Exercises on Chapters II and III</p>
+            <p>50</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>The Elements of Style</head>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>I.</label>INTRODUCTORY</head>
+               <p rend="justify">This book aims to give in brief space the principal requirements of plain English style. It aims to lighten the task of instructor and student by concentrating attention (in Chapters II and III) on a few essentials, the rules of usage and principles of composition most commonly violated. In accordance with this plan it lays down three rules for the use of the comma, instead of a score or more, and one for the use of the semicolon, in the belief that these four rules provide for all the internal punctuation that is required by nineteen sentences out of twenty. Similarly, it gives in Chapter III only those principles of the paragraph and the sentence which are of the widest application. The book thus covers only a small portion of the field of English style. The experience of its writer has been that once past the essentials, students profit most by individual instruction based on the problems of their own work, and that each instructor has his own body of theory, which he may prefer to that offered by any textbook.</p>
+               <p rend="justify">The numbers of the sections may be used as references in correcting manuscript.</p>
+               <p rend="justify">The writer's colleagues in the Department of English in Cornell University have greatly helped him in the preparation of his manuscript. Mr. George McLane Wood has kindly consented to the inclusion under Rule 10  of some material from his Suggestions to Authors.</p>
+               <p rend="justify">The following books are recommended for reference or further study: in connection with Chapters II  and IV, F. Howard Collins, Author and Printer (Henry Frowde); Chicago University Press, Manual of Style; T. L. De Vinne, Correct Composition (The Century Company); Horace Hart, Rules for Compositors and Printers (Oxford University Press); George McLane Wood, Extracts from the Style-Book of the Government Printing Office (United States Geological Survey); in connection with Chapters III  and V, The King's English (Oxford University Press); Sir Arthur Quiller-Couch, The Art of Writing (Putnam), especially the chapter, Interlude on Jargon; George McLane Wood, Suggestions to Authors (United States Geological Survey); John Lesslie Hall, English Usage (Scott, Foresman and Co.); James P. Kelley, Workmanship in Words (Little, Brown and Co.). In these will be found full discussions of many points here briefly treated and an abundant store of illustrations to supplement those given in this book.</p>
+               <p rend="justify">It is an old observation that the best writers sometimes disregard the rules of rhetoric. When they do so, however, the reader will usually find in the sentence some compensating merit, attained at the cost of the violation. Unless he is certain of doing as well, he will probably do best to follow the rules. After he has learned, by their guidance, to write plain English adequate for everyday uses, let him look, for the secrets of style, to the study of the masters of literature.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>II.</label>ELEMENTARY RULES OF USAGE</head>
+               <div type="div3">
+                  <head>
+                     <label>1.</label>Form the possessive singular of nouns by adding 's.</head>
+                  <p rend="justify">Follow this rule whatever the final consonant. Thus write,</p>
+                  <p rend="justify">Charles's friend</p>
+                  <p rend="justify">Burns's poems</p>
+                  <p rend="justify">the witch's malice</p>
+                  <p rend="justify">This is the usage of the United States Government Printing Office and of the Oxford University Press.</p>
+                  <p rend="justify">Exceptions are the possessive of ancient proper names in <hi rend="italic">-es</hi>  and <hi rend="italic">-is</hi>, the possessive <hi rend="italic">Jesus'</hi>, and such forms as <hi rend="italic">for conscience' sake</hi>, <hi rend="italic">for righteousness' sake</hi>. But such forms as <hi rend="italic">Achilles' heel</hi>, <hi rend="italic">Moses' laws</hi>, <hi rend="italic">Isis' temple</hi>  are commonly replaced by</p>
+                  <p rend="justify">the heel of Achilles</p>
+                  <p rend="justify">the laws of Moses</p>
+                  <p rend="justify">the temple of Isis</p>
+                  <p rend="justify">The pronominal possessives <hi rend="italic">hers</hi>, <hi rend="italic">its</hi>, <hi rend="italic">theirs</hi>, <hi rend="italic">yours</hi>, and <hi rend="italic">oneself</hi>  have no apostrophe.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>2.</label>In a series of three or more terms with a single conjunction, use a comma after each term except the last.</head>
+                  <p rend="justify">Thus write,</p>
+                  <p rend="justify">red, white, and blue</p>
+                  <p rend="justify">gold, silver, or copper</p>
+                  <p rend="justify">He opened the letter, read it, and made a note of its contents.</p>
+                  <p rend="justify">This is also the usage of the Government Printing Office and of the Oxford University Press.</p>
+                  <p rend="justify">In the names of business firms the last comma is omitted, as,</p>
+                  <p rend="justify">Brown, Shipley &amp; Co.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>3.</label>Enclose parenthetic expressions between commas.</head>
+                  <p rend="justify">The best way to see a country, unless you are pressed for time, is to travel on foot.</p>
+                  <p rend="justify">This rule is difficult to apply; it is frequently hard to decide whether a single word, such as <hi rend="italic">however</hi>, or a brief phrase, is or is not parenthetic. If the interruption to the flow of the sentence is but slight, the writer may safely omit the commas. But whether the interruption be slight or considerable, he must never insert one comma and omit the other. Such punctuation as</p>
+                  <p rend="justify">Marjorie's husband, Colonel Nelson paid us a visit yesterday,</p>
+                  <p rend="justify">or</p>
+                  <p rend="justify">My brother you will be pleased to hear, is now in perfect health,</p>
+                  <p rend="justify">is indefensible.</p>
+                  <p rend="justify">If a parenthetic expression is preceded by a conjunction, place the first comma before the conjunction, not after it.</p>
+                  <p rend="justify">He saw us coming, and unaware that we had learned of his treachery, greeted us with a smile.</p>
+                  <p rend="justify">Always to be regarded as parenthetic and to be enclosed between commas (or, at the end of the sentence, between comma and period) are the following:</p>
+                  <p rend="justify">(1) the year, when forming part of a date, and the day of the month, when following the day of the week:</p>
+                  <p rend="justify">February to July, 1916.</p>
+                  <p rend="justify">April 6, 1917.</p>
+                  <p rend="justify">Monday, November 11, 1918.</p>
+                  <p rend="justify">(2) the abbreviations <hi rend="italic">etc.</hi>  and <hi rend="italic">jr.</hi>
+                  </p>
+                  <p rend="justify">(3) non-restrictive relative clauses, that is, those which do not serve to identify or define the antecedent noun, and similar clauses introduced by conjunctions indicating time or place.</p>
+                  <p rend="justify">The audience, which had at first been indifferent, became more and more interested.</p>
+                  <p rend="justify">In this sentence the clause introduced by <hi rend="italic">which</hi>  does not serve to tell which of several possible audiences is meant; what audience is in question is supposed to be already known. The clause adds, parenthetically, a statement supplementing that in the main clause. The sentence is virtually a combination of two statements which might have been made independently:</p>
+                  <p rend="justify">The audience had at first been indifferent. It became more and more interested.</p>
+                  <p rend="justify">Compare the restrictive relative clause, not set off by commas, in the sentence,</p>
+                  <p rend="justify">The candidate who best meets these requirements will obtain the place.</p>
+                  <p rend="justify">Here the clause introduced by <hi rend="italic">who</hi>  does serve to tell which of several possible candidates is meant; the sentence cannot be split up into two independent statements.</p>
+                  <p rend="justify">The difference in punctuation in the two sentences following is based on the same principle:</p>
+                  <p rend="justify">Nether Stowey, where Coleridge wrote The Rime of the Ancient Mariner, is a few miles from Bridgewater.</p>
+                  <p rend="justify">The day will come when you will admit your mistake.</p>
+                  <p rend="justify">Nether Stowey is completely identified by its name; the statement about Coleridge is therefore supplementary and parenthetic. The <hi rend="italic">day</hi>  spoken of is identified only by the dependent clause, which is therefore restrictive.</p>
+                  <p rend="justify">Similar in principle to the enclosing of parenthetic expressions between commas is the setting off by commas of phrases or dependent clauses preceding or following the main clause of a sentence.</p>
+                  <p rend="justify">Partly by hard fighting, partly by diplomatic skill, they enlarged their dominions to the east, and rose to royal rank with the possession of Sicily, exchanged afterwards for Sardinia.</p>
+                  <p rend="justify">Other illustrations may be found in sentences quoted under Rules 4, 5, 6, 7, 16, and 18.</p>
+                  <p rend="justify">The writer should be careful not to set off independent clauses by commas: see under Rule 5.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>4.</label>Place a comma before a conjunction introducing a co-ordinate clause.</head>
+                  <p rend="justify">The early records of the city have disappeared, and the story of its first years can no longer be reconstructed.</p>
+                  <p rend="justify">The situation is perilous, but there is still one chance of escape.</p>
+                  <p rend="justify">Sentences of this type, isolated from their context, may seem to be in need of rewriting. As they make complete sense when the comma is reached, the second clause has the appearance of an afterthought. Further, <hi rend="italic">and</hi>  is the least specific of connectives. Used between independent clauses, it indicates only that a relation exists between them without defining that relation. In the example above, the relation is that of cause and result. The two sentences might be rewritten:</p>
+                  <p rend="justify">As the early records of the city have disappeared, the story of its first years can no longer be reconstructed.</p>
+                  <p rend="justify">Although the situation is perilous, there is still one chance of escape.</p>
+                  <p rend="justify">Or the subordinate clauses might be replaced by phrases:</p>
+                  <p rend="justify">Owing to the disappearance of the early records of the city, the story of its first years can no longer be reconstructed.</p>
+                  <p rend="justify">In this perilous situation, there is still one chance of escape.</p>
+                  <p rend="justify">But a writer may err by making his sentences too uniformly compact and periodic, and an occasional loose sentence prevents the style from becoming too formal and gives the reader a certain relief. Consequently, loose sentences of the type first quoted are common in easy, unstudied writing. But a writer should be careful not to construct too many of his sentences after this pattern (see Rule 14).</p>
+                  <p rend="justify">Two-part sentences of which the second member is introduced by <hi rend="italic">as</hi>  (in the sense of <hi rend="italic">because</hi>), <hi rend="italic">for</hi>, <hi rend="italic">or</hi>, <hi rend="italic">nor</hi>, and <hi rend="italic">while</hi>  (in the sense of <hi rend="italic">and at the same time</hi>) likewise require a comma before the conjunction.</p>
+                  <p rend="justify">If the second member is introduced by an adverb, a semicolon, not a comma, is required (see Rule 5). The connectives <hi rend="italic">so</hi>  and <hi rend="italic">yet</hi>  may be used either as adverbs or as conjunctions, accordingly as the second clause is felt to be co-ordinate or subordinate; consequently either mark of punctuation may be justified. But these uses of <hi rend="italic">so</hi>  (equivalent to <hi rend="italic">accordingly</hi>  or to <hi rend="italic">so that</hi>) are somewhat colloquial and should, as a rule, be avoided in writing. A simple correction, usually serviceable, is to omit the word <hi rend="italic">so</hi>  and begin the first clause with <hi rend="italic">as</hi>  or <hi rend="italic">since</hi>:</p>
+                  <table rend="frame" xml:id="Table1">
+                     <row>
+                        <cell>I had never been in the place before; so I had difficulty in finding my way about.</cell>
+                        <cell>As I had never been in the place before, I had difficulty in finding my way about.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">If a dependent clause, or an introductory phrase requiring to be set off by a comma, precedes the second independent clause, no comma is needed after the conjunction.</p>
+                  <p rend="justify">The situation is perilous, but if we are prepared to act promptly, there is still one chance of escape.</p>
+                  <p rend="justify">When the subject is the same for both clauses and is expressed only once, a comma is required if the connective is <hi rend="italic">but</hi>. If the connective is <hi rend="italic">and</hi>, the comma should be omitted if the relation between the two statements is close or immediate.</p>
+                  <p rend="justify">I have heard his arguments, but am still unconvinced.</p>
+                  <p rend="justify">He has had several years' experience and is thoroughly competent.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>5.</label>Do not join independent clauses by a comma.</head>
+                  <p rend="justify">If two or more clauses, grammatically complete and not joined by a conjunction, are to form a single compound sentence, the proper mark of punctuation is a semicolon.</p>
+                  <p rend="justify">Stevenson's romances are entertaining; they are full of exciting adventures.</p>
+                  <p rend="justify">It is nearly half past five; we cannot reach town before dark.</p>
+                  <p rend="justify">It is of course equally correct to write the above as two sentences each, replacing the semicolons by periods.</p>
+                  <p rend="justify">Stevenson's romances are entertaining. They are full of exciting adventures.</p>
+                  <p rend="justify">It is nearly half past five. We cannot reach town before dark.</p>
+                  <p rend="justify">If a conjunction is inserted the proper mark is a comma (Rule 4).</p>
+                  <p rend="justify">Stevenson's romances are entertaining, for they are full of exciting adventures.</p>
+                  <p rend="justify">It is nearly half past five, and we cannot reach town before dark.</p>
+                  <p rend="justify">A comparison of the three forms given above will show clearly the advantage of the first. It is, at least in the examples given, better than the second form, because it suggests the close relationship between the two statements in a way that the second does not attempt, and better than the third, because briefer and therefore more forcible. Indeed it may be said that this simple method of indicating relationship between statements is one of the most useful devices of composition. The relationship, as above, is commonly one of cause or of consequence.</p>
+                  <p rend="justify">Note that if the second clause is preceded by an adverb, such as <hi rend="italic">accordingly</hi>, <hi rend="italic">besides</hi>, <hi rend="italic">then</hi>, <hi rend="italic">therefore</hi>, or <hi rend="italic">thus</hi>, and not by a conjunction, the semicolon is still required.</p>
+                  <p rend="justify">Two exceptions to the rule may be admitted. If the clauses are very short, and are alike in form, a comma is usually permissible:</p>
+                  <p rend="justify">Man proposes, God disposes.</p>
+                  <p rend="justify">The gate swung apart, the bridge fell, the portcullis was drawn up.</p>
+                  <p rend="justify">Note that in these examples the relation is not one of cause or consequence. Also in the colloquial form of expression,</p>
+                  <p rend="justify">I hardly knew him, he was so changed,</p>
+                  <p rend="justify">a comma, not a semicolon, is required. But this form of expression is inappropriate in writing, except in the dialogue of a story or play, or perhaps in a familiar letter.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>6.</label>Do not break sentences in two.</head>
+                  <p rend="justify">In other words, do not use periods for commas.</p>
+                  <p rend="justify">I met them on a Cunard liner several years ago. Coming home from Liverpool to New York.</p>
+                  <p rend="justify">He was an interesting talker. A man who had traveled all over the world and lived in half a dozen countries.</p>
+                  <p rend="justify">In both these examples, the first period should be replaced by a comma, and the following word begun with a small letter.</p>
+                  <p rend="justify">It is permissible to make an emphatic word or expression serve the purpose of a sentence and to punctuate it accordingly:</p>
+                  <p rend="justify">Again and again he called out. No reply.</p>
+                  <p rend="justify">The writer must, however, be certain that the emphasis is warranted, and that he will not be suspected of a mere blunder in syntax or in punctuation.</p>
+                  <p rend="justify">Rules 3, 4, 5, and 6  cover the most important principles in the punctuation of ordinary sentences; they should be so thoroughly mastered that their application becomes second nature.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>7.</label>A participial phrase at the beginning of a sentence must refer to the grammatical subject.</head>
+                  <p rend="justify">Walking slowly down the road, he saw a woman accompanied by two children.</p>
+                  <p rend="justify">The word <hi rend="italic">walking</hi>  refers to the subject of the sentence, not to the woman. If the writer wishes to make it refer to the woman, he must recast the sentence:</p>
+                  <p rend="justify">He saw a woman accompanied by two children, walking slowly down the road.</p>
+                  <p rend="justify">Participial phrases preceded by a conjunction or by a preposition, nouns in apposition, adjectives, and adjective phrases come under the same rule if they begin the sentence.</p>
+                  <table rend="frame" xml:id="Table2">
+                     <row>
+                        <cell>On arriving in Chicago, his friends met him at the station.</cell>
+                        <cell>When he arrived (or, On his arrival) in Chicago, his friends met him at the station.</cell>
+                     </row>
+                     <row>
+                        <cell>A soldier of proved valor, they entrusted him with the defence of the city.</cell>
+                        <cell>A soldier of proved valor, he was entrusted with the defence of the city.</cell>
+                     </row>
+                     <row>
+                        <cell>Young and inexperienced, the task seemed easy to me.</cell>
+                        <cell>Young and inexperienced, I thought the task easy.</cell>
+                     </row>
+                     <row>
+                        <cell>Without a friend to counsel him, the temptation proved irresistible.</cell>
+                        <cell>Without a friend to counsel him, he found the temptation irresistible.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Sentences violating this rule are often ludicrous.</p>
+                  <p rend="justify">Being in a dilapidated condition, I was able to buy the house very cheap.</p>
+                  <p rend="justify">Wondering irresolutely what to do next, the clock struck twelve.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>III.</label>ELEMENTARY PRINCIPLES OF COMPOSITION</head>
+               <div type="div3">
+                  <head>
+                     <label>8.</label>Make the paragraph the unit of composition: one paragraph to each topic.</head>
+                  <p rend="justify">If the subject on which you are writing is of slight extent, or if you intend to treat it very briefly, there may be no need of subdividing it into topics. Thus a brief description, a brief summary of a literary work, a brief account of a single incident, a narrative merely outlining an action, the setting forth of a single idea, any one of these is best written in a single paragraph. After the paragraph has been written, examine it to see whether subdivision will not improve it.</p>
+                  <p rend="justify">Ordinarily, however, a subject requires subdivision into topics, each of which should be made the subject of a paragraph. The object of treating each topic in a paragraph by itself is, of course, to aid the reader. The beginning of each paragraph is a signal to him that a new step in the development of the subject has been reached.</p>
+                  <p rend="justify">The extent of subdivision will vary with the length of the composition. For example, a short notice of a book or poem might consist of a single paragraph. One slightly longer might consist of two paragraphs:</p>
+                  <list rend="bulleted">
+                     <item>A. Account of the work.</item>
+                     <item>B. Critical discussion.</item>
+                  </list>
+                  <p rend="justify">A report on a poem, written for a class in literature, might consist of seven paragraphs:</p>
+                  <list rend="bulleted">
+                     <item>A. Facts of composition and publication.</item>
+                     <item>B. Kind of poem; metrical form.</item>
+                     <item>C. Subject.</item>
+                     <item>D. Treatment of subject.</item>
+                     <item>E. For what chiefly remarkable.</item>
+                     <item>F. Wherein characteristic of the writer.</item>
+                     <item>G. Relationship to other works.</item>
+                  </list>
+                  <p rend="justify">The contents of paragraphs C and D would vary with the poem. Usually, paragraph C would indicate the actual or imagined circumstances of the poem (the situation), if these call for explanation, and would then state the subject and outline its development. If the poem is a narrative in the third person throughout, paragraph C need contain no more than a concise summary of the action. Paragraph D would indicate the leading ideas and show how they are made prominent, or would indicate what points in the narrative are chiefly emphasized.</p>
+                  <p rend="justify">A novel might be discussed under the heads:</p>
+                  <list rend="bulleted">
+                     <item>A. Setting.</item>
+                     <item>B. Plot.</item>
+                     <item>C. Characters.</item>
+                     <item>D. Purpose.</item>
+                  </list>
+                  <p rend="justify">An historical event might be discussed under the heads:</p>
+                  <list rend="bulleted">
+                     <item>A. What led up to the event.</item>
+                     <item>B. Account of the event.</item>
+                     <item>C. What the event led up to.</item>
+                  </list>
+                  <p rend="justify">In treating either of these last two subjects, the writer would probably find it necessary to subdivide one or more of the topics here given.</p>
+                  <p rend="justify">As a rule, single sentences should not be written or printed as paragraphs. An exception may be made of sentences of transition, indicating the relation between the parts of an exposition or argument. Frequent exceptions are also necessary in textbooks, guidebooks, and other works in which many topics are treated briefly.</p>
+                  <p rend="justify">In dialogue, each speech, even if only a single word, is a paragraph by itself; that is, a new paragraph begins with each change of speaker. The application of this rule, when dialogue and narrative are combined, is best learned from examples in well-printed works of fiction.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>9.</label>As a rule, begin each paragraph with a topic sentence, end it in conformity with the beginning.</head>
+                  <p rend="justify">Again, the object is to aid the reader. The practice here recommended enables him to discover the purpose of each paragraph as he begins to read it, and to retain this purpose in mind as he ends it. For this reason, the most generally useful kind of paragraph, particularly in exposition and argument, is that in which</p>
+                  <p rend="justify">(a) the topic sentence comes at or near the beginning;</p>
+                  <p rend="justify">(b) the succeeding sentences explain or establish or develop the statement made in the topic sentence; and</p>
+                  <p rend="justify">(c) the final sentence either emphasizes the thought of the topic sentence or states some important consequence.</p>
+                  <p rend="justify">Ending with a digression, or with an unimportant detail, is particularly to be avoided.</p>
+                  <p rend="justify">If the paragraph forms part of a larger composition, its relation to what precedes, or its function as a part of the whole, may need to be expressed. This can sometimes be done by a mere word or phrase (<hi rend="italic">again</hi>; <hi rend="italic">therefore</hi>; <hi rend="italic">for the same reason</hi>) in the topic sentence. Sometimes, however, it is expedient to precede the topic sentence by one or more sentences of introduction or transition. If more than one such sentence is required, it is generally better to set apart the transitional sentences as a separate paragraph.</p>
+                  <p rend="justify">According to the writer's purpose, he may, as indicated above, relate the body of the paragraph to the topic sentence in one or more of several different ways. He may make the meaning of the topic sentence clearer by restating it in other forms, by defining its terms, by denying the contrary, by giving illustrations or specific instances; he may establish it by proofs; or he may develop it by showing its implications and consequences. In a long paragraph, he may carry out several of these processes.</p>
+                  <p rend="justify">1 Now, to be properly enjoyed, a walking tour should be gone upon alone. 2 If you go in a company, or even in pairs, it is no longer a walking tour in anything but name; it is something else and more in the nature of a picnic. 3 A walking tour should be gone upon alone, because freedom is of the essence; because you should be able to stop and go on, and follow this way or that, as the freak takes you; and because you must have your own pace, and neither trot alongside a champion walker, nor mince in time with a girl. 4 And you must be open to all impressions and let your thoughts take colour from what you see. 5 You should be as a pipe for any wind to play upon. 6 “I cannot see the wit,” says Hazlitt, “of walking and talking at the same time. 7 When I am in the country, I wish to vegetate like the country,” which is the gist of all that can be said upon the matter. 8 There should be no cackle of voices at your elbow, to jar on the meditative silence of the morning. 9 And so long as a man is reasoning he cannot surrender himself to that fine intoxication that comes of much motion in the open air, that begins in a sort of dazzle and sluggishness of the brain, and ends in a peace that passes comprehension.—Stevenson, Walking Tours.</p>
+                  <p rend="justify">1 Topic sentence. 2 The meaning made clearer by denial of the contrary. 3 The topic sentence repeated, in abridged form, and supported by three reasons; the meaning of the third (“you must have your own pace”) made clearer by denying the contrary. 4 A fourth reason, stated in two forms. 5 The same reason, stated in still another form. 6–7 The same reason as stated by Hazlitt. 8 Repetition, in paraphrase, of the quotation from Hazlitt. 9 Final statement of the fourth reason, in language amplified and heightened to form a strong conclusion.</p>
+                  <p rend="justify">1 It was chiefly in the eighteenth century that a very different conception of history grew up. 2 Historians then came to believe that their task was not so much to paint a picture as to solve a problem; to explain or illustrate the successive phases of national growth, prosperity, and adversity. 3 The history of morals, of industry, of intellect, and of art; the changes that take place in manners or beliefs; the dominant ideas that prevailed in successive periods; the rise, fall, and modification of political constitutions; in a word, all the conditions of national well-being became the subject of their works. 4 They sought rather to write a history of peoples than a history of kings. 5 They looked especially in history for the chain of causes and effects. 6 They undertook to study in the past the physiology of nations, and hoped by applying the experimental method on a large scale to deduce some lessons of real value about the conditions on which the welfare of society mainly depend.—Lecky, The Political Value of History.</p>
+                  <p rend="justify">1 Topic sentence. 2 The meaning of the topic sentence made clearer; the new conception of history defined. 3 The definition expanded. 4 The definition explained by contrast. 5 The definition supplemented: another element in the new conception of history. 6 Conclusion: an important consequence of the new conception of history.</p>
+                  <p rend="justify">In narration and description the paragraph sometimes begins with a concise, comprehensive statement serving to hold together the details that follow.</p>
+                  <p rend="justify">The breeze served us admirably.</p>
+                  <p rend="justify">The campaign opened with a series of reverses.</p>
+                  <p rend="justify">The next ten or twelve pages were filled with a curious set of entries.</p>
+                  <p rend="justify">But this device, if too often used, would become a mannerism. More commonly the opening sentence simply indicates by its subject with what the paragraph is to be principally concerned.</p>
+                  <p rend="justify">At length I thought I might return towards the stockade.</p>
+                  <p rend="justify">He picked up the heavy lamp from the table and began to explore.</p>
+                  <p rend="justify">Another flight of steps, and they emerged on the roof.</p>
+                  <p rend="justify">The brief paragraphs of animated narrative, however, are often without even this semblance of a topic sentence. The break between them serves the purpose of a rhetorical pause, throwing into prominence some detail of the action.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>10.</label>Use the active voice.</head>
+                  <lg>
+                     <l>The active voice is usually more direct and vigorous than the passive:</l>
+                     <l>I shall always remember my first visit to Boston.</l>
+                     <l>This is much better than</l>
+                     <l>My first visit to Boston will always be remembered by me.</l>
+                  </lg>
+                  <p rend="justify">The latter sentence is less direct, less bold, and less concise. If the writer tries to make it more concise by omitting “by me,”</p>
+                  <p rend="justify">My first visit to Boston will always be remembered,</p>
+                  <p rend="justify">it becomes indefinite: is it the writer, or some person undisclosed, or the world at large, that will always remember this visit?</p>
+                  <p rend="justify">This rule does not, of course, mean that the writer should entirely discard the passive voice, which is frequently convenient and sometimes necessary.</p>
+                  <p rend="justify">The dramatists of the Restoration are little esteemed to-day.</p>
+                  <p rend="justify">Modern readers have little esteem for the dramatists of the Restoration.</p>
+                  <p rend="justify">The first would be the right form in a paragraph on the dramatists of the Restoration; the second, in a paragraph on the tastes of modern readers. The need of making a particular word the subject of the sentence will often, as in these examples, determine which voice is to be used.</p>
+                  <p rend="justify">As a rule, avoid making one passive depend directly upon another.</p>
+                  <table rend="frame" xml:id="Table3">
+                     <row>
+                        <cell>Gold was not allowed to be exported.</cell>
+                        <cell>It was forbidden to export gold (The export of gold was prohibited).</cell>
+                     </row>
+                     <row>
+                        <cell>He has been proved to have been seen entering the building.</cell>
+                        <cell>It has been proved that he was seen to enter the building.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">In both the examples above, before correction, the word properly related to the second passive is made the subject of the first.</p>
+                  <p rend="justify">A common fault is to use as the subject of a passive construction a noun which expresses the entire action, leaving to the verb no function beyond that of completing the sentence.</p>
+                  <table rend="frame" xml:id="Table4">
+                     <row>
+                        <cell>A survey of this region was made in 1900.</cell>
+                        <cell>This region was surveyed in 1900.</cell>
+                     </row>
+                     <row>
+                        <cell>Mobilization of the army was rapidly effected.</cell>
+                        <cell>The army was rapidly mobilized.</cell>
+                     </row>
+                     <row>
+                        <cell>Confirmation of these reports cannot be obtained.</cell>
+                        <cell>These reports cannot be confirmed.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Compare the sentence, “The export of gold was prohibited,” in which the predicate “was prohibited” expresses something not implied in “export.”</p>
+                  <p rend="justify">The habitual use of the active voice makes for forcible writing. This is true not only in narrative principally concerned with action, but in writing of any kind. Many a tame sentence of description or exposition can be made lively and emphatic by substituting a verb in the active voice for some such perfunctory expression as <hi rend="italic">there is</hi>, or <hi rend="italic">could be heard</hi>.</p>
+                  <table rend="frame" xml:id="Table5">
+                     <row>
+                        <cell>There were a great number of dead leaves lying on the ground.</cell>
+                        <cell>Dead leaves covered the ground.</cell>
+                     </row>
+                     <row>
+                        <cell>The sound of a guitar somewhere in the house could be heard.</cell>
+                        <cell>Somewhere in the house a guitar hummed sleepily.</cell>
+                     </row>
+                     <row>
+                        <cell>The reason that he left college was that his health became impaired.</cell>
+                        <cell>Failing health compelled him to leave college.</cell>
+                     </row>
+                     <row>
+                        <cell>It was not long before he was very sorry that he had said what he had.</cell>
+                        <cell>He soon repented his words.</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>11.</label>Put statements in positive form.</head>
+                  <p rend="justify">Make definite assertions. Avoid tame, colorless, hesitating, non-committal language. Use the word <hi rend="italic">not</hi> as a means of denial or in antithesis, never as a means of evasion.</p>
+                  <table rend="frame" xml:id="Table6">
+                     <row>
+                        <cell>He was not very often on time.</cell>
+                        <cell>He usually came late.</cell>
+                     </row>
+                     <row>
+                        <cell>He did not think that studying Latin was much use.</cell>
+                        <cell>He thought the study of Latin useless.</cell>
+                     </row>
+                     <row>
+                        <cell>The Taming of the Shrew is rather weak in spots. Shakespeare does not portray Katharine as a very admirable character, nor does Bianca remain long in memory as an important character in Shakespeare's works.</cell>
+                        <cell>The women in The Taming of the Shrew are unattractive. Katharine is disagreeable, Bianca insignificant.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The last example, before correction, is indefinite as well as negative. The corrected version, consequently, is simply a guess at the writer's intention.</p>
+                  <p rend="justify">All three examples show the weakness inherent in the word <hi rend="italic">not</hi>. Consciously or unconsciously, the reader is dissatisfied with being told only what is not; he wishes to be told what is. Hence, as a rule, it is better to express even a negative in positive form.</p>
+                  <table rend="frame" xml:id="Table7">
+                     <row>
+                        <cell>not honest</cell>
+                        <cell>dishonest</cell>
+                     </row>
+                     <row>
+                        <cell>not important</cell>
+                        <cell>trifling</cell>
+                     </row>
+                     <row>
+                        <cell>did not remember</cell>
+                        <cell>forgot</cell>
+                     </row>
+                     <row>
+                        <cell>did not pay any attention to</cell>
+                        <cell>ignored</cell>
+                     </row>
+                     <row>
+                        <cell>did not have much confidence in</cell>
+                        <cell>distrusted</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The antithesis of negative and positive is strong:</p>
+                  <p rend="justify">Not charity, but simple justice.</p>
+                  <p rend="justify">Not that I loved Caesar less, but Rome the more.</p>
+                  <p rend="justify">Negative words other than <hi rend="italic">not</hi>  are usually strong:</p>
+                  <p rend="justify">The sun never sets upon the British flag.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>12.</label>Use definite, specific, concrete language.</head>
+                  <p rend="justify">Prefer the specific to the general, the definite to the vague, the concrete to the abstract.</p>
+                  <table rend="frame" xml:id="Table8">
+                     <row>
+                        <cell>A period of unfavorable weather set in.</cell>
+                        <cell>It rained every day for a week.</cell>
+                     </row>
+                     <row>
+                        <cell>He showed satisfaction as he took possession of his well-earned reward.</cell>
+                        <cell>He grinned as he pocketed the coin.</cell>
+                     </row>
+                     <row>
+                        <cell>There is a general agreement among those who have enjoyed the experience that surf-riding is productive of great exhilaration.</cell>
+                        <cell>All who have tried surf-riding agree that it is most exhilarating.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">If those who have studied the art of writing are in accord on any one point, it is on this, that the surest method of arousing and holding the attention of the reader is by being specific, definite, and concrete. Critics have pointed out how much of the effectiveness of the greatest writers, Homer, Dante, Shakespeare, results from their constant definiteness and concreteness. Browning, to cite a more modern author, affords many striking examples. Take, for instance, the lines from My Last Duchess,</p>
+                  <p rend="justify">Sir, 'twas all one! My favour at her breast,<lb/>
+                  </p>
+                  <p rend="justify">The dropping of the daylight in the west,<lb/>
+                  </p>
+                  <p rend="justify">The bough of cherries some officious fool<lb/>
+                  </p>
+                  <p rend="justify">Broke in the orchard for her, the white mule<lb/>
+                  </p>
+                  <p rend="justify">She rode with round the terrace—all and each<lb/>
+                  </p>
+                  <p rend="justify">Would draw from her alike the approving speech,<lb/>
+                  </p>
+                  <p rend="justify">Or blush, at least,<lb/>
+                  </p>
+                  <p rend="justify">and those which end the poem,</p>
+                  <p rend="justify">Notice Neptune, though,<lb/>
+                  </p>
+                  <p rend="justify">Taming a sea-horse, thought a rarity,<lb/>
+                  </p>
+                  <p rend="justify">Which Claus of Innsbruck cast in bronze for me.<lb/>
+                  </p>
+                  <p rend="justify">These words call up pictures. Recall how in The Bishop Orders his Tomb in St. Praxed's Church “the Renaissance spirit—its worldliness, inconsistency, pride, hypocrisy, ignorance of itself, love of art, of luxury, of good Latin,” to quote Ruskin's comment on the poem, is made manifest in specific details and in concrete terms.</p>
+                  <p rend="justify">Prose, in particular narrative and descriptive prose, is made vivid by the same means. If the experiences of Jim Hawkins and of David Balfour, of Kim, of Nostromo, have seemed for the moment real to countless readers, if in reading Carlyle we have almost the sense of being physically present at the taking of the Bastille, it is because of the definiteness of the details and the concreteness of the terms used. It is not that every detail is given; that would be impossible, as well as to no purpose; but that all the significant details are given, and not vaguely, but with such definiteness that the reader, in imagination, can project himself into the scene.</p>
+                  <p rend="justify">In exposition and in argument, the writer must likewise never lose his hold upon the concrete, and even when he is dealing with general principles, he must give particular instances of their application.</p>
+                  <p rend="justify">“This superiority of specific expressions is clearly due to the effort required to translate words into thoughts. As we do not think in generals, but in particulars—as whenever any class of things is referred to, we represent it to ourselves by calling to mind individual members of it, it follows that when an abstract word is used, the hearer or reader has to choose, from his stock of images, one or more by which he may figure to himself the genus mentioned. In doing this, some delay must arise, some force be expended; and if by employing a specific term an appropriate image can be at once suggested, an economy is achieved, and a more vivid impression produced.”</p>
+                  <p rend="justify">Herbert Spencer, from whose Philosophy of Style the preceding paragraph is quoted, illustrates the principle by the sentences:</p>
+                  <table rend="frame" xml:id="Table9">
+                     <row>
+                        <cell>In proportion as the manners, customs, and amusements of a nation are cruel and barbarous, the regulations of their penal code will be severe.</cell>
+                        <cell>In proportion as men delight in battles, bull-fights, and combats of gladiators, will they punish by hanging, burning, and the rack.</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>13.</label>Omit needless words.</head>
+                  <p rend="justify">Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that he make every word tell.</p>
+                  <p rend="justify">Many expressions in common use violate this principle:</p>
+                  <table rend="frame" xml:id="Table10">
+                     <row>
+                        <cell>the question as to whether</cell>
+                        <cell>whether (the question whether)</cell>
+                     </row>
+                     <row>
+                        <cell>there is no doubt but that</cell>
+                        <cell>no doubt (doubtless)</cell>
+                     </row>
+                     <row>
+                        <cell>used for fuel purposes</cell>
+                        <cell>used for fuel</cell>
+                     </row>
+                     <row>
+                        <cell>he is a man who</cell>
+                        <cell>he</cell>
+                     </row>
+                     <row>
+                        <cell>in a hasty manner</cell>
+                        <cell>hastily</cell>
+                     </row>
+                     <row>
+                        <cell>this is a subject which</cell>
+                        <cell>this subject</cell>
+                     </row>
+                     <row>
+                        <cell>His story is a strange one.</cell>
+                        <cell>His story is strange.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">In especial the expression <hi rend="italic">the fact that</hi> should be revised out of every sentence in which it occurs.</p>
+                  <table rend="frame" xml:id="Table11">
+                     <row>
+                        <cell>owing to the fact that</cell>
+                        <cell>since (because)</cell>
+                     </row>
+                     <row>
+                        <cell>in spite of the fact that</cell>
+                        <cell>though (although)</cell>
+                     </row>
+                     <row>
+                        <cell>call your attention to the fact that</cell>
+                        <cell>remind you (notify you)</cell>
+                     </row>
+                     <row>
+                        <cell>I was unaware of the fact that</cell>
+                        <cell>I was unaware that (did not know)</cell>
+                     </row>
+                     <row>
+                        <cell>the fact that he had not succeeded</cell>
+                        <cell>his failure</cell>
+                     </row>
+                     <row>
+                        <cell>the fact that I had arrived</cell>
+                        <cell>my arrival</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">See also under <hi rend="italic">case</hi>, <hi rend="italic">character</hi>, <hi rend="italic">nature</hi>, <hi rend="italic">system</hi> in Chapter V.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Who is</hi>, <hi rend="italic">which was</hi>, and the like are often superfluous.</p>
+                  <table rend="frame" xml:id="Table12">
+                     <row>
+                        <cell>His brother, who is a member of the same firm</cell>
+                        <cell>His brother, a member of the same firm</cell>
+                     </row>
+                     <row>
+                        <cell>Trafalgar, which was Nelson's last battle</cell>
+                        <cell>Trafalgar, Nelson's last battle</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">As positive statement is more concise than negative, and the active voice more concise than the passive, many of the examples given under Rules 11 and 12 illustrate this rule as well.</p>
+                  <p rend="justify">A common violation of conciseness is the presentation of a single complex idea, step by step, in a series of sentences or independent clauses which might to advantage be combined into one.</p>
+                  <table rend="frame" xml:id="Table13">
+                     <row>
+                        <cell>Macbeth was very ambitious. This led him to wish to become king of Scotland. The witches told him that this wish of his would come true. The king of Scotland at this time was Duncan. Encouraged by his wife, Macbeth murdered Duncan. He was thus enabled to succeed Duncan as king. (51 words.)</cell>
+                        <cell>Encouraged by his wife, Macbeth achieved his ambition and realized the prediction of the witches by murdering Duncan and becoming king of Scotland in his place. (26 words.)</cell>
+                     </row>
+                     <row>
+                        <cell>There were several less important courses, but these were the most important, and although they did not come every day, they came often enough to keep you in such a state of mind that you never knew what your next move would be. (43 words.)</cell>
+                        <cell>These, the most important courses of all, came, if not daily, at least often enough to keep one under constant strain. (21 words.)</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>14.</label>Avoid a succession of loose sentences:</head>
+                  <p rend="justify">This rule refers especially to loose sentences of a particular type, those consisting of two co-ordinate clauses, the second introduced by a conjunction or relative. Although single sentences of this type may be unexceptionable (see under Rule 4), a series soon becomes monotonous and tedious.</p>
+                  <p rend="justify">An unskilful writer will sometimes construct a whole paragraph of sentences of this kind, using as connectives <hi rend="italic">and</hi>, <hi rend="italic">but</hi>, <hi rend="italic">so</hi>, and less frequently, <hi rend="italic">who</hi>, <hi rend="italic">which</hi>, <hi rend="italic">when</hi>, <hi rend="italic">where</hi>, and <hi rend="italic">while</hi>, these last in non-restrictive senses (see under Rule 3).</p>
+                  <p rend="justify">The third concert of the subscription series was given last evening, and a large audience was in attendance. Mr. Edward Appleton was the soloist, and the Boston Symphony Orchestra furnished the instrumental music. The former showed himself to be an artist of the first rank, while the latter proved itself fully deserving of its high reputation. The interest aroused by the series has been very gratifying to the Committee, and it is planned to give a similar series annually hereafter. The fourth concert will be given on Tuesday, May 10, when an equally attractive programme will be presented.</p>
+                  <p rend="justify">Apart from its triteness and emptiness, the paragraph above is weak because of the structure of its sentences, with their mechanical symmetry and sing-song. Contrast with them the sentences in the paragraphs quoted under Rule 9, or in any piece of good English prose, as the preface (Before the Curtain) to Vanity Fair.</p>
+                  <p rend="justify">If the writer finds that he has written a series of sentences of the type described, he should recast enough of them to remove the monotony, replacing them by simple sentences, by sentences of two clauses joined by a semicolon, by periodic sentences of two clauses, by sentences, loose or periodic, of three clauses—whichever best represent the real relations of the thought.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>15.</label>Express co-ordinate ideas in similar form.</head>
+                  <p rend="justify">This principle, that of parallel construction, requires that expressions of similar content and function should be outwardly similar. The likeness of form enables the reader to recognize more readily the likeness of content and function. Familiar instances from the Bible are the Ten Commandments, the Beatitudes, and the petitions of the Lord's Prayer.</p>
+                  <p rend="justify">The unskillful writer often violates this principle, from a mistaken belief that he should constantly vary the form of his expressions. It is true that in repeating a statement in order to emphasize it he may have need to vary its form. For illustration, see the paragraph from Stevenson quoted under Rule 9. But apart from this, he should follow the principle of parallel construction.</p>
+                  <table rend="frame" xml:id="Table14">
+                     <row>
+                        <cell>Formerly, science was taught by the textbook method, while now the laboratory method is employed.</cell>
+                        <cell>Formerly, science was taught by the textbook method; now it is taught by the laboratory method.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The left-hand version gives the impression that the writer is undecided or timid; he seems unable or afraid to choose one form of expression and hold to it. The right-hand version shows that the writer has at least made his choice and abided by it.</p>
+                  <p rend="justify">By this principle, an article or a preposition applying to all the members of a series must either be used only before the first term or else be repeated before each term.</p>
+                  <table rend="frame" xml:id="Table15">
+                     <row>
+                        <cell>The French, the Italians, Spanish, and Portuguese</cell>
+                        <cell>The French, the Italians, the Spanish, and the Portuguese</cell>
+                     </row>
+                     <row>
+                        <cell>In spring, summer, or in winter</cell>
+                        <cell>In spring, summer, or winter (In spring, in summer, or in winter)</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Correlative expressions (<hi rend="italic">both, and</hi>; <hi rend="italic">not, but</hi>; <hi rend="italic">not only, but also</hi>; <hi rend="italic">either, or</hi>; <hi rend="italic">first, second, third</hi>; and the like) should be followed by the same grammatical construction, that is, virtually, by the same part of speech. (Such combinations as “both Henry and I,” “not silk, but a cheap substitute,” are obviously within the rule.) Many violations of this rule (as the first three below) arise from faulty arrangement; others (as the last) from the use of unlike constructions.</p>
+                  <table rend="frame" xml:id="Table16">
+                     <row>
+                        <cell>It was both a long ceremony and very tedious.</cell>
+                        <cell>The ceremony was both long and tedious.</cell>
+                     </row>
+                     <row>
+                        <cell>A time not for words, but action.</cell>
+                        <cell>A time not for words, but for action.</cell>
+                     </row>
+                     <row>
+                        <cell>Either you must grant his request or incur his ill will.</cell>
+                        <cell>You must either grant his request or incur his ill will.</cell>
+                     </row>
+                     <row>
+                        <cell>My objections are, first, the injustice of the measure; second, that it is unconstitutional.</cell>
+                        <cell>My objections are, first, that the measure is unjust; second, that it is unconstitutional.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">See also the third example under Rule 12 and the last under Rule 13.</p>
+                  <p rend="justify">It may be asked, what if a writer needs to express a very large number of similar ideas, say twenty? Must he write twenty consecutive sentences of the same pattern? On closer examination he will probably find that the difficulty is imaginary, that his twenty ideas can be classified in groups, and that he need apply the principle only within each group. Otherwise he had best avoid difficulty by putting his statements in the form of a table.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>16.</label>Keep related words together.</head>
+                  <p rend="justify">The position of the words in a sentence is the principal means of showing their relationship. The writer must therefore, so far as possible, bring together the words, and groups of words, that are related in thought, and keep apart those which are not so related.</p>
+                  <p rend="justify">The subject of a sentence and the principal verb should not, as a rule, be separated by a phrase or clause that can be transferred to the beginning.</p>
+                  <table rend="frame" xml:id="Table17">
+                     <row>
+                        <cell>Wordsworth, in the fifth book of The Excursion, gives a minute description of this church.</cell>
+                        <cell>In the fifth book of The Excursion, Wordsworth gives a minute description of this church.</cell>
+                     </row>
+                     <row>
+                        <cell>Cast iron, when treated in a Bessemer converter, is changed into steel.</cell>
+                        <cell>By treatment in a Bessemer converter, cast iron is changed into steel.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The objection is that the interposed phrase or clause needlessly interrupts the natural order of the main clause. Usually, however, this objection does not hold when the order is interrupted only by a relative clause or by an expression in apposition. Nor does it hold in periodic sentences in which the interruption is a deliberately used means of creating suspense (see examples under Rule 18).</p>
+                  <p rend="justify">The relative pronoun should come, as a rule, immediately after its antecedent.</p>
+                  <table rend="frame" xml:id="Table18">
+                     <row>
+                        <cell>There was a look in his eye that boded mischief.</cell>
+                        <cell>In his eye was a look that boded mischief.</cell>
+                     </row>
+                     <row>
+                        <cell>He wrote three articles about his adventures in Spain, which were published in Harper's Magazine.</cell>
+                        <cell>He published in Harper's Magazine three articles about his adventures in Spain.</cell>
+                     </row>
+                     <row>
+                        <cell>This is a portrait of Benjamin Harrison, grandson of William Henry Harrison, who became President in 1889.</cell>
+                        <cell>This is a portrait of Benjamin Harrison, grandson of William Henry Harrison. He became President in 1889.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">If the antecedent consists of a group of words, the relative comes at the end of the group, unless this would cause ambiguity.</p>
+                  <p rend="justify">The Superintendent of the Chicago Division, who</p>
+                  <table rend="frame" xml:id="Table19">
+                     <row>
+                        <cell>A proposal to amend the Sherman Act, which has been variously judged.</cell>
+                        <cell>A proposal, which has been variously judged, to amend the Sherman Act.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>A proposal to amend the much-debated Sherman Act.</cell>
+                     </row>
+                     <row>
+                        <cell>The grandson of William Henry Harrison, who</cell>
+                        <cell>William Henry Harrison's grandson, who</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">A noun in apposition may come between antecedent and relative, because in such a combination no real ambiguity can arise.</p>
+                  <p rend="justify">The Duke of York, his brother, who was regarded with hostility by the Whigs</p>
+                  <p rend="justify">Modifiers should come, if possible, next to the word they modify. If several expressions modify the same word, they should be so arranged that no wrong relation is suggested.</p>
+                  <table rend="frame" xml:id="Table20">
+                     <row>
+                        <cell>All the members were not present.</cell>
+                        <cell>Not all the members were present.</cell>
+                     </row>
+                     <row>
+                        <cell>He only found two mistakes.</cell>
+                        <cell>He found only two mistakes.</cell>
+                     </row>
+                     <row>
+                        <cell>Major R. E. Joyce will give a lecture on Tuesday evening in Bailey Hall, to which the public is invited, on “My Experiences in Mesopotamia” at eight P. M.</cell>
+                        <cell>On Tuesday evening at eight P. M., Major R. E. Joyce will give in Bailey Hall a lecture on “My Experiences in Mesopotamia.” The public is invited.</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>17.</label>In summaries, keep to one tense.</head>
+                  <p rend="justify">In summarizing the action of a drama, the writer should always use the present tense. In summarizing a poem, story, or novel, he should preferably use the present, though he may use the past if he prefers. If the summary is in the present tense, antecedent action should be expressed by the perfect; if in the past, by the past perfect.</p>
+                  <p rend="justify">An unforeseen chance prevents Friar John from delivering Friar Lawrence's letter to Romeo. Meanwhile, owing to her father's arbitrary change of the day set for her wedding, Juliet has been compelled to drink the potion on Tuesday night, with the result that Balthasar informs Romeo of her supposed death before Friar Lawrence learns of the non-delivery of the letter.</p>
+                  <p rend="justify">But whichever tense be used in the summary, a past tense in indirect discourse or in indirect question remains unchanged.</p>
+                  <p rend="justify">The Friar confesses that it was he who married them.</p>
+                  <p rend="justify">Apart from the exceptions noted, whichever tense the writer chooses, he should use throughout. Shifting from one tense to the other gives the appearance of uncertainty and irresolution (compare Rule 15).</p>
+                  <p rend="justify">In presenting the statements or the thought of some one else, as in summarizing an essay or reporting a speech, the writer should avoid intercalating such expressions as “he said,” “he stated,” “the speaker added,” “the speaker then went on to say,” “the author also thinks,” or the like. He should indicate clearly at the outset, once for all, that what follows is summary, and then waste no words in repeating the notification.</p>
+                  <p rend="justify">In notebooks, in newspapers, in handbooks of literature, summaries of one kind or another may be indispensable, and for children in primary schools it is a useful exercise to retell a story in their own words. But in the criticism or interpretation of literature the writer should be careful to avoid dropping into summary. He may find it necessary to devote one or two sentences to indicating the subject, or the opening situation, of the work he is discussing; he may cite numerous details to illustrate its qualities. But he should aim to write an orderly discussion supported by evidence, not a summary with occasional comment. Similarly, if the scope of his discussion includes a number of works, he will as a rule do better not to take them up singly in chronological order, but to aim from the beginning at establishing general conclusions.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>18.</label>Place the emphatic words of a sentence at the end.</head>
+                  <p rend="justify">The proper place in the sentence for the word, or group of words, which the writer desires to make most prominent is usually the end.</p>
+                  <table rend="frame" xml:id="Table21">
+                     <row>
+                        <cell>Humanity has hardly advanced in fortitude since that time, though it has advanced in many other ways.</cell>
+                        <cell>Humanity, since that time, has advanced in many other ways, but it has hardly advanced in fortitude.</cell>
+                     </row>
+                     <row>
+                        <cell>This steel is principally used for making razors, because of its hardness.</cell>
+                        <cell>Because of its hardness, this steel is principally used in making razors.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">The word or group of words entitled to this position of prominence is usually the logical predicate, that is, the <hi rend="italic">new</hi> element in the sentence, as it is in the second example.</p>
+                  <p rend="justify">The effectiveness of the periodic sentence arises from the prominence which it gives to the main statement.</p>
+                  <p rend="justify">Four centuries ago, Christopher Columbus, one of the Italian mariners whom the decline of their own republics had put at the service of the world and of adventure, seeking for Spain a westward passage to the Indies as a set-off against the achievements of Portuguese discoverers, lighted on America.</p>
+                  <p rend="justify">With these hopes and in this belief I would urge you, laying aside all hindrance, thrusting away all private aims, to devote yourself unswervingly and unflinchingly to the vigorous and successful prosecution of this war.</p>
+                  <p rend="justify">The other prominent position in the sentence is the beginning. Any element in the sentence, other than the subject, may become emphatic when placed first.</p>
+                  <p rend="justify">Deceit or treachery he could never forgive.</p>
+                  <p rend="justify">So vast and rude, fretted by the action of nearly three thousand years, the fragments of this architecture may often seem, at first sight, like works of nature.</p>
+                  <p rend="justify">A subject coming first in its sentence may be emphatic, but hardly by its position alone. In the sentence,</p>
+                  <p rend="justify">Great kings worshipped at his shrine,</p>
+                  <p rend="justify">the emphasis upon <hi rend="italic">kings</hi>  arises largely from its meaning and from the context. To receive special emphasis, the subject of a sentence must take the position of the predicate.</p>
+                  <p rend="justify">Through the middle of the valley flowed a winding stream.</p>
+                  <p rend="justify">The principle that the proper place for what is to be made most prominent is the end applies equally to the words of a sentence, to the sentences of a paragraph, and to the paragraphs of a composition.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>IV.</label>A FEW MATTERS OF FORM</head>
+               <p rend="justify">
+                  <hi rend="bold">Headings.</hi> Leave a blank line, or its equivalent in space, after the title or heading of a manuscript. On succeeding pages, if using ruled paper, begin on the first line.</p>
+               <p rend="justify">
+                  <hi rend="bold">Numerals.</hi>  Do not spell out dates or other serial numbers. Write them in figures or in Roman notation, as may be appropriate.</p>
+               <p rend="justify">August 9, 1918 (9 August 1918)</p>
+               <p rend="justify">Rule 3</p>
+               <p rend="justify">Chapter XII</p>
+               <p rend="justify">352nd Infantry</p>
+               <p rend="justify">
+                  <hi rend="bold">Parentheses.</hi>  A sentence containing an expression in parenthesis is punctuated, outside of the marks of parenthesis, exactly as if the expression in parenthesis were absent. The expression within is punctuated as if it stood by itself, except that the final stop is omitted unless it is a question mark or an exclamation point.</p>
+               <p rend="justify">I went to his house yesterday (my third attempt to see him), but he had left town.</p>
+               <p rend="justify">He declares (and why should we doubt his good faith?) that he is now certain of success.</p>
+               <p rend="justify">(When a wholly detached expression or sentence is parenthesized, the final stop comes before the last mark of parenthesis.)</p>
+               <p rend="justify">
+                  <hi rend="bold">Quotations.</hi>  Formal quotations, cited as documentary evidence, are introduced by a colon and enclosed in quotation marks.</p>
+               <p rend="justify">The provision of the Constitution is: “No tax or duty shall be laid on articles exported from any state.”</p>
+               <p rend="justify">Quotations grammatically in apposition or the direct objects of verbs are preceded by a comma and enclosed in quotation marks.</p>
+               <p rend="justify">I recall the maxim of La Rochefoucauld, “Gratitude is a lively sense of benefits to come.”</p>
+               <p rend="justify">Aristotle says, “Art is an imitation of nature.”</p>
+               <p rend="justify">Quotations of an entire line, or more, of verse, are begun on a fresh line and centered, but need not be enclosed in quotation marks.</p>
+               <p rend="justify">Wordsworth's enthusiasm for the Revolution was at first unbounded:</p>
+               <p rend="justify">Bliss was it in that dawn to be alive,<lb/>
+               </p>
+               <p rend="justify">But to be young was very heaven!<lb/>
+               </p>
+               <p rend="justify">Quotations introduced by <hi rend="italic">that</hi>  are regarded as in indirect discourse and not enclosed in quotation marks.</p>
+               <p rend="justify">Keats declares that beauty is truth, truth beauty.</p>
+               <p rend="justify">Proverbial expressions and familiar phrases of literary origin require no quotation marks.</p>
+               <p rend="justify">These are the times that try men's souls.</p>
+               <p rend="justify">He lives far from the madding crowd.</p>
+               <p rend="justify">The same is true of colloquialisms and slang.</p>
+               <p rend="justify">
+                  <hi rend="bold">References.</hi>  In scholarly work requiring exact references, abbreviate titles that occur frequently, giving the full forms in an alphabetical list at the end. As a general practice, give the references in parenthesis or in footnotes, not in the body of the sentence. Omit the words <hi rend="italic">act</hi>, <hi rend="italic">scene</hi>, <hi rend="italic">line</hi>, <hi rend="italic">book</hi>, <hi rend="italic">volume</hi>, <hi rend="italic">page</hi>, except when referring by only one of them. Punctuate as indicated below.</p>
+               <table rend="frame" xml:id="Table22">
+                  <row>
+                     <cell>In the second scene of the third act</cell>
+                     <cell>In III.ii (still better, simply insert III.ii in parenthesis at the proper place in the sentence)</cell>
+                  </row>
+               </table>
+               <p rend="justify">After the killing of Polonius, Hamlet is placed under guard (IV.ii. 14).</p>
+               <p rend="justify">2 Samuel i:17–27</p>
+               <p rend="justify">Othello II.iii. 264–267, III.iii. 155–161.</p>
+               <p rend="justify">
+                  <hi rend="bold">Syllabication.</hi>  If there is room at the end of a line for one or more syllables of a word, but not for the whole word, divide the word, unless this involves cutting off only a single letter, or cutting off only two letters of a long word. No hard and fast rule for all words can be laid down. The principles most frequently applicable are:</p>
+               <p rend="justify">(a) Divide the word according to its formation:</p>
+               <p rend="justify">know-ledge (not knowl-edge); Shake-speare (not Shakes-peare); de-scribe (not des-cribe); atmo-sphere (not atmos-phere);</p>
+               <p rend="justify">(b) Divide “on the vowel:”</p>
+               <p rend="justify">edi-ble (not ed-ible); propo-sition; ordi-nary; espe-cial; reli-gious; oppo-nents; regu-lar; classi-fi-ca-tion (three divisions allowable); deco-rative; presi-dent;</p>
+               <p rend="justify">(c) Divide between double letters, unless they come at the end of the simple form of the word:</p>
+               <p rend="justify">Apen-nines; Cincin-nati; refer-ring; but tell-ing.</p>
+               <p rend="justify">(d) Do not divide before final <hi rend="italic">-ed</hi>  if the <hi rend="italic">e</hi>  is silent:</p>
+               <p rend="justify">treat-ed (but not roam-ed or nam-ed).</p>
+               <p rend="justify">The treatment of consonants in combination is best shown from examples:</p>
+               <p rend="justify">for-tune; pic-ture; sin-gle; presump-tuous; illus-tration; sub-stan-tial (either division); indus-try; instruc-tion; sug-ges-tion; incen-diary.</p>
+               <p rend="justify">The student will do well to examine the syllable-division in a number of pages of any carefully printed book.</p>
+               <p rend="justify">
+                  <hi rend="bold">Titles.</hi>  For the titles of literary works, scholarly usage prefers italics with capitalized initials. The usage of editors and publishers varies, some using italics with capitalized initials, others using Roman with capitalized initials and with or without quotation marks. Use italics (indicated in manuscript by underscoring), except in writing for a periodical that follows a different practice. Omit initial <hi rend="italic">A</hi>  or <hi rend="italic">The</hi>  from titles when you place the possessive before them.</p>
+               <p rend="justify">The Iliad; the Odyssey; As You Like It; To a Skylark; The Newcomes; A Tale of Two Cities; Dickens's Tale of Two Cities.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>V.</label>WORDS AND EXPRESSIONS COMMONLY MISUSED</head>
+               <p rend="justify">(Some of the forms here listed, as <hi rend="italic">like I did</hi>, are downright bad English; others, as the split infinitive, have their defenders, but are in such general disfavor that it is at least inadvisable to use them; still others, as <hi rend="italic">case</hi>, <hi rend="italic">factor</hi>, <hi rend="italic">feature</hi>, <hi rend="italic">interesting</hi>, <hi rend="italic">one of the most</hi>, are good in their place, but are constantly obtruding themselves into places where they have no right to be. If the writer will make it his purpose from the beginning to express accurately his own individual thought, and will refuse to be satisfied with a ready-made formula that saves him the trouble of doing so, this last set of expressions will cause him little trouble. But if he finds that in a moment of inadvertence he has used one of them, his proper course will probably be not to patch up the sentence by substituting one word or set of words for another, but to recast it completely, as illustrated in a number of examples below and in others under Rules 12 and 13.)</p>
+               <p rend="justify">
+                  <hi rend="bold">All right.</hi>  Idiomatic in familiar speech as a detached phrase in the sense, “Agreed,” or “Go ahead.” In other uses better avoided. Always written as two words.</p>
+               <p rend="justify">
+                  <hi rend="bold">As good or better than.</hi>  Expressions of this type should be corrected by rearranging the sentence.</p>
+               <table rend="frame" xml:id="Table23">
+                  <row>
+                     <cell>My opinion is as good or better than his.</cell>
+                     <cell>My opinion is as good as his, or better (if not better).</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">As to whether.</hi>
+                  <hi rend="italic">Whether</hi> is sufficient; see under Rule 13.</p>
+               <p rend="justify">
+                  <hi rend="bold">Bid.</hi>  Takes the infinitive without <hi rend="italic">to</hi>. The past tense in the sense, “ordered,” is <hi rend="italic">bade</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">But.</hi>  Unnecessary after <hi rend="italic">doubt</hi>  and <hi rend="italic">help</hi>.</p>
+               <table rend="frame" xml:id="Table24">
+                  <row>
+                     <cell>I have no doubt but that</cell>
+                     <cell>I have no doubt that</cell>
+                  </row>
+                  <row>
+                     <cell>He could not help see but that</cell>
+                     <cell>He could not help seeing that</cell>
+                  </row>
+               </table>
+               <p rend="justify">The too frequent use of <hi rend="italic">but</hi> as a conjunction leads to the fault discussed under Rule 14. A loose sentence formed with <hi rend="italic">but</hi> can always be converted into a periodic sentence formed with <hi rend="italic">although</hi>, as illustrated under Rule 4.</p>
+               <p rend="justify">Particularly awkward is the following of one <hi rend="italic">but</hi>  by another, making a contrast to a contrast or a reservation to a reservation. This is easily corrected by re-arrangement.</p>
+               <table rend="frame" xml:id="Table25">
+                  <row>
+                     <cell>America had vast resources, but she seemed almost wholly unprepared for war. But within a year she had created an army of four million men.</cell>
+                     <cell>America seemed almost wholly unprepared for war, but she had vast resources. Within a year she had created an army of four million men.</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Can.</hi> Means <hi rend="italic">am (is, are) able</hi>. Not to be used as a substitute for <hi rend="italic">may</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">Case.</hi>  The Concise Oxford Dictionary begins its definition of this word: “instance of a thing's occurring; usual state of affairs.” In these two senses, the word is usually unnecessary.</p>
+               <table rend="frame" xml:id="Table26">
+                  <row>
+                     <cell>In many cases, the rooms were poorly ventilated.</cell>
+                     <cell>Many of the rooms were poorly ventilated.</cell>
+                  </row>
+                  <row>
+                     <cell>It has rarely been the case that any mistake has been made.</cell>
+                     <cell>Few mistakes have been made.</cell>
+                  </row>
+               </table>
+               <p rend="justify">See Wood, Suggestions to Authors, pp. 68–71, and Quiller-Couch, The Art of Writing, pp. 103–106.</p>
+               <p rend="justify">
+                  <hi rend="bold">Certainly.</hi>  Used indiscriminately by some writers, much as others use <hi rend="italic">very</hi>, to intensify any and every statement. A mannerism of this kind, bad in speech, is even worse in writing.</p>
+               <p rend="justify">
+                  <hi rend="bold">Character.</hi>  Often simply redundant, used from a mere habit of wordiness.</p>
+               <table rend="frame" xml:id="Table27">
+                  <row>
+                     <cell>Acts of a hostile character</cell>
+                     <cell>Hostile acts</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Claim, vb.</hi> With object-noun, means <hi rend="italic">lay claim to</hi>. May be used with a dependent clause if this sense is clearly involved: “He claimed that he was the sole surviving heir.” (But even here, “claimed to be” would be better.) Not to be used as a substitute for <hi rend="italic">declare</hi>, <hi rend="italic">maintain</hi>, or <hi rend="italic">charge</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">Clever.</hi>  This word has been greatly overused; it is best restricted to ingenuity displayed in small matters.</p>
+               <p rend="justify">
+                  <hi rend="bold">Compare.</hi>  To <hi rend="italic">compare to</hi>  is to point out or imply resemblances, between objects regarded as essentially of different order; to <hi rend="italic">compare with</hi>  is mainly to point out differences, between objects regarded as essentially of the same order. Thus life has been compared to a pilgrimage, to a drama, to a battle; Congress may be compared with the British Parliament. Paris has been compared to ancient Athens; it may be compared with modern London.</p>
+               <p rend="justify">
+                  <hi rend="bold">Consider.</hi>  Not followed by <hi rend="italic">as</hi>  when it means “believe to be.” “I consider him thoroughly competent.” Compare, “The lecturer considered Cromwell first as soldier and second as administrator,” where “considered” means “examined” or “discussed.”</p>
+               <p rend="justify">
+                  <hi rend="bold">Data.</hi>  A plural, like <hi rend="italic">phenomena</hi>  and <hi rend="italic">strata</hi>.</p>
+               <p rend="justify">These data were tabulated.</p>
+               <p rend="justify">
+                  <hi rend="bold">Dependable.</hi>  A needless substitute for <hi rend="italic">reliable</hi>, <hi rend="italic">trustworthy</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">Different than.</hi>  Not permissible. Substitute <hi rend="italic">different from</hi>, <hi rend="italic">other than</hi>, or <hi rend="italic">unlike</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">Divided into.</hi>  Not to be misused for <hi rend="italic">composed of</hi>. The line is sometimes difficult to draw; doubtless plays are divided into acts, but poems are composed of stanzas.</p>
+               <p rend="justify">
+                  <hi rend="bold">Don't.</hi>  Contraction of <hi rend="italic">do not</hi>. The contraction of <hi rend="italic">does not</hi>  is <hi rend="italic">doesn't</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">Due to.</hi>  Incorrectly used for <hi rend="italic">through</hi>, <hi rend="italic">because of</hi>, or <hi rend="italic">owing to</hi>, in adverbial phrases: “He lost the first game, due to carelessness.” In correct use related as predicate or as modifier to a particular noun: “This invention is due to Edison;” “losses due to preventable fires.”</p>
+               <p rend="justify">
+                  <hi rend="bold">Folk.</hi>  A collective noun, equivalent to <hi rend="italic">people</hi>. Use the singular form only.</p>
+               <p rend="justify">
+                  <hi rend="bold">Effect.</hi>  As noun, means <hi rend="italic">result</hi>; as verb, means <hi rend="italic">to</hi>
+                  <hi rend="italic">  bring about</hi>, <hi rend="italic">accomplish</hi>  (not to be confused with <hi rend="italic">affect</hi>, which means “to influence”).</p>
+               <p rend="justify">As noun, often loosely used in perfunctory writing about fashions, music, painting, and other arts: “an Oriental effect;” “effects in pale green;” “very delicate effects;” “broad effects;” “subtle effects;” “a charming effect was produced by.” The writer who has a definite meaning to express will not take refuge in such vagueness.</p>
+               <p rend="justify">
+                  <hi rend="bold">Etc.</hi>  Equivalent to <hi rend="italic">and the rest</hi>, <hi rend="italic">and so forth</hi>, and hence not to be used if one of these would be insufficient, that is, if the reader would be left in doubt as to any important particulars. Least open to objection when it represents the last terms of a list already given in full, or immaterial words at the end of a quotation.</p>
+               <p rend="justify">At the end of a list introduced by <hi rend="italic">such as</hi>, <hi rend="italic">for example</hi>, or any similar expression, <hi rend="italic">etc.</hi>  is incorrect.</p>
+               <p rend="justify">
+                  <hi rend="bold">Fact.</hi>  Use this word only of matters of a kind capable of direct verification, not of matters of judgment. That a particular event happened on a given date, that lead melts at a certain temperature, are facts. But such conclusions as that Napoleon was the greatest of modern generals, or that the climate of California is delightful, however incontestable they may be, are not properly facts.</p>
+               <p rend="justify">On the formula <hi rend="italic">the fact that</hi>, see under Rule 13.</p>
+               <p rend="justify">
+                  <hi rend="bold">Factor.</hi>  A hackneyed word; the expressions of which it forms part can usually be replaced by something more direct and idiomatic.</p>
+               <table rend="frame" xml:id="Table28">
+                  <row>
+                     <cell>His superior training was the great factor in his winning the match.</cell>
+                     <cell>He won the match by being better trained.</cell>
+                  </row>
+                  <row>
+                     <cell>Heavy artillery has become an increasingly important factor in deciding battles.</cell>
+                     <cell>Heavy artillery has played a constantly larger part in deciding battles.</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Feature.</hi> Another hackneyed word; like <hi rend="italic">factor</hi> it usually adds nothing to the sentence in which it occurs.</p>
+               <table rend="frame" xml:id="Table29">
+                  <row>
+                     <cell>A feature of the entertainment especially worthy of mention was the singing of Miss A.</cell>
+                     <cell>(Better use the same number of words to tell what Miss A. sang, or if the programme has already been given, to tell how she sang.)</cell>
+                  </row>
+               </table>
+               <p rend="justify">As a verb, in the advertising sense of <hi rend="italic">offer as a special attraction</hi>, to be avoided.</p>
+               <p rend="justify">
+                  <hi rend="bold">Fix.</hi>  Colloquial in America for <hi rend="italic">arrange</hi>, <hi rend="italic">prepare</hi>, <hi rend="italic">mend</hi>. In writing restrict it to its literary senses, <hi rend="italic">fasten</hi>, <hi rend="italic">make firm or immovable</hi>, etc.</p>
+               <p rend="justify">
+                  <hi rend="bold">Get.</hi>  The colloquial <hi rend="italic">have got</hi>  for <hi rend="italic">have</hi>  should not be used in writing. The preferable form of the participle is <hi rend="italic">got</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">He is a man who.</hi>  A common type of redundant expression; see Rule 13.</p>
+               <table rend="frame" xml:id="Table30">
+                  <row>
+                     <cell>He is a man who is very ambitious.</cell>
+                     <cell>He is very ambitious.</cell>
+                  </row>
+                  <row>
+                     <cell>Spain is a country which I have always wanted to visit.</cell>
+                     <cell>I have always wanted to visit Spain.</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Help.</hi> See under <hi rend="bold">But</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">However.</hi>  In the meaning <hi rend="italic">nevertheless</hi>, not to come first in its sentence or clause.</p>
+               <table rend="frame" xml:id="Table31">
+                  <row>
+                     <cell>The roads were almost impassable. However, we at last succeeded in reaching camp.</cell>
+                     <cell>The roads were almost impassable. At last, however, we succeeded in reaching camp.</cell>
+                  </row>
+               </table>
+               <p rend="justify">When <hi rend="italic">however</hi> comes first, it means <hi rend="italic">in whatever way</hi> or <hi rend="italic">to whatever extent</hi>.</p>
+               <p rend="justify">However you advise him, he will probably do as he thinks best.</p>
+               <p rend="justify">However discouraging the prospect, he never lost heart.</p>
+               <p rend="justify">
+                  <hi rend="bold">Interesting.</hi>  Avoid this word as a perfunctory means of introduction. Instead of announcing that what you are about to tell is interesting, make it so.</p>
+               <table rend="frame" xml:id="Table32">
+                  <row>
+                     <cell>An interesting story is told of</cell>
+                     <cell>(Tell the story without preamble.)</cell>
+                  </row>
+                  <row>
+                     <cell>In connection with the anticipated visit of Mr. B. to America, it is interesting to recall that he</cell>
+                     <cell>Mr. B., who it is expected will soon visit America</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Kind of.</hi> Not to be used as a substitute for <hi rend="italic">rather</hi> (before adjectives and verbs), or except in familiar style, for <hi rend="italic">something like</hi> (before nouns). Restrict it to its literal sense: “Amber is a kind of fossil resin;” “I dislike that kind of notoriety.” The same holds true of <hi rend="italic">sort of</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">Less.</hi>  Should not be misused for <hi rend="italic">fewer</hi>.</p>
+               <table rend="frame" xml:id="Table33">
+                  <row>
+                     <cell>He had less men than in the previous campaign</cell>
+                     <cell>He had fewer men than in the previous campaign</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="italic">Less</hi> refers to quantity, <hi rend="italic">fewer</hi> to number. “His troubles are less than mine” means “His troubles are not so great as mine.” “His troubles are fewer than mine” means “His troubles are not so numerous as mine.” It is, however, correct to say, “The signers of the petition were less than a hundred,” where the round number <hi rend="italic">a hundred</hi> is something like a collective noun, and <hi rend="italic">less</hi> is thought of as meaning a less quantity or amount.</p>
+               <p rend="justify">
+                  <hi rend="bold">Like.</hi>  Not to be misused for <hi rend="italic">as</hi>. <hi rend="italic">Like</hi>  governs nouns and pronouns; before phrases and clauses the equivalent word is <hi rend="italic">as</hi>.</p>
+               <table rend="frame" xml:id="Table34">
+                  <row>
+                     <cell>We spent the evening like in the old days.</cell>
+                     <cell>We spent the evening as in the old days.</cell>
+                  </row>
+                  <row>
+                     <cell>He thought like I did.</cell>
+                     <cell>He thought as I did (like me).</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Line, along these lines.</hi>
+                  <hi rend="italic">Line</hi> in the sense of <hi rend="italic">course of procedure</hi>, <hi rend="italic">conduct</hi>, <hi rend="italic">thought</hi>, is allowable, but has been so much overworked, particularly in the phrase <hi rend="italic">along these lines</hi>, that a writer who aims at freshness or originality had better discard it entirely.</p>
+               <table rend="frame" xml:id="Table35">
+                  <row>
+                     <cell>Mr. B. also spoke along the same lines.</cell>
+                     <cell>Mr. B. also spoke, to the same effect.</cell>
+                  </row>
+                  <row>
+                     <cell>He is studying along the line of French literature.</cell>
+                     <cell>He is studying French literature.</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Literal, literally.</hi> Often incorrectly used in support of exaggeration or violent metaphor.</p>
+               <table rend="frame" xml:id="Table36">
+                  <row>
+                     <cell>A literal flood of abuse.</cell>
+                     <cell>A flood of abuse.</cell>
+                  </row>
+                  <row>
+                     <cell>Literally dead with fatigue</cell>
+                     <cell>Almost dead with fatigue (dead tired)</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Lose out.</hi> Meant to be more emphatic than <hi rend="italic">lose</hi>, but actually less so, because of its commonness. The same holds true of <hi rend="italic">try out</hi>, <hi rend="italic">win out</hi>, <hi rend="italic">sign up</hi>, <hi rend="italic">register up</hi>. With a number of verbs, <hi rend="italic">out</hi> and <hi rend="italic">up</hi> form idiomatic combinations: <hi rend="italic">find out</hi>, <hi rend="italic">run out</hi>, <hi rend="italic">turn out</hi>, <hi rend="italic">cheer up</hi>, <hi rend="italic">dry up</hi>, <hi rend="italic">make up</hi>, and others, each distinguishable in meaning from the simple verb. <hi rend="italic">Lose out</hi> is not.</p>
+               <p rend="justify">
+                  <hi rend="bold">Most.</hi>  Not to be used for <hi rend="italic">almost</hi>.</p>
+               <table rend="frame" xml:id="Table37">
+                  <row>
+                     <cell>Most everybody</cell>
+                     <cell>Almost everybody</cell>
+                  </row>
+                  <row>
+                     <cell>Most all the time</cell>
+                     <cell>Almost all the time</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Nature.</hi> Often simply redundant, used like <hi rend="italic">character</hi>.</p>
+               <table rend="frame" xml:id="Table38">
+                  <row>
+                     <cell>Acts of a hostile nature</cell>
+                     <cell>Hostile acts</cell>
+                  </row>
+               </table>
+               <p rend="justify">Often vaguely used in such expressions as a “lover of nature;” “poems about nature.” Unless more specific statements follow, the reader cannot tell whether the poems have to do with natural scenery, rural life, the sunset, the untracked wilderness, or the habits of squirrels.</p>
+               <p rend="justify">
+                  <hi rend="bold">Near by.</hi>  Adverbial phrase, not yet fully accepted as good English, though the analogy of <hi rend="italic">close by</hi>  and <hi rend="italic">hard by</hi>  seems to justify it. <hi rend="italic">Near</hi>, or <hi rend="italic">near at hand</hi>, is as good, if not better.</p>
+               <p rend="justify">Not to be used as an adjective; use <hi rend="italic">neighboring</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">Oftentimes, ofttimes.</hi>  Archaic forms, no longer in good use. The modern word is <hi rend="italic">often</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">One hundred and one.</hi>  Retain the <hi rend="italic">and</hi>  in this and similar expressions, in accordance with the unvarying usage of English prose from Old English times.</p>
+               <p rend="justify">
+                  <hi rend="bold">One of the most.</hi>  Avoid beginning essays or paragraphs with this formula, as, “One of the most interesting developments of modern science is, etc.;” “Switzerland is one of the most interesting countries of Europe.” There is nothing wrong in this; it is simply threadbare and forcible-feeble.</p>
+               <p rend="justify">A common blunder is to use a singular verb in a relative clause following this or a similar expression, when the relative is the subject.</p>
+               <table rend="frame" xml:id="Table39">
+                  <row>
+                     <cell>One of the ablest men that has attacked this problem.</cell>
+                     <cell>One of the ablest men that have attacked this problem.</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Participle for verbal noun.</hi>
+               </p>
+               <table rend="frame" xml:id="Table40">
+                  <row>
+                     <cell>Do you mind me asking a question?</cell>
+                     <cell>Do you mind my asking a question?</cell>
+                  </row>
+                  <row>
+                     <cell>There was little prospect of the Senate accepting even this compromise.</cell>
+                     <cell>There was little prospect of the Senate's accepting even this compromise.</cell>
+                  </row>
+               </table>
+               <p rend="justify">In the left-hand column, <hi rend="italic">asking</hi> and <hi rend="italic">accepting</hi> are present participles; in the right-hand column, they are verbal nouns (gerunds). The construction shown in the left-hand column is occasionally found, and has its defenders. Yet it is easy to see that the second sentence has to do not with a prospect of the Senate, but with a prospect of accepting. In this example, at least, the construction is plainly illogical.</p>
+               <p rend="justify">As the authors of The King's English point out, there are sentences apparently, but not really, of this type, in which the possessive is not called for.</p>
+               <p rend="justify">I cannot imagine Lincoln refusing his assent to this measure.</p>
+               <p rend="justify">In this sentence, what the writer cannot imagine is Lincoln himself, in the act of refusing his assent. Yet the meaning would be virtually the same, except for a slight loss of vividness, if he had written,</p>
+               <p rend="justify">I cannot imagine Lincoln's refusing his assent to this measure.</p>
+               <p rend="justify">By using the possessive, the writer will always be on the safe side.</p>
+               <p rend="justify">In the examples above, the subject of the action is a single, unmodified term, immediately preceding the verbal noun, and the construction is as good as any that could be used. But in any sentence in which it is a mere clumsy substitute for something simpler, or in which the use of the possessive is awkward or impossible, should of course be recast.</p>
+               <table rend="frame" xml:id="Table41">
+                  <row>
+                     <cell>In the event of a reconsideration of the whole matter's becoming necessary</cell>
+                     <cell>If it should become necessary to reconsider the whole matter</cell>
+                  </row>
+                  <row>
+                     <cell>There was great dissatisfaction with the decision of the arbitrators being favorable to the company.</cell>
+                     <cell>There was great dissatisfaction that the arbitrators should have decided in favor of the company.</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">People.</hi>
+                  <hi rend="italic">The people</hi> is a political term, not to be confused with <hi rend="italic">the public</hi>. From the people comes political support or opposition; from the public comes artistic appreciation or commercial patronage.</p>
+               <p rend="justify">
+                  <hi rend="bold">Phase.</hi>  Means a stage of transition or development: “the phases of the moon;” “the last phase.” Not to be used for <hi rend="italic">aspect</hi>  or <hi rend="italic">topic</hi>.</p>
+               <table rend="frame" xml:id="Table42">
+                  <row>
+                     <cell>Another phase of the subject</cell>
+                     <cell>Another point (another question)</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Possess.</hi> Not to be used as a mere substitute for <hi rend="italic">have</hi> or <hi rend="italic">own</hi>.</p>
+               <table rend="frame" xml:id="Table43">
+                  <row>
+                     <cell>He possessed great courage.</cell>
+                     <cell>He had great courage (was very brave).</cell>
+                  </row>
+                  <row>
+                     <cell>He was the fortunate possessor of</cell>
+                     <cell>He owned</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Prove.</hi> The past participle is <hi rend="italic">proved</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">Respective, respectively.</hi>  These words may usually be omitted with advantage.</p>
+               <table rend="frame" xml:id="Table44">
+                  <row>
+                     <cell>Works of fiction are listed under the names of their respective authors.</cell>
+                     <cell>Works of fiction are listed under the names of their authors.</cell>
+                  </row>
+                  <row>
+                     <cell>The one mile and two mile runs were won by Jones and Cummings respectively.</cell>
+                     <cell>The one mile and two mile runs were won by Jones and by Cummings.</cell>
+                  </row>
+               </table>
+               <p rend="justify">In some kinds of formal writing, as geometrical proofs, it may be necessary to use <hi rend="italic">respectively</hi>, but it should not appear in writing on ordinary subjects.</p>
+               <p rend="justify">
+                  <hi rend="bold">Shall, Will.</hi>  The future tense requires <hi rend="italic">shall</hi>  for the first person, <hi rend="italic">will</hi>  for the second and third. The formula to express the speaker's belief regarding his future action or state is <hi rend="italic">I shall</hi>; <hi rend="italic">I will</hi>  expresses his determination or his consent.</p>
+               <p rend="justify">
+                  <hi rend="bold">Should.</hi>  See under <hi rend="bold">Would</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">So.</hi>  Avoid, in writing, the use of <hi rend="italic">so</hi>  as an intensifier: “so good;” “so warm;” “so delightful.”</p>
+               <p rend="justify">On the use of <hi rend="italic">so</hi>  to introduce clauses, see Rule 4.</p>
+               <p rend="justify">
+                  <hi rend="bold">Sort of.</hi>  See under <hi rend="bold">Kind of</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">Split Infinitive.</hi>  There is precedent from the fourteenth century downward for interposing an adverb between <hi rend="italic">to</hi>  and the infinitive which it governs, but the construction is in disfavor and is avoided by nearly all careful writers.</p>
+               <table rend="frame" xml:id="Table45">
+                  <row>
+                     <cell>To diligently inquire</cell>
+                     <cell>To inquire diligently</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">State.</hi> Not to be used as a mere substitute for <hi rend="italic">say</hi>, <hi rend="italic">remark</hi>. Restrict it to the sense of <hi rend="italic">express fully or clearly</hi>, as, “He refused to state his objections.”</p>
+               <p rend="justify">
+                  <hi rend="bold">Student Body.</hi>  A needless and awkward expression meaning no more than the simple word <hi rend="italic">students</hi>.</p>
+               <table rend="frame" xml:id="Table46">
+                  <row>
+                     <cell>A member of the student body</cell>
+                     <cell>A student</cell>
+                  </row>
+                  <row>
+                     <cell>Popular with the student body</cell>
+                     <cell>Liked by the students</cell>
+                  </row>
+                  <row>
+                     <cell>The student body passed resolutions.</cell>
+                     <cell>The students passed resolutions.</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">System.</hi> Frequently used without need.</p>
+               <table rend="frame" xml:id="Table47">
+                  <row>
+                     <cell>Dayton has adopted the commission system of government.</cell>
+                     <cell>Dayton has adopted government by commission.</cell>
+                  </row>
+                  <row>
+                     <cell>The dormitory system</cell>
+                     <cell>Dormitories</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Thanking You in Advance.</hi> This sounds as if the writer meant, “It will not be worth my while to write to you again.” In making your request, write, “Will you please,” or “I shall be obliged,” and if anything further seems necessary write a letter of acknowledgment later.</p>
+               <p rend="justify">
+                  <hi rend="bold">They.</hi>  A common inaccuracy is the use of the plural pronoun when the antecedent is a distributive expression such as <hi rend="italic">each</hi>, <hi rend="italic">each one</hi>, <hi rend="italic">everybody</hi>, <hi rend="italic">every one</hi>, <hi rend="italic">many a man</hi>, which, though implying more than one person, requires the pronoun to be in the singular. Similar to this, but with even less justification, is the use of the plural pronoun with the antecedent <hi rend="italic">anybody</hi>, <hi rend="italic">any one</hi>, <hi rend="italic">somebody</hi>, <hi rend="italic">some one</hi>, the intention being either to avoid the awkward “he or she,” or to avoid committing oneself to either. Some bashful speakers even say, “A friend of mine told me that they, etc.”</p>
+               <p rend="justify">Use <hi rend="italic">he</hi>  with all the above words, unless the antecedent is or must be feminine.</p>
+               <p rend="justify">
+                  <hi rend="bold">Very.</hi>  Use this word sparingly. Where emphasis is necessary, use words strong in themselves.</p>
+               <p rend="justify">
+                  <hi rend="bold">Viewpoint.</hi>  Write <hi rend="italic">point of view</hi>, but do not misuse this, as many do, for <hi rend="italic">view</hi>  or <hi rend="italic">opinion</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">While.</hi>  Avoid the indiscriminate use of this word for <hi rend="italic">and</hi>, <hi rend="italic">but</hi>, and <hi rend="italic">although</hi>. Many writers use it frequently as a substitute for <hi rend="italic">and</hi>  or <hi rend="italic">but</hi>, either from a mere desire to vary the connective, or from uncertainty which of the two connectives is the more appropriate. In this use it is best replaced by a semicolon.</p>
+               <table rend="frame" xml:id="Table48">
+                  <row>
+                     <cell>The office and salesrooms are on the ground floor, while the rest of the building is devoted to manufacturing.</cell>
+                     <cell>The office and salesrooms are on the ground floor; the rest of the building is devoted to manufacturing.</cell>
+                  </row>
+               </table>
+               <p rend="justify">Its use as a virtual equivalent of <hi rend="italic">although</hi> is allowable in sentences where this leads to no ambiguity or absurdity.</p>
+               <p rend="justify">While I admire his energy, I wish it were employed in a better cause.</p>
+               <p rend="justify">This is entirely correct, as shown by the paraphrase,</p>
+               <p rend="justify">I admire his energy; at the same time I wish it were employed in a better cause.</p>
+               <p rend="justify">Compare:</p>
+               <table rend="frame" xml:id="Table49">
+                  <row>
+                     <cell>While the temperature reaches 90 or 95 degrees in the daytime, the nights are often chilly.</cell>
+                     <cell>Although the temperature reaches 90 or 95 degrees in the daytime, the nights are often chilly.</cell>
+                  </row>
+               </table>
+               <p rend="justify">The paraphrase,</p>
+               <p rend="justify">The temperature reaches 90 or 95 degrees in the daytime; at the same time the nights are often chilly,</p>
+               <p rend="justify">shows why the use of <hi rend="italic">while</hi>  is incorrect.</p>
+               <p rend="justify">In general, the writer will do well to use <hi rend="italic">while</hi>  only with strict literalness, in the sense of <hi rend="italic">during the time that</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">Whom.</hi>  Often incorrectly used for <hi rend="italic">who</hi>  before <hi rend="italic">he said</hi>  or similar expressions, when it is really the subject of a following verb.</p>
+               <table rend="frame" xml:id="Table50">
+                  <row>
+                     <cell>His brother, whom he said would send him the money</cell>
+                     <cell>His brother, who he said would send him the money</cell>
+                  </row>
+                  <row>
+                     <cell>The man whom he thought was his friend</cell>
+                     <cell>The man who (that) he thought was his friend (whom he thought his friend)</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Worth while.</hi> Overworked as a term of vague approval and (with <hi rend="italic">not</hi>) of disapproval. Strictly applicable only to actions: “Is it worth while to telegraph?”</p>
+               <table rend="frame" xml:id="Table51">
+                  <row>
+                     <cell>His books are not worth while.</cell>
+                     <cell>His books are not worth reading (are not worth one's while to read; do not repay reading; are worthless).</cell>
+                  </row>
+               </table>
+               <p rend="justify">The use of <hi rend="italic">worth while</hi> before a noun (“a worth while story”) is indefensible.</p>
+               <p rend="justify">
+                  <hi rend="bold">Would.</hi>  A conditional statement in the first person requires <hi rend="italic">should</hi>, not <hi rend="italic">would</hi>.</p>
+               <p rend="justify">I should not have succeeded without his help.</p>
+               <p rend="justify">The equivalent of <hi rend="italic">shall</hi>  in indirect quotation after a verb in the past tense is <hi rend="italic">should</hi>, not <hi rend="italic">would</hi>.</p>
+               <p rend="justify">He predicted that before long we should have a great surprise.</p>
+               <p rend="justify">To express habitual or repeated action, the past tense, without <hi rend="italic">would</hi>, is usually sufficient, and from its brevity, more emphatic.</p>
+               <table rend="frame" xml:id="Table52">
+                  <row>
+                     <cell>Once a year he would visit the old mansion.</cell>
+                     <cell>Once a year he visited the old mansion.</cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>VI.</label>SPELLING</head>
+               <p rend="justify">The spelling of English words is not fixed and invariable, nor does it depend on any other authority than general agreement. At the present day there is practically unanimous agreement as to the spelling of most words. In the list below, for example, <hi rend="italic">rime</hi> for <hi rend="italic">rhyme</hi> is the only allowable variation; all the other forms are co-extensive with the English language. At any given moment, however, a relatively small number of words may be spelled in more than one way. Gradually, as a rule, one of these forms comes to be generally preferred, and the less customary form comes to look obsolete and is discarded. From time to time new forms, mostly simplifications, are introduced by innovators, and either win their place or die of neglect.</p>
+               <p rend="justify">The practical objection to unaccepted and over-simplified spellings is the disfavor with which they are received by the reader. They distract his attention and exhaust his patience. He reads the form <hi rend="italic">though</hi>  automatically, without thought of its needless complexity; he reads the abbreviation <hi rend="italic">tho</hi>  and mentally supplies the missing letters, at the cost of a fraction of his attention. The writer has defeated his own purpose.</p>
+               <div type="div3">
+                  <head>WORDS OFTEN MISSPELLED</head>
+                  <list rend="bulleted">
+                     <item>accidentally</item>
+                     <item>advice</item>
+                     <item>affect</item>
+                     <item>believe</item>
+                     <item>benefit</item>
+                     <item>challenge</item>
+                     <item>coarse</item>
+                     <item>course</item>
+                     <item>criticize</item>
+                     <item>deceive</item>
+                     <item>definite</item>
+                     <item>describe</item>
+                     <item>despise</item>
+                     <item>develop</item>
+                     <item>disappoint</item>
+                     <item>dissipate</item>
+                     <item>duel</item>
+                     <item>ecstasy</item>
+                     <item>effect</item>
+                     <item>embarrass</item>
+                     <item>existence</item>
+                     <item>fascinate</item>
+                     <item>fiery</item>
+                     <item>formerly</item>
+                     <item>humorous</item>
+                     <item>hypocrisy</item>
+                     <item>immediately</item>
+                     <item>impostor</item>
+                     <item>incident</item>
+                     <item>incidentally</item>
+                     <item>latter</item>
+                     <item>led</item>
+                     <item>lose</item>
+                     <item>marriage</item>
+                     <item>mischief</item>
+                     <item>murmur</item>
+                     <item>necessary</item>
+                     <item>occurred</item>
+                     <item>opportunity</item>
+                     <item>parallel</item>
+                     <item>Philip</item>
+                     <item>playwright</item>
+                     <item>preceding</item>
+                     <item>prejudice</item>
+                     <item>principal</item>
+                     <item>principle</item>
+                     <item>privilege</item>
+                     <item>pursue</item>
+                     <item>repetition</item>
+                     <item>rhyme</item>
+                     <item>rhythm</item>
+                     <item>ridiculous</item>
+                     <item>sacrilegious</item>
+                     <item>seize</item>
+                     <item>separate</item>
+                     <item>shepherd</item>
+                     <item>siege</item>
+                     <item>similar</item>
+                     <item>simile</item>
+                     <item>too</item>
+                     <item>tragedy</item>
+                     <item>tries</item>
+                     <item>undoubtedly</item>
+                     <item>until</item>
+                     <item>villain</item>
+                  </list>
+                  <p rend="justify">Note that a single consonant (other than <hi rend="italic">v</hi>) preceded by a stressed short vowel is doubled before <hi rend="italic">-ed</hi> and <hi rend="italic">-ing</hi>: <hi rend="italic">planned</hi>, <hi rend="italic">letting</hi>, <hi rend="italic">beginning</hi>. (<hi rend="italic">Coming</hi> is an exception.)</p>
+                  <p rend="justify">Write <hi rend="italic">to-day</hi>, <hi rend="italic">to-night</hi>, <hi rend="italic">to-morrow</hi>  (but not <hi rend="italic">together</hi>) with a hyphen.</p>
+                  <p rend="justify">Write <hi rend="italic">any one</hi>, <hi rend="italic">every one</hi>, <hi rend="italic">some one</hi>, <hi rend="italic">some time</hi>  (except in the sense of <hi rend="italic">formerly</hi>) as two words.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>VII.</label>EXERCISES ON CHAPTERS II AND III</head>
+               <div type="div3">
+                  <head>
+                     <label>I.</label>Punctuate:</head>
+                  <p rend="justify">1. In 1788 the King's advisers warned him that the nation was facing bankruptcy therefore he summoned a body called the States-General believing that it would authorize him to levy new taxes. The people of France however were suffering from burdensome taxation oppressive social injustice and acute scarcity of food and their representatives refused to consider projects of taxation until social and economic reforms should be granted. The King who did not realize the gravity of the situation tried to overawe them collecting soldiers in and about Versailles where the sessions were being held. The people of Paris seeing the danger organized militia companies to defend their representatives. In order to supply themselves with arms they attacked the Invalides and the Bastille which contained the principal supplies of arms and munitions in Paris.</p>
+                  <p rend="justify">2. On his first continental tour begun in 1809 Byron visited Portugal Spain Albania Greece and Turkey. Of this tour he composed a poetical journal Childe Harold's Pilgrimage in which he ascribed his experiences and reflections not to himself but to a fictitious character Childe Harold described as a melancholy young nobleman prematurely familiar with evil sated with pleasures and embittered against humanity. The substantial merits of the work however lay not in this shadowy and somewhat theatrical figure but in Byron's spirited descriptions of wild or picturesque scenes and in his eloquent championing of Spain and Greece against their oppressors. On his return to England in 1811 he was persuaded rather against his own judgment into allowing the work to be published. Its success was almost unprecedented in his own words he awoke and found himself famous.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II.</label>Explain the difference in meaning:</head>
+                  <p rend="justify">3. ‘God save thee, ancyent Marinere!<lb/>
+                  </p>
+                  <p rend="justify">‘From the fiends that plague thee thus—<lb/>
+                  </p>
+                  <p rend="justify">Lyrical Ballads, 1798.<lb/>
+                  </p>
+                  <p rend="justify">‘God save thee, ancient Mariner!<lb/>
+                  </p>
+                  <p rend="justify">From the fiends, that plague thee thus!—<lb/>
+                  </p>
+                  <p rend="justify">Lyrical Ballads, 1800.<lb/>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III.</label>Explain and correct the errors in punctuation:</head>
+                  <p rend="justify">4. This course is intended for Freshmen, who in the opinion of the Department are not qualified for military drill.</p>
+                  <p rend="justify">5. A restaurant, not a cafeteria where good meals are served at popular prices.—<hi rend="italic">Advt.</hi>
+                  </p>
+                  <p rend="justify">6. The poets of The Nation, for all their intensity of patriotic feeling, followed the English rather than the Celtic tradition, their work has a political rather than a literary value and bears little upon the development of modern Irish verse.</p>
+                  <p rend="justify">7. We were in one of the strangest places imaginable. A long and narrow passage overhung on either side by a stupendous barrier of black and threatening rocks.</p>
+                  <p rend="justify">8. Only a few years ago after a snow storm in the passes not far north of Jerusalem no less than twenty-six Russian pilgrims perished amidst the snow. One cannot help thinking largely because they made little attempt to save themselves.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IV.</label>Point out and correct the faults in the following sentences:</head>
+                  <p rend="justify">9. During childhood his mother had died.</p>
+                  <p rend="justify">10. Any language study is good mind training while acquiring vocabulary.</p>
+                  <p rend="justify">11. My farm consisted of about twenty acres of excellent land, having given a hundred pounds for my predecessor's lease.</p>
+                  <p rend="justify">12. Prepared to encounter a woman of disordered mind, the appearance presented by Mrs. Taylor at his entrance greatly astonished him.</p>
+                  <p rend="justify">13. Pale and swooning, with two broken legs, they carried him into the house.</p>
+                  <p rend="justify">14. Count Cassini, the Russian plenipotentiary, had several long and intimate conversations during the tedious weeks of the conference with his British colleague, Sir Arthur Nicholson.</p>
+                  <p rend="justify">15. But though they had been victorious in the land engagements, they were so little decisive as to lead to no important results.</p>
+                  <p rend="justify">16. Knowing nothing of the rules of the college or of its customs, it was with the greatest difficulty that the Dean could make me comprehend wherein my wrong-doing lay.</p>
+                  <p rend="justify">17. Fire, therefore, was the first object of my search. Happily, some embers were found upon the hearth, together with potato-stalks and dry chips. Of these, with much difficulty, I kindled a fire, by which some warmth was imparted to our shivering limbs.</p>
+                  <p rend="justify">18. In this connection a great deal of historic fact is introduced into the novel about the past history of the cathedral and of Spain.</p>
+                  <p rend="justify">19. Over the whole scene hung the haze of twilight that is so peaceful.</p>
+                  <p rend="justify">20. Compared with Italy, living is more expensive.</p>
+                  <p rend="justify">21. It is a fundamental principle of law to believe a man innocent until he is proved guilty, and once proved guilty, to remain so until proved to the contrary.</p>
+                  <p rend="justify">22. Not only had the writer entrée to the titled families of Italy in whose villas she was hospitably entertained, but by royalty also.</p>
+                  <p rend="justify">23. It is not a strange sight to catch a glimpse of deer along the shore.</p>
+                  <p rend="justify">24. Earnings from other sources are of such a favorable character as to enable a splendid showing to be made by the company.</p>
+                  <p rend="justify">25. But while earnings have mounted amazingly, the status of affairs is such as to make it impossible to predict the course events may take, with any degree of accuracy.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Transcriber's Note:</hi>
+                  </p>
+                  <p rend="justify">The following is a list of corrections made to the original. The first passage is the original passage, the second the corrected one.</p>
+                  <list rend="bulleted">
+                     <item>Page 5:<lb/>of his manuscript Mr. George McLane Wood has<lb/>of his manuscript. Mr. George McLane Wood has</item>
+                     <item>Page 20:<lb/>Compare the sentence. “The export of gold was prohibited,”<lb/>Compare the sentence, “The export of gold was prohibited,”</item>
+                     <item>Page 26:<lb/>under Rule 10. But apart from this, he should follow the<lb/>under Rule 9. But apart from this, he should follow the</item>
+                     <item>Page 36:<lb/>in the sense, “ordered”) is <hi rend="italic">bade</hi>.<lb/>in the sense, “ordered,” is <hi rend="italic">bade</hi>.</item>
+                     <item>Page 39:<lb/>
+                        <hi rend="bold">Effect.</hi> As noun, means <hi rend="italic">result</hi>; as verb, means t<hi rend="italic">o</hi>
+                        <hi rend="italic">bring</hi>
+                        <lb/>
+                        <hi rend="bold">Effect.</hi> As noun, means <hi rend="italic">result</hi>; as verb, means <hi rend="italic">to</hi>
+                        <hi rend="italic">  bring</hi>
+                     </item>
+                     <item>Page 39:<lb/>they ma ybe, are not properly facts.<lb/>they may be, are not properly facts.</item>
+                     <item>Page 42:<lb/>Acts of a hostile nature.<lb/>Acts of a hostile nature</item>
+                     <item>Page 45:<lb/>Dayton has adopted the commission system of government<lb/>Dayton has adopted the commission system of government.</item>
+                     <item>Page 48:<lb/>embarass<lb/>embarrass</item>
+                  </list>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

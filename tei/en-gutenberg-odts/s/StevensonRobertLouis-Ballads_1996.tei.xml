@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ballads</title>
+            <author>Robert Louis Stevenson</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T20:28:49Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/s/StevensonRobertLouis-Ballads_1996.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Robert Louis Stevenson</name>
+               <date>2024-01-04T20:28:49Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Ballads</head>
+         <author>Robert Louis Stevenson</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/s/StevensonRobertLouis-Ballads_1996.odt</p>
+         <p>Transcribed from the 1895 Chatto &amp; Windus edition by David Price, email ccx074@pglaf.org</p>
+         <pb/>
+         <div type="div1">
+            <head>BALLADS</head>
+            <p rend="justify"> </p>
+            <p rend="justify">BY</p>
+            <p rend="justify">ROBERT LOUIS STEVENSON</p>
+            <p rend="justify">Decorative graphic</p>
+            <p rend="justify">
+               <hi rend="italic">SECOND EDITION</hi>
+            </p>
+            <p rend="justify"> </p>
+            <p rend="justify">LONDON<lb/>CHATTO &amp; WINDUS, PICCADILLY</p>
+            <p rend="justify">1895</p>
+            <p rend="justify"> </p>
+            <pb/>
+            <div type="div2">
+               <head>CONTENTS</head>
+               <p rend="justify">The Song of Rahéro: A Legend of Tahiti—</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Dedication: To Ori a Ori</p>
+               <p rend="justify">1</p>
+               <p rend="justify"> </p>
+               <p rend="justify">I.</p>
+               <p rend="justify">The Slaying of Támatéa</p>
+               <p rend="justify">3</p>
+               <p rend="justify"> </p>
+               <p rend="justify">II.</p>
+               <p rend="justify">The Venging of Támatéa</p>
+               <p rend="justify">20</p>
+               <p rend="justify"> </p>
+               <p rend="justify">III.</p>
+               <p rend="justify">Rahéro</p>
+               <p rend="justify">40</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Notes to the Song of Rahéro</p>
+               <p rend="justify">55</p>
+               <p rend="justify">The Feast of Famine: Marquesan Manners—</p>
+               <p rend="justify"> </p>
+               <p rend="justify">I.</p>
+               <p rend="justify">The Priest’s Vigil</p>
+               <p rend="justify">61</p>
+               <p rend="justify"> </p>
+               <p rend="justify">II.</p>
+               <p rend="justify">The Lovers</p>
+               <p rend="justify">67</p>
+               <p rend="justify"> </p>
+               <p rend="justify">III.</p>
+               <p rend="justify">The Feast</p>
+               <p rend="justify">75</p>
+               <p rend="justify"> </p>
+               <p rend="justify">IV.</p>
+               <p rend="justify">The Raid</p>
+               <p rend="justify">86</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Notes to the Feast of Famine</p>
+               <p rend="justify">95</p>
+               <p rend="justify">Ticonderoga: A Legend of the West Highlands—</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Ticonderoga</p>
+               <p rend="justify">99</p>
+               <p rend="justify"> </p>
+               <p rend="justify">I.</p>
+               <p rend="justify">The Saying of the Name</p>
+               <p rend="justify">100</p>
+               <p rend="justify"> </p>
+               <p rend="justify">II.</p>
+               <p rend="justify">The Seeking of the Name</p>
+               <p rend="justify">109</p>
+               <p rend="justify"> </p>
+               <p rend="justify">III.</p>
+               <p rend="justify">The Place of the Name</p>
+               <p rend="justify">113</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Notes to Ticonderoga</p>
+               <p rend="justify">119</p>
+               <p rend="justify">Heather Ale: A Galloway Legend—</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Heather Ale</p>
+               <p rend="justify">123</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Note to Heather Ale</p>
+               <p rend="justify">129</p>
+               <p rend="justify">Christmas At Sea—</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Christmas At Sea</p>
+               <p rend="justify">133</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE SONG OF RAHÉRO<lb/>A LEGEND OF TAHITI</head>
+               <div type="div3">
+                  <head>TO ORI A ORI</head>
+                  <lg>
+                     <l>Ori, my brother in the island mode,</l>
+                     <l>In every tongue and meaning much my friend,</l>
+                     <l>This story of your country and your clan,</l>
+                     <l>In your loved house, your too much honoured guest,</l>
+                     <l>I made in English.  Take it, being done;</l>
+                     <l>And let me sign it with the name you gave.</l>
+                  </lg>
+                  <p rend="justify">Teriitera.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>I.</label>THE SLAYING OF TÁMATÉA</head>
+                  <lg>
+                     <l>It fell in the days of old, as the men of Taiárapu tell,</l>
+                     <l>A youth went forth to the fishing, and fortune favoured him well.</l>
+                     <l>Támatéa his name: gullible, simple, and kind,</l>
+                     <l>Comely of countenance, nimble of body, empty of mind,</l>
+                     <l>His mother ruled him and loved him beyond the wont of a wife,</l>
+                     <l>Serving the lad for eyes and living herself in his life.</l>
+                     <l>Alone from the sea and the fishing came Támatéa the fair,</l>
+                     <l>Urging his boat to the beach, and the mother awaited him there,</l>
+                     <l>—“Long may you live!” said she.  “Your fishing has sped to a wish.</l>
+                     <l>And now let us choose for the king the fairest of all your fish.</l>
+                     <l>For fear inhabits the palace and grudging grows in the land,</l>
+                     <l>Marked is the sluggardly foot and marked the niggardly hand,</l>
+                     <l>The hours and the miles are counted, the tributes numbered and weighed,</l>
+                     <l>And woe to him that comes short, and woe to him that delayed!”</l>
+                  </lg>
+                  <lg>
+                     <l>So spoke on the beach the mother, and counselled the wiser thing.</l>
+                     <l>For Rahéro stirred in the country and secretly mined the king.</l>
+                     <l>Nor were the signals wanting of how the leaven wrought,</l>
+                     <l>In the cords of obedience loosed and the tributes grudgingly brought.</l>
+                     <l>And when last to the temple of Oro the boat with the victim sped,</l>
+                     <l>And the priest uncovered the basket and looked on the face of the dead,</l>
+                     <l>Trembling fell upon all at sight of an ominous thing,</l>
+                     <l>For there was the aito [5]  dead, and he of the house of the king.</l>
+                  </lg>
+                  <lg>
+                     <l>So spake on the beach the mother, matter worthy of note,</l>
+                     <l>And wattled a basket well, and chose a fish from the boat;</l>
+                     <l>And Támatéa the pliable shouldered the basket and went,</l>
+                     <l>And travelled, and sang as he travelled, a lad that was well content.</l>
+                     <l>Still the way of his going was round by the roaring coast,</l>
+                     <l>Where the ring of the reef is broke and the trades run riot the most.</l>
+                     <l>On his left, with smoke as of battle, the billows battered the land;</l>
+                     <l>Unscalable, turreted mountains rose on the inner hand.</l>
+                     <l>And cape, and village, and river, and vale, and mountain above,</l>
+                     <l>Each had a name in the land for men to remember and love;</l>
+                     <l>And never the name of a place, but lo! a song in its praise:</l>
+                     <l>Ancient and unforgotten, songs of the earlier days,</l>
+                     <l>That the elders taught to the young, and at night, in the full of the moon,</l>
+                     <l>Garlanded boys and maidens sang together in tune.</l>
+                     <l>Támatéa the placable went with a lingering foot;</l>
+                     <l>He sang as loud as a bird, he whistled hoarse as a flute;</l>
+                     <l>He broiled in the sun, he breathed in the grateful shadow of trees,</l>
+                     <l>In the icy stream of the rivers he waded over the knees;</l>
+                     <l>And still in his empty mind crowded, a thousand-fold,</l>
+                     <l>The deeds of the strong and the songs of the cunning heroes of old.</l>
+                  </lg>
+                  <lg>
+                     <l>And now was he come to a place Taiárapu honoured the most,</l>
+                     <l>Where a silent valley of woods debouched on the noisy coast,</l>
+                     <l>Spewing a level river.  There was a haunt of Pai. [7]</l>
+                     <l>There, in his potent youth, when his parents drove him to die,</l>
+                     <l>Honoura lived like a beast, lacking the lamp and the fire,</l>
+                     <l>Washed by the rains of the trade and clotting his hair in the mire;</l>
+                     <l>And there, so mighty his hands, he bent the tree to his foot—</l>
+                     <l>So keen the spur of his hunger, he plucked it naked of fruit.</l>
+                     <l>There, as she pondered the clouds for the shadow of coming ills,</l>
+                     <l>Ahupu, the woman of song, walked on high on the hills.</l>
+                  </lg>
+                  <lg>
+                     <l>Of these was Rahéro sprung, a man of a godly race;</l>
+                     <l>And inherited cunning of spirit and beauty of body and face.</l>
+                     <l>Of yore in his youth, as an aito, Rahéro wandered the land,</l>
+                     <l>Delighting maids with his tongue, smiting men with his hand.</l>
+                     <l>Famous he was in his youth; but before the midst of his life</l>
+                     <l>Paused, and fashioned a song of farewell to glory and strife.</l>
+                  </lg>
+                  <lg>
+                     <l>   <hi rend="italic">House of mine</hi>  (<hi rend="italic">it went</hi>), <hi rend="italic">house upon the sea</hi>,</l>
+                     <l>   <hi rend="italic">Belov’d of all my fathers</hi>, <hi rend="italic">more belov’d by me</hi>!</l>
+                     <l>   <hi rend="italic">Vale of the strong Honoura</hi>, <hi rend="italic">deep ravine of Pai</hi>,</l>
+                     <l>   <hi rend="italic">Again in your woody summits I hear the trade-wind cry</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>   <hi rend="italic">House of mine</hi>, <hi rend="italic">in your walls</hi>, <hi rend="italic">strong sounds the sea</hi>,</l>
+                     <l>   <hi rend="italic">Of all sounds on earth</hi>, <hi rend="italic">dearest sound to me</hi>.</l>
+                     <l>   <hi rend="italic">I have heard the applause of men</hi>, <hi rend="italic">I have heard it arise and die</hi>:</l>
+                     <l>   <hi rend="italic">Sweeter now in my house I hear the trade-wind cry</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>These were the words of his singing, other the thought of his heart;</l>
+                     <l>For secret desire of glory vexed him, dwelling apart.</l>
+                     <l>Lazy and crafty he was, and loved to lie in the sun,</l>
+                     <l>And loved the cackle of talk and the true word uttered in fun;</l>
+                     <l>Lazy he was, his roof was ragged, his table was lean,</l>
+                     <l>And the fish swam safe in his sea, and he gathered the near and the green.</l>
+                     <l>He sat in his house and laughed, but he loathed the king of the land,</l>
+                     <l>And he uttered the grudging word under the covering hand.</l>
+                     <l>Treason spread from his door; and he looked for a day to come,</l>
+                     <l>A day of the crowding people, a day of the summoning drum,</l>
+                     <l>When the vote should be taken, the king be driven forth in disgrace,</l>
+                     <l>And Rahéro, the laughing and lazy, sit and rule in his place,</l>
+                     <l>Here Támatéa came, and beheld the house on the brook;</l>
+                     <l>And Rahéro was there by the way and covered an oven to cook. [10a]</l>
+                     <l>Naked he was to the loins, but the tattoo covered the lack,</l>
+                     <l>And the sun and the shadow of palms dappled his muscular back.</l>
+                     <l>Swiftly he lifted his head at the fall of the coming feet,</l>
+                     <l>And the water sprang in his mouth with a sudden desire of meat;</l>
+                     <l>For he marked the basket carried, covered from flies and the sun; [10b]</l>
+                     <l>And Rahéro buried his fire, but the meat in his house was done.</l>
+                  </lg>
+                  <lg>
+                     <l>Forth he stepped; and took, and delayed the boy, by the hand;</l>
+                     <l>And vaunted the joys of meat and the ancient ways of the land:</l>
+                     <l>—“Our sires of old in Taiárapu, they that created the race,</l>
+                     <l>Ate ever with eager hand, nor regarded season or place,</l>
+                     <l>Ate in the boat at the oar, on the way afoot; and at night</l>
+                     <l>Arose in the midst of dreams to rummage the house for a bite.</l>
+                     <l>It is good for the youth in his turn to follow the way of the sire;</l>
+                     <l>And behold how fitting the time! for here do I cover my fire.”</l>
+                     <l>—“I see the fire for the cooking but never the meat to cook,”</l>
+                     <l>Said Támatéa.—“Tut!” said Rahéro.  “Here in the brook</l>
+                     <l>And there in the tumbling sea, the fishes are thick as flies,</l>
+                     <l>Hungry like healthy men, and like pigs for savour and size:</l>
+                     <l>Crayfish crowding the river, sea-fish thronging the sea.”</l>
+                     <l>—“Well it may be,” says the other, “and yet be nothing to me.</l>
+                     <l>Fain would I eat, but alas!  I have needful matter in hand,</l>
+                     <l>Since I carry my tribute of fish to the jealous king of the land.”</l>
+                  </lg>
+                  <lg>
+                     <l>Now at the word a light sprang in Rahéro’s eyes.</l>
+                     <l>“I will gain me a dinner,” thought he, “and lend the king a surprise.”</l>
+                     <l>And he took the lad by the arm, as they stood by the side of the track,</l>
+                     <l>And smiled, and rallied, and flattered, and pushed him forward and back.</l>
+                     <l>It was “You that sing like a bird, I never have heard you sing,”</l>
+                     <l>And “The lads when I was a lad were none so feared of a king.</l>
+                     <l>And of what account is an hour, when the heart is empty of guile?</l>
+                     <l>But come, and sit in the house and laugh with the women awhile;</l>
+                     <l>And I will but drop my hook, and behold! the dinner made.”</l>
+                  </lg>
+                  <lg>
+                     <l>So Támatéa the pliable hung up his fish in the shade</l>
+                     <l>On a tree by the side of the way; and Rahéro carried him in,</l>
+                     <l>Smiling as smiles the fowler when flutters the bird to the gin,</l>
+                     <l>And chose him a shining hook, [13]  and viewed it with sedulous eye,</l>
+                     <l>And breathed and burnished it well on the brawn of his naked thigh,</l>
+                     <l>And set a mat for the gull, and bade him be merry and bide,</l>
+                     <l>Like a man concerned for his guest, and the fishing, and nothing beside.</l>
+                  </lg>
+                  <lg>
+                     <l>Now when Rahéro was forth, he paused and hearkened, and heard</l>
+                     <l>The gull jest in the house and the women laugh at his word;</l>
+                     <l>And stealthily crossed to the side of the way, to the shady place</l>
+                     <l>Where the basket hung on a mango; and craft transfigured his face.</l>
+                     <l>Deftly he opened the basket, and took of the fat of the fish,</l>
+                     <l>The cut of kings and chieftains, enough for a goodly dish.</l>
+                     <l>This he wrapped in a leaf, set on the fire to cook</l>
+                     <l>And buried; and next the marred remains of the tribute he took,</l>
+                     <l>And doubled and packed them well, and covered the basket close</l>
+                     <l>—“There is a buffet, my king,” quoth he, “and a nauseous dose!”—</l>
+                     <l>And hung the basket again in the shade, in a cloud of flies</l>
+                     <l>—“And there is a sauce to your dinner, king of the crafty eyes!”</l>
+                  </lg>
+                  <lg>
+                     <l>Soon as the oven was open, the fish smelt excellent good.</l>
+                     <l>In the shade, by the house of Rahéro, down they sat to their food,</l>
+                     <l>And cleared the leaves [14]  in silence, or uttered a jest and laughed,</l>
+                     <l>And raising the cocoanut bowls, buried their faces and quaffed.</l>
+                     <l>But chiefly in silence they ate; and soon as the meal was done,</l>
+                     <l>Rahéro feigned to remember and measured the hour by the sun,</l>
+                     <l>And “Támatéa,” quoth he, “it is time to be jogging, my lad.”</l>
+                  </lg>
+                  <lg>
+                     <l>So Támatéa arose, doing ever the thing he was bade,</l>
+                     <l>And carelessly shouldered the basket, and kindly saluted his host;</l>
+                     <l>And again the way of his going was round by the roaring coast.</l>
+                     <l>Long he went; and at length was aware of a pleasant green,</l>
+                     <l>And the stems and shadows of palms, and roofs of lodges between</l>
+                     <l>There sate, in the door of his palace, the king on a kingly seat,</l>
+                     <l>And aitos stood armed around, and the yottowas [16]  sat at his feet.</l>
+                     <l>But fear was a worm in his heart: fear darted his eyes;</l>
+                     <l>And he probed men’s faces for treasons and pondered their speech for lies.</l>
+                     <l>To him came Támatéa, the basket slung in his hand,</l>
+                     <l>And paid him the due obeisance standing as vassals stand.</l>
+                     <l>In silence hearkened the king, and closed the eyes in his face,</l>
+                     <l>Harbouring odious thoughts and the baseless fears of the base;</l>
+                     <l>In silence accepted the gift and sent the giver away.</l>
+                     <l>So Támatéa departed, turning his back on the day.</l>
+                  </lg>
+                  <lg>
+                     <l>And lo! as the king sat brooding, a rumour rose in the crowd;</l>
+                     <l>The yottowas nudged and whispered, the commons murmured aloud;</l>
+                     <l>Tittering fell upon all at sight of the impudent thing,</l>
+                     <l>At the sight of a gift unroyal flung in the face of a king.</l>
+                     <l>And the face of the king turned white and red with anger and shame</l>
+                     <l>In their midst; and the heart in his body was water and then was flame;</l>
+                     <l>Till of a sudden, turning, he gripped an aito hard,</l>
+                     <l>A youth that stood with his ómare, [17]  one of the daily guard,</l>
+                     <l>And spat in his ear a command, and pointed and uttered a name,</l>
+                     <l>And hid in the shade of the house his impotent anger and shame.</l>
+                  </lg>
+                  <lg>
+                     <l>Now Támatéa the fool was far on the homeward way,</l>
+                     <l>The rising night in his face, behind him the dying day.</l>
+                     <l>Rahéro saw him go by, and the heart of Rahéro was glad,</l>
+                     <l>Devising shame to the king and nowise harm to the lad;</l>
+                     <l>And all that dwelt by the way saw and saluted him well,</l>
+                     <l>For he had the face of a friend and the news of the town to tell;</l>
+                     <l>And pleased with the notice of folk, and pleased that his journey was done,</l>
+                     <l>Támatéa drew homeward, turning his back to the sun.</l>
+                  </lg>
+                  <lg>
+                     <l>And now was the hour of the bath in Taiárapu: far and near</l>
+                     <l>The lovely laughter of bathers rose and delighted his ear.</l>
+                     <l>Night massed in the valleys; the sun on the mountain coast</l>
+                     <l>Struck, end-long; and above the clouds embattled their host,</l>
+                     <l>And glowed and gloomed on the heights; and the heads of the palms were gems,</l>
+                     <l>And far to the rising eve extended the shade of their stems;</l>
+                     <l>And the shadow of Támatéa hovered already at home.</l>
+                  </lg>
+                  <lg>
+                     <l>And sudden the sound of one coming and running light as the foam</l>
+                     <l>Struck on his ear; and he turned, and lo! a man on his track,</l>
+                     <l>Girded and armed with an ómare, following hard at his back.</l>
+                     <l>At a bound the man was upon him;—and, or ever a word was said,</l>
+                     <l>The loaded end of the ómare fell and laid him dead.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II.</label>THE VENGING OF TÁMATÉA</head>
+                  <p rend="justify">Thus was Rahéro’s treason; thus and no further it sped<lb/>The king sat safe in his place and a kindly fool was dead.</p>
+                  <lg>
+                     <l>But the mother of Támatéa arose with death in her eyes.</l>
+                     <l>All night long, and the next, Taiárapu rang with her cries.</l>
+                     <l>As when a babe in the wood turns with a chill of doubt</l>
+                     <l>And perceives nor home, nor friends, for the trees have closed her about,</l>
+                     <l>The mountain rings and her breast is torn with the voice of despair:</l>
+                     <l>So the lion-like woman idly wearied the air</l>
+                     <l>For awhile, and pierced men’s hearing in vain, and wounded their hearts.</l>
+                     <l>But as when the weather changes at sea, in dangerous parts,</l>
+                     <l>And sudden the hurricane wrack unrolls up the front of the sky,</l>
+                     <l>At once the ship lies idle, the sails hang silent on high,</l>
+                     <l>The breath of the wind that blew is blown out like the flame of a lamp,</l>
+                     <l>And the silent armies of death draw near with inaudible tramp:</l>
+                     <l>So sudden, the voice of her weeping ceased; in silence she rose</l>
+                     <l>And passed from the house of her sorrow, a woman clothed with repose,</l>
+                     <l>Carrying death in her breast and sharpening death with her hand.</l>
+                  </lg>
+                  <lg>
+                     <l>Hither she went and thither in all the coasts of the land.</l>
+                     <l>They tell that she feared not to slumber alone, in the dead of night,</l>
+                     <l>In accursed places; beheld, unblenched, the ribbon of light [21]</l>
+                     <l>Spin from temple to temple; guided the perilous skiff,</l>
+                     <l>Abhorred not the paths of the mountain and trod the verge of the cliff;</l>
+                     <l>From end to end of the island, thought not the distance long,</l>
+                     <l>But forth from king to king carried the tale of her wrong.</l>
+                     <l>To king after king, as they sat in the palace door, she came,</l>
+                     <l>Claiming kinship, declaiming verses, naming her name</l>
+                     <l>And the names of all of her fathers; and still, with a heart on the rack,</l>
+                     <l>Jested to capture a hearing and laughed when they jested back:</l>
+                     <l>So would deceive them awhile, and change and return in a breath,</l>
+                     <l>And on all the men of Vaiau imprecate instant death;</l>
+                     <l>And tempt her kings—for Vaiau was a rich and prosperous land,</l>
+                     <l>And flatter—for who would attempt it but warriors mighty of hand?</l>
+                     <l>And change in a breath again and rise in a strain of song,</l>
+                     <l>Invoking the beaten drums, beholding the fall of the strong,</l>
+                     <l>Calling the fowls of the air to come and feast on the dead.</l>
+                     <l>And they held the chin in silence, and heard her, and shook the head;</l>
+                     <l>For they knew the men of Taiárapu famous in battle and feast,</l>
+                     <l>Marvellous eaters and smiters: the men of Vaiau not least.</l>
+                  </lg>
+                  <lg>
+                     <l>To the land of the Námunu-úra, [23a]  to Paea, at length she came,</l>
+                     <l>To men who were foes to the Tevas and hated their race and name.</l>
+                     <l>There was she well received, and spoke with Hiopa the king. [23b]</l>
+                     <l>And Hiopa listened, and weighed, and wisely considered the thing.</l>
+                     <l>“Here in the back of the isle we dwell in a sheltered place,”</l>
+                     <l>Quoth he to the woman, “in quiet, a weak and peaceable race.</l>
+                     <l>But far in the teeth of the wind lofty Taiárapu lies;</l>
+                     <l>Strong blows the wind of the trade on its seaward face, and cries</l>
+                     <l>Aloud in the top of arduous mountains, and utters its song</l>
+                     <l>In green continuous forests.  Strong is the wind, and strong</l>
+                     <l>And fruitful and hardy the race, famous in battle and feast,</l>
+                     <l>Marvellous eaters and smiters: the men of Vaiau not least.</l>
+                     <l>Now hearken to me, my daughter, and hear a word of the wise:</l>
+                     <l>How a strength goes linked with a weakness, two by two, like the eyes.</l>
+                     <l>They can wield the ómare well and cast the javelin far;</l>
+                     <l>Yet are they greedy and weak as the swine and the children are.</l>
+                     <l>Plant we, then, here at Paea, a garden of excellent fruits;</l>
+                     <l>Plant we bananas and kava and taro, the king of roots;</l>
+                     <l>Let the pigs in Paea be tapu [25]  and no man fish for a year;</l>
+                     <l>And of all the meat in Tahiti gather we threefold here.</l>
+                     <l>So shall the fame of our plenty fill the island, and so,</l>
+                     <l>At last, on the tongue of rumour, go where we wish it to go.</l>
+                     <l>Then shall the pigs of Taiárapu raise their snouts in the air;</l>
+                     <l>But we sit quiet and wait, as the fowler sits by the snare,</l>
+                     <l>And tranquilly fold our hands, till the pigs come nosing the food:</l>
+                     <l>But meanwhile build us a house of Trotéa, the stubborn wood,</l>
+                     <l>Bind it with incombustible thongs, set a roof to the room,</l>
+                     <l>Too strong for the hands of a man to dissever or fire to consume;</l>
+                     <l>And there, when the pigs come trotting, there shall the feast be spread,</l>
+                     <l>There shall the eye of the morn enlighten the feasters dead.</l>
+                     <l>So be it done; for I have a heart that pities your state,</l>
+                     <l>And Nateva and Námunu-úra are fire and water for hate.”</l>
+                  </lg>
+                  <lg>
+                     <l>All was done as he said, and the gardens prospered; and now</l>
+                     <l>The fame of their plenty went out, and word of it came to Vaiau.</l>
+                     <l>For the men of Námunu-úra sailed, to the windward far,</l>
+                     <l>Lay in the offing by south where the towns of the Tevas are,</l>
+                     <l>And cast overboard of their plenty; and lo! at the Tevas feet</l>
+                     <l>The surf on all of the beaches tumbled treasures of meat.</l>
+                     <l>In the salt of the sea, a harvest tossed with the refluent foam;</l>
+                     <l>And the children gleaned it in playing, and ate and carried it home;</l>
+                     <l>And the elders stared and debated, and wondered and passed the jest,</l>
+                     <l>But whenever a guest came by eagerly questioned the guest;</l>
+                     <l>And little by little, from one to another, the word went round:</l>
+                     <l>“In all the borders of Paea the victual rots on the ground,</l>
+                     <l>And swine are plenty as rats.  And now, when they fare to the sea,</l>
+                     <l>The men of the Námunu-úra glean from under the tree</l>
+                     <l>And load the canoe to the gunwale with all that is toothsome to eat;</l>
+                     <l>And all day long on the sea the jaws are crushing the meat,</l>
+                     <l>The steersman eats at the helm, the rowers munch at the oar,</l>
+                     <l>And at length, when their bellies are full, overboard with the store!”</l>
+                     <l>Now was the word made true, and soon as the bait was bare,</l>
+                     <l>All the pigs of Taiárapu raised their snouts in the air.</l>
+                     <l>Songs were recited, and kinship was counted, and tales were told</l>
+                     <l>How war had severed of late but peace had cemented of old</l>
+                     <l>The clans of the island.  “To war,” said they, “now set we an end,</l>
+                     <l>And hie to the Námunu-úra even as a friend to a friend.”</l>
+                  </lg>
+                  <lg>
+                     <l>So judged, and a day was named; and soon as the morning broke,</l>
+                     <l>Canoes were thrust in the sea and the houses emptied of folk.</l>
+                     <l>Strong blew the wind of the south, the wind that gathers the clan;</l>
+                     <l>Along all the line of the reef the clamorous surges ran;</l>
+                     <l>And the clouds were piled on the top of the island mountain-high,</l>
+                     <l>A mountain throned on a mountain.  The fleet of canoes swept by</l>
+                     <l>In the midst, on the green lagoon, with a crew released from care,</l>
+                     <l>Sailing an even water, breathing a summer air,</l>
+                     <l>Cheered by a cloudless sun; and ever to left and right,</l>
+                     <l>Bursting surge on the reef, drenching storms on the height.</l>
+                     <l>So the folk of Vaiau sailed and were glad all day,</l>
+                     <l>Coasting the palm-tree cape and crossing the populous bay</l>
+                     <l>By all the towns of the Tevas; and still as they bowled along,</l>
+                     <l>Boat would answer to boat with jest and laughter and song,</l>
+                     <l>And the people of all the towns trooped to the sides of the sea</l>
+                     <l>And gazed from under the hand or sprang aloft on the tree,</l>
+                     <l>Hailing and cheering.  Time failed them for more to do;</l>
+                     <l>The holiday village careened to the wind, and was gone from view</l>
+                     <l>Swift as a passing bird; and ever as onward it bore,</l>
+                     <l>Like the cry of the passing bird, bequeathed its song to the shore—</l>
+                     <l>Desirable laughter of maids and the cry of delight of the child.</l>
+                     <l>And the gazer, left behind, stared at the wake and smiled.</l>
+                     <l>By all the towns of the Tevas they went, and Pápara last,</l>
+                     <l>The home of the chief, the place of muster in war; and passed</l>
+                     <l>The march of the lands of the clan, to the lands of an alien folk.</l>
+                     <l>And there, from the dusk of the shoreside palms, a column of smoke</l>
+                     <l>Mounted and wavered and died in the gold of the setting sun,</l>
+                     <l>“Paea!” they cried.  “It is Paea.”  And so was the voyage done.</l>
+                  </lg>
+                  <lg>
+                     <l>In the early fall of the night, Hiopa came to the shore,</l>
+                     <l>And beheld and counted the comers, and lo, they were forty score:</l>
+                     <l>The pelting feet of the babes that ran already and played,</l>
+                     <l>The clean-lipped smile of the boy, the slender breasts of the maid,</l>
+                     <l>And mighty limbs of women, stalwart mothers of men.</l>
+                     <l>The sires stood forth unabashed; but a little back from his ken</l>
+                     <l>Clustered the scarcely nubile, the lads and maids, in a ring,</l>
+                     <l>Fain of each other, afraid of themselves, aware of the king</l>
+                     <l>And aping behaviour, but clinging together with hands and eyes,</l>
+                     <l>With looks that were kind like kisses, and laughter tender as sighs.</l>
+                     <l>There, too, the grandsire stood, raising his silver crest,</l>
+                     <l>And the impotent hands of a suckling groped in his barren breast.</l>
+                     <l>The childhood of love, the pair well married, the innocent brood,</l>
+                     <l>The tale of the generations repeated and ever renewed—</l>
+                     <l>Hiopa beheld them together, all the ages of man,</l>
+                     <l>And a moment shook in his purpose.</l>
+                  </lg>
+                  <lg>
+                     <l>         But these were the foes of his clan,</l>
+                     <l>And he trod upon pity, and came, and civilly greeted the king,</l>
+                     <l>And gravely entreated Rahéro; and for all that could fight or sing,</l>
+                     <l>And claimed a name in the land, had fitting phrases of praise;</l>
+                     <l>But with all who were well-descended he spoke of the ancient days.</l>
+                     <l>And “’Tis true,” said he, “that in Paea the victual rots on the ground;</l>
+                     <l>But, friends, your number is many; and pigs must be hunted and found,</l>
+                     <l>And the lads troop to the mountains to bring the féis down,</l>
+                     <l>And around the bowls of the kava cluster the maids of the town.</l>
+                     <l>So, for to-night, sleep here; but king, common, and priest</l>
+                     <l>To-morrow, in order due, shall sit with me in the feast.”</l>
+                     <l>Sleepless the live-long night, Hiopa’s followers toiled.</l>
+                     <l>The pigs screamed and were slaughtered; the spars of the guest-house oiled,</l>
+                     <l>The leaves spread on the floor.  In many a mountain glen</l>
+                     <l>The moon drew shadows of trees on the naked bodies of men</l>
+                     <l>Plucking and bearing fruits; and in all the bounds of the town</l>
+                     <l>Red glowed the cocoanut fires, and were buried and trodden down.</l>
+                     <l>Thus did seven of the yottowas toil with their tale of the clan,</l>
+                     <l>But the eighth wrought with his lads, hid from the sight of man.</l>
+                     <l>In the deeps of the woods they laboured, piling the fuel high</l>
+                     <l>In fagots, the load of a man, fuel seasoned and dry,</l>
+                     <l>Thirsty to seize upon fire and apt to blurt into flame.</l>
+                  </lg>
+                  <lg>
+                     <l>And now was the day of the feast.  The forests, as morning came,</l>
+                     <l>Tossed in the wind, and the peaks quaked in the blaze of the day</l>
+                     <l>And the cocoanuts showered on the ground, rebounding and rolling away:</l>
+                     <l>A glorious morn for a feast, a famous wind for a fire.</l>
+                     <l>To the hall of feasting Hiopa led them, mother and sire</l>
+                     <l>And maid and babe in a tale, the whole of the holiday throng.</l>
+                     <l>Smiling they came, garlanded green, not dreaming of wrong;</l>
+                     <l>And for every three, a pig, tenderly cooked in the ground,</l>
+                     <l>Waited, and féi, the staff of life, heaped in a mound</l>
+                     <l>For each where he sat;—for each, bananas roasted and raw</l>
+                     <l>Piled with a bountiful hand, as for horses hay and straw</l>
+                     <l>Are stacked in a stable; and fish, the food of desire, [34]</l>
+                     <l>And plentiful vessels of sauce, and breadfruit gilt in the fire;—</l>
+                     <l>And kava was common as water.  Feasts have there been ere now,</l>
+                     <l>And many, but never a feast like that of the folk of Vaiau.</l>
+                  </lg>
+                  <lg>
+                     <l>All day long they ate with the resolute greed of brutes,</l>
+                     <l>And turned from the pigs to the fish, and again from the fish to the fruits,</l>
+                     <l>And emptied the vessels of sauce, and drank of the kava deep;</l>
+                     <l>Till the young lay stupid as stones, and the strongest nodded to sleep.</l>
+                     <l>Sleep that was mighty as death and blind as a moonless night</l>
+                     <l>Tethered them hand and foot; and their souls were drowned, and the light</l>
+                     <l>Was cloaked from their eyes.  Senseless together, the old and the young,</l>
+                     <l>The fighter deadly to smite and the prater cunning of tongue,</l>
+                     <l>The woman wedded and fruitful, inured to the pangs of birth,</l>
+                     <l>And the maid that knew not of kisses, blindly sprawled on the earth.</l>
+                     <l>From the hall Hiopa the king and his chiefs came stealthily forth.</l>
+                     <l>Already the sun hung low and enlightened the peaks of the north;</l>
+                     <l>But the wind was stubborn to die and blew as it blows at morn,</l>
+                     <l>Showering the nuts in the dusk, and e’en as a banner is torn,</l>
+                     <l>High on the peaks of the island, shattered the mountain cloud.</l>
+                     <l>And now at once, at a signal, a silent, emulous crowd</l>
+                     <l>Set hands to the work of death, hurrying to and fro,</l>
+                     <l>Like ants, to furnish the fagots, building them broad and low,</l>
+                     <l>And piling them high and higher around the walls of the hall.</l>
+                     <l>Silence persisted within, for sleep lay heavy on all;</l>
+                     <l>But the mother of Támatéa stood at Hiopa’s side,</l>
+                     <l>And shook for terror and joy like a girl that is a bride.</l>
+                     <l>Night fell on the toilers, and first Hiopa the wise</l>
+                     <l>Made the round of the house, visiting all with his eyes;</l>
+                     <l>And all was piled to the eaves, and fuel blockaded the door;</l>
+                     <l>And within, in the house beleaguered, slumbered the forty score.</l>
+                     <l>Then was an aito dispatched and came with fire in his hand,</l>
+                     <l>And Hiopa took it.—“Within,” said he, “is the life of a land;</l>
+                     <l>And behold!  I breathe on the coal, I breathe on the dales of the east,</l>
+                     <l>And silence falls on forest and shore; the voice of the feast</l>
+                     <l>Is quenched, and the smoke of cooking; the rooftree decays and falls</l>
+                     <l>On the empty lodge, and the winds subvert deserted walls.”</l>
+                  </lg>
+                  <lg>
+                     <l>Therewithal, to the fuel, he laid the glowing coal;</l>
+                     <l>And the redness ran in the mass and burrowed within like a mole,</l>
+                     <l>And copious smoke was conceived.  But, as when a dam is to burst,</l>
+                     <l>The water lips it and crosses in silver trickles at first,</l>
+                     <l>And then, of a sudden, whelms and bears it away forthright:</l>
+                     <l>So now, in a moment, the flame sprang and towered in the night,</l>
+                     <l>And wrestled and roared in the wind, and high over house and tree,</l>
+                     <l>Stood, like a streaming torch, enlightening land and sea.</l>
+                  </lg>
+                  <lg>
+                     <l>But the mother of Támatéa threw her arms abroad,</l>
+                     <l>“Pyre of my son,” she shouted, “debited vengeance of God,</l>
+                     <l>Late, late, I behold you, yet I behold you at last,</l>
+                     <l>And glory, beholding!  For now are the days of my agony past,</l>
+                     <l>The lust that famished my soul now eats and drinks its desire,</l>
+                     <l>And they that encompassed my son shrivel alive in the fire.</l>
+                     <l>Tenfold precious the vengeance that comes after lingering years!</l>
+                     <l>Ye quenched the voice of my singer?—hark, in your dying ears,</l>
+                     <l>The song of the conflagration!  Ye left me a widow alone?</l>
+                     <l>—Behold, the whole of your race consumes, sinew and bone</l>
+                     <l>And torturing flesh together: man, mother, and maid</l>
+                     <l>Heaped in a common shambles; and already, borne by the trade,</l>
+                     <l>The smoke of your dissolution darkens the stars of night.”</l>
+                  </lg>
+                  <p rend="justify">Thus she spoke, and her stature grew in the people’s sight.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III.</label>RAHÉRO</head>
+                  <lg>
+                     <l>Rahéro was there in the hall asleep: beside him his wife,</l>
+                     <l>Comely, a mirthful woman, one that delighted in life;</l>
+                     <l>And a girl that was ripe for marriage, shy and sly as a mouse;</l>
+                     <l>And a boy, a climber of trees: all the hopes of his house.</l>
+                     <l>Unwary, with open hands, he slept in the midst of his folk,</l>
+                     <l>And dreamed that he heard a voice crying without, and awoke,</l>
+                     <l>Leaping blindly afoot like one from a dream that he fears.</l>
+                     <l>A hellish glow and clouds were about him;—it roared in his ears</l>
+                     <l>Like the sound of the cataract fall that plunges sudden and steep;</l>
+                     <l>And Rahéro swayed as he stood, and his reason was still asleep.</l>
+                     <l>Now the flame struck hard on the house, wind-wielded, a fracturing blow,</l>
+                     <l>And the end of the roof was burst and fell on the sleepers below;</l>
+                     <l>And the lofty hall, and the feast, and the prostrate bodies of folk,</l>
+                     <l>Shone red in his eyes a moment, and then were swallowed of smoke.</l>
+                     <l>In the mind of Rahéro clearness came; and he opened his throat;</l>
+                     <l>And as when a squall comes sudden, the straining sail of a boat</l>
+                     <l>Thunders aloud and bursts, so thundered the voice of the man.</l>
+                     <l>—“The wind and the rain!” he shouted, the mustering word of the clan, [41]</l>
+                     <l>And “up!” and “to arms men of Vaiau!”  But silence replied,</l>
+                     <l>Or only the voice of the gusts of the fire, and nothing beside.</l>
+                  </lg>
+                  <lg>
+                     <l>Rahéro stooped and groped.  He handled his womankind,</l>
+                     <l>But the fumes of the fire and the kava had quenched the life of their mind,</l>
+                     <l>And they lay like pillars prone; and his hand encountered the boy,</l>
+                     <l>And there sprang in the gloom of his soul a sudden lightning of joy.</l>
+                     <l>“Him can I save!” he thought, “if I were speedy enough.”</l>
+                     <l>And he loosened the cloth from his loins, and swaddled the child in the stuff;</l>
+                     <l>And about the strength of his neck he knotted the burden well.</l>
+                  </lg>
+                  <lg>
+                     <l>There where the roof had fallen, it roared like the mouth of hell.</l>
+                     <l>Thither Rahéro went, stumbling on senseless folk,</l>
+                     <l>And grappled a post of the house, and began to climb in the smoke:</l>
+                     <l>The last alive of Vaiau; and the son borne by the sire.</l>
+                     <l>The post glowed in the grain with ulcers of eating fire,</l>
+                     <l>And the fire bit to the blood and mangled his hands and thighs;</l>
+                     <l>And the fumes sang in his head like wine and stung in his eyes;</l>
+                     <l>And still he climbed, and came to the top, the place of proof,</l>
+                     <l>And thrust a hand through the flame, and clambered alive on the roof.</l>
+                     <l>But even as he did so, the wind, in a garment of flames and pain,</l>
+                     <l>Wrapped him from head to heel; and the waistcloth parted in twain;</l>
+                     <l>And the living fruit of his loins dropped in the fire below.</l>
+                  </lg>
+                  <lg>
+                     <l>About the blazing feast-house clustered the eyes of the foe,</l>
+                     <l>Watching, hand upon weapon, lest ever a soul should flee,</l>
+                     <l>Shading the brow from the glare, straining the neck to see</l>
+                     <l>Only, to leeward, the flames in the wind swept far and wide,</l>
+                     <l>And the forest sputtered on fire; and there might no man abide.</l>
+                     <l>Thither Rahéro crept, and dropped from the burning eaves,</l>
+                     <l>And crouching low to the ground, in a treble covert of leaves</l>
+                     <l>And fire and volleying smoke, ran for the life of his soul</l>
+                     <l>Unseen; and behind him under a furnace of ardent coal,</l>
+                     <l>Cairned with a wonder of flame, and blotting the night with smoke,</l>
+                     <l>Blazed and were smelted together the bones of all his folk.</l>
+                  </lg>
+                  <lg>
+                     <l>He fled unguided at first; but hearing the breakers roar,</l>
+                     <l>Thitherward shaped his way, and came at length to the shore.</l>
+                     <l>Sound-limbed he was: dry-eyed; but smarted in every part;</l>
+                     <l>And the mighty cage of his ribs heaved on his straining heart</l>
+                     <l>With sorrow and rage.  And “Fools!” he cried, “fools of Vaiau,</l>
+                     <l>Heads of swine—gluttons—Alas! and where are they now?</l>
+                     <l>Those that I played with, those that nursed me, those that I nursed?</l>
+                     <l>God, and I outliving them!  I, the least and the worst—</l>
+                     <l>I, that thought myself crafty, snared by this herd of swine,</l>
+                     <l>In the tortures of hell and desolate, stripped of all that was mine:</l>
+                     <l>All!—my friends and my fathers—the silver heads of yore</l>
+                     <l>That trooped to the council, the children that ran to the open door</l>
+                     <l>Crying with innocent voices and clasping a father’s knees!</l>
+                     <l>And mine, my wife—my daughter—my sturdy climber of trees</l>
+                     <l>Ah, never to climb again!”</l>
+                  </lg>
+                  <lg>
+                     <l>            Thus in the dusk of the night,</l>
+                     <l>(For clouds rolled in the sky and the moon was swallowed from sight,)</l>
+                     <l>Pacing and gnawing his fists, Rahéro raged by the shore.</l>
+                     <l>Vengeance: that must be his.  But much was to do before;</l>
+                     <l>And first a single life to be snatched from a deadly place,</l>
+                     <l>A life, the root of revenge, surviving plant of the race:</l>
+                     <l>And next the race to be raised anew, and the lands of the clan</l>
+                     <l>Repeopled.  So Rahéro designed, a prudent man</l>
+                     <l>Even in wrath, and turned for the means of revenge and escape:</l>
+                     <l>A boat to be seized by stealth, a wife to be taken by rape.</l>
+                  </lg>
+                  <lg>
+                     <l>Still was the dark lagoon; beyond on the coral wall,</l>
+                     <l>He saw the breakers shine, he heard them bellow and fall.</l>
+                     <l>Alone, on the top of the reef, a man with a flaming brand</l>
+                     <l>Walked, gazing and pausing, a fish-spear poised in his hand.</l>
+                     <l>The foam boiled to his calf when the mightier breakers came,</l>
+                     <l>And the torch shed in the wind scattering tufts of flame.</l>
+                     <l>Afar on the dark lagoon a canoe lay idly at wait:</l>
+                     <l>A figure dimly guiding it: surely the fisherman’s mate.</l>
+                     <l>Rahéro saw and he smiled.  He straightened his mighty thews:</l>
+                     <l>Naked, with never a weapon, and covered with scorch and bruise,</l>
+                     <l>He straightened his arms, he filled the void of his body with breath,</l>
+                     <l>And, strong as the wind in his manhood, doomed the fisher to death.</l>
+                  </lg>
+                  <lg>
+                     <l>Silent he entered the water, and silently swam, and came</l>
+                     <l>There where the fisher walked, holding on high the flame.</l>
+                     <l>Loud on the pier of the reef volleyed the breach of the sea;</l>
+                     <l>And hard at the back of the man, Rahéro crept to his knee</l>
+                     <l>On the coral, and suddenly sprang and seized him, the elder hand</l>
+                     <l>Clutching the joint of his throat, the other snatching the brand</l>
+                     <l>Ere it had time to fall, and holding it steady and high.</l>
+                     <l>Strong was the fisher, brave, and swift of mind and of eye—</l>
+                     <l>Strongly he threw in the clutch; but Rahéro resisted the strain,</l>
+                     <l>And jerked, and the spine of life snapped with a crack in twain,</l>
+                     <l>And the man came slack in his hands and tumbled a lump at his feet.</l>
+                  </lg>
+                  <lg>
+                     <l>One moment: and there, on the reef, where the breakers whitened and beat,</l>
+                     <l>Rahéro was standing alone, glowing and scorched and bare,</l>
+                     <l>A victor unknown of any, raising the torch in the air.</l>
+                     <l>But once he drank of his breath, and instantly set him to fish</l>
+                     <l>Like a man intent upon supper at home and a savoury dish.</l>
+                     <l>For what should the woman have seen?  A man with a torch—and then</l>
+                     <l>A moment’s blur of the eyes—and a man with a torch again.</l>
+                     <l>And the torch had scarcely been shaken.  “Ah, surely,” Rahéro said,</l>
+                     <l>“She will deem it a trick of the eyes, a fancy born in the head;</l>
+                     <l>But time must be given the fool to nourish a fool’s belief.”</l>
+                     <l>So for a while, a sedulous fisher, he walked the reef,</l>
+                     <l>Pausing at times and gazing, striking at times with the spear:</l>
+                     <l>—Lastly, uttered the call; and even as the boat drew near,</l>
+                     <l>Like a man that was done with its use, tossed the torch in the sea.</l>
+                  </lg>
+                  <lg>
+                     <l>Lightly he leaped on the boat beside the woman; and she</l>
+                     <l>Lightly addressed him, and yielded the paddle and place to sit;</l>
+                     <l>For now the torch was extinguished the night was black as the pit</l>
+                     <l>Rahéro set him to row, never a word he spoke,</l>
+                     <l>And the boat sang in the water urged by his vigorous stroke.</l>
+                     <l>—“What ails you?” the woman asked, “and why did you drop the brand?</l>
+                     <l>We have only to kindle another as soon as we come to land.”</l>
+                     <l>Never a word Rahéro replied, but urged the canoe.</l>
+                     <l>And a chill fell on the woman.—“Atta! speak! is it you?</l>
+                     <l>Speak!  Why are you silent?  Why do you bend aside?</l>
+                     <l>Wherefore steer to the seaward?” thus she panted and cried.</l>
+                     <l>Never a word from the oarsman, toiling there in the dark;</l>
+                     <l>But right for a gate of the reef he silently headed the bark,</l>
+                     <l>And wielding the single paddle with passionate sweep on sweep,</l>
+                     <l>Drove her, the little fitted, forth on the open deep.</l>
+                     <l>And fear, there where she sat, froze the woman to stone:</l>
+                     <l>Not fear of the crazy boat and the weltering deep alone;</l>
+                     <l>But a keener fear of the night, the dark, and the ghostly hour,</l>
+                     <l>And the thing that drove the canoe with more than a mortal’s power</l>
+                     <l>And more than a mortal’s boldness.  For much she knew of the dead</l>
+                     <l>That haunt and fish upon reefs, toiling, like men, for bread,</l>
+                     <l>And traffic with human fishers, or slay them and take their ware,</l>
+                     <l>Till the hour when the star of the dead [51a]  goes down, and the morning air</l>
+                     <l>Blows, and the cocks are singing on shore.  And surely she knew</l>
+                     <l>The speechless thing at her side belonged to the grave. [51b]</l>
+                  </lg>
+                  <lg>
+                     <l>                           It blew</l>
+                     <l>All night from the south; all night, Rahéro contended and kept</l>
+                     <l>The prow to the cresting sea; and, silent as though she slept,</l>
+                     <l>The woman huddled and quaked.  And now was the peep of day.</l>
+                     <l>High and long on their left the mountainous island lay;</l>
+                     <l>And over the peaks of Taiárapu arrows of sunlight struck.</l>
+                     <l>On shore the birds were beginning to sing: the ghostly ruck</l>
+                     <l>Of the buried had long ago returned to the covered grave;</l>
+                     <l>And here on the sea, the woman, waxing suddenly brave,</l>
+                     <l>Turned her swiftly about and looked in the face of the man.</l>
+                     <l>And sure he was none that she knew, none of her country or clan:</l>
+                     <l>A stranger, mother-naked, and marred with the marks of fire,</l>
+                     <l>But comely and great of stature, a man to obey and admire.</l>
+                  </lg>
+                  <lg>
+                     <l>And Rahéro regarded her also, fixed, with a frowning face,</l>
+                     <l>Judging the woman’s fitness to mother a warlike race.</l>
+                     <l>Broad of shoulder, ample of girdle, long in the thigh,</l>
+                     <l>Deep of bosom she was, and bravely supported his eye.</l>
+                  </lg>
+                  <lg>
+                     <l>“Woman,” said he, “last night the men of your folk—</l>
+                     <l>Man, woman, and maid, smothered my race in smoke.</l>
+                     <l>It was done like cowards; and I, a mighty man of my hands,</l>
+                     <l>Escaped, a single life; and now to the empty lands</l>
+                     <l>And smokeless hearths of my people, sail, with yourself, alone.</l>
+                     <l>Before your mother was born, the die of to-day was thrown</l>
+                     <l>And you selected:—your husband, vainly striving, to fall</l>
+                     <l>Broken between these hands:—yourself to be severed from all,</l>
+                     <l>The places, the people, you love—home, kindred, and clan—</l>
+                     <l>And to dwell in a desert and bear the babes of a kinless man.”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>NOTES TO THE SONG OF RAHÉRO</head>
+                  <p rend="justify">Introduction.—This tale, of which I have not consciously changed a single feature, I received from tradition.  It is highly popular through all the country of the eight Tevas, the clan to which Rahéro belonged; and particularly in Taiárapu, the windward peninsula of Tahiti, where he lived.  I have heard from end to end two versions; and as many as five different persons have helped me with details.  There seems no reason why the tale should not be true.</p>
+                  <p rend="justify">[5]  Note 1, page 5.  “<hi rend="italic">The aito</hi>,” <hi rend="italic">quasi</hi>  champion, or brave.  One skilled in the use of some weapon, who wandered the country challenging distinguished rivals and taking part in local quarrels.  It was in the natural course of his advancement to be at last employed by a chief, or king; and it would then be a part of his duties to purvey the victim for sacrifice.  One of the doomed families was indicated; the aito took his weapon and went forth alone; a little behind him bearers followed with the sacrificial basket.  Sometimes the victim showed fight, sometimes prevailed; more often, without doubt, he fell.  But whatever body was found, the bearers indifferently took up.</p>
+                  <p rend="justify">[7]  Note 2, page 7.  “<hi rend="italic">Pai</hi>,” “<hi rend="italic">Honoura</hi>,” and “<hi rend="italic">Ahupu</hi>.”  Legendary persons of Tahiti, all natives of Taiárapu.  Of the first two, I have collected singular although imperfect legends, which I hope soon to lay before the public in another place.  Of Ahupu, except in snatches of song, little memory appears to linger.  She dwelt at least about Tepari,—“the sea-cliffs,”—the eastern fastness of the isle; walked by paths known only to herself upon the mountains; was courted by dangerous suitors who came swimming from adjacent islands, and defended and rescued (as I gather) by the loyalty of native fish.  My anxiety to learn more of “Ahupu Vehine” became (during my stay in Taiárapu) a cause of some diversion to that mirthful people, the inhabitants.</p>
+                  <p rend="justify">[10a]  Note 3, page 10.  “<hi rend="italic">Covered an oven</hi>.”  The cooking fire is made in a hole in the ground, and is then buried.</p>
+                  <p rend="justify">[10b]  Note 4, page 10.  “<hi rend="italic">Flies</hi>.”  This is perhaps an anachronism.  Even speaking of to-day in Tahiti, the phrase would have to be understood as referring mainly to mosquitoes, and these only in watered valleys with close woods, such as I suppose to form the surroundings of Rahéro’s homestead.  Quarter of a mile away, where the air moves freely, you shall look in vain for one.</p>
+                  <p rend="justify">[13]  Note 5, page 13.  “<hi rend="italic">Hook</hi>” of mother-of-pearl.  Bright-hook fishing, and that with the spear, appear to be the favourite native methods.</p>
+                  <p rend="justify">[14]  Note 6, page 14.  “<hi rend="italic">Leaves</hi>,” the plates of Tahiti.</p>
+                  <p rend="justify">[16]  Note 7, page 16.  “<hi rend="italic">Yottowas</hi>,” so spelt for convenience of pronunciation, <hi rend="italic">quasi</hi>  Tacksmen in the Scottish Highlands.  The organisation of eight subdistricts and eight yottowas to a division, which was in use (until yesterday) among the Tevas, I have attributed without authority to the next clan: see page 33.</p>
+                  <p rend="justify">[17]  Note 8, page 17.  “<hi rend="italic">Omare</hi>,” pronounce as a dactyl.  A loaded quarter-staff, one of the two favourite weapons of the Tahitian brave; the javelin, or casting spear, was the other.</p>
+                  <p rend="justify">[21]  Note 9, page 21.  “<hi rend="italic">The ribbon of light</hi>.”  Still to be seen (and heard) spinning from one marae to another on Tahiti; or so I have it upon evidence that would rejoice the Psychical Society.</p>
+                  <p rend="justify">[23a]  Note 10, page 23.  “<hi rend="italic">Námunu-úra</hi>.”  The complete name is Namunu-ura te aropa.  Why it should be pronounced Námunu, dactyllically, I cannot see, but so I have always heard it.  This was the clan immediately beyond the Tevas on the south coast of the island.  At the date of the tale the clan organisation must have been very weak.  There is no particular mention of Támatéa’s mother going to Papara, to the head chief of her own clan, which would appear her natural recourse.  On the other hand, she seems to have visited various lesser chiefs among the Tevas, and these to have excused themselves solely on the danger of the enterprise.  The broad distinction here drawn between Nateva and Námunu-úra is therefore not impossibly anachronistic.</p>
+                  <p rend="justify">[23b]  Note 11, page 23.  “<hi rend="italic">Hiopa the king</hi>.”  Hiopa was really the name of the king (chief) of Vaiau; but I could never learn that of the king of Paea—pronounce to rhyme with the Indian <hi rend="italic">ayah</hi>—and I gave the name where it was most needed.  This note must appear otiose indeed to readers who have never heard of either of these two gentlemen; and perhaps there is only one person in the world capable at once of reading my verses and spying the inaccuracy.  For him, for Mr. Tati Salmon, hereditary high chief of the Tevas, the note is solely written: a small attention from a clansman to his chief.</p>
+                  <p rend="justify">[25]  Note 12, page 25.  “<hi rend="italic">Let the pigs be tapu</hi>.”  It is impossible to explain <hi rend="italic">tapu</hi>  in a note; we have it as an English word, taboo.  Suffice it, that a thing which was <hi rend="italic">tapu</hi>  must not be touched, nor a place that was <hi rend="italic">tapu</hi>  visited.</p>
+                  <p rend="justify">[34]  Note 13, page 34.  “<hi rend="italic">Fish</hi>, <hi rend="italic">the food of desire</hi>.”  There is a special word in the Tahitian language to signify <hi rend="italic">hungering after fish</hi>.  I may remark that here is one of my chief difficulties about the whole story.  How did king, commons, women, and all come to eat together at this feast?  But it troubled none of my numerous authorities; so there must certainly be some natural explanation.</p>
+                  <p rend="justify">[41]  Note 14, page 41.  “<hi rend="italic">The mustering word of the clan</hi>.”</p>
+                  <p rend="justify">
+                     <hi rend="italic">Teva te ua</hi>,<lb/>
+                     <hi rend="italic">Teva te matai</hi>!</p>
+                  <p rend="justify">Teva the wind,<lb/>Teva the rain!</p>
+                  <p rend="justify">[51a]  Note 15, page 51.  “<hi rend="italic">The star of the dead</hi>.”  Venus as a morning star.  I have collected much curious evidence as to this belief.  The dead retain their taste for a fish diet, enter into copartnery with living fishers, and haunt the reef and the lagoon.  The conclusion attributed to the nameless lady of the legend would be reached to-day, under the like circumstances, by ninety per cent of Polynesians: and here I probably understate by one-tenth.</p>
+                  <p rend="justify">[51b]  Note 16, page 51.  See note 15 above.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>THE FEAST OF FAMINE<lb/>MARQUESAN MANNERS</head>
+               <div type="div3">
+                  <head>
+                     <label>I.</label>THE PRIEST’S VIGIL</head>
+                  <lg>
+                     <l>In all the land of the tribe was neither fish nor fruit,</l>
+                     <l>And the deepest pit of popoi stood empty to the foot. [61]</l>
+                     <l>The clans upon the left and the clans upon the right</l>
+                     <l>Now oiled their carven maces and scoured their daggers bright;</l>
+                     <l>They gat them to the thicket, to the deepest of the shade,</l>
+                     <l>And lay with sleepless eyes in the deadly ambuscade.</l>
+                     <l>And oft in the starry even the song of morning rose,</l>
+                     <l>What time the oven smoked in the country of their foes;</l>
+                     <l>For oft to loving hearts, and waiting ears and sight,</l>
+                     <l>The lads that went to forage returned not with the night.</l>
+                     <l>Now first the children sickened, and then the women paled,</l>
+                     <l>And the great arms of the warrior no more for war availed.</l>
+                     <l>Hushed was the deep drum, discarded was the dance;</l>
+                     <l>And those that met the priest now glanced at him askance.</l>
+                     <l>The priest was a man of years, his eyes were ruby-red, [62a]</l>
+                     <l>He neither feared the dark nor the terrors of the dead,</l>
+                     <l>He knew the songs of races, the names of ancient date;</l>
+                     <l>And the beard upon his bosom would have bought the chief’s estate.</l>
+                     <l>He dwelt in a high-built lodge, hard by the roaring shore,</l>
+                     <l>Raised on a noble terrace and with tikis [62b] at the door.</l>
+                     <l>Within it was full of riches, for he served his nation well,</l>
+                     <l>And full of the sound of breakers, like the hollow of a shell.</l>
+                     <l>For weeks he let them perish, gave never a helping sign,</l>
+                     <l>But sat on his oiled platform to commune with the divine,</l>
+                     <l>But sat on his high terrace, with the tikis by his side,</l>
+                     <l>And stared on the blue ocean, like a parrot, ruby-eyed.</l>
+                     <l>Dawn as yellow as sulphur leaped on the mountain height:</l>
+                     <l>Out on the round of the sea the gems of the morning light,</l>
+                     <l>Up from the round of the sea the streamers of the sun;—</l>
+                     <l>But down in the depths of the valley the day was not begun.</l>
+                     <l>In the blue of the woody twilight burned red the cocoa-husk,</l>
+                     <l>And the women and men of the clan went forth to bathe in the dusk,</l>
+                     <l>A word that began to go round, a word, a whisper, a start:</l>
+                     <l>Hope that leaped in the bosom, fear that knocked on the heart:</l>
+                     <l>“See, the priest is not risen—look, for his door is fast!</l>
+                     <l>He is going to name the victims; he is going to help us at last.”</l>
+                  </lg>
+                  <lg>
+                     <l>Thrice rose the sun to noon; and ever, like one of the dead,</l>
+                     <l>The priest lay still in his house with the roar of the sea in his head;</l>
+                     <l>There was never a foot on the floor, there was never a whisper of speech;</l>
+                     <l>Only the leering tikis stared on the blinding beach.</l>
+                     <l>Again were the mountains fired, again the morning broke;</l>
+                     <l>And all the houses lay still, but the house of the priest awoke.</l>
+                     <l>Close in their covering roofs lay and trembled the clan,</l>
+                     <l>But the agèd, red-eyed priest ran forth like a lunatic man;</l>
+                     <l>And the village panted to see him in the jewels of death again,</l>
+                     <l>In the silver beards of the old and the hair of women slain.</l>
+                     <l>Frenzy shook in his limbs, frenzy shone in his eyes,</l>
+                     <l>And still and again as he ran, the valley rang with his cries.</l>
+                     <l>All day long in the land, by cliff and thicket and den,</l>
+                     <l>He ran his lunatic rounds, and howled for the flesh of men;</l>
+                     <l>All day long he ate not, nor ever drank of the brook;</l>
+                     <l>And all day long in their houses the people listened and shook—</l>
+                     <l>All day long in their houses they listened with bated breath,</l>
+                     <l>And never a soul went forth, for the sight of the priest was death.</l>
+                  </lg>
+                  <lg>
+                     <l>Three were the days of his running, as the gods appointed of yore,</l>
+                     <l>Two the nights of his sleeping alone in the place of gore:</l>
+                     <l>The drunken slumber of frenzy twice he drank to the lees,</l>
+                     <l>On the sacred stones of the High-place under the sacred trees;</l>
+                     <l>With a lamp at his ashen head he lay in the place of the feast,</l>
+                     <l>And the sacred leaves of the banyan rustled around the priest.</l>
+                     <l>Last, when the stated even fell upon terrace and tree,</l>
+                     <l>And the shade of the lofty island lay leagues away to sea,</l>
+                     <l>And all the valleys of verdure were heavy with manna and musk,</l>
+                     <l>The wreck of the red-eyed priest came gasping home in the dusk.</l>
+                     <l>He reeled across the village, he staggered along the shore,</l>
+                     <l>And between the leering tikis crept groping through his door.</l>
+                  </lg>
+                  <lg>
+                     <l>There went a stir through the lodges, the voice of speech awoke;</l>
+                     <l>Once more from the builded platforms arose the evening smoke.</l>
+                     <l>And those who were mighty in war, and those renowned for an art</l>
+                     <l>Sat in their stated seats and talked of the morrow apart.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II.</label>THE LOVERS</head>
+                  <lg>
+                     <l>Hark! away in the woods—for the ears of love are sharp—</l>
+                     <l>Stealthily, quietly touched, the note of the one-stringed harp. [67]</l>
+                     <l>In the lighted house of her father, why should Taheia start?</l>
+                     <l>Taheia heavy of hair, Taheia tender of heart,</l>
+                     <l>Taheia the well-descended, a bountiful dealer in love,</l>
+                     <l>Nimble of foot like the deer, and kind of eye like the dove?</l>
+                     <l>Sly and shy as a cat, with never a change of face,</l>
+                     <l>Taheia slips to the door, like one that would breathe a space;</l>
+                     <l>Saunters and pauses, and looks at the stars, and lists to the seas;</l>
+                     <l>Then sudden and swift as a cat, she plunges under the trees.</l>
+                     <l>Swift as a cat she runs, with her garment gathered high,</l>
+                     <l>Leaping, nimble of foot, running, certain of eye;</l>
+                     <l>And ever to guide her way over the smooth and the sharp,</l>
+                     <l>Ever nearer and nearer the note of the one-stringed harp;</l>
+                     <l>Till at length, in a glade of the wood, with a naked mountain above,</l>
+                     <l>The sound of the harp thrown down, and she in the arms of her love.</l>
+                     <l>“Rua,”—“Taheia,” they cry—“my heart, my soul, and my eyes,”</l>
+                     <l>And clasp and sunder and kiss, with lovely laughter and sighs,</l>
+                     <l>“Rua!”—“Taheia, my love,”—“Rua, star of my night,</l>
+                     <l>Clasp me, hold me, and love me, single spring of delight.”</l>
+                  </lg>
+                  <p rend="justify">And Rua folded her close, he folded her near and long,<lb/>The living knit to the living, and sang the lover’s song:</p>
+                  <lg>
+                     <l>   <hi rend="italic">Night</hi>, <hi rend="italic">night it is</hi>, <hi rend="italic">night upon the palms</hi>.</l>
+                     <l>   <hi rend="italic">Night</hi>, <hi rend="italic">night it is</hi>, <hi rend="italic">the land wind has blown</hi>.</l>
+                     <l>   <hi rend="italic">Starry</hi>, <hi rend="italic">starry night</hi>, <hi rend="italic">over deep and height</hi>;</l>
+                     <l>   <hi rend="italic">Love</hi>, <hi rend="italic">love in the valley</hi>, <hi rend="italic">love all alone</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>“Taheia, heavy of hair, a foolish thing have we done,</l>
+                     <l>To bind what gods have sundered unkindly into one.</l>
+                     <l>Why should a lowly lover have touched Taheia’s skirt,</l>
+                     <l>Taheia the well-descended, and Rua child of the dirt?”</l>
+                  </lg>
+                  <lg>
+                     <l>“—On high with the haka-ikis my father sits in state,</l>
+                     <l>Ten times fifty kinsmen salute him in the gate;</l>
+                     <l>Round all his martial body, and in bands across his face,</l>
+                     <l>The marks of the tattooer proclaim his lofty place.</l>
+                     <l>I too, in the hands of the cunning, in the sacred cabin of palm, [69]</l>
+                     <l>Have shrunk like the mimosa, and bleated like the lamb;</l>
+                     <l>Round half my tender body, that none shall clasp but you,</l>
+                     <l>For a crest and a fair adornment go dainty lines of blue.</l>
+                     <l>Love, love, beloved Rua, love levels all degrees,</l>
+                     <l>And the well-tattooed Taheia clings panting to your knees.”</l>
+                  </lg>
+                  <lg>
+                     <l>“—Taheia, song of the morning, how long is the longest love?</l>
+                     <l>A cry, a clasp of the hands, a star that falls from above!</l>
+                     <l>Ever at morn in the blue, and at night when all is black,</l>
+                     <l>Ever it skulks and trembles with the hunter, Death, on its track.</l>
+                     <l>Hear me, Taheia, death!  For to-morrow the priest shall awake,</l>
+                     <l>And the names be named of the victims to bleed for the nation’s sake;</l>
+                     <l>And first of the numbered many that shall be slain ere noon,</l>
+                     <l>Rua the child of the dirt, Rua the kinless loon.</l>
+                     <l>For him shall the drum be beat, for him be raised the song,</l>
+                     <l>For him to the sacred High-place the chaunting people throng,</l>
+                     <l>For him the oven smoke as for a speechless beast,</l>
+                     <l>And the sire of my Taheia come greedy to the feast.”</l>
+                     <l>“Rua, be silent, spare me.  Taheia closes her ears.</l>
+                     <l>Pity my yearning heart, pity my girlish years!</l>
+                     <l>Flee from the cruel hands, flee from the knife and coal,</l>
+                     <l>Lie hid in the deeps of the woods, Rua, sire of my soul!”</l>
+                  </lg>
+                  <lg>
+                     <l>“Whither to flee, Taheia, whither in all of the land?</l>
+                     <l>The fires of the bloody kitchen are kindled on every hand;</l>
+                     <l>On every hand in the isle a hungry whetting of teeth,</l>
+                     <l>Eyes in the trees above, arms in the brush beneath.</l>
+                     <l>Patience to lie in wait, cunning to follow the sleuth,</l>
+                     <l>Abroad the foes I have fought, and at home the friends of my youth.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Love, love, beloved Rua, love has a clearer eye,</l>
+                     <l>Hence from the arms of love you go not forth to die.</l>
+                     <l>There, where the broken mountain drops sheer into the glen,</l>
+                     <l>There shall you find a hold from the boldest hunter of men;</l>
+                     <l>There, in the deep recess, where the sun falls only at noon,</l>
+                     <l>And only once in the night enters the light of the moon,</l>
+                     <l>Nor ever a sound but of birds, or the rain when it falls with a shout;</l>
+                     <l>For death and the fear of death beleaguer the valley about.</l>
+                     <l>Tapu it is, but the gods will surely pardon despair;</l>
+                     <l>Tapu, but what of that?  If Rua can only dare.</l>
+                     <l>Tapu and tapu and tapu, I know they are every one right;</l>
+                     <l>But the god of every tapu is not always quick to smite.</l>
+                     <l>Lie secret there, my Rua, in the arms of awful gods,</l>
+                     <l>Sleep in the shade of the trees on the couch of the kindly sods,</l>
+                     <l>Sleep and dream of Taheia, Taheia will wake for you;</l>
+                     <l>And whenever the land wind blows and the woods are heavy with dew,</l>
+                     <l>Alone through the horror of night, [72]  with food for the soul of her love,</l>
+                     <l>Taheia the undissuaded will hurry true as the dove.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Taheia, the pit of the night crawls with treacherous things,</l>
+                     <l>Spirits of ultimate air and the evil souls of things;</l>
+                     <l>The souls of the dead, the stranglers, that perch in the trees of the wood,</l>
+                     <l>Waiters for all things human, haters of evil and good.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Rua, behold me, kiss me, look in my eyes and read;</l>
+                     <l>Are these the eyes of a maid that would leave her lover in need?</l>
+                     <l>Brave in the eye of day, my father ruled in the fight;</l>
+                     <l>The child of his loins, Taheia, will play the man in the night.”</l>
+                  </lg>
+                  <lg>
+                     <l>So it was spoken, and so agreed, and Taheia arose</l>
+                     <l>And smiled in the stars and was gone, swift as the swallow goes;</l>
+                     <l>And Rua stood on the hill, and sighed, and followed her flight,</l>
+                     <l>And there were the lodges below, each with its door alight;</l>
+                     <l>From folk that sat on the terrace and drew out the even long</l>
+                     <l>Sudden crowings of laughter, monotonous drone of song;</l>
+                     <l>The quiet passage of souls over his head in the trees; [74]</l>
+                     <l>And from all around the haven the crumbling thunder of seas.</l>
+                     <l>“Farewell, my home,” said Rua.  “Farewell, O quiet seat!</l>
+                     <l>To-morrow in all your valleys the drum of death shall beat.”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III.</label>THE FEAST</head>
+                  <lg>
+                     <l>Dawn as yellow as sulphur leaped on the naked peak,</l>
+                     <l>And all the village was stirring, for now was the priest to speak.</l>
+                     <l>Forth on his terrace he came, and sat with the chief in talk;</l>
+                     <l>His lips were blackened with fever, his cheeks were whiter than chalk;</l>
+                     <l>Fever clutched at his hands, fever nodded his head,</l>
+                     <l>But, quiet and steady and cruel, his eyes shone ruby-red.</l>
+                     <l>In the earliest rays of the sun the chief rose up content;</l>
+                     <l>Braves were summoned, and drummers; messengers came and went;</l>
+                     <l>Braves ran to their lodges, weapons were snatched from the wall;</l>
+                     <l>The commons herded together, and fear was over them all.</l>
+                     <l>Festival dresses they wore, but the tongue was dry in their mouth,</l>
+                     <l>And the blinking eyes in their faces skirted from north to south.</l>
+                  </lg>
+                  <lg>
+                     <l>Now to the sacred enclosure gathered the greatest and least,</l>
+                     <l>And from under the shade of the banyan arose the voice of the feast,</l>
+                     <l>The frenzied roll of the drum, and a swift, monotonous song.</l>
+                     <l>Higher the sun swam up; the trade wind level and strong</l>
+                     <l>Awoke in the tops of the palms and rattled the fans aloud,</l>
+                     <l>And over the garlanded heads and shining robes of the crowd</l>
+                     <l>Tossed the spiders of shadow, scattered the jewels of sun.</l>
+                     <l>Forty the tale of the drums, and the forty throbbed like one;</l>
+                     <l>A thousand hearts in the crowd, and the even chorus of song,</l>
+                     <l>Swift as the feet of a runner, trampled a thousand strong.</l>
+                     <l>And the old men leered at the ovens and licked their lips for the food;</l>
+                     <l>And the women stared at the lads, and laughed and looked to the wood.</l>
+                     <l>As when the sweltering baker, at night, when the city is dead,</l>
+                     <l>Alone in the trough of labour treads and fashions the bread;</l>
+                     <l>So in the heat, and the reek, and the touch of woman and man,</l>
+                     <l>The naked spirit of evil kneaded the hearts of the clan.</l>
+                  </lg>
+                  <lg>
+                     <l>Now cold was at many a heart, and shaking in many a seat;</l>
+                     <l>For there were the empty baskets, but who was to furnish the meat?</l>
+                     <l>For here was the nation assembled, and there were the ovens anigh,</l>
+                     <l>And out of a thousand singers nine were numbered to die.</l>
+                     <l>Till, of a sudden, a shock, a mace in the air, a yell,</l>
+                     <l>And, struck in the edge of the crowd, the first of the victims fell. [78]</l>
+                     <l>Terror and horrible glee divided the shrinking clan,</l>
+                     <l>Terror of what was to follow, glee for a diet of man.</l>
+                     <l>Frenzy hurried the chaunt, frenzy rattled the drums;</l>
+                     <l>The nobles, high on the terrace, greedily mouthed their thumbs;</l>
+                     <l>And once and again and again, in the ignorant crowd below,</l>
+                     <l>Once and again and again descended the murderous blow.</l>
+                     <l>Now smoked the oven, and now, with the cutting lip of a shell,</l>
+                     <l>A butcher of ninety winters jointed the bodies well.</l>
+                     <l>Unto the carven lodge, silent, in order due,</l>
+                     <l>The grandees of the nation one after one withdrew;</l>
+                     <l>And a line of laden bearers brought to the terrace foot,</l>
+                     <l>On poles across their shoulders, the last reserve of fruit.</l>
+                     <l>The victims bled for the nobles in the old appointed way;</l>
+                     <l>The fruit was spread for the commons, for all should eat to-day.</l>
+                  </lg>
+                  <lg>
+                     <l>And now was the kava brewed, and now the cocoa ran,</l>
+                     <l>Now was the hour of the dance for child and woman and man;</l>
+                     <l>And mirth was in every heart, and a garland on every head,</l>
+                     <l>And all was well with the living and well with the eight who were dead.</l>
+                     <l>Only the chiefs and the priest talked and consulted awhile:</l>
+                     <l>“To-morrow,” they said, and “To-morrow,” and nodded and seemed to smile:</l>
+                     <l>“Rua the child of dirt, the creature of common clay,</l>
+                     <l>Rua must die to-morrow, since Rua is gone to-day.”</l>
+                  </lg>
+                  <lg>
+                     <l>Out of the groves of the valley, where clear the blackbirds sang.</l>
+                     <l>Sheer from the trees of the valley the face of the mountain sprang;</l>
+                     <l>Sheer and bare it rose, unscalable barricade,</l>
+                     <l>Beaten and blown against by the generous draught of the trade.</l>
+                     <l>Dawn on its fluted brow painted rainbow light,</l>
+                     <l>Close on its pinnacled crown trembled the stars at night.</l>
+                     <l>Here and there in a cleft clustered contorted trees,</l>
+                     <l>Or the silver beard of a stream hung and swung in the breeze.</l>
+                     <l>High overhead, with a cry, the torrents leaped for the main,</l>
+                     <l>And silently sprinkled below in thin perennial rain.</l>
+                     <l>Dark in the staring noon, dark was Rua’s ravine,</l>
+                     <l>Damp and cold was the air, and the face of the cliffs was green.</l>
+                     <l>Here, in the rocky pit, accursed already of old,</l>
+                     <l>On a stone in the midst of a river, Rua sat and was cold.</l>
+                  </lg>
+                  <lg>
+                     <l>“Valley of mid-day shadows, valley of silent falls,”</l>
+                     <l>Rua sang, and his voice went hollow about the walls,</l>
+                     <l>“Valley of shadow and rock, a doleful prison to me,</l>
+                     <l>What is the life you can give to a child of the sun and the sea?”</l>
+                  </lg>
+                  <lg>
+                     <l>And Rua arose and came to the open mouth of the glen,</l>
+                     <l>Whence he beheld the woods, and the sea, and houses of men.</l>
+                     <l>Wide blew the riotous trade, and smelt in his nostrils good;</l>
+                     <l>It bowed the boats on the bay, and tore and divided the wood;</l>
+                     <l>It smote and sundered the groves as Moses smote with the rod,</l>
+                     <l>And the streamers of all the trees blew like banners abroad;</l>
+                     <l>And ever and on, in a lull, the trade wind brought him along</l>
+                     <l>A far-off patter of drums and a far-off whisper of song.</l>
+                  </lg>
+                  <lg>
+                     <l>Swift as the swallow’s wings, the diligent hands on the drum</l>
+                     <l>Fluttered and hurried and throbbed.  “Ah, woe that I hear you come,”</l>
+                     <l>Rua cried in his grief, “a sorrowful sound to me,</l>
+                     <l>Mounting far and faint from the resonant shore of the sea!</l>
+                     <l>Woe in the song! for the grave breathes in the singers’ breath,</l>
+                     <l>And I hear in the tramp of the drums the beat of the heart of death.</l>
+                     <l>Home of my youth! no more, through all the length of the years,</l>
+                     <l>No more to the place of the echoes of early laughter and tears,</l>
+                     <l>No more shall Rua return; no more as the evening ends,</l>
+                     <l>To crowded eyes of welcome, to the reaching hands of friends.”</l>
+                  </lg>
+                  <lg>
+                     <l>All day long from the High-place the drums and the singing came,</l>
+                     <l>And the even fell, and the sun went down, a wheel of flame;</l>
+                     <l>And night came gleaning the shadows and hushing the sounds of the wood;</l>
+                     <l>And silence slept on all, where Rua sorrowed and stood.</l>
+                     <l>But still from the shore of the bay the sound of the festival rang,</l>
+                     <l>And still the crowd in the High-place danced and shouted and sang.</l>
+                  </lg>
+                  <lg>
+                     <l>Now over all the isle terror was breathed abroad</l>
+                     <l>Of shadowy hands from the trees and shadowy snares in the sod;</l>
+                     <l>And before the nostrils of night, the shuddering hunter of men</l>
+                     <l>Hurried, with beard on shoulder, back to his lighted den.</l>
+                     <l>“Taheia, here to my side!”—“Rua, my Rua, you!”</l>
+                     <l>And cold from the clutch of terror, cold with the damp of the dew,</l>
+                     <l>Taheia, heavy of hair, leaped through the dark to his arms;</l>
+                     <l>Taheia leaped to his clasp, and was folded in from alarms.</l>
+                  </lg>
+                  <lg>
+                     <l>“Rua, beloved, here, see what your love has brought;</l>
+                     <l>Coming—alas! returning—swift as the shuttle of thought;</l>
+                     <l>Returning, alas! for to-night, with the beaten drum and the voice,</l>
+                     <l>In the shine of many torches must the sleepless clan rejoice;</l>
+                     <l>And Taheia the well-descended, the daughter of chief and priest,</l>
+                     <l>Taheia must sit in her place in the crowded bench of the feast.”</l>
+                     <l>So it was spoken; and she, girding her garment high,</l>
+                     <l>Fled and was swallowed of woods, swift as the sight of an eye.</l>
+                  </lg>
+                  <lg>
+                     <l>Night over isle and sea rolled her curtain of stars,</l>
+                     <l>Then a trouble awoke in the air, the east was banded with bars;</l>
+                     <l>Dawn as yellow as sulphur leaped on the mountain height;</l>
+                     <l>Dawn, in the deepest glen, fell a wonder of light;</l>
+                     <l>High and clear stood the palms in the eye of the brightening east,</l>
+                     <l>And lo! from the sides of the sea the broken sound of the feast!</l>
+                     <l>As, when in days of summer, through open windows, the fly</l>
+                     <l>Swift as a breeze and loud as a trump goes by,</l>
+                     <l>But when frosts in the field have pinched the wintering mouse,</l>
+                     <l>Blindly noses and buzzes and hums in the firelit house:</l>
+                     <l>So the sound of the feast gallantly trampled at night,</l>
+                     <l>So it staggered and drooped, and droned in the morning light.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IV.</label>THE RAID</head>
+                  <lg>
+                     <l>It chanced that as Rua sat in the valley of silent falls,</l>
+                     <l>He heard a calling of doves from high on the cliffy walls.</l>
+                     <l>Fire had fashioned of yore, and time had broken, the rocks;</l>
+                     <l>There were rooting crannies for trees and nesting-places for flocks;</l>
+                     <l>And he saw on the top of the cliffs, looking up from the pit of the shade,</l>
+                     <l>A flicker of wings and sunshine, and trees that swung in the trade.</l>
+                     <l>“The trees swing in the trade,” quoth Rua, doubtful of words,</l>
+                     <l>“And the sun stares from the sky, but what should trouble the birds?”</l>
+                     <l>Up from the shade he gazed, where high the parapet shone,</l>
+                     <l>And he was aware of a ledge and of things that moved thereon.</l>
+                     <l>“What manner of things are these?  Are they spirits abroad by day?</l>
+                     <l>Or the foes of my clan that are come, bringing death by a perilous way?”</l>
+                  </lg>
+                  <lg>
+                     <l>The valley was gouged like a vessel, and round like the vessel’s lip,</l>
+                     <l>With a cape of the side of the hill thrust forth like the bows of a ship.</l>
+                     <l>On the top of the face of the cape a volley of sun struck fair,</l>
+                     <l>And the cape overhung like a chin a gulph of sunless air.</l>
+                     <l>“Silence, heart!  What is that?—that, that flickered and shone,</l>
+                     <l>Into the sun for an instant, and in an instant gone?</l>
+                     <l>Was it a warrior’s plume, a warrior’s girdle of hair?</l>
+                     <l>Swung in the loop of a rope, is he making a bridge of the air?”</l>
+                  </lg>
+                  <lg>
+                     <l>Once and again Rua saw, in the trenchant edge of the sky,</l>
+                     <l>The giddy conjuring done.  And then, in the blink of an eye,</l>
+                     <l>A scream caught in with the breath, a whirling packet of limbs,</l>
+                     <l>A lump that dived in the gulph, more swift than a dolphin swims;</l>
+                     <l>And there was the lump at his feet, and eyes were alive in the lump.</l>
+                     <l>Sick was the soul of Rua, ambushed close in a clump;</l>
+                     <l>Sick of soul he drew near, making his courage stout;</l>
+                     <l>And he looked in the face of the thing, and the life of the thing went out.</l>
+                     <l>And he gazed on the tattooed limbs, and, behold, he knew the man:</l>
+                     <l>Hoka, a chief of the Vais, the truculent foe of his clan:</l>
+                     <l>Hoka a moment since that stepped in the loop of the rope,</l>
+                     <l>Filled with the lust of war, and alive with courage and hope.</l>
+                  </lg>
+                  <lg>
+                     <l>Again to the giddy cornice Rua lifted his eyes,</l>
+                     <l>And again beheld men passing in the armpit of the skies.</l>
+                     <l>“Foes of my race!” cried Rua, “the mouth of Rua is true:</l>
+                     <l>Never a shark in the deep is nobler of soul than you.</l>
+                     <l>There was never a nobler foray, never a bolder plan;</l>
+                     <l>Never a dizzier path was trod by the children of man;</l>
+                     <l>And Rua, your evil-dealer through all the days of his years,</l>
+                  </lg>
+                  <lg>
+                     <l>“Counts it honour to hate you, honour to fall by your spears.”</l>
+                     <l>And Rua straightened his back.  “O Vais, a scheme for a scheme!”</l>
+                     <l>Cried Rua and turned and descended the turbulent stair of the stream,</l>
+                     <l>Leaping from rock to rock as the water-wagtail at home</l>
+                     <l>Flits through resonant valleys and skims by boulder and foam.</l>
+                     <l>And Rua burst from the glen and leaped on the shore of the brook,</l>
+                     <l>And straight for the roofs of the clan his vigorous way he took.</l>
+                     <l>Swift were the heels of his flight, and loud behind as he went</l>
+                     <l>Rattled the leaping stones on the line of his long descent.</l>
+                     <l>And ever he thought as he ran, and caught at his gasping breath,</l>
+                     <l>“O the fool of a Rua, Rua that runs to his death!</l>
+                     <l>But the right is the right,” thought Rua, and ran like the wind on the foam,</l>
+                     <l>“The right is the right for ever, and home for ever home.</l>
+                     <l>For what though the oven smoke?  And what though I die ere morn?</l>
+                     <l>There was I nourished and tended, and there was Taheia born.”</l>
+                     <l>Noon was high on the High-place, the second noon of the feast;</l>
+                     <l>And heat and shameful slumber weighed on people and priest;</l>
+                     <l>And the heart drudged slow in bodies heavy with monstrous meals;</l>
+                     <l>And the senseless limbs were scattered abroad like spokes of wheels;</l>
+                     <l>And crapulous women sat and stared at the stones anigh</l>
+                     <l>With a bestial droop of the lip and a swinish rheum in the eye.</l>
+                     <l>As about the dome of the bees in the time for the drones to fall,</l>
+                     <l>The dead and the maimed are scattered, and lie, and stagger, and crawl;</l>
+                     <l>So on the grades of the terrace, in the ardent eye of the day,</l>
+                     <l>The half-awake and the sleepers clustered and crawled and lay;</l>
+                     <l>And loud as the dome of the bees, in the time of a swarming horde,</l>
+                     <l>A horror of many insects hung in the air and roared.</l>
+                  </lg>
+                  <lg>
+                     <l>Rua looked and wondered; he said to himself in his heart:</l>
+                     <l>“Poor are the pleasures of life, and death is the better part.”</l>
+                     <l>But lo! on the higher benches a cluster of tranquil folk</l>
+                     <l>Sat by themselves, nor raised their serious eyes, nor spoke:</l>
+                     <l>Women with robes unruffled and garlands duly arranged,</l>
+                     <l>Gazing far from the feast with faces of people estranged;</l>
+                     <l>And quiet amongst the quiet, and fairer than all the fair,</l>
+                     <l>Taheia, the well-descended, Taheia, heavy of hair.</l>
+                     <l>And the soul of Rua awoke, courage enlightened his eyes,</l>
+                     <l>And he uttered a summoning shout and called on the clan to rise.</l>
+                     <l>Over against him at once, in the spotted shade of the trees,</l>
+                     <l>Owlish and blinking creatures scrambled to hands and knees;</l>
+                     <l>On the grades of the sacred terrace, the driveller woke to fear,</l>
+                     <l>And the hand of the ham-drooped warrior brandished a wavering spear.</l>
+                     <l>And Rua folded his arms, and scorn discovered his teeth;</l>
+                     <l>Above the war-crowd gibbered, and Rua stood smiling beneath.</l>
+                     <l>Thick, like leaves in the autumn, faint, like April sleet,</l>
+                     <l>Missiles from tremulous hands quivered around his feet;</l>
+                     <l>And Taheia leaped from her place; and the priest, the ruby-eyed,</l>
+                     <l>Ran to the front of the terrace, and brandished his arms, and cried:</l>
+                     <l>“Hold, O fools, he brings tidings!” and “Hold, ’tis the love of my heart!”</l>
+                     <l>Till lo! in front of the terrace, Rua pierced with a dart.</l>
+                  </lg>
+                  <lg>
+                     <l>Taheia cherished his head, and the aged priest stood by,</l>
+                     <l>And gazed with eyes of ruby at Rua’s darkening eye.</l>
+                     <l>“Taheia, here is the end, I die a death for a man.</l>
+                     <l>I have given the life of my soul to save an unsavable clan.</l>
+                     <l>See them, the drooping of hams! behold me the blinking crew:</l>
+                     <l>Fifty spears they cast, and one of fifty true!</l>
+                     <l>And you, O priest, the foreteller, foretell for yourself if you can,</l>
+                     <l>Foretell the hour of the day when the Vais shall burst on your clan!</l>
+                     <l>By the head of the tapu cleft, with death and fire in their hand,</l>
+                     <l>Thick and silent like ants, the warriors swarm in the land.”</l>
+                  </lg>
+                  <p rend="justify">And they tell that when next the sun had climbed to the noonday skies,<lb/>It shone on the smoke of feasting in the country of the Vais.</p>
+               </div>
+               <div type="div3">
+                  <head>NOTES TO THE FEAST OF FAMINE</head>
+                  <p rend="justify">In this ballad, I have strung together some of the more striking particularities of the Marquesas.  It rests upon no authority; it is in no sense, like “Rahéro,” a native story; but a patchwork of details of manners and the impressions of a traveller.  It may seem strange, when the scene is laid upon these profligate islands, to make the story hinge on love.  But love is not less known in the Marquesas than elsewhere; nor is there any cause of suicide more common in the islands.</p>
+                  <p rend="justify">[61]  Note 1, page 61.  “<hi rend="italic">Pit of Popoi</hi>.”  Where the breadfruit was stored for preservation.</p>
+                  <p rend="justify">[62a]  Note 2, page 62.  “<hi rend="italic">Ruby-red</hi>.”  The priest’s eyes were probably red from the abuse of kava.  His beard (<hi rend="italic">ib.</hi>) is said to be worth an estate; for the beards of old men are the favourite head adornment of the Marquesans, as the hair of women formed their most costly girdle.  The former, among this generally beardless and short-lived people, fetch to-day considerable sums.</p>
+                  <p rend="justify">[62b]  Note 3, page 62.  “<hi rend="italic">Tikis</hi>.”  The tiki is an ugly image hewn out of wood or stone.</p>
+                  <p rend="justify">[67]  Note 4, page 67.  “<hi rend="italic">The one-stringed harp</hi>.”  Usually employed for serenades.</p>
+                  <p rend="justify">[69]  Note 5, page 69.  “<hi rend="italic">The sacred cabin of palm</hi>.”  Which, however, no woman could approach.  I do not know where women were tattooed; probably in the common house, or in the bush, for a woman was a creature of small account.  I must guard the reader against supposing Taheia was at all disfigured; the art of the Marquesan tattooer is extreme; and she would appear to be clothed in a web of lace, inimitably delicate, exquisite in pattern, and of a bluish hue that at once contrasts and harmonises with the warm pigment of the native skin.  It would be hard to find a woman more becomingly adorned than “a well-tattooed” Marquesan.</p>
+                  <p rend="justify">[72]  Note 6, page 72.  “<hi rend="italic">The horror of night</hi>.”  The Polynesian fear of ghosts and of the dark has been already referred to.  Their life is beleaguered by the dead.</p>
+                  <p rend="justify">[74]  Note 7, page 74.  “<hi rend="italic">The quiet passage of souls</hi>.”  So, I am told, the natives explain the sound of a little wind passing overhead unfelt.</p>
+                  <p rend="justify">[78]  Note 8, page 78.  “<hi rend="italic">The first of the victims fell</hi>.”  Without doubt, this whole scene is untrue to fact.  The victims were disposed of privately and some time before.  And indeed I am far from claiming the credit of any high degree of accuracy for this ballad.  Even in a time of famine, it is probable that Marquesan life went far more gaily than is here represented.  But the melancholy of to-day lies on the writer’s mind.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TICONDEROGA<lb/>A LEGEND OF THE WEST HIGHLANDS</head>
+               <div type="div3">
+                  <head>TICONDEROGA</head>
+                  <lg>
+                     <l>This is the tale of the man</l>
+                     <l>   Who heard a word in the night</l>
+                     <l>In the land of the heathery hills,</l>
+                     <l>   In the days of the feud and the fight.</l>
+                     <l>By the sides of the rainy sea,</l>
+                     <l>   Where never a stranger came,</l>
+                     <l>On the awful lips of the dead,</l>
+                     <l>   He heard the outlandish name.</l>
+                     <l>It sang in his sleeping ears,</l>
+                     <l>   It hummed in his waking head:</l>
+                     <l>The name—Ticonderoga,</l>
+                     <l>   The utterance of the dead.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>I.</label>THE SAYING OF THE NAME</head>
+                  <lg>
+                     <l>On the loch-sides of Appin,</l>
+                     <l>   When the mist blew from the sea,</l>
+                     <l>A Stewart stood with a Cameron:</l>
+                     <l>   An angry man was he.</l>
+                     <l>The blood beat in his ears,</l>
+                     <l>   The blood ran hot to his head,</l>
+                     <l>The mist blew from the sea,</l>
+                     <l>   And there was the Cameron dead.</l>
+                     <l>“O, what have I done to my friend,</l>
+                     <l>   O, what have I done to mysel’,</l>
+                     <l>That he should be cold and dead,</l>
+                     <l>   And I in the danger of all?</l>
+                     <l>Nothing but danger about me,</l>
+                     <l>   Danger behind and before,</l>
+                     <l>Death at wait in the heather</l>
+                     <l>   In Appin and Mamore,</l>
+                     <l>Hate at all of the ferries</l>
+                     <l>   And death at each of the fords,</l>
+                     <l>Camerons priming gunlocks</l>
+                     <l>   And Camerons sharpening swords.”</l>
+                  </lg>
+                  <lg>
+                     <l>But this was a man of counsel,</l>
+                     <l>   This was a man of a score,</l>
+                     <l>There dwelt no pawkier Stewart</l>
+                     <l>   In Appin or Mamore.</l>
+                     <l>He looked on the blowing mist,</l>
+                     <l>   He looked on the awful dead,</l>
+                     <l>And there came a smile on his face</l>
+                     <l>   And there slipped a thought in his head.</l>
+                  </lg>
+                  <lg>
+                     <l>Out over cairn and moss,</l>
+                     <l>   Out over scrog and scaur,</l>
+                     <l>He ran as runs the clansman</l>
+                     <l>   That bears the cross of war.</l>
+                     <l>His heart beat in his body,</l>
+                     <l>   His hair clove to his face,</l>
+                     <l>When he came at last in the gloaming</l>
+                     <l>   To the dead man’s brother’s place.</l>
+                     <l>The east was white with the moon,</l>
+                     <l>   The west with the sun was red,</l>
+                     <l>And there, in the house-doorway,</l>
+                     <l>   Stood the brother of the dead.</l>
+                  </lg>
+                  <lg>
+                     <l>“I have slain a man to my danger,</l>
+                     <l>   I have slain a man to my death.</l>
+                     <l>I put my soul in your hands,”</l>
+                     <l>   The panting Stewart saith.</l>
+                     <l>“I lay it bare in your hands,</l>
+                     <l>   For I know your hands are leal;</l>
+                     <l>And be you my targe and bulwark</l>
+                     <l>   From the bullet and the steel.”</l>
+                  </lg>
+                  <lg>
+                     <l>Then up and spoke the Cameron,</l>
+                     <l>   And gave him his hand again:</l>
+                     <l>“There shall never a man in Scotland</l>
+                     <l>   Set faith in me in vain;</l>
+                     <l>And whatever man you have slaughtered,</l>
+                     <l>   Of whatever name or line,</l>
+                     <l>By my sword and yonder mountain,</l>
+                     <l>   I make your quarrel mine. [103]</l>
+                     <l>I bid you in to my fireside,</l>
+                     <l>   I share with you house and hall;</l>
+                     <l>It stands upon my honour</l>
+                     <l>   To see you safe from all.”</l>
+                  </lg>
+                  <lg>
+                     <l>It fell in the time of midnight,</l>
+                     <l>   When the fox barked in the den</l>
+                     <l>And the plaids were over the faces</l>
+                     <l>   In all the houses of men,</l>
+                     <l>That as the living Cameron</l>
+                     <l>   Lay sleepless on his bed,</l>
+                     <l>Out of the night and the other world,</l>
+                     <l>   Came in to him the dead.</l>
+                  </lg>
+                  <lg>
+                     <l>“My blood is on the heather,</l>
+                     <l>   My bones are on the hill;</l>
+                     <l>There is joy in the home of ravens</l>
+                     <l>   That the young shall eat their fill.</l>
+                     <l>My blood is poured in the dust,</l>
+                     <l>   My soul is spilled in the air;</l>
+                     <l>And the man that has undone me</l>
+                     <l>   Sleeps in my brother’s care.”</l>
+                  </lg>
+                  <lg>
+                     <l>“I’m wae for your death, my brother,</l>
+                     <l>   But if all of my house were dead,</l>
+                     <l>I couldnae withdraw the plighted hand,</l>
+                     <l>   Nor break the word once said.”</l>
+                  </lg>
+                  <lg>
+                     <l>“O, what shall I say to our father,</l>
+                     <l>   In the place to which I fare?</l>
+                     <l>O, what shall I say to our mother,</l>
+                     <l>   Who greets to see me there?</l>
+                     <l>And to all the kindly Camerons</l>
+                     <l>   That have lived and died long-syne—</l>
+                     <l>Is this the word you send them,</l>
+                     <l>   Fause-hearted brother mine?”</l>
+                  </lg>
+                  <lg>
+                     <l>“It’s neither fear nor duty,</l>
+                     <l>   It’s neither quick nor dead</l>
+                     <l>Shall gar me withdraw the plighted hand,</l>
+                     <l>   Or break the word once said.”</l>
+                  </lg>
+                  <lg>
+                     <l>Thrice in the time of midnight,</l>
+                     <l>   When the fox barked in the den,</l>
+                     <l>And the plaids were over the faces</l>
+                     <l>   In all the houses of men,</l>
+                     <l>Thrice as the living Cameron</l>
+                     <l>   Lay sleepless on his bed,</l>
+                     <l>Out of the night and the other world</l>
+                     <l>   Came in to him the dead,</l>
+                     <l>And cried to him for vengeance</l>
+                     <l>   On the man that laid him low;</l>
+                     <l>And thrice the living Cameron</l>
+                     <l>   Told the dead Cameron, no.</l>
+                  </lg>
+                  <lg>
+                     <l>“Thrice have you seen me, brother,</l>
+                     <l>   But now shall see me no more,</l>
+                     <l>Till you meet your angry fathers</l>
+                     <l>   Upon the farther shore.</l>
+                     <l>Thrice have I spoken, and now,</l>
+                     <l>   Before the cock be heard,</l>
+                     <l>I take my leave for ever</l>
+                     <l>   With the naming of a word.</l>
+                     <l>It shall sing in your sleeping ears,</l>
+                     <l>   It shall hum in your waking head,</l>
+                     <l>The name—Ticonderoga,</l>
+                     <l>   And the warning of the dead.”</l>
+                  </lg>
+                  <lg>
+                     <l>Now when the night was over</l>
+                     <l>   And the time of people’s fears,</l>
+                     <l>The Cameron walked abroad,</l>
+                     <l>   And the word was in his ears.</l>
+                     <l>“Many a name I know,</l>
+                     <l>   But never a name like this;</l>
+                     <l>O, where shall I find a skilly man</l>
+                     <l>   Shall tell me what it is?”</l>
+                     <l>With many a man he counselled</l>
+                     <l>   Of high and low degree,</l>
+                     <l>With the herdsmen on the mountains</l>
+                     <l>   And the fishers of the sea.</l>
+                     <l>And he came and went unweary,</l>
+                     <l>   And read the books of yore,</l>
+                     <l>And the runes that were written of old</l>
+                     <l>   On stones upon the moor.</l>
+                     <l>And many a name he was told,</l>
+                     <l>   But never the name of his fears—</l>
+                     <l>Never, in east or west,</l>
+                     <l>   The name that rang in his ears:</l>
+                     <l>Names of men and of clans;</l>
+                     <l>   Names for the grass and the tree,</l>
+                     <l>For the smallest tarn in the mountains,</l>
+                     <l>   The smallest reef in the sea:</l>
+                     <l>Names for the high and low,</l>
+                     <l>   The names of the craig and the flat;</l>
+                     <l>But in all the land of Scotland,</l>
+                     <l>   Never a name like that.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II.</label>THE SEEKING OF THE NAME</head>
+                  <lg>
+                     <l>And now there was speech in the south,</l>
+                     <l>   And a man of the south that was wise,</l>
+                     <l>A periwig’d lord of London, [109]</l>
+                     <l>   Called on the clans to rise.</l>
+                     <l>And the riders rode, and the summons</l>
+                     <l>   Came to the western shore,</l>
+                     <l>To the land of the sea and the heather,</l>
+                     <l>   To Appin and Mamore.</l>
+                     <l>It called on all to gather</l>
+                     <l>   From every scrog and scaur,</l>
+                     <l>That loved their fathers’ tartan</l>
+                     <l>   And the ancient game of war.</l>
+                  </lg>
+                  <lg>
+                     <l>And down the watery valley</l>
+                     <l>   And up the windy hill,</l>
+                     <l>Once more, as in the olden,</l>
+                     <l>   The pipes were sounding shrill;</l>
+                     <l>Again in highland sunshine</l>
+                     <l>   The naked steel was bright;</l>
+                     <l>And the lads, once more in tartan</l>
+                     <l>   Went forth again to fight.</l>
+                  </lg>
+                  <lg>
+                     <l>“O, why should I dwell here</l>
+                     <l>   With a weird upon my life,</l>
+                     <l>When the clansmen shout for battle</l>
+                     <l>   And the war-swords clash in strife?</l>
+                     <l>I cannae joy at feast,</l>
+                     <l>   I cannae sleep in bed,</l>
+                     <l>For the wonder of the word</l>
+                     <l>   And the warning of the dead.</l>
+                     <l>It sings in my sleeping ears,</l>
+                     <l>   It hums in my waking head,</l>
+                     <l>The name—Ticonderoga,</l>
+                     <l>   The utterance of the dead.</l>
+                     <l>Then up, and with the fighting men</l>
+                     <l>   To march away from here,</l>
+                     <l>Till the cry of the great war-pipe</l>
+                     <l>   Shall drown it in my ear!”</l>
+                  </lg>
+                  <lg>
+                     <l>Where flew King George’s ensign</l>
+                     <l>   The plaided soldiers went:</l>
+                     <l>They drew the sword in Germany,</l>
+                     <l>   In Flanders pitched the tent.</l>
+                     <l>The bells of foreign cities</l>
+                     <l>   Rang far across the plain:</l>
+                     <l>They passed the happy Rhine,</l>
+                     <l>   They drank the rapid Main.</l>
+                     <l>Through Asiatic jungles</l>
+                     <l>   The Tartans filed their way,</l>
+                     <l>And the neighing of the war-pipes</l>
+                     <l>   Struck terror in Cathay. [111]</l>
+                  </lg>
+                  <lg>
+                     <l>“Many a name have I heard,” he thought,</l>
+                     <l>   “In all the tongues of men,</l>
+                     <l>Full many a name both here and there.</l>
+                     <l>   Full many both now and then.</l>
+                     <l>When I was at home in my father’s house</l>
+                     <l>   In the land of the naked knee,</l>
+                     <l>Between the eagles that fly in the lift</l>
+                     <l>   And the herrings that swim in the sea,</l>
+                     <l>And now that I am a captain-man</l>
+                     <l>   With a braw cockade in my hat—</l>
+                     <l>Many a name have I heard,” he thought,</l>
+                     <l>   “But never a name like that.”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III.</label>THE PLACE OF THE NAME</head>
+                  <lg>
+                     <l>There fell a war in a woody place,</l>
+                     <l>   Lay far across the sea,</l>
+                     <l>A war of the march in the mirk midnight</l>
+                     <l>   And the shot from behind the tree,</l>
+                     <l>The shaven head and the painted face,</l>
+                     <l>   The silent foot in the wood,</l>
+                     <l>In a land of a strange, outlandish tongue</l>
+                     <l>   That was hard to be understood.</l>
+                  </lg>
+                  <lg>
+                     <l>It fell about the gloaming</l>
+                     <l>   The general stood with his staff,</l>
+                     <l>He stood and he looked east and west</l>
+                     <l>   With little mind to laugh.</l>
+                     <l>“Far have I been and much have I seen,</l>
+                     <l>   And kent both gain and loss,</l>
+                     <l>But here we have woods on every hand</l>
+                     <l>   And a kittle water to cross.</l>
+                     <l>Far have I been and much have I seen,</l>
+                     <l>   But never the beat of this;</l>
+                     <l>And there’s one must go down to that waterside</l>
+                     <l>   To see how deep it is.”</l>
+                  </lg>
+                  <lg>
+                     <l>It fell in the dusk of the night</l>
+                     <l>   When unco things betide,</l>
+                     <l>The skilly captain, the Cameron,</l>
+                     <l>   Went down to that waterside.</l>
+                     <l>Canny and soft the captain went;</l>
+                     <l>   And a man of the woody land,</l>
+                     <l>With the shaven head and the painted face,</l>
+                     <l>   Went down at his right hand.</l>
+                     <l>It fell in the quiet night,</l>
+                     <l>   There was never a sound to ken;</l>
+                     <l>But all of the woods to the right and the left</l>
+                     <l>   Lay filled with the painted men.</l>
+                  </lg>
+                  <lg>
+                     <l>“Far have I been and much have I seen,</l>
+                     <l>   Both as a man and boy,</l>
+                     <l>But never have I set forth a foot</l>
+                     <l>   On so perilous an employ.”</l>
+                     <l>It fell in the dusk of the night</l>
+                     <l>   When unco things betide,</l>
+                     <l>That he was aware of a captain-man</l>
+                     <l>   Drew near to the waterside.</l>
+                     <l>He was aware of his coming</l>
+                     <l>   Down in the gloaming alone;</l>
+                     <l>And he looked in the face of the man</l>
+                     <l>   And lo! the face was his own.</l>
+                     <l>“This is my weird,” he said,</l>
+                     <l>   “And now I ken the worst;</l>
+                     <l>For many shall fall the morn,</l>
+                     <l>   But I shall fall with the first.</l>
+                     <l>O, you of the outland tongue,</l>
+                     <l>   You of the painted face,</l>
+                     <l>This is the place of my death;</l>
+                     <l>   Can you tell me the name of the place?”</l>
+                     <l>“Since the Frenchmen have been here</l>
+                     <l>   They have called it Sault-Marie;</l>
+                     <l>But that is a name for priests,</l>
+                     <l>   And not for you and me.</l>
+                     <l>It went by another word,”</l>
+                     <l>   Quoth he of the shaven head:</l>
+                     <l>“It was called Ticonderoga</l>
+                     <l>   In the days of the great dead.”</l>
+                  </lg>
+                  <lg>
+                     <l>And it fell on the morrow’s morning,</l>
+                     <l>   In the fiercest of the fight,</l>
+                     <l>That the Cameron bit the dust</l>
+                     <l>   As he foretold at night;</l>
+                     <l>And far from the hills of heather</l>
+                     <l>   Far from the isles of the sea,</l>
+                     <l>He sleeps in the place of the name</l>
+                     <l>   As it was doomed to be.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>NOTES TO TICONDEROGA</head>
+                  <p rend="justify">Introduction.—I first heard this legend of my own country from that friend of men of letters, Mr. Alfred Nutt, “there in roaring London’s central stream,” and since the ballad first saw the light of day in <hi rend="italic">Scribner’s Magazine</hi>, Mr. Nutt and Lord Archibald Campbell have been in public controversy on the facts.  Two clans, the Camerons and the Campbells, lay claim to this bracing story; and they do well: the man who preferred his plighted troth to the commands and menaces of the dead is an ancestor worth disputing.  But the Campbells must rest content: they have the broad lands and the broad page of history; this appanage must be denied them; for between the name of <hi rend="italic">Cameron</hi> and that of <hi rend="italic">Campbell</hi>, the muse will never hesitate.</p>
+                  <p rend="justify">[103]  Note 1, page 103.  Mr. Nutt reminds me it was “by my sword and Ben Cruachan” the Cameron swore.</p>
+                  <p rend="justify">[109]  Note 2, page 109.  “<hi rend="italic">A periwig’d lord of London</hi>.”  The first Pitt.</p>
+                  <p rend="justify">[111]  Note 3, page 111.  “<hi rend="italic">Cathay</hi>.”  There must be some omission in General Stewart’s charming <hi rend="italic">History of the Highland Regiments</hi>, a book that might well be republished and continued; or it scarce appears how our friend could have got to China.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>HEATHER ALE<lb/>A GALLOWAY LEGEND</head>
+               <div type="div3">
+                  <head>HEATHER ALE</head>
+                  <lg>
+                     <l>From the bonny bells of heather</l>
+                     <l>   They brewed a drink long-syne,</l>
+                     <l>Was sweeter far than honey,</l>
+                     <l>   Was stronger far than wine.</l>
+                     <l>They brewed it and they drank it,</l>
+                     <l>   And lay in a blessed swound</l>
+                     <l>For days and days together</l>
+                     <l>   In their dwellings underground.</l>
+                  </lg>
+                  <lg>
+                     <l>There rose a king in Scotland,</l>
+                     <l>   A fell man to his foes,</l>
+                     <l>He smote the Picts in battle,</l>
+                     <l>   He hunted them like roes.</l>
+                     <l>Over miles of the red mountain</l>
+                     <l>   He hunted as they fled,</l>
+                     <l>And strewed the dwarfish bodies</l>
+                     <l>   Of the dying and the dead.</l>
+                  </lg>
+                  <lg>
+                     <l>Summer came in the country,</l>
+                     <l>   Red was the heather bell;</l>
+                     <l>But the manner of the brewing</l>
+                     <l>   Was none alive to tell.</l>
+                     <l>In graves that were like children’s</l>
+                     <l>   On many a mountain head,</l>
+                     <l>The Brewsters of the Heather</l>
+                     <l>   Lay numbered with the dead.</l>
+                  </lg>
+                  <lg>
+                     <l>The king in the red moorland</l>
+                     <l>   Rode on a summer’s day;</l>
+                     <l>And the bees hummed, and the curlews</l>
+                     <l>   Cried beside the way.</l>
+                     <l>The king rode, and was angry,</l>
+                     <l>   Black was his brow and pale,</l>
+                     <l>To rule in a land of heather</l>
+                     <l>   And lack the Heather Ale.</l>
+                  </lg>
+                  <lg>
+                     <l>It fortuned that his vassals,</l>
+                     <l>   Riding free on the heath,</l>
+                     <l>Came on a stone that was fallen</l>
+                     <l>   And vermin hid beneath.</l>
+                     <l>Rudely plucked from their hiding,</l>
+                     <l>   Never a word they spoke:</l>
+                     <l>A son and his aged father—</l>
+                     <l>   Last of the dwarfish folk.</l>
+                  </lg>
+                  <lg>
+                     <l>The king sat high on his charger,</l>
+                     <l>   He looked on the little men;</l>
+                     <l>And the dwarfish and swarthy couple</l>
+                     <l>   Looked at the king again.</l>
+                     <l>Down by the shore he had them;</l>
+                     <l>   And there on the giddy brink—</l>
+                     <l>“I will give you life, ye vermin,</l>
+                     <l>   For the secret of the drink.”</l>
+                  </lg>
+                  <lg>
+                     <l>There stood the son and father</l>
+                     <l>   And they looked high and low;</l>
+                     <l>The heather was red around them,</l>
+                     <l>   The sea rumbled below.</l>
+                     <l>And up and spoke the father,</l>
+                     <l>   Shrill was his voice to hear:</l>
+                     <l>“I have a word in private,</l>
+                     <l>   A word for the royal ear.</l>
+                  </lg>
+                  <lg>
+                     <l>“Life is dear to the aged,</l>
+                     <l>   And honour a little thing;</l>
+                     <l>I would gladly sell the secret,”</l>
+                     <l>   Quoth the Pict to the King.</l>
+                     <l>His voice was small as a sparrow’s,</l>
+                     <l>   And shrill and wonderful clear:</l>
+                     <l>“I would gladly sell my secret,</l>
+                     <l>   Only my son I fear.</l>
+                  </lg>
+                  <lg>
+                     <l>“For life is a little matter,</l>
+                     <l>   And death is nought to the young;</l>
+                     <l>And I dare not sell my honour</l>
+                     <l>   Under the eye of my son.</l>
+                     <l>Take <hi rend="italic">him</hi>, O king, and bind him,</l>
+                     <l>   And cast him far in the deep;</l>
+                     <l>And it’s I will tell the secret</l>
+                     <l>   That I have sworn to keep.”</l>
+                  </lg>
+                  <lg>
+                     <l>They took the son and bound him,</l>
+                     <l>   Neck and heels in a thong,</l>
+                     <l>And a lad took him and swung him,</l>
+                     <l>   And flung him far and strong,</l>
+                     <l>And the sea swallowed his body,</l>
+                     <l>   Like that of a child of ten;—</l>
+                     <l>And there on the cliff stood the father,</l>
+                     <l>   Last of the dwarfish men.</l>
+                  </lg>
+                  <lg>
+                     <l>“True was the word I told you:</l>
+                     <l>   Only my son I feared;</l>
+                     <l>For I doubt the sapling courage</l>
+                     <l>   That goes without the beard.</l>
+                     <l>But now in vain is the torture,</l>
+                     <l>   Fire shall never avail:</l>
+                     <l>Here dies in my bosom</l>
+                     <l>   The secret of Heather Ale.”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>NOTE TO HEATHER ALE</head>
+                  <p rend="justify">Among the curiosities of human nature, this legend claims a high place.  It is needless to remind the reader that the Picts were never exterminated, and form to this day a large proportion of the folk of Scotland: occupying the eastern and the central parts, from the Firth of Forth, or perhaps the Lammermoors, upon the south, to the Ord of Caithness on the north.  That the blundering guess of a dull chronicler should have inspired men with imaginary loathing for their own ancestors is already strange: that it should have begotten this wild legend seems incredible.  Is it possible the chronicler’s error was merely nominal? that what he told, and what the people proved themselves so ready to receive, about the Picts, was true or partly true of some anterior and perhaps Lappish savages, small of stature, black of hue, dwelling underground—possibly also the distillers of some forgotten spirit?  See Mr. Campbell’s <hi rend="italic">Tales of the West Highlands</hi>.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>CHRISTMAS AT SEA</head>
+               <div type="div3">
+                  <head>CHRISTMAS AT SEA</head>
+                  <lg>
+                     <l>The sheets were frozen hard, and they cut the naked hand;</l>
+                     <l>The decks were like a slide, where a seaman scarce could stand;</l>
+                     <l>The wind was a nor’wester, blowing squally off the sea;</l>
+                     <l>And cliffs and spouting breakers were the only things a-lee.</l>
+                  </lg>
+                  <lg>
+                     <l>They heard the surf a-roaring before the break of day;</l>
+                     <l>But ’twas only with the peep of light we saw how ill we lay.</l>
+                     <l>We tumbled every hand on deck instanter, with a shout,</l>
+                     <l>And we gave her the maintops’l, and stood by to go about.</l>
+                  </lg>
+                  <lg>
+                     <l>All day we tacked and tacked between the South Head and the North;</l>
+                     <l>All day we hauled the frozen sheets, and got no further forth;</l>
+                     <l>All day as cold as charity, in bitter pain and dread,</l>
+                     <l>For very life and nature we tacked from head to head.</l>
+                  </lg>
+                  <lg>
+                     <l>We gave the South a wider berth, for there the tide-race roared;</l>
+                     <l>But every tack we made we brought the North Head close aboard:</l>
+                     <l>So’s we saw the cliffs and houses, and the breakers running high,</l>
+                     <l>And the coastguard in his garden, with his glass against his eye.</l>
+                  </lg>
+                  <lg>
+                     <l>The frost was on the village roofs as white as ocean foam;</l>
+                     <l>The good red fires were burning bright in every ’longshore home;</l>
+                     <l>The windows sparkled clear, and the chimneys volleyed out;</l>
+                     <l>And I vow we sniffed the victuals as the vessel went about.</l>
+                  </lg>
+                  <lg>
+                     <l>The bells upon the church were rung with a mighty jovial cheer;</l>
+                     <l>For it’s just that I should tell you how (of all days in the year)</l>
+                     <l>This day of our adversity was blessèd Christmas morn,</l>
+                     <l>And the house above the coastguard’s was the house where I was born.</l>
+                  </lg>
+                  <lg>
+                     <l>O well I saw the pleasant room, the pleasant faces there,</l>
+                     <l>My mother’s silver spectacles, my father’s silver hair;</l>
+                     <l>And well I saw the firelight, like a flight of homely elves,</l>
+                     <l>Go dancing round the china-plates that stand upon the shelves.</l>
+                  </lg>
+                  <lg>
+                     <l>And well I knew the talk they had, the talk that was of me,</l>
+                     <l>Of the shadow on the household and the son that went to sea;</l>
+                     <l>And O the wicked fool I seemed, in every kind of way,</l>
+                     <l>To be here and hauling frozen ropes on blessèd Christmas Day.</l>
+                  </lg>
+                  <lg>
+                     <l>They lit the high sea-light, and the dark began to fall.</l>
+                     <l>“All hands to loose topgallant sails,” I heard the captain call.</l>
+                     <l>“By the Lord, she’ll never stand it,” our first mate, Jackson, cried.</l>
+                     <l>. . . “It’s the one way or the other, Mr. Jackson,” he replied.</l>
+                  </lg>
+                  <lg>
+                     <l>She staggered to her bearings, but the sails were new and good,</l>
+                     <l>And the ship smelt up to windward just as though she understood.</l>
+                     <l>As the winter’s day was ending, in the entry of the night,</l>
+                     <l>We cleared the weary headland, and passed below the light.</l>
+                  </lg>
+                  <lg>
+                     <l>And they heaved a mighty breath, every soul on board but me,</l>
+                     <l>As they saw her nose again pointing handsome out to sea;</l>
+                     <l>But all that I could think of, in the darkness and the cold,</l>
+                     <l>Was just that I was leaving home and my folks were growing old.</l>
+                  </lg>
+                  <p rend="justify"> </p>
+                  <p rend="justify">THE END</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">
+                     <hi rend="italic">Printed by</hi>  R. &amp; R. Clark, <hi rend="italic">Edinburgh</hi>.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

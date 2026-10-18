@@ -1,0 +1,2892 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Tale of Balen</title>
+            <author>Algernon Charles Swinburne</author>
+            <author>ALGERNON CHARLES SWINBURNE</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T20:34:15Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/s/SwinburneAlgernonCharles-TheTaleOfBalen_2000.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Algernon Charles Swinburne</name>
+               <date>2024-01-04T20:34:15Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Tale of Balen</head>
+         <author>Algernon Charles Swinburne</author>
+         <author>ALGERNON CHARLES SWINBURNE</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/s/SwinburneAlgernonCharles-TheTaleOfBalen_2000.odt</p>
+         <p>Transcribed from the 1896 Chatto &amp; Windus edition by David Price, email ccx074@pglaf.org</p>
+         <p>printed by<lb/>spottiswoode and co., new-street square<lb/>london</p>
+         <head>THE TALE OF BALEN</head>
+         <author>by<lb/>ALGERNON CHARLES SWINBURNE</author>
+         <p>LONDON<lb/>CHATTO &amp; WINDUS, PICCADILLY<lb/>1896</p>
+         <p>Copyright in the United States, 1896, by Charles Scribner’s Sons.</p>
+         <pb/>
+         <div type="div1">
+            <head>DEDICATION</head>
+            <div type="div2">
+               <head>TO MY MOTHER</head>
+               <p>Love that holds life and death in fee,<lb/>Deep as the clear unsounded sea<lb/>And sweet as life or death can be,<lb/>Lays here my hope, my heart, and me<lb/>Before you, silent, in a song.<lb/>Since the old wild tale, made new, found grace,<lb/>When half sung through, before your face,<lb/>It needs must live a springtide space,<lb/>While April suns grow strong.</p>
+               <p>
+                  <hi rend="italic">March</hi>  24, 1896.</p>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>The Tale of Balen</head>
+            <pb/>
+            <div type="div2">
+               <head>THE TALE OF BALEN</head>
+               <div type="div3">
+                  <head>
+                     <label>I</label>
+                  </head>
+                  <lg>
+                     <l>In hawthorn-time the heart grows light,</l>
+                     <l>The world is sweet in sound and sight,</l>
+                     <l>Glad thoughts and birds take flower and flight,</l>
+                     <l>The heather kindles toward the light,</l>
+                     <l>   The whin is frankincense and flame.</l>
+                     <l>And be it for strife or be it for love</l>
+                     <l>The falcon quickens as the dove</l>
+                     <l>When earth is touched from heaven above</l>
+                     <l>   With joy that knows no name.</l>
+                  </lg>
+                  <lg>
+                     <l>And glad in spirit and sad in soul</l>
+                     <l>With dream and doubt of days that roll</l>
+                     <l>As waves that race and find no goal</l>
+                     <l>Rode on by bush and brake and bole</l>
+                     <l>   A northern child of earth and sea.</l>
+                     <l>The pride of life before him lay</l>
+                     <l>Radiant: the heavens of night and day</l>
+                     <l>Shone less than shone before his way</l>
+                     <l>   His ways and days to be.</l>
+                  </lg>
+                  <lg>
+                     <l>And all his life of blood and breath</l>
+                     <l>Sang out within him: time and death</l>
+                     <l>Were even as words a dreamer saith</l>
+                     <l>When sleep within him slackeneth,</l>
+                     <l>   And light and life and spring were one.</l>
+                     <l>The steed between his knees that sprang,</l>
+                     <l>The moors and woods that shone and sang,</l>
+                     <l>The hours where through the spring’s breath rang,</l>
+                     <l>   Seemed ageless as the sun.</l>
+                  </lg>
+                  <lg>
+                     <l>But alway through the bounteous bloom</l>
+                     <l>That earth gives thanks if heaven illume</l>
+                     <l>His soul forefelt a shadow of doom,</l>
+                     <l>His heart foreknew a gloomier gloom</l>
+                     <l>   Than closes all men’s equal ways,</l>
+                     <l>Albeit the spirit of life’s light spring</l>
+                     <l>With pride of heart upheld him, king</l>
+                     <l>And lord of hours like snakes that sting</l>
+                     <l>   And nights that darken days.</l>
+                  </lg>
+                  <lg>
+                     <l>And as the strong spring round him grew</l>
+                     <l>Stronger, and all blithe winds that blew</l>
+                     <l>Blither, and flowers that flowered anew</l>
+                     <l>More glad of sun and air and dew,</l>
+                     <l>   The shadow lightened on his soul</l>
+                     <l>And brightened into death and died</l>
+                     <l>Like winter, as the bloom waxed wide</l>
+                     <l>From woodside on to riverside</l>
+                     <l>   And southward goal to goal.</l>
+                  </lg>
+                  <lg>
+                     <l>Along the wandering ways of Tyne,</l>
+                     <l>By beech and birch and thorn that shine</l>
+                     <l>And laugh when life’s requickening wine</l>
+                     <l>Makes night and noon and dawn divine</l>
+                     <l>   And stirs in all the veins of spring,</l>
+                     <l>And past the brightening banks of Tees,</l>
+                     <l>He rode as one that breathes and sees</l>
+                     <l>A sun more blithe, a merrier breeze,</l>
+                     <l>   A life that hails him king.</l>
+                  </lg>
+                  <lg>
+                     <l>And down the softening south that knows</l>
+                     <l>No more how glad the heather glows,</l>
+                     <l>Nor how, when winter’s clarion blows</l>
+                     <l>Across the bright Northumbrian snows,</l>
+                     <l>   Sea-mists from east and westward meet,</l>
+                     <l>Past Avon senseless yet of song</l>
+                     <l>And Thames that bore but swans in throng</l>
+                     <l>He rode elate in heart and strong</l>
+                     <l>   In trust of days as sweet.</l>
+                  </lg>
+                  <lg>
+                     <l>So came he through to Camelot,</l>
+                     <l>Glad, though for shame his heart waxed hot,</l>
+                     <l>For hope within it withered not</l>
+                     <l>To see the shaft it dreamed of shot</l>
+                     <l>   Fair toward the glimmering goal of fame,</l>
+                     <l>And all King Arthur’s knightliest there</l>
+                     <l>Approved him knightly, swift to dare</l>
+                     <l>And keen to bid their records bear</l>
+                     <l>   Sir Balen’s northern name.</l>
+                  </lg>
+                  <lg>
+                     <l>Sir Balen of Northumberland</l>
+                     <l>Gat grace before the king to stand</l>
+                     <l>High as his heart was, and his hand</l>
+                     <l>Wrought honour toward the strange north strand</l>
+                     <l>   That sent him south so goodly a knight.</l>
+                     <l>And envy, sick with sense of sin,</l>
+                     <l>Began as poisonous herbs begin</l>
+                     <l>To work in base men’s blood, akin</l>
+                     <l>   To men’s of nobler might.</l>
+                  </lg>
+                  <lg>
+                     <l>And even so fell it that his doom,</l>
+                     <l>For all his bright life’s kindling bloom</l>
+                     <l>And light that took no thought for gloom,</l>
+                     <l>Fell as a breath from the opening tomb</l>
+                     <l>   Full on him ere he wist or thought.</l>
+                     <l>For once a churl of royal seed,</l>
+                     <l>King Arthur’s kinsman, faint in deed</l>
+                     <l>And loud in word that knew not heed,</l>
+                     <l>   Spake shame where shame was nought.</l>
+                  </lg>
+                  <lg>
+                     <l>“What doth one here in Camelot</l>
+                     <l>Whose birth was northward?  Wot we not</l>
+                     <l>As all his brethren borderers wot</l>
+                     <l>How blind of heart, how keen and hot,</l>
+                     <l>   The wild north lives and hates the south?</l>
+                     <l>Men of the narrowing march that knows</l>
+                     <l>Nought save the strength of storms and snows,</l>
+                     <l>What would these carles where knighthood blows</l>
+                     <l>   A trump of kinglike mouth?”</l>
+                  </lg>
+                  <lg>
+                     <l>Swift from his place leapt Balen, smote</l>
+                     <l>The liar across his face, and wrote</l>
+                     <l>His wrath in blood upon the bloat</l>
+                     <l>Brute cheek that challenged shame for note</l>
+                     <l>   How vile a king-born knave might be.</l>
+                     <l>Forth sprang their swords, and Balen slew</l>
+                     <l>The knave ere well one witness knew</l>
+                     <l>Of all that round them stood or drew</l>
+                     <l>   What sight was there to see.</l>
+                  </lg>
+                  <lg>
+                     <l>Then spake the great king’s wrathful will</l>
+                     <l>A doom for six dark months to fill</l>
+                     <l>Wherein close prison held him, still</l>
+                     <l>And steadfast-souled for good or ill.</l>
+                     <l>   But when those weary days lay dead</l>
+                     <l>His lordliest knights and barons spake</l>
+                     <l>Before the king for Balen’s sake</l>
+                     <l>Good speech and wise, of force to break</l>
+                     <l>   The bonds that bowed his head.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                  </head>
+                  <lg>
+                     <l>In linden-time the heart is high</l>
+                     <l>For pride of summer passing by</l>
+                     <l>With lordly laughter in her eye;</l>
+                     <l>A heavy splendour in the sky</l>
+                     <l>   Uplifts and bows it down again.</l>
+                     <l>The spring had waned from wood and wold</l>
+                     <l>Since Balen left his prison hold</l>
+                     <l>And lowlier-hearted than of old</l>
+                     <l>   Beheld it wax and wane.</l>
+                  </lg>
+                  <lg>
+                     <l>Though humble heart and poor array</l>
+                     <l>Kept not from spirit and sense away</l>
+                     <l>Their noble nature, nor could slay</l>
+                     <l>The pride they bade but pause and stay</l>
+                     <l>   Till time should bring its trust to flower,</l>
+                     <l>Yet even for noble shame’s sake, born</l>
+                     <l>Of hope that smiled on hate and scorn,</l>
+                     <l>He held him still as earth ere morn</l>
+                     <l>   Ring forth her rapturous hour.</l>
+                  </lg>
+                  <lg>
+                     <l>But even as earth when dawn takes flight</l>
+                     <l>And beats her wings of dewy light</l>
+                     <l>Full in the faltering face of night,</l>
+                     <l>His soul awoke to claim by right</l>
+                     <l>   The life and death of deed and doom,</l>
+                     <l>When once before the king there came</l>
+                     <l>A maiden clad with grief and shame</l>
+                     <l>And anguish burning her like flame</l>
+                     <l>   That feeds on flowers in bloom.</l>
+                  </lg>
+                  <lg>
+                     <l>Beneath a royal mantle, fair</l>
+                     <l>With goodly work of lustrous vair,</l>
+                     <l>Girt fast against her side she bare</l>
+                     <l>A sword whose weight bade all men there</l>
+                     <l>   Quail to behold her face again.</l>
+                     <l>Save of a passing perfect knight</l>
+                     <l>Not great alone in force and fight</l>
+                     <l>It might not be for any might</l>
+                     <l>   Drawn forth, and end her pain.</l>
+                  </lg>
+                  <lg>
+                     <l>So said she: then King Arthur spake:</l>
+                     <l>“Albeit indeed I dare not take</l>
+                     <l>Such praise on me, for knighthood’s sake</l>
+                     <l>And love of ladies will I make</l>
+                     <l>   Assay if better none may be.”</l>
+                     <l>By girdle and by sheath he caught</l>
+                     <l>The sheathed and girded sword, and wrought</l>
+                     <l>With strength whose force availed him nought</l>
+                     <l>   To save and set her free.</l>
+                  </lg>
+                  <lg>
+                     <l>Again she spake: “No need to set</l>
+                     <l>The might that man has matched not yet</l>
+                     <l>Against it: he whose hand shall get</l>
+                     <l>Grace to release the bonds that fret</l>
+                     <l>   My bosom and my girdlestead</l>
+                     <l>With little strain of strength or strife</l>
+                     <l>Shall bring me as from death to life</l>
+                     <l>And win to sister or to wife</l>
+                     <l>   Fame that outlives men dead.”</l>
+                  </lg>
+                  <lg>
+                     <l>Then bade the king his knights assay</l>
+                     <l>This mystery that before him lay</l>
+                     <l>And mocked his might of manhood.  “Nay,”</l>
+                     <l>Quoth she, “the man that takes away</l>
+                     <l>   This burden laid on me must be</l>
+                     <l>A knight of record clean and fair</l>
+                     <l>As sunlight and the flowerful air,</l>
+                     <l>By sire and mother born to bear</l>
+                     <l>   A name to shame not me.”</l>
+                  </lg>
+                  <lg>
+                     <l>Then forth strode Launcelot, and laid</l>
+                     <l>The mighty-moulded hand that made</l>
+                     <l>Strong knights reel back like birds affrayed</l>
+                     <l>By storm that smote them as they strayed</l>
+                     <l>   Against the hilt that yielded not.</l>
+                     <l>Then Tristram, bright and sad and kind</l>
+                     <l>As one that bore in noble mind</l>
+                     <l>Love that made light as darkness blind,</l>
+                     <l>   Fared even as Launcelot.</l>
+                  </lg>
+                  <lg>
+                     <l>Then Lamoracke, with hardier cheer,</l>
+                     <l>As one that held all hope and fear</l>
+                     <l>Wherethrough the spirit of man may steer</l>
+                     <l>In life and death less dark or dear,</l>
+                     <l>   Laid hand thereon, and fared as they.</l>
+                     <l>With half a smile his hand he drew</l>
+                     <l>Back from the spell-bound thing, and threw</l>
+                     <l>With half a glance his heart anew</l>
+                     <l>   Toward no such blameless may.</l>
+                  </lg>
+                  <lg>
+                     <l>Between Iseult and Guenevere</l>
+                     <l>Sat one of name as high to hear,</l>
+                     <l>But darklier doomed than they whose cheer</l>
+                     <l>Foreshowed not yet the deadlier year</l>
+                     <l>   That bids the queenliest head bow down,</l>
+                     <l>The queen Morgause of Orkney: they</l>
+                     <l>With scarce a flash of the eye could say</l>
+                     <l>The very word of dawn, when day</l>
+                     <l>   Gives earth and heaven their crown.</l>
+                  </lg>
+                  <lg>
+                     <l>But bright and dark as night or noon</l>
+                     <l>And lowering as a storm-flushed moon</l>
+                     <l>When clouds and thwarting winds distune</l>
+                     <l>The music of the midnight, soon</l>
+                     <l>   To die from darkening star to star</l>
+                     <l>And leave a silence in the skies</l>
+                     <l>That yearns till dawn find voice and rise,</l>
+                     <l>Shone strange as fate Morgause, with eyes</l>
+                     <l>   That dwelt on days afar.</l>
+                  </lg>
+                  <lg>
+                     <l>A glance that shot on Lamoracke</l>
+                     <l>As from a storm-cloud bright and black.</l>
+                     <l>Fire swift and blind as death’s own track</l>
+                     <l>Turned fleet as flame on Arthur back</l>
+                     <l>   From him whose hand forsook the hilt:</l>
+                     <l>And one in blood and one in sin</l>
+                     <l>Their hearts caught fire of pain within</l>
+                     <l>And knew no goal for them to win</l>
+                     <l>   But death that guerdons guilt.</l>
+                  </lg>
+                  <lg>
+                     <l>Then Gawain, sweet of soul and gay</l>
+                     <l>As April ere he dreams of May,</l>
+                     <l>Strove, and prevailed not: then Sir Kay,</l>
+                     <l>The snake-souled envier, vile as they</l>
+                     <l>   That fawn and foam and lurk and lie,</l>
+                     <l>Sire of the bastard band whose brood</l>
+                     <l>Was alway found at servile feud</l>
+                     <l>With honour, faint and false and lewd,</l>
+                     <l>   Scarce grasped and put it by.</l>
+                  </lg>
+                  <lg>
+                     <l>Then wept for woe the damsel bound</l>
+                     <l>With iron and with anguish round,</l>
+                     <l>That none to help her grief was found</l>
+                     <l>Or loose the inextricably inwound</l>
+                     <l>   Grim curse that girt her life with grief</l>
+                     <l>And made a burden of her breath,</l>
+                     <l>Harsh as the bitterness of death.</l>
+                     <l>Then spake the king as one that saith</l>
+                     <l>   Words bitterer even than brief.</l>
+                  </lg>
+                  <lg>
+                     <l>“Methought the wide round world could bring</l>
+                     <l>Before the face of queen or king</l>
+                     <l>No knights more fit for fame to sing</l>
+                     <l>Than fill this full Round Table’s ring</l>
+                     <l>   With honour higher than pride of place:</l>
+                     <l>But now my heart is wrung to know,</l>
+                     <l>Damsel, that none whom fame can show</l>
+                     <l>Finds grace to heal or help thy woe:</l>
+                     <l>   God gives them not the grace.”</l>
+                  </lg>
+                  <lg>
+                     <l>Then from the lowliest place thereby,</l>
+                     <l>With heart-enkindled cheek and eye</l>
+                     <l>Most like the star and kindling sky</l>
+                     <l>That say the sundawn’s hour is high</l>
+                     <l>   When rapture trembles through the sea,</l>
+                     <l>Strode Balen in his poor array</l>
+                     <l>Forth, and took heart of grace to pray</l>
+                     <l>The damsel suffer even him to assay</l>
+                     <l>   His power to set her free.</l>
+                  </lg>
+                  <lg>
+                     <l>Nay, how should he avail, she said,</l>
+                     <l>Averse with scorn-averted head,</l>
+                     <l>Where these availed not? none had sped</l>
+                     <l>Of all these mightier men that led</l>
+                     <l>   The lists wherein he might not ride,</l>
+                     <l>And how should less men speed?  But he,</l>
+                     <l>With lordlier pride of courtesy,</l>
+                     <l>Put forth his hand and set her free</l>
+                     <l>   From pain and humbled pride.</l>
+                  </lg>
+                  <lg>
+                     <l>But on the sword he gazed elate</l>
+                     <l>With hope set higher than fear or fate,</l>
+                     <l>Or doubt of darkling days in wait;</l>
+                     <l>And when her thankful praise waxed great</l>
+                     <l>   And craved of him the sword again,</l>
+                     <l>He would not give it.  “Nay, for mine</l>
+                     <l>It is till force may make it thine.”</l>
+                     <l>A smile that shone as death may shine</l>
+                     <l>   Spake toward him bale and bane.</l>
+                  </lg>
+                  <lg>
+                     <l>Strange lightning flickered from her eyes.</l>
+                     <l>“Gentle and good in knightliest guise</l>
+                     <l>And meet for quest of strange emprise</l>
+                     <l>Thou hast here approved thee: yet not wise</l>
+                     <l>   To keep the sword from me, I wis.</l>
+                     <l>For with it thou shalt surely slay</l>
+                     <l>Of all that look upon the day</l>
+                     <l>The man best loved of thee, and lay</l>
+                     <l>   Thine own life down for his.”</l>
+                  </lg>
+                  <lg>
+                     <l>“What chance God sends, that chance I take,”</l>
+                     <l>He said.  Then soft and still she spake;</l>
+                     <l>“I would but for thine only sake</l>
+                     <l>Have back the sword of thee, and break</l>
+                     <l>   The links of doom that bind thee round.</l>
+                     <l>But seeing thou wilt not have it so,</l>
+                     <l>My heart for thine is wrung with woe.”</l>
+                     <l>“God’s will,” quoth he, “it is, we know,</l>
+                     <l>   Wherewith our lives are bound.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Repent it must thou soon,” she said,</l>
+                     <l>“Who wouldst not hear the rede I read</l>
+                     <l>For thine and not for my sake, sped</l>
+                     <l>In vain as waters heavenward shed</l>
+                     <l>   From springs that falter and depart</l>
+                     <l>Earthward.  God bids not thee believe</l>
+                     <l>Truth, and the web thy life must weave</l>
+                     <l>For even this sword to close and cleave</l>
+                     <l>   Hangs heavy round my heart.”</l>
+                  </lg>
+                  <lg>
+                     <l>So passed she mourning forth.  But he,</l>
+                     <l>With heart of springing hope set free</l>
+                     <l>As birds that breast and brave the sea,</l>
+                     <l>Bade horse and arms and armour be</l>
+                     <l>   Made straightway ready toward the fray.</l>
+                     <l>Nor even might Arthur’s royal prayer</l>
+                     <l>Withhold him, but with frank and fair</l>
+                     <l>Thanksgiving and leave-taking there</l>
+                     <l>   He turned him thence away.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                  </head>
+                  <lg>
+                     <l>As the east wind, when the morning’s breast</l>
+                     <l>Gleams like a bird’s that leaves the nest,</l>
+                     <l>A fledgeling halcyon’s bound on quest,</l>
+                     <l>Drives wave on wave on wave to west</l>
+                     <l>   Till all the sea be life and light,</l>
+                     <l>So time’s mute breath, that brings to bloom</l>
+                     <l>All flowers that strew the dead spring’s tomb,</l>
+                     <l>Drives day on day on day to doom</l>
+                     <l>   Till all man’s day be night.</l>
+                  </lg>
+                  <lg>
+                     <l>Brief as the breaking of a wave</l>
+                     <l>That hurls on man his thunderous grave</l>
+                     <l>Ere fear find breath to cry or crave</l>
+                     <l>Life that no chance may spare or save,</l>
+                     <l>   The light of joy and glory shone</l>
+                     <l>Even as in dreams where death seems dead</l>
+                     <l>Round Balen’s hope-exalted head,</l>
+                     <l>Shone, passed, and lightened as it fled</l>
+                     <l>   The shadow of doom thereon.</l>
+                  </lg>
+                  <lg>
+                     <l>For as he bound him thence to fare,</l>
+                     <l>Before the stately presence there</l>
+                     <l>A lady like a windflower fair,</l>
+                     <l>Girt on with raiment strange and rare</l>
+                     <l>   That rippled whispering round her, came.</l>
+                     <l>Her clear cold eyes, all glassy grey,</l>
+                     <l>Seemed lit not with the light of day</l>
+                     <l>But touched with gleams that waned away</l>
+                     <l>   Of quelled and fading flame.</l>
+                  </lg>
+                  <lg>
+                     <l>Before the king she bowed and spake:</l>
+                     <l>“King, for thine old faith’s plighted sake</l>
+                     <l>To me the lady of the lake,</l>
+                     <l>I come in trust of thee to take</l>
+                     <l>   The guerdon of the gift I gave,</l>
+                     <l>Thy sword Excalibur.”  And he</l>
+                     <l>Made answer: “Be it whate’er it be,</l>
+                     <l>If mine to give, I give it thee,</l>
+                     <l>   Nor need is thine to crave.”</l>
+                  </lg>
+                  <lg>
+                     <l>As when a gleam of wicked light</l>
+                     <l>Turns half a low-lying water bright</l>
+                     <l>That moans beneath the shivering night</l>
+                     <l>With sense of evil sound and sight</l>
+                     <l>   And whispering witchcraft’s bated breath,</l>
+                     <l>Her wan face quickened as she said:</l>
+                     <l>“This knight that won the sword—his head</l>
+                     <l>I crave or hers that brought it.  Dead,</l>
+                     <l>   Let these be one in death.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Not with mine honour this may be;</l>
+                     <l>Ask all save this thou wilt,” quoth he,</l>
+                     <l>“And have thy full desire.”  But she</l>
+                     <l>Made answer: “Nought will I of thee,</l>
+                     <l>   Nought if not this.”  Then Balen turned,</l>
+                     <l>And saw the sorceress hard beside</l>
+                     <l>By whose fell craft his mother died:</l>
+                     <l>Three years he had sought her, and here espied</l>
+                     <l>   His heart against her yearned.</l>
+                  </lg>
+                  <lg>
+                     <l>“Ill be thou met,” he said, “whose ire</l>
+                     <l>Would slake with blood thy soul’s desire:</l>
+                     <l>By thee my mother died in fire;</l>
+                     <l>Die thou by me a death less dire.”</l>
+                     <l>   Sharp flashed his sword forth, fleet as flame,</l>
+                     <l>And shore away her sorcerous head.</l>
+                     <l>“Alas for shame,” the high king said,</l>
+                     <l>“That one found once my friend lies dead;</l>
+                     <l>   Alas for all our shame!</l>
+                  </lg>
+                  <lg>
+                     <l>“Thou shouldst have here forborne her; yea,</l>
+                     <l>Were all the wrongs that bid men slay</l>
+                     <l>Thine, heaped too high for wrath to weigh,</l>
+                     <l>Not here before my face today</l>
+                     <l>   Was thine the right to wreak thy wrong.”</l>
+                     <l>Still stood he then as one that found</l>
+                     <l>His rose of hope by storm discrowned,</l>
+                     <l>And all the joy that girt him round</l>
+                     <l>   Brief as a broken song.</l>
+                  </lg>
+                  <lg>
+                     <l>Yet ere he passed he turned and spake:</l>
+                     <l>“King, only for thy nobler sake</l>
+                     <l>Than aught of power man’s power may take</l>
+                     <l>Or pride of place that pride may break</l>
+                     <l>   I bid the lordlier man in thee,</l>
+                     <l>That lives within the king, give ear.</l>
+                     <l>This justice done before thee here</l>
+                     <l>On one that hell’s own heart holds dear,</l>
+                     <l>   Needs might not this but be.</l>
+                  </lg>
+                  <lg>
+                     <l>“Albeit, for all that pride would prove,</l>
+                     <l>My heart be wrung to lose thy love,</l>
+                     <l>It yet repents me not hereof:</l>
+                     <l>So many an eagle and many a dove,</l>
+                     <l>   So many a knight, so many a may,</l>
+                     <l>This water-snake of poisonous tongue</l>
+                     <l>To death by words and wiles hath stung,</l>
+                     <l>That her their slayer, from hell’s lake sprung,</l>
+                     <l>   I did not ill to slay.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Yea,” said the king, “too high of heart</l>
+                     <l>To stand before a king thou art;</l>
+                     <l>Yet irks it me to bid thee part</l>
+                     <l>And take thy penance for thy part,</l>
+                     <l>   That God may put upon thy pride.”</l>
+                     <l>Then Balen took the severed head</l>
+                     <l>And toward his hostry turned and sped</l>
+                     <l>As one that knew not quick from dead</l>
+                     <l>   Nor good from evil tide.</l>
+                  </lg>
+                  <lg>
+                     <l>He bade his squire before him stand</l>
+                     <l>And take that sanguine spoil in hand</l>
+                     <l>And bear it far by shore and strand</l>
+                     <l>Till all in glad Northumberland</l>
+                     <l>   That loved him, seeing it, all might know</l>
+                     <l>His deadliest foe was dead, and hear</l>
+                     <l>How free from prison as from fear</l>
+                     <l>He dwelt in trust of the answering year</l>
+                     <l>   To bring him weal for woe.</l>
+                  </lg>
+                  <lg>
+                     <l>“And tell them, now I take my way</l>
+                     <l>To meet in battle, if I may,</l>
+                     <l>King Ryons of North Wales, and slay</l>
+                     <l>That king of kernes whose fiery sway</l>
+                     <l>   Doth all the marches dire despite</l>
+                     <l>That serve King Arthur: so shall he</l>
+                     <l>Again be gracious lord to me,</l>
+                     <l>And I that leave thee meet with thee</l>
+                     <l>   Once more in Arthur’s sight.”</l>
+                  </lg>
+                  <lg>
+                     <l>So spake he ere they parted, nor</l>
+                     <l>Took shame or fear to counsellor,</l>
+                     <l>As one whom none laid ambush for;</l>
+                     <l>And wist not how Sir Launceor,</l>
+                     <l>   The wild king’s son of Ireland, hot</l>
+                     <l>And high in wrath to know that one</l>
+                     <l>Stood higher in fame before the sun,</l>
+                     <l>Even Balen, since the sword was won,</l>
+                     <l>   Drew nigh from Camelot.</l>
+                  </lg>
+                  <lg>
+                     <l>For thence, in heat of hate and pride,</l>
+                     <l>As one that man might bid not bide,</l>
+                     <l>He craved the high king’s grace to ride</l>
+                     <l>On quest of Balen far and wide</l>
+                     <l>   And wreak the wrong his wrath had wrought.</l>
+                     <l>“Yea,” Arthur said, “for such despite</l>
+                     <l>Was done me never in my sight</l>
+                     <l>As this thine hand shall now requite</l>
+                     <l>   If trust avail us aught.”</l>
+                  </lg>
+                  <lg>
+                     <l>But ere he passed, in eager mood</l>
+                     <l>To feed his hate with bitter food,</l>
+                     <l>Before the king’s face Merlin stood</l>
+                     <l>And heard his tale of ill and good,</l>
+                     <l>   Of Balen, and the sword achieved,</l>
+                     <l>And whence it smote as heaven’s red ire</l>
+                     <l>That direful dame of doom as dire;</l>
+                     <l>And how the king’s wrath turned to fire</l>
+                     <l>   The grief wherewith he grieved.</l>
+                  </lg>
+                  <lg>
+                     <l>And darkening as he gave it ear,</l>
+                     <l>The still face of the sacred seer</l>
+                     <l>Waxed wan with wrath and not with fear,</l>
+                     <l>And ever changed its cloudier cheer</l>
+                     <l>   Till all his face was very night.</l>
+                     <l>“This damosel that brought the sword,”</l>
+                     <l>He said, “before the king my lord,</l>
+                     <l>And all these knights about his board,</l>
+                     <l>   Hath done them all despite.</l>
+                  </lg>
+                  <lg>
+                     <l>“The falsest damosel she is</l>
+                     <l>That works men ill on earth, I wis,</l>
+                     <l>And all her mind is toward but this,</l>
+                     <l>To kill as with a lying kiss</l>
+                     <l>   Truth, and the life of noble trust.</l>
+                     <l>A brother hath she,—see but now</l>
+                     <l>The flame of shame that brands her brow!—</l>
+                     <l>A true man, pure as faith’s own vow,</l>
+                     <l>   Whose honour knows not rust.</l>
+                  </lg>
+                  <lg>
+                     <l>“This good knight found within her bower</l>
+                     <l>A felon and her paramour,</l>
+                     <l>And slew him in his shameful hour,</l>
+                     <l>As right gave might and righteous power</l>
+                     <l>   To hands that wreaked so foul a wrong.</l>
+                     <l>Then, for the hate her heart put on,</l>
+                     <l>She sought by ways where death had gone</l>
+                     <l>The lady Lyle of Avalon,</l>
+                     <l>   Whose crafts are strange and strong.</l>
+                  </lg>
+                  <lg>
+                     <l>“The sorceress, one with her in thought,</l>
+                     <l>Gave her that sword of magic, wrought</l>
+                     <l>By charms whereof sweet heaven sees nought,</l>
+                     <l>That hither girt on her she brought</l>
+                     <l>   To be by doom her brother’s bane.</l>
+                     <l>And grief it is to think how he</l>
+                     <l>That won it, being of heart so free</l>
+                     <l>And perfect found in chivalry,</l>
+                     <l>   Shall by that sword lie slain.</l>
+                  </lg>
+                  <lg>
+                     <l>Great pity it is and strange despite</l>
+                     <l>That one whose eyes are stars to light</l>
+                     <l>Honour, and shine as heaven’s own height,</l>
+                     <l>Should perish, being the goodliest knight</l>
+                     <l>   That even the all-glorious north has borne.</l>
+                     <l>Nor shall my lord the king behold</l>
+                     <l>A lordlier friend of mightier mould</l>
+                     <l>Than Balen, though his tale be told</l>
+                     <l>   Ere noon fulfil his morn.”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IV</label>
+                  </head>
+                  <lg>
+                     <l>As morning hears before it run</l>
+                     <l>The music of the mounting sun,</l>
+                     <l>And laughs to watch his trophies won</l>
+                     <l>From darkness, and her hosts undone,</l>
+                     <l>   And all the night become a breath,</l>
+                     <l>Nor dreams that fear should hear and flee</l>
+                     <l>The summer menace of the sea,</l>
+                     <l>So hears our hope what life may be,</l>
+                     <l>   And knows it not for death.</l>
+                  </lg>
+                  <lg>
+                     <l>Each day that slays its hours and dies</l>
+                     <l>Weeps, laughs, and lightens on our eyes,</l>
+                     <l>And sees and hears not: smiles and sighs</l>
+                     <l>As flowers ephemeral fall and rise</l>
+                     <l>   About its birth, about its way,</l>
+                     <l>And pass as love and sorrow pass,</l>
+                     <l>As shadows flashing down a glass,</l>
+                     <l>As dew-flowers blowing in flowerless grass,</l>
+                     <l>   As hope from yesterday.</l>
+                  </lg>
+                  <lg>
+                     <l>The blossom of the sunny dew</l>
+                     <l>That now the stronger sun strikes through</l>
+                     <l>Fades off the blade whereon it blew</l>
+                     <l>No fleetlier than the flowers that grew</l>
+                     <l>   On hope’s green stem in life’s fierce light.</l>
+                     <l>Nor might the glory soon to sit</l>
+                     <l>Awhile on Balen’s crest alit</l>
+                     <l>Outshine the shadow of doom on it</l>
+                     <l>   Or stay death’s wings from flight.</l>
+                  </lg>
+                  <lg>
+                     <l>Dawn on a golden moorland side</l>
+                     <l>By holt and heath saw Balen ride</l>
+                     <l>And Launceor after, pricked with pride</l>
+                     <l>And stung with spurring envy: wide</l>
+                     <l>   And far he had ridden athwart strange lands</l>
+                     <l>And sought amiss the man he found</l>
+                     <l>And cried on, till the stormy sound</l>
+                     <l>Rang as a rallying trumpet round</l>
+                     <l>   That fires men’s hearts and hands.</l>
+                  </lg>
+                  <lg>
+                     <l>Abide he bade him: nor was need</l>
+                     <l>To bid when Balen wheeled his steed</l>
+                     <l>Fiercely, less fain by word than deed</l>
+                     <l>To bid his envier evil speed,</l>
+                     <l>   And cried, “What wilt thou with me?”  Loud</l>
+                     <l>Rang Launceor’s vehement answer: “Knight,</l>
+                     <l>To avenge on thee the dire despite</l>
+                     <l>Thou hast done us all in Arthur’s sight</l>
+                     <l>   I stand toward Arthur vowed.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Ay?” Balen said: “albeit I see</l>
+                     <l>I needs must deal in strife with thee,</l>
+                     <l>Light is the wyte thou layest on me;</l>
+                     <l>For her I slew and sinned not, she</l>
+                     <l>   Was dire in all men’s eyes as death,</l>
+                     <l>Or none were lother found than I</l>
+                     <l>By me to bid a woman die:</l>
+                     <l>As lief were loyal men to lie,</l>
+                     <l>   Or scorn what honour saith.”</l>
+                  </lg>
+                  <lg>
+                     <l>As the arched wave’s weight against the reef</l>
+                     <l>Hurls, and is hurled back like a leaf</l>
+                     <l>Storm-shrivelled, and its rage of grief</l>
+                     <l>Speaks all the loud broad sea in brief,</l>
+                     <l>   And quells the hearkening hearts of men,</l>
+                     <l>Or as the crash of overfalls</l>
+                     <l>Down under blue smooth water brawls</l>
+                     <l>Like jarring steel on ruining walls,</l>
+                     <l>   So rang their meeting then.</l>
+                  </lg>
+                  <lg>
+                     <l>As wave on wave shocks, and confounds</l>
+                     <l>The bounding bulk whereon it bounds</l>
+                     <l>And breaks and shattering seaward sounds</l>
+                     <l>As crying of the old sea’s wolves and hounds</l>
+                     <l>   That moan and ravin and rage and wail,</l>
+                     <l>So steed on steed encountering sheer</l>
+                     <l>Shocked, and the strength of Launceor’s spear</l>
+                     <l>Shivered on Balen’s shield, and fear</l>
+                     <l>   Bade hope within him quail.</l>
+                  </lg>
+                  <lg>
+                     <l>But Balen’s spear through Launceor’s shield</l>
+                     <l>Clove as a ploughshare cleaves the field</l>
+                     <l>And pierced the hauberk triple-steeled,</l>
+                     <l>That horse with horseman stricken reeled,</l>
+                     <l>   And as a storm-breached rock falls, fell.</l>
+                     <l>And Balen turned his horse again</l>
+                     <l>And wist not yet his foe lay slain,</l>
+                     <l>And saw him dead that sought his bane</l>
+                     <l>   And wrought and fared not well.</l>
+                  </lg>
+                  <lg>
+                     <l>Suddenly, while he gazed and stood,</l>
+                     <l>And mused in many-minded mood</l>
+                     <l>If life or death were evil or good,</l>
+                     <l>Forth of a covert of a wood</l>
+                     <l>   That skirted half the moorland lea</l>
+                     <l>Fast rode a maiden flower-like white</l>
+                     <l>Full toward that fair wild place of fight,</l>
+                     <l>Anhungered of the woful sight</l>
+                     <l>   God gave her there to see.</l>
+                  </lg>
+                  <lg>
+                     <l>And seeing the man there fallen and dead,</l>
+                     <l>She cried against the sun that shed</l>
+                     <l>Light on the living world, and said,</l>
+                     <l>“O Balen, slayer whose hand is red,</l>
+                     <l>   Two bodies and one heart thou hast slain,</l>
+                     <l>Two hearts within one body: aye,</l>
+                     <l>Two souls thou hast lost; by thee they die,</l>
+                     <l>Cast out of sight of earth and sky</l>
+                     <l>   And all that made them fain.”</l>
+                  </lg>
+                  <lg>
+                     <l>And from the dead his sword she caught,</l>
+                     <l>And fell in trance that wist of nought,</l>
+                     <l>Swooning: but softly Balen sought</l>
+                     <l>To win from her the sword she thought</l>
+                     <l>   To die on, dying by Launceor’s side.</l>
+                     <l>Again her wakening wail outbroke</l>
+                     <l>As wildly, sword in hand, she woke</l>
+                     <l>And struck one swift and bitter stroke</l>
+                     <l>   That healed her, and she died.</l>
+                  </lg>
+                  <lg>
+                     <l>And sorrowing for their strange love’s sake</l>
+                     <l>Rode Balen forth by lawn and lake,</l>
+                     <l>By moor and moss and briar and brake,</l>
+                     <l>And in his heart their sorrow spake</l>
+                     <l>   Whose lips were dumb as death, and said</l>
+                     <l>Mute words of presage blind and vain</l>
+                     <l>As rain-stars blurred and marred by rain</l>
+                     <l>To wanderers on a moonless main</l>
+                     <l>   Where night and day seem dead.</l>
+                  </lg>
+                  <lg>
+                     <l>Then toward a sunbright wildwood side</l>
+                     <l>He looked and saw beneath it ride</l>
+                     <l>A knight whose arms afar espied</l>
+                     <l>By note of name and proof of pride</l>
+                     <l>   Bare witness of his brother born,</l>
+                     <l>His brother Balan, hard at hand,</l>
+                     <l>Twin flower of bright Northumberland,</l>
+                     <l>Twin sea-bird of their loud sea-strand,</l>
+                     <l>   Twin song-bird of their morn.</l>
+                  </lg>
+                  <lg>
+                     <l>Ah then from Balen passed away</l>
+                     <l>All dread of night, all doubt of day,</l>
+                     <l>All care what life or death might say,</l>
+                     <l>All thought of all worse months than May:</l>
+                     <l>   Only the might of joy in love</l>
+                     <l>Brake forth within him as a fire,</l>
+                     <l>And deep delight in deep desire</l>
+                     <l>Of far-flown days whose full-souled quire</l>
+                     <l>   Rang round from the air above.</l>
+                  </lg>
+                  <lg>
+                     <l>From choral earth and quiring air</l>
+                     <l>Rang memories winged like songs that bear</l>
+                     <l>Sweet gifts for spirit and sense to share:</l>
+                     <l>For no man’s life knows love more fair</l>
+                     <l>   And fruitful of memorial things</l>
+                     <l>Than this the deep dear love that breaks</l>
+                     <l>With sense of life on life, and makes</l>
+                     <l>The sundawn sunnier as it wakes</l>
+                     <l>   Where morning round it rings.</l>
+                  </lg>
+                  <lg>
+                     <l>“O brother, O my brother!” cried</l>
+                     <l>Each upon each, and cast aside</l>
+                     <l>Their helms unbraced that might not hide</l>
+                     <l>From sight of memory single-eyed</l>
+                     <l>   The likeness graven of face and face,</l>
+                     <l>And kissed and wept upon each other</l>
+                     <l>For joy and pity of either brother,</l>
+                     <l>And love engrafted by sire and mother,</l>
+                     <l>   God’s natural gift of grace.</l>
+                  </lg>
+                  <lg>
+                     <l>And each with each took counsel meet</l>
+                     <l>For comfort, making sorrow sweet,</l>
+                     <l>And grief a goodly thing to greet:</l>
+                     <l>And word from word leapt light and fleet</l>
+                     <l>   Till all the venturous tale was told,</l>
+                     <l>And how in Balen’s hope it lay</l>
+                     <l>To meet the wild Welsh king and slay,</l>
+                     <l>And win from Arthur back for pay</l>
+                     <l>   The grace he gave of old.</l>
+                  </lg>
+                  <lg>
+                     <l>“And thither will not thou with me</l>
+                     <l>And win as great a grace for thee?”</l>
+                     <l>“That will I well,” quoth Balan: “we</l>
+                     <l>Will cleave together, bound and free,</l>
+                     <l>   As brethren should, being twain and one.”</l>
+                     <l>But ere they parted thence there came</l>
+                     <l>A creature withered as with flame,</l>
+                     <l>A dwarf mismade in nature’s shame,</l>
+                     <l>   Between them and the sun.</l>
+                  </lg>
+                  <lg>
+                     <l>And riding fleet as fire may glide</l>
+                     <l>He found the dead lie side by side,</l>
+                     <l>And wailed and rent his hair and cried,</l>
+                     <l>“Who hath done this deed?”  And Balen eyed</l>
+                     <l>   The strange thing loathfully, and said,</l>
+                     <l>“The knight I slew, who found him fain</l>
+                     <l>And keen to slay me: seeing him slain,</l>
+                     <l>The maid I sought to save in vain,</l>
+                     <l>   Self-stricken, here lies dead.</l>
+                  </lg>
+                  <lg>
+                     <l>“Sore grief was mine to see her die,</l>
+                     <l>And for her true faith’s sake shall I</l>
+                     <l>Love, and with love of heart more high,</l>
+                     <l>All women better till I die.”</l>
+                     <l>   “Alas,” the dwarf said, “ill for thee</l>
+                     <l>In evil hour this deed was done:</l>
+                     <l>For now the quest shall be begun</l>
+                     <l>Against thee, from the dawning sun</l>
+                     <l>   Even to the sunset sea.</l>
+                  </lg>
+                  <lg>
+                     <l>“From shore to mountain, dawn to night,</l>
+                     <l>The kinsfolk of this great dead knight</l>
+                     <l>Will chase thee to thy death.”  A light</l>
+                     <l>Of swift blithe scorn flashed answer bright</l>
+                     <l>   As fire from Balen’s eye.  “For that,</l>
+                     <l>Small fear shall fret my heart,” quoth he:</l>
+                     <l>“But that my lord the king should be</l>
+                     <l>For this dead man’s sake wroth with me,</l>
+                     <l>   Weep might it well thereat.”</l>
+                  </lg>
+                  <lg>
+                     <l>Then murmuring passed the dwarf away,</l>
+                     <l>And toward the knights in fair array</l>
+                     <l>Came riding eastward up the way</l>
+                     <l>From where the flower-soft lowlands lay</l>
+                     <l>   A king whose name the sweet south-west</l>
+                     <l>Held high in honour, and the land</l>
+                     <l>That bowed beneath his gentle hand</l>
+                     <l>Wore on its wild bright northern strand</l>
+                     <l>   Tintagel for a crest.</l>
+                  </lg>
+                  <lg>
+                     <l>And Balen hailed with homage due</l>
+                     <l>King Mark of Cornwall, when he knew</l>
+                     <l>The pennon that before him flew:</l>
+                     <l>And for those lovers dead and true</l>
+                     <l>   The king made moan to hear their doom;</l>
+                     <l>And for their sorrow’s sake he sware</l>
+                     <l>To seek in all the marches there</l>
+                     <l>The church that man might find most fair</l>
+                     <l>   And build therein their tomb.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>V</label>
+                  </head>
+                  <lg>
+                     <l>As thought from thought takes wing and flies,</l>
+                     <l>As month on month with sunlit eyes</l>
+                     <l>Tramples and triumphs in its rise,</l>
+                     <l>As wave smites wave to death and dies,</l>
+                     <l>   So chance on hurtling chance like steel</l>
+                     <l>Strikes, flashes, and is quenched, ere fear</l>
+                     <l>Can whisper hope, or hope can hear,</l>
+                     <l>If sorrow or joy be far or near</l>
+                     <l>   For time to hurt or heal.</l>
+                  </lg>
+                  <lg>
+                     <l>Swift as a shadow and strange as light</l>
+                     <l>That cleaves in twain the shadow of night</l>
+                     <l>Before the wide-winged word takes flight</l>
+                     <l>That thunder speaks to depth and height</l>
+                     <l>   And quells the quiet hour with sound,</l>
+                     <l>There came before King Mark and stood</l>
+                     <l>Between the moorside and the wood</l>
+                     <l>The man whose word God’s will made good,</l>
+                     <l>   Nor guile was in it found.</l>
+                  </lg>
+                  <lg>
+                     <l>And Merlin said to Balen: “Lo,</l>
+                     <l>Thou hast wrought thyself a grievous woe</l>
+                     <l>To let this lady die, and know</l>
+                     <l>Thou mightst have stayed her deadly blow.”</l>
+                     <l>   And Balen answered him and said,</l>
+                     <l>“Nay, by my truth to faith, not I,</l>
+                     <l>So fiercely fain she was to die;</l>
+                     <l>Ere well her sword had flashed on high,</l>
+                     <l>   Self-slain she lay there dead.”</l>
+                  </lg>
+                  <lg>
+                     <l>Again and sadly Merlin spake:</l>
+                     <l>“My heart is wrung for this deed’s sake,</l>
+                     <l>To know thee therefore doomed to take</l>
+                     <l>Upon thine hand a curse, and make</l>
+                     <l>   Three kingdoms pine through twelve years’ change,</l>
+                     <l>In want and woe: for thou shalt smite</l>
+                     <l>The man most noble and truest knight</l>
+                     <l>That looks upon the live world’s light</l>
+                     <l>   A dolorous stroke and strange.</l>
+                  </lg>
+                  <lg>
+                     <l>“And not till years shall round their goal</l>
+                     <l>May this man’s wound thou hast given be whole.”</l>
+                     <l>And Balen, stricken through the soul</l>
+                     <l>By dark-winged words of doom and dole,</l>
+                     <l>   Made answer: “If I wist it were</l>
+                     <l>No lie but sooth thou sayest of me,</l>
+                     <l>Then even to make a liar of thee</l>
+                     <l>Would I too slay myself, and see</l>
+                     <l>   How death bids dead men fare.”</l>
+                  </lg>
+                  <lg>
+                     <l>And Merlin took his leave and passed</l>
+                     <l>And was not: and the shadow as fast</l>
+                     <l>Went with him that his word had cast,</l>
+                     <l>Too fleet for thought thereof to last:</l>
+                     <l>   And there those brethren bade King Mark</l>
+                     <l>Farewell: but fain would Mark have known</l>
+                     <l>The strong knight’s name who had overthrown</l>
+                     <l>The pride of Launceor, when it shone</l>
+                     <l>   Bright as it now lay dark.</l>
+                  </lg>
+                  <lg>
+                     <l>And Balan for his brother spake,</l>
+                     <l>Saying: “Sir, albeit him list not break</l>
+                     <l>The seal of secret time, nor shake</l>
+                     <l>Night off him ere his morning wake,</l>
+                     <l>   By these two swords he is girt withal</l>
+                     <l>May men that praise him, knights and lords,</l>
+                     <l>Call him the knight that bears two swords,</l>
+                     <l>And all the praise his fame accords</l>
+                     <l>   Make answer when they call.”</l>
+                  </lg>
+                  <lg>
+                     <l>So parted they toward eventide;</l>
+                     <l>And tender twilight, heavy-eyed,</l>
+                     <l>Saw deep down glimmering woodlands ride</l>
+                     <l>Balen and Balan side by side,</l>
+                     <l>   Till where the leaves grew dense and dim</l>
+                     <l>Again they spied from far draw near</l>
+                     <l>The presence of the sacred seer,</l>
+                     <l>But so disguised and strange of cheer</l>
+                     <l>   That seeing they knew not him.</l>
+                  </lg>
+                  <lg>
+                     <l>“Now whither ride ye,” Merlin said,</l>
+                     <l>“Through shadows that the sun strikes red,</l>
+                     <l>Ere night be born or day be dead?”</l>
+                     <l>But they, for doubt half touched with dread,</l>
+                     <l>   Would say not where their goal might lie.</l>
+                     <l>“And thou,” said Balen, “what art thou,</l>
+                     <l>To walk with shrouded eye and brow?”</l>
+                     <l>He said: “Me lists not show thee now</l>
+                     <l>   By name what man am I.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Ill seen is this of thee,” said they,</l>
+                     <l>“That thou art true in word and way</l>
+                     <l>Nor fain to fear the face of day,</l>
+                     <l>Who wilt not as a true man say</l>
+                     <l>   The name it shames not him to bear.”</l>
+                     <l>He answered: “Be it or be it not so,</l>
+                     <l>Yet why ye ride this way I know,</l>
+                     <l>To meet King Ryons as a foe,</l>
+                     <l>   And how your hope shall fare.</l>
+                  </lg>
+                  <lg>
+                     <l>“Well, if ye hearken toward my rede,</l>
+                     <l>Ill, if ye hear not, shall ye speed.”</l>
+                     <l>“Ah, now,” they cried, “thou art ours at need</l>
+                     <l>What Merlin saith we are fain to heed.”</l>
+                     <l>   “Great worship shall ye win,” said he,</l>
+                     <l>“And look that ye do knightly now,</l>
+                     <l>For great shall be your need, I trow.”</l>
+                     <l>And Balen smiled: “By knighthood’s vow,</l>
+                     <l>   The best we may will we.”</l>
+                  </lg>
+                  <lg>
+                     <l>Then Merlin bade them turn and take</l>
+                     <l>Rest, for their good steeds’ weary sake,</l>
+                     <l>Between the highway and the brake,</l>
+                     <l>Till starry midnight bade them wake:</l>
+                     <l>   Then “Rise,” he said, “the king is nigh,</l>
+                     <l>Who hath stolen from all his host away</l>
+                     <l>With threescore horse in armed array,</l>
+                     <l>The goodliest knights that bear his sway</l>
+                     <l>   And hold his kingdom high.</l>
+                  </lg>
+                  <lg>
+                     <l>“And twenty ride of them before</l>
+                     <l>To bear his errand, ere the door</l>
+                     <l>Turn of the night, sealed fast no more,</l>
+                     <l>And sundawn bid the stars wax hoar;</l>
+                     <l>   For by the starshine of to-night</l>
+                     <l>He seeks a leman where she waits</l>
+                     <l>His coming, dark and swift as fate’s,</l>
+                     <l>And hearkens toward the unopening gates</l>
+                     <l>   That yield not him to sight.</l>
+                  </lg>
+                  <lg>
+                     <l>Then through the glimmering gloom around</l>
+                     <l>A shadowy sense of light and sound</l>
+                     <l>Made, ere the proof thereof were found,</l>
+                     <l>The brave blithe hearts within them bound,</l>
+                     <l>   And “Where,” quoth Balen, “rides the king?”</l>
+                     <l>But softer spake the seer: “Abide,</l>
+                     <l>Till hither toward your spears he ride,</l>
+                     <l>Where all the narrowing woodland side</l>
+                     <l>   Grows dense with boughs that cling.”</l>
+                  </lg>
+                  <lg>
+                     <l>There in that straitening way they met</l>
+                     <l>The wild Welsh host against them set,</l>
+                     <l>And smote their strong king down, ere yet</l>
+                     <l>His hurrying horde of spears might get</l>
+                     <l>   Fierce vantage of them.  Then the fight</l>
+                     <l>Grew great and joyous as it grew,</l>
+                     <l>For left and right those brethren slew,</l>
+                     <l>Till all the lawn waxed red with dew</l>
+                     <l>   More deep than dews of night.</l>
+                  </lg>
+                  <lg>
+                     <l>And ere the full fierce tale was read</l>
+                     <l>Full forty lay before them dead,</l>
+                     <l>And fast the hurtling remnant fled</l>
+                     <l>And wist not whither fear had led:</l>
+                     <l>   And toward the king they went again,</l>
+                     <l>And would have slain him: but he bowed</l>
+                     <l>Before them, crying in fear aloud</l>
+                     <l>For grace they gave him, seeing the proud</l>
+                     <l>   Wild king brought lowest of men.</l>
+                  </lg>
+                  <lg>
+                     <l>And ere the wildwood leaves were stirred</l>
+                     <l>With song or wing of wakening bird,</l>
+                     <l>In Camelot was Merlin’s word</l>
+                     <l>With joy in joyous wonder heard</l>
+                     <l>   That told of Arthur’s bitterest foe</l>
+                     <l>Diskingdomed and discomfited.</l>
+                     <l>“By whom?” the high king smiled and said.</l>
+                     <l>He answered: “Ere the dawn wax red,</l>
+                     <l>   To-morrow bids you know.</l>
+                  </lg>
+                  <lg>
+                     <l>“Two knights whose heart and hope are one</l>
+                     <l>And fain to win your grace have done</l>
+                     <l>This work whereby if grace be won</l>
+                     <l>Their hearts shall hail the enkindling sun</l>
+                     <l>   With joy more keen and deep than day.”</l>
+                     <l>And ere the sundawn drank the dew</l>
+                     <l>Those brethren with their prisoner drew</l>
+                     <l>To the outer guard they gave him to</l>
+                     <l>   And passed again away.</l>
+                  </lg>
+                  <lg>
+                     <l>And Arthur came as toward his guest</l>
+                     <l>To greet his foe, and bade him rest</l>
+                     <l>As one returned from nobler quest</l>
+                     <l>And welcome from the stormbright west,</l>
+                     <l>   But by what chance he fain would hear.</l>
+                     <l>“The chance was hard and strange, sir king,”</l>
+                     <l>Quoth Ryons, bowed in thanksgiving.</l>
+                     <l>“Who won you?” Arthur said: “the thing</l>
+                     <l>   Is worth a warrior’s ear.”</l>
+                  </lg>
+                  <lg>
+                     <l>The wild king flushed with pride and shame,</l>
+                     <l>Answering: “I know not either name</l>
+                     <l>Of those that there against us came</l>
+                     <l>And withered all our strength like flame:</l>
+                     <l>   The knight that bears two swords is one,</l>
+                     <l>And one his brother: not on earth</l>
+                     <l>May men meet men of knightlier worth</l>
+                     <l>Nor mightier born of mortal birth</l>
+                     <l>   That hail the sovereign sun.”</l>
+                  </lg>
+                  <lg>
+                     <l>And Arthur said: “I know them not</l>
+                     <l>But much am I for this, God wet,</l>
+                     <l>Beholden to them: Launcelot</l>
+                     <l>Nor Tristram, when the war waxed hot</l>
+                     <l>   Along the marches east and west,</l>
+                     <l>Wrought ever nobler work than this.”</l>
+                     <l>“Ah,” Merlin said, “sore pity it is</l>
+                     <l>And strange mischance of doom, I wis,</l>
+                     <l>   That death should mar their quest.</l>
+                  </lg>
+                  <lg>
+                     <l>“Balen, the perfect knight that won</l>
+                     <l>The sword whose name is malison,</l>
+                     <l>And made his deed his doom, is one:</l>
+                     <l>Nor hath his brother Balan done</l>
+                     <l>   Less royal service: not on earth</l>
+                     <l>Lives there a nobler knight, more strong</l>
+                     <l>Of soul to win men’s praise in song,</l>
+                     <l>Albeit the light abide not long</l>
+                     <l>   That lightened round his birth.</l>
+                  </lg>
+                  <lg>
+                     <l>“Yea, and of all sad things I know</l>
+                     <l>The heaviest and the highest in woe</l>
+                     <l>Is this, the doom whose date brings low</l>
+                     <l>Too soon in timeless overthrow</l>
+                     <l>   A head so high, a hope so sure.</l>
+                     <l>The greatest moan for any knight</l>
+                     <l>That ever won fair fame in fight</l>
+                     <l>Shall be for Balen, seeing his might</l>
+                     <l>   Must now not long endure.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Alas,” King Arthur said, “he hath shown</l>
+                     <l>Such love to me-ward that the moan</l>
+                     <l>Made of him should be mine alone</l>
+                     <l>Above all other, knowing it known</l>
+                     <l>   I have ill deserved it of him.”  “Nay,”</l>
+                     <l>Said Merlin, “he shall do for you</l>
+                     <l>Much more, when time shall be anew,</l>
+                     <l>Than time hath given him chance to do</l>
+                     <l>   Or hope may think to say.</l>
+                  </lg>
+                  <lg>
+                     <l>“But now must be your powers purveyed</l>
+                     <l>To meet, ere noon of morn be made</l>
+                     <l>To-morrow, all the host arrayed</l>
+                     <l>Of this wild foe’s wild brother, laid</l>
+                     <l>   Around against you: see to it well,</l>
+                     <l>For now I part from you.”  And soon,</l>
+                     <l>When sundawn slew the withering moon,</l>
+                     <l>Two hosts were met to win the boon</l>
+                     <l>   Whose tale is death’s to tell.</l>
+                  </lg>
+                  <lg>
+                     <l>A lordly tale of knights and lords</l>
+                     <l>For death to tell by count of swords</l>
+                     <l>When war’s wild harp in all its chords</l>
+                     <l>Rang royal triumph, and the hordes</l>
+                     <l>   Of hurtling foemen rocked and reeled</l>
+                     <l>As waves wind-thwarted on the sea,</l>
+                     <l>Was told of all that there might be,</l>
+                     <l>Till scarce might battle hear or see</l>
+                     <l>   The fortune of the field.</l>
+                  </lg>
+                  <lg>
+                     <l>And many a knight won fame that day</l>
+                     <l>When even the serpent soul of Kay</l>
+                     <l>Was kindled toward the fiery play</l>
+                     <l>As might a lion’s be for prey,</l>
+                     <l>   And won him fame that might not die</l>
+                     <l>With passing of his rancorous breath</l>
+                     <l>But clung about his life and death</l>
+                     <l>As fire that speaks in cloud, and saith</l>
+                     <l>   What strong men hear and fly.</l>
+                  </lg>
+                  <lg>
+                     <l>And glorious works were Arthur’s there,</l>
+                     <l>That lit the battle-darkened air:</l>
+                     <l>But when they saw before them fare</l>
+                     <l>Like stars of storm the knight that bare</l>
+                     <l>   Two swords about him girt for fray,</l>
+                     <l>Balen, and Balan with him, then</l>
+                     <l>Strong wonder smote the souls of men</l>
+                     <l>If heaven’s own host or hell’s deep den</l>
+                     <l>   Had sent them forth to slay.</l>
+                  </lg>
+                  <lg>
+                     <l>So keen they rode across the fight,</l>
+                     <l>So sharp they smote to left and right,</l>
+                     <l>And made of hurtling darkness light</l>
+                     <l>With lightning of their swords, till flight</l>
+                     <l>   And fear before them flew like flame,</l>
+                     <l>That Arthur’s self had never known,</l>
+                     <l>He said, since first his blast was blown,</l>
+                     <l>Such lords of war as these alone</l>
+                     <l>   That whence he knew not came.</l>
+                  </lg>
+                  <lg>
+                     <l>But while the fire of war waxed hot</l>
+                     <l>The wild king hearkened, hearing not,</l>
+                     <l>Through storm of spears and arrow-shot,</l>
+                     <l>For succour toward him from King Lot</l>
+                     <l>   And all his host of sea-born men,</l>
+                     <l>Strong as the strong storm-baffling bird</l>
+                     <l>Whose cry round Orkney’s headlands heard</l>
+                     <l>Is as the sea’s own sovereign word</l>
+                     <l>   That mocks our mortal ken.</l>
+                  </lg>
+                  <lg>
+                     <l>For Merlin’s craft of prophecy,</l>
+                     <l>Who wist that one of twain must die,</l>
+                     <l>Put might in him to say thereby</l>
+                     <l>Which head should lose its crown, and lie</l>
+                     <l>   Stricken, though loth he were to know</l>
+                     <l>That either life should wane and fail;</l>
+                     <l>Yet most might Arthur’s love avail,</l>
+                     <l>And still with subtly tempered tale</l>
+                     <l>   His wile held fast the foe.</l>
+                  </lg>
+                  <lg>
+                     <l>With woven words of magic might</l>
+                     <l>Wherein the subtle shadow and light</l>
+                     <l>Changed hope and fear till fear took flight,</l>
+                     <l>He stayed King Lot’s fierce lust of fight</l>
+                     <l>   Till all the wild Welsh war was driven</l>
+                     <l>As foam before the wind that wakes</l>
+                     <l>With the all-awakening sun, and breaks</l>
+                     <l>Strong ships that rue the mirth it makes</l>
+                     <l>   When grace to slay is given.</l>
+                  </lg>
+                  <lg>
+                     <l>And ever hotter lit and higher,</l>
+                     <l>As fire that meets encountering fire,</l>
+                     <l>Waxed in King Lot his keen desire</l>
+                     <l>To bid revenge within him tire</l>
+                     <l>   On Arthur’s ravaged fame and life:</l>
+                     <l>Across the waves of war between</l>
+                     <l>Floated and flashed, unseen and seen,</l>
+                     <l>The lustrous likeness of the queen</l>
+                     <l>   Whom shame had sealed his wife.</l>
+                  </lg>
+                  <lg>
+                     <l>But when the woful word was brought</l>
+                     <l>That while he tarried, doubting nought,</l>
+                     <l>The hope was lost whose goal he sought</l>
+                     <l>And all the fight he yearned for fought,</l>
+                     <l>   His heart was rent for grief and shame,</l>
+                     <l>And half his hope was set on flight</l>
+                     <l>Till word was given him of a knight</l>
+                     <l>Who said: “They are weary and worn with fight,</l>
+                     <l>   And we more fresh than flame.”</l>
+                  </lg>
+                  <lg>
+                     <l>And bright and dark as night and day</l>
+                     <l>Ere either find the unopening way</l>
+                     <l>Clear, and forego the unaltering sway,</l>
+                     <l>The sad king’s face shone, frowning: “Yea,</l>
+                     <l>   I would that every knight of mine</l>
+                     <l>Would do his part as I shall do,”</l>
+                     <l>He said, “till death or life anew</l>
+                     <l>Shall judge between us as is due</l>
+                     <l>   With wiser doom than thine.”</l>
+                  </lg>
+                  <lg>
+                     <l>Then thundered all the awakening field</l>
+                     <l>With crash of hosts that clashed and reeled,</l>
+                     <l>Banner to banner, shield to shield,</l>
+                     <l>And spear to splintering spear-shaft, steeled</l>
+                     <l>   As heart against high heart of man,</l>
+                     <l>As hope against high hope of knight</l>
+                     <l>To pluck the crest and crown of fight</l>
+                     <l>From war’s clenched hand by storm’s wild light,</l>
+                     <l>   For blessing given or ban.</l>
+                  </lg>
+                  <lg>
+                     <l>All hearts of hearkening men that heard</l>
+                     <l>The ban twin-born with blessing, stirred</l>
+                     <l>Like springtide waters, knew the word</l>
+                     <l>Whereby the steeds of storm are spurred</l>
+                     <l>   With ravenous rapture to destroy,</l>
+                     <l>And laughed for love of battle, pierced</l>
+                     <l>With passion of tempestuous thirst</l>
+                     <l>And hungering hope to assuage it first</l>
+                     <l>   With draughts of stormy joy.</l>
+                  </lg>
+                  <lg>
+                     <l>But sheer ahead of the iron tide</l>
+                     <l>That rocked and roared from side to side</l>
+                     <l>Rode as the lightning’s lord might ride</l>
+                     <l>King Lot, whose heart was set to abide</l>
+                     <l>   All peril of the raging hour,</l>
+                     <l>And all his host of warriors born</l>
+                     <l>Where lands by warring seas are worn</l>
+                     <l>Was only by his hands upborne</l>
+                     <l>   Who gave them pride and power.</l>
+                  </lg>
+                  <lg>
+                     <l>But as the sea’s hand smites the shore</l>
+                     <l>And shatters all the strengths that bore</l>
+                     <l>The ravage earth may bear no more,</l>
+                     <l>So smote the hand of Pellinore</l>
+                     <l>   Charging, a knight of Arthur’s chief,</l>
+                     <l>And clove his strong steed’s neck in twain,</l>
+                     <l>And smote him sheer through brow and brain,</l>
+                     <l>Falling: and there King Lot lay slain,</l>
+                     <l>   And knew not wrath or grief.</l>
+                  </lg>
+                  <lg>
+                     <l>And all the host of Orkney fled,</l>
+                     <l>And many a mother’s son lay dead:</l>
+                     <l>But when they raised the stricken head</l>
+                     <l>Whence pride and power and shame were fled</l>
+                     <l>   And rage and anguish now cast out,</l>
+                     <l>And bore it toward a kingly tomb,</l>
+                     <l>The wife whose love had wrought his doom</l>
+                     <l>Came thither, fair as morning’s bloom</l>
+                     <l>   And dark as twilight’s doubt.</l>
+                  </lg>
+                  <lg>
+                     <l>And there her four strong sons and his,</l>
+                     <l>Gawain and Gareth, Gaherys</l>
+                     <l>And Agravain, whose sword’s sharp kiss</l>
+                     <l>With sound of hell’s own serpent’s hiss</l>
+                     <l>   Should one day turn her life to death,</l>
+                     <l>Stood mourning with her: but by these</l>
+                     <l>Seeing Mordred as a seer that sees,</l>
+                     <l>Anguish of terror bent her knees</l>
+                     <l>   And caught her shuddering breath.</l>
+                  </lg>
+                  <lg>
+                     <l>The splendour of her sovereign eyes</l>
+                     <l>Flashed darkness deeper than the skies</l>
+                     <l>Feel or fear when the sunset dies</l>
+                     <l>On his that felt as midnight rise</l>
+                     <l>   Their doom upon them, there undone</l>
+                     <l>By faith in fear ere thought could yield</l>
+                     <l>A shadowy sense of days revealed,</l>
+                     <l>The ravin of the final field,</l>
+                     <l>   The terror of their son.</l>
+                  </lg>
+                  <lg>
+                     <l>For Arthur’s, as they caught the light</l>
+                     <l>That sought and durst not seek his sight,</l>
+                     <l>Darkened, and all his spirit’s might</l>
+                     <l>Withered within him even as night</l>
+                     <l>   Withers when sunrise thrills the sea.</l>
+                     <l>But Mordred’s lightened as with fire</l>
+                     <l>That smote his mother and his sire</l>
+                     <l>With darkling doom and deep desire</l>
+                     <l>   That bade its darkness be.</l>
+                  </lg>
+                  <lg>
+                     <l>And heavier on their hearts the weight</l>
+                     <l>Sank of the fear that brings forth fate,</l>
+                     <l>The bitter doubt whose womb is great</l>
+                     <l>With all the grief and love and hate</l>
+                     <l>   That turn to fire men’s days on earth.</l>
+                     <l>And glorious was the funeral made,</l>
+                     <l>And dark the deepening dread that swayed</l>
+                     <l>Their darkening souls whose light grew shade</l>
+                     <l>   With sense of death in birth.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VI</label>
+                  </head>
+                  <lg>
+                     <l>In autumn, when the wind and sea</l>
+                     <l>Rejoice to live and laugh to be,</l>
+                     <l>And scarce the blast that curbs the tree</l>
+                     <l>And bids before it quail and flee</l>
+                     <l>   The fiery foliage, where its brand</l>
+                     <l>Is radiant as the seal of spring,</l>
+                     <l>Sounds less delight, and waves a wing</l>
+                     <l>Less lustrous, life’s loud thanksgiving</l>
+                     <l>   Puts life in sea and land.</l>
+                  </lg>
+                  <lg>
+                     <l>High hope in Balen’s heart alight</l>
+                     <l>Laughed, as from all that clamorous fight</l>
+                     <l>He passed and sought not Arthur’s sight,</l>
+                     <l>Who fain had found his kingliest knight</l>
+                     <l>   And made amend for Balen’s wrong.</l>
+                     <l>But Merlin gave his soul to see</l>
+                     <l>Fate, rising as a shoreward sea,</l>
+                     <l>And all the sorrow that should be</l>
+                     <l>   Ere hope or fear thought long.</l>
+                  </lg>
+                  <lg>
+                     <l>“O where are they whose hands upbore</l>
+                     <l>My battle,” Arthur said, “before</l>
+                     <l>The wild Welsh host’s wide rage and roar?</l>
+                     <l>Balen and Balan, Pellinore,</l>
+                     <l>   Where are they?”  Merlin answered him:</l>
+                     <l>“Balen shall be not long away</l>
+                     <l>From sight of you, but night nor day</l>
+                     <l>Shall bring his brother back to say</l>
+                     <l>   If life burn bright or dim.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Now, by my faith,” said Arthur then,</l>
+                     <l>“Two marvellous knights are they, whose ken</l>
+                     <l>Toward battle makes the twain as ten,</l>
+                     <l>And Balen most of all born men</l>
+                     <l>   Passeth of prowess all I know</l>
+                     <l>Or ever found or sought to see:</l>
+                     <l>Would God he would abide with me,</l>
+                     <l>To face the times foretold of thee</l>
+                     <l>   And all the latter woe.”</l>
+                  </lg>
+                  <lg>
+                     <l>For there had Merlin shown the king</l>
+                     <l>The doom that songs unborn should sing,</l>
+                     <l>The gifts that time should rise and bring</l>
+                     <l>Of blithe and bitter days to spring</l>
+                     <l>   As weeds and flowers against the sun.</l>
+                     <l>And on the king for fear’s sake fell</l>
+                     <l>Sickness, and sorrow deep as hell,</l>
+                     <l>Nor even might sleep bid fear farewell</l>
+                     <l>   If grace to sleep were won.</l>
+                  </lg>
+                  <lg>
+                     <l>Down in a meadow green and still</l>
+                     <l>He bade the folk that wrought his will</l>
+                     <l>Pitch his pavilion, where the chill</l>
+                     <l>Soft night would let not rest fulfil</l>
+                     <l>   His heart wherein dark fears lay deep.</l>
+                     <l>And sharp against his hearing cast</l>
+                     <l>Came a sound as of horsehoofs fast</l>
+                     <l>Passing, that ere their sound were past</l>
+                     <l>   Aroused him as from sleep.</l>
+                  </lg>
+                  <lg>
+                     <l>And forth he looked along the grass</l>
+                     <l>And saw before his portal pass</l>
+                     <l>A knight that wailed aloud, “Alas</l>
+                     <l>That life should find this dolorous pass</l>
+                     <l>   And find no shield from doom and dole!”</l>
+                     <l>And hearing all his moan, “Abide,</l>
+                     <l>Fair sir,” the king arose and cried,</l>
+                     <l>“And say what sorrow bids you ride</l>
+                     <l>   So sorrowful of soul.”</l>
+                  </lg>
+                  <lg>
+                     <l>“My hurt may no man heal, God wot,</l>
+                     <l>And help of man may speed me not,”</l>
+                     <l>The sad knight said, “nor change my lot.”</l>
+                     <l>And toward the castle of Melyot</l>
+                     <l>   Whose towers arose a league away</l>
+                     <l>He passed forth sorrowing: and anon,</l>
+                     <l>Ere well the woful sight were gone,</l>
+                     <l>Came Balen down the meads that shone,</l>
+                     <l>   Strong, bright, and brave as day.</l>
+                  </lg>
+                  <lg>
+                     <l>And seeing the king there stand, the knight</l>
+                     <l>Drew rein before his face to alight</l>
+                     <l>In reverence made for love’s sake bright</l>
+                     <l>With joy that set his face alight</l>
+                     <l>   As theirs who see, alive, above,</l>
+                     <l>The sovereign of their souls, whose name</l>
+                     <l>To them is even as love’s own flame</l>
+                     <l>To enkindle hope that heeds not fame</l>
+                     <l>   And knows no lord but love.</l>
+                  </lg>
+                  <lg>
+                     <l>And Arthur smiled on him, and said,</l>
+                     <l>“Right welcome be thou: by my head,</l>
+                     <l>I would not wish me better sped.</l>
+                     <l>For even but now there came and fled</l>
+                     <l>   Before me like a cloud that flies</l>
+                     <l>A knight that made most heavy cheer,</l>
+                     <l>I know not wherefore; nor may fear</l>
+                     <l>Or pity give my heart to hear</l>
+                     <l>   Or lighten on mine eyes.</l>
+                  </lg>
+                  <lg>
+                     <l>“But even for fear’s and pity’s sake</l>
+                     <l>Fain were I thou shouldst overtake</l>
+                     <l>And fetch again this knight that spake</l>
+                     <l>No word of answering grace to make</l>
+                     <l>   Reply to mine that hailed him: thou,</l>
+                     <l>By force or by goodwill, shalt bring</l>
+                     <l>His face before me.”  “Yea, my king,”</l>
+                     <l>Quoth Balen, “and a greater thing</l>
+                     <l>   Were less than is my vow.</l>
+                  </lg>
+                  <lg>
+                     <l>“I would the task required and heard</l>
+                     <l>Were heavier than your sovereign word</l>
+                     <l>Hath laid on me:” and thence he spurred</l>
+                     <l>Elate at heart as youth, and stirred</l>
+                     <l>   With hope as blithe as fires a boy:</l>
+                     <l>And many a mile he rode, and found</l>
+                     <l>Far in a forest’s glimmering bound</l>
+                     <l>The man he sought afar around</l>
+                     <l>   And seeing took fire for joy.</l>
+                  </lg>
+                  <lg>
+                     <l>And with him went a maiden, fair</l>
+                     <l>As flowers aflush with April air.</l>
+                     <l>And Balen bade him turn him there</l>
+                     <l>To tell the king what woes they were</l>
+                     <l>   That bowed him down so sore: and he</l>
+                     <l>Made woeful answer: “This should do</l>
+                     <l>Great scathe to me, with nought for you</l>
+                     <l>Of help that hope might hearken to</l>
+                     <l>   For boot that may not be.”</l>
+                  </lg>
+                  <lg>
+                     <l>And Balen answered: “I were loth</l>
+                     <l>To fight as one perforce made wroth</l>
+                     <l>With one that owes by knighthood’s oath</l>
+                     <l>One love, one service, and one troth</l>
+                     <l>   With me to him whose gracious hand</l>
+                     <l>Holds fast the helm of knighthood here</l>
+                     <l>Whereby man’s hope and heart may steer:</l>
+                     <l>I pray you let not sorrow or fear</l>
+                     <l>   Against his bidding stand.”</l>
+                  </lg>
+                  <lg>
+                     <l>The strange knight gazed on him, and spake:</l>
+                     <l>“Will you, for Arthur’s royal sake,</l>
+                     <l>Be warrant for me that I take</l>
+                     <l>No scathe from strife that man may make?</l>
+                     <l>   Then will I go with you.”  And he</l>
+                     <l>Made joyous answer: “Yea, for I</l>
+                     <l>Will be your warrant or will die.”</l>
+                     <l>And thence they rode with hearts as high</l>
+                     <l>   As men’s that search the sea.</l>
+                  </lg>
+                  <lg>
+                     <l>And as by noon’s large light the twain</l>
+                     <l>Before the tented hall drew rein,</l>
+                     <l>Suddenly fell the strange knight, slain</l>
+                     <l>By one that came and went again</l>
+                     <l>   And none might see him; but his spear</l>
+                     <l>Clove through the body, swift as fire,</l>
+                     <l>The man whose doom, forefelt as dire,</l>
+                     <l>Had darkened all his life’s desire,</l>
+                     <l>   As one that death held dear.</l>
+                  </lg>
+                  <lg>
+                     <l>And dying he turned his face and said,</l>
+                     <l>“Lo now thy warrant that my head</l>
+                     <l>Should fall not, following forth where led</l>
+                     <l>A knight whose pledge hath left me dead.</l>
+                     <l>   This darkling manslayer hath to name</l>
+                     <l>Garlon: take thou my goodlier steed,</l>
+                     <l>Seeing thine is less of strength and speed,</l>
+                     <l>And ride, if thou be knight indeed,</l>
+                     <l>   Even thither whence we came.</l>
+                  </lg>
+                  <lg>
+                     <l>“And as the maiden’s fair behest</l>
+                     <l>Shall bid you follow on my quest,</l>
+                     <l>Follow: and when God’s will sees best,</l>
+                     <l>Revenge my death, and let me rest</l>
+                     <l>   As one that lived and died a knight,</l>
+                     <l>Unstained of shame alive or dead.”</l>
+                     <l>And Balen, wrung with sorrow, said,</l>
+                     <l>“That shall I do: my hand and head</l>
+                     <l>   I pledge to do you right.”</l>
+                  </lg>
+                  <lg>
+                     <l>And thence with sorrowing heart and cheer</l>
+                     <l>He rode, in grief that cast out fear</l>
+                     <l>Lest death in darkness yet were near,</l>
+                     <l>And bore the truncheon of the spear</l>
+                     <l>   Wherewith the woful knight lay slain</l>
+                     <l>To her with whom he rode, and she</l>
+                     <l>Still bare it with her, fain to see</l>
+                     <l>What righteous doom of God’s might be</l>
+                     <l>   The darkling manslayer’s bane.</l>
+                  </lg>
+                  <lg>
+                     <l>And down a dim deep woodland way</l>
+                     <l>They rode between the boughs asway</l>
+                     <l>With flickering winds whose flash and play</l>
+                     <l>Made sunlight sunnier where the day</l>
+                     <l>   Laughed, leapt, and fluttered like a bird</l>
+                     <l>Caught in a light loose leafy net</l>
+                     <l>That earth for amorous heaven had set</l>
+                     <l>To hold and see the sundawn yet</l>
+                     <l>   And hear what morning heard.</l>
+                  </lg>
+                  <lg>
+                     <l>There in the sweet soft shifting light</l>
+                     <l>Across their passage rode a knight</l>
+                     <l>Flushed hot from hunting as from fight,</l>
+                     <l>And seeing the sorrow-stricken sight</l>
+                     <l>   Made question of them why they rode</l>
+                     <l>As mourners sick at heart and sad,</l>
+                     <l>When all alive about them bade</l>
+                     <l>Sweet earth for heaven’s sweet sake be glad</l>
+                     <l>   As heaven for earth’s love glowed.</l>
+                  </lg>
+                  <lg>
+                     <l>“Me lists not tell you,” Balen said.</l>
+                     <l>The strange knight’s face grew keen and red</l>
+                     <l>“Now, might my hand but keep my head,</l>
+                     <l>Even here should one of twain lie dead</l>
+                     <l>   Were he no better armed than I.”</l>
+                     <l>And Balen spake with smiling speed,</l>
+                     <l>Where scorn and courtesy kept heed</l>
+                     <l>Of either: “That should little need:</l>
+                     <l>   Not here shall either die.”</l>
+                  </lg>
+                  <lg>
+                     <l>And all the cause he told him through</l>
+                     <l>As one that feared not though he knew</l>
+                     <l>All: and the strange knight spake anew,</l>
+                     <l>Saying: “I will part no more from you</l>
+                     <l>   While life shall last me.”  So they went</l>
+                     <l>Where he might arm himself to ride,</l>
+                     <l>And rode across wild ways and wide</l>
+                     <l>To where against a churchyard side</l>
+                     <l>   A hermit’s harbour leant.</l>
+                  </lg>
+                  <lg>
+                     <l>And there against them riding came</l>
+                     <l>Fleet as the lightning’s laugh and flame</l>
+                     <l>The invisible evil, even the same</l>
+                     <l>They sought and might not curse by name</l>
+                     <l>   As hell’s foul child on earth set free,</l>
+                     <l>And smote the strange knight through, and fled,</l>
+                     <l>And left the mourners by the dead.</l>
+                     <l>“Alas, again,” Sir Balen said,</l>
+                     <l>   “This wrong he hath done to me.”</l>
+                  </lg>
+                  <lg>
+                     <l>And there they laid their dead to sleep</l>
+                     <l>Royally, lying where wild winds keep</l>
+                     <l>Keen watch and wail more soft and deep</l>
+                     <l>Than where men’s choirs bid music weep</l>
+                     <l>   And song like incense heave and swell.</l>
+                     <l>And forth again they rode, and found</l>
+                     <l>Before them, dire in sight and sound,</l>
+                     <l>A castle girt about and bound</l>
+                     <l>   With sorrow like a spell.</l>
+                  </lg>
+                  <lg>
+                     <l>Above it seemed the sun at noon</l>
+                     <l>Sad as a wintry withering moon</l>
+                     <l>That shudders while the waste wind’s tune</l>
+                     <l>Craves ever none may guess what boon,</l>
+                     <l>   But all may know the boon for dire.</l>
+                     <l>And evening on its darkness fell</l>
+                     <l>More dark than very death’s farewell,</l>
+                     <l>And night about it hung like hell,</l>
+                     <l>   Whose fume the dawn made fire.</l>
+                  </lg>
+                  <lg>
+                     <l>And Balen lighted down and passed</l>
+                     <l>Within the gateway, whence no blast</l>
+                     <l>Rang as the sheer portcullis, cast</l>
+                     <l>Suddenly down, fell, and made fast</l>
+                     <l>   The gate behind him, whence he spied</l>
+                     <l>A sudden rage of men without</l>
+                     <l>And ravin of a murderous rout</l>
+                     <l>That girt the maiden hard about</l>
+                     <l>   With death on either side.</l>
+                  </lg>
+                  <lg>
+                     <l>And seeing that shame and peril, fear</l>
+                     <l>Bade wrath and grief awake and hear</l>
+                     <l>What shame should say in fame’s wide ear</l>
+                     <l>If she, by sorrow sealed more dear</l>
+                     <l>   Than joy might make her, so should die:</l>
+                     <l>And up the tower’s curled stair he sprang</l>
+                     <l>As one that flies death’s deadliest fang,</l>
+                     <l>And leapt right out amid their gang</l>
+                     <l>   As fire from heaven on high.</l>
+                  </lg>
+                  <lg>
+                     <l>And they thereunder seeing the knight</l>
+                     <l>Unhurt among their press alight</l>
+                     <l>And bare his sword for chance of fight</l>
+                     <l>Stood from him, loth to strive or smite,</l>
+                     <l>   And bade him hear their woful word,</l>
+                     <l>That not the maiden’s death they sought;</l>
+                     <l>But there through years too dire for thought</l>
+                     <l>Had lain their lady stricken, and nought</l>
+                     <l>   Might heal her: and he heard.</l>
+                  </lg>
+                  <lg>
+                     <l>For there a maiden clean and whole</l>
+                     <l>In virgin body and virgin soul,</l>
+                     <l>Whose name was writ on royal roll,</l>
+                     <l>That would but stain a silver bowl</l>
+                     <l>   With offering of her stainless blood,</l>
+                     <l>Therewith might heal her: so they stayed</l>
+                     <l>For hope’s sad sake each blameless maid</l>
+                     <l>There journeying in that dolorous shade</l>
+                     <l>   Whose bloom was bright in bud.</l>
+                  </lg>
+                  <lg>
+                     <l>No hurt nor harm to her it were</l>
+                     <l>If she should yield a sister there</l>
+                     <l>Some tribute of her blood, and fare</l>
+                     <l>Forth with this joy at heart to bear,</l>
+                     <l>   That all unhurt and unafraid</l>
+                     <l>This grace she had here by God’s grace wrought.</l>
+                     <l>And kindling all with kindly thought</l>
+                     <l>And love that saw save love’s self nought,</l>
+                     <l>   Shone, smiled, and spake the maid.</l>
+                  </lg>
+                  <lg>
+                     <l>“Good knight of mine, good will have I</l>
+                     <l>To help this healing though I die.”</l>
+                     <l>“Nay,” Balen said, “but love may try</l>
+                     <l>What help in living love may lie.</l>
+                     <l>  —I will not lose the life of her</l>
+                     <l>While my life lasteth.”  So she gave</l>
+                     <l>The tribute love was fain to crave,</l>
+                     <l>But might not heal though fain to save,</l>
+                     <l>   Were God’s grace helpfuller.</l>
+                  </lg>
+                  <lg>
+                     <l>Another maid in later Mays</l>
+                     <l>Won with her life that woful praise,</l>
+                     <l>And died.  But they, when surging day’s</l>
+                     <l>Deep tide fulfilled the dawn’s wide ways,</l>
+                     <l>   Rode forth, and found by day or night</l>
+                     <l>No chance to cross their wayfaring</l>
+                     <l>Till when they saw the fourth day spring</l>
+                     <l>A knight’s hall gave them harbouring</l>
+                     <l>   Rich as a king’s house might.</l>
+                  </lg>
+                  <lg>
+                     <l>And while they sat at meat and spake</l>
+                     <l>Words bright and kind as grace might make</l>
+                     <l>Sweet for true knighthood’s kindly sake,</l>
+                     <l>They heard a cry beside them break</l>
+                     <l>   The still-souled joy of blameless rest.</l>
+                     <l>“What noise is this?” quoth Balen.  “Nay,”</l>
+                     <l>His knightly host made answer, “may</l>
+                     <l>Our grief not grieve you though I say</l>
+                     <l>   How here I dwell unblest.</l>
+                  </lg>
+                  <lg>
+                     <l>“Not many a day has lived and died</l>
+                     <l>Since at a tournay late I tried</l>
+                     <l>My strength to smite and turn and ride</l>
+                     <l>Against a knight of kinglike pride,</l>
+                     <l>   King Pellam’s brother: twice I smote</l>
+                     <l>The splendour of his strength to dust:</l>
+                     <l>And he, fulfilled of hate’s fierce lust,</l>
+                     <l>Swore vengeance, pledged for hell to trust,</l>
+                     <l>   And keen as hell’s wide throat.</l>
+                  </lg>
+                  <lg>
+                     <l>“Invisible as the spirit of night</l>
+                     <l>That heaven and earth in depth and height</l>
+                     <l>May see not by the mild moon’s light</l>
+                     <l>Nor even when stars would grant them sight,</l>
+                     <l>   He walks and slays as plague’s blind breath</l>
+                     <l>Slays: and my son, whose anguish here</l>
+                     <l>Makes moan perforce that mars our cheer,</l>
+                     <l>He wounded, even ere love might fear</l>
+                     <l>   That hate were strong as death.</l>
+                  </lg>
+                  <lg>
+                     <l>“Nor may my son be whole till he</l>
+                     <l>Whose stroke through him hath stricken me</l>
+                     <l>Shall give again his blood to be</l>
+                     <l>Our healing: yet may no man see</l>
+                     <l>   This felon, clothed with darkness round</l>
+                     <l>And keen as lightning’s life.”  Thereon</l>
+                     <l>Spake Balen, and his presence shone</l>
+                     <l>Even as the sun’s when stars are gone</l>
+                     <l>   That hear dawn’s trumpet sound.</l>
+                  </lg>
+                  <lg>
+                     <l>“That knight I know: two knights of mine,</l>
+                     <l>Two comrades, sealed by faith’s bright sign,</l>
+                     <l>Whose eyes as ours that live should shine,</l>
+                     <l>And drink the golden sunlight’s wine</l>
+                     <l>   With joy’s thanksgiving that they live,</l>
+                     <l>He hath slain in even the same blind wise:</l>
+                     <l>Were all wide wealth beneath the skies</l>
+                     <l>Mine, might I meet him, eyes on eyes,</l>
+                     <l>   All would I laugh to give.”</l>
+                  </lg>
+                  <lg>
+                     <l>His host made answer, and his gaze</l>
+                     <l>Grew bright with trust as dawn’s moist maze</l>
+                     <l>With fire: “Within these twenty days,</l>
+                     <l>King Pellam, lord of Lystenayse,</l>
+                     <l>   Holds feast through all this country cried,</l>
+                     <l>And there before the knightly king</l>
+                     <l>May no knight come except he bring</l>
+                     <l>For witness of his wayfaring</l>
+                     <l>   His paramour or bride.</l>
+                  </lg>
+                  <lg>
+                     <l>“And there that day, so soon to shine,</l>
+                     <l>This knight, your felon foe and mine,</l>
+                     <l>Shall show, full-flushed with bloodred wine,</l>
+                     <l>The fierce false face whereon we pine</l>
+                     <l>   To wreak the wrong he hath wrought us, bare</l>
+                     <l>As shame should see and brand it.”  “Then,”</l>
+                     <l>Said Balen, “shall he give again</l>
+                     <l>His blood to heal your son, and men</l>
+                     <l>   Shall see death blind him there.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Forth will we fare to-morrow,” said</l>
+                     <l>His host: and forth, as sunrise led,</l>
+                     <l>They rode; and fifteen days were fled</l>
+                     <l>Ere toward their goal their steeds had sped.</l>
+                     <l>   And there alighting might they find</l>
+                     <l>For Balen’s host no place to rest,</l>
+                     <l>Who came without a gentler guest</l>
+                     <l>Beside him: and that household’s hest</l>
+                     <l>   Bade leave his sword behind.</l>
+                  </lg>
+                  <lg>
+                     <l>“Nay,” Balen said, “that do I not:</l>
+                     <l>My country’s custom stands, God wot,</l>
+                     <l>That none whose lot is knighthood’s lot,</l>
+                     <l>To ride where chance as fire is hot</l>
+                     <l>   With hope or promise given of fight,</l>
+                     <l>Shall fail to keep, for knighthood’s part,</l>
+                     <l>His weapon with him as his heart;</l>
+                     <l>And as I came will I depart,</l>
+                     <l>   Or hold herein my right.”</l>
+                  </lg>
+                  <lg>
+                     <l>Then gat he leave to wear his sword</l>
+                     <l>Beside the strange king’s festal board</l>
+                     <l>Where feasted many a knight and lord</l>
+                     <l>In seemliness of fair accord:</l>
+                     <l>   And Balen asked of one beside,</l>
+                     <l>“Is there not in this court, if fame</l>
+                     <l>Keep faith, a knight that hath to name</l>
+                     <l>Garlon?” and saying that word of shame,</l>
+                     <l>   He scanned that place of pride.</l>
+                  </lg>
+                  <lg>
+                     <l>“Yonder he goeth against the light,</l>
+                     <l>He with the face as swart as night,”</l>
+                     <l>Quoth the other: “but he rides to fight</l>
+                     <l>Hid round by charms from all men’s sight,</l>
+                     <l>   And many a noble knight he hath slain,</l>
+                     <l>Being wrapt in darkness deep as hell</l>
+                     <l>And silence dark as shame.”  “Ah, well,”</l>
+                     <l>Said Balen, “is that he? the spell</l>
+                     <l>   May be the sorcerer’s bane.”</l>
+                  </lg>
+                  <lg>
+                     <l>Then Balen gazed upon him long,</l>
+                     <l>And thought, “If here I wreak my wrong,</l>
+                     <l>Alive I may not scape, so strong</l>
+                     <l>The felon’s friends about him throng;</l>
+                     <l>   And if I leave him here alive,</l>
+                     <l>This chance perchance may life not give</l>
+                     <l>Again: much evil, if he live,</l>
+                     <l>He needs must do, should fear forgive</l>
+                     <l>   When wrongs bid strike and strive.”</l>
+                  </lg>
+                  <lg>
+                     <l>And Garlon, seeing how Balen’s eye</l>
+                     <l>Dwelt on him as his heart waxed high</l>
+                     <l>With joy in wrath to see him nigh,</l>
+                     <l>Rose wolf-like with a wolfish cry</l>
+                     <l>   And crossed and smote him on the face,</l>
+                     <l>Saying, “Knight, what wouldst thou with me?  Eat,</l>
+                     <l>For shame, and gaze not: eat thy meat</l>
+                     <l>Do that thou art come for: stands thy seat</l>
+                     <l>   Next ours of royal race?”</l>
+                  </lg>
+                  <lg>
+                     <l>“Well hast thou said: thy rede rings true;</l>
+                     <l>That which I came for will I do,”</l>
+                     <l>Quoth Balen: forth his fleet sword flew,</l>
+                     <l>And clove the head of Garlon through</l>
+                     <l>   Clean to the shoulders.  Then he cried</l>
+                     <l>Loud to his lady, “Give me here</l>
+                     <l>The truncheon of the shameful spear</l>
+                     <l>Wherewith he slew your knight, when fear</l>
+                     <l>   Bade hate in darkness ride.”</l>
+                  </lg>
+                  <lg>
+                     <l>And gladly, bright with grief made glad,</l>
+                     <l>She gave the truncheon as he bade,</l>
+                     <l>For still she bare it with her, sad</l>
+                     <l>And strong in hopeless hope she had,</l>
+                     <l>   Through all dark days of thwarting fear,</l>
+                     <l>To see if doom should fall aright</l>
+                     <l>And as God’s fire-fraught thunder smite</l>
+                     <l>That head, clothed round with hell-faced night,</l>
+                     <l>   Bare now before her here.</l>
+                  </lg>
+                  <lg>
+                     <l>And Balen smote therewith the dead</l>
+                     <l>Dark felon’s body through, and said</l>
+                     <l>Aloud, “With even this truncheon, red</l>
+                     <l>With baser blood than brave men bled</l>
+                     <l>   Whom in thy shameful hand it slew,</l>
+                     <l>Thou hast slain a nobler knight, and now</l>
+                     <l>It clings and cleaves thy body: thou</l>
+                     <l>Shall cleave again no brave man’s brow,</l>
+                     <l>   Though hell would aid anew.”</l>
+                  </lg>
+                  <lg>
+                     <l>And toward his host he turned and spake;</l>
+                     <l>“Now for your son’s long-suffering sake</l>
+                     <l>Blood ye may fetch enough, and take</l>
+                     <l>Wherewith to heal his hurt, and make</l>
+                     <l>   Death warm as life.”  Then rose a cry</l>
+                     <l>Loud as the wind’s when stormy spring</l>
+                     <l>Makes all the woodland rage and ring:</l>
+                     <l>“Thou hast slain my brother,” said the king,</l>
+                     <l>   “And here with him shalt die.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Ay?” Balen laughed him answer.  “Well,</l>
+                     <l>Do it then thyself.”  And the answer fell</l>
+                     <l>Fierce as a blast of hate from hell,</l>
+                     <l>“No man of mine that with me dwell</l>
+                     <l>   Shall strike at thee but I their lord</l>
+                     <l>For love of this my brother slain.”</l>
+                     <l>And Pellam caught and grasped amain</l>
+                     <l>A grim great weapon, fierce and fain</l>
+                     <l>   To feed his hungering sword.</l>
+                  </lg>
+                  <lg>
+                     <l>And eagerly he smote, and sped</l>
+                     <l>Not well: for Balen’s blade, yet red</l>
+                     <l>With lifeblood of the murderous dead,</l>
+                     <l>Between the swordstroke and his head</l>
+                     <l>   Shone, and the strength of the eager stroke</l>
+                     <l>Shore it in sunder: then the knight,</l>
+                     <l>Naked and weaponless for fight,</l>
+                     <l>Ran seeking him a sword to smite</l>
+                     <l>   As hope within him woke.</l>
+                  </lg>
+                  <lg>
+                     <l>And so their flight for deathward fast</l>
+                     <l>From chamber forth to chamber passed</l>
+                     <l>Where lay no weapon, till the last</l>
+                     <l>Whose doors made way for Balen cast</l>
+                     <l>   Upon him as a sudden spell</l>
+                     <l>Wonder that even as lightning leapt</l>
+                     <l>Across his heart and eyes, and swept</l>
+                     <l>As storm across his soul that kept</l>
+                     <l>   Wild watch, and watched not well.</l>
+                  </lg>
+                  <lg>
+                     <l>For there the deed he did, being near</l>
+                     <l>Death’s danger, breathless as the deer</l>
+                     <l>Driven hard to bay, but void of fear,</l>
+                     <l>Brought sorrow down for many a year</l>
+                     <l>   On many a man in many a land.</l>
+                     <l>All glorious shone that chamber, bright</l>
+                     <l>As burns at sunrise heaven’s own height:</l>
+                     <l>With cloth of gold the bed was dight,</l>
+                     <l>   That flamed on either hand.</l>
+                  </lg>
+                  <lg>
+                     <l>And one he saw within it lie:</l>
+                     <l>A table of all clear gold thereby</l>
+                     <l>Stood stately, fair as morning’s eye,</l>
+                     <l>With four strong silver pillars, high</l>
+                     <l>   And firm as faith and hope may be:</l>
+                     <l>And on it shone the gift he sought,</l>
+                     <l>A spear most marvellously wrought,</l>
+                     <l>That when his eye and handgrip caught</l>
+                     <l>   Small fear at heart had he.</l>
+                  </lg>
+                  <lg>
+                     <l>Right on King Pellam then, as fire</l>
+                     <l>Turns when the thwarting winds wax higher,</l>
+                     <l>He turned, and smote him down.  So dire</l>
+                     <l>The stroke was, when his heart’s desire</l>
+                     <l>   Struck, and had all its fill of hate,</l>
+                     <l>That as the king fell swooning down</l>
+                     <l>Fell the walls, rent from base to crown,</l>
+                     <l>Prone as prone seas that break and drown</l>
+                     <l>   Ships fraught with doom for freight.</l>
+                  </lg>
+                  <lg>
+                     <l>And there for three days’ silent space</l>
+                     <l>Balen and Pellam face to face</l>
+                     <l>Lay dead or deathlike, and the place</l>
+                     <l>Was death’s blind kingdom, till the grace</l>
+                     <l>   That God had given the sacred seer</l>
+                     <l>For counsel or for comfort led</l>
+                     <l>His Merlin thither, and he said,</l>
+                     <l>Standing between the quick and dead,</l>
+                     <l>   “Rise up, and rest not here.”</l>
+                  </lg>
+                  <lg>
+                     <l>And Balen rose and set his eyes</l>
+                     <l>Against the seer’s as one that tries</l>
+                     <l>His heart against the sea’s and sky’s</l>
+                     <l>And fears not if he lives or dies,</l>
+                     <l>   Saying, “I would have my damosel,</l>
+                     <l>Ere I fare forth, to fare with me.”</l>
+                     <l>And sadly Merlin answered, “See</l>
+                     <l>Where now she lies; death knows if she</l>
+                     <l>   Shall now fare ill or well.</l>
+                  </lg>
+                  <lg>
+                     <l>“And in this world we meet no more,</l>
+                     <l>Balen.”  And Balen, sorrowing sore,</l>
+                     <l>Though fearless yet the heart he bore</l>
+                     <l>Beat toward the life that lay before,</l>
+                     <l>   Rode forth through many a wild waste land</l>
+                     <l>Where men cried out against him, mad</l>
+                     <l>With grievous faith in fear that bade</l>
+                     <l>Their wrath make moan for doubt they had</l>
+                     <l>   Lest hell had armed his hand.</l>
+                  </lg>
+                  <lg>
+                     <l>For in that chamber’s wondrous shrine</l>
+                     <l>Was part of Christ’s own blood, the wine</l>
+                     <l>Shed of the true triumphal vine</l>
+                     <l>Whose growth bids earth’s deep darkness shine</l>
+                     <l>   As heaven’s deep light through the air and sea;</l>
+                     <l>That mystery toward our northern shore</l>
+                     <l>Arimathean Joseph bore</l>
+                     <l>For healing of our sins of yore,</l>
+                     <l>   That grace even there might be.</l>
+                  </lg>
+                  <lg>
+                     <l>And with that spear there shrined apart</l>
+                     <l>Was Christ’s side smitten to the heart.</l>
+                     <l>And fiercer than the lightning’s dart</l>
+                     <l>The stroke was, and the deathlike smart</l>
+                     <l>   Wherewith, nigh drained of blood and breath,</l>
+                     <l>The king lay stricken as one long dead:</l>
+                     <l>And Joseph’s was the blood there shed,</l>
+                     <l>For near akin was he that bled,</l>
+                     <l>   Near even as life to death.</l>
+                  </lg>
+                  <lg>
+                     <l>And therefore fell on all that land</l>
+                     <l>Sorrow: for still on either hand,</l>
+                     <l>As Balen rode alone and scanned</l>
+                     <l>Bright fields and cities built to stand</l>
+                     <l>   Till time should break them, dead men lay;</l>
+                     <l>And loud and long from all their folk</l>
+                     <l>Living, one cry that cursed him broke;</l>
+                     <l>Three countries had his dolorous stroke</l>
+                     <l>   Slain, or should surely slay.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VII</label>
+                  </head>
+                  <lg>
+                     <l>In winter, when the year burns low</l>
+                     <l>As fire wherein no firebrands glow,</l>
+                     <l>And winds dishevel as they blow</l>
+                     <l>The lovely stormy wings of snow,</l>
+                     <l>   The hearts of northern men burn bright</l>
+                     <l>With joy that mocks the joy of spring</l>
+                     <l>To hear all heaven’s keen clarions ring</l>
+                     <l>Music that bids the spirit sing</l>
+                     <l>   And day give thanks for night.</l>
+                  </lg>
+                  <lg>
+                     <l>Aloud and dark as hell or hate</l>
+                     <l>Round Balen’s head the wind of fate</l>
+                     <l>Blew storm and cloud from death’s wide gate:</l>
+                     <l>But joy as grief in him was great</l>
+                     <l>   To face God’s doom and live or die,</l>
+                     <l>Sorrowing for ill wrought unaware,</l>
+                     <l>Rejoicing in desire to dare</l>
+                     <l>All ill that innocence might bear</l>
+                     <l>   With changeless heart and eye.</l>
+                  </lg>
+                  <lg>
+                     <l>Yet passing fain he was when past</l>
+                     <l>Those lands and woes at length and last.</l>
+                     <l>Eight times, as thence he fared forth fast,</l>
+                     <l>Dawn rose and even was overcast</l>
+                     <l>   With starry darkness dear as day,</l>
+                     <l>Before his venturous quest might meet</l>
+                     <l>Adventure, seeing within a sweet</l>
+                     <l>Green low-lying forest, hushed in heat,</l>
+                     <l>   A tower that barred his way.</l>
+                  </lg>
+                  <lg>
+                     <l>Strong summer, dumb with rapture, bound</l>
+                     <l>With golden calm the woodlands round</l>
+                     <l>Wherethrough the knight forth faring found</l>
+                     <l>A knight that on the greenwood ground</l>
+                     <l>   Sat mourning: fair he was to see,</l>
+                     <l>And moulded as for love or fight</l>
+                     <l>A maiden’s dreams might frame her knight;</l>
+                     <l>But sad in joy’s far-flowering sight</l>
+                     <l>   As grief’s blind thrall might be.</l>
+                  </lg>
+                  <lg>
+                     <l>“God save you,” Balen softly said,</l>
+                     <l>“What grief bows down your heart and head</l>
+                     <l>Thus, as one sorrowing for his dead?</l>
+                     <l>Tell me, if haply I may stead</l>
+                     <l>   In aught your sorrow, that I may.”</l>
+                     <l>“Sir knight,” that other said, “thy word</l>
+                     <l>Makes my grief heavier that I heard.”</l>
+                     <l>And pity and wonder inly stirred</l>
+                     <l>   Drew Balen thence away.</l>
+                  </lg>
+                  <lg>
+                     <l>And so withdrawn with silent speed</l>
+                     <l>He saw the sad knight’s stately steed,</l>
+                     <l>A war-horse meet for warrior’s need,</l>
+                     <l>That none who passed might choose but heed,</l>
+                     <l>   So strong he stood, so great, so fair,</l>
+                     <l>With eyes afire for flight or fight,</l>
+                     <l>A joy to look on, mild in might,</l>
+                     <l>And swift and keen and kind as light,</l>
+                     <l>   And all as clear of care.</l>
+                  </lg>
+                  <lg>
+                     <l>And Balen, gazing on him, heard</l>
+                     <l>Again his master’s woful word</l>
+                     <l>Sound sorrow through the calm unstirred</l>
+                     <l>By fluttering wind or flickering bird,</l>
+                     <l>   Thus: “Ah, fair lady and faithless, why</l>
+                     <l>Break thy pledged faith to meet me? soon</l>
+                     <l>An hour beyond thy trothplight noon</l>
+                     <l>Shall strike my death-bell, and thy boon</l>
+                     <l>   Is this, that here I die.</l>
+                  </lg>
+                  <lg>
+                     <l>“My curse for all thy gifts may be</l>
+                     <l>Heavier than death or night on thee;</l>
+                     <l>For now this sword thou gavest me</l>
+                     <l>Shall set me from thy bondage free.”</l>
+                     <l>   And there the man had died self-slain,</l>
+                     <l>But Balen leapt on him and caught</l>
+                     <l>The blind fierce hand that fain had wrought</l>
+                     <l>Self-murder, stung with fire of thought,</l>
+                     <l>   As rage makes anguish fain.</l>
+                  </lg>
+                  <lg>
+                     <l>Then, mad for thwarted grief, “Let go</l>
+                     <l>My hand,” the fool of wrath and woe</l>
+                     <l>Cried, “or I slay thee.”  Scarce the glow</l>
+                     <l>In Balen’s cheek and eye might show,</l>
+                     <l>   As dawn shows day while seas lie chill,</l>
+                     <l>He heard, though pity took not heed,</l>
+                     <l>But smiled and spake, “That shall not need:</l>
+                     <l>What man may do to bid you speed</l>
+                     <l>   I, so God speed me, will.”</l>
+                  </lg>
+                  <lg>
+                     <l>And the other craved his name, beguiled</l>
+                     <l>By hope that made his madness mild.</l>
+                     <l>Again Sir Balen spake and smiled:</l>
+                     <l>“My name is Balen, called the Wild</l>
+                     <l>   By knights whom kings and courts make tame</l>
+                     <l>Because I ride alone afar</l>
+                     <l>And follow but my soul for star.”</l>
+                     <l>“Ah, sir, I know the knight you are</l>
+                     <l>   And all your fiery fame.</l>
+                  </lg>
+                  <lg>
+                     <l>“The knight that bears two swords I know,</l>
+                     <l>Most praised of all men, friend and foe,</l>
+                     <l>For prowess of your hands, that show</l>
+                     <l>Dark war the way where balefires glow</l>
+                     <l>   And kindle glory like the dawn’s.”</l>
+                     <l>So spake the sorrowing knight, and stood</l>
+                     <l>As one whose heart fresh hope made good:</l>
+                     <l>And forth they rode by wold and wood</l>
+                     <l>   And down the glimmering lawns.</l>
+                  </lg>
+                  <lg>
+                     <l>And Balen craved his name who rode</l>
+                     <l>Beside him, where the wild wood glowed</l>
+                     <l>With joy to feel how noontide flowed</l>
+                     <l>Through glade and glen and rough green road</l>
+                     <l>   Till earth grew joyful as the sea.</l>
+                     <l>“My name is Garnysshe of the Mount,</l>
+                     <l>A poor man’s son of none account,”</l>
+                     <l>He said, “where springs of loftier fount</l>
+                     <l>   Laugh loud with pride to be.</l>
+                  </lg>
+                  <lg>
+                     <l>“But strength in weakness lives and stands</l>
+                     <l>As rocks that rise through shifting sands;</l>
+                     <l>And for the prowess of my hands</l>
+                     <l>One made me knight and gave me lands,</l>
+                     <l>   Duke Hermel, lord from far to near,</l>
+                     <l>Our prince; and she that loved me—she</l>
+                     <l>I love, and deemed she loved but me,</l>
+                     <l>His daughter, pledged her faith to be</l>
+                     <l>   Ere now beside me here.”</l>
+                  </lg>
+                  <lg>
+                     <l>And Balen, brief of speech as light</l>
+                     <l>Whose word, beheld of depth and height,</l>
+                     <l>Strikes silence through the stars of night,</l>
+                     <l>Spake, and his face as dawn’s grew bright,</l>
+                     <l>   For hope to help a happier man,</l>
+                     <l>“How far then lies she hence?”  “By this,”</l>
+                     <l>Her lover sighed and said, “I wis,</l>
+                     <l>Not six fleet miles the passage is,</l>
+                     <l>   And straight as thought could span.”</l>
+                  </lg>
+                  <lg>
+                     <l>So rode they swift and sure, and found</l>
+                     <l>A castle walled and dyked around:</l>
+                     <l>And Balen, as a warrior bound</l>
+                     <l>On search where hope might fear to sound</l>
+                     <l>   The darkness of the deeps of doubt,</l>
+                     <l>Made entrance through the guardless gate</l>
+                     <l>As life, while hope in life grows great,</l>
+                     <l>Makes way between the doors of fate</l>
+                     <l>   That death may pass thereout.</l>
+                  </lg>
+                  <lg>
+                     <l>Through many a glorious chamber, wrought</l>
+                     <l>For all delight that love’s own thought</l>
+                     <l>Might dream or dwell in, Balen sought</l>
+                     <l>And found of all he looked for nought,</l>
+                     <l>   For like a shining shell her bed</l>
+                     <l>Shone void and vacant of her: thence</l>
+                     <l>Through devious wonders bright and dense</l>
+                     <l>He passed and saw with shame-struck sense</l>
+                     <l>   Where shame and faith lay dead.</l>
+                  </lg>
+                  <lg>
+                     <l>Down in a sweet small garden, fair</l>
+                     <l>With flowerful joy in the ardent air,</l>
+                     <l>He saw, and raged with loathing, where</l>
+                     <l>She lay with love-dishevelled hair</l>
+                     <l>   Beneath a broad bright laurel tree</l>
+                     <l>And clasped in amorous arms a knight,</l>
+                     <l>The unloveliest that his scornful sight</l>
+                     <l>Had dwelt on yet; a shame the bright</l>
+                     <l>   Broad noon might shrink to see.</l>
+                  </lg>
+                  <lg>
+                     <l>And thence in wrathful hope he turned,</l>
+                     <l>Hot as the heart within him burned,</l>
+                     <l>To meet the knight whose love, so spurned</l>
+                     <l>And spat on and made nought of, yearned</l>
+                     <l>   And dreamed and hoped and lived in vain,</l>
+                     <l>And said, “I have found her sleeping fast,”</l>
+                     <l>And led him where the shadows cast</l>
+                     <l>From leaves wherethrough light winds ran past</l>
+                     <l>   Screened her from sun and rain.</l>
+                  </lg>
+                  <lg>
+                     <l>But Garnysshe, seeing, reeled as he stood</l>
+                     <l>Like a tree, kingliest of the wood,</l>
+                     <l>Half hewn through: and the burning blood</l>
+                     <l>Through lips and nostrils burst aflood:</l>
+                     <l>   And gathering back his rage and might</l>
+                     <l>As broken breakers rally and roar</l>
+                     <l>The loud wind down that drives off shore,</l>
+                     <l>He smote their heads off: there no more</l>
+                     <l>   Their life might shame the light.</l>
+                  </lg>
+                  <lg>
+                     <l>Then turned he back toward Balen, mad</l>
+                     <l>With grief, and said, “The grief I had</l>
+                     <l>Was nought: ere this my life was glad:</l>
+                     <l>Thou hast done this deed: I was but sad</l>
+                     <l>   And fearful how my hope might fare:</l>
+                     <l>I had lived my sorrow down, hadst thou</l>
+                     <l>Not shown me what I saw but now.”</l>
+                     <l>The sorrow and scorn on Balen’s brow</l>
+                     <l>   Bade silence curb him there.</l>
+                  </lg>
+                  <lg>
+                     <l>And Balen answered: “What I did</l>
+                     <l>I did to hearten thee and bid</l>
+                     <l>Thy courage know that shame should rid</l>
+                     <l>A man’s high heart of love that hid</l>
+                     <l>   Blind shame within its core: God knows,</l>
+                     <l>I did, to set a bondman free,</l>
+                     <l>But as I would thou hadst done by me,</l>
+                     <l>That seeing what love must die to see</l>
+                     <l>   Love’s end might well be woe’s.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Alas,” the woful weakling said,</l>
+                     <l>“I have slain what most I loved: I have shed</l>
+                     <l>The blood most near my heart: the head</l>
+                     <l>Lies cold as earth, defiled and dead,</l>
+                     <l>   That all my life was lighted by,</l>
+                     <l>That all my soul bowed down before,</l>
+                     <l>And now may bear with life no more:</l>
+                     <l>For now my sorrow that I bore</l>
+                     <l>   Is twofold, and I die.”</l>
+                  </lg>
+                  <lg>
+                     <l>Then with his red wet sword he rove</l>
+                     <l>His breast in sunder, where it clove</l>
+                     <l>Life, and no pulse against it strove,</l>
+                     <l>So sure and strong the deep stroke drove</l>
+                     <l>   Deathward: and Balen, seeing him dead,</l>
+                     <l>Rode thence, lest folk would say he had slain</l>
+                     <l>Those three; and ere three days again</l>
+                     <l>Had seen the sun’s might wax and wane,</l>
+                     <l>   Far forth he had spurred and sped.</l>
+                  </lg>
+                  <lg>
+                     <l>And riding past a cross whereon</l>
+                     <l>Broad golden letters written shone,</l>
+                     <l>Saying, “No knight born may ride alone</l>
+                     <l>Forth toward this castle,” and all the stone</l>
+                     <l>   Glowed in the sun’s glare even as though</l>
+                     <l>Blood stained it from the crucified</l>
+                     <l>Dead burden of one that there had died,</l>
+                     <l>An old hoar man he saw beside</l>
+                     <l>   Whose face was wan as woe.</l>
+                  </lg>
+                  <lg>
+                     <l>“Balen the Wild,” he said, “this way</l>
+                     <l>Thy way lies not: thou hast passed to-day</l>
+                     <l>Thy bands: but turn again, and stay</l>
+                     <l>Thy passage, while thy soul hath sway</l>
+                     <l>   Within thee, and through God’s good power</l>
+                     <l>It will avail thee:” and anon</l>
+                     <l>His likeness as a cloud was gone,</l>
+                     <l>And Balen’s heart within him shone</l>
+                     <l>   Clear as the cloudless hour.</l>
+                  </lg>
+                  <lg>
+                     <l>Nor fate nor fear might overcast</l>
+                     <l>The soul now near its peace at last.</l>
+                     <l>Suddenly, thence as forth he past,</l>
+                     <l>A mighty and a deadly blast</l>
+                     <l>   Blown of a hunting-horn he heard,</l>
+                     <l>As when the chase hath nobly sped.</l>
+                     <l>“That blast is blown for me,” he said,</l>
+                     <l>“The prize am I who am yet not dead,”</l>
+                     <l>   And smiled upon the word.</l>
+                  </lg>
+                  <lg>
+                     <l>As toward a royal hart’s death rang</l>
+                     <l>That note, whence all the loud wood sang</l>
+                     <l>With winged and living sound that sprang</l>
+                     <l>Like fire, and keen as fire’s own fang</l>
+                     <l>   Pierced the sweet silence that it slew.</l>
+                     <l>But nought like death or strife was here:</l>
+                     <l>Fair semblance and most goodly cheer</l>
+                     <l>They made him, they whose troop drew near</l>
+                     <l>   As death among them drew.</l>
+                  </lg>
+                  <lg>
+                     <l>A hundred ladies well arrayed</l>
+                     <l>And many a knight well weaponed made</l>
+                     <l>That kindly show of cheer: the glade</l>
+                     <l>Shone round them till its very shade</l>
+                     <l>   Lightened and laughed from grove to lawn</l>
+                     <l>To hear and see them: so they brought</l>
+                     <l>Within a castle fair as thought</l>
+                     <l>Could dream that wizard hands had wrought</l>
+                     <l>   The guest among them drawn.</l>
+                  </lg>
+                  <lg>
+                     <l>All manner of glorious joy was there:</l>
+                     <l>Harping and dancing, loud and fair,</l>
+                     <l>And minstrelsy that made of air</l>
+                     <l>Fire, so like fire its raptures were.</l>
+                     <l>   Then the chief lady spake on high:</l>
+                     <l>“Knight with the two swords, one of two</l>
+                     <l>Must help you here or fall from you:</l>
+                     <l>For needs you now must have ado</l>
+                     <l>   And joust with one hereby.</l>
+                  </lg>
+                  <lg>
+                     <l>“A good knight guards an island here</l>
+                     <l>Against all swords that chance brings near,</l>
+                     <l>And there with stroke of sword and spear</l>
+                     <l>Must all for whom these halls make cheer</l>
+                     <l>   Fight, and redeem or yield up life.”</l>
+                     <l>“An evil custom,” Balen said,</l>
+                     <l>“Is this, that none whom chance hath led</l>
+                     <l>Hither, if knighthood crown his head,</l>
+                     <l>   May pass unstirred to strife.”</l>
+                  </lg>
+                  <lg>
+                     <l>“You shall not have ado to fight</l>
+                     <l>Here save against one only knight,”</l>
+                     <l>She said, and all her face grew bright</l>
+                     <l>As hell-fire, lit with hungry light</l>
+                     <l>   That wicked laughter touched with flame.</l>
+                     <l>“Well, since I shall thereto,” said he,</l>
+                     <l>“I am ready at heart as death for me:</l>
+                     <l>Fain would I be where death should be</l>
+                     <l>   And life should lose its name.</l>
+                  </lg>
+                  <lg>
+                     <l>“But travelling men whose goal afar</l>
+                     <l>Shines as a cloud-constraining star</l>
+                     <l>Are often weary, and wearier are</l>
+                     <l>Their steeds that feel each fret and jar</l>
+                     <l>   Wherewith the wild ways wound them: yet,</l>
+                     <l>Albeit my horse be weary, still</l>
+                     <l>My heart is nowise weary; will</l>
+                     <l>Sustains it even till death fulfil</l>
+                     <l>   My trust upon him set.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Sir,” said a knight thereby that stood,</l>
+                     <l>“Meseems your shield is now not good</l>
+                     <l>But worn with warrior work, nor could</l>
+                     <l>Sustain in strife the strokes it would:</l>
+                     <l>   A larger will I lend you.”  “Ay,</l>
+                     <l>Thereof I thank you,” Balen said,</l>
+                     <l>Being single of heart as one that read</l>
+                     <l>No face aright whence faith had fled,</l>
+                     <l>   Nor dreamed that faith could fly.</l>
+                  </lg>
+                  <lg>
+                     <l>And so he took that shield unknown</l>
+                     <l>And left for treason’s touch his own,</l>
+                     <l>And toward that island rode alone,</l>
+                     <l>Nor heard the blast against him blown</l>
+                     <l>   Sound in the wind’s and water’s sound,</l>
+                     <l>But hearkening toward the stream’s edge heard</l>
+                     <l>Nought save the soft stream’s rippling word,</l>
+                     <l>Glad with the gladness of a bird,</l>
+                     <l>   That sang to the air around.</l>
+                  </lg>
+                  <lg>
+                     <l>And there against the water-side</l>
+                     <l>He saw, fast moored to rock and ride,</l>
+                     <l>A fair great boat anear abide</l>
+                     <l>Like one that waits the turning tide,</l>
+                     <l>   Wherein embarked his horse and he</l>
+                     <l>Passed over toward no kindly strand:</l>
+                     <l>And where they stood again on land</l>
+                     <l>There stood a maiden hard at hand</l>
+                     <l>   Who seeing them wept to see.</l>
+                  </lg>
+                  <lg>
+                     <l>And “O knight Balen,” was her cry,</l>
+                     <l>“Why have ye left your own shield? why</l>
+                     <l>Come hither out of time to die?</l>
+                     <l>For had ye kept your shield, thereby</l>
+                     <l>   Ye had yet been known, and died not here.</l>
+                     <l>Great pity it is of you this day</l>
+                     <l>As ever was of knight, or may</l>
+                     <l>Be ever, seeing in war’s bright way</l>
+                     <l>   Praise knows not Balen’s peer.”</l>
+                  </lg>
+                  <lg>
+                     <l>And Balen said, “Thou hast heard my name</l>
+                     <l>Right: it repenteth me, though shame</l>
+                     <l>May tax me not with base men’s blame,</l>
+                     <l>That ever, hap what will, I came</l>
+                     <l>   Within this country; yet, being come,</l>
+                     <l>For shame I may not turn again</l>
+                     <l>Now, that myself and nobler men</l>
+                     <l>May scorn me: now is more than then,</l>
+                     <l>   And faith bids fear be dumb.</l>
+                  </lg>
+                  <lg>
+                     <l>“Be it life or death, my chance I take,</l>
+                     <l>Be it life’s to build or death’s to break:</l>
+                     <l>And fall what may, me lists not make</l>
+                     <l>Moan for sad life’s or death’s sad sake.”</l>
+                     <l>   Then looked he on his armour, glad</l>
+                     <l>And high of heart, and found it strong:</l>
+                     <l>And all his soul became a song</l>
+                     <l>And soared in prayer that soared not long,</l>
+                     <l>   For all the hope it had.</l>
+                  </lg>
+                  <lg>
+                     <l>Then saw he whence against him came</l>
+                     <l>A steed whose trappings shone like flame,</l>
+                     <l>And he that rode him showed the same</l>
+                     <l>Fierce colour, bright as fire or fame,</l>
+                     <l>   But dark the visors were as night</l>
+                     <l>That hid from Balen Balan’s face,</l>
+                     <l>And his from Balan: God’s own grace</l>
+                     <l>Forsook them for a shadowy space</l>
+                     <l>   Where darkness cast out light.</l>
+                  </lg>
+                  <lg>
+                     <l>The two swords girt that Balen bare</l>
+                     <l>Gave Balan for a breath’s while there</l>
+                     <l>Pause, wondering if indeed it were</l>
+                     <l>Balen his brother, bound to dare</l>
+                     <l>   The chance of that unhappy quest:</l>
+                     <l>But seeing not as he thought to see</l>
+                     <l>His shield, he deemed it was not he,</l>
+                     <l>And so, as fate bade sorrow be,</l>
+                     <l>   They laid their spears in rest.</l>
+                  </lg>
+                  <lg>
+                     <l>So mighty was the course they ran</l>
+                     <l>With spear to spear so great of span,</l>
+                     <l>Each fell back stricken, man by man,</l>
+                     <l>Horse by horse, borne down: so the ban</l>
+                     <l>   That wrought by doom against them wrought:</l>
+                     <l>But Balen by his falling steed</l>
+                     <l>Was bruised the sorer, being indeed</l>
+                     <l>Way-weary, like a rain-bruised reed,</l>
+                     <l>   With travel ere he fought.</l>
+                  </lg>
+                  <lg>
+                     <l>And Balen rose again from swoon</l>
+                     <l>First, and went toward him: all too soon</l>
+                     <l>He too then rose, and the evil boon</l>
+                     <l>Of strength came back, and the evil tune</l>
+                     <l>   Of battle unnatural made again</l>
+                     <l>Mad music as for death’s wide ear</l>
+                     <l>Listening and hungering toward the near</l>
+                     <l>Last sigh that life or death might hear</l>
+                     <l>   At last from dying men.</l>
+                  </lg>
+                  <lg>
+                     <l>Balan smote Balen first, and clove</l>
+                     <l>His lifted shield that rose and strove</l>
+                     <l>In vain against the stroke that drove</l>
+                     <l>Down: as the web that morning wove</l>
+                     <l>   Of glimmering pearl from spray to spray</l>
+                     <l>Dies when the strong sun strikes it, so</l>
+                     <l>Shrank the steel, tempered thrice to show</l>
+                     <l>Strength, as the mad might of the blow</l>
+                     <l>   Shore Balen’s helm away.</l>
+                  </lg>
+                  <lg>
+                     <l>Then turning as a turning wave</l>
+                     <l>Against the land-wind, blind and brave</l>
+                     <l>In hope that dreams despair may save,</l>
+                     <l>With even the unhappy sword that gave</l>
+                     <l>   The gifts of fame and fate in one</l>
+                     <l>He smote his brother, and there had nigh</l>
+                     <l>Felled him: and while they breathed, his eye</l>
+                     <l>Glanced up, and saw beneath the sky</l>
+                     <l>   Sights fairer than the sun.</l>
+                  </lg>
+                  <lg>
+                     <l>The towers of all the castle there</l>
+                     <l>Stood full of ladies, blithe and fair</l>
+                     <l>As the earth beneath and the amorous air</l>
+                     <l>About them and above them were:</l>
+                     <l>   So toward the blind and fateful fight</l>
+                     <l>Again those brethren went, and sore</l>
+                     <l>Were all the strokes they smote and bore,</l>
+                     <l>And breathed again, and fell once more</l>
+                     <l>   To battle in their sight.</l>
+                  </lg>
+                  <lg>
+                     <l>With blood that either spilt and bled</l>
+                     <l>Was all the ground they fought on red,</l>
+                     <l>And each knight’s hauberk hewn and shred</l>
+                     <l>Left each unmailed and naked, shed</l>
+                     <l>   From off them even as mantles cast:</l>
+                     <l>And oft they breathed, and drew but breath</l>
+                     <l>Brief as the word strong sorrow saith,</l>
+                     <l>And poured and drank the draught of death,</l>
+                     <l>   Till fate was full at last.</l>
+                  </lg>
+                  <lg>
+                     <l>And Balan, younger born than he</l>
+                     <l>Whom darkness bade him slay, and be</l>
+                     <l>Slain, as in mist where none may see</l>
+                     <l>If aught abide or fall or flee,</l>
+                     <l>   Drew back a little and laid him down,</l>
+                     <l>Dying: but Balen stood, and said,</l>
+                     <l>As one between the quick and dead</l>
+                     <l>Might stand and speak, “What good knight’s head</l>
+                     <l>   Hath won this mortal crown?</l>
+                  </lg>
+                  <lg>
+                     <l>“What knight art thou? for never I</l>
+                     <l>Who now beside thee dead shall die</l>
+                     <l>Found yet the knight afar or nigh</l>
+                     <l>That matched me.”  Then his brother’s eye</l>
+                     <l>   Flashed pride and love; he spake and smiled</l>
+                     <l>And felt in death life’s quickening flame,</l>
+                     <l>And answered: “Balan is my name,</l>
+                     <l>The good knight Balen’s brother; fame</l>
+                     <l>   Calls and miscalls him wild.”</l>
+                  </lg>
+                  <lg>
+                     <l>The cry from Balen’s lips that sprang</l>
+                     <l>Sprang sharper than his sword’s stroke rang.</l>
+                     <l>More keen than death’s or memory’s fang,</l>
+                     <l>Through sense and soul the shuddering pang</l>
+                     <l>   Shivered: and scarce he had cried, “Alas</l>
+                     <l>That ever I should see this day,”</l>
+                     <l>When sorrow swooned from him away</l>
+                     <l>As blindly back he fell, and lay</l>
+                     <l>   Where sleep lets anguish pass.</l>
+                  </lg>
+                  <lg>
+                     <l>But Balan rose on hands and knees</l>
+                     <l>And crawled by childlike dim degrees</l>
+                     <l>Up toward his brother, as a breeze</l>
+                     <l>Creeps wingless over sluggard seas</l>
+                     <l>   When all the wind’s heart fails it: so</l>
+                     <l>Beneath their mother’s eyes had he,</l>
+                     <l>A babe that laughed with joy to be,</l>
+                     <l>Made toward him standing by her knee</l>
+                     <l>   For love’s sake long ago.</l>
+                  </lg>
+                  <lg>
+                     <l>Then, gathering strength up for a space,</l>
+                     <l>From off his brother’s dying face</l>
+                     <l>With dying hands that wrought apace</l>
+                     <l>While death and life would grant them grace</l>
+                     <l>   He loosed his helm and knew not him,</l>
+                     <l>So scored with blood it was, and hewn</l>
+                     <l>Athwart with darkening wounds: but soon</l>
+                     <l>Life strove and shuddered through the swoon</l>
+                     <l>   Wherein its light lay dim.</l>
+                  </lg>
+                  <lg>
+                     <l>And sorrow set these chained words free:</l>
+                     <l>“O Balan, O my brother! me</l>
+                     <l>Thou hast slain, and I, my brother, thee</l>
+                     <l>And now far hence, on shore and sea,</l>
+                     <l>   Shall all the wide world speak of us.”</l>
+                     <l>“Alas,” said Balan, “that I might</l>
+                     <l>Not know you, seeing two swords were dight</l>
+                     <l>About you; now the unanswering sight</l>
+                     <l>   Hath here found answer thus.</l>
+                  </lg>
+                  <lg>
+                     <l>“Because you bore another shield</l>
+                     <l>Than yours, that even ere youth could wield</l>
+                     <l>Like arms with manhood’s tried and steeled</l>
+                     <l>Shone as my star of battle-field,</l>
+                     <l>   I deemed it surely might not be</l>
+                     <l>My brother.”  Then his brother spake</l>
+                     <l>Fiercely: “Would God, for thy sole sake,</l>
+                     <l>I had my life again, to take</l>
+                     <l>   Revenge for only thee!</l>
+                  </lg>
+                  <lg>
+                     <l>“For all this deadly work was wrought</l>
+                     <l>Of one false knight’s false word and thought,</l>
+                     <l>Whose mortal craft and counsel caught</l>
+                     <l>And snared my faith who doubted nought,</l>
+                     <l>   And made me put my shield away.</l>
+                     <l>Ah, might I live, I would destroy</l>
+                     <l>That castle for its customs: joy</l>
+                     <l>There makes of grief a deadly toy,</l>
+                     <l>   And death makes night of day.”</l>
+                  </lg>
+                  <lg>
+                     <l>“Well done were that, if aught were done</l>
+                     <l>Well ever here beneath the sun,”</l>
+                     <l>Said Balan: “better work were none:</l>
+                     <l>For hither since I came and won</l>
+                     <l>   A woful honour born of death,</l>
+                     <l>When here my hap it was to slay</l>
+                     <l>A knight who kept this island way,</l>
+                     <l>I might not pass by night or day</l>
+                     <l>   Hence, as this token saith.</l>
+                  </lg>
+                  <lg>
+                     <l>“No more shouldst thou, for all the might</l>
+                     <l>Of heart and hand that seals thee knight</l>
+                     <l>Most noble of all that see the light,</l>
+                     <l>Brother, hadst thou but slain in fight</l>
+                     <l>   Me, and arisen unscathed and whole,</l>
+                     <l>As would to God thou hadst risen! though here</l>
+                     <l>Light is as darkness, hope as fear,</l>
+                     <l>And love as hate: and none draws near</l>
+                     <l>   Save toward a mortal goal.”</l>
+                  </lg>
+                  <lg>
+                     <l>Then, fair as any poison-flower</l>
+                     <l>Whose blossom blights the withering bower</l>
+                     <l>Whereon its blasting breath has power,</l>
+                     <l>Forth fared the lady of the tower</l>
+                     <l>   With many a lady and many a knight,</l>
+                     <l>And came across the water-way</l>
+                     <l>Even where on death’s dim border lay</l>
+                     <l>Those brethren sent of her to slay</l>
+                     <l>   And die in kindless fight.</l>
+                  </lg>
+                  <lg>
+                     <l>And all those hard light hearts were swayed</l>
+                     <l>With pity passing like a shade</l>
+                     <l>That stays not, and may be not stayed,</l>
+                     <l>To hear the mutual moan they made,</l>
+                     <l>   Each to behold his brother die,</l>
+                     <l>Saying, “Both we came out of one tomb,</l>
+                     <l>One star-crossed mother’s woful womb,</l>
+                     <l>And so within one grave-pit’s gloom</l>
+                     <l>   Untimely shall we lie.”</l>
+                  </lg>
+                  <lg>
+                     <l>And Balan prayed, as God should bless</l>
+                     <l>That lady for her gentleness,</l>
+                     <l>That where the battle’s mortal stress</l>
+                     <l>Had made for them perforce to press</l>
+                     <l>   The bed whence never man may rise</l>
+                     <l>They twain, free now from hopes and fears,</l>
+                     <l>Might sleep; and she, as one that hears,</l>
+                     <l>Bowed her bright head: and very tears</l>
+                     <l>   Fell from her cold fierce eyes.</l>
+                  </lg>
+                  <lg>
+                     <l>Then Balen prayed her send a priest</l>
+                     <l>To housel them, that ere they ceased</l>
+                     <l>The hansel of the heavenly feast</l>
+                     <l>That fills with light from the answering east</l>
+                     <l>   The sunset of the life of man</l>
+                     <l>Might bless them, and their lips be kissed</l>
+                     <l>With death’s requickening eucharist,</l>
+                     <l>And death’s and life’s dim sunlit mist</l>
+                     <l>   Pass as a stream that ran.</l>
+                  </lg>
+                  <lg>
+                     <l>And so their dying rites were done:</l>
+                     <l>And Balen, seeing the death-struck sun</l>
+                     <l>Sink, spake as he whose goal is won:</l>
+                     <l>“Now, when our trophied tomb is one,</l>
+                     <l>   And over us our tale is writ,</l>
+                     <l>How two that loved each other, two</l>
+                     <l>Born and begotten brethren, slew</l>
+                     <l>Each other, none that reads anew</l>
+                     <l>   Shall choose but weep for it.</l>
+                  </lg>
+                  <lg>
+                     <l>“And no good knight and no good man</l>
+                     <l>Whose eye shall ever come to scan</l>
+                     <l>The record of the imperious ban</l>
+                     <l>That made our life so sad a span</l>
+                     <l>   Shall read or hear, who shall not pray</l>
+                     <l>For us for ever.”  Then anon</l>
+                     <l>Died Balan; but the sun was gone,</l>
+                     <l>And deep the stars of midnight shone,</l>
+                     <l>   Ere Balen passed away.</l>
+                  </lg>
+                  <lg>
+                     <l>And there low lying, as hour on hour</l>
+                     <l>Fled, all his life in all its flower</l>
+                     <l>Came back as in a sunlit shower</l>
+                     <l>Of dreams, when sweet-souled sleep has power</l>
+                     <l>   On life less sweet and glad to be.</l>
+                     <l>He drank the draught of life’s first wine</l>
+                     <l>Again: he saw the moorland shine,</l>
+                     <l>The rioting rapids of the Tyne,</l>
+                     <l>   The woods, the cliffs, the sea.</l>
+                  </lg>
+                  <lg>
+                     <l>The joy that lives at heart and home,</l>
+                     <l>The joy to rest, the joy to roam,</l>
+                     <l>The joy of crags and scaurs he clomb,</l>
+                     <l>The rapture of the encountering foam</l>
+                     <l>   Embraced and breasted of the boy,</l>
+                     <l>The first good steed his knees bestrode,</l>
+                     <l>The first wild sound of songs that flowed</l>
+                     <l>Through ears that thrilled and heart that glowed,</l>
+                     <l>   Fulfilled his death with joy.</l>
+                  </lg>
+                  <lg>
+                     <l>So, dying not as a coward that dies</l>
+                     <l>And dares not look in death’s dim eyes</l>
+                     <l>Straight as the stars on seas and skies</l>
+                     <l>Whence moon and sun recoil and rise,</l>
+                     <l>   He looked on life and death, and slept.</l>
+                     <l>And there with morning Merlin came,</l>
+                     <l>And on the tomb that told their fame</l>
+                     <l>He wrote by Balan’s Balen’s name,</l>
+                     <l>   And gazed thereon, and wept.</l>
+                  </lg>
+                  <lg>
+                     <l>For all his heart within him yearned</l>
+                     <l>With pity like as fire that burned.</l>
+                     <l>The fate his fateful eye discerned</l>
+                     <l>Far off now dimmed it, ere he turned</l>
+                     <l>   His face toward Camelot, to tell</l>
+                     <l>Arthur of all the storms that woke</l>
+                     <l>Round Balen, and the dolorous stroke,</l>
+                     <l>And how that last blind battle broke</l>
+                     <l>   The consummated spell.</l>
+                  </lg>
+                  <lg>
+                     <l>“Alas,” King Arthur said, “this day</l>
+                     <l>I have heard the worst that woe might say:</l>
+                     <l>For in this world that wanes away</l>
+                     <l>I know not two such knights as they.”</l>
+                     <l>   This is the tale that memory writes</l>
+                     <l>Of men whose names like stars shall stand,</l>
+                     <l>Balen and Balan, sure of hand,</l>
+                     <l>Two brethren of Northumberland,</l>
+                     <l>   In life and death good knights.</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

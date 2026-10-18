@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instruction for Using a Slide Rule</title>
+            <author>W. Stanley</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-04T20:26:52Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">en-gutenberg-odts/s/StanleyW-InstructionForUsingASlideRule_2006.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>W. Stanley</name>
+               <date>2024-01-04T20:26:52Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Instruction for Using a Slide Rule</head>
+         <author>W. Stanley</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">en-gutenberg-odts/s/StanleyW-InstructionForUsingASlideRule_2006.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>Instruction for Using a Slide Rule</head>
+            <lg>
+               <l>[Transcriber's Notes]</l>
+               <l/>
+               <l>Conventional mathematical notation requires specialized fonts and</l>
+               <l>typesetting conventions. I have adopted modern computer programming</l>
+               <l>notation using only ASCII characters. The square root of 9 is thus</l>
+               <l>rendered as square_root(9) and the square of 9 is square(9).</l>
+               <l>10 divided by 5 is (10/5) and 10 multiplied by 5 is (10 * 5 ).</l>
+               <l/>
+               <l>By the time I finished engineering school in 1963, the slide rule was a</l>
+               <l>well worn tool of my trade. I did not use an electronic calculator for</l>
+               <l>another ten years. Consider that my predecessors had little else to</l>
+               <l>use--think Boulder Dam (with all its electrical, mechanical and</l>
+               <l>construction calculations).</l>
+               <l/>
+               <l>Rather than dealing with elaborate rules for positioning the decimal</l>
+               <l>point, I was taught to first "scale" the factors and deal with the</l>
+               <l>decimal position separately. For example:</l>
+               <l/>
+               <l>1230 * .000093 =</l>
+               <l>1.23E3 * 9.3E-5 </l>
+               <l>1.23E3 means multiply 1.23 by 10 to the power 3.</l>
+               <l>9.3E-5 means multiply 9.3 by 0.1 to the power 5 or 10 to the power -5.</l>
+               <l>The computation is thus</l>
+               <l>1.23 * 9.3 * 1E3 * 1E-5</l>
+               <l>The exponents are simply added.</l>
+               <l>1.23 *  9.3 * 1E-2 =</l>
+               <l>11.4 * 1E-2 =</l>
+               <l>.114</l>
+               <l/>
+               <l>When taking roots, divide the exponent by the root.</l>
+               <l>The square root of 1E6 is 1E3</l>
+               <l>The cube root of 1E12 is 1E4.</l>
+               <l/>
+               <l>When taking powers, multiply the exponent by the power.</l>
+               <l>The cube of 1E5 is 1E15.</l>
+               <l/>
+               <l>[End Transcriber's Notes]</l>
+               <l/>
+               <l/>
+               <l>INSTRUCTIONS</l>
+               <l>for using a</l>
+               <l>SLIDE</l>
+               <l>RULE</l>
+               <l>SAVE TIME!</l>
+               <l>DO THE FOLLOWING INSTANTLY WITHOUT PAPER AND PENCIL</l>
+               <l>MULTIPLICATION</l>
+               <l>DIVISION</l>
+               <l>RECIPROCAL VALUES</l>
+               <l>SQUARES &amp; CUBES</l>
+               <l>EXTRACTION OF SQUARE ROOT</l>
+               <l>EXTRACTION OF CUBE ROOT</l>
+               <l>DIAMETER OR AREA OF CIRCLE</l>
+               <l/>
+               <l/>
+               <l/>
+               <l/>
+               <l/>
+               <l>INSTRUCTIONS FOR USING A SLIDE RULE</l>
+               <l/>
+               <l>The slide rule is a device for easily and quickly multiplying, dividing</l>
+               <l>and extracting square root and cube root. It will also perform any</l>
+               <l>combination of these processes. On this account, it is found extremely</l>
+               <l>useful by students and teachers in schools and colleges, by engineers,</l>
+               <l>architects, draftsmen, surveyors, chemists, and many others. Accountants</l>
+               <l>and clerks find it very helpful when approximate calculations must be</l>
+               <l>made rapidly. The operation of a slide rule is extremely easy, and it is</l>
+               <l>well worth while for anyone who is called upon to do much numerical</l>
+               <l>calculation to learn to use one. It is the purpose of this manual to</l>
+               <l>explain the operation in such a way that a person who has never before</l>
+               <l>used a slide rule may teach himself to do so.</l>
+               <l/>
+            </lg>
+            <lg>
+               <l>  DESCRIPTION OF SLIDE RULE</l>
+               <l/>
+            </lg>
+            <lg>
+               <l/>
+               <l/>
+               <l>The slide rule consists of three parts (see figure 1). B is the body of</l>
+               <l>the rule and carries three scales marked A, D and K. S is the slider</l>
+               <l>which moves relative to the body and also carries three scales marked B,</l>
+               <l>CI and C. R is the runner or indicator and is marked in the center with</l>
+               <l>a hair-line. The scales A and B are identical and are used in problems</l>
+               <l>involving square root. Scales C and D are also identical and are used</l>
+               <l>for multiplication and division. Scale K is for finding cube root. Scale</l>
+               <l>CI, or C-inverse, is like scale C except that it is laid off from right</l>
+               <l>to left instead of from left to right. It is useful in problems</l>
+               <l>involving reciprocals.</l>
+               <l/>
+               <l/>
+               <l>MULTIPLICATION</l>
+               <l/>
+               <l>We will start with a very simple example:</l>
+               <l/>
+               <l>Example 1:  2 * 3 = 6</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>To prove this on the slide rule, move the slider so that the 1 at the</l>
+               <l>left-hand end of the C scale is directly over the large 2 on the D scale</l>
+               <l>(see figure 1). Then move the runner till the hair-line is over 3 on the</l>
+               <l>C scale. Read the answer, 6, on the D scale under the hair-line. Now,</l>
+               <l>let us consider a more complicated example:</l>
+               <l/>
+               <l>Example 2:   2.12 * 3.16 = 6.70</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>As before, set the 1 at the left-hand end of the C scale, which we will</l>
+               <l>call the left-hand index of the C scale, over 2.12 on the D scale (See</l>
+               <l>figure 2). The hair-line of the runner is now placed over 3.16 on the C</l>
+               <l>scale and the answer, 6.70, read on the D scale.</l>
+               <l/>
+               <l/>
+               <l>METHOD OF MAKING SETTINGS</l>
+               <l/>
+               <l/>
+               <l>[This 6 inch rule uses fewer minor divisions.]</l>
+               <l/>
+               <l>In order to understand just why 2.12 is set where it is (figure 2),</l>
+               <l>notice that the interval from 2 to 3 is divided into 10 large or major</l>
+               <l>divisions, each of which is, of course, equal to one-tenth (0.1) of the</l>
+               <l>amount represented by the whole interval. The major divisions are in</l>
+               <l>turn divided into 5 small or minor divisions, each of which is one-fifth</l>
+               <l>or two-tenths (0.2) of the major division, that is 0.02 of the</l>
+               <l>whole interval. Therefore, the index is set above</l>
+               <l/>
+               <l>  2 + 1 major division + 1 minor division = 2 + 0.1 + 0.02 = 2.12.</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>In the same way we find 3.16 on the C scale. While we are on this</l>
+               <l>subject, notice that in the interval from 1 to 2 the major divisions are</l>
+               <l>marked with the small figures 1 to 9 and the minor divisions are 0.1 of</l>
+               <l>the major divisions. In the intervals from 2 to 3 and 3 to 4 the minor</l>
+               <l>divisions are 0.2 of the major divisions, and for the rest of the D (or</l>
+               <l>C) scale, the minor divisions are 0.5 of the major divisions.</l>
+               <l/>
+               <l>Reading the setting from a slide rule is very much like reading</l>
+               <l>measurements from a ruler. Imagine that the divisions between 2 and 3 on</l>
+               <l>the D scale (figure 2) are those of a ruler divided into tenths of a</l>
+               <l>foot, and each tenth of a foot divided in 5 parts 0.02 of a foot long.</l>
+               <l>Then the distance from one on the left-hand end of the D scale (not</l>
+               <l>shown in figure 2) to one on the left-hand end of the C scale would he</l>
+               <l>2.12 feet. Of course, a foot rule is divided into parts of uniform</l>
+               <l>length, while those on a slide rule get smaller toward the right-hand</l>
+               <l>end, but this example may help to give an idea of the method of making</l>
+               <l>and reading settings. Now consider another example.</l>
+               <l/>
+               <l>Example 3a:  2.12 * 7.35 = 15.6</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>If we set the left-hand index of the C scale over 2.12 as in the last</l>
+               <l>example, we find that 7.35 on the C scale falls out beyond the body of</l>
+               <l>the rule. In a case like this, simply use the right-hand index of the C</l>
+               <l>scale. If we set this over 2.12 on the D scale and move the runner to</l>
+               <l>7.35 on the C scale we read the result 15.6 on the D scale under the</l>
+               <l>hair-line.</l>
+               <l/>
+               <l>Now, the question immediately arises, why did we call the result 15.6</l>
+               <l>and not 1.56? The answer is that the slide rule takes no account of</l>
+               <l>decimal points. Thus, the settings would be identical for all of the</l>
+               <l>following products:</l>
+               <l/>
+               <l>Example 3:</l>
+               <l>a:    2.12    *   7.35   =    15.6 b:   21.2     *   7.35   =   156.0 c:  212       *  73.5    = 15600. d:    2.12    *    .0735 =      .156 e:     .00212 * 735      =      .0156</l>
+               <l/>
+               <l>The most convenient way to locate the decimal point is to make a mental</l>
+               <l>multiplication using only the first digits in the given factors. Then</l>
+               <l>place the decimal point in the slide rule result so that its value is</l>
+               <l>nearest that of the mental multiplication. Thus, in example 3a above, we</l>
+               <l>can multiply 2 by 7 in our heads and see immediately that the decimal</l>
+               <l>point must be placed in the slide rule result 156 so that it becomes</l>
+               <l>15.6 which is nearest to 14. In example 3b (20 * 7 = 140), so we must</l>
+               <l>place the decimal point to give 156. The reader can readily verify the</l>
+               <l>other examples in the same way.</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>Since the product of a number by a second number is the same as the</l>
+               <l>product of the second by the first, it makes no difference which of the</l>
+               <l>two numbers is set first on the slide rule. Thus, an alternative way of</l>
+               <l>working example 2 would be to set the left-hand index of the C scale</l>
+               <l>over 3.16 on the D scale and move the runner to 2.12 on the C scale and</l>
+               <l>read the answer under the hair-line on the D scale.</l>
+               <l/>
+               <l>The A and B scales are made up of two identical halves each of which is</l>
+               <l>very similar to the C and D scales. Multiplication can also be carried</l>
+               <l>out on either half of the A and B scales exactly as it is done on the C</l>
+               <l>and D scales. However, since the A and B scales are only half as long as</l>
+               <l>the C and D scales, the accuracy is not as good. It is sometimes</l>
+               <l>convenient to multiply on the A and B scales in more complicated</l>
+               <l>problems as we shall see later on.</l>
+               <l/>
+               <l>A group of examples follow which cover all the possible combination of</l>
+               <l>settings which can arise in the multiplication of two numbers.</l>
+               <l/>
+               <l>Example</l>
+               <l/>
+               <l>4:   20 * 3 = 60</l>
+               <l/>
+               <l/>
+               <l>5:   85 * 2 = 170</l>
+               <l/>
+               <l/>
+               <l>6:   45 * 35 = 1575</l>
+               <l/>
+               <l/>
+               <l>7:   151 * 42 = 6342</l>
+               <l/>
+               <l/>
+               <l>8:   6.5 * 15 = 97.5</l>
+               <l/>
+               <l/>
+               <l>9:   .34 * .08 = .0272</l>
+               <l/>
+               <l/>
+               <l>10:  75 * 26 = 1950</l>
+               <l/>
+               <l/>
+               <l>11:  .00054 * 1.4 = .000756</l>
+               <l/>
+               <l/>
+               <l>12:  11.1 * 2.7 = 29.97</l>
+               <l/>
+               <l/>
+               <l>13:  1.01 * 54 = 54.5</l>
+               <l/>
+               <l/>
+               <l>14:  3.14 * 25 = 78.5</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>DIVISION</l>
+               <l/>
+               <l>Since multiplication and division are inverse processes, division on a</l>
+               <l>slide rule is done by making the same settings as for multiplication,</l>
+               <l>but in reverse order. Suppose we have the example:</l>
+               <l/>
+               <l>Example 15: (6.70 / 2.12) = 3.16</l>
+               <l/>
+               <l/>
+               <l>Set indicator over the dividend 6.70 on the D scale. Move the slider</l>
+               <l>until the divisor 2.12 on the C scale is under the hair-line. Then read</l>
+               <l>the result on the D scale under the left-hand index of the C scale. As</l>
+               <l>in multiplication, the decimal point must be placed by a separate</l>
+               <l>process. Make all the digits except the first in both dividend and</l>
+               <l>divisor equal zero and mentally divide the resulting numbers. Place the</l>
+               <l>decimal point in the slide rule result so that it is nearest to the</l>
+               <l>mental result. In example 15, we mentally divide 6 by 2. Then we place</l>
+               <l>the decimal point in the slide rule result 316 so that it is 3.16 which</l>
+               <l>is nearest to 3.</l>
+               <l/>
+               <l>A group of examples for practice in division follow:</l>
+               <l/>
+               <l>Example</l>
+               <l>16:   34 / 2 = 17</l>
+               <l/>
+               <l/>
+               <l>17:   49 / 7 = 7</l>
+               <l/>
+               <l/>
+               <l>18:  132 / 12 = 11</l>
+               <l/>
+               <l/>
+               <l>19:  480 / 16 = 30</l>
+               <l/>
+               <l/>
+               <l>20: 1.05 / 35 = .03</l>
+               <l/>
+               <l/>
+               <l>21: 4.32 / 12 = .36</l>
+               <l/>
+               <l/>
+               <l>22: 5.23 / 6.15 = .85</l>
+               <l/>
+               <l/>
+               <l>23: 17.1 / 4.5 = 3.8</l>
+               <l/>
+               <l/>
+               <l>24: 1895 / 6.06 = 313</l>
+               <l/>
+               <l/>
+               <l>25:   45 /.017 = 2647</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>THE CI SCALE</l>
+               <l/>
+               <l>If we divide one (1) by any number the answer is called the reciprocal</l>
+               <l>of the number. Thus, one-half is the reciprocal of two, one-quarter is</l>
+               <l>the reciprocal of four. If we take any number, say 14, and multiply it</l>
+               <l>by the reciprocal of another number, say 2, we get:</l>
+               <l/>
+               <l>Example 26: 14 * (1/2) = 7</l>
+               <l/>
+               <l/>
+               <l>which is the same as 14 divided by two. This process can be carried out</l>
+               <l>directly on the slide rule by use of the CI scale. Numbers on the CI</l>
+               <l>scale are reciprocals of those on the C scale. Thus we see that 2 on the</l>
+               <l>CI scale comes directly over 0.5 or 1/2 on the C scale. Similarly 4 on</l>
+               <l>the CI scale comes over 0.25 or 1/4 on the C scale, and so on. To do</l>
+               <l>example 26 by use of the CI scale, proceed exactly as if you were going</l>
+               <l>to multiply in the usual manner except that you use the CI scale instead</l>
+               <l>of the C scale. First set the left-hand index of the C scale over 14 on</l>
+               <l>the D scale. Then move the indicator to 2 on the CI scale. Read the</l>
+               <l>result, 7, on the D scale under the hair-line. This is really another</l>
+               <l>way of dividing. THE READER IS ADVISED TO WORK EXAMPLES 16 TO 25 OVER</l>
+               <l>AGAIN BY USE OF THE CI SCALE.</l>
+               <l/>
+               <l/>
+               <l>SQUARING AND SQUARE ROOT</l>
+               <l/>
+               <l>If we take a number and multiply it by itself we call the result the</l>
+               <l>square of the number. The process is called squaring the number. If we</l>
+               <l>find the number which, when multiplied by itself is equal to a given</l>
+               <l>number, the former number is called the square root of the given number.</l>
+               <l>The process is called extracting the square root of the number. Both</l>
+               <l>these processes may be carried out on the A and D scales of a slide</l>
+               <l>rule. For example:</l>
+               <l/>
+               <l>Example 27: 4 * 4 = square( 4 ) = 16</l>
+               <l/>
+               <l/>
+               <l>Set indicator over 4 on D scale. Read 16 on A scale under hair-line.</l>
+               <l/>
+               <l>Example 28: square( 25.4 )  = 646.0</l>
+               <l/>
+               <l/>
+               <l>The decimal point must be placed by mental survey. We know that</l>
+               <l>square( 25.4 ) must be a little larger than square( 25 ) = 625 so that</l>
+               <l>it must be 646.0.</l>
+               <l/>
+               <l>To extract a square root, we set the indicator over the number on the A</l>
+               <l>scale and read the result under the hair-line on the D scale. When we</l>
+               <l>examine the A scale we see that there are two places where any given</l>
+               <l>number may be set, so we must have some way of deciding in a given case</l>
+               <l>which half of the A scale to use. The rule is as follows:</l>
+               <l/>
+               <l>(a) If the number is greater than one. For an odd number of digits to</l>
+               <l>the left of the decimal point, use the left-hand half of the A scale.</l>
+               <l>For an even number of digits to the left of the decimal point, use the</l>
+               <l>right-hand half of the A scale.</l>
+               <l/>
+               <l>(b) If the number is less than one. For an odd number of zeros to the</l>
+               <l>right of the decimal point before the first digit not a zero, use the</l>
+               <l>left-hand half of the A scale. For none or any even number of zeros to</l>
+               <l>the right of the decimal point before the first digit not a zero, use</l>
+               <l>the right-hand half of the A scale.</l>
+               <l/>
+               <l>Example 29: square_root( 157 ) = 12.5</l>
+               <l/>
+               <l/>
+               <l>Since we have an odd number of digits set indicator over 157 on</l>
+               <l>left-hand half of A scale. Read 12.5 on the D scale under hair-line. To</l>
+               <l>check the decimal point think of the perfect square nearest to 157. It</l>
+               <l>is 12 * 12 = 144, so that square_root(157) must be a little more than 12 or</l>
+               <l>12.5.</l>
+               <l/>
+               <l>Example 30: square_root( .0037 ) = .0608</l>
+               <l/>
+               <l/>
+               <l>In this number we have an even number of zeros to the right of the</l>
+               <l>decimal point, so we must set the indicator over 37 on the right-hand</l>
+               <l>half of the A scale. Read 608 under the hair-line on D scale. To place</l>
+               <l>the decimal point write:</l>
+               <l/>
+               <l>square_root( .0037 ) = square_root( 37/10000 )</l>
+               <l>                     = 1/100 square_root( 37 )</l>
+               <l/>
+               <l>The nearest perfect square to 37 is 6 * 6 = 36, so the answer should be</l>
+               <l>a little more than 0.06 or .0608. All of what has been said about use of</l>
+               <l>the A and D scales for squaring and extracting square root applies</l>
+               <l>equally well to the B and C scales since they are identical to the A and</l>
+               <l>D scales respectively.</l>
+               <l/>
+               <l>A number of examples follow for squaring and the extraction of square</l>
+               <l>root.</l>
+               <l/>
+               <l>Example</l>
+               <l>31: square( 2 ) = 4</l>
+               <l/>
+               <l/>
+               <l>32: square( 15 ) = 225</l>
+               <l/>
+               <l/>
+               <l>33: square( 26 )  = 676</l>
+               <l/>
+               <l/>
+               <l>34: square( 19.65 ) = 386</l>
+               <l/>
+               <l/>
+               <l>35: square_root( 64 ) = 8</l>
+               <l/>
+               <l/>
+               <l>36: square_root( 6.4 ) = 2.53</l>
+               <l/>
+               <l/>
+               <l>37: square_root( 498 ) = 22.5</l>
+               <l/>
+               <l/>
+               <l>38: square_root( 2500 ) = 50</l>
+               <l/>
+               <l/>
+               <l>39: square_root( .16 ) = .04</l>
+               <l/>
+               <l/>
+               <l>40: square_root( .03 ) = .173</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>CUBING AND CUBE ROOT</l>
+               <l/>
+               <l>If we take a number and multiply it by itself, and then multiply the</l>
+               <l>result by the original number we get what is called the cube of the</l>
+               <l>original number. This process is called cubing the number. The reverse</l>
+               <l>process of finding the number which, when multiplied by itself and then</l>
+               <l>by itself again, is equal to the given number, is called extracting the</l>
+               <l>cube root of the given number. Thus, since 5 * 5 * 5 = 125, 125 is the</l>
+               <l>cube of 5 and 5 is the cube root of 125.</l>
+               <l/>
+               <l>To find the cube of any number on the slide rule set the indicator over</l>
+               <l>the number on the D scale and read the answer on the K scale under the</l>
+               <l>hair-line. To find the cube root of any number set the indicator over</l>
+               <l>the number on the K scale and read the answer on the D scale under the</l>
+               <l>hair-line. Just as on the A scale, where there were two places where you</l>
+               <l>could set a given number, on the K scale there are three places where a</l>
+               <l>number may be set. To tell which of the three to use, we must make use</l>
+               <l>of the following rule.</l>
+               <l/>
+               <l>(a) If the number is greater than one. For 1, 4, 7, 10, etc., digits to</l>
+               <l>the left of the decimal point, use the left-hand third of the K scale.</l>
+               <l>For 2, 5, 8, 11, etc., digits to the left of the decimal point, use the</l>
+               <l>middle third of the K scale. For 3, 6, 9, 12, etc., digits to the left</l>
+               <l>of the decimal point use the right-hand third of the K scale.</l>
+               <l/>
+               <l>(b) If the number is less than one. We now tell which scale to use by</l>
+               <l>counting the number of zeros to the right of the decimal point before</l>
+               <l>the first digit not zero. If there are 2, 5, 8, 11, etc., zeros, use the</l>
+               <l>left-hand third of the K scale. If there are 1, 4, 7, 10, etc., zeros,</l>
+               <l>then use the middle third of the K scale. If there are no zeros or 3, 6,</l>
+               <l>9, 12, etc., zeros, then use the right-hand third of the K scale. For</l>
+               <l>example:</l>
+               <l/>
+               <l>Example 41: cube_root( 185 ) = 5.70</l>
+               <l/>
+               <l/>
+               <l>Since there are 3 digits in the given number, we set the indicator on</l>
+               <l>185 in the right-hand third of the K scale, and read the result 570 on</l>
+               <l>the D scale. We can place the decimal point by thinking of the nearest</l>
+               <l>perfect cube, which is 125. Therefore, the decimal point must be placed</l>
+               <l>so as to give 5.70, which is nearest to 5, the cube root of 125.</l>
+               <l/>
+               <l>Example 42: cube_root( .034 ) = .324</l>
+               <l/>
+               <l/>
+               <l>Since there is one zero between the decimal point and the first digit</l>
+               <l>not zero, we must set the indicator over 34 on the middle third of the K</l>
+               <l>scale. We read the result 324 on the D scale. The decimal point may be</l>
+               <l>placed as follows:</l>
+               <l/>
+               <l>cube_root( .034 ) = cube_root( 34/1000  )</l>
+               <l>                  = 1/10 cube_root( 34 )</l>
+               <l/>
+               <l>The nearest perfect cube to 34 is 27, so our answer must be close to</l>
+               <l>one-tenth of the cube root of 27 or nearly 0.3. Therefore, we must place</l>
+               <l>the decimal point to give 0.324. A group of examples for practice in</l>
+               <l>extraction of cube root follows:</l>
+               <l/>
+               <l>Example</l>
+               <l>43: cube_root( 64 ) = 4</l>
+               <l/>
+               <l/>
+               <l>44: cube_root( 8 ) = 2</l>
+               <l/>
+               <l/>
+               <l>45: cube_root( 343 ) = 7</l>
+               <l/>
+               <l/>
+               <l>46: cube_root( .000715 ) = .0894</l>
+               <l/>
+               <l/>
+               <l>47: cube_root( .00715 ) = .193</l>
+               <l/>
+               <l/>
+               <l>48: cube_root( .0715 ) = .415</l>
+               <l/>
+               <l/>
+               <l>49: cube_root( .516 ) = .803</l>
+               <l/>
+               <l/>
+               <l>50: cube_root( 27.8 ) = 3.03</l>
+               <l/>
+               <l/>
+               <l>51: cube_root( 5.49 ) = 1.76</l>
+               <l/>
+               <l/>
+               <l>52: cube_root( 87.1 ) = 4.43</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>THE 1.5 AND 2/3 POWER</l>
+               <l/>
+               <l>If the indicator is set over a given number on the A scale, the number</l>
+               <l>under the hair-line on the K scale is the 1.5 power of the given</l>
+               <l>number. If the indicator is set over a given number on the K scale, the</l>
+               <l>number under the hair-line on the A scale is the 2/3 power of the given</l>
+               <l>number.</l>
+               <l/>
+               <l>4 to the 3/2 power is 8</l>
+               <l>8 to the 2/3 power is 4.</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>COMBINATIONS OF PROCESSES</l>
+               <l/>
+               <l>A slide rule is especially useful where some combination of processes is</l>
+               <l>necessary, like multiplying 3 numbers together and dividing by a third.</l>
+               <l>Operations of this sort may be performed in such a way that the final</l>
+               <l>answer is obtained immediately without finding intermediate results.</l>
+               <l/>
+               <l>1. Multiplying several numbers together. For example, suppose it is</l>
+               <l>desired to multiply 4 * 8 * 6. Place the right-hand index of the C scale</l>
+               <l>over 4 on the D scale and set the indicator over 8 on the C scale. Now,</l>
+               <l>leaving the indicator where it is, move the slider till the right-hand</l>
+               <l>index is under the hairline. Now, leaving the slider where it is, move</l>
+               <l>the indicator until it is over 6 on the C scale, and read the result,</l>
+               <l>192, on the D scale. This may be continued indefinitely, and so as many</l>
+               <l>numbers as desired may be multiplied together.</l>
+               <l/>
+               <l>Example 53: 2.32 * 154 * .0375 * .56 = 7.54</l>
+               <l/>
+               <l/>
+               <l/>
+               <l/>
+               <l>2. Multiplication and division.</l>
+               <l>Suppose we wish to do the following example:</l>
+               <l/>
+               <l>Example 54:  (4 * 15) / 2.5  = 24</l>
+               <l/>
+               <l>First divide 4 by 2.5. Set indicator over 4 on the D scale and move the</l>
+               <l>slider until 2.5 is under the hair-line. The result of this division,</l>
+               <l>1.6, appears under the left-hand index of the C scale. We do not need to</l>
+               <l>write it down, however, but we can immediately move the indicator to 15</l>
+               <l>on the C scale and read the final result 24 on the D scale under the</l>
+               <l>hair-line. Let us consider a more complicated problem of the same type:</l>
+               <l/>
+               <l>Example 55: (30/7.5) * (2/4) * (4.5/5) * (1.5/3) = .9</l>
+               <l/>
+               <l>First set indicator over 30 on the D scale and move slider until 7.5 on</l>
+               <l>the C scale comes under the hairline. The intermediate result, 4,</l>
+               <l>appears under the right-hand index of the C scale. We do not need to</l>
+               <l>write it down but merely note it by moving the indicator until the</l>
+               <l>hair-line is over the right-hand index of the C scale. Now we want to</l>
+               <l>multiply this result by 2, the next factor in the numerator. Since two</l>
+               <l>is out beyond the body of the rule, transfer the slider till the other</l>
+               <l>(left-hand) index of the C scale is under the hair-line, and then move</l>
+               <l>the indicator to 2 on the C scale. Thus, successive division and</l>
+               <l>multiplication is continued until all the factors have been used. The</l>
+               <l>order in which the factors are taken does not affect the result. With a</l>
+               <l>little practice you will learn to take them in the order which will</l>
+               <l>require the fewest settings. The following examples are for practice:</l>
+               <l/>
+               <l>Example 56: (6/3.5) * (4/5) * (3.5/2.4) * (2.8/7) = .8</l>
+               <l/>
+               <l>Example 57: 352 * (273/254) * (760/768) = 374</l>
+               <l/>
+               <l>An alternative method of doing these examples is to proceed exactly as</l>
+               <l>though you were multiplying all the factors together, except that</l>
+               <l>whenever you come to a number in the denominator you use the CI scale</l>
+               <l>instead of the C scale. The reader is advised to practice both methods</l>
+               <l>and use whichever one he likes best.</l>
+               <l/>
+               <l>3. The area of a circle. The area of a circle is found by multiplying</l>
+               <l>3.1416=PI by the square of the radius or by one-quarter the square of</l>
+               <l>the diameter</l>
+               <l/>
+               <l>Formula:</l>
+               <l>A = PI * square( R )</l>
+               <l>A = PI * (square( D ) / 4 )</l>
+               <l/>
+               <l>Example 58: The radius of a circle is 0.25 inches; find its area.</l>
+               <l/>
+               <l>Area = PI * square(0.25) = 0.196 square inches.</l>
+               <l/>
+               <l>Set left-hand index of C scale over 0.25 on D scale. square(0.25) now</l>
+               <l>appears above the left-hand index of the B scale. This can be multiplied</l>
+               <l>by PI by moving the indicator to PI on the B scale and reading the</l>
+               <l>answer .196 on the A scale. This is an example where it is convenient to</l>
+               <l>multiply with the A and B scales.</l>
+               <l/>
+               <l>Example 59: The diameter of a circle is 8.1 feet. What is its area?</l>
+               <l/>
+               <l>Area = (PI / 4) *  square(8.1)</l>
+               <l>     = .7854 * square(8.1)</l>
+               <l>     = 51.7 sq. inches.</l>
+               <l/>
+               <l>Set right-hand index of the C scale over 8.1 on the D scale. Move the</l>
+               <l>indicator till hair-line is over .7854 (the special long mark near 8) at</l>
+               <l>the right hand of the B scale. Read the answer under the hair-line on</l>
+               <l>the A scale. Another way of finding the area of a circle is to set 7854</l>
+               <l>on the B scale to one of the indices of the A scale, and read the area</l>
+               <l>from the B scale directly above the given diameter on the D scale.</l>
+               <l/>
+               <l>4. The circumference of a circle. Set the index of the B scale to the</l>
+               <l>diameter and read the answer on the A scale opposite PI on the B scale</l>
+               <l/>
+               <l>Formula: C = PI * D</l>
+               <l>         C = 2 * PI * R</l>
+               <l/>
+               <l>Example 60: The diameter of a circle is 1.54 inches, what is its</l>
+               <l>circumference?</l>
+               <l/>
+               <l>Set the left-hand index of the B scale to 1.54 on the A scale. Read the</l>
+               <l>circumference 4.85 inches above PI on the B scale.</l>
+               <l/>
+               <l>EXAMPLES FOR PRACTICE</l>
+               <l/>
+               <l>61: What is the area of a circle 32-1/2 inches in diameter?</l>
+               <l>Answer 830 sq. inches</l>
+               <l/>
+               <l>62: What is the area of a circle 24 inches in diameter?</l>
+               <l>Answer 452 sq. inches</l>
+               <l/>
+               <l>63: What is the circumference of a circle whose diameter is 95 feet?</l>
+               <l>Answer 298 ft.</l>
+               <l/>
+               <l>64: What is the circumference of a circle whose diameter is 3.65 inches?</l>
+               <l>Answer 11.5 inches</l>
+               <l/>
+               <l>5. Ratio and Proportion.</l>
+               <l/>
+               <l>Example 65:   3 : 7 : : 4 : X</l>
+               <l>or</l>
+               <l>(3/7) = (4/x)</l>
+               <l>Find X</l>
+               <l/>
+               <l>Set 3 on C scale over 7 on D scale. Read X on D scale under 4 on C</l>
+               <l>scale. In fact, any number on the C scale is to the number directly</l>
+               <l>under it on the D scale as 3 is to 7.</l>
+               <l/>
+               <l/>
+               <l>PRACTICAL PROBLEMS SOLVED BY SLIDE RULE</l>
+               <l/>
+               <l/>
+               <l>1. Discount.</l>
+               <l>A firm buys a typewriter with a list price of $150, subject to a</l>
+               <l>discount of 20% and 10%. How much does it pay?</l>
+               <l/>
+               <l>A discount of 20% means 0.8 of the list price, and 10% more means</l>
+               <l>0.8 X 0.9 X 150 = 108.</l>
+               <l/>
+               <l>To do this on the slide rule, put the index of the C scale opposite 8 on</l>
+               <l>the D scale and move the indicator to 9 on the C scale. Then move the</l>
+               <l>slider till the right-hand index of the C scale is under the hairline.</l>
+               <l>Now, move the indicator to 150 on the C scale and read the answer $108</l>
+               <l>on the D scale. Notice that in this, as in many practical problems,</l>
+               <l>there is no question about where the decimal point should go.</l>
+               <l/>
+               <l/>
+               <l>2. Sales Tax.</l>
+               <l/>
+               <l>A man buys an article worth $12 and he must pay a sales tax of 1.5%. How</l>
+               <l>much does he pay? A tax of 1.5% means he must pay 1.015 * 12.00.</l>
+               <l/>
+               <l>Set index of C scale at 1.015 on D scale. Move indicator to 12 on C</l>
+               <l>scale and read the answer $12.18 on the D scale.</l>
+               <l/>
+               <l>A longer but more accurate way is to multiply 12 * .015 and add the</l>
+               <l>result to $12.</l>
+               <l/>
+               <l/>
+               <l>3. Unit Price.</l>
+               <l/>
+               <l>A motorist buys 17 gallons of gas at 19.5 cents per gallon. How much</l>
+               <l>does he pay?</l>
+               <l/>
+               <l>Set index of C scale at 17 on D scale and move indicator to 19.5 on C</l>
+               <l>scale and read the answer $3.32 on the D scale.</l>
+               <l/>
+               <l/>
+               <l>4. Gasoline Mileage.</l>
+               <l/>
+               <l>An automobile goes 175 miles on 12 gallons of gas. What is the average</l>
+               <l>gasoline consumption?</l>
+               <l/>
+               <l>Set indicator over 175 on D scale and move slider till 12 is under</l>
+               <l>hair-line. Read the answer 14.6 miles per gallon on the D scale under</l>
+               <l>the left-hand index of the C scale.</l>
+               <l/>
+               <l/>
+               <l>5. Average Speed.</l>
+               <l/>
+               <l>A motorist makes a trip of 256 miles in 7.5 hours. What is his average</l>
+               <l>speed?</l>
+               <l/>
+               <l>Set indicator over 256 on D scale. Move slider till 7.5 on the C scale</l>
+               <l>is under the hair-line. Read the answer 34.2 miles per hour under the</l>
+               <l>right-hand index of the C scale.</l>
+               <l/>
+               <l/>
+               <l>6. Decimal Parts of an Inch.</l>
+               <l/>
+               <l>What is 5/16 of an inch expressed as decimal fraction?</l>
+               <l/>
+               <l>Set 16 on C scale over 5 on D scale and read the result .3125 inches on</l>
+               <l>the D scale under the left-hand index of the C scale.</l>
+               <l/>
+               <l/>
+               <l>7. Physics.</l>
+               <l/>
+               <l>A certain quantity of gas occupies 1200 cubic centimeters at a</l>
+               <l>temperature of 15 degrees C and 740 millimeters pressure. What volume</l>
+               <l>does it occupy at 0 degrees C and 760 millimeters pressure?</l>
+               <l/>
+               <l>Volume = 1200 X (740/760) * (273/288) = 1100 cubic cm.</l>
+               <l/>
+               <l>Set 760 on C scale over 12 on D scale. Move indicator to 740 on C scale.</l>
+               <l>Move slider till 288 on C scale is under hair-line. Move indicator to</l>
+               <l>273 on C scale. Read answer, 1110, under hair-line on D scale.</l>
+               <l/>
+               <l/>
+               <l>8. Chemistry.</l>
+               <l/>
+               <l>How many grams of hydrogen are formed when 80 grams of zinc react with</l>
+               <l>sufficient hydrochloric acid to dissolve the metal?</l>
+               <l/>
+               <l>(80 / X ) = ( 65.4 / 2.01)</l>
+               <l/>
+               <l>Set 65.4 on C scale over 2.01 on D scale.</l>
+               <l>Read X = 2.46 grams under 80 on C scale.</l>
+               <l/>
+               <l/>
+               <l>In conclusion, we want to impress upon those to whom the slide rule is a</l>
+               <l>new method of doing their mathematical calculations, and also the</l>
+               <l>experienced operator of a slide rule, that if they will form a habit of,</l>
+               <l>and apply themselves to, using a slide rule at work, study, or during</l>
+               <l>recreations, they will be well rewarded in the saving of time and</l>
+               <l>energy. ALWAYS HAVE YOUR SLIDE RULE AND INSTRUCTION</l>
+               <l>BOOK WITH YOU, the same as you would a fountain pen or pencil.</l>
+               <l/>
+               <l>The present day wonders of the twentieth century prove that there is no</l>
+               <l>end to what an individual can accomplish--the same applies to the slide</l>
+               <l>rule.</l>
+               <l/>
+               <l>You will find after practice that you will be able to do many</l>
+               <l>specialized problems that are not outlined in this instruction book. It</l>
+               <l>depends entirely upon your ability to do what we advocate and to be</l>
+               <l>slide-rule conscious in all your mathematical problems.</l>
+               <l/>
+               <l/>
+               <l>CONVERSION FACTORS</l>
+               <l/>
+               <l>1. Length</l>
+               <l/>
+               <l>1 mile = 5280 feet =1760 yards</l>
+               <l/>
+               <l>1 inch = 2.54 centimeters</l>
+               <l/>
+               <l>1 meter = 39.37 inches</l>
+               <l/>
+               <l/>
+               <l>2. Weight (or Mass)</l>
+               <l/>
+               <l>1 pound = 16 ounces = 0.4536 kilograms</l>
+               <l/>
+               <l>1 kilogram = 2.2 pounds</l>
+               <l/>
+               <l>1 long ton = 2240 pounds</l>
+               <l/>
+               <l>1 short ton = 2000 pounds</l>
+               <l/>
+               <l/>
+               <l>3. Volume</l>
+               <l/>
+               <l>1 liquid quart = 0.945 litres</l>
+               <l/>
+               <l>1 litre = 1.06 liquid quarts</l>
+               <l/>
+               <l>1 U. S. gallon = 4 quarts = 231 cubic inches</l>
+               <l/>
+               <l/>
+               <l>4. Angular Measure</l>
+               <l/>
+               <l>3.14 radians = PI radians = 180 degrees</l>
+               <l/>
+               <l>1 radian = 57.30 degrees</l>
+               <l/>
+               <l/>
+               <l>5. Pressure</l>
+               <l/>
+               <l>760 millimeters of mercury = 14.7 pounds per square inch</l>
+               <l/>
+               <l/>
+               <l>6. Power</l>
+               <l/>
+               <l>1 horse power = 550 foot pounds per second = 746 watts</l>
+               <l/>
+               <l/>
+               <l>7. Miscellaneous</l>
+               <l/>
+               <l>60 miles per hour = 88 feet per second</l>
+               <l/>
+               <l>980 centimeters per second </l>
+            </lg>
+            <p rend="justify">per second<lb/>
+            </p>
+            <lg>
+               <l>= 32.2 feet per second per second</l>
+               <l>= acceleration of gravity.</l>
+               <l/>
+               <l>1 cubic foot of water weighs 62.4 pounds</l>
+               <l/>
+               <l>1 gallon of water weighs 8.34 pounds</l>
+               <l/>
+               <l/>
+               <l/>
+               <l>Printed in U. S. A.</l>
+               <l>INSTRUCTIONS FOR USING A SLIDE RULE</l>
+               <l>COPYRIGHTED BY W. STANLEY &amp; CO.</l>
+               <l>Commercial Trust Building, Philadelphia, Pa.</l>
+               <l/>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
